@@ -2,11 +2,34 @@ import os
 import json
 
 # Directorios base
-input_dir = "transformed_data"
-output_dir = "parameters_scrapper"
+input_dir = "../transformed_data"
+output_dir = "../parameters_scrapper"
 
 # Crear directorio de salida si no existe
 os.makedirs(output_dir, exist_ok=True)
+
+def transformar_combustible(data):
+    """
+    Transforma el tipo de combustible según las reglas especificadas.
+    """
+    if 'specs' in data:
+        specs = data['specs']
+        
+        # Transformar el combustible
+        if 'combustible' in specs:
+            combustible = specs['combustible']
+            if 'Gasolina' in combustible:
+                specs['combustible'] = 'gasoline'
+            elif 'Gasóleo' in combustible:
+                specs['combustible'] = 'gasoil'
+        
+        # Verificar el distintivo ambiental y asignar combustible 'electric-hybrid'
+        if 'Distintivo ambiental DGT' in specs:
+            distintivo = specs['Distintivo ambiental DGT']
+            if '0 emisiones' in distintivo or 'ECO' in distintivo:
+                specs['combustible'] = 'electric-hybrid'
+
+    return data
 
 def process_json(file_path, brand):
     """
@@ -15,6 +38,9 @@ def process_json(file_path, brand):
     try:
         with open(file_path, 'r') as file:
             data = json.load(file)
+        
+        # Aplicar la transformación del combustible
+        data = transformar_combustible(data)
         
         # Extraer datos
         model = data.get("name")
