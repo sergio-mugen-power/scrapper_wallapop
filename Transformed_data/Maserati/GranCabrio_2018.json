@@ -1,11 +1,12 @@
 {
+    "brand": "Maserati",
     "name": "GranCabrio",
     "year": "2018",
     "url": "https://www.km77.com/coches/maserati/grancabrio/2018/estandar",
     "price": "Desde 209.600 €",
     "versions": [
         {
-            "name": "GranCabrio Sport",
+            "name": "Sport",
             "start_year": "2017",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/maserati/grancabrio/2018/estandar/sport/grancabrio-sport/datos",
@@ -241,7 +242,7 @@
             ]
         },
         {
-            "name": "GranCabrio MC",
+            "name": "MC",
             "start_year": "2017",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/maserati/grancabrio/2018/estandar/mc/grancabrio-mc/datos",

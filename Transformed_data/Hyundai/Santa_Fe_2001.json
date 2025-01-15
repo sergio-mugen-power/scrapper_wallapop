@@ -1,11 +1,12 @@
 {
+    "brand": "Hyundai",
     "name": "Santa Fe",
     "year": "2001",
     "url": "https://www.km77.com/coches/hyundai/santa-fe/2001/estandar",
     "price": "Desde 58.020 €",
     "versions": [
         {
-            "name": "Santa Fe 2.4 GLS 4x2",
+            "name": "2.4 GLS 4x2",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2001/estandar/gls/santa-fe-24-gls-4x2/datos",
@@ -184,7 +185,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.4 GLS",
+            "name": "2.4 GLS",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2001/estandar/gls/santa-fe-24-gls/datos",
@@ -365,7 +366,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.7 GLS",
+            "name": "2.7 GLS",
             "start_year": "2001",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2001/estandar/gls/santa-fe-27-gls/datos",
@@ -503,7 +504,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.0 CRDi VGT Comfort",
+            "name": "2.0 CRDi VGT Comfort",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2001/estandar/comfort/santa-fe-20-crdi-vgt-comfort/datos",
@@ -677,7 +678,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.0 CRDi GLS",
+            "name": "2.0 CRDi GLS",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2001/estandar/gls/santa-fe-20-crdi-gls/datos",
@@ -859,7 +860,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.0 CRDi VGT Style",
+            "name": "2.0 CRDi VGT Style",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2001/estandar/style/santa-fe-20-crdi-vgt-style/datos",
@@ -1033,7 +1034,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.7 Style Aut.",
+            "name": "2.7 Style Aut.",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2001/estandar/style/santa-fe-27-style-aut/datos",
@@ -1207,7 +1208,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.0 CRDi GLS Aut.",
+            "name": "2.0 CRDi GLS Aut.",
             "start_year": "2003",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2001/estandar/gls/santa-fe-20-crdi-gls-aut/datos",
@@ -1388,7 +1389,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.0 CRDi VGT Style Aut.",
+            "name": "2.0 CRDi VGT Style Aut.",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2001/estandar/style/santa-fe-20-crdi-vgt-style-aut/datos",
@@ -1562,7 +1563,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.7 GLS Full",
+            "name": "2.7 GLS Full",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2001/estandar/gls-full/santa-fe-27-gls-full/datos",

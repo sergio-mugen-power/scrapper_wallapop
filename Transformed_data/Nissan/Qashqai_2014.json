@@ -1,11 +1,12 @@
 {
+    "brand": "Nissan",
     "name": "Qashqai",
     "year": "2014",
     "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar",
     "price": "Desde 27.400 €",
     "versions": [
         {
-            "name": "Qashqai 4x2 DIG-T 115 CV Visia",
+            "name": "4x2 DIG-T 115 CV Visia",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/visia/qashqai-2014/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 DIG-T 85 kW (115 CV) Visia",
+            "name": "4x2 DIG-T 85 kW (115 CV) Visia",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/visia/qashqai-4x2-dig-t-115-cv-visia/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 DIG-T 115 CV Acenta",
+            "name": "4x2 DIG-T 115 CV Acenta",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/acenta/qashqai-12i-dig-t-115cv-stopstart-4x2-acenta/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 DIG-T 115 CV XTRONIC Visia",
+            "name": "4x2 DIG-T 115 CV XTRONIC Visia",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/visia/qashqai-4x2-dig-t-115-cv-xtronic-visia/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 DIG-T 85 kW (115 CV) Acenta",
+            "name": "4x2 DIG-T 85 kW (115 CV) Acenta",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/acenta/qashqai-4x2-dig-t-115-cv-acenta/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 81 kW (110 CV) Visia",
+            "name": "4x2 dCi 81 kW (110 CV) Visia",
             "start_year": "2013",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/visia/qashqai-15-dci-110-cv-stopstart-4x2-visia/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 DIG-T 120 kW (163 CV) Visia",
+            "name": "4x2 DIG-T 120 kW (163 CV) Visia",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/visia/qashqai-4x2-dig-t-163-cv-visia/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 DIG-T 85 KW (115 CV) XTRONIC Visia",
+            "name": "4x2 DIG-T 85 KW (115 CV) XTRONIC Visia",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/visia/qashqai-4x2-dig-t-115-cv-xtronic-visia2/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 DIG-T 115 CV XTRONIC Acenta",
+            "name": "4x2 DIG-T 115 CV XTRONIC Acenta",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/acenta/qashqai-4x2-dig-t-115-cv-xtronic-acenta/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 DIG-T 115 CV 360",
+            "name": "4x2 DIG-T 115 CV 360",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/360/qashqai-4x2-dig-t-115-cv-360/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.2i DIG-T 115 CV Stop&Start 4X2 N-TEC",
+            "name": "1.2i DIG-T 115 CV Stop&Start 4X2 N-TEC",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/n-tec/qashqai-12i-dig-t-115cv-stopstart-4x2-n-tec/datos",
@@ -313,7 +314,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 81 kW (110 CV) Acenta",
+            "name": "4x2 dCi 81 kW (110 CV) Acenta",
             "start_year": "2013",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/acenta/qashqai-15-dci-110-cv-stopstart-4x2-acenta/datos",
@@ -341,7 +342,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 DIG-T 85 kW (115 CV) XTRONIC Acenta",
+            "name": "4x2 DIG-T 85 kW (115 CV) XTRONIC Acenta",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/acenta/qashqai-4x2-dig-t-115-cv-xtronic-acenta2/datos",
@@ -369,7 +370,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 DIG-T 120 kW (163 CV) Acenta",
+            "name": "4x2 DIG-T 120 kW (163 CV) Acenta",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/acenta/qashqai-4x2-dig-t-163-cv-acenta/datos",
@@ -397,7 +398,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 96 kW (130 CV) Visia",
+            "name": "4x2 dCi 96 kW (130 CV) Visia",
             "start_year": "2013",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/visia/qashqai-16-dci-130-cv-stopstart-4x2-visia/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 DIG-T 85 kW (115 CV) N-Connecta",
+            "name": "4x2 DIG-T 85 kW (115 CV) N-Connecta",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/n-connecta/qashqai-4x2-dig-t-115-cv-n-connecta/datos",
@@ -453,7 +454,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 110 CV 360",
+            "name": "4x2 dCi 110 CV 360",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/360/qashqai-4x2-dci-110-cv-360/datos",
@@ -481,7 +482,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 DIG-T 115 CV XTRONIC 360",
+            "name": "4x2 DIG-T 115 CV XTRONIC 360",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/360/qashqai-4x2-dig-t-115-cv-xtronic-360/datos",
@@ -509,7 +510,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 DIG-T 163 CV 360",
+            "name": "4x2 DIG-T 163 CV 360",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/360/qashqai-4x2-dig-t-163-cv-360/datos",
@@ -537,7 +538,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 130 CV XTRONIC Visia",
+            "name": "4x2 dCi 130 CV XTRONIC Visia",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/visia/qashqai-4x2-dci-130-cv-xtronic-visia/datos",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 130 CV XTRONIC Visia",
+            "name": "4x2 dCi 130 CV XTRONIC Visia",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/visia/qashqai-16-dci-130-cv-stopstart-4x2-visia-xtronic-cvt/datos",
@@ -593,7 +594,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.5 dCi 110 CV Stop&Start 4X2 N-TEC",
+            "name": "1.5 dCi 110 CV Stop&Start 4X2 N-TEC",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/n-tec/qashqai-15-dci-110-cv-stopstart-4x2-n-tec/datos",
@@ -621,7 +622,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.2i DIG-T 115 CV Stop&Start 4X2 Tekna",
+            "name": "1.2i DIG-T 115 CV Stop&Start 4X2 Tekna",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/tekna/qashqai-12i-dig-t-115cv-stopstart-4x2-tekna/datos",
@@ -649,7 +650,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 96 kW (130 CV) Acenta",
+            "name": "4x2 dCi 96 kW (130 CV) Acenta",
             "start_year": "2013",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/acenta/qashqai-16-dci-130-cv-stopstart-4x2-acenta/datos",
@@ -677,7 +678,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 DIG-T 85 kW (115 CV) N-Vision",
+            "name": "4x2 DIG-T 85 kW (115 CV) N-Vision",
             "start_year": "2017",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/n-vision/qashqai-4x2-dig-t-85-kw-115-cv-n-vision/datos",
@@ -705,7 +706,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 DIG-T 115 CV Tekna Premium",
+            "name": "4x2 DIG-T 115 CV Tekna Premium",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/tekna-premium/qashqai-4x2-dig-t-115-cv-tekna-premium/datos",
@@ -733,7 +734,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 96 kW (130 CV) XTRONIC Visia",
+            "name": "4x2 dCi 96 kW (130 CV) XTRONIC Visia",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/visia/qashqai-4x2-dci-130-cv-xtronic-visia2/datos",
@@ -761,7 +762,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 81 kW (110 CV) N-Connecta",
+            "name": "4x2 dCi 81 kW (110 CV) N-Connecta",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/n-connecta/qashqai-4x2-dci-110-cv-n-connecta/datos",
@@ -789,7 +790,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 DIG-T 85 kW (115 CV) XTRONIC N-Connecta",
+            "name": "4x2 DIG-T 85 kW (115 CV) XTRONIC N-Connecta",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/n-connecta/qashqai-4x2-dig-t-115-cv-xtronic-n-connecta/datos",
@@ -817,7 +818,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 DIG-T 120 kW (163 CV) N-Connecta",
+            "name": "4x2 DIG-T 120 kW (163 CV) N-Connecta",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/n-connecta/qashqai-4x2-dig-t-163-cv-n-connecta/datos",
@@ -845,7 +846,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 130 CV XTRONIC Acenta",
+            "name": "4x2 dCi 130 CV XTRONIC Acenta",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/acenta/qashqai-4x2-dci-130-cv-xtronic-acenta/datos",
@@ -873,7 +874,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 130 CV 360",
+            "name": "4x2 dCi 130 CV 360",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/360/qashqai-4x2-dci-130-cv-360/datos",
@@ -901,7 +902,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 130 CV XTRONIC Acenta",
+            "name": "4x2 dCi 130 CV XTRONIC Acenta",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/acenta/qashqai-16-dci-130-cv-stopstart-4x2-acenta-xtronic-cvt/datos",
@@ -929,7 +930,7 @@
             ]
         },
         {
-            "name": "Qashqai All Mode 4X4-i dCi 96 kW (130 CV) Visia",
+            "name": "All Mode 4X4-i dCi 96 kW (130 CV) Visia",
             "start_year": "2013",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/visia/qashqai-16-dci-130-cv-stopstart-all-mode-4x4-i-visia/datos",
@@ -957,7 +958,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.6 dCi 130 CV Stop&Start 4X2 N-TEC",
+            "name": "1.6 dCi 130 CV Stop&Start 4X2 N-TEC",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/n-tec/qashqai-16-dci-130-cv-stopstart-4x2-n-tec/datos",
@@ -985,7 +986,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.5 dCi 110 CV Stop&Start 4X2 Tekna",
+            "name": "1.5 dCi 110 CV Stop&Start 4X2 Tekna",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/tekna/qashqai-15-dci-110-cv-stopstart-4x2-tekna/datos",
@@ -1013,7 +1014,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 DIG-T 85 kW (115 CV) Tekna",
+            "name": "4x2 DIG-T 85 kW (115 CV) Tekna",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/tekna/qashqai-4x2-dig-t-115-cv-tekna/datos",
@@ -1041,7 +1042,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 81 kW (110 CV) N-Vision",
+            "name": "4x2 dCi 81 kW (110 CV) N-Vision",
             "start_year": "2017",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/n-vision/qashqai-4x2-dci-81-kw-110-cv-n-vision/datos",
@@ -1069,7 +1070,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 96 kW (130 CV) XTRONIC Acenta",
+            "name": "4x2 dCi 96 kW (130 CV) XTRONIC Acenta",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/acenta/qashqai-4x2-dci-130-cv-xtronic-acenta2/datos",
@@ -1097,7 +1098,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 110 CV Tekna Premium",
+            "name": "4x2 dCi 110 CV Tekna Premium",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/tekna-premium/qashqai-4x2-dci-110-cv-tekna-premium/datos",
@@ -1125,7 +1126,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 DIG-T 85 kW (115 CV) XTRONIC N-Vision",
+            "name": "4x2 DIG-T 85 kW (115 CV) XTRONIC N-Vision",
             "start_year": "2017",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/n-vision/qashqai-4x2-dig-t-85-kw-115-cv-xtronic-n-vision/datos",
@@ -1153,7 +1154,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 DIG-T 120 kW (163 CV) N-Vision",
+            "name": "4x2 DIG-T 120 kW (163 CV) N-Vision",
             "start_year": "2017",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/n-vision/qashqai-4x2-dig-t-120-kw-163-cv-n-vision/datos",
@@ -1181,7 +1182,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 DIG-T 115 CV XTRONIC Tekna Premium",
+            "name": "4x2 DIG-T 115 CV XTRONIC Tekna Premium",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/tekna-premium/qashqai-4x2-dig-t-115-cv-xtronic-tekna-premium/datos",
@@ -1209,7 +1210,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 DIG-T 163 CV Tekna Premium",
+            "name": "4x2 DIG-T 163 CV Tekna Premium",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/tekna-premium/qashqai-4x2-dig-t-163-cv-tekna-premium/datos",
@@ -1237,7 +1238,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 96 kW (130 CV) N-Connecta",
+            "name": "4x2 dCi 96 kW (130 CV) N-Connecta",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/n-connecta/qashqai-4x2-dci-130-cv-n-connecta/datos",
@@ -1265,7 +1266,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.6 dCi 130 CV Stop&Start 4X2 N-TEC XTRONIC CVT",
+            "name": "1.6 dCi 130 CV Stop&Start 4X2 N-TEC XTRONIC CVT",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/n-tec/qashqai-16-dci-130-cv-stopstart-4x2-n-tec-xtronic-cvt/datos",
@@ -1293,7 +1294,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 130 CV XTRONIC 360",
+            "name": "4x2 dCi 130 CV XTRONIC 360",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/360/qashqai-4x2-dci-130-cv-xtronic-3602/datos",
@@ -1321,7 +1322,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 130 CV XTRONIC 360",
+            "name": "4x2 dCi 130 CV XTRONIC 360",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/360/qashqai-4x2-dci-130-cv-xtronic-360/datos",
@@ -1349,7 +1350,7 @@
             ]
         },
         {
-            "name": "Qashqai All Mode 4X4-i dCi 96 kW (130 CV) Acenta",
+            "name": "All Mode 4X4-i dCi 96 kW (130 CV) Acenta",
             "start_year": "2013",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/acenta/qashqai-16-dci-130-cv-stopstart-all-mode-4x4-i-acenta/datos",
@@ -1377,7 +1378,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.6 dCi 130 CV Stop&Start 4X2 Tekna",
+            "name": "1.6 dCi 130 CV Stop&Start 4X2 Tekna",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/tekna/qashqai-16-dci-130-cv-stopstart-4x2-tekna/datos",
@@ -1405,7 +1406,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 81 kW (110 CV) Tekna",
+            "name": "4x2 dCi 81 kW (110 CV) Tekna",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/tekna/qashqai-4x2-dci-110-cv-tekna/datos",
@@ -1433,7 +1434,7 @@
             ]
         },
         {
-            "name": "Qashqai All Mode 4X4-i dCi 130 CV 360",
+            "name": "All Mode 4X4-i dCi 130 CV 360",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/360/qashqai-all-mode-4x4-i-dci-130-cv-360/datos",
@@ -1461,7 +1462,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 DIG-T 85 kW (115 CV) XTRONIC Tekna",
+            "name": "4x2 DIG-T 85 kW (115 CV) XTRONIC Tekna",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/tekna/qashqai-4x2-dig-t-115-cv-xtronic-tekna/datos",
@@ -1489,7 +1490,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 DIG-T 120 kW (163 CV) Tekna",
+            "name": "4x2 DIG-T 120 kW (163 CV) Tekna",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/tekna/qashqai-4x2-dig-t-163-cv-tekna/datos",
@@ -1517,7 +1518,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 96 kW (130 CV) N-Vision",
+            "name": "4x2 dCi 96 kW (130 CV) N-Vision",
             "start_year": "2017",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/n-vision/qashqai-4x2-dci-96-kw-130-cv-n-vision/datos",
@@ -1545,7 +1546,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 130 CV Tekna Premium",
+            "name": "4x2 dCi 130 CV Tekna Premium",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/tekna-premium/qashqai-4x2-dci-130-cv-tekna-premium/datos",
@@ -1573,7 +1574,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.6 dCi 130 CV Stop&Start All Mode 4X4-i N-TEC",
+            "name": "1.6 dCi 130 CV Stop&Start All Mode 4X4-i N-TEC",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/n-tec/qashqai-16-dci-130-cv-stopstart-all-mode-4x4-i-n-tec/datos",
@@ -1601,7 +1602,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 96 kW (130 CV) XTRONIC N-Connecta",
+            "name": "4x2 dCi 96 kW (130 CV) XTRONIC N-Connecta",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/n-connecta/qashqai-4x2-dci-130-cv-xtronic-n-connecta/datos",
@@ -1629,7 +1630,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.6 dCi 130 CV Stop&Start 4X2 Tekna XTRONIC CVT",
+            "name": "1.6 dCi 130 CV Stop&Start 4X2 Tekna XTRONIC CVT",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/tekna/qashqai-16-dci-130-cv-stopstart-4x2-tekna-xtronic-cvt/datos",
@@ -1657,7 +1658,7 @@
             ]
         },
         {
-            "name": "Qashqai All Mode 4X4-i dCi 96 kW (130 CV) N-Connecta",
+            "name": "All Mode 4X4-i dCi 96 kW (130 CV) N-Connecta",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/n-connecta/qashqai-all-mode-4x4-i-dci-130-cv-n-connecta/datos",
@@ -1685,7 +1686,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 96 kW (130 CV) Tekna",
+            "name": "4x2 dCi 96 kW (130 CV) Tekna",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/tekna/qashqai-4x2-dci-130-cv-tekna/datos",
@@ -1713,7 +1714,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 96 kW (130 CV) XTRONIC N-Vision",
+            "name": "4x2 dCi 96 kW (130 CV) XTRONIC N-Vision",
             "start_year": "2017",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/n-vision/qashqai-4x2-dci-96-kw-130-cv-xtronic-n-vision/datos",
@@ -1741,7 +1742,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 130 CV XTRONIC Tekna Premium",
+            "name": "4x2 dCi 130 CV XTRONIC Tekna Premium",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/tekna-premium/qashqai-4x2-dci-130-cv-xtronic-tekna-premium2/datos",
@@ -1769,7 +1770,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.6 dCi 130 CV Stop&Start All Mode 4X4-i Tekna",
+            "name": "1.6 dCi 130 CV Stop&Start All Mode 4X4-i Tekna",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/tekna/qashqai-16-dci-130-cv-stopstart-all-mode-4x4-i-tekna/datos",
@@ -1797,7 +1798,7 @@
             ]
         },
         {
-            "name": "Qashqai All Mode 4X4-i dCi 96 kW (130 CV) N-Vision",
+            "name": "All Mode 4X4-i dCi 96 kW (130 CV) N-Vision",
             "start_year": "2017",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/n-vision/qashqai-all-mode-4x4-i-dci-96-kw-130-cv-n-vision/datos",
@@ -1825,7 +1826,7 @@
             ]
         },
         {
-            "name": "Qashqai All Mode 4X4-i dCi 130 CV Tekna Premium",
+            "name": "All Mode 4X4-i dCi 130 CV Tekna Premium",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/tekna-premium/qashqai-all-mode-4x4-i-dci-130-cv-tekna-premium/datos",
@@ -1853,7 +1854,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 96 kW (130 CV) Black Edition",
+            "name": "4x2 dCi 96 kW (130 CV) Black Edition",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/black-edition/qashqai-4x2-dci-130-cv-black-edition/datos",
@@ -1881,7 +1882,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.6 dCi 130 CV Stop&Start All Mode 4X4-i Premier Limited Edition",
+            "name": "1.6 dCi 130 CV Stop&Start All Mode 4X4-i Premier Limited Edition",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/premier-limited-edition/qashqai-16-dci-130-cv-stopstart-all-mode-4x4-i-premier-limited-edition/datos",
@@ -1909,7 +1910,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 96 kW (130 CV) XTRONIC Tekna",
+            "name": "4x2 dCi 96 kW (130 CV) XTRONIC Tekna",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/tekna/qashqai-4x2-dci-130-cv-xtronic-tekna/datos",
@@ -1937,7 +1938,7 @@
             ]
         },
         {
-            "name": "Qashqai All Mode 4X4-i dCi 96 kW (130 CV) Tekna",
+            "name": "All Mode 4X4-i dCi 96 kW (130 CV) Tekna",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/tekna/qashqai-all-mode-4x4-i-dci-130-cv-tekna/datos",
@@ -1965,7 +1966,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 dCi 96 kW (130 CV) XTRONIC Black Edition",
+            "name": "4x2 dCi 96 kW (130 CV) XTRONIC Black Edition",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/black-edition/qashqai-4x2-dci-130-cv-xtronic-black-edition/datos",
@@ -1993,7 +1994,7 @@
             ]
         },
         {
-            "name": "Qashqai All Mode 4X4-i dCi 96 kW (130 CV) Black Edition",
+            "name": "All Mode 4X4-i dCi 96 kW (130 CV) Black Edition",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/qashqai/2014/estandar/black-edition/qashqai-all-mode-4x4-i-dci-130-cv-black-edition/datos",

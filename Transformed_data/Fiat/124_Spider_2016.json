@@ -1,11 +1,12 @@
 {
+    "brand": "Fiat",
     "name": "124 Spider",
     "year": "2016",
     "url": "https://www.km77.com/coches/fiat/124-spider/2016/estandar",
     "price": "",
     "versions": [
         {
-            "name": "124 Spider 103 kW (140 CV)",
+            "name": "103 kW (140 CV)",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/fiat/124-spider/2016/estandar/estandar/124-spider-103-kw-140-cv/datos",
@@ -16,7 +17,7 @@
             "maletero": "140"
         },
         {
-            "name": "124 Spider Lusso 103 kW (140 CV)",
+            "name": "Lusso 103 kW (140 CV)",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/fiat/124-spider/2016/estandar/lusso/124-spider-lusso/datos",
@@ -27,7 +28,7 @@
             "maletero": "140"
         },
         {
-            "name": "124 Spider Lusso 103 kW (140 CV) Aut.",
+            "name": "Lusso 103 kW (140 CV) Aut.",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/fiat/124-spider/2016/estandar/lusso/124-spider-lusso-140-cv-aut/datos",
@@ -38,7 +39,7 @@
             "maletero": "140"
         },
         {
-            "name": "124 Spider S-Design 103 kW (140 CV)",
+            "name": "S-Design 103 kW (140 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/fiat/124-spider/2016/estandar/s-design/124-spider-s-design-103-kw-140-cv/datos",
@@ -49,7 +50,7 @@
             "maletero": "140"
         },
         {
-            "name": "124 Spider America 103 kW (140 CV)",
+            "name": "America 103 kW (140 CV)",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/fiat/124-spider/2016/estandar/america/124-spider-america-103-kw-140-cv/datos",
@@ -60,7 +61,7 @@
             "maletero": "140"
         },
         {
-            "name": "124 Spider Europa 103 kW (140 CV)",
+            "name": "Europa 103 kW (140 CV)",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/fiat/124-spider/2016/estandar/europa/124-spider-europa-103-kw-140-cv/datos",
@@ -71,7 +72,7 @@
             "maletero": "140"
         },
         {
-            "name": "124 Spider America 103 kW (140 CV) Aut.",
+            "name": "America 103 kW (140 CV) Aut.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/fiat/124-spider/2016/estandar/america/124-spider-america-103-kw-140-cv-aut/datos",
@@ -82,7 +83,7 @@
             "maletero": "140"
         },
         {
-            "name": "124 Spider Europa 103 kW (140 CV) Aut.",
+            "name": "Europa 103 kW (140 CV) Aut.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/fiat/124-spider/2016/estandar/europa/124-spider-europa-103-kw-140-cv-aut/datos",

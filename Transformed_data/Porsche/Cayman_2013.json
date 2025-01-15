@@ -1,11 +1,12 @@
 {
+    "brand": "Porsche",
     "name": "Cayman",
     "year": "2013",
     "url": "https://www.km77.com/coches/porsche/cayman/2013/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Cayman",
+            "name": "",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/porsche/cayman/2013/estandar/estandar/cayman/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Cayman",
+            "name": "",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/porsche/cayman/2013/estandar/estandar/cayman2/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Cayman PDK",
+            "name": "PDK",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/porsche/cayman/2013/estandar/estandar/cayman-pdk/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Cayman PDK",
+            "name": "PDK",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/porsche/cayman/2013/estandar/estandar/cayman-pdk2/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "Cayman S",
+            "name": "S",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/porsche/cayman/2013/estandar/s/cayman-s/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Cayman S",
+            "name": "S",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/porsche/cayman/2013/estandar/s/cayman-s2/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "Cayman S PDK",
+            "name": "S PDK",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/porsche/cayman/2013/estandar/s/cayman-s-pdk/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "Cayman S PDK",
+            "name": "S PDK",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/porsche/cayman/2013/estandar/s/cayman-s-pdk2/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "Cayman GTS PDK",
+            "name": "GTS PDK",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/porsche/cayman/2013/estandar/gts/cayman-gts-pdk/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "Cayman GTS",
+            "name": "GTS",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/porsche/cayman/2013/estandar/gts/cayman-gts/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "Cayman GT4",
+            "name": "GT4",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/porsche/cayman/2013/estandar/gt4/cayman-gt4/datos",

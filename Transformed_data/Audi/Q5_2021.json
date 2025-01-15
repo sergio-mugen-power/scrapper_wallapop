@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "Q5",
     "year": "2021",
     "url": "https://www.km77.com/coches/audi/q5/2021/estandar",
     "price": "Desde 63.910 €",
     "versions": [
         {
-            "name": "Q5 35 TDI S tronic",
+            "name": "35 TDI S tronic",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/audi/q5/2021/estandar/estandar/q5-35-tdi-s-tronic/datos",
@@ -326,7 +327,7 @@
             ]
         },
         {
-            "name": "Q5 40 TDI quattro-ultra S tronic",
+            "name": "40 TDI quattro-ultra S tronic",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/audi/q5/2021/estandar/estandar/q5-40-tdi-quattro-ultra-s-tronic/datos",
@@ -666,7 +667,7 @@
             ]
         },
         {
-            "name": "Q5 Advanced 35 TDI S tronic",
+            "name": "Advanced 35 TDI S tronic",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/audi/q5/2021/estandar/estandar/q5-advanced-35-tdi-s-tronic/datos",
@@ -963,7 +964,7 @@
             ]
         },
         {
-            "name": "Q5 S line 35 TDI S tronic",
+            "name": "S line 35 TDI S tronic",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/audi/q5/2021/estandar/estandar/q5-s-line-35-tdi-s-tronic/datos",
@@ -1274,7 +1275,7 @@
             ]
         },
         {
-            "name": "Q5 45 TFSI quattro-ultra S tronic",
+            "name": "45 TFSI quattro-ultra S tronic",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/audi/q5/2021/estandar/estandar/q5-45-tfsi-quattro-ultra-s-tronic/datos",
@@ -1619,7 +1620,7 @@
             ]
         },
         {
-            "name": "Q5 50 TFSIe quattro-ultra S tronic",
+            "name": "50 TFSIe quattro-ultra S tronic",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/audi/q5/2021/estandar/tfsie/q5-50-tfsie-quattro-ultra-s-tronic2/datos",
@@ -1957,7 +1958,7 @@
             ]
         },
         {
-            "name": "Q5 Advanced 40 TDI quattro-ultra S tronic",
+            "name": "Advanced 40 TDI quattro-ultra S tronic",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/audi/q5/2021/estandar/estandar/q5-advanced-40-tdi-quattro-ultra-s-tronic/datos",
@@ -2255,7 +2256,7 @@
             ]
         },
         {
-            "name": "Q5 S line 40 TDI quattro-ultra S tronic",
+            "name": "S line 40 TDI quattro-ultra S tronic",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/audi/q5/2021/estandar/estandar/q5-s-line-40-tdi-quattro-ultra-s-tronic/datos",
@@ -2572,7 +2573,7 @@
             ]
         },
         {
-            "name": "Q5 Advanced 50 TFSIe quattro-ultra S tronic",
+            "name": "Advanced 50 TFSIe quattro-ultra S tronic",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/audi/q5/2021/estandar/tfsie/q5-advanced-50-tfsie-quattro-ultra-s-tronic/datos",
@@ -2881,7 +2882,7 @@
             ]
         },
         {
-            "name": "Q5 Advanced 45 TFSI quattro-ultra S tronic",
+            "name": "Advanced 45 TFSI quattro-ultra S tronic",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/audi/q5/2021/estandar/estandar/q5-advanced-45-tfsi-quattro-ultra-s-tronic/datos",
@@ -3179,7 +3180,7 @@
             ]
         },
         {
-            "name": "Q5 S line 50 TFSIe quattro-ultra S tronic",
+            "name": "S line 50 TFSIe quattro-ultra S tronic",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/audi/q5/2021/estandar/tfsie/q5-s-line-50-tfsie-quattro-ultra-s-tronic/datos",
@@ -3502,7 +3503,7 @@
             ]
         },
         {
-            "name": "Q5 S line 45 TFSI quattro-ultra S tronic",
+            "name": "S line 45 TFSI quattro-ultra S tronic",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/audi/q5/2021/estandar/estandar/q5-s-line-45-tfsi-quattro-ultra-s-tronic/datos",
@@ -3819,7 +3820,7 @@
             ]
         },
         {
-            "name": "Q5 S line 55 TFSIe quattro-ultra S tronic",
+            "name": "S line 55 TFSIe quattro-ultra S tronic",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/audi/q5/2021/estandar/tfsie/q5-s-line-55-tfsie-quattro-ultra-s-tronic/datos",
@@ -4142,7 +4143,7 @@
             ]
         },
         {
-            "name": "SQ5 TDI quattro",
+            "name": "S TDI quattro",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/audi/q5/2021/estandar/sq5/sq5-tdi/datos",

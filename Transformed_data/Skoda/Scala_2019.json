@@ -1,11 +1,12 @@
 {
+    "brand": "Skoda",
     "name": "Scala",
     "year": "2019",
     "url": "https://www.km77.com/coches/skoda/scala/2019/estandar",
     "price": "Desde 24.950 €",
     "versions": [
         {
-            "name": "Scala 1.0 TSI 70 kW (95 CV) Active",
+            "name": "1.0 TSI 70 kW (95 CV) Active",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/active/scala-10-tsi-70-kw-95-cv-active2/datos",
@@ -198,7 +199,7 @@
             ]
         },
         {
-            "name": "Scala 1.0 TSI 85 kW (115 CV) Active",
+            "name": "1.0 TSI 85 kW (115 CV) Active",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/active/scala-10-tsi-85-kw-115-cv-active/datos",
@@ -392,7 +393,7 @@
             ]
         },
         {
-            "name": "Scala 1.0 TSI 70 kW (95 CV) Ambition",
+            "name": "1.0 TSI 70 kW (95 CV) Ambition",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/ambition/scala-10-tsi-70-kw-95-cv-ambition2/datos",
@@ -657,7 +658,7 @@
             ]
         },
         {
-            "name": "Scala 1.0 TSI 85 kW (115 CV) Ambition",
+            "name": "1.0 TSI 85 kW (115 CV) Ambition",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/ambition/scala-10-tsi-85-kw-115-cv-ambition/datos",
@@ -923,7 +924,7 @@
             ]
         },
         {
-            "name": "Scala 1.6 TDI 85 kW (115 CV) Active",
+            "name": "1.6 TDI 85 kW (115 CV) Active",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/active/scala-16-tdi-85-kw-115-cv-active/datos",
@@ -1118,7 +1119,7 @@
             ]
         },
         {
-            "name": "Scala 1.5 TSI 110 kW (150 CV) DSG Ambition",
+            "name": "1.5 TSI 110 kW (150 CV) DSG Ambition",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/ambition/scala-15-tsi-110-kw-150-cv-dsg-ambition/datos",
@@ -1376,7 +1377,7 @@
             ]
         },
         {
-            "name": "Scala 1.0 TSI 85 kW (115 CV) Style",
+            "name": "1.0 TSI 85 kW (115 CV) Style",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/style/scala-10-tsi-85-kw-115-cv-style/datos",
@@ -1640,7 +1641,7 @@
             ]
         },
         {
-            "name": "Scala 1.0 TSI 85 kW (115 CV) Sport",
+            "name": "1.0 TSI 85 kW (115 CV) Sport",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/sport/scala-10-tsi-85-kw-115-cv-sport/datos",
@@ -1905,7 +1906,7 @@
             ]
         },
         {
-            "name": "Scala 1.0 TSI 85 kW (115 CV) DSG Ambition",
+            "name": "1.0 TSI 85 kW (115 CV) DSG Ambition",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/ambition/scala-10-tsi-115-cv-dsg-7-vel/datos",
@@ -2170,7 +2171,7 @@
             ]
         },
         {
-            "name": "Scala 1.6 TDI 85 kW (115 CV) Ambition",
+            "name": "1.6 TDI 85 kW (115 CV) Ambition",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/ambition/scala-16-tdi-85-kw-115-cv-ambition/datos",
@@ -2434,7 +2435,7 @@
             ]
         },
         {
-            "name": "Scala 1.0 TSI 70 kW (95 CV) Active",
+            "name": "1.0 TSI 70 kW (95 CV) Active",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/active/scala-10-tsi-70-kw-95-cv-active3/datos",
@@ -2656,7 +2657,7 @@
             ]
         },
         {
-            "name": "Scala 1.5 TSI 110 kW (150 CV) DSG First Edition",
+            "name": "1.5 TSI 110 kW (150 CV) DSG First Edition",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/first-edition/scala-15-tsi-110-kw-150-cv-dsg-first-edition/datos",
@@ -2863,7 +2864,7 @@
             ]
         },
         {
-            "name": "Scala 1.0 TSI 85 kW (115 CV) DSG Style",
+            "name": "1.0 TSI 85 kW (115 CV) DSG Style",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/style/scala-10-tsi-85-kw-115-cv-dsg-style/datos",
@@ -3126,7 +3127,7 @@
             ]
         },
         {
-            "name": "Scala 1.0 TSI 85 kW (115 CV) DSG Sport",
+            "name": "1.0 TSI 85 kW (115 CV) DSG Sport",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/sport/scala-10-tsi-85-kw-115-cv-dsg-sport/datos",
@@ -3390,7 +3391,7 @@
             ]
         },
         {
-            "name": "Scala 1.6 TDI 85 kW (115 CV) DSG Sport",
+            "name": "1.6 TDI 85 kW (115 CV) DSG Sport",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/sport/scala-16-tdi-85-kw-115-cv-dsg-sport/datos",
@@ -3653,7 +3654,7 @@
             ]
         },
         {
-            "name": "Scala 1.6 TDI 85 kW (115 CV) Style",
+            "name": "1.6 TDI 85 kW (115 CV) Style",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/style/scala-16-tdi-85-kw-115-cv-style/datos",
@@ -3917,7 +3918,7 @@
             ]
         },
         {
-            "name": "Scala 1.6 TDI 85 kW (115 CV) Sport",
+            "name": "1.6 TDI 85 kW (115 CV) Sport",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/sport/scala-16-tdi-85-kw-115-cv-sport/datos",
@@ -4182,7 +4183,7 @@
             ]
         },
         {
-            "name": "Scala 1.0 TGI 66 kW (90 CV) Active",
+            "name": "1.0 TGI 66 kW (90 CV) Active",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/active/scala-10-tgi-66-kw-90-cv-active/datos",
@@ -4402,7 +4403,7 @@
             ]
         },
         {
-            "name": "Scala 1.6 TDI 85 kW (115 CV) DSG Ambition",
+            "name": "1.6 TDI 85 kW (115 CV) DSG Ambition",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/ambition/scala-16-tdi-85-kw-115-cv-dsg-ambition/datos",
@@ -4667,7 +4668,7 @@
             ]
         },
         {
-            "name": "Scala 1.0 TSI 70 kW (95 CV) Ambition",
+            "name": "1.0 TSI 70 kW (95 CV) Ambition",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/ambition/scala-10-tsi-70-kw-95-cv-ambition3/datos",
@@ -4936,7 +4937,7 @@
             ]
         },
         {
-            "name": "Scala 1.6 TDI 85 kW (115 CV) DSG Style",
+            "name": "1.6 TDI 85 kW (115 CV) DSG Style",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/style/scala-16-tdi-85-kw-115-cv-dsg-style/datos",
@@ -5199,7 +5200,7 @@
             ]
         },
         {
-            "name": "Scala 1.0 TSI 81 kW (110 CV) Active",
+            "name": "1.0 TSI 81 kW (110 CV) Active",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/active/scala-10-tsi-81-kw-110-cv-active/datos",
@@ -5420,7 +5421,7 @@
             ]
         },
         {
-            "name": "Scala 1.0 TGI 66 kW (90 CV) Style",
+            "name": "1.0 TGI 66 kW (90 CV) Style",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/style/scala-10-tgi-66-kw-90-cv-style/datos",
@@ -5692,7 +5693,7 @@
             ]
         },
         {
-            "name": "Scala 1.0 TGI 66 kW (90 CV) Ambition",
+            "name": "1.0 TGI 66 kW (90 CV) Ambition",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/ambition/scala-10-tgi-66-kw-90-cv-ambition/datos",
@@ -5959,7 +5960,7 @@
             ]
         },
         {
-            "name": "Scala 1.0 TSI 81 kW (110 CV) Ambition",
+            "name": "1.0 TSI 81 kW (110 CV) Ambition",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/ambition/scala-10-tsi-81-kw-110-cv-ambition/datos",
@@ -6225,7 +6226,7 @@
             ]
         },
         {
-            "name": "Scala 1.0 TSI 81 kW (110 CV) Style",
+            "name": "1.0 TSI 81 kW (110 CV) Style",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/style/scala-10-tsi-81-kw-110-cv-style/datos",
@@ -6491,7 +6492,7 @@
             ]
         },
         {
-            "name": "Scala 1.5 TSI 110 kW (150 CV) Style",
+            "name": "1.5 TSI 110 kW (150 CV) Style",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/style/scala-15-tsi-110-kw-150-cv-style2/datos",
@@ -6758,7 +6759,7 @@
             ]
         },
         {
-            "name": "Scala 1.5 TSI 110 kW (150 CV) Ambition",
+            "name": "1.5 TSI 110 kW (150 CV) Ambition",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/ambition/scala-15-tsi-110-kw-150-cv-ambition2/datos",
@@ -7025,7 +7026,7 @@
             ]
         },
         {
-            "name": "Scala 1.0 TSI 81 kW (110 CV) DSG Style",
+            "name": "1.0 TSI 81 kW (110 CV) DSG Style",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/style/scala-10-tsi-81-kw-110-cv-dsg-style/datos",
@@ -7292,7 +7293,7 @@
             ]
         },
         {
-            "name": "Scala 1.0 TSI 81 kW (110 CV) Sport",
+            "name": "1.0 TSI 81 kW (110 CV) Sport",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/sport/scala-10-tsi-81-kw-110-cv-sport/datos",
@@ -7554,7 +7555,7 @@
             ]
         },
         {
-            "name": "Scala 1.0 TSI 81 kW (110 CV) DSG Ambition",
+            "name": "1.0 TSI 81 kW (110 CV) DSG Ambition",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/ambition/scala-10-tsi-81-kw-110-cv-dsg-ambition/datos",
@@ -7821,7 +7822,7 @@
             ]
         },
         {
-            "name": "Scala 1.5 TSI 110 kW (150 CV) DSG Style",
+            "name": "1.5 TSI 110 kW (150 CV) DSG Style",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/style/scala-15-tsi-110-kw-150-cv-dsg-style2/datos",
@@ -8089,7 +8090,7 @@
             ]
         },
         {
-            "name": "Scala 1.5 TSI 110 kW (150 CV) Sport",
+            "name": "1.5 TSI 110 kW (150 CV) Sport",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/sport/scala-15-tsi-110-kw-150-cv-sport2/datos",
@@ -8352,7 +8353,7 @@
             ]
         },
         {
-            "name": "Scala 1.5 TSI 110 kW (150 CV) DSG Ambition",
+            "name": "1.5 TSI 110 kW (150 CV) DSG Ambition",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/ambition/scala-15-tsi-110-kw-150-cv-dsg-ambition4/datos",
@@ -8620,7 +8621,7 @@
             ]
         },
         {
-            "name": "Scala 1.0 TSI 81 kW (110 CV) DSG Sport",
+            "name": "1.0 TSI 81 kW (110 CV) DSG Sport",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/sport/scala-10-tsi-81-kw-110-cv-dsg-sport/datos",
@@ -8883,7 +8884,7 @@
             ]
         },
         {
-            "name": "Scala 1.5 TSI 110 kW (150 CV) Monte Carlo",
+            "name": "1.5 TSI 110 kW (150 CV) Monte Carlo",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/monte-carlo/scala-15-tsi-110-kw-150-cv-monte-carlo2/datos",
@@ -9139,7 +9140,7 @@
             ]
         },
         {
-            "name": "Scala 1.0 TSI 81 kW (110 CV) DSG Monte Carlo",
+            "name": "1.0 TSI 81 kW (110 CV) DSG Monte Carlo",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/monte-carlo/scala-10-tsi-81-kw-110-cv-dsg-monte-carlo/datos",
@@ -9395,7 +9396,7 @@
             ]
         },
         {
-            "name": "Scala 1.5 TSI 110 kW (150 CV) DSG Sport",
+            "name": "1.5 TSI 110 kW (150 CV) DSG Sport",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/sport/scala-15-tsi-110-kw-150-cv-dsg-sport2/datos",
@@ -9659,7 +9660,7 @@
             ]
         },
         {
-            "name": "Scala 1.5 TSI 110 kW (150 CV) DSG Monte Carlo",
+            "name": "1.5 TSI 110 kW (150 CV) DSG Monte Carlo",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/skoda/scala/2019/estandar/monte-carlo/scala-15-tsi-110-kw-150-cv-dsg-monte-carlo2/datos",

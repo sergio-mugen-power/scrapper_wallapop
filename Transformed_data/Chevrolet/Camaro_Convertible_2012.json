@@ -1,11 +1,12 @@
 {
+    "brand": "Chevrolet",
     "name": "Camaro Convertible",
     "year": "2012",
     "url": "https://www.km77.com/coches/chevrolet/camaro/2012/convertible",
     "price": "",
     "versions": [
         {
-            "name": "Camaro Convertible 6.2L V8",
+            "name": "6.2L V8",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/chevrolet/camaro/2012/convertible/estandar/camaro-convertible-62l-v8/datos",
@@ -181,7 +182,7 @@
             ]
         },
         {
-            "name": "Camaro Convertible 6.2L V8",
+            "name": "6.2L V8",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/chevrolet/camaro/2012/convertible/estandar/camaro-convertible-62l-v82/datos",
@@ -360,7 +361,7 @@
             ]
         },
         {
-            "name": "Camaro Convertible 6.2L V8 Aut.",
+            "name": "6.2L V8 Aut.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/chevrolet/camaro/2012/convertible/estandar/camaro-convertible-62l-v8-aut/datos",
@@ -534,7 +535,7 @@
             ]
         },
         {
-            "name": "Camaro Convertible 6.2L V8 Aut.",
+            "name": "6.2L V8 Aut.",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/chevrolet/camaro/2012/convertible/estandar/camaro-convertible-62l-v8-aut2/datos",

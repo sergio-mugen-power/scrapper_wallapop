@@ -1,11 +1,12 @@
 {
+    "brand": "Lexus",
     "name": "GS",
     "year": "2005",
     "url": "https://www.km77.com/coches/lexus/gs/2005/estandar",
     "price": "",
     "versions": [
         {
-            "name": "GS 300 Premium",
+            "name": "300 Premium",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/lexus/gs/2005/estandar/premium/gs-300-premium/datos",
@@ -181,7 +182,7 @@
             ]
         },
         {
-            "name": "GS 300 Luxury",
+            "name": "300 Luxury",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/lexus/gs/2005/estandar/luxury/gs-300-luxury/datos",
@@ -365,7 +366,7 @@
             ]
         },
         {
-            "name": "GS 300 President",
+            "name": "300 President",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/lexus/gs/2005/estandar/president/gs-300-president/datos",
@@ -553,7 +554,7 @@
             ]
         },
         {
-            "name": "GS 430 President",
+            "name": "430 President",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/lexus/gs/2005/estandar/president/gs-430-president/datos",
@@ -745,7 +746,7 @@
             ]
         },
         {
-            "name": "GS 450h President",
+            "name": "450h President",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/lexus/gs/2005/estandar/president/gs-450h-president/datos",

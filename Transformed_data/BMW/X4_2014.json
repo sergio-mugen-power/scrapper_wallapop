@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "X4",
     "year": "2014",
     "url": "https://www.km77.com/coches/bmw/x4/2014/estandar",
     "price": "Desde 60.600 €",
     "versions": [
         {
-            "name": "X4 xDrive20d",
+            "name": "xDrive20d",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/bmw/x4/2014/estandar/estandar/x4-xdrive20d/datos",
@@ -280,7 +281,7 @@
             ]
         },
         {
-            "name": "X4 xDrive20d",
+            "name": "xDrive20d",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x4/2014/estandar/estandar/x4-xdrive20d2/datos",
@@ -576,7 +577,7 @@
             ]
         },
         {
-            "name": "X4 xDrive20i",
+            "name": "xDrive20i",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x4/2014/estandar/estandar/x4-2014/datos",
@@ -877,7 +878,7 @@
             ]
         },
         {
-            "name": "X4 xDrive20d Aut.",
+            "name": "xDrive20d Aut.",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/bmw/x4/2014/estandar/estandar/x4-xdrive20d-aut/datos",
@@ -1157,7 +1158,7 @@
             ]
         },
         {
-            "name": "X4 xDrive20d Aut.",
+            "name": "xDrive20d Aut.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x4/2014/estandar/estandar/x4-xdrive20d-aut2/datos",
@@ -1459,7 +1460,7 @@
             ]
         },
         {
-            "name": "X4 xDrive28i",
+            "name": "xDrive28i",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x4/2014/estandar/estandar/x4-xdrive28i/datos",
@@ -1760,7 +1761,7 @@
             ]
         },
         {
-            "name": "X4 xDrive30d",
+            "name": "xDrive30d",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x4/2014/estandar/estandar/x4-xdrive30d/datos",
@@ -2062,7 +2063,7 @@
             ]
         },
         {
-            "name": "X4 xDrive35i",
+            "name": "xDrive35i",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x4/2014/estandar/estandar/x4-xdrive35i/datos",
@@ -2359,7 +2360,7 @@
             ]
         },
         {
-            "name": "X4 xDrive35d",
+            "name": "xDrive35d",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x4/2014/estandar/estandar/x4-xdrive35d/datos",
@@ -2657,7 +2658,7 @@
             ]
         },
         {
-            "name": "X4 M40i",
+            "name": "M40i",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x4/2014/estandar/m-performance/x4-m40i/datos",

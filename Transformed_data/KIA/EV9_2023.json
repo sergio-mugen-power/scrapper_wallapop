@@ -1,11 +1,12 @@
 {
+    "brand": "KIA",
     "name": "EV9",
     "year": "2023",
     "url": "https://www.km77.com/coches/kia/ev9/2023/estandar",
     "price": "Desde 78.566 €",
     "versions": [
         {
-            "name": "EV9 AWD GT-line 7 plazas (07/2023 - )",
+            "name": "AWD GT-line 7 plazas (07/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/kia/ev9/2023/estandar/estandar/ev9-awd-long-range/datos",
@@ -268,7 +269,7 @@
             ]
         },
         {
-            "name": "EV9 AWD GT-line 6 plazas (07/2023 - )",
+            "name": "AWD GT-line 6 plazas (07/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/kia/ev9/2023/estandar/estandar/ev9-awd-gt-line-6-plazas/datos",
@@ -532,7 +533,7 @@
             ]
         },
         {
-            "name": "EV9 GT ( - )",
+            "name": "GT ( - )",
             "start_year": "Desconocido",
             "end_year": "Desconocido",
             "url": "https://www.km77.com/coches/kia/ev9/2023/estandar/gt/ev9-gt/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Ford",
     "name": "Bronco",
     "year": "2021",
     "url": "https://www.km77.com/coches/ford/bronco/2021/estandar",
     "price": "Desde 87.095 €",
     "versions": [
         {
-            "name": "Bronco Outer Banks 2.7 V6 EcoBoost Auto 4x4\n(03/2023 - )",
+            "name": "Outer Banks 2.7 V6 EcoBoost Auto 4x4\n(03/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/ford/bronco/2021/estandar/estandar/bronco-outer-banks/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "Bronco Badlands 2.7 V6 EcoBoost Auto 4x4\n(03/2023 - )",
+            "name": "Badlands 2.7 V6 EcoBoost Auto 4x4\n(03/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/ford/bronco/2021/estandar/estandar/bronco-badlands/datos",

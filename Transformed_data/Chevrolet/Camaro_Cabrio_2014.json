@@ -1,11 +1,12 @@
 {
+    "brand": "Chevrolet",
     "name": "Camaro Cabrio",
     "year": "2014",
     "url": "https://www.km77.com/coches/chevrolet/camaro/2014/cabrio",
     "price": "",
     "versions": [
         {
-            "name": "Camaro Cabrio",
+            "name": "",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/chevrolet/camaro/2014/cabrio/estandar/camaro-convertible-2014/datos",
@@ -170,7 +171,7 @@
             ]
         },
         {
-            "name": "Camaro Cabrio Aut.",
+            "name": "Aut.",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/chevrolet/camaro/2014/cabrio/estandar/camaro-cabrio-aut/datos",

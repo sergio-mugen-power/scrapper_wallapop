@@ -1,11 +1,12 @@
 {
+    "brand": "Chrysler",
     "name": "Sebring Cabrio",
     "year": "2008",
     "url": "https://www.km77.com/coches/chrysler/sebring/2008/cabrio",
     "price": "",
     "versions": [
         {
-            "name": "Sebring Cabrio CRD Touring",
+            "name": "CRD Touring",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/chrysler/sebring/2008/cabrio/estandar/sebring-cabrio-crd-touring/datos",
@@ -160,7 +161,7 @@
             ]
         },
         {
-            "name": "Sebring Cabrio 2.0 CRD Touring",
+            "name": "2.0 CRD Touring",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/chrysler/sebring/2008/cabrio/estandar/sebring-cabrio-20-crd-touring/datos",
@@ -315,7 +316,7 @@
             ]
         },
         {
-            "name": "Sebring Cabrio CRD Limited",
+            "name": "CRD Limited",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/chrysler/sebring/2008/cabrio/estandar/sebring-cabrio-crd-limited/datos",
@@ -479,7 +480,7 @@
             ]
         },
         {
-            "name": "Sebring Cabrio 2.7 V6 Limited",
+            "name": "2.7 V6 Limited",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/chrysler/sebring/2008/cabrio/estandar/sebring-cabrio-27-v6-limited/datos",

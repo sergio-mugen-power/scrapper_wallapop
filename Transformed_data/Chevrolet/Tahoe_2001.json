@@ -1,11 +1,12 @@
 {
+    "brand": "Chevrolet",
     "name": "Tahoe",
     "year": "2001",
     "url": "https://www.km77.com/coches/chevrolet/tahoe/2001/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Tahoe 4p 4WD LS",
+            "name": "4p 4WD LS",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/chevrolet/tahoe/2001/estandar/ls/tahoe-4p-4wd-ls/datos",
@@ -151,7 +152,7 @@
             ]
         },
         {
-            "name": "Tahoe 4p 4WD LT",
+            "name": "4p 4WD LT",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/chevrolet/tahoe/2001/estandar/lt/tahoe-4p-4wd-lt/datos",
@@ -288,7 +289,7 @@
             ]
         },
         {
-            "name": "Tahoe 4p 4WD LT",
+            "name": "4p 4WD LT",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/chevrolet/tahoe/2001/estandar/lt/tahoe-4p-4wd-lt2/datos",
@@ -447,7 +448,7 @@
             ]
         },
         {
-            "name": "Tahoe 4p 4WD LT Premium",
+            "name": "4p 4WD LT Premium",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/chevrolet/tahoe/2001/estandar/lt-premium/tahoe-4p-4wd-lt-premium/datos",
@@ -586,7 +587,7 @@
             ]
         },
         {
-            "name": "Tahoe 4p 4WD LT Premium",
+            "name": "4p 4WD LT Premium",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/chevrolet/tahoe/2001/estandar/lt-premium/tahoe-4p-4wd-lt-premium2/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "VAZ",
     "name": "214",
     "year": "2000",
     "url": "https://www.km77.com/coches/vaz/214/2000/estandar",
     "price": "",
     "versions": [
         {
-            "name": "214 4x4 1.7i Tundra",
+            "name": "4x4 1.7i Tundra",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/vaz/214/2000/estandar/tundra/214-4x4-17i-tundra/datos",
@@ -16,7 +17,7 @@
             "maletero": "300"
         },
         {
-            "name": "214 4x4 1.7i Foresta",
+            "name": "4x4 1.7i Foresta",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/vaz/214/2000/estandar/foresta/214-4x4-17i-foresta/datos",
@@ -27,7 +28,7 @@
             "maletero": "300"
         },
         {
-            "name": "214 1.7i Foresta Cromado",
+            "name": "1.7i Foresta Cromado",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/vaz/214/2000/estandar/foresta/214-17i-foresta-cromado/datos",
@@ -38,7 +39,7 @@
             "maletero": "300"
         },
         {
-            "name": "214 1.7i Kozak",
+            "name": "1.7i Kozak",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/vaz/214/2000/estandar/kozak/214-17i-kozak/datos",
@@ -49,7 +50,7 @@
             "maletero": "300"
         },
         {
-            "name": "214 4x4 1.7i Foresta Cromado",
+            "name": "4x4 1.7i Foresta Cromado",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/vaz/214/2000/estandar/foresta/214-4x4-17i-foresta-cromado/datos",
@@ -60,7 +61,7 @@
             "maletero": "300"
         },
         {
-            "name": "214 4x4 1.7i Kozak",
+            "name": "4x4 1.7i Kozak",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/vaz/214/2000/estandar/kozak/214-4x4-17i-kozac/datos",
@@ -71,7 +72,7 @@
             "maletero": "300"
         },
         {
-            "name": "214 1.7i 4x4",
+            "name": "1.7i 4x4",
             "start_year": "2002",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/vaz/214/2000/estandar/estandar/214-17i-4x4/datos",
@@ -93,7 +94,7 @@
             "maletero": "300"
         },
         {
-            "name": "214 1.7i Foresta",
+            "name": "1.7i Foresta",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/vaz/214/2000/estandar/foresta/214-17i-foresta/datos",

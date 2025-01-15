@@ -1,11 +1,12 @@
 {
+    "brand": "Hyundai",
     "name": "Santa Fe",
     "year": "2013",
     "url": "https://www.km77.com/coches/hyundai/santa-fe/2013/estandar",
     "price": "Desde 58.020 €",
     "versions": [
         {
-            "name": "Santa Fe 2.0 CRDi 150 CV 4x2 5 plazas Essence",
+            "name": "2.0 CRDi 150 CV 4x2 5 plazas Essence",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2013/estandar/essence/santa-fe-20-crdi-150-cv-4x2-5-plazas-essence/datos",
@@ -210,7 +211,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.0 CRDi 150 CV 4x2 7 plazas Essence",
+            "name": "2.0 CRDi 150 CV 4x2 7 plazas Essence",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2013/estandar/essence/santa-fe-20-crdi-150-cv-4x2-7-plazas-essence/datos",
@@ -416,7 +417,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.0 CRDi 150 CV 4x2 5 plazas Klass",
+            "name": "2.0 CRDi 150 CV 4x2 5 plazas Klass",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2013/estandar/klass/santa-fe-20-crdi-150-cv-4x2-5-plazas-klass/datos",
@@ -621,7 +622,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.0 CRDi 150 CV 4x2 5 plazas Stadt",
+            "name": "2.0 CRDi 150 CV 4x2 5 plazas Stadt",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2013/estandar/stadt/santa-fe-20-crdi-150-cv-4x2-5-plazas-stadt/datos",
@@ -824,7 +825,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.0 CRDi 150 CV 4x2 7 plazas Klass",
+            "name": "2.0 CRDi 150 CV 4x2 7 plazas Klass",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2013/estandar/klass/santa-fe-20-crdi-150-cv-4x2-7-plazas-klass/datos",
@@ -1032,7 +1033,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.0 CRDi 150 CV 4x2 7 plazas Stadt",
+            "name": "2.0 CRDi 150 CV 4x2 7 plazas Stadt",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2013/estandar/stadt/santa-fe-4x2-20-crdi-150-cv-7-plazas/datos",
@@ -1239,7 +1240,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.2 CRDi 200 CV 4x2 7 plazas Klass",
+            "name": "2.2 CRDi 200 CV 4x2 7 plazas Klass",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2013/estandar/klass/santa-fe-22-crdi-200-cv-4x2-7-plazas-klass/datos",
@@ -1448,7 +1449,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.2 CRDi 200 CV 4x4 7 plazas Klass",
+            "name": "2.2 CRDi 200 CV 4x4 7 plazas Klass",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2013/estandar/klass/santa-fe-22-crdi-200-cv-4x4-7-plazas-klass/datos",
@@ -1659,7 +1660,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.2 CRDi 200 CV 4x4 7 plazas Tecno",
+            "name": "2.2 CRDi 200 CV 4x4 7 plazas Tecno",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2013/estandar/tecno/santa-fe-4x4-22-crdi-197-cv-7-plazas/datos",
@@ -1873,7 +1874,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.2 CRDi 200 CV 4x2 7 plazas Tecno",
+            "name": "2.2 CRDi 200 CV 4x2 7 plazas Tecno",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2013/estandar/tecno/santa-fe-22-crdi-200-cv-4x4-7-plazas-tecno/datos",
@@ -2093,7 +2094,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.2 CRDi 200 CV 4x2 7 plazas Tecno Aut.",
+            "name": "2.2 CRDi 200 CV 4x2 7 plazas Tecno Aut.",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2013/estandar/tecno/santa-fe-22-crdi-200-cv-4x2-7-plazas-tecno-aut/datos",
@@ -2311,7 +2312,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.2 CRDi 200 CV 4x4 7 plazas Tecno Aut.",
+            "name": "2.2 CRDi 200 CV 4x4 7 plazas Tecno Aut.",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2013/estandar/tecno/santa-fe-4x4-22-crdi-197-cv-7-plazas-aut/datos",
@@ -2525,7 +2526,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.2 CRDi 200 CV 4x4 7 plazas Tecno Aut.",
+            "name": "2.2 CRDi 200 CV 4x4 7 plazas Tecno Aut.",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2013/estandar/tecno/santa-fe-22-crdi-200-cv-4x4-7-plazas-tecno-aut/datos",
@@ -2750,7 +2751,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.2 CRDi 200 CV 4x4 7 plazas Style Aut.",
+            "name": "2.2 CRDi 200 CV 4x4 7 plazas Style Aut.",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2013/estandar/style/santa-fe-22-crdi-200-cv-4x4-7-plazas-style-aut/datos",
@@ -2970,7 +2971,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.2 CRDi 200 CV 4x4 7 plazas Style Aut.",
+            "name": "2.2 CRDi 200 CV 4x4 7 plazas Style Aut.",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2013/estandar/style/santa-fe-22-crdi-200-cv-4x4-7-plazas-style-aut3/datos",
@@ -3198,7 +3199,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.2 CRDi 200 CV 4x4 7 plazas Tecno Pack Aut.",
+            "name": "2.2 CRDi 200 CV 4x4 7 plazas Tecno Pack Aut.",
             "start_year": "2014",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2013/estandar/tecno-pack/santa-fe-22-crdi-200-cv-4x4-7-plazas-tecno-pack-aut/datos",
@@ -3423,7 +3424,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.2 CRDi 200 CV 4x4 7 plazas Style Aut.",
+            "name": "2.2 CRDi 200 CV 4x4 7 plazas Style Aut.",
             "start_year": "2014",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2013/estandar/style/santa-fe-22-crdi-200-cv-4x4-7-plazas-style-aut2/datos",

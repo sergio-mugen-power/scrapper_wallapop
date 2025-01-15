@@ -1,11 +1,12 @@
 {
+    "brand": "Bentley",
     "name": "Bentayga",
     "year": "2021",
     "url": "https://www.km77.com/coches/bentley/bentayga/2021/estandar",
     "price": "Desde 279.371 €",
     "versions": [
         {
-            "name": "Bentayga S Hybrid (09/2022 - )",
+            "name": "S Hybrid (09/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/bentley/bentayga/2021/estandar/hybrid/bentayga-s-hybrid/datos",
@@ -158,7 +159,7 @@
             ]
         },
         {
-            "name": "Bentayga S V8 (05/2021 - )",
+            "name": "S V8 (05/2021 - )",
             "start_year": "2021",
             "end_year": "",
             "url": "https://www.km77.com/coches/bentley/bentayga/2021/estandar/estandar/bentayga-s/datos",

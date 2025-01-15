@@ -1,11 +1,12 @@
 {
+    "brand": "KIA",
     "name": "Shuma",
     "year": "1999",
     "url": "https://www.km77.com/coches/kia/shuma/1999/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Shuma 1.5 16V LS",
+            "name": "1.5 16V LS",
             "start_year": "1998",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/kia/shuma/1999/estandar/ls/shuma-15-16v-ls/datos",
@@ -130,7 +131,7 @@
             ]
         },
         {
-            "name": "Shuma 1.6 16V LS",
+            "name": "1.6 16V LS",
             "start_year": "1998",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/kia/shuma/1999/estandar/ls/shuma-16-16v-ls/datos",
@@ -256,7 +257,7 @@
             ]
         },
         {
-            "name": "Shuma 1.8 16V GS",
+            "name": "1.8 16V GS",
             "start_year": "1998",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/kia/shuma/1999/estandar/gs/shuma-18-16v-gs/datos",
@@ -386,7 +387,7 @@
             ]
         },
         {
-            "name": "Shuma 1.8 GS 5p Aut.",
+            "name": "1.8 GS 5p Aut.",
             "start_year": "1998",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/kia/shuma/1999/estandar/gs/shuma-18-gs-5p-aut/datos",

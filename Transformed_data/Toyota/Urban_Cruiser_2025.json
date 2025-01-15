@@ -1,11 +1,12 @@
 {
+    "brand": "Toyota",
     "name": "Urban Cruiser",
     "year": "2025",
     "url": "https://www.km77.com/coches/toyota/urban-cruiser/2025/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Urban Cruiser AWD 61 kWh ( - )",
+            "name": "AWD 61 kWh ( - )",
             "start_year": "Desconocido",
             "end_year": "Desconocido",
             "url": "https://www.km77.com/coches/toyota/urban-cruiser/2025/estandar/estandar/urban-cruiser-awd-61-kwh/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Urban Cruiser FWD 49 kWh ( - )",
+            "name": "FWD 49 kWh ( - )",
             "start_year": "Desconocido",
             "end_year": "Desconocido",
             "url": "https://www.km77.com/coches/toyota/urban-cruiser/2025/estandar/estandar/urban-cruiser-fwd-49-kwh/datos",
@@ -164,7 +165,7 @@
             ]
         },
         {
-            "name": "Urban Cruiser FWD 61 kWh ( - )",
+            "name": "FWD 61 kWh ( - )",
             "start_year": "Desconocido",
             "end_year": "Desconocido",
             "url": "https://www.km77.com/coches/toyota/urban-cruiser/2025/estandar/estandar/urban-cruiser-fwd-61-kwh/datos",

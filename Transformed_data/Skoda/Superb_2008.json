@@ -1,11 +1,12 @@
 {
+    "brand": "Skoda",
     "name": "Superb",
     "year": "2008",
     "url": "https://www.km77.com/coches/skoda/superb/2008/estandar",
     "price": "Desde 42.700 €",
     "versions": [
         {
-            "name": "Superb 1.4 TSI Comfort",
+            "name": "1.4 TSI Comfort",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/comfort/superb-14-tsi-comfort2/datos",
@@ -244,7 +245,7 @@
             ]
         },
         {
-            "name": "Superb 1.9 TDI Comfort",
+            "name": "1.9 TDI Comfort",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/active/superb-19-tdi-comfort/datos",
@@ -482,7 +483,7 @@
             ]
         },
         {
-            "name": "Superb 1.6 TDI 105 CV Comfort",
+            "name": "1.6 TDI 105 CV Comfort",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/comfort/superb-16-tdi-105-cv-comfort/datos",
@@ -721,7 +722,7 @@
             ]
         },
         {
-            "name": "Superb 1.4 TSI Active",
+            "name": "1.4 TSI Active",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/active/superb-14-tsi-active/datos",
@@ -967,7 +968,7 @@
             ]
         },
         {
-            "name": "Superb 1.4 TSI Active",
+            "name": "1.4 TSI Active",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/active/superb-14-tsi-active2/datos",
@@ -1215,7 +1216,7 @@
             ]
         },
         {
-            "name": "Superb 1.6 TDI 105 CV GreenLine Comfort",
+            "name": "1.6 TDI 105 CV GreenLine Comfort",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/comfort/superb-16-tdi-105-cv-greenline-confort/datos",
@@ -1446,7 +1447,7 @@
             ]
         },
         {
-            "name": "Superb 1.6 TDI 105 CV Limited Edition",
+            "name": "1.6 TDI 105 CV Limited Edition",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/limited-edition/superb-16-tdi-105-cv-limited-edition/datos",
@@ -1694,7 +1695,7 @@
             ]
         },
         {
-            "name": "Superb 1.4 TSI Comfort",
+            "name": "1.4 TSI Comfort",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/active/superb-14-tsi-comfort/datos",
@@ -1933,7 +1934,7 @@
             ]
         },
         {
-            "name": "Superb 1.6 TDI 105 CV GreenLine Active",
+            "name": "1.6 TDI 105 CV GreenLine Active",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/active/superb-16-tdi-105-cv-greenline-active2/datos",
@@ -2025,7 +2026,7 @@
             ]
         },
         {
-            "name": "Superb 1.6 TDI 105 CV GreenLine Active",
+            "name": "1.6 TDI 105 CV GreenLine Active",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/active/superb-16-tdi-105-cv-greenline-active/datos",
@@ -2117,7 +2118,7 @@
             ]
         },
         {
-            "name": "Superb 1.6 TDI 105 CV Active",
+            "name": "1.6 TDI 105 CV Active",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/active/superb-16-tdi-105-cv-active/datos",
@@ -2209,7 +2210,7 @@
             ]
         },
         {
-            "name": "Superb 1.6 TDI 105 CV Active",
+            "name": "1.6 TDI 105 CV Active",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/active/superb-16-tdi-105-cv-active2/datos",
@@ -2301,7 +2302,7 @@
             ]
         },
         {
-            "name": "Superb 1.6 TDI 105 CV Limited Edition Plus",
+            "name": "1.6 TDI 105 CV Limited Edition Plus",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/limited-edition-plus/superb-16-tdi-105-cv-limited-edition-plus/datos",
@@ -2393,7 +2394,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV DPF Comfort",
+            "name": "2.0 TDI 140 CV DPF Comfort",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/comfort/superb-20-tdi-140-cv-dpf-comfort2/datos",
@@ -2483,7 +2484,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV Limited Edition",
+            "name": "2.0 TDI 140 CV Limited Edition",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/limited-edition/superb-20-tdi-140-cv-limited-edition/datos",
@@ -2575,7 +2576,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV Active",
+            "name": "2.0 TDI 140 CV Active",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/active/superb-20-tdi-140-cv-active/datos",
@@ -2667,7 +2668,7 @@
             ]
         },
         {
-            "name": "Superb 1.4 TSI Ambition",
+            "name": "1.4 TSI Ambition",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-14-tsi-ambition/datos",
@@ -2757,7 +2758,7 @@
             ]
         },
         {
-            "name": "Superb 1.9 TDI Ambition",
+            "name": "1.9 TDI Ambition",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-19-tdi-ambition/datos",
@@ -2847,7 +2848,7 @@
             ]
         },
         {
-            "name": "Superb 1.9 TDI Comfort",
+            "name": "1.9 TDI Comfort",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/comfort/superb-19-tdi-comfort2/datos",
@@ -2937,7 +2938,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV DPF Comfort",
+            "name": "2.0 TDI 140 CV DPF Comfort",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/active/superb-20-tdi-140-cv-dpf-comfort/datos",
@@ -3027,7 +3028,7 @@
             ]
         },
         {
-            "name": "Superb 1.6 TDI 105 CV GreenLine Ambition",
+            "name": "1.6 TDI 105 CV GreenLine Ambition",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-16-tdi-105-cv-greenline-ambition/datos",
@@ -3119,7 +3120,7 @@
             ]
         },
         {
-            "name": "Superb 1.6 TDI 105 CV GreenLine Ambition",
+            "name": "1.6 TDI 105 CV GreenLine Ambition",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-16-tdi-105-cv-greenline-ambition2/datos",
@@ -3211,7 +3212,7 @@
             ]
         },
         {
-            "name": "Superb 1.4 TSI Ambition",
+            "name": "1.4 TSI Ambition",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-14-tsi-ambition3/datos",
@@ -3302,7 +3303,7 @@
             ]
         },
         {
-            "name": "Superb 1.6 TDI 105 CV Ambition",
+            "name": "1.6 TDI 105 CV Ambition",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-16-tdi-105-cv-ambition/datos",
@@ -3394,7 +3395,7 @@
             ]
         },
         {
-            "name": "Superb 1.6 TDI 105 CV Ambition",
+            "name": "1.6 TDI 105 CV Ambition",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-16-tdi-105-cv-ambition2/datos",
@@ -3486,7 +3487,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV Active",
+            "name": "2.0 TDI 140 CV Active",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/active/superb-20-tdi-140-cv-dpf-active/datos",
@@ -3578,7 +3579,7 @@
             ]
         },
         {
-            "name": "Superb 1.4 TSI Ambition",
+            "name": "1.4 TSI Ambition",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-14-tsi-ambition2/datos",
@@ -3669,7 +3670,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI Ambition",
+            "name": "1.8 TSI Ambition",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-18-tsi-ambition/datos",
@@ -3759,7 +3760,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV Limited Edition Plus",
+            "name": "2.0 TDI 140 CV Limited Edition Plus",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/limited-edition-plus/superb-20-tdi-140-cv-limited-edition-plus/datos",
@@ -3851,7 +3852,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV Ambition",
+            "name": "2.0 TDI 140 CV Ambition",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-20-tdi-140-cv-ambition/datos",
@@ -3943,7 +3944,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV DPF Comfort DSG",
+            "name": "2.0 TDI 140 CV DPF Comfort DSG",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/comfort/superb-20-tdi-140-cv-dpf-comfort-dsg2/datos",
@@ -4033,7 +4034,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV DPF Ambition",
+            "name": "2.0 TDI 140 CV DPF Ambition",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-20-tdi-140-cv-dpf-ambition/datos",
@@ -4123,7 +4124,7 @@
             ]
         },
         {
-            "name": "Superb 1.9 TDI Ambition",
+            "name": "1.9 TDI Ambition",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-19-tdi-ambition2/datos",
@@ -4213,7 +4214,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI Ambition",
+            "name": "1.8 TSI Ambition",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-18-tsi-ambition3/datos",
@@ -4304,7 +4305,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV DPF Comfort DSG",
+            "name": "2.0 TDI 140 CV DPF Comfort DSG",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/active/superb-20-tdi-140-cv-dpf-comfort-dsg/datos",
@@ -4394,7 +4395,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV DSG Active",
+            "name": "2.0 TDI 140 CV DSG Active",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/active/superb-20-tdi-140-cv-dsg-active2/datos",
@@ -4486,7 +4487,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV Ambition",
+            "name": "2.0 TDI 140 CV Ambition",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-20-tdi-140-cv-dpf-ambition2/datos",
@@ -4578,7 +4579,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI Ambition",
+            "name": "1.8 TSI Ambition",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-18-tsi-ambition2/datos",
@@ -4669,7 +4670,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV DSG Active",
+            "name": "2.0 TDI 140 CV DSG Active",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/active/superb-20-tdi-140-cv-dsg-active/datos",
@@ -4761,7 +4762,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI Ambition DSG 7 vel.",
+            "name": "1.8 TSI Ambition DSG 7 vel.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-18-tsi-ambition-dsg-7-vel/datos",
@@ -4851,7 +4852,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI Ambition 4x4",
+            "name": "1.8 TSI Ambition 4x4",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-18-tsi-ambition-4x4/datos",
@@ -4941,7 +4942,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI Elegance",
+            "name": "1.8 TSI Elegance",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-18-tsi-elegance/datos",
@@ -5031,7 +5032,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV DPF Ambition DSG",
+            "name": "2.0 TDI 140 CV DPF Ambition DSG",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-20-tdi-140-cv-dpf-ambition-dsg/datos",
@@ -5121,7 +5122,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV DPF Elegance",
+            "name": "2.0 TDI 140 CV DPF Elegance",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-20-tdi-140-cv-dpf-elegance/datos",
@@ -5211,7 +5212,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI DSG 7 vel. Ambition",
+            "name": "1.8 TSI DSG 7 vel. Ambition",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-18-tsi-dsg-7-vel-ambition/datos",
@@ -5302,7 +5303,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV DSG Ambition",
+            "name": "2.0 TDI 140 CV DSG Ambition",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-20-tdi-140-cv-dsg-ambition/datos",
@@ -5394,7 +5395,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI Elegance",
+            "name": "1.8 TSI Elegance",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-18-tsi-elegance3/datos",
@@ -5485,7 +5486,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI 4x4 Ambition",
+            "name": "1.8 TSI 4x4 Ambition",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-18-tsi-4x4-ambition/datos",
@@ -5576,7 +5577,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 170 CV Ambition",
+            "name": "2.0 TDI 170 CV Ambition",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-20-tdi-170-cv-ambition/datos",
@@ -5668,7 +5669,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI CR 170 CV DPF Ambition",
+            "name": "2.0 TDI CR 170 CV DPF Ambition",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-20-tdi-cr-170-cv-dpf-ambition/datos",
@@ -5758,7 +5759,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV Elegance",
+            "name": "2.0 TDI 140 CV Elegance",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-20-tdi-140-cv-elegance/datos",
@@ -5850,7 +5851,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV DSG Ambition",
+            "name": "2.0 TDI 140 CV DSG Ambition",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-20-tdi-140-cv-dpf-ambition-dsg2/datos",
@@ -5942,7 +5943,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV Elegance",
+            "name": "2.0 TDI 140 CV Elegance",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-20-tdi-140-cv-dpf-elegance2/datos",
@@ -6034,7 +6035,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI DSG 7 vel. Ambition",
+            "name": "1.8 TSI DSG 7 vel. Ambition",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/active/superb-18-tsi-ambition-dsg-7-vel2/datos",
@@ -6125,7 +6126,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI 4x4 Ambition",
+            "name": "1.8 TSI 4x4 Ambition",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-18-tsi-ambition-4x42/datos",
@@ -6216,7 +6217,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI Exclusive",
+            "name": "1.8 TSI Exclusive",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-18-tsi-exclusive/datos",
@@ -6306,7 +6307,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI Elegance DSG 7 vel.",
+            "name": "1.8 TSI Elegance DSG 7 vel.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-18-tsi-elegance-dsg-7-vel/datos",
@@ -6396,7 +6397,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV DPF Exclusive",
+            "name": "2.0 TDI 140 CV DPF Exclusive",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/active/superb-20-tdi-140-cv-dpf-exclusive/datos",
@@ -6486,7 +6487,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI Elegance",
+            "name": "1.8 TSI Elegance",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-18-tsi-elegance2/datos",
@@ -6577,7 +6578,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI Elegance 4x4",
+            "name": "1.8 TSI Elegance 4x4",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-18-tsi-elegance-4x4/datos",
@@ -6667,7 +6668,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI Exclusive",
+            "name": "1.8 TSI Exclusive",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-18-tsi-exclusive3/datos",
@@ -6758,7 +6759,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV Exclusive",
+            "name": "2.0 TDI 140 CV Exclusive",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-20-tdi-140-cv-exclusive/datos",
@@ -6850,7 +6851,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV DPF Elegance DSG",
+            "name": "2.0 TDI 140 CV DPF Elegance DSG",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-20-tdi-140-cv-dpf-elegance-dsg/datos",
@@ -6940,7 +6941,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 170 CV Ambition",
+            "name": "2.0 TDI 170 CV Ambition",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-20-tdi-cr-170-cv-dpf-ambition2/datos",
@@ -7032,7 +7033,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV DSG 4x4 Ambition",
+            "name": "2.0 TDI 140 CV DSG 4x4 Ambition",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-20-tdi-140-cv-dsg-4x4-ambition/datos",
@@ -7124,7 +7125,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI DSG 7 vel. Elegance",
+            "name": "1.8 TSI DSG 7 vel. Elegance",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-18-tsi-dsg-7-vel-elegance/datos",
@@ -7215,7 +7216,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI CR 170 CV DPF Ambition DSG",
+            "name": "2.0 TDI CR 170 CV DPF Ambition DSG",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-20-tdi-cr-170-cv-dpf-ambition-dsg/datos",
@@ -7305,7 +7306,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI 4x4 Elegance",
+            "name": "1.8 TSI 4x4 Elegance",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-18-tsi-4x4-elegance/datos",
@@ -7396,7 +7397,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 170 CV 4x4 Ambition",
+            "name": "2.0 TDI 170 CV 4x4 Ambition",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-20-tdi-170-cv-4x4-ambition/datos",
@@ -7488,7 +7489,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI CR 170 CV DPF Ambition 4x4",
+            "name": "2.0 TDI CR 170 CV DPF Ambition 4x4",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-20-tdi-cr-170-cv-dpf-ambition-4x4/datos",
@@ -7578,7 +7579,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 170 CV DSG Ambition",
+            "name": "2.0 TDI 170 CV DSG Ambition",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-20-tdi-170-cv-dsg-ambition/datos",
@@ -7670,7 +7671,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI CR 170 CV DPF Elegance",
+            "name": "2.0 TDI CR 170 CV DPF Elegance",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-20-tdi-cr-170-cv-dpf-elegance/datos",
@@ -7760,7 +7761,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV Exclusive",
+            "name": "2.0 TDI 140 CV Exclusive",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-20-tdi-140-cv-dpf-exclusive2/datos",
@@ -7852,7 +7853,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV DSG Elegance",
+            "name": "2.0 TDI 140 CV DSG Elegance",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-20-tdi-140-cv-dsg-elegance/datos",
@@ -7944,7 +7945,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 170 CV Elegance",
+            "name": "2.0 TDI 170 CV Elegance",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-20-tdi-170-cv-elegance/datos",
@@ -8036,7 +8037,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV DSG 4x4 Ambition",
+            "name": "2.0 TDI 140 CV DSG 4x4 Ambition",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-20-tdi-140-cv-dpf-ambition-dsg-4x4/datos",
@@ -8128,7 +8129,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI Exclusive DSG 7 vel.",
+            "name": "1.8 TSI Exclusive DSG 7 vel.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-18-tsi-exclusive-dsg-7-vel/datos",
@@ -8218,7 +8219,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI Exclusive",
+            "name": "1.8 TSI Exclusive",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-18-tsi-exclusive2/datos",
@@ -8309,7 +8310,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV DSG Elegance",
+            "name": "2.0 TDI 140 CV DSG Elegance",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-20-tdi-140-cv-dpf-elegance-dsg2/datos",
@@ -8401,7 +8402,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI Exclusive 4x4",
+            "name": "1.8 TSI Exclusive 4x4",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-18-tsi-exclusive-4x4/datos",
@@ -8491,7 +8492,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI DSG 7 vel. Elegance",
+            "name": "1.8 TSI DSG 7 vel. Elegance",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-18-tsi-elegance-dsg-7-vel2/datos",
@@ -8582,7 +8583,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV DPF Exclusive DSG",
+            "name": "2.0 TDI 140 CV DPF Exclusive DSG",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-20-tdi-140-cv-dpf-exclusive-dsg/datos",
@@ -8672,7 +8673,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI 4x4 Elegance",
+            "name": "1.8 TSI 4x4 Elegance",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-18-tsi-elegance-4x42/datos",
@@ -8763,7 +8764,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TSI DSG Elegance",
+            "name": "2.0 TSI DSG Elegance",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-20-tsi-dsg-elegance2/datos",
@@ -8855,7 +8856,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI DSG 7 vel. Exclusive",
+            "name": "1.8 TSI DSG 7 vel. Exclusive",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-18-tsi-dsg-7-vel-exclusive/datos",
@@ -8946,7 +8947,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI 4x4 Exclusive",
+            "name": "1.8 TSI 4x4 Exclusive",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-18-tsi-4x4-exclusive/datos",
@@ -9036,7 +9037,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI CR 170 CV DPF Exclusive",
+            "name": "2.0 TDI CR 170 CV DPF Exclusive",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-20-tdi-cr-170-cv-dpf-exclusive/datos",
@@ -9126,7 +9127,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TSI Elegance DSG",
+            "name": "2.0 TSI Elegance DSG",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-20-tsi-elegance-dsg/datos",
@@ -9216,7 +9217,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 170 CV DSG Ambition",
+            "name": "2.0 TDI 170 CV DSG Ambition",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-20-tdi-cr-170-cv-dpf-ambition-dsg2/datos",
@@ -9308,7 +9309,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 170 CV 4x4 Ambition",
+            "name": "2.0 TDI 170 CV 4x4 Ambition",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/ambition/superb-20-tdi-cr-170-cv-dpf-ambition-4x42/datos",
@@ -9400,7 +9401,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV DSG Exclusive",
+            "name": "2.0 TDI 140 CV DSG Exclusive",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-20-tdi-140-cv-dsg-exclusive/datos",
@@ -9492,7 +9493,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI CR 170 CV DPF Elegance DSG",
+            "name": "2.0 TDI CR 170 CV DPF Elegance DSG",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-20-tdi-cr-170-cv-dpf-elegance-dsg/datos",
@@ -9582,7 +9583,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 170 CV Elegance",
+            "name": "2.0 TDI 170 CV Elegance",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-20-tdi-cr-170-cv-dpf-elegance2/datos",
@@ -9674,7 +9675,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 170 CV Exclusive",
+            "name": "2.0 TDI 170 CV Exclusive",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-20-tdi-170-cv-exclusive/datos",
@@ -9766,7 +9767,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI CR 170 CV DPF Elegance 4x4",
+            "name": "2.0 TDI CR 170 CV DPF Elegance 4x4",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-20-tdi-cr-170-cv-dpf-elegance-4x4/datos",
@@ -9856,7 +9857,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 170 CV Laurin&Klement",
+            "name": "2.0 TDI 170 CV Laurin&Klement",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/laurin--klement/superb-20-tdi-170-cv-laurinklement2/datos",
@@ -9948,7 +9949,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV DSG 4x4 Elegance",
+            "name": "2.0 TDI 140 CV DSG 4x4 Elegance",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-20-tdi-140-cv-dsg-4x4-elegance/datos",
@@ -10040,7 +10041,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV DSG Exclusive",
+            "name": "2.0 TDI 140 CV DSG Exclusive",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-20-tdi-140-cv-dpf-exclusive-dsg2/datos",
@@ -10132,7 +10133,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 170 CV 4x4 Elegance",
+            "name": "2.0 TDI 170 CV 4x4 Elegance",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-20-tdi-170-cv-4x4-elegance/datos",
@@ -10224,7 +10225,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 170 CV DSG Elegance",
+            "name": "2.0 TDI 170 CV DSG Elegance",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-20-tdi-170-cv-dsg-elegance/datos",
@@ -10316,7 +10317,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TSI DSG Elegance",
+            "name": "2.0 TSI DSG Elegance",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-20-tsi-dsg-elegance/datos",
@@ -10408,7 +10409,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI DSG 7 vel. Exclusive",
+            "name": "1.8 TSI DSG 7 vel. Exclusive",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-18-tsi-exclusive-dsg-7-vel2/datos",
@@ -10499,7 +10500,7 @@
             ]
         },
         {
-            "name": "Superb 1.8 TSI 4x4 Exclusive",
+            "name": "1.8 TSI 4x4 Exclusive",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-18-tsi-exclusive-4x42/datos",
@@ -10589,7 +10590,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV DSG 4x4 Elegance",
+            "name": "2.0 TDI 140 CV DSG 4x4 Elegance",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-20-tdi-140-cv-dpf-elegance-dsg-4x4/datos",
@@ -10681,7 +10682,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TSI DSG Exclusive",
+            "name": "2.0 TSI DSG Exclusive",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-20-tsi-dsg-exclusive2/datos",
@@ -10773,7 +10774,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TSI DSG Laurin&Klement",
+            "name": "2.0 TSI DSG Laurin&Klement",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/laurin--klement/superb-20-tsi-dsg-laurinklement2/datos",
@@ -10865,7 +10866,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TSI Exclusive DSG",
+            "name": "2.0 TSI Exclusive DSG",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-20-tsi-exclusive-dsg/datos",
@@ -10955,7 +10956,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI CR 170 CV DPF Exclusive DSG",
+            "name": "2.0 TDI CR 170 CV DPF Exclusive DSG",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-20-tdi-cr-170-cv-dpf-exclusive-dsg/datos",
@@ -11045,7 +11046,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 170 CV Exclusive",
+            "name": "2.0 TDI 170 CV Exclusive",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-20-tdi-cr-170-cv-dpf-exclusive2/datos",
@@ -11137,7 +11138,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI CR 170 CV DPF Exclusive 4x4",
+            "name": "2.0 TDI CR 170 CV DPF Exclusive 4x4",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-20-tdi-cr-170-cv-dpf-exclusive-4x4/datos",
@@ -11227,7 +11228,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 170 CV Laurin&Klement",
+            "name": "2.0 TDI 170 CV Laurin&Klement",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/laurin--klement/superb-20-tdi-170-cv-laurinklement/datos",
@@ -11319,7 +11320,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV DSG 4x4 Exclusive",
+            "name": "2.0 TDI 140 CV DSG 4x4 Exclusive",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-20-tdi-140-cv-dsg-4x4-exclusive/datos",
@@ -11411,7 +11412,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 170 CV DSG Elegance",
+            "name": "2.0 TDI 170 CV DSG Elegance",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-20-tdi-cr-170-cv-dpf-elegance-dsg2/datos",
@@ -11503,7 +11504,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 170 CV 4x4 Elegance",
+            "name": "2.0 TDI 170 CV 4x4 Elegance",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-20-tdi-cr-170-cv-dpf-elegance-4x42/datos",
@@ -11595,7 +11596,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 170 CV 4x4 Exclusive",
+            "name": "2.0 TDI 170 CV 4x4 Exclusive",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-20-tdi-170-cv-4x4-exclusive/datos",
@@ -11687,7 +11688,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 170 CV DSG Exclusive",
+            "name": "2.0 TDI 170 CV DSG Exclusive",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-20-tdi-170-cv-dsg-exclusive/datos",
@@ -11779,7 +11780,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 170 CV 4x4 Laurin&Klement",
+            "name": "2.0 TDI 170 CV 4x4 Laurin&Klement",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/laurin--klement/superb-20-tdi-170-cv-4x4-laurinklement2/datos",
@@ -11871,7 +11872,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TSI DSG Exclusive",
+            "name": "2.0 TSI DSG Exclusive",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-20-tsi-dsg-exclusive/datos",
@@ -11963,7 +11964,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 170 CV DSG Laurin&Klement",
+            "name": "2.0 TDI 170 CV DSG Laurin&Klement",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/laurin--klement/superb-20-tdi-170-cv-dsg-laurinklement2/datos",
@@ -12055,7 +12056,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TSI DSG Laurin&Klement",
+            "name": "2.0 TSI DSG Laurin&Klement",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/laurin--klement/superb-20-tsi-dsg-laurinklement/datos",
@@ -12147,7 +12148,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV DSG 4x4 Exclusive",
+            "name": "2.0 TDI 140 CV DSG 4x4 Exclusive",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-20-tdi-140-cv-dpf-exclusive-dsg-4x4/datos",
@@ -12239,7 +12240,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 170 CV DSG Exclusive",
+            "name": "2.0 TDI 170 CV DSG Exclusive",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-20-tdi-cr-170-cv-dpf-exclusive-dsg2/datos",
@@ -12331,7 +12332,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 170 CV 4x4 Exclusive",
+            "name": "2.0 TDI 170 CV 4x4 Exclusive",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-20-tdi-cr-170-cv-dpf-exclusive-4x42/datos",
@@ -12423,7 +12424,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 170 CV DSG Laurin&Klement",
+            "name": "2.0 TDI 170 CV DSG Laurin&Klement",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/laurin--klement/superb-20-tdi-170-cv-dsg-laurinklement/datos",
@@ -12515,7 +12516,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 170 CV 4x4 Laurin&Klement",
+            "name": "2.0 TDI 170 CV 4x4 Laurin&Klement",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/laurin--klement/superb-20-tdi-170-cv-4x4-laurinklement/datos",
@@ -12607,7 +12608,7 @@
             ]
         },
         {
-            "name": "Superb 3.6 V6 FSI Elegance DSG 4x4",
+            "name": "3.6 V6 FSI Elegance DSG 4x4",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/elegance/superb-36-v6-fsi-elegance-dsg-4x4/datos",
@@ -12697,7 +12698,7 @@
             ]
         },
         {
-            "name": "Superb 3.6 V6 FSI Exclusive DSG 4x4",
+            "name": "3.6 V6 FSI Exclusive DSG 4x4",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-36-v6-fsi-exclusive-dsg-4x4/datos",
@@ -12787,7 +12788,7 @@
             ]
         },
         {
-            "name": "Superb 3.6 FSI DSG 4x4 Exclusive",
+            "name": "3.6 FSI DSG 4x4 Exclusive",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-36-fsi-dsg-4x4-exclusive/datos",
@@ -12879,7 +12880,7 @@
             ]
         },
         {
-            "name": "Superb 3.6 FSI DSG 4x4 Laurin&Klement",
+            "name": "3.6 FSI DSG 4x4 Laurin&Klement",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/laurin--klement/superb-36-fsi-dsg-4x4-laurinklement2/datos",
@@ -12971,7 +12972,7 @@
             ]
         },
         {
-            "name": "Superb 3.6 FSI DSG 4x4 Exclusive",
+            "name": "3.6 FSI DSG 4x4 Exclusive",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/exclusive/superb-36-v6-fsi-exclusive-dsg-4x42/datos",
@@ -13063,7 +13064,7 @@
             ]
         },
         {
-            "name": "Superb 3.6 FSI DSG 4x4 Laurin&Klement",
+            "name": "3.6 FSI DSG 4x4 Laurin&Klement",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/skoda/superb/2008/estandar/laurin--klement/superb-36-fsi-dsg-4x4-laurinklement/datos",

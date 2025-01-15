@@ -1,11 +1,12 @@
 {
+    "brand": "Hyundai",
     "name": "Coupe",
     "year": "2007",
     "url": "https://www.km77.com/coches/hyundai/coupe/2007/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Coupe 1.6",
+            "name": "1.6",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/hyundai/coupe/2007/estandar/estandar/coupe-162/datos",
@@ -168,7 +169,7 @@
             ]
         },
         {
-            "name": "Coupe 2.0 CVVT",
+            "name": "2.0 CVVT",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/hyundai/coupe/2007/estandar/estandar/coupe-20-cvvt2/datos",
@@ -336,7 +337,7 @@
             ]
         },
         {
-            "name": "Coupe 1.6",
+            "name": "1.6",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/hyundai/coupe/2007/estandar/estandar/coupe-16/datos",
@@ -497,7 +498,7 @@
             ]
         },
         {
-            "name": "Coupe 2.7 V6",
+            "name": "2.7 V6",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/hyundai/coupe/2007/estandar/estandar/coupe-27-v62/datos",
@@ -666,7 +667,7 @@
             ]
         },
         {
-            "name": "Coupe 2.0 CVVT",
+            "name": "2.0 CVVT",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/hyundai/coupe/2007/estandar/estandar/coupe-20-cvvt/datos",
@@ -832,7 +833,7 @@
             ]
         },
         {
-            "name": "Coupe 2.7 V6",
+            "name": "2.7 V6",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/hyundai/coupe/2007/estandar/estandar/coupe-27-v6/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Passat CC",
     "year": "2008",
     "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Passat CC 2.0 TDI 140 CV DPF Advance",
+            "name": "2.0 TDI 140 CV DPF Advance",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/advance/passat-cc-20-tdi-140-cv-dpf-advance/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Passat CC 1.8 TSI 160 CV",
+            "name": "1.8 TSI 160 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/estandar/passat-cc-18-tsi-160-cv/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Passat CC R-Line 1.8 TSI 160 CV",
+            "name": "R-Line 1.8 TSI 160 CV",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/r-line/passat-cc-r-line-18-tsi-160-cv/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Passat CC 2.0 TDI 140 CV DPF BMT Advance",
+            "name": "2.0 TDI 140 CV DPF BMT Advance",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/advance/passat-cc-20-tdi-140-cv-dpf-bmt-advance/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "Passat CC 1.8 TSI 160 CV",
+            "name": "1.8 TSI 160 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/estandar/passat-cc-18-tsi-160-cv2/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Passat CC 2.0 TDI 140 CV DPF",
+            "name": "2.0 TDI 140 CV DPF",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/estandar/passat-cc-20-tdi-140-cv-dpf/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "Passat CC 2.0 TDI 140 CV DPF BlueMotion Technology",
+            "name": "2.0 TDI 140 CV DPF BlueMotion Technology",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/estandar/passat-cc-20-tdi-140-cv-dpf-bluemotion-technology/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "Passat CC 2.0 TDI 140 CV DPF BMT",
+            "name": "2.0 TDI 140 CV DPF BMT",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/estandar/passat-cc-20-tdi-140-cv-dpf-bmt/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "Passat CC 1.8 TSI 160 CV DSG 7 vel.",
+            "name": "1.8 TSI 160 CV DSG 7 vel.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/estandar/passat-cc-18-tsi-160-cv-dsg-7-vel/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "Passat CC 2.0 TDI 143 CV DPF BlueTDI",
+            "name": "2.0 TDI 143 CV DPF BlueTDI",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/estandar/passat-cc-20-tdi-143-cv-dpf-bluetdi/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "Passat CC R-Line 1.8 TSI 160 CV",
+            "name": "R-Line 1.8 TSI 160 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/r-line/passat-cc-r-line-18-tsi-160-cv2/datos",
@@ -313,7 +314,7 @@
             ]
         },
         {
-            "name": "Passat CC R-Line 2.0 TDI 140 CV DPF",
+            "name": "R-Line 2.0 TDI 140 CV DPF",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/r-line/passat-cc-r-line-20-tdi-140-cv-dpf/datos",
@@ -341,7 +342,7 @@
             ]
         },
         {
-            "name": "Passat CC 2.0 TDI 140 CV DPF 4Motion",
+            "name": "2.0 TDI 140 CV DPF 4Motion",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/estandar/passat-cc-20-tdi-140-cv-dpf-4motion/datos",
@@ -369,7 +370,7 @@
             ]
         },
         {
-            "name": "Passat CC 2.0 TDI 170 CV DPF",
+            "name": "2.0 TDI 170 CV DPF",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/estandar/passat-cc-20-tdi-170-cv-dpf/datos",
@@ -397,7 +398,7 @@
             ]
         },
         {
-            "name": "Passat CC 2.0 TDI 140 CV DSG DPF",
+            "name": "2.0 TDI 140 CV DSG DPF",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/estandar/passat-cc-20-tdi-140-cv-dsg-dpf/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "Passat CC 1.8 TSI 160 CV DSG7",
+            "name": "1.8 TSI 160 CV DSG7",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/estandar/passat-cc-18-tsi-160-cv-dsg7/datos",
@@ -453,7 +454,7 @@
             ]
         },
         {
-            "name": "Passat CC R-Line 2.0 TDI 140 CV DPF BMT",
+            "name": "R-Line 2.0 TDI 140 CV DPF BMT",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/r-line/passat-cc-r-line-20-tdi-140-cv-dpf-bmt/datos",
@@ -481,7 +482,7 @@
             ]
         },
         {
-            "name": "Passat CC 2.0 TSI 200 CV",
+            "name": "2.0 TSI 200 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/estandar/passat-cc-20-tsi-200-cv/datos",
@@ -509,7 +510,7 @@
             ]
         },
         {
-            "name": "Passat CC R-Line 1.8 TSI 160 CV DSG 7 vel.",
+            "name": "R-Line 1.8 TSI 160 CV DSG 7 vel.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/r-line/passat-cc-r-line-18-tsi-160-cv-dsg-7-vel/datos",
@@ -537,7 +538,7 @@
             ]
         },
         {
-            "name": "Passat CC 2.0 TDI 140 CV DPF 4Motion BMT",
+            "name": "2.0 TDI 140 CV DPF 4Motion BMT",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/estandar/passat-cc-20-tdi-140-cv-dpf-4motion-bmt/datos",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "name": "Passat CC R-Line 2.0 TDI 140 CV DPF 4Motion",
+            "name": "R-Line 2.0 TDI 140 CV DPF 4Motion",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/r-line/passat-cc-r-line-20-tdi-140-cv-dpf-4motion/datos",
@@ -593,7 +594,7 @@
             ]
         },
         {
-            "name": "Passat CC 2.0 TDI 170 CV DPF BMT",
+            "name": "2.0 TDI 170 CV DPF BMT",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/estandar/passat-cc-20-tdi-170-cv-dpf-bmt/datos",
@@ -621,7 +622,7 @@
             ]
         },
         {
-            "name": "Passat CC R-Line 2.0 TDI 170 CV DPF",
+            "name": "R-Line 2.0 TDI 170 CV DPF",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/r-line/passat-cc-r-line-20-tdi-170-cv-dpf/datos",
@@ -649,7 +650,7 @@
             ]
         },
         {
-            "name": "Passat CC 2.0 TDI 140 CV DPF DSG6 BMT",
+            "name": "2.0 TDI 140 CV DPF DSG6 BMT",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/estandar/passat-cc-20-tdi-140-cv-dpf-dsg6-bmt/datos",
@@ -677,7 +678,7 @@
             ]
         },
         {
-            "name": "Passat CC R-Line 2.0 TDI 140 CV DSG DPF",
+            "name": "R-Line 2.0 TDI 140 CV DSG DPF",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/r-line/passat-cc-r-line-20-tdi-140-cv-dsg-dpf/datos",
@@ -705,7 +706,7 @@
             ]
         },
         {
-            "name": "Passat CC R-Line 1.8 TSI 160 CV DSG7",
+            "name": "R-Line 1.8 TSI 160 CV DSG7",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/r-line/passat-cc-r-line-18-tsi-160-cv-dsg7/datos",
@@ -733,7 +734,7 @@
             ]
         },
         {
-            "name": "Passat CC 2.0 TDI 170 CV DSG DPF",
+            "name": "2.0 TDI 170 CV DSG DPF",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/estandar/passat-cc-20-tdi-170-cv-dsg-dpf/datos",
@@ -761,7 +762,7 @@
             ]
         },
         {
-            "name": "Passat CC R-Line 2.0 TSI 200 CV",
+            "name": "R-Line 2.0 TSI 200 CV",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/r-line/passat-cc-r-line-20-tsi-200-cv/datos",
@@ -789,7 +790,7 @@
             ]
         },
         {
-            "name": "Passat CC 2.0 TSI 210 CV",
+            "name": "2.0 TSI 210 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/estandar/passat-cc-20-tsi-210-cv/datos",
@@ -817,7 +818,7 @@
             ]
         },
         {
-            "name": "Passat CC R-Line 2.0 TDI 140 CV DPF 4Motion BMT",
+            "name": "R-Line 2.0 TDI 140 CV DPF 4Motion BMT",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/r-line/passat-cc-r-line-20-tdi-140-cv-dpf-4motion-bmt/datos",
@@ -845,7 +846,7 @@
             ]
         },
         {
-            "name": "Passat CC 2.0 TSI 200CV Tiptronic",
+            "name": "2.0 TSI 200CV Tiptronic",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/estandar/passat-cc-20-tsi-200cv-tiptronic/datos",
@@ -873,7 +874,7 @@
             ]
         },
         {
-            "name": "Passat CC R-Line 2.0 TDI 170 CV DPF BMT",
+            "name": "R-Line 2.0 TDI 170 CV DPF BMT",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/r-line/passat-cc-r-line-20-tdi-170-cv-dpf-bmt/datos",
@@ -901,7 +902,7 @@
             ]
         },
         {
-            "name": "Passat CC 2.0 TSI 200 CV DSG",
+            "name": "2.0 TSI 200 CV DSG",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/estandar/passat-cc-20-tsi-200-cv-dsg/datos",
@@ -929,7 +930,7 @@
             ]
         },
         {
-            "name": "Passat CC R-Line 2.0 TDI 140 CV DPF DSG6 BMT",
+            "name": "R-Line 2.0 TDI 140 CV DPF DSG6 BMT",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/r-line/passat-cc-r-line-20-tdi-140-cv-dpf-dsg6-bmt/datos",
@@ -957,7 +958,7 @@
             ]
         },
         {
-            "name": "Passat CC 2.0 TDI 170 CV DPF DSG6 BMT",
+            "name": "2.0 TDI 170 CV DPF DSG6 BMT",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/estandar/passat-cc-20-tdi-170-cv-dpf-dsg6-bmt/datos",
@@ -985,7 +986,7 @@
             ]
         },
         {
-            "name": "Passat CC R-Line 2.0 TDI 170 CV DSG DPF",
+            "name": "R-Line 2.0 TDI 170 CV DSG DPF",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/r-line/passat-cc-r-line-20-tdi-170-cv-dsg-dpf/datos",
@@ -1013,7 +1014,7 @@
             ]
         },
         {
-            "name": "Passat CC R-Line 2.0 TSI 210 CV",
+            "name": "R-Line 2.0 TSI 210 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/r-line/passat-cc-r-line-20-tsi-210-cv/datos",
@@ -1041,7 +1042,7 @@
             ]
         },
         {
-            "name": "Passat CC R-Line 2.0 TSI 200 CV DSG",
+            "name": "R-Line 2.0 TSI 200 CV DSG",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/r-line/passat-cc-r-line-20-tsi-200-cv-dsg/datos",
@@ -1069,7 +1070,7 @@
             ]
         },
         {
-            "name": "Passat CC 2.0 TSI 210 CV DSG6",
+            "name": "2.0 TSI 210 CV DSG6",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/estandar/passat-cc-20-tsi-210-cv-dsg6/datos",
@@ -1097,7 +1098,7 @@
             ]
         },
         {
-            "name": "Passat CC R-Line 2.0 TDI 170 CV DPF DSG6 BMT",
+            "name": "R-Line 2.0 TDI 170 CV DPF DSG6 BMT",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/r-line/passat-cc-r-line-20-tdi-170-cv-dpf-dsg6-bmt/datos",
@@ -1125,7 +1126,7 @@
             ]
         },
         {
-            "name": "Passat CC 2.0 TDI 170 CV 4Motion DSG DPF",
+            "name": "2.0 TDI 170 CV 4Motion DSG DPF",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/estandar/passat-cc-20-tdi-170-cv-4motion-dsg-dpf/datos",
@@ -1153,7 +1154,7 @@
             ]
         },
         {
-            "name": "Passat CC R-Line 2.0 TSI 210 CV DSG6",
+            "name": "R-Line 2.0 TSI 210 CV DSG6",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/r-line/passat-cc-r-line-20-tsi-210-cv-dsg6/datos",
@@ -1181,7 +1182,7 @@
             ]
         },
         {
-            "name": "Passat CC 2.0 TDI 170 CV DPF DSG6 4Motion BMT",
+            "name": "2.0 TDI 170 CV DPF DSG6 4Motion BMT",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/estandar/passat-cc-20-tdi-170-cv-dpf-dsg6-4motion-bmt/datos",
@@ -1209,7 +1210,7 @@
             ]
         },
         {
-            "name": "Passat CC R-Line 2.0 TDI 170 CV 4Motion DSG DPF",
+            "name": "R-Line 2.0 TDI 170 CV 4Motion DSG DPF",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/r-line/passat-cc-r-line-20-tdi-170-cv-4motion-dsg-dpf/datos",
@@ -1237,7 +1238,7 @@
             ]
         },
         {
-            "name": "Passat CC R-Line 2.0 TDI 170 CV DPF DSG6 4Motion BMT",
+            "name": "R-Line 2.0 TDI 170 CV DPF DSG6 4Motion BMT",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/r-line/passat-cc-r-line-20-tdi-170-cv-dpf-dsg6-4motion-bmt/datos",
@@ -1265,7 +1266,7 @@
             ]
         },
         {
-            "name": "Passat CC 3.6 FSI 300 CV DSG 4Motion",
+            "name": "3.6 FSI 300 CV DSG 4Motion",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/estandar/passat-cc-36-fsi-300-cv-dsg-4motion/datos",
@@ -1293,7 +1294,7 @@
             ]
         },
         {
-            "name": "Passat CC 3.6 V6 FSI 4MOTION DSG",
+            "name": "3.6 V6 FSI 4MOTION DSG",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/estandar/passat-cc-36-v6-fsi-4motion-dsg/datos",
@@ -1321,7 +1322,7 @@
             ]
         },
         {
-            "name": "Passat CC R-Line 3.6 V6 FSI 4MOTION DSG",
+            "name": "R-Line 3.6 V6 FSI 4MOTION DSG",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/passat-cc/2008/estandar/r-line/passat-cc-r-line-36-v6-fsi-4motion-dsg/datos",

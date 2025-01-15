@@ -1,11 +1,12 @@
 {
+    "brand": "Volvo",
     "name": "S70",
     "year": "1998",
     "url": "https://www.km77.com/coches/volvo/s70/1998/estandar",
     "price": "",
     "versions": [
         {
-            "name": "S70 Optima",
+            "name": "Optima",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/s70/1998/estandar/estandar/s70-optima/datos",
@@ -32,7 +33,7 @@
             ]
         },
         {
-            "name": "S70 Optima Aut.",
+            "name": "Optima Aut.",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/s70/1998/estandar/estandar/s70-optima-aut/datos",
@@ -59,7 +60,7 @@
             ]
         },
         {
-            "name": "S70 Optima 2.4 20V",
+            "name": "Optima 2.4 20V",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/s70/1998/estandar/estandar/s70-optima-24-20v/datos",
@@ -86,7 +87,7 @@
             ]
         },
         {
-            "name": "S70 Optima 2.4 20V Aut.",
+            "name": "Optima 2.4 20V Aut.",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/s70/1998/estandar/estandar/s70-optima-24-20v-aut/datos",
@@ -113,7 +114,7 @@
             ]
         },
         {
-            "name": "S70 Optima 2.5D",
+            "name": "Optima 2.5D",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/s70/1998/estandar/estandar/s70-optima-25d/datos",
@@ -140,7 +141,7 @@
             ]
         },
         {
-            "name": "S70 Optima 2.5D Aut.",
+            "name": "Optima 2.5D Aut.",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/s70/1998/estandar/estandar/s70-optima-25d-aut/datos",
@@ -167,7 +168,7 @@
             ]
         },
         {
-            "name": "S70 Optima AWD",
+            "name": "Optima AWD",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/s70/1998/estandar/estandar/s70-optima-awd/datos",
@@ -194,7 +195,7 @@
             ]
         },
         {
-            "name": "S70 Optima AWD Aut.",
+            "name": "Optima AWD Aut.",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/s70/1998/estandar/estandar/s70-optima-awd-aut/datos",

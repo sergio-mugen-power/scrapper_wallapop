@@ -1,11 +1,12 @@
 {
+    "brand": "Maybach",
     "name": "57",
     "year": "2003",
     "url": "https://www.km77.com/coches/maybach/57/2003/estandar",
     "price": "",
     "versions": [
         {
-            "name": "57",
+            "name": "",
             "start_year": "2003",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/maybach/57/2003/estandar/estandar/57/datos",
@@ -16,7 +17,7 @@
             "maletero": "605"
         },
         {
-            "name": "57",
+            "name": "",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/maybach/57/2003/estandar/estandar/572/datos",
@@ -27,7 +28,7 @@
             "maletero": "605"
         },
         {
-            "name": "57 S",
+            "name": "S",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/maybach/57/2003/estandar/s/57-s/datos",
@@ -38,7 +39,7 @@
             "maletero": "605"
         },
         {
-            "name": "57 S",
+            "name": "S",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/maybach/57/2003/estandar/estandar/57-s2/datos",
@@ -49,7 +50,7 @@
             "maletero": "605"
         },
         {
-            "name": "57 Zeppelin",
+            "name": "Zeppelin",
             "start_year": "2009",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/maybach/57/2003/estandar/zeppelin/57-zeppelin/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Scirocco",
     "year": "2014",
     "url": "https://www.km77.com/coches/volkswagen/scirocco/2014/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Scirocco 1.4 TSI 125 CV BMT",
+            "name": "1.4 TSI 125 CV BMT",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2014/estandar/estandar/scirocco-2014/datos",
@@ -25,7 +26,7 @@
             ]
         },
         {
-            "name": "Scirocco Typhoon 1.4 TSI 125 CV BMT",
+            "name": "Typhoon 1.4 TSI 125 CV BMT",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2014/estandar/typhoon/scirocco-typhoon-14-tsi-125-cv-bmt/datos",
@@ -45,7 +46,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TSI 180 CV BMT",
+            "name": "2.0 TSI 180 CV BMT",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2014/estandar/estandar/scirocco-20-tsi-180-cv-bmt2/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TSI 180 CV BMT",
+            "name": "2.0 TSI 180 CV BMT",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2014/estandar/estandar/scirocco-20-tsi-180-cv-bmt/datos",
@@ -85,7 +86,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TDI 150 CV BMT",
+            "name": "2.0 TDI 150 CV BMT",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2014/estandar/estandar/scirocco-20-tdi-150-cv/datos",
@@ -105,7 +106,7 @@
             ]
         },
         {
-            "name": "Scirocco Typhoon 2.0 TSI 180 CV BMT",
+            "name": "Typhoon 2.0 TSI 180 CV BMT",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2014/estandar/typhoon/scirocco-typhoon-20-tsi-180-cv-bmt/datos",
@@ -125,7 +126,7 @@
             ]
         },
         {
-            "name": "Scirocco Typhoon 2.0 TDI 150 CV BMT",
+            "name": "Typhoon 2.0 TDI 150 CV BMT",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2014/estandar/typhoon/scirocco-typhoon-20-tdi-150-cv-bmt/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TSI 180 CV BMT DSG",
+            "name": "2.0 TSI 180 CV BMT DSG",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2014/estandar/estandar/scirocco-20-tsi-180-cv-dsg/datos",
@@ -165,7 +166,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TDI 150 CV BMT DSG",
+            "name": "2.0 TDI 150 CV BMT DSG",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2014/estandar/estandar/scirocco-20-tdi-150-cv-bmt-dsg/datos",
@@ -185,7 +186,7 @@
             ]
         },
         {
-            "name": "Scirocco Typhoon 2.0 TSI 180 CV BMT DSG",
+            "name": "Typhoon 2.0 TSI 180 CV BMT DSG",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2014/estandar/typhoon/scirocco-20-tsi-180-cv-bmt-dsg/datos",
@@ -205,7 +206,7 @@
             ]
         },
         {
-            "name": "Scirocco Typhoon 2.0 TDI 150 CV BMT DSG",
+            "name": "Typhoon 2.0 TDI 150 CV BMT DSG",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2014/estandar/typhoon/scirocco-typhoon-20-tdi-150-cv-bmt-dsg/datos",
@@ -225,7 +226,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TDI 184 CV BMT",
+            "name": "2.0 TDI 184 CV BMT",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2014/estandar/estandar/scirocco-20-tdi-184-cv-bmt/datos",
@@ -245,7 +246,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TDI 184 CV BMT",
+            "name": "2.0 TDI 184 CV BMT",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2014/estandar/estandar/scirocco-20-tdi-184-cv-bmt2/datos",
@@ -265,7 +266,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TSI 220 CV BMT",
+            "name": "2.0 TSI 220 CV BMT",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2014/estandar/estandar/scirocco-20-tsi-220-cv-bmt/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "Scirocco Typhoon 2.0 TDI 184 CV BMT",
+            "name": "Typhoon 2.0 TDI 184 CV BMT",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2014/estandar/typhoon/scirocco-typhoon-20-tdi-184-cv-bmt/datos",
@@ -305,7 +306,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TDI 184 CV BMT DSG",
+            "name": "2.0 TDI 184 CV BMT DSG",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2014/estandar/estandar/scirocco-20-tdi-184-cv-bmt-dsg/datos",
@@ -325,7 +326,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TSI 220 CV BMT DSG",
+            "name": "2.0 TSI 220 CV BMT DSG",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2014/estandar/estandar/scirocco-20-tsi-220-cv-bmt-dsg/datos",
@@ -345,7 +346,7 @@
             ]
         },
         {
-            "name": "Scirocco Typhoon 2.0 TDI 184 CV BMT DSG",
+            "name": "Typhoon 2.0 TDI 184 CV BMT DSG",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2014/estandar/typhoon/scirocco-typhoon-20-tdi-184-cv-bmt-dsg/datos",
@@ -365,7 +366,7 @@
             ]
         },
         {
-            "name": "Scirocco GTS 2.0 TSI 220 CV BMT",
+            "name": "GTS 2.0 TSI 220 CV BMT",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2014/estandar/gts/scirocco-gts-20-tsi-220-cv-bmt/datos",
@@ -385,7 +386,7 @@
             ]
         },
         {
-            "name": "Scirocco GTS 2.0 TSI 220 CV BMT DSG",
+            "name": "GTS 2.0 TSI 220 CV BMT DSG",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2014/estandar/gts/scirocco-gts-20-tsi-220-cv-bmt-dsg/datos",
@@ -405,7 +406,7 @@
             ]
         },
         {
-            "name": "Scirocco R 2.0 TSI 280 CV",
+            "name": "R 2.0 TSI 280 CV",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2014/estandar/r/scirocco-r-20-tsi-280-cv/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "Scirocco R 2.0 TSI 280 CV DSG",
+            "name": "R 2.0 TSI 280 CV DSG",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2014/estandar/r/scirocco-r-20-tsi-280-cv-dsg/datos",

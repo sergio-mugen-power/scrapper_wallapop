@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "A3 Sportback",
     "year": "2004",
     "url": "https://www.km77.com/coches/audi/a3/2004/sportback",
     "price": "Desde 33.890 €",
     "versions": [
         {
-            "name": "A3 Sportback 1.6 Attraction",
+            "name": "1.6 Attraction",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/attraction/a3-sportback-16-attraction/datos",
@@ -16,7 +17,7 @@
             "maletero": "370"
         },
         {
-            "name": "A3 Sportback 1.6 FSI Attraction",
+            "name": "1.6 FSI Attraction",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/attraction/a3-sportback-16-fsi-attraction/datos",
@@ -27,7 +28,7 @@
             "maletero": "370"
         },
         {
-            "name": "A3 Sportback 1.4 TFSI 125 CV Attraction",
+            "name": "1.4 TFSI 125 CV Attraction",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/attraction/a3-sportback-14-tfsi-125-cv-attraction/datos",
@@ -38,7 +39,7 @@
             "maletero": "370"
         },
         {
-            "name": "A3 Sportback 1.6 Ambiente",
+            "name": "1.6 Ambiente",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambiente/a3-sportback-16-ambiente/datos",
@@ -49,7 +50,7 @@
             "maletero": "370"
         },
         {
-            "name": "A3 Sportback 1.6 tiptronic Attraction",
+            "name": "1.6 tiptronic Attraction",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/attraction/a3-sportback-16-tiptronic-attraction/datos",
@@ -138,7 +139,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 1.6 Ambition",
+            "name": "1.6 Ambition",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambition/a3-sportback-16-ambition/datos",
@@ -149,7 +150,7 @@
             "maletero": "370"
         },
         {
-            "name": "A3 Sportback 1.9 TDI Attraction",
+            "name": "1.9 TDI Attraction",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/attraction/a3-sportback-19-tdi-attraction/datos",
@@ -238,7 +239,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 1.6 FSI Ambiente",
+            "name": "1.6 FSI Ambiente",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambiente/a3-sportback-16-fsi-ambiente/datos",
@@ -327,7 +328,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 1.6 FSI Ambition",
+            "name": "1.6 FSI Ambition",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambition/a3-sportback-16-fsi-ambition/datos",
@@ -338,7 +339,7 @@
             "maletero": "370"
         },
         {
-            "name": "A3 Sportback 1.4 TFSI 125 CV Ambiente",
+            "name": "1.4 TFSI 125 CV Ambiente",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambiente/a3-sportback-14-tfsi-125-cv-ambiente/datos",
@@ -349,7 +350,7 @@
             "maletero": "370"
         },
         {
-            "name": "A3 Sportback 1.9 TDIe DPF",
+            "name": "1.9 TDIe DPF",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/estandar/a3-sportback-19-tdie-dpf/datos",
@@ -360,7 +361,7 @@
             "maletero": "370"
         },
         {
-            "name": "A3 Sportback 1.4 TFSI 125 CV Ambition",
+            "name": "1.4 TFSI 125 CV Ambition",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambition/a3-sportback-14-tfsi-125-cv-ambition/datos",
@@ -591,7 +592,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 1.6 tiptronic Ambiente",
+            "name": "1.6 tiptronic Ambiente",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambiente/a3-sportback-16-tiptronic-ambiente/datos",
@@ -680,7 +681,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 2.0 FSI Attraction",
+            "name": "2.0 FSI Attraction",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/attraction/a3-sportback-20-fsi-attraction/datos",
@@ -769,7 +770,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 1.6 tiptronic Ambition",
+            "name": "1.6 tiptronic Ambition",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambition/a3-sportback-16-tiptronic-ambition/datos",
@@ -858,7 +859,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 2.0 TDI Attraction",
+            "name": "2.0 TDI Attraction",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/attraction/a3-sportback-20-tdi-attraction/datos",
@@ -869,7 +870,7 @@
             "maletero": "370"
         },
         {
-            "name": "A3 Sportback 1.9 TDI Ambiente",
+            "name": "1.9 TDI Ambiente",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambiente/a3-sportback-19-tdi-ambiente/datos",
@@ -958,7 +959,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 1.8 T FSI Attraction",
+            "name": "1.8 T FSI Attraction",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/attraction/a3-sportback-18-t-fsi-attraction/datos",
@@ -1192,7 +1193,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 1.9 TDI Ambition",
+            "name": "1.9 TDI Ambition",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambition/a3-sportback-19-tdi-ambition/datos",
@@ -1281,7 +1282,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 1.9 TDI S tronic Attraction DPF",
+            "name": "1.9 TDI S tronic Attraction DPF",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/attraction/a3-sportback-19-tdi-s-tronic-attraction-dpf/datos",
@@ -1292,7 +1293,7 @@
             "maletero": "370"
         },
         {
-            "name": "A3 Sportback 2.0 FSI Ambiente",
+            "name": "2.0 FSI Ambiente",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambiente/a3-sportback-20-fsi-ambiente/datos",
@@ -1303,7 +1304,7 @@
             "maletero": "370"
         },
         {
-            "name": "A3 Sportback 2.0 FSI tiptronic Attraction",
+            "name": "2.0 FSI tiptronic Attraction",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/attraction/a3-sportback-20-fsi-tiptronic-attraction/datos",
@@ -1314,7 +1315,7 @@
             "maletero": "370"
         },
         {
-            "name": "A3 Sportback 2.0 FSI Ambition",
+            "name": "2.0 FSI Ambition",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambition/a3-sportback-20-fsi-ambition/datos",
@@ -1325,7 +1326,7 @@
             "maletero": "370"
         },
         {
-            "name": "A3 Sportback 2.0 TDI 170 CV Attraction DPF",
+            "name": "2.0 TDI 170 CV Attraction DPF",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/attraction/a3-sportback-20-tdi-170-cv-attraction-dpf/datos",
@@ -1336,7 +1337,7 @@
             "maletero": "370"
         },
         {
-            "name": "A3 Sportback 2.0 TDI Ambiente",
+            "name": "2.0 TDI Ambiente",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambiente/a3-sportback-20-tdi-ambiente/datos",
@@ -1347,7 +1348,7 @@
             "maletero": "370"
         },
         {
-            "name": "A3 Sportback 2.0 TDI Ambition",
+            "name": "2.0 TDI Ambition",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambition/a3-sportback-20-tdi-ambition/datos",
@@ -1358,7 +1359,7 @@
             "maletero": "370"
         },
         {
-            "name": "A3 Sportback 1.8 T FSI Ambiente",
+            "name": "1.8 T FSI Ambiente",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambiente/a3-sportback-18-t-fsi-ambiente/datos",
@@ -1369,7 +1370,7 @@
             "maletero": "370"
         },
         {
-            "name": "A3 Sportback 2.0 TDI S tronic Attraction",
+            "name": "2.0 TDI S tronic Attraction",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/attraction/a3-sportback-20-tdi-s-tronic-attraction/datos",
@@ -1380,7 +1381,7 @@
             "maletero": "370"
         },
         {
-            "name": "A3 Sportback 2.0 TDI quattro Attraction",
+            "name": "2.0 TDI quattro Attraction",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/attraction/a3-sportback-20-tdi-quattro-attraction/datos",
@@ -1391,7 +1392,7 @@
             "maletero": "302"
         },
         {
-            "name": "A3 Sportback 1.8 T FSI Ambition",
+            "name": "1.8 T FSI Ambition",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambition/a3-sportback-18-t-fsi-ambition/datos",
@@ -1402,7 +1403,7 @@
             "maletero": "370"
         },
         {
-            "name": "A3 Sportback 1.8 T FSI S tronic Attraction",
+            "name": "1.8 T FSI S tronic Attraction",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/attraction/a3-sportback-18-t-fsi-s-tronic-attraction/datos",
@@ -1413,7 +1414,7 @@
             "maletero": "370"
         },
         {
-            "name": "A3 Sportback 2.0 T FSI Attraction",
+            "name": "2.0 T FSI Attraction",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/attraction/a3-sportback-20-t-fsi-attraction/datos",
@@ -1424,7 +1425,7 @@
             "maletero": "370"
         },
         {
-            "name": "A3 Sportback 1.9 TDI S tronic Ambiente DPF",
+            "name": "1.9 TDI S tronic Ambiente DPF",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambiente/a3-sportback-19-tdi-s-tronic-ambiente-dpf/datos",
@@ -1435,7 +1436,7 @@
             "maletero": "370"
         },
         {
-            "name": "A3 Sportback 1.9 TDI S tronic Ambition DPF",
+            "name": "1.9 TDI S tronic Ambition DPF",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambition/a3-sportback-19-tdi-s-tronic-ambition-dpf/datos",
@@ -1446,7 +1447,7 @@
             "maletero": "370"
         },
         {
-            "name": "A3 Sportback 2.0 FSI tiptronic Ambiente",
+            "name": "2.0 FSI tiptronic Ambiente",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambiente/a3-sportback-20-fsi-tiptronic-ambiente/datos",
@@ -1457,7 +1458,7 @@
             "maletero": "370"
         },
         {
-            "name": "A3 Sportback 2.0 TDI 170 CV Ambiente DPF",
+            "name": "2.0 TDI 170 CV Ambiente DPF",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambiente/a3-sportback-20-tdi-170-cv-ambiente-dpf/datos",
@@ -1468,7 +1469,7 @@
             "maletero": "370"
         },
         {
-            "name": "A3 Sportback 2.0 FSI tiptronic Ambition",
+            "name": "2.0 FSI tiptronic Ambition",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambition/a3-sportback-20-fsi-tiptronic-ambition/datos",
@@ -1701,7 +1702,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 2.0 TDI 170 CV Ambition DPF",
+            "name": "2.0 TDI 170 CV Ambition DPF",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambition/a3-sportback-20-tdi-170-cv-ambition-dpf/datos",
@@ -1933,7 +1934,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 2.0 TDI 170 CV S tronic Attraction DPF",
+            "name": "2.0 TDI 170 CV S tronic Attraction DPF",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/attraction/a3-sportback-20-tdi-170-cv-s-tronic-attraction-dpf/datos",
@@ -1944,7 +1945,7 @@
             "maletero": "370"
         },
         {
-            "name": "A3 Sportback 2.0 TDI 170 CV quattro Attraction DPF",
+            "name": "2.0 TDI 170 CV quattro Attraction DPF",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/attraction/a3-sportback-20-tdi-170-cv-quattro-attraction-dpf/datos",
@@ -2179,7 +2180,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 2.0 TDI S tronic Ambiente",
+            "name": "2.0 TDI S tronic Ambiente",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambiente/a3-sportback-20-tdi-s-tronic-ambiente/datos",
@@ -2268,7 +2269,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 2.0 TDI quattro Ambiente",
+            "name": "2.0 TDI quattro Ambiente",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambiente/a3-sportback-20-tdi-quattro-ambiente/datos",
@@ -2502,7 +2503,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 2.0 TDI S tronic Ambition",
+            "name": "2.0 TDI S tronic Ambition",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambition/a3-sportback-20-tdi-s-tronic-ambition/datos",
@@ -2735,7 +2736,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 2.0 TDI quattro Ambition",
+            "name": "2.0 TDI quattro Ambition",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambition/a3-sportback-20-tdi-quattro-ambition/datos",
@@ -2968,7 +2969,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 1.8 T FSI S tronic Ambiente",
+            "name": "1.8 T FSI S tronic Ambiente",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambiente/a3-sportback-18-t-fsi-s-tronic-ambiente/datos",
@@ -3202,7 +3203,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 2.0 T FSI Ambiente",
+            "name": "2.0 T FSI Ambiente",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambiente/a3-sportback-20-t-fsi-ambiente/datos",
@@ -3435,7 +3436,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 1.8 T FSI S tronic Ambition",
+            "name": "1.8 T FSI S tronic Ambition",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambition/a3-sportback-18-t-fsi-s-tronic-ambition/datos",
@@ -3668,7 +3669,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 2.0 T FSI Ambition",
+            "name": "2.0 T FSI Ambition",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambition/a3-sportback-20-t-fsi-ambition/datos",
@@ -3900,7 +3901,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 2.0 TDI 170 CV S tronic Ambiente DPF",
+            "name": "2.0 TDI 170 CV S tronic Ambiente DPF",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambiente/a3-sportback-20-tdi-170-cv-s-tronic-ambiente-dpf/datos",
@@ -4135,7 +4136,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 2.0 TDI 170 CV quattro Ambiente DPF",
+            "name": "2.0 TDI 170 CV quattro Ambiente DPF",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambiente/a3-sportback-20-tdi-170-cv-quattro-ambiente-dpf/datos",
@@ -4368,7 +4369,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 2.0 TDI 170 CV S tronic Ambition DPF",
+            "name": "2.0 TDI 170 CV S tronic Ambition DPF",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambition/a3-sportback-20-tdi-170-cv-s-tronic-ambition-dpf/datos",
@@ -4601,7 +4602,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 2.0 TDI 170 CV quattro Ambition DPF",
+            "name": "2.0 TDI 170 CV quattro Ambition DPF",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambition/a3-sportback-20-tdi-170-cv-quattro-ambition-dpf/datos",
@@ -4833,7 +4834,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 2.0 T FSI S tronic Ambition",
+            "name": "2.0 T FSI S tronic Ambition",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambition/a3-sportback-20-t-fsi-s-tronic-ambition/datos",
@@ -5065,7 +5066,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 2.0 T FSI quattro Ambition",
+            "name": "2.0 T FSI quattro Ambition",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambition/a3-sportback-20-t-fsi-quattro-ambition/datos",
@@ -5297,7 +5298,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 3.2 V6 quattro Ambition",
+            "name": "3.2 V6 quattro Ambition",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambition/a3-sportback-32-v6-quattro-ambition/datos",
@@ -5529,7 +5530,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 3.2 V6 quattro S tronic Ambition",
+            "name": "3.2 V6 quattro S tronic Ambition",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2004/sportback/ambition/a3-sportback-32-v6-quattro-s-tronic-ambition/datos",

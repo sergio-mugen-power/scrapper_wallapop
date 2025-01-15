@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "ID.5",
     "year": "2022",
     "url": "https://www.km77.com/coches/volkswagen/id5/2022/estandar",
     "price": "Desde 42.490 €",
     "versions": [
         {
-            "name": "ID.5 Pure 125 kW (170 CV) 52 kWh (07/2024 - )",
+            "name": "Pure 125 kW (170 CV) 52 kWh (07/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/id5/2022/estandar/estandar/id5-pure-125-kw-170-cv-52-kwh/datos",
@@ -36,7 +37,7 @@
             ]
         },
         {
-            "name": "ID.5 Pure Más 125 kW (170 CV) 52 kWh (07/2024 - )",
+            "name": "Pure Más 125 kW (170 CV) 52 kWh (07/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/id5/2022/estandar/estandar/id5-pure-mas-125-kw-170-cv-52-kwh/datos",
@@ -67,7 +68,7 @@
             ]
         },
         {
-            "name": "ID.5 Pro 210 kW (286 CV) 77 kWh (11/2023 - )",
+            "name": "Pro 210 kW (286 CV) 77 kWh (11/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/id5/2022/estandar/estandar/id5-pro-performance-210-kw-286-cv-77-kwh/datos",
@@ -98,7 +99,7 @@
             ]
         },
         {
-            "name": "ID.5 Pro Más 210 kW (286 CV) 77 kWh (01/2024 - )",
+            "name": "Pro Más 210 kW (286 CV) 77 kWh (01/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/id5/2022/estandar/estandar/id5-pro-mas-210-kw-286-cv-77-kwh/datos",
@@ -129,7 +130,7 @@
             ]
         },
         {
-            "name": "ID.5 GTX 250 kW (340 CV) 77 kWh (11/2023 - )",
+            "name": "GTX 250 kW (340 CV) 77 kWh (11/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/id5/2022/estandar/gtx/id5-gtx-4motion-250-kw-340-cv-77-kwh/datos",

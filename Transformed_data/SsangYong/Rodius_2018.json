@@ -1,11 +1,12 @@
 {
+    "brand": "SsangYong",
     "name": "Rodius",
     "year": "2018",
     "url": "https://www.km77.com/coches/ssangyong/rodius/2018/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Rodius D22T Line",
+            "name": "D22T Line",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ssangyong/rodius/2018/estandar/line/rodius-d22t-line/datos",
@@ -91,7 +92,7 @@
             ]
         },
         {
-            "name": "Rodius D22T Premium",
+            "name": "D22T Premium",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ssangyong/rodius/2018/estandar/premium/rodius-d22t-premium/datos",
@@ -178,7 +179,7 @@
             ]
         },
         {
-            "name": "Rodius D22T Limited",
+            "name": "D22T Limited",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ssangyong/rodius/2018/estandar/limited/rodius-d22t-limited/datos",
@@ -265,7 +266,7 @@
             ]
         },
         {
-            "name": "Rodius D22T Premium Aut.",
+            "name": "D22T Premium Aut.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ssangyong/rodius/2018/estandar/premium/rodius-d22t-premium-aut/datos",
@@ -353,7 +354,7 @@
             ]
         },
         {
-            "name": "Rodius D22T Limited Aut.",
+            "name": "D22T Limited Aut.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ssangyong/rodius/2018/estandar/limited/rodius-d22t-limited-aut/datos",
@@ -441,7 +442,7 @@
             ]
         },
         {
-            "name": "Rodius D22T Limited AWD Aut.",
+            "name": "D22T Limited AWD Aut.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ssangyong/rodius/2018/estandar/limited/rodius-d22t-limited-awd-aut/datos",

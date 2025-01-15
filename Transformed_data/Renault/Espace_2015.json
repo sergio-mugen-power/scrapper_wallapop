@@ -1,11 +1,12 @@
 {
+    "brand": "Renault",
     "name": "Espace",
     "year": "2015",
     "url": "https://www.km77.com/coches/renault/espace/2015/estandar",
     "price": "Desde 39.482 €",
     "versions": [
         {
-            "name": "Espace Life Energy dCi 96 kW (130 CV)",
+            "name": "Life Energy dCi 96 kW (130 CV)",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/life/espace-2015/datos",
@@ -202,7 +203,7 @@
             ]
         },
         {
-            "name": "Espace Life Energy dCi 96 kW (130 CV) 7 plazas",
+            "name": "Life Energy dCi 96 kW (130 CV) 7 plazas",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/life/espace-life-dci-130-7-plazas/datos",
@@ -399,7 +400,7 @@
             ]
         },
         {
-            "name": "Espace Intens Energy dCi 96 kW (130 CV)",
+            "name": "Intens Energy dCi 96 kW (130 CV)",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/intens/espace-intens-energy-dci-96-kw-130-cv/datos",
@@ -600,7 +601,7 @@
             ]
         },
         {
-            "name": "Espace Intens Energy dCi 96 kW (130 CV) 7 plazas",
+            "name": "Intens Energy dCi 96 kW (130 CV) 7 plazas",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/intens/espace-intens-energy-dci-96-kw-130-cv-7-plazas/datos",
@@ -801,7 +802,7 @@
             ]
         },
         {
-            "name": "Espace Zen Energy dCi 96 kW (130 CV)",
+            "name": "Zen Energy dCi 96 kW (130 CV)",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/zen/espace-zen-dci-130/datos",
@@ -1017,7 +1018,7 @@
             ]
         },
         {
-            "name": "Espace Zen Energy dCi 96 kW (130 CV) 7 plazas",
+            "name": "Zen Energy dCi 96 kW (130 CV) 7 plazas",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/zen/espace-zen-dci-130-7-plazas/datos",
@@ -1234,7 +1235,7 @@
             ]
         },
         {
-            "name": "Espace Limited Energy dCi 96 kW (130 CV)",
+            "name": "Limited Energy dCi 96 kW (130 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/limited/espace-limited-energy-dci-96-kw-130-cv/datos",
@@ -1448,7 +1449,7 @@
             ]
         },
         {
-            "name": "Espace Limited Energy dCi 96 kW (130 CV) 7 plazas",
+            "name": "Limited Energy dCi 96 kW (130 CV) 7 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/limited/espace-limited-energy-dci-96-kw-130-cv-7-plazas/datos",
@@ -1662,7 +1663,7 @@
             ]
         },
         {
-            "name": "Espace Zen Energy dCi Twin Turbo 118 kW (160 CV) EDC",
+            "name": "Zen Energy dCi Twin Turbo 118 kW (160 CV) EDC",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/zen/espace-zen-dci-twin-turbo-160-edc/datos",
@@ -1886,7 +1887,7 @@
             ]
         },
         {
-            "name": "Espace Zen Energy TCe 147 kW (200 CV) EDC",
+            "name": "Zen Energy TCe 147 kW (200 CV) EDC",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/zen/espace-zen-tce-200-edc-7-vel/datos",
@@ -2108,7 +2109,7 @@
             ]
         },
         {
-            "name": "Espace Intens Blue dCi 118 kW (160 CV) EDC",
+            "name": "Intens Blue dCi 118 kW (160 CV) EDC",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/intens/espace-intens-blue-dci-118-kw-160-cv-edc/datos",
@@ -2306,7 +2307,7 @@
             ]
         },
         {
-            "name": "Espace Limited dCi Twin Turbo 118 kW (160 CV) EDC",
+            "name": "Limited dCi Twin Turbo 118 kW (160 CV) EDC",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/limited/espace-limited-dci-twin-turbo-118-kw-160-cv-edc/datos",
@@ -2518,7 +2519,7 @@
             ]
         },
         {
-            "name": "Espace Zen Energy dCi Twin Turbo 118 kW (160 CV) EDC 7 plazas",
+            "name": "Zen Energy dCi Twin Turbo 118 kW (160 CV) EDC 7 plazas",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/zen/espace-zen-dci-twin-turbo-160-edc6-7-plazas/datos",
@@ -2742,7 +2743,7 @@
             ]
         },
         {
-            "name": "Espace Zen Energy TCe 147 kW (200 CV) EDC 7 plazas",
+            "name": "Zen Energy TCe 147 kW (200 CV) EDC 7 plazas",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/zen/espace-zen-tce-200-edc7-7-plazas/datos",
@@ -2964,7 +2965,7 @@
             ]
         },
         {
-            "name": "Espace Intens Blue dCi 118 kW (160 CV) EDC 7 plazas",
+            "name": "Intens Blue dCi 118 kW (160 CV) EDC 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/intens/espace-intens-blue-dci-118-kw-160-cv-edc-7-plazas/datos",
@@ -3162,7 +3163,7 @@
             ]
         },
         {
-            "name": "Espace Limited dCi Twin Turbo 118 kW (160 CV) EDC",
+            "name": "Limited dCi Twin Turbo 118 kW (160 CV) EDC",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/limited/espace-limited-dci-twin-turbo-118-kw-160-cv-edc2/datos",
@@ -3376,7 +3377,7 @@
             ]
         },
         {
-            "name": "Espace Zen Energy TCe 168 kW (225 CV) EDC",
+            "name": "Zen Energy TCe 168 kW (225 CV) EDC",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/zen/espace-zen-energy-tce-168-kw-225-cv-edc/datos",
@@ -3599,7 +3600,7 @@
             ]
         },
         {
-            "name": "Espace Limited dCi Twin Turbo 118 kW (160 CV) EDC 7 plazas",
+            "name": "Limited dCi Twin Turbo 118 kW (160 CV) EDC 7 plazas",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/limited/espace-limited-dci-twin-turbo-118-kw-160-cv-edc-7-plazas/datos",
@@ -3812,7 +3813,7 @@
             ]
         },
         {
-            "name": "Espace Limited dCi Twin Turbo 118 kW (160 CV) EDC 7 plazas",
+            "name": "Limited dCi Twin Turbo 118 kW (160 CV) EDC 7 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/limited/espace-limited-dci-twin-turbo-118-kw-160-cv-edc-7-plazas2/datos",
@@ -4026,7 +4027,7 @@
             ]
         },
         {
-            "name": "Espace Zen Energy TCe 168 kW (225 CV) EDC 7 plazas",
+            "name": "Zen Energy TCe 168 kW (225 CV) EDC 7 plazas",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/zen/espace-zen-energy-tce-168-kw-225-cv-edc-7-plazas/datos",
@@ -4247,7 +4248,7 @@
             ]
         },
         {
-            "name": "Espace Limited TCe 165 kW (225 CV) EDC",
+            "name": "Limited TCe 165 kW (225 CV) EDC",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/limited/espace-limited-tce-168-kw-225-cv-edc/datos",
@@ -4459,7 +4460,7 @@
             ]
         },
         {
-            "name": "Espace Limited Blue dCi 118 kW (160 CV) EDC",
+            "name": "Limited Blue dCi 118 kW (160 CV) EDC",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/limited/espace-limited-blue-dci-118-kw-160-cv-edc2/datos",
@@ -4685,7 +4686,7 @@
             ]
         },
         {
-            "name": "Espace Limited TCe 165 kW (225 CV) EDC 7 plazas",
+            "name": "Limited TCe 165 kW (225 CV) EDC 7 plazas",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/limited/espace-limited-tce-168-kw-225-cv-edc-7-plazas/datos",
@@ -4897,7 +4898,7 @@
             ]
         },
         {
-            "name": "Espace Limited Blue dCi 118 kW (160 CV) EDC 7 plazas",
+            "name": "Limited Blue dCi 118 kW (160 CV) EDC 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/limited/espace-limited-blue-dci-118-kw-160-cv-edc-7-plazas/datos",
@@ -5124,7 +5125,7 @@
             ]
         },
         {
-            "name": "Espace Limited TCe GPF 165 kW (225 CV) EDC",
+            "name": "Limited TCe GPF 165 kW (225 CV) EDC",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/limited/espace-limited-tce-gpf-165-kw-225-cv-edc/datos",
@@ -5350,7 +5351,7 @@
             ]
         },
         {
-            "name": "Espace ICON dCi Twin Turbo 118 kW (160 CV) EDC",
+            "name": "ICON dCi Twin Turbo 118 kW (160 CV) EDC",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/icon/espace-icon-dci-twin-turbo-118-kw-160-cv-edc/datos",
@@ -5571,7 +5572,7 @@
             ]
         },
         {
-            "name": "Espace ICON dCi Twin Turbo 118 kW (160 CV) EDC",
+            "name": "ICON dCi Twin Turbo 118 kW (160 CV) EDC",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/icon/espace-icon-dci-twin-turbo-118-kw-160-cv-edc2/datos",
@@ -5793,7 +5794,7 @@
             ]
         },
         {
-            "name": "Espace Limited Blue dCi 147 kW (200 CV) EDC",
+            "name": "Limited Blue dCi 147 kW (200 CV) EDC",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/limited/espace-limited-blue-dci-147-kw-200-cv-edc2/datos",
@@ -6019,7 +6020,7 @@
             ]
         },
         {
-            "name": "Espace Limited TCe GPF 165 kW (225 CV) EDC 7 plazas",
+            "name": "Limited TCe GPF 165 kW (225 CV) EDC 7 plazas",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/limited/espace-limited-tce-gpf-165-kw-225-cv-edc-7-plazas/datos",
@@ -6246,7 +6247,7 @@
             ]
         },
         {
-            "name": "Espace ICON Energy dCi Twin Turbo 118 kW (160 CV) EDC 7 plazas",
+            "name": "ICON Energy dCi Twin Turbo 118 kW (160 CV) EDC 7 plazas",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/icon/espace-icon-energy-dci-twin-turbo-118-kw-160-cv-edc-7-plazas/datos",
@@ -6467,7 +6468,7 @@
             ]
         },
         {
-            "name": "Espace ICON Energy dCi Twin Turbo 118 kW (160 CV) EDC 7 plazas",
+            "name": "ICON Energy dCi Twin Turbo 118 kW (160 CV) EDC 7 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/icon/espace-icon-energy-dci-twin-turbo-118-kw-160-cv-edc-7-plazas2/datos",
@@ -6689,7 +6690,7 @@
             ]
         },
         {
-            "name": "Espace Limited Blue dCi 147 kW (200 CV) EDC 7 plazas",
+            "name": "Limited Blue dCi 147 kW (200 CV) EDC 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/limited/espace-limited-blue-dci-147-kw-200-cv-edc-7-plazas/datos",
@@ -6916,7 +6917,7 @@
             ]
         },
         {
-            "name": "Espace ICON Energy TCe 165 kW (225 CV) EDC",
+            "name": "ICON Energy TCe 165 kW (225 CV) EDC",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/icon/espace-icon-energy-tce-168-kw-225-cv-edc/datos",
@@ -7136,7 +7137,7 @@
             ]
         },
         {
-            "name": "Espace ICON TCe 165 kW (225 CV) EDC 7 plazas",
+            "name": "ICON TCe 165 kW (225 CV) EDC 7 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/icon/espace-icon-tce-168-kw-225-cv-edc-7-plazas/datos",
@@ -7356,7 +7357,7 @@
             ]
         },
         {
-            "name": "Espace Initiale Paris Energy TCe 147 kW (200 CV) EDC",
+            "name": "Initiale Paris Energy TCe 147 kW (200 CV) EDC",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/initiale-paris/espace-initiale-paris-energy-tce-200-edc/datos",
@@ -7571,7 +7572,7 @@
             ]
         },
         {
-            "name": "Espace Initiale Paris Energy dCi Twin Turbo 118 kW (160 CV) EDC",
+            "name": "Initiale Paris Energy dCi Twin Turbo 118 kW (160 CV) EDC",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/initiale-paris/espace-initial-paris-dci-twin-turbo-160-edc/datos",
@@ -7795,7 +7796,7 @@
             ]
         },
         {
-            "name": "Espace Initiale Paris Energy dCi Twin Turbo 118 kW (160 CV) EDC",
+            "name": "Initiale Paris Energy dCi Twin Turbo 118 kW (160 CV) EDC",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/initiale-paris/espace-initiale-paris-energy-dci-twin-turbo-118-kw-160-cv-edc/datos",
@@ -8019,7 +8020,7 @@
             ]
         },
         {
-            "name": "Espace Initiale Paris Energy TCe 147 kW (200 CV) EDC 7 plazas",
+            "name": "Initiale Paris Energy TCe 147 kW (200 CV) EDC 7 plazas",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/initiale-paris/espace-initiale-paris-energy-tce-200-edc-7-plazas/datos",
@@ -8235,7 +8236,7 @@
             ]
         },
         {
-            "name": "Espace Initiale Paris Energy dCi Twin Turbo 118 kW (160 CV) EDC 7 plazas",
+            "name": "Initiale Paris Energy dCi Twin Turbo 118 kW (160 CV) EDC 7 plazas",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/initiale-paris/espace-initial-paris-dci-twin-turbo-160-edc6-7-plazas/datos",
@@ -8458,7 +8459,7 @@
             ]
         },
         {
-            "name": "Espace Initiale Paris Energy dCi Twin Turbo 118 kW (160 CV) EDC 7 plazas",
+            "name": "Initiale Paris Energy dCi Twin Turbo 118 kW (160 CV) EDC 7 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/initiale-paris/espace-initiale-paris-energy-dci-twin-turbo-118-kw-160-cv-edc-7-plazas/datos",
@@ -8683,7 +8684,7 @@
             ]
         },
         {
-            "name": "Espace Initiale Paris Energy TCe 165 kW (225 CV) EDC",
+            "name": "Initiale Paris Energy TCe 165 kW (225 CV) EDC",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/initiale-paris/espace-initiale-paris-energy-tce-168-kw-225-cv-edc/datos",
@@ -8906,7 +8907,7 @@
             ]
         },
         {
-            "name": "Espace Initiale Paris Energy TCe 165 kW (225 CV) EDC 7 plazas",
+            "name": "Initiale Paris Energy TCe 165 kW (225 CV) EDC 7 plazas",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/initiale-paris/espace-initiale-paris-energy-tce-168-kw-225-cv-edc-7-plazas/datos",
@@ -9130,7 +9131,7 @@
             ]
         },
         {
-            "name": "Espace Initiale Paris TCe GPF 165 kW (225 CV) EDC",
+            "name": "Initiale Paris TCe GPF 165 kW (225 CV) EDC",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/initiale-paris/espace-initiale-paris-tce-gpf-165-kw-225-cv-edc/datos",
@@ -9358,7 +9359,7 @@
             ]
         },
         {
-            "name": "Espace Initiale Paris Blue dCi 147 kW (200 CV) EDC",
+            "name": "Initiale Paris Blue dCi 147 kW (200 CV) EDC",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/initiale-paris/espace-initiale-paris-blue-dci-147-kw-200-cv-edc/datos",
@@ -9586,7 +9587,7 @@
             ]
         },
         {
-            "name": "Espace Initiale Paris TCe GPF 165 kW (225 CV) EDC 7 plazas",
+            "name": "Initiale Paris TCe GPF 165 kW (225 CV) EDC 7 plazas",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/initiale-paris/espace-initiale-paris-tce-gpf-165-kw-225-cv-edc-7-plazas/datos",
@@ -9815,7 +9816,7 @@
             ]
         },
         {
-            "name": "Espace Initiale Paris Blue dCi 147 kW (200 CV) EDC 7 plazas",
+            "name": "Initiale Paris Blue dCi 147 kW (200 CV) EDC 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/renault/espace/2015/estandar/initiale-paris/espace-initiale-paris-blue-dci-147-kw-200-cv-edc-7-plazas/datos",

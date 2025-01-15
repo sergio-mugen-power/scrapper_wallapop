@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Taigo",
     "year": "2022",
     "url": "https://www.km77.com/coches/volkswagen/taigo/2022/estandar",
     "price": "Desde 23.015 €",
     "versions": [
         {
-            "name": "Taigo 1.0 TSI 70 kW (95 CV) (12/2024 - )",
+            "name": "1.0 TSI 70 kW (95 CV) (12/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/taigo/2022/estandar/estandar/taigo-10-tsi-70-kw-95-cv/datos",
@@ -26,7 +27,7 @@
             ]
         },
         {
-            "name": "Taigo 1.0 TSI 85 kW (115 CV) (12/2024 - )",
+            "name": "1.0 TSI 85 kW (115 CV) (12/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/taigo/2022/estandar/estandar/taigo-10-tsi-85-kw-115-cv/datos",
@@ -47,7 +48,7 @@
             ]
         },
         {
-            "name": "Taigo Más 1.0 TSI 70 kW (95 CV) (03/2024 - )",
+            "name": "Más 1.0 TSI 70 kW (95 CV) (03/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/taigo/2022/estandar/estandar/taigo-mas-10-tsi-70-kw-95-cv/datos",
@@ -68,7 +69,7 @@
             ]
         },
         {
-            "name": "Taigo Más 1.0 TSI 85 kW (115 CV) (03/2024 - )",
+            "name": "Más 1.0 TSI 85 kW (115 CV) (03/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/taigo/2022/estandar/estandar/taigo-mas-10-tsi-85-kw-115-cv/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Taigo Más 1.0 TSI 85 kW (115 CV) DSG 7 vel. (03/2024 - )",
+            "name": "Más 1.0 TSI 85 kW (115 CV) DSG 7 vel. (03/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/taigo/2022/estandar/estandar/taigo-mas-10-tsi-85-kw-115-cv-dsg-7-vel/datos",
@@ -110,7 +111,7 @@
             ]
         },
         {
-            "name": "Taigo R-Line 1.0 TSI 85 kW (115 CV) (03/2024 - )",
+            "name": "R-Line 1.0 TSI 85 kW (115 CV) (03/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/taigo/2022/estandar/estandar/taigo-r-line-10-tsi-85-kw-115-cv/datos",
@@ -131,7 +132,7 @@
             ]
         },
         {
-            "name": "Taigo R-Line 1.0 TSI 85 kW (115 CV) DSG 7 vel. (03/2024 - )",
+            "name": "R-Line 1.0 TSI 85 kW (115 CV) DSG 7 vel. (03/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/taigo/2022/estandar/estandar/taigo-r-line-10-tsi-85-kw-115-cv-dsg-7-vel/datos",
@@ -152,7 +153,7 @@
             ]
         },
         {
-            "name": "Taigo R-Line 1.5 TSI 110 kW (150 CV) DSG (09/2021 - )",
+            "name": "R-Line 1.5 TSI 110 kW (150 CV) DSG (09/2021 - )",
             "start_year": "2021",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/taigo/2022/estandar/estandar/taigo-15-tsi-150-cv-dsg/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Mitsubishi",
     "name": "L200 Doble Cabina",
     "year": "2005",
     "url": "https://www.km77.com/coches/mitsubishi/l200/2005/doble-cabina",
     "price": "",
     "versions": [
         {
-            "name": "L200 Doble Cabina 4X4 Classic",
+            "name": "4X4 Classic",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/mitsubishi/l200/2005/doble-cabina/classic/l200-doble-cabina-4x4-classic/datos",
@@ -184,7 +185,7 @@
             ]
         },
         {
-            "name": "L200 Doble Cabina 4X4 Instyle",
+            "name": "4X4 Instyle",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/mitsubishi/l200/2005/doble-cabina/instyle/l200-doble-cabina-4x4-instyle/datos",
@@ -349,7 +350,7 @@
             ]
         },
         {
-            "name": "L200 Doble Cabina 4X4 Intense",
+            "name": "4X4 Intense",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/mitsubishi/l200/2005/doble-cabina/intense/l200-doble-cabina-4x4-intense/datos",
@@ -531,7 +532,7 @@
             ]
         },
         {
-            "name": "L200 Doble Cabina 4X4 Intense Plus",
+            "name": "4X4 Intense Plus",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/mitsubishi/l200/2005/doble-cabina/intense-plus/l200-doble-cabina-4x4-intense-plus/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Opel",
     "name": "Cabrio",
     "year": "2013",
     "url": "https://www.km77.com/coches/opel/cascada/2013/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Cabrio Excellence 1.4 Turbo 103 kW (140 CV) Start/Stop",
+            "name": "Excellence 1.4 Turbo 103 kW (140 CV) Start/Stop",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/cascada/2013/estandar/excellence/cabrio-excellence-14-turbo-140-cv-startstop/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Cabrio Excellence 1.4 Turbo 140 CV Start/Stop",
+            "name": "Excellence 1.4 Turbo 140 CV Start/Stop",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/opel/cascada/2013/estandar/excellence/cabrio-14-turbo-140-cv-startstop/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Cabrio Innovation 1.6 Turbo 100 kW (136 CV) Start/Stop",
+            "name": "Innovation 1.6 Turbo 100 kW (136 CV) Start/Stop",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/cascada/2013/estandar/innovation/cabrio-innovation-16-turbo-100-kw-136-cv-startstop/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Cabrio Excellence 1.6 Turbo 147 kW (200 CV) Start/Stop",
+            "name": "Excellence 1.6 Turbo 147 kW (200 CV) Start/Stop",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/cascada/2013/estandar/excellence/cabrio-excellence-16-turbo-200-cv-startstop/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "Cabrio Innovation 1.6 Turbo 100 kW (136 CV) Aut.",
+            "name": "Innovation 1.6 Turbo 100 kW (136 CV) Aut.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/cascada/2013/estandar/innovation/cabrio-innovation-16-turbo-100-kw-136-cv-aut/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Cabrio Excellence 2.0 CDTi 125 kW (170 CV) Start/Stop",
+            "name": "Excellence 2.0 CDTi 125 kW (170 CV) Start/Stop",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/cascada/2013/estandar/excellence/cabrio-excellence-20-cdti-170-cv-startstop/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "Cabrio Excellence 1.6 Turbo 170 CV Start/Stop",
+            "name": "Excellence 1.6 Turbo 170 CV Start/Stop",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/opel/cascada/2013/estandar/excellence/cabrio-16-sidi-turbo-170-cv-startstop/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "Cabrio Excellence 1.6 Turbo 125 kW (170 CV) Aut.",
+            "name": "Excellence 1.6 Turbo 125 kW (170 CV) Aut.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/cascada/2013/estandar/excellence/cabrio-excellence-16-turbo-170-cv-aut/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "Cabrio Excellence 2.0 CDTi 165 CV Start/Stop",
+            "name": "Excellence 2.0 CDTi 165 CV Start/Stop",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/opel/cascada/2013/estandar/excellence/cabrio-20-cdti-165-cv-startstop/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "Cabrio Excellence 1.6 Turbo 170 CV Aut.",
+            "name": "Excellence 1.6 Turbo 170 CV Aut.",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/opel/cascada/2013/estandar/excellence/cabrio-16-sidi-turbo-170-cv-aut/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "Cabrio Excellence 2.0 CDTi 165 CV Aut.",
+            "name": "Excellence 2.0 CDTi 165 CV Aut.",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/opel/cascada/2013/estandar/excellence/cabrio-20-cdti-165-cv-aut/datos",
@@ -313,7 +314,7 @@
             ]
         },
         {
-            "name": "Cabrio Excellence 2.0 CDTi BiTurbo 195 CV Start/Stop",
+            "name": "Excellence 2.0 CDTi BiTurbo 195 CV Start/Stop",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/opel/cascada/2013/estandar/excellence/cabrio-excellence-20-cdti-195-cv-startstop/datos",

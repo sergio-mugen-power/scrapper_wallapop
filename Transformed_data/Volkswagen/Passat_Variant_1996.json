@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Passat Variant",
     "year": "1996",
     "url": "https://www.km77.com/coches/volkswagen/passat/1996/variant",
     "price": "Desde 41.200 €",
     "versions": [
         {
-            "name": "Passat Variant Comfortline 1.8",
+            "name": "Comfortline 1.8",
             "start_year": "1997",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/passat/1996/variant/comfortline/passat-variant-comfortline-18/datos",
@@ -32,7 +33,7 @@
             ]
         },
         {
-            "name": "Passat Variant Comfortline 1.9 TDI 115CV",
+            "name": "Comfortline 1.9 TDI 115CV",
             "start_year": "1997",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/passat/1996/variant/comfortline/passat-variant-comfortline-19-tdi-115cv/datos",
@@ -59,7 +60,7 @@
             ]
         },
         {
-            "name": "Passat Variant Trendline 1.9 TDI 115 CV",
+            "name": "Trendline 1.9 TDI 115 CV",
             "start_year": "1997",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/passat/1996/variant/trendline/passat-variant-trendline-19-tdi-115-cv/datos",
@@ -86,7 +87,7 @@
             ]
         },
         {
-            "name": "Passat Variant Trendline 1.8T",
+            "name": "Trendline 1.8T",
             "start_year": "1997",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/passat/1996/variant/trendline/passat-variant-trendline-18t/datos",
@@ -113,7 +114,7 @@
             ]
         },
         {
-            "name": "Passat Variant Comfortline 115 TDI Tiptronic",
+            "name": "Comfortline 115 TDI Tiptronic",
             "start_year": "1997",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/passat/1996/variant/comfortline/passat-variant-comfortline-115-tdi-tiptronic/datos",
@@ -140,7 +141,7 @@
             ]
         },
         {
-            "name": "Passat Variant Comfortline 1.9 TDI 115CV 4Motion 6v",
+            "name": "Comfortline 1.9 TDI 115CV 4Motion 6v",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/passat/1996/variant/comfortline/passat-variant-comfortline-19-tdi-115cv-4motion-6v/datos",
@@ -167,7 +168,7 @@
             ]
         },
         {
-            "name": "Passat Variant Comfortline 2.3 V5 4Motion",
+            "name": "Comfortline 2.3 V5 4Motion",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/passat/1996/variant/comfortline/passat-variant-comfortline-23-v5-4motion/datos",
@@ -194,7 +195,7 @@
             ]
         },
         {
-            "name": "Passat Variant Highline 1.8T",
+            "name": "Highline 1.8T",
             "start_year": "1997",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/passat/1996/variant/highline/passat-variant-highline-18t/datos",
@@ -221,7 +222,7 @@
             ]
         },
         {
-            "name": "Passat Variant Trendline 1.9 TDI 115 CV 4Motion 6v",
+            "name": "Trendline 1.9 TDI 115 CV 4Motion 6v",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/passat/1996/variant/trendline/passat-variant-trendline-19-tdi-115-cv-4motion-6v/datos",
@@ -248,7 +249,7 @@
             ]
         },
         {
-            "name": "Passat Variant Trendline 2.3 V5 4Motion",
+            "name": "Trendline 2.3 V5 4Motion",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/passat/1996/variant/trendline/passat-variant-trendline-23-v5-4motion/datos",
@@ -275,7 +276,7 @@
             ]
         },
         {
-            "name": "Passat Variant Trendline 150 T Tiptronic",
+            "name": "Trendline 150 T Tiptronic",
             "start_year": "1997",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/passat/1996/variant/trendline/passat-variant-trendline-150-t-tiptronic/datos",
@@ -302,7 +303,7 @@
             ]
         },
         {
-            "name": "Passat Variant Highline 2.8 V6 4Motion",
+            "name": "Highline 2.8 V6 4Motion",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/passat/1996/variant/highline/passat-variant-highline-28-v6-4motion/datos",
@@ -329,7 +330,7 @@
             ]
         },
         {
-            "name": "Passat Variant Highline 2.8 V6 4Motion tiptronic",
+            "name": "Highline 2.8 V6 4Motion tiptronic",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/passat/1996/variant/highline/passat-variant-highline-28-v6-4motion-tiptronic/datos",
@@ -356,7 +357,7 @@
             ]
         },
         {
-            "name": "Passat Variant Highline 2.5 TDI tiptronic",
+            "name": "Highline 2.5 TDI tiptronic",
             "start_year": "1997",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/passat/1996/variant/highline/passat-variant-highline-25-tdi-tiptronic/datos",
@@ -383,7 +384,7 @@
             ]
         },
         {
-            "name": "Passat Variant Highline 2.5 TDI tiptronic 4Motion",
+            "name": "Highline 2.5 TDI tiptronic 4Motion",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/passat/1996/variant/highline/passat-variant-highline-25-tdi-tiptronic-4motion/datos",
@@ -410,7 +411,7 @@
             ]
         },
         {
-            "name": "Passat Variant Highline 2.5 TDI 6v 4Motion",
+            "name": "Highline 2.5 TDI 6v 4Motion",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/passat/1996/variant/highline/passat-variant-highline-25-tdi-6v-4motion/datos",
@@ -437,7 +438,7 @@
             ]
         },
         {
-            "name": "Passat Variant Highline 150 T Tiptronic",
+            "name": "Highline 150 T Tiptronic",
             "start_year": "1997",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/passat/1996/variant/highline/passat-variant-highline-150-t-tiptronic/datos",

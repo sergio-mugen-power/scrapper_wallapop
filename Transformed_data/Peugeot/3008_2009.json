@@ -1,11 +1,12 @@
 {
+    "brand": "Peugeot",
     "name": "3008",
     "year": "2009",
     "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar",
     "price": "Desde 36.160 €",
     "versions": [
         {
-            "name": "3008 Access 1.6 VTi 120",
+            "name": "Access 1.6 VTi 120",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/access/3008-access-16-vti-1203/datos",
@@ -206,7 +207,7 @@
             ]
         },
         {
-            "name": "3008 Access 1.6 VTi 120",
+            "name": "Access 1.6 VTi 120",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/access/3008-access-16-vti-1202/datos",
@@ -406,7 +407,7 @@
             ]
         },
         {
-            "name": "3008 Style 1.6 VTi 120",
+            "name": "Style 1.6 VTi 120",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/style/3008-style-16-vti-1202/datos",
@@ -614,7 +615,7 @@
             ]
         },
         {
-            "name": "3008 Confort 1.6 VTi 120",
+            "name": "Confort 1.6 VTi 120",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/confort/3008-confort-16-vti-120/datos",
@@ -811,7 +812,7 @@
             ]
         },
         {
-            "name": "3008 Confort 1.6 VTi 120",
+            "name": "Confort 1.6 VTi 120",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/confort/3008-confort-16-vti-1202/datos",
@@ -1010,7 +1011,7 @@
             ]
         },
         {
-            "name": "3008 Access 1.6 VTi 120",
+            "name": "Access 1.6 VTi 120",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/access/3008-access-16-vti-120/datos",
@@ -1211,7 +1212,7 @@
             ]
         },
         {
-            "name": "3008 Access 1.6 HDi 115",
+            "name": "Access 1.6 HDi 115",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/access/3008-access-16-hdi-115/datos",
@@ -1413,7 +1414,7 @@
             ]
         },
         {
-            "name": "3008 Active 1.6 VTi 120",
+            "name": "Active 1.6 VTi 120",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/active/3008-active-16-vti-1202/datos",
@@ -1622,7 +1623,7 @@
             ]
         },
         {
-            "name": "3008 Style 1.6 VTi 120",
+            "name": "Style 1.6 VTi 120",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/style/3008-style-16-vti-120/datos",
@@ -1834,7 +1835,7 @@
             ]
         },
         {
-            "name": "3008 Premium 1.6 VTi 120",
+            "name": "Premium 1.6 VTi 120",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/premium/3008-premium-16-vti-120/datos",
@@ -2038,7 +2039,7 @@
             ]
         },
         {
-            "name": "3008 Premium 1.6 VTi 120",
+            "name": "Premium 1.6 VTi 120",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/premium/3008-premium-16-vti-1202/datos",
@@ -2243,7 +2244,7 @@
             ]
         },
         {
-            "name": "3008 Access 1.6 HDi 110 FAP",
+            "name": "Access 1.6 HDi 110 FAP",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/access/3008-access-16-hdi-110-fap/datos",
@@ -2443,7 +2444,7 @@
             ]
         },
         {
-            "name": "3008 Active 1.6 VTi 120",
+            "name": "Active 1.6 VTi 120",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/active/3008-active-16-vti-120/datos",
@@ -2652,7 +2653,7 @@
             ]
         },
         {
-            "name": "3008 Access 1.6 HDi 110 FAP",
+            "name": "Access 1.6 HDi 110 FAP",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/access/3008-access-16-hdi-112-fap/datos",
@@ -2852,7 +2853,7 @@
             ]
         },
         {
-            "name": "3008 Active 1.6 VTi 120",
+            "name": "Active 1.6 VTi 120",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/active/3008-active-16-vti-1203/datos",
@@ -3061,7 +3062,7 @@
             ]
         },
         {
-            "name": "3008 Confort 1.6 HDI 112 FAP",
+            "name": "Confort 1.6 HDI 112 FAP",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/confort/3008-confort-16-hdi-112-fap/datos",
@@ -3259,7 +3260,7 @@
             ]
         },
         {
-            "name": "3008 Style 1.6 HDi 115",
+            "name": "Style 1.6 HDi 115",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/style/3008-style-16-hdi-115/datos",
@@ -3471,7 +3472,7 @@
             ]
         },
         {
-            "name": "3008 Confort 1.6 HDI 110 FAP",
+            "name": "Confort 1.6 HDI 110 FAP",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/confort/3008-confort-16-hdi-110-fap/datos",
@@ -3669,7 +3670,7 @@
             ]
         },
         {
-            "name": "3008 Confort 1.6 HDI 112 FAP",
+            "name": "Confort 1.6 HDI 112 FAP",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/confort/3008-confort-16-hdi-112-fap2/datos",
@@ -3867,7 +3868,7 @@
             ]
         },
         {
-            "name": "3008 Confort 1.6 HDI 110 FAP",
+            "name": "Confort 1.6 HDI 110 FAP",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/confort/3008-confort-16-hdi-110-fap2/datos",
@@ -4066,7 +4067,7 @@
             ]
         },
         {
-            "name": "3008 Style 1.6 e-HDi 115 CMP Blue Lion",
+            "name": "Style 1.6 e-HDi 115 CMP Blue Lion",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/style/3008-style-16-e-hdi-115-cmp-blue-lion/datos",
@@ -4279,7 +4280,7 @@
             ]
         },
         {
-            "name": "3008 Active 1.6 HDi 110 FAP",
+            "name": "Active 1.6 HDi 110 FAP",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/active/3008-active-16-hdi-110-fap/datos",
@@ -4490,7 +4491,7 @@
             ]
         },
         {
-            "name": "3008 Active 1.6 HDi 110 FAP",
+            "name": "Active 1.6 HDi 110 FAP",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/active/3008-active-16-hdi-112-fap/datos",
@@ -4701,7 +4702,7 @@
             ]
         },
         {
-            "name": "3008 Premium 1.6 HDI 112 FAP",
+            "name": "Premium 1.6 HDI 112 FAP",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/premium/3008-premium-16-hdi-112-fap/datos",
@@ -4909,7 +4910,7 @@
             ]
         },
         {
-            "name": "3008 Allure 1.6 THP 155",
+            "name": "Allure 1.6 THP 155",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/allure/3008-allure-16-thp-1553/datos",
@@ -5139,7 +5140,7 @@
             ]
         },
         {
-            "name": "3008 Premium 1.6 HDI 110 FAP",
+            "name": "Premium 1.6 HDI 110 FAP",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/premium/3008-premium-16-hdi-110-fap/datos",
@@ -5346,7 +5347,7 @@
             ]
         },
         {
-            "name": "3008 Active 1.6 e-HDi 110 FAP CMP Blue Lion",
+            "name": "Active 1.6 e-HDi 110 FAP CMP Blue Lion",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/active/3008-active-16-e-hdi-110-fap-cmp-blue-lion/datos",
@@ -5558,7 +5559,7 @@
             ]
         },
         {
-            "name": "3008 Premium 1.6 HDI 112 FAP",
+            "name": "Premium 1.6 HDI 112 FAP",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/premium/3008-premium-16-hdi-112-fap2/datos",
@@ -5766,7 +5767,7 @@
             ]
         },
         {
-            "name": "3008 Style 1.6 HDi 110 FAP",
+            "name": "Style 1.6 HDi 110 FAP",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/style/3008-style-16-hdi-110-fap/datos",
@@ -5981,7 +5982,7 @@
             ]
         },
         {
-            "name": "3008 Style 2.0 HDi 150",
+            "name": "Style 2.0 HDi 150",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/style/3008-style-20-hdi-150/datos",
@@ -6193,7 +6194,7 @@
             ]
         },
         {
-            "name": "3008 Active 1.6 e-HDi 110 FAP CMP Blue Lion",
+            "name": "Active 1.6 e-HDi 110 FAP CMP Blue Lion",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/active/3008-active-16-e-hdi-112-fap-cmp-blue-lion2/datos",
@@ -6406,7 +6407,7 @@
             ]
         },
         {
-            "name": "3008 Premium 1.6 THP 156",
+            "name": "Premium 1.6 THP 156",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/premium/3008-premium-16-thp-156/datos",
@@ -6612,7 +6613,7 @@
             ]
         },
         {
-            "name": "3008 Premium 1.6 THP 156",
+            "name": "Premium 1.6 THP 156",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/premium/3008-premium-16-thp-1562/datos",
@@ -6819,7 +6820,7 @@
             ]
         },
         {
-            "name": "3008 Premium 1.6 HDI 110 FAP",
+            "name": "Premium 1.6 HDI 110 FAP",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/premium/3008-premium-16-hdi-110-fap2/datos",
@@ -7027,7 +7028,7 @@
             ]
         },
         {
-            "name": "3008 Active 1.6 THP 156",
+            "name": "Active 1.6 THP 156",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/active/3008-active-16-thp-156/datos",
@@ -7238,7 +7239,7 @@
             ]
         },
         {
-            "name": "3008 Active 1.6 HDi 115",
+            "name": "Active 1.6 HDi 115",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/active/3008-active-16-hdi-115/datos",
@@ -7451,7 +7452,7 @@
             ]
         },
         {
-            "name": "3008 Sport Pack 1.6 VTi 120",
+            "name": "Sport Pack 1.6 VTi 120",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/sport-pack/3008-sport-pack-16-vti-120/datos",
@@ -7675,7 +7676,7 @@
             ]
         },
         {
-            "name": "3008 Allure 1.6 HDi 115",
+            "name": "Allure 1.6 HDi 115",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/allure/3008-allure-16-hdi-115/datos",
@@ -7906,7 +7907,7 @@
             ]
         },
         {
-            "name": "3008 Style 1.6 e-HDi 110 FAP CMP Blue Lion",
+            "name": "Style 1.6 e-HDi 110 FAP CMP Blue Lion",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/style/3008-style-16-e-hdi-110-fap-cmp-blue-lion/datos",
@@ -8122,7 +8123,7 @@
             ]
         },
         {
-            "name": "3008 Premium 1.6 HDI 110 FAP CMP",
+            "name": "Premium 1.6 HDI 110 FAP CMP",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/premium/3008-premium-16-hdi-110-fap-cmp/datos",
@@ -8330,7 +8331,7 @@
             ]
         },
         {
-            "name": "3008 Premium 1.6 HDI 112 FAP CMP",
+            "name": "Premium 1.6 HDI 112 FAP CMP",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/premium/3008-premium-16-hdi-112-fap-cmp/datos",
@@ -8538,7 +8539,7 @@
             ]
         },
         {
-            "name": "3008 Sport Pack 1.6 VTi 120",
+            "name": "Sport Pack 1.6 VTi 120",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/sport-pack/3008-sport-pack-16-vti-1202/datos",
@@ -8762,7 +8763,7 @@
             ]
         },
         {
-            "name": "3008 Premium 1.6 e-HDI 112 FAP CMP",
+            "name": "Premium 1.6 e-HDI 112 FAP CMP",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/premium/3008-premium-16-e-hdi-112-fap-cmp/datos",
@@ -8971,7 +8972,7 @@
             ]
         },
         {
-            "name": "3008 Active 1.6 e-HDi 115 CMP Blue Lion",
+            "name": "Active 1.6 e-HDi 115 CMP Blue Lion",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/active/3008-active-16-e-hdi-110-fap-cmp-blue-lion2/datos",
@@ -9185,7 +9186,7 @@
             ]
         },
         {
-            "name": "3008 Premium 1.6 HDI 110 FAP CMP",
+            "name": "Premium 1.6 HDI 110 FAP CMP",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/premium/3008-premium-16-hdi-110-fap-cmp2/datos",
@@ -9394,7 +9395,7 @@
             ]
         },
         {
-            "name": "3008 Allure 1.6 THP 155",
+            "name": "Allure 1.6 THP 155",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/allure/3008-allure-16-thp-1552/datos",
@@ -9626,7 +9627,7 @@
             ]
         },
         {
-            "name": "3008 Active 1.6 e-HDi 112 FAP CMP Blue Lion",
+            "name": "Active 1.6 e-HDi 112 FAP CMP Blue Lion",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/active/3008-active-16-e-hdi-112-fap-cmp-blue-lion/datos",
@@ -9838,7 +9839,7 @@
             ]
         },
         {
-            "name": "3008 Allure 1.6 e-HDi 115 CMP",
+            "name": "Allure 1.6 e-HDi 115 CMP",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/allure/3008-allure-16-e-hdi-115-cmp/datos",
@@ -10069,7 +10070,7 @@
             ]
         },
         {
-            "name": "3008 Premium 1.6 THP 150",
+            "name": "Premium 1.6 THP 150",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/premium/3008-premium-16-thp-150/datos",
@@ -10277,7 +10278,7 @@
             ]
         },
         {
-            "name": "3008 Active 2.0 HDi 150 FAP",
+            "name": "Active 2.0 HDi 150 FAP",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/active/3008-active-20-hdi-150-fap3/datos",
@@ -10489,7 +10490,7 @@
             ]
         },
         {
-            "name": "3008 Business Line 1.6 HDI 112 FAP",
+            "name": "Business Line 1.6 HDI 112 FAP",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/business-line/3008-business-line-16-hdi-112-fap/datos",
@@ -10696,7 +10697,7 @@
             ]
         },
         {
-            "name": "3008 Active 2.0 HDi 150 FAP",
+            "name": "Active 2.0 HDi 150 FAP",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/active/3008-active-20-hdi-150-fap/datos",
@@ -10908,7 +10909,7 @@
             ]
         },
         {
-            "name": "3008 Napapijri 1.6 THP 155",
+            "name": "Napapijri 1.6 THP 155",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/napapijri/3008-napapijri-16-thp-1552/datos",
@@ -11141,7 +11142,7 @@
             ]
         },
         {
-            "name": "3008 Napapijri 1.6 THP 155",
+            "name": "Napapijri 1.6 THP 155",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/napapijri/3008-napapijri-16-thp-155/datos",
@@ -11374,7 +11375,7 @@
             ]
         },
         {
-            "name": "3008 Allure 1.6 THP 155 Aut.",
+            "name": "Allure 1.6 THP 155 Aut.",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/allure/3008-allure-16-thp-155-aut3/datos",
@@ -11601,7 +11602,7 @@
             ]
         },
         {
-            "name": "3008 Premium 2.0 HDI 150 FAP",
+            "name": "Premium 2.0 HDI 150 FAP",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/premium/3008-premium-20-hdi-150-fap/datos",
@@ -11810,7 +11811,7 @@
             ]
         },
         {
-            "name": "3008 Allure 1.6 THP 155",
+            "name": "Allure 1.6 THP 155",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/allure/3008-allure-16-thp-156/datos",
@@ -12043,7 +12044,7 @@
             ]
         },
         {
-            "name": "3008 Premium 2.0 HDI 150 FAP",
+            "name": "Premium 2.0 HDI 150 FAP",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/premium/3008-premium-20-hdi-150-fap3/datos",
@@ -12253,7 +12254,7 @@
             ]
         },
         {
-            "name": "3008 Style 2.0 HDi 150 FAP",
+            "name": "Style 2.0 HDi 150 FAP",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/style/3008-style-20-hdi-150-fap/datos",
@@ -12469,7 +12470,7 @@
             ]
         },
         {
-            "name": "3008 Allure 1.6 HDi 110 FAP",
+            "name": "Allure 1.6 HDi 110 FAP",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/allure/3008-allure-16-hdi-110-fap/datos",
@@ -12702,7 +12703,7 @@
             ]
         },
         {
-            "name": "3008 Allure 1.6 HDi 110 FAP",
+            "name": "Allure 1.6 HDi 110 FAP",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/allure/3008-allure-16-hdi-112-fap/datos",
@@ -12935,7 +12936,7 @@
             ]
         },
         {
-            "name": "3008 Allure 1.6 THP 155",
+            "name": "Allure 1.6 THP 155",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/allure/3008-allure-16-thp-155/datos",
@@ -13168,7 +13169,7 @@
             ]
         },
         {
-            "name": "3008 Sport Pack 1.6 HDI 110 FAP",
+            "name": "Sport Pack 1.6 HDI 110 FAP",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/sport-pack/3008-sport-pack-16-hdi-110-fap/datos",
@@ -13397,7 +13398,7 @@
             ]
         },
         {
-            "name": "3008 Active 2.0 HDi 150",
+            "name": "Active 2.0 HDi 150",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/active/3008-active-20-hdi-150/datos",
@@ -13610,7 +13611,7 @@
             ]
         },
         {
-            "name": "3008 Napapijri 1.6 HDi 115",
+            "name": "Napapijri 1.6 HDi 115",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/napapijri/3008-napapijri-16-hdi-115/datos",
@@ -13843,7 +13844,7 @@
             ]
         },
         {
-            "name": "3008 Premium 2.0 HDI 150 FAP",
+            "name": "Premium 2.0 HDI 150 FAP",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/premium/3008-premium-20-hdi-150-fap2/datos",
@@ -14053,7 +14054,7 @@
             ]
         },
         {
-            "name": "3008 Allure 2.0 HDi 150",
+            "name": "Allure 2.0 HDi 150",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/allure/3008-allure-20-hdi-150/datos",
@@ -14284,7 +14285,7 @@
             ]
         },
         {
-            "name": "3008 Sport Pack 1.6 THP 156",
+            "name": "Sport Pack 1.6 THP 156",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/sport-pack/3008-sport-pack-16-thp-156/datos",
@@ -14511,7 +14512,7 @@
             ]
         },
         {
-            "name": "3008 Allure 1.6 e-HDi 110 FAP CMP Blue Lion",
+            "name": "Allure 1.6 e-HDi 110 FAP CMP Blue Lion",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/allure/3008-allure-16-e-hdi-110-fap-cmp-blue-lion/datos",
@@ -14742,7 +14743,7 @@
             ]
         },
         {
-            "name": "3008 Sport Pack 1.6 HDI 112 FAP",
+            "name": "Sport Pack 1.6 HDI 112 FAP",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/sport-pack/3008-sport-pack-16-hdi-112-fap/datos",
@@ -14970,7 +14971,7 @@
             ]
         },
         {
-            "name": "3008 Sport Pack 1.6 HDI 110 FAP",
+            "name": "Sport Pack 1.6 HDI 110 FAP",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/sport-pack/3008-sport-pack-16-hdi-110-fap2/datos",
@@ -15199,7 +15200,7 @@
             ]
         },
         {
-            "name": "3008 Allure 1.6 e-HDi 110 FAP CMP Blue Lion",
+            "name": "Allure 1.6 e-HDi 110 FAP CMP Blue Lion",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/allure/3008-allure-16-e-hdi-112-fap-cmp-blue-lion/datos",
@@ -15430,7 +15431,7 @@
             ]
         },
         {
-            "name": "3008 Sport Pack 1.6 THP 156",
+            "name": "Sport Pack 1.6 THP 156",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/sport-pack/3008-sport-pack-16-thp-1562/datos",
@@ -15657,7 +15658,7 @@
             ]
         },
         {
-            "name": "3008 Allure 1.6 THP 155 Aut.",
+            "name": "Allure 1.6 THP 155 Aut.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/allure/3008-allure-16-thp-156-aut/datos",
@@ -15887,7 +15888,7 @@
             ]
         },
         {
-            "name": "3008 Allure 1.6 THP 155 Aut.",
+            "name": "Allure 1.6 THP 155 Aut.",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/allure/3008-allure-16-thp-155-aut2/datos",
@@ -16116,7 +16117,7 @@
             ]
         },
         {
-            "name": "3008 Sport Pack 1.6 HDI 110 FAP CMP",
+            "name": "Sport Pack 1.6 HDI 110 FAP CMP",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/sport-pack/3008-sport-pack-16-hdi-110-fap-cmp/datos",
@@ -16345,7 +16346,7 @@
             ]
         },
         {
-            "name": "3008 Business Line 2.0 HDI 150 FAP",
+            "name": "Business Line 2.0 HDI 150 FAP",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/business-line/3008-business-line-20-hdi-150-fap/datos",
@@ -16553,7 +16554,7 @@
             ]
         },
         {
-            "name": "3008 Business Line 2.0 HDI 150 FAP",
+            "name": "Business Line 2.0 HDI 150 FAP",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/business-line/3008-business-line-20-hdi-150-fap2/datos",
@@ -16761,7 +16762,7 @@
             ]
         },
         {
-            "name": "3008 Allure 1.6 THP 155 Aut.",
+            "name": "Allure 1.6 THP 155 Aut.",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/allure/3008-allure-16-thp-155-aut/datos",
@@ -16991,7 +16992,7 @@
             ]
         },
         {
-            "name": "3008 Sport Pack 1.6 HDI 112 FAP CMP",
+            "name": "Sport Pack 1.6 HDI 112 FAP CMP",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/sport-pack/3008-sport-pack-16-hdi-112-fap-cmp/datos",
@@ -17219,7 +17220,7 @@
             ]
         },
         {
-            "name": "3008 Sport Pack 1.6 HDI 110 FAP CMP",
+            "name": "Sport Pack 1.6 HDI 110 FAP CMP",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/sport-pack/3008-sport-pack-16-hdi-110-fap-cmp2/datos",
@@ -17448,7 +17449,7 @@
             ]
         },
         {
-            "name": "3008 Sport Pack 1.6 THP 156 Aut.",
+            "name": "Sport Pack 1.6 THP 156 Aut.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/sport-pack/3008-sport-pack-16-thp-156-aut/datos",
@@ -17673,7 +17674,7 @@
             ]
         },
         {
-            "name": "3008 Sport Pack 1.6 e-HDI 112 FAP CMP",
+            "name": "Sport Pack 1.6 e-HDI 112 FAP CMP",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/sport-pack/3008-sport-pack-16-e-hdi-112-fap-cmp/datos",
@@ -17902,7 +17903,7 @@
             ]
         },
         {
-            "name": "3008 Sport Pack 1.6 THP 150",
+            "name": "Sport Pack 1.6 THP 150",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/sport-pack/3008-sport-pack-16-thp-150/datos",
@@ -18131,7 +18132,7 @@
             ]
         },
         {
-            "name": "3008 Allure 1.6 e-HDi 115 CMP Blue Lion",
+            "name": "Allure 1.6 e-HDi 115 CMP Blue Lion",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/allure/3008-allure-16-e-hdi-115-cmp-blue-lion/datos",
@@ -18362,7 +18363,7 @@
             ]
         },
         {
-            "name": "3008 Premium 2.0 HDi 163 FAP Aut.",
+            "name": "Premium 2.0 HDi 163 FAP Aut.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/premium/3008-premium-20-hdi-163-fap-aut/datos",
@@ -18573,7 +18574,7 @@
             ]
         },
         {
-            "name": "3008 Allure 2.0 HDi 160 Aut.",
+            "name": "Allure 2.0 HDi 160 Aut.",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/allure/3008-allure-20-hdi-160-aut2/datos",
@@ -18801,7 +18802,7 @@
             ]
         },
         {
-            "name": "3008 Premium 2.0 HDi 163 FAP Aut.",
+            "name": "Premium 2.0 HDi 163 FAP Aut.",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/premium/3008-premium-20-hdi-163-fap-aut3/datos",
@@ -19013,7 +19014,7 @@
             ]
         },
         {
-            "name": "3008 Sport Pack 1.6 THP 156 Aut.",
+            "name": "Sport Pack 1.6 THP 156 Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/sport-pack/3008-sport-pack-16-thp-156-aut2/datos",
@@ -19240,7 +19241,7 @@
             ]
         },
         {
-            "name": "3008 Allure 2.0 HDi 150 FAP",
+            "name": "Allure 2.0 HDi 150 FAP",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/allure/3008-allure-20-hdi-150-fap3/datos",
@@ -19474,7 +19475,7 @@
             ]
         },
         {
-            "name": "3008 Allure 2.0 HDi 150 FAP",
+            "name": "Allure 2.0 HDi 150 FAP",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/allure/3008-allure-20-hdi-150-fap/datos",
@@ -19709,7 +19710,7 @@
             ]
         },
         {
-            "name": "3008 Allure 2.0 HDi 150 FAP",
+            "name": "Allure 2.0 HDi 150 FAP",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/allure/3008-allure-20-hdi-150-fap2/datos",
@@ -19943,7 +19944,7 @@
             ]
         },
         {
-            "name": "3008 Sport Pack 2.0 HDI 150 FAP",
+            "name": "Sport Pack 2.0 HDI 150 FAP",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/sport-pack/3008-sport-pack-20-hdi-150-fap/datos",
@@ -20173,7 +20174,7 @@
             ]
         },
         {
-            "name": "3008 Napapijri 2.0 HDi 150",
+            "name": "Napapijri 2.0 HDi 150",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/napapijri/3008-napapijri-20-hdi-150/datos",
@@ -20405,7 +20406,7 @@
             ]
         },
         {
-            "name": "3008 Premium 2.0 HDi 163 FAP Aut.",
+            "name": "Premium 2.0 HDi 163 FAP Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/premium/3008-premium-20-hdi-163-fap-aut2/datos",
@@ -20617,7 +20618,7 @@
             ]
         },
         {
-            "name": "3008 Sport Pack 2.0 HDI 150 FAP",
+            "name": "Sport Pack 2.0 HDI 150 FAP",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/sport-pack/3008-sport-pack-20-hdi-150-fap3/datos",
@@ -20846,7 +20847,7 @@
             ]
         },
         {
-            "name": "3008 HYbrid4 91g",
+            "name": "HYbrid4 91g",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/hybrid4/3008-hybrid4-91g/datos",
@@ -21060,7 +21061,7 @@
             ]
         },
         {
-            "name": "3008 Sport Pack 2.0 HDI 150 FAP",
+            "name": "Sport Pack 2.0 HDI 150 FAP",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/sport-pack/3008-sport-pack-20-hdi-150-fap2/datos",
@@ -21289,7 +21290,7 @@
             ]
         },
         {
-            "name": "3008 Allure 2.0 HDi 160 Aut.",
+            "name": "Allure 2.0 HDi 160 Aut.",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/allure/3008-allure-20-hdi-160-aut/datos",
@@ -21519,7 +21520,7 @@
             ]
         },
         {
-            "name": "3008 Allure 2.0 HDi 160 FAP Aut.",
+            "name": "Allure 2.0 HDi 160 FAP Aut.",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/allure/3008-allure-20-hdi-160-fap-aut/datos",
@@ -21750,7 +21751,7 @@
             ]
         },
         {
-            "name": "3008 Allure 2.0 HDi 160 FAP Aut.",
+            "name": "Allure 2.0 HDi 160 FAP Aut.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/allure/3008-allure-20-hdi-163-fap-aut/datos",
@@ -21981,7 +21982,7 @@
             ]
         },
         {
-            "name": "3008 Sport Pack 2.0 HDi 163 FAP Aut.",
+            "name": "Sport Pack 2.0 HDi 163 FAP Aut.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/sport-pack/3008-sport-pack-20-hdi-163-fap-aut/datos",
@@ -22209,7 +22210,7 @@
             ]
         },
         {
-            "name": "3008 Sport Pack 2.0 HDi 163 FAP Aut.",
+            "name": "Sport Pack 2.0 HDi 163 FAP Aut.",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/sport-pack/3008-sport-pack-20-hdi-163-fap-aut3/datos",
@@ -22437,7 +22438,7 @@
             ]
         },
         {
-            "name": "3008 Sport Pack 2.0 HDi 163 FAP Aut.",
+            "name": "Sport Pack 2.0 HDi 163 FAP Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/sport-pack/3008-sport-pack-20-hdi-163-fap-aut2/datos",
@@ -22665,7 +22666,7 @@
             ]
         },
         {
-            "name": "3008 HYbrid4 88g",
+            "name": "HYbrid4 88g",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/hybrid4/3008-hybrid4-88g/datos",
@@ -22879,7 +22880,7 @@
             ]
         },
         {
-            "name": "3008 HYbrid4",
+            "name": "HYbrid4",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/hybrid4/3008-hybrid43/datos",
@@ -23105,7 +23106,7 @@
             ]
         },
         {
-            "name": "3008 HYbrid4 99g",
+            "name": "HYbrid4 99g",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/hybrid4/3008-hybrid4-99g/datos",
@@ -23319,7 +23320,7 @@
             ]
         },
         {
-            "name": "3008 HYbrid4",
+            "name": "HYbrid4",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/hybrid4/3008-hybrid42/datos",
@@ -23544,7 +23545,7 @@
             ]
         },
         {
-            "name": "3008 HYbrid4 Limited Edition",
+            "name": "HYbrid4 Limited Edition",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/hybrid4/3008-hybrid4/datos",
@@ -23784,7 +23785,7 @@
             ]
         },
         {
-            "name": "3008 HYbrid4 Limited Edition",
+            "name": "HYbrid4 Limited Edition",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/3008/2009/estandar/limited-edition/3008-hybrid4-limited-edition/datos",

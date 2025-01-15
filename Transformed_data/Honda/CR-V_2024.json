@@ -1,11 +1,12 @@
 {
+    "brand": "Honda",
     "name": "CR-V",
     "year": "2024",
     "url": "https://www.km77.com/coches/honda/cr-v/2024/estandar",
     "price": "Desde 48.145 €",
     "versions": [
         {
-            "name": "CR-V e:HEV Elegance 4x2\n(07/2023 - )",
+            "name": "e:HEV Elegance 4x2\n(07/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/honda/cr-v/2024/estandar/hev/cr-v-elegance-full-hybrid-4x2/datos",
@@ -250,7 +251,7 @@
             ]
         },
         {
-            "name": "CR-V e:HEV Advance 4x4\n(07/2023 - )",
+            "name": "e:HEV Advance 4x4\n(07/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/honda/cr-v/2024/estandar/hev/cr-v-elegance-full-hybrid-4x4/datos",
@@ -504,7 +505,7 @@
             ]
         },
         {
-            "name": "CR-V e:PHEV Advance Tech 4x2\n(07/2023 - )",
+            "name": "e:PHEV Advance Tech 4x2\n(07/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/honda/cr-v/2024/estandar/phev/cr-v-ephev-advance-tech-4x2/datos",

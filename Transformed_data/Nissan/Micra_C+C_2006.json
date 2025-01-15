@@ -1,11 +1,12 @@
 {
+    "brand": "Nissan",
     "name": "Micra C+C",
     "year": "2006",
     "url": "https://www.km77.com/coches/nissan/micra/2006/cc",
     "price": "",
     "versions": [
         {
-            "name": "Micra C+C 1.4 Tekna",
+            "name": "1.4 Tekna",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/nissan/micra/2006/cc/tekna/micra-cc-14-tekna/datos",
@@ -175,7 +176,7 @@
             ]
         },
         {
-            "name": "Micra C+C 1.6 Tekna",
+            "name": "1.6 Tekna",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/nissan/micra/2006/cc/tekna/micra-cc-16-tekna/datos",
@@ -346,7 +347,7 @@
             ]
         },
         {
-            "name": "Micra C+C 1.6 Tekna Plus",
+            "name": "1.6 Tekna Plus",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/nissan/micra/2006/cc/tekna-plus/micra-cc-16-tekna-plus/datos",
@@ -519,7 +520,7 @@
             ]
         },
         {
-            "name": "Micra C+C 1.6 Tekna Aut.",
+            "name": "1.6 Tekna Aut.",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/nissan/micra/2006/cc/tekna/micra-cc-16-tekna-aut/datos",

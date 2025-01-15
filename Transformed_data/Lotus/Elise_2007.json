@@ -1,11 +1,12 @@
 {
+    "brand": "Lotus",
     "name": "Elise",
     "year": "2007",
     "url": "https://www.km77.com/coches/lotus/elise/2007/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Elise S",
+            "name": "S",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lotus/elise/2007/estandar/s/elise-s2/datos",
@@ -180,7 +181,7 @@
             ]
         },
         {
-            "name": "Elise S",
+            "name": "S",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/lotus/elise/2007/estandar/s/elise-s/datos",
@@ -356,7 +357,7 @@
             ]
         },
         {
-            "name": "Elise R",
+            "name": "R",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lotus/elise/2007/estandar/r/elise-r2/datos",
@@ -534,7 +535,7 @@
             ]
         },
         {
-            "name": "Elise R",
+            "name": "R",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/lotus/elise/2007/estandar/r/elise-r/datos",
@@ -712,7 +713,7 @@
             ]
         },
         {
-            "name": "Elise SC",
+            "name": "SC",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lotus/elise/2007/estandar/sc/elise-sc/datos",

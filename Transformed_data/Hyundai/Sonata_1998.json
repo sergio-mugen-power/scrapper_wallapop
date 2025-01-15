@@ -1,11 +1,12 @@
 {
+    "brand": "Hyundai",
     "name": "Sonata",
     "year": "1998",
     "url": "https://www.km77.com/coches/hyundai/sonata/1998/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Sonata 2.0i GLS 16V",
+            "name": "2.0i GLS 16V",
             "start_year": "1998",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/hyundai/sonata/1998/estandar/gls/sonata-20i-gls-16v/datos",
@@ -144,7 +145,7 @@
             ]
         },
         {
-            "name": "Sonata 2.5i GLS V6",
+            "name": "2.5i GLS V6",
             "start_year": "1998",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/hyundai/sonata/1998/estandar/gls/sonata-25i-gls-v6/datos",
@@ -284,7 +285,7 @@
             ]
         },
         {
-            "name": "Sonata 2.5i GLS V6 Aut.",
+            "name": "2.5i GLS V6 Aut.",
             "start_year": "1998",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/hyundai/sonata/1998/estandar/gls/sonata-25i-gls-v6-aut/datos",

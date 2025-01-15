@@ -1,11 +1,12 @@
 {
+    "brand": "Ford",
     "name": "S-MAX",
     "year": "2020",
     "url": "https://www.km77.com/coches/ford/s-max/2020/estandar",
     "price": "",
     "versions": [
         {
-            "name": "S-MAX Trend 2.0 EcoBlue 110 kW (150 CV)",
+            "name": "Trend 2.0 EcoBlue 110 kW (150 CV)",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ford/s-max/2020/estandar/estandar/s-max-trend-20-ecoblue-110-kw-150-cv/datos",
@@ -220,7 +221,7 @@
             ]
         },
         {
-            "name": "S-MAX Trend 2.5 FHEV 140 kW (190 CV)",
+            "name": "Trend 2.5 FHEV 140 kW (190 CV)",
             "start_year": "2021",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/ford/s-max/2020/estandar/hybrid/s-max-trend-25-fhev-140-kw-190-cv/datos",
@@ -447,7 +448,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 EcoBlue 110 kW (150 CV)",
+            "name": "Titanium 2.0 EcoBlue 110 kW (150 CV)",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ford/s-max/2020/estandar/estandar/s-max-titanium-20-ecoblue-110-kw-150-cv/datos",
@@ -680,7 +681,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.5 FHEV 140 kW (190 CV)",
+            "name": "Titanium 2.5 FHEV 140 kW (190 CV)",
             "start_year": "2021",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/ford/s-max/2020/estandar/hybrid/s-max-titanium-25-fhev-140-kw-190-cv/datos",
@@ -924,7 +925,7 @@
             ]
         },
         {
-            "name": "S-MAX Trend 2.0 EcoBlue 110 kW (150 CV) Aut.",
+            "name": "Trend 2.0 EcoBlue 110 kW (150 CV) Aut.",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ford/s-max/2020/estandar/estandar/s-max-trend-20-ecoblue-110-kw-150-cv-aut/datos",
@@ -1140,7 +1141,7 @@
             ]
         },
         {
-            "name": "S-MAX ST-Line 2.0 EcoBlue 110 kW (150 CV)",
+            "name": "ST-Line 2.0 EcoBlue 110 kW (150 CV)",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ford/s-max/2020/estandar/estandar/s-max-st-line-20-ecoblue-110-kw-150-cv/datos",
@@ -1374,7 +1375,7 @@
             ]
         },
         {
-            "name": "S-MAX ST-Line 2.5 FHEV 140 kW (190 CV)",
+            "name": "ST-Line 2.5 FHEV 140 kW (190 CV)",
             "start_year": "2021",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/ford/s-max/2020/estandar/hybrid/s-max-st-line-25-fhev-140-kw-190-cv/datos",
@@ -1618,7 +1619,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 EcoBlue 110 kW (150 CV) Aut.",
+            "name": "Titanium 2.0 EcoBlue 110 kW (150 CV) Aut.",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ford/s-max/2020/estandar/estandar/s-max-titanium-20-ecoblue-110-kw-150-cv-aut/datos",
@@ -1852,7 +1853,7 @@
             ]
         },
         {
-            "name": "S-MAX ST-Line 2.0 EcoBlue 110 kW (150 CV) Aut.",
+            "name": "ST-Line 2.0 EcoBlue 110 kW (150 CV) Aut.",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ford/s-max/2020/estandar/estandar/s-max-st-line-20-ecoblue-110-kw-150-cv-aut/datos",
@@ -2087,7 +2088,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 EcoBlue 140 kW (190 CV) Aut.",
+            "name": "Titanium 2.0 EcoBlue 140 kW (190 CV) Aut.",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ford/s-max/2020/estandar/estandar/s-max-titanium-20-ecoblue-140-kw-190-cv-aut/datos",
@@ -2321,7 +2322,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.5 FHEV 140 kW (190 CV)",
+            "name": "Vignale 2.5 FHEV 140 kW (190 CV)",
             "start_year": "2021",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/ford/s-max/2020/estandar/hybrid/s-max-vignale-25-fhev-140-kw-190-cv/datos",
@@ -2563,7 +2564,7 @@
             ]
         },
         {
-            "name": "S-MAX ST-Line 2.0 EcoBlue 140 kW (190 CV) Aut.",
+            "name": "ST-Line 2.0 EcoBlue 140 kW (190 CV) Aut.",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ford/s-max/2020/estandar/estandar/s-max-st-line-20-ecoblue-140-kw-190-cv-aut/datos",
@@ -2798,7 +2799,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 EcoBlue 140 kW (190 CV) Aut. AWD",
+            "name": "Titanium 2.0 EcoBlue 140 kW (190 CV) Aut. AWD",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ford/s-max/2020/estandar/estandar/s-max-titanium-20-ecoblue-140-kw-190-cv-aut-awd/datos",
@@ -3033,7 +3034,7 @@
             ]
         },
         {
-            "name": "S-MAX ST-Line 2.0 EcoBlue 140 kW (190 CV) Aut. AWD",
+            "name": "ST-Line 2.0 EcoBlue 140 kW (190 CV) Aut. AWD",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ford/s-max/2020/estandar/estandar/s-max-st-line-20-ecoblue-140-kw-190-cv-aut-awd/datos",
@@ -3269,7 +3270,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.0 EcoBlue 140 kW (190 CV) Aut.",
+            "name": "Vignale 2.0 EcoBlue 140 kW (190 CV) Aut.",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ford/s-max/2020/estandar/estandar/s-max-vignale-20-ecoblue-140-kw-190-cv-aut/datos",
@@ -3502,7 +3503,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.0 EcoBlue 140 kW (190 CV) Aut. AWD",
+            "name": "Vignale 2.0 EcoBlue 140 kW (190 CV) Aut. AWD",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ford/s-max/2020/estandar/estandar/s-max-vignale-20-ecoblue-140-kw-190-cv-aut-awd/datos",

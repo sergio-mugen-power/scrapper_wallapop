@@ -1,11 +1,12 @@
 {
+    "brand": "Tesla",
     "name": "Model X",
     "year": "2021",
     "url": "https://www.km77.com/coches/tesla/model-x/2021/estandar",
     "price": "Desde 99.990 €",
     "versions": [
         {
-            "name": "Model X motor dual tracción integral 5 plazas (01/2023 - )",
+            "name": "motor dual tracción integral 5 plazas (01/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/tesla/model-x/2021/estandar/estandar/model-x-motor-dual-traccion-integral/datos",
@@ -258,7 +259,7 @@
             ]
         },
         {
-            "name": "Model X motor dual tracción integral 7 plazas (01/2023 - )",
+            "name": "motor dual tracción integral 7 plazas (01/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/tesla/model-x/2021/estandar/estandar/model-x-motor-dual-traccion-integral-7-plazas/datos",
@@ -510,7 +511,7 @@
             ]
         },
         {
-            "name": "Model X Plaid 6 plazas (01/2021 - )",
+            "name": "Plaid 6 plazas (01/2021 - )",
             "start_year": "2021",
             "end_year": "",
             "url": "https://www.km77.com/coches/tesla/model-x/2021/estandar/plaid/model-x-plaid/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Honda",
     "name": "Jazz",
     "year": "2015",
     "url": "https://www.km77.com/coches/honda/jazz/2015/estandar",
     "price": "Desde 27.750 €",
     "versions": [
         {
-            "name": "Jazz 1.3 i-VTEC Trend",
+            "name": "1.3 i-VTEC Trend",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/honda/jazz/2015/estandar/trend/jazz-2015/datos",
@@ -187,7 +188,7 @@
             ]
         },
         {
-            "name": "Jazz 1.3 i-VTEC Comfort",
+            "name": "1.3 i-VTEC Comfort",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/honda/jazz/2015/estandar/comfort/jazz-13-i-vtec-comfort/datos",
@@ -379,7 +380,7 @@
             ]
         },
         {
-            "name": "Jazz 1.3 i-VTEC Trend CVT",
+            "name": "1.3 i-VTEC Trend CVT",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/honda/jazz/2015/estandar/trend/jazz-13-i-vtec-cvt/datos",
@@ -560,7 +561,7 @@
             ]
         },
         {
-            "name": "Jazz 1.3 i-VTEC Comfort CVT",
+            "name": "1.3 i-VTEC Comfort CVT",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/honda/jazz/2015/estandar/comfort/jazz-13-i-vtec-comfort-cvt/datos",
@@ -751,7 +752,7 @@
             ]
         },
         {
-            "name": "Jazz 1.3 i-VTEC Elegance",
+            "name": "1.3 i-VTEC Elegance",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/honda/jazz/2015/estandar/elegance/jazz-13-i-vtec-elegance/datos",
@@ -944,7 +945,7 @@
             ]
         },
         {
-            "name": "Jazz 1.3 i-VTEC Elegance CVT",
+            "name": "1.3 i-VTEC Elegance CVT",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/honda/jazz/2015/estandar/elegance/jazz-13-i-vtec-elegance-cvt/datos",

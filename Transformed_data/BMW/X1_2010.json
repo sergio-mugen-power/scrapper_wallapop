@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "X1",
     "year": "2010",
     "url": "https://www.km77.com/coches/bmw/x1/2010/estandar",
     "price": "Desde 44.200 €",
     "versions": [
         {
-            "name": "X1 sDrive18d",
+            "name": "sDrive18d",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-sdrive18d/datos",
@@ -246,7 +247,7 @@
             ]
         },
         {
-            "name": "X1 sDrive18d",
+            "name": "sDrive18d",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-sdrive18d2/datos",
@@ -509,7 +510,7 @@
             ]
         },
         {
-            "name": "X1 xDrive18d",
+            "name": "xDrive18d",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-xdrive18d/datos",
@@ -755,7 +756,7 @@
             ]
         },
         {
-            "name": "X1 sDrive18d Aut.",
+            "name": "sDrive18d Aut.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-sdrive18d-aut/datos",
@@ -996,7 +997,7 @@
             ]
         },
         {
-            "name": "X1 xDrive18d",
+            "name": "xDrive18d",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-xdrive18d2/datos",
@@ -1265,7 +1266,7 @@
             ]
         },
         {
-            "name": "X1 sDrive20d",
+            "name": "sDrive20d",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-sdrive20d/datos",
@@ -1505,7 +1506,7 @@
             ]
         },
         {
-            "name": "X1 sDrive20d EfficientDynamics Edition",
+            "name": "sDrive20d EfficientDynamics Edition",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-sdrive20d-efficientdynamics-edition/datos",
@@ -1762,7 +1763,7 @@
             ]
         },
         {
-            "name": "X1 sDrive18d Aut.",
+            "name": "sDrive18d Aut.",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-sdrive18d-aut2/datos",
@@ -2024,7 +2025,7 @@
             ]
         },
         {
-            "name": "X1 sDrive20i",
+            "name": "sDrive20i",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-sdrive20i/datos",
@@ -2284,7 +2285,7 @@
             ]
         },
         {
-            "name": "X1 sDrive20d",
+            "name": "sDrive20d",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-sdrive20d2/datos",
@@ -2546,7 +2547,7 @@
             ]
         },
         {
-            "name": "X1 xDrive20d",
+            "name": "xDrive20d",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-xdrive20d/datos",
@@ -2791,7 +2792,7 @@
             ]
         },
         {
-            "name": "X1 sDrive20d Aut.",
+            "name": "sDrive20d Aut.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-sdrive20d-aut/datos",
@@ -3031,7 +3032,7 @@
             ]
         },
         {
-            "name": "X1 xDrive18d Aut.",
+            "name": "xDrive18d Aut.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-xdrive18d-aut/datos",
@@ -3277,7 +3278,7 @@
             ]
         },
         {
-            "name": "X1 xDrive20d",
+            "name": "xDrive20d",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-xdrive20d2/datos",
@@ -3545,7 +3546,7 @@
             ]
         },
         {
-            "name": "X1 xDrive20i",
+            "name": "xDrive20i",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-xdrive20i/datos",
@@ -3810,7 +3811,7 @@
             ]
         },
         {
-            "name": "X1 sDrive20d Aut.",
+            "name": "sDrive20d Aut.",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-sdrive20d-aut2/datos",
@@ -4072,7 +4073,7 @@
             ]
         },
         {
-            "name": "X1 sDrive20i Aut.",
+            "name": "sDrive20i Aut.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-sdrive20i-aut/datos",
@@ -4332,7 +4333,7 @@
             ]
         },
         {
-            "name": "X1 xDrive18d Aut.",
+            "name": "xDrive18d Aut.",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-xdrive18d-aut2/datos",
@@ -4600,7 +4601,7 @@
             ]
         },
         {
-            "name": "X1 xDrive20i Aut.",
+            "name": "xDrive20i Aut.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-xdrive20i-aut/datos",
@@ -4865,7 +4866,7 @@
             ]
         },
         {
-            "name": "X1 xDrive20d Aut.",
+            "name": "xDrive20d Aut.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-xdrive20d-aut/datos",
@@ -5110,7 +5111,7 @@
             ]
         },
         {
-            "name": "X1 xDrive23d",
+            "name": "xDrive23d",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-xdrive23d2/datos",
@@ -5377,7 +5378,7 @@
             ]
         },
         {
-            "name": "X1 xDrive20d Aut.",
+            "name": "xDrive20d Aut.",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-xdrive20d-aut3/datos",
@@ -5645,7 +5646,7 @@
             ]
         },
         {
-            "name": "X1 xDrive25i",
+            "name": "xDrive25i",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-xdrive25i/datos",
@@ -5888,7 +5889,7 @@
             ]
         },
         {
-            "name": "X1 xDrive23d",
+            "name": "xDrive23d",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-xdrive23d/datos",
@@ -6133,7 +6134,7 @@
             ]
         },
         {
-            "name": "X1 xDrive25i",
+            "name": "xDrive25i",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-xdrive25i2/datos",
@@ -6380,7 +6381,7 @@
             ]
         },
         {
-            "name": "X1 xDrive28i",
+            "name": "xDrive28i",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-xdrive28i3/datos",
@@ -6646,7 +6647,7 @@
             ]
         },
         {
-            "name": "X1 xDrive23d Aut.",
+            "name": "xDrive23d Aut.",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-xdrive23d-aut/datos",
@@ -6913,7 +6914,7 @@
             ]
         },
         {
-            "name": "X1 xDrive28i",
+            "name": "xDrive28i",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-xdrive28i/datos",
@@ -7156,7 +7157,7 @@
             ]
         },
         {
-            "name": "X1 xDrive28i Aut.",
+            "name": "xDrive28i Aut.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-xdrive28i-aut/datos",
@@ -7422,7 +7423,7 @@
             ]
         },
         {
-            "name": "X1 xDrive28i",
+            "name": "xDrive28i",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/bmw/x1/2010/estandar/estandar/x1-xdrive28i2/datos",

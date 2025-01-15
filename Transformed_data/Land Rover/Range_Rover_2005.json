@@ -1,11 +1,12 @@
 {
+    "brand": "Land Rover",
     "name": "Range Rover",
     "year": "2005",
     "url": "https://www.km77.com/coches/land-rover/range-rover/2005/estandar",
     "price": "Desde 140.950 €",
     "versions": [
         {
-            "name": "Range Rover Td6 SE",
+            "name": "Td6 SE",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2005/estandar/se/range-rover-td6-se/datos",
@@ -197,7 +198,7 @@
             ]
         },
         {
-            "name": "Range Rover Td6 HSE",
+            "name": "Td6 HSE",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2005/estandar/hse/range-rover-td6-hse/datos",
@@ -390,7 +391,7 @@
             ]
         },
         {
-            "name": "Range Rover 4.4 V8 SE",
+            "name": "4.4 V8 SE",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2005/estandar/se/range-rover-44-v8-se/datos",
@@ -583,7 +584,7 @@
             ]
         },
         {
-            "name": "Range Rover Td6 Vogue",
+            "name": "Td6 Vogue",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2005/estandar/vogue/range-rover-td6-vogue/datos",
@@ -784,7 +785,7 @@
             ]
         },
         {
-            "name": "Range Rover 4.4 V8 HSE",
+            "name": "4.4 V8 HSE",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2005/estandar/hse/range-rover-44-v8-hse/datos",
@@ -978,7 +979,7 @@
             ]
         },
         {
-            "name": "Range Rover 4.4 V8 Vogue",
+            "name": "4.4 V8 Vogue",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2005/estandar/vogue/range-rover-44-v8-vogue/datos",

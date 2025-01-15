@@ -1,11 +1,12 @@
 {
+    "brand": "KIA",
     "name": "Niro",
     "year": "2019",
     "url": "https://www.km77.com/coches/kia/niro/2019/estandar",
     "price": "Desde 29.331 €",
     "versions": [
         {
-            "name": "Niro 1.6 HEV Concept",
+            "name": "1.6 HEV Concept",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/kia/niro/2019/estandar/concept/niro-16-hev-concept/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "Niro 1.6 HEV Drive",
+            "name": "1.6 HEV Drive",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/kia/niro/2019/estandar/drive/niro-16-hev-drive/datos",
@@ -462,7 +463,7 @@
             ]
         },
         {
-            "name": "Niro 1.6 HEV Emotion",
+            "name": "1.6 HEV Emotion",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/kia/niro/2019/estandar/emotion/niro-16-hev-emotion/datos",
@@ -714,7 +715,7 @@
             ]
         },
         {
-            "name": "Niro 1.6 PHEV Concept",
+            "name": "1.6 PHEV Concept",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/kia/niro/2019/estandar/phev/niro-16-phev-concept/datos",
@@ -950,7 +951,7 @@
             ]
         },
         {
-            "name": "Niro 1.6 PHEV Drive",
+            "name": "1.6 PHEV Drive",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/kia/niro/2019/estandar/phev/niro-16-phev-drive/datos",
@@ -1192,7 +1193,7 @@
             ]
         },
         {
-            "name": "Niro 1.6 PHEV Emotion",
+            "name": "1.6 PHEV Emotion",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/kia/niro/2019/estandar/phev/niro-16-phev-emotion/datos",

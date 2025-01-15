@@ -1,11 +1,12 @@
 {
+    "brand": "Mitsubishi",
     "name": "Outlander",
     "year": "2003",
     "url": "https://www.km77.com/coches/mitsubishi/outlander/2003/estandar",
     "price": "Desde 48.200 €",
     "versions": [
         {
-            "name": "Outlander 2.0 4x2",
+            "name": "2.0 4x2",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/mitsubishi/outlander/2003/estandar/estandar/outlander-20-4x2/datos",
@@ -171,7 +172,7 @@
             ]
         },
         {
-            "name": "Outlander 2.0 4x4",
+            "name": "2.0 4x4",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/mitsubishi/outlander/2003/estandar/estandar/outlander-20-4x4/datos",
@@ -337,7 +338,7 @@
             ]
         },
         {
-            "name": "Outlander 2.4 MIVEC 4x4",
+            "name": "2.4 MIVEC 4x4",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/mitsubishi/outlander/2003/estandar/estandar/outlander-24-mivec-4x4/datos",
@@ -506,7 +507,7 @@
             ]
         },
         {
-            "name": "Outlander Turbo 4x4",
+            "name": "Turbo 4x4",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/mitsubishi/outlander/2003/estandar/estandar/outlander-turbo-4x4/datos",

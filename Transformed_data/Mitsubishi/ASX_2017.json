@@ -1,11 +1,12 @@
 {
+    "brand": "Mitsubishi",
     "name": "ASX",
     "year": "2017",
     "url": "https://www.km77.com/coches/mitsubishi/asx/2017/estandar",
     "price": "Desde 23.290 €",
     "versions": [
         {
-            "name": "ASX 160 MPI Challenge",
+            "name": "160 MPI Challenge",
             "start_year": "2017",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/mitsubishi/asx/2017/estandar/challenge/asx-160-mpi-challenge/datos",
@@ -195,7 +196,7 @@
             ]
         },
         {
-            "name": "ASX 160 MPI Motion",
+            "name": "160 MPI Motion",
             "start_year": "2017",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/mitsubishi/asx/2017/estandar/motion/asx-160-mpi-motion/datos",
@@ -394,7 +395,7 @@
             ]
         },
         {
-            "name": "ASX 160 DI-D Challenge",
+            "name": "160 DI-D Challenge",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mitsubishi/asx/2017/estandar/challenge/asx-160-di-d-challenge/datos",
@@ -585,7 +586,7 @@
             ]
         },
         {
-            "name": "ASX 160 DI-D Motion",
+            "name": "160 DI-D Motion",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mitsubishi/asx/2017/estandar/motion/asx-160-di-d-motion/datos",
@@ -800,7 +801,7 @@
             ]
         },
         {
-            "name": "ASX 160 MPI Kaiteki",
+            "name": "160 MPI Kaiteki",
             "start_year": "2017",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/mitsubishi/asx/2017/estandar/kaiteki/asx-160-mpi-kaiteki/datos",
@@ -1002,7 +1003,7 @@
             ]
         },
         {
-            "name": "ASX 160 DI-D Motion 4WD",
+            "name": "160 DI-D Motion 4WD",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mitsubishi/asx/2017/estandar/motion/asx-160-di-d-motion-4wd/datos",
@@ -1218,7 +1219,7 @@
             ]
         },
         {
-            "name": "ASX 160 DI-D Kaiteki",
+            "name": "160 DI-D Kaiteki",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mitsubishi/asx/2017/estandar/kaiteki/asx-160-di-d-kaiteki/datos",
@@ -1421,7 +1422,7 @@
             ]
         },
         {
-            "name": "ASX 220 DI-D 6AT Kaiteki 4WD",
+            "name": "220 DI-D 6AT Kaiteki 4WD",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mitsubishi/asx/2017/estandar/kaiteki/asx-220-di-d-aut-kaiteki-4wd/datos",

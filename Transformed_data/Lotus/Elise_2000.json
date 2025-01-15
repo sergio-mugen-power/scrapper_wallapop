@@ -1,11 +1,12 @@
 {
+    "brand": "Lotus",
     "name": "Elise",
     "year": "2000",
     "url": "https://www.km77.com/coches/lotus/elise/2000/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Elise Standard",
+            "name": "Standard",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/lotus/elise/2000/estandar/standard/elise-standard/datos",
@@ -125,7 +126,7 @@
             ]
         },
         {
-            "name": "Elise",
+            "name": "",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/lotus/elise/2000/estandar/standard/elise/datos",
@@ -286,7 +287,7 @@
             ]
         },
         {
-            "name": "Elise Race Tech",
+            "name": "Race Tech",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/lotus/elise/2000/estandar/race-tech/elise-race-tech/datos",
@@ -406,7 +407,7 @@
             ]
         },
         {
-            "name": "Elise Sports Tourer",
+            "name": "Sports Tourer",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/lotus/elise/2000/estandar/sports-tourer/elise-sports-tourer/datos",
@@ -526,7 +527,7 @@
             ]
         },
         {
-            "name": "Elise Type 72",
+            "name": "Type 72",
             "start_year": "2002",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/lotus/elise/2000/estandar/type-72/elise-type-72/datos",
@@ -636,7 +637,7 @@
             ]
         },
         {
-            "name": "Elise 111S",
+            "name": "111S",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/lotus/elise/2000/estandar/111s/elise-111s/datos",
@@ -800,7 +801,7 @@
             ]
         },
         {
-            "name": "Elise 111",
+            "name": "111",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/lotus/elise/2000/estandar/111/elise-111/datos",
@@ -919,7 +920,7 @@
             ]
         },
         {
-            "name": "Elise 111R",
+            "name": "111R",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/lotus/elise/2000/estandar/111r/elise-111r/datos",

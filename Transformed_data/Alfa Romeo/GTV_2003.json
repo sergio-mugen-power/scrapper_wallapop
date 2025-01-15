@@ -1,11 +1,12 @@
 {
+    "brand": "Alfa Romeo",
     "name": "GTV",
     "year": "2003",
     "url": "https://www.km77.com/coches/alfa-romeo/gtv/2003/estandar",
     "price": "",
     "versions": [
         {
-            "name": "GTV 2.0 T.S.",
+            "name": "2.0 T.S.",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/alfa-romeo/gtv/2003/estandar/estandar/gtv-20-ts/datos",
@@ -160,7 +161,7 @@
             ]
         },
         {
-            "name": "GTV 2.0 JTS",
+            "name": "2.0 JTS",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/alfa-romeo/gtv/2003/estandar/estandar/gtv-20-jts/datos",
@@ -318,7 +319,7 @@
             ]
         },
         {
-            "name": "GTV 3.2 V6",
+            "name": "3.2 V6",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/alfa-romeo/gtv/2003/estandar/estandar/gtv-32-v6/datos",

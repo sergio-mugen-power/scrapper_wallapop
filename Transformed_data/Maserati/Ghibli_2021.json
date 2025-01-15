@@ -1,11 +1,12 @@
 {
+    "brand": "Maserati",
     "name": "Ghibli",
     "year": "2021",
     "url": "https://www.km77.com/coches/maserati/ghibli/2021/estandar",
     "price": "Desde 82.700 €",
     "versions": [
         {
-            "name": "Ghibli Hybrid (11/2020 - )",
+            "name": "Hybrid (11/2020 - )",
             "start_year": "2020",
             "end_year": "",
             "url": "https://www.km77.com/coches/maserati/ghibli/2021/estandar/estandar/ghibli-hybrid/datos",
@@ -296,7 +297,7 @@
             ]
         },
         {
-            "name": "Ghibli Diesel (11/2020 - )",
+            "name": "Diesel (11/2020 - )",
             "start_year": "2020",
             "end_year": "",
             "url": "https://www.km77.com/coches/maserati/ghibli/2021/estandar/estandar/ghibli-diesel/datos",
@@ -574,7 +575,7 @@
             ]
         },
         {
-            "name": "Ghibli (11/2020 - )",
+            "name": "(11/2020 - )",
             "start_year": "2020",
             "end_year": "",
             "url": "https://www.km77.com/coches/maserati/ghibli/2021/estandar/estandar/ghibli/datos",
@@ -852,7 +853,7 @@
             ]
         },
         {
-            "name": "Ghibli S Q4 (11/2020 - )",
+            "name": "S Q4 (11/2020 - )",
             "start_year": "2020",
             "end_year": "",
             "url": "https://www.km77.com/coches/maserati/ghibli/2021/estandar/estandar/ghibli-s-q4/datos",
@@ -1123,7 +1124,7 @@
             ]
         },
         {
-            "name": "Ghibli Trofeo (11/2020 - )",
+            "name": "Trofeo (11/2020 - )",
             "start_year": "2020",
             "end_year": "",
             "url": "https://www.km77.com/coches/maserati/ghibli/2021/estandar/trofeo/ghibli-trofeo/datos",

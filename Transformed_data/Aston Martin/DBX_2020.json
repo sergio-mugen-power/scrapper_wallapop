@@ -1,11 +1,12 @@
 {
+    "brand": "Aston Martin",
     "name": "DBX",
     "year": "2020",
     "url": "https://www.km77.com/coches/aston-martin/dbx/2020/estandar",
     "price": "Desde 210.000 €",
     "versions": [
         {
-            "name": "DBX (12/2019 - )",
+            "name": "(12/2019 - )",
             "start_year": "2019",
             "end_year": "",
             "url": "https://www.km77.com/coches/aston-martin/dbx/2020/estandar/estandar/dbx/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "DBX707 ( - )",
+            "name": "707 ( - )",
             "start_year": "Desconocido",
             "end_year": "Desconocido",
             "url": "https://www.km77.com/coches/aston-martin/dbx/2020/estandar/estandar/dbx707/datos",

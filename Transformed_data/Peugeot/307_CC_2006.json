@@ -1,11 +1,12 @@
 {
+    "brand": "Peugeot",
     "name": "307 CC",
     "year": "2006",
     "url": "https://www.km77.com/coches/peugeot/307/2006/cc",
     "price": "",
     "versions": [
         {
-            "name": "307 CC 1.6",
+            "name": "1.6",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/peugeot/307/2006/cc/estandar/307-cc-16/datos",
@@ -181,7 +182,7 @@
             ]
         },
         {
-            "name": "307 CC 1.6",
+            "name": "1.6",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/peugeot/307/2006/cc/estandar/307-cc-162/datos",
@@ -360,7 +361,7 @@
             ]
         },
         {
-            "name": "307 CC Pack HiFi 1.6",
+            "name": "Pack HiFi 1.6",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/peugeot/307/2006/cc/pack-hifi/307-cc-pack-hifi-16/datos",
@@ -535,7 +536,7 @@
             ]
         },
         {
-            "name": "307 CC 2.0 16V",
+            "name": "2.0 16V",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/peugeot/307/2006/cc/estandar/307-cc-20-16v2/datos",
@@ -714,7 +715,7 @@
             ]
         },
         {
-            "name": "307 CC 2.0 16V",
+            "name": "2.0 16V",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/peugeot/307/2006/cc/estandar/307-cc-20-16v/datos",
@@ -891,7 +892,7 @@
             ]
         },
         {
-            "name": "307 CC 2.0 16V Aut.",
+            "name": "2.0 16V Aut.",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/peugeot/307/2006/cc/estandar/307-cc-20-16v-aut2/datos",
@@ -1070,7 +1071,7 @@
             ]
         },
         {
-            "name": "307 CC 2.0 16V Aut.",
+            "name": "2.0 16V Aut.",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/peugeot/307/2006/cc/estandar/307-cc-20-16v-aut/datos",
@@ -1247,7 +1248,7 @@
             ]
         },
         {
-            "name": "307 CC Pack HiFi 2.0 16V",
+            "name": "Pack HiFi 2.0 16V",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/peugeot/307/2006/cc/pack-hifi/307-cc-pack-hifi-20-16v/datos",
@@ -1423,7 +1424,7 @@
             ]
         },
         {
-            "name": "307 CC HDI 136 FAP",
+            "name": "HDI 136 FAP",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/peugeot/307/2006/cc/estandar/307-cc-hdi-136-fap2/datos",
@@ -1603,7 +1604,7 @@
             ]
         },
         {
-            "name": "307 CC HDI 136 FAP",
+            "name": "HDI 136 FAP",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/peugeot/307/2006/cc/estandar/307-cc-hdi-136-fap/datos",
@@ -1781,7 +1782,7 @@
             ]
         },
         {
-            "name": "307 CC Pack HiFi HDI 136 FAP",
+            "name": "Pack HiFi HDI 136 FAP",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/peugeot/307/2006/cc/pack-hifi/307-cc-pack-hifi-hdi-136-fap/datos",
@@ -1958,7 +1959,7 @@
             ]
         },
         {
-            "name": "307 CC Sport HDI 136 FAP",
+            "name": "Sport HDI 136 FAP",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/peugeot/307/2006/cc/sport/307-cc-sport-hdi-136-fap2/datos",
@@ -2140,7 +2141,7 @@
             ]
         },
         {
-            "name": "307 CC 2.0 Sport 180 CV",
+            "name": "2.0 Sport 180 CV",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/peugeot/307/2006/cc/sport/307-cc-20-sport-180-cv/datos",
@@ -2320,7 +2321,7 @@
             ]
         },
         {
-            "name": "307 CC Sport HDI 136 FAP",
+            "name": "Sport HDI 136 FAP",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/peugeot/307/2006/cc/sport/307-cc-sport-hdi-136-fap/datos",
@@ -2500,7 +2501,7 @@
             ]
         },
         {
-            "name": "307 CC 2.0 Sport 180 CV",
+            "name": "2.0 Sport 180 CV",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/peugeot/307/2006/cc/estandar/307-cc-20-sport-180-cv2/datos",

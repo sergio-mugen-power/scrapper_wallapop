@@ -1,11 +1,12 @@
 {
+    "brand": "Saab",
     "name": "9-4X",
     "year": "2012",
     "url": "https://www.km77.com/coches/saab/9-4x/2012/estandar",
     "price": "",
     "versions": [
         {
-            "name": "9-4X Base 3.0i 265 CV AWD Aut.",
+            "name": "Base 3.0i 265 CV AWD Aut.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/saab/9-4x/2012/estandar/base/9-4x-base-30i-265-cv-awd-aut/datos",
@@ -185,7 +186,7 @@
             ]
         },
         {
-            "name": "9-4X Premium 3.0i 265 CV AWD Aut.",
+            "name": "Premium 3.0i 265 CV AWD Aut.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/saab/9-4x/2012/estandar/premium/9-4x-premium-30i-265-cv-awd-aut/datos",
@@ -371,7 +372,7 @@
             ]
         },
         {
-            "name": "9-4X Aero 2.8 Turbo 300 CV AWD Aut.",
+            "name": "Aero 2.8 Turbo 300 CV AWD Aut.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/saab/9-4x/2012/estandar/aero/9-4x-aero-28-turbo-300-cv-awd-aut/datos",

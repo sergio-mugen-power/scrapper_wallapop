@@ -1,11 +1,12 @@
 {
+    "brand": "BAIC",
     "name": "X55",
     "year": "2020",
     "url": "https://www.km77.com/coches/baic/x55/2020/estandar",
     "price": "",
     "versions": [
         {
-            "name": "X55 Confort",
+            "name": "Confort",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/baic/x55/2020/estandar/confort/x55-confort/datos",
@@ -109,7 +110,7 @@
             ]
         },
         {
-            "name": "X55 Confort GLP",
+            "name": "Confort GLP",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/baic/x55/2020/estandar/confort/x55-confort-glp/datos",
@@ -213,7 +214,7 @@
             ]
         },
         {
-            "name": "X55 Luxury CVT",
+            "name": "Luxury CVT",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/baic/x55/2020/estandar/luxury/x55-luxury-cvt/datos",
@@ -316,7 +317,7 @@
             ]
         },
         {
-            "name": "X55 Luxury CVT GLP",
+            "name": "Luxury CVT GLP",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/baic/x55/2020/estandar/luxury/x55-luxury-cvt-glp/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Toyota",
     "name": "MR2",
     "year": "2003",
     "url": "https://www.km77.com/coches/toyota/mr2/2003/estandar",
     "price": "",
     "versions": [
         {
-            "name": "MR2 1.8 VVT-i",
+            "name": "1.8 VVT-i",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/toyota/mr2/2003/estandar/estandar/mr2-18-vvt-i/datos",
@@ -168,7 +169,7 @@
             ]
         },
         {
-            "name": "MR2 1.8 VVT-i SMT",
+            "name": "1.8 VVT-i SMT",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/toyota/mr2/2003/estandar/estandar/mr2-18-vvt-i-smt2/datos",

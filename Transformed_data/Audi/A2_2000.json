@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "A2",
     "year": "2000",
     "url": "https://www.km77.com/coches/audi/a2/2000/estandar",
     "price": "",
     "versions": [
         {
-            "name": "A2 1.4",
+            "name": "1.4",
             "start_year": "2000",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/audi/a2/2000/estandar/estandar/a2-14/datos",
@@ -215,7 +216,7 @@
             ]
         },
         {
-            "name": "A2 1.4 Style",
+            "name": "1.4 Style",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/a2/2000/estandar/style/a2-14-style/datos",
@@ -357,7 +358,7 @@
             ]
         },
         {
-            "name": "A2 1.4 colour storm",
+            "name": "1.4 colour storm",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/audi/a2/2000/estandar/colour-storm/a2-14-colour-storm/datos",
@@ -572,7 +573,7 @@
             ]
         },
         {
-            "name": "A2 1.2 TDI",
+            "name": "1.2 TDI",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/a2/2000/estandar/estandar/a2-12-tdi/datos",
@@ -738,7 +739,7 @@
             ]
         },
         {
-            "name": "A2 1.4 TDI 75 CV",
+            "name": "1.4 TDI 75 CV",
             "start_year": "2000",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/a2/2000/estandar/estandar/a2-14-tdi-75-cv/datos",
@@ -947,7 +948,7 @@
             ]
         },
         {
-            "name": "A2 1.6 FSI",
+            "name": "1.6 FSI",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/audi/a2/2000/estandar/estandar/a2-16-fsi/datos",
@@ -1157,7 +1158,7 @@
             ]
         },
         {
-            "name": "A2 1.2 TDI colour storm",
+            "name": "1.2 TDI colour storm",
             "start_year": "2003",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/audi/a2/2000/estandar/colour-storm/a2-12-tdi-colour-storm/datos",
@@ -1324,7 +1325,7 @@
             ]
         },
         {
-            "name": "A2 1.4 TDI Style",
+            "name": "1.4 TDI Style",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/a2/2000/estandar/style/a2-14-tdi-style/datos",
@@ -1466,7 +1467,7 @@
             ]
         },
         {
-            "name": "A2 1.4 TDI 75 CV colour storm",
+            "name": "1.4 TDI 75 CV colour storm",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/a2/2000/estandar/colour-storm/a2-14-tdi-75-cv-colour-storm/datos",
@@ -1680,7 +1681,7 @@
             ]
         },
         {
-            "name": "A2 1.6 FSI colour storm",
+            "name": "1.6 FSI colour storm",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/audi/a2/2000/estandar/colour-storm/a2-16-fsi-colour-storm/datos",
@@ -1895,7 +1896,7 @@
             ]
         },
         {
-            "name": "A2 1.4 TDI 90 CV",
+            "name": "1.4 TDI 90 CV",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/a2/2000/estandar/estandar/a2-14-tdi-90-cv/datos",
@@ -2104,7 +2105,7 @@
             ]
         },
         {
-            "name": "A2 1.4 TDI 90 CV colour storm",
+            "name": "1.4 TDI 90 CV colour storm",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/a2/2000/estandar/colour-storm/a2-14-tdi-90-cv-colour-storm/datos",

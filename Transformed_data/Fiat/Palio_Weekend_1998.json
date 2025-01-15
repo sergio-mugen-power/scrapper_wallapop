@@ -1,11 +1,12 @@
 {
+    "brand": "Fiat",
     "name": "Palio Weekend",
     "year": "1998",
     "url": "https://www.km77.com/coches/fiat/palio/1998/weekend",
     "price": "",
     "versions": [
         {
-            "name": "Palio Weekend 75",
+            "name": "75",
             "start_year": "1997",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/fiat/palio/1998/weekend/estandar/palio-weekend-75/datos",
@@ -136,7 +137,7 @@
             ]
         },
         {
-            "name": "Palio Weekend 1.2",
+            "name": "1.2",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/fiat/palio/1998/weekend/estandar/palio-weekend-12/datos",
@@ -267,7 +268,7 @@
             ]
         },
         {
-            "name": "Palio Weekend 100 16v",
+            "name": "100 16v",
             "start_year": "1997",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/fiat/palio/1998/weekend/estandar/palio-weekend-100-16v/datos",
@@ -398,7 +399,7 @@
             ]
         },
         {
-            "name": "Palio Weekend TD 70",
+            "name": "TD 70",
             "start_year": "1997",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/fiat/palio/1998/weekend/estandar/palio-weekend-td-70/datos",
@@ -529,7 +530,7 @@
             ]
         },
         {
-            "name": "Palio Weekend 1.6 16v",
+            "name": "1.6 16v",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/fiat/palio/1998/weekend/estandar/palio-weekend-16-16v/datos",

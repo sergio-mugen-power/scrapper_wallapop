@@ -1,11 +1,12 @@
 {
+    "brand": "Chrysler",
     "name": "Stratus",
     "year": "2000",
     "url": "https://www.km77.com/coches/chrysler/stratus/2000/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Stratus LE 2.0",
+            "name": "LE 2.0",
             "start_year": "1994",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/chrysler/stratus/2000/estandar/estandar/stratus-le-20/datos",
@@ -129,7 +130,7 @@
             ]
         },
         {
-            "name": "Stratus LE 2.0 Aut.",
+            "name": "LE 2.0 Aut.",
             "start_year": "1994",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/chrysler/stratus/2000/estandar/estandar/stratus-le-20-aut/datos",
@@ -254,7 +255,7 @@
             ]
         },
         {
-            "name": "Stratus LX 2.0",
+            "name": "LX 2.0",
             "start_year": "1994",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/chrysler/stratus/2000/estandar/estandar/stratus-lx-20/datos",
@@ -388,7 +389,7 @@
             ]
         },
         {
-            "name": "Stratus LX 2.5",
+            "name": "LX 2.5",
             "start_year": "1994",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/chrysler/stratus/2000/estandar/estandar/stratus-lx-25/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Toyota",
     "name": "Corolla Sedan",
     "year": "2023",
     "url": "https://www.km77.com/coches/toyota/corolla/2023/sedan",
     "price": "",
     "versions": [
         {
-            "name": "Corolla Sedan 140H Style Plus\n(10/2022 - )",
+            "name": "140H Style Plus\n(10/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/toyota/corolla/2023/sedan/estandar/corolla-sedan-140h-style/datos",
@@ -255,7 +256,7 @@
             ]
         },
         {
-            "name": "Corolla Sedan 140H Eco\n(10/2022 - )",
+            "name": "140H Eco\n(10/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/toyota/corolla/2023/sedan/estandar/corolla-sedan-140h/datos",

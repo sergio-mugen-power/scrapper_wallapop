@@ -1,11 +1,12 @@
 {
+    "brand": "Peugeot",
     "name": "5008",
     "year": "2010",
     "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar",
     "price": "Desde 38.660 €",
     "versions": [
         {
-            "name": "5008 Reference 1.6 VTi 120 7 plazas",
+            "name": "Reference 1.6 VTi 120 7 plazas",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/reference/5008-reference-16-vti-120-7-plazas/datos",
@@ -203,7 +204,7 @@
             ]
         },
         {
-            "name": "5008 Access 1.6 VTi 120 5 plazas",
+            "name": "Access 1.6 VTi 120 5 plazas",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/access/5008-access-16-vti-1202/datos",
@@ -404,7 +405,7 @@
             ]
         },
         {
-            "name": "5008 Access 1.6 VTi 120 7 plazas",
+            "name": "Access 1.6 VTi 120 7 plazas",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/access/5008-access-16-vti-120-7-plazas/datos",
@@ -606,7 +607,7 @@
             ]
         },
         {
-            "name": "5008 Access 1.6 VTi 120",
+            "name": "Access 1.6 VTi 120",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/access/5008-access-16-vti-120/datos",
@@ -809,7 +810,7 @@
             ]
         },
         {
-            "name": "5008 Active 1.6 VTi 120 5 plazas",
+            "name": "Active 1.6 VTi 120 5 plazas",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/active/5008-active-16-vti-1202/datos",
@@ -1024,7 +1025,7 @@
             ]
         },
         {
-            "name": "5008 Active 1.6 VTi 120 7 plazas",
+            "name": "Active 1.6 VTi 120 7 plazas",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/active/5008-active-16-vti-120-7-plazas/datos",
@@ -1240,7 +1241,7 @@
             ]
         },
         {
-            "name": "5008 Confort 1.6 VTi 120",
+            "name": "Confort 1.6 VTi 120",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/confort/5008-confort-16-vti-1202/datos",
@@ -1439,7 +1440,7 @@
             ]
         },
         {
-            "name": "5008 Confort 1.6 VTi 120",
+            "name": "Confort 1.6 VTi 120",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/confort/5008-confort-16-vti-120/datos",
@@ -1634,7 +1635,7 @@
             ]
         },
         {
-            "name": "5008 Style 1.6 VTi 120 5 plazas",
+            "name": "Style 1.6 VTi 120 5 plazas",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/style/5008-style-16-vti-120-5-plazas/datos",
@@ -1849,7 +1850,7 @@
             ]
         },
         {
-            "name": "5008 Style 1.6 VTi 120 7 plazas",
+            "name": "Style 1.6 VTi 120 7 plazas",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/style/5008-style-16-vti-120-7-plazas/datos",
@@ -2065,7 +2066,7 @@
             ]
         },
         {
-            "name": "5008 Reference 1.6 HDi 112 7 plazas",
+            "name": "Reference 1.6 HDi 112 7 plazas",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/reference/5008-references-16-hdi-112-fap-7-plazas/datos",
@@ -2264,7 +2265,7 @@
             ]
         },
         {
-            "name": "5008 Access 1.6 HDi 115 5 plazas",
+            "name": "Access 1.6 HDi 115 5 plazas",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/access/5008-access-16-hdi-115-5-plazas/datos",
@@ -2466,7 +2467,7 @@
             ]
         },
         {
-            "name": "5008 Access 1.6 HDi 115 7 plazas",
+            "name": "Access 1.6 HDi 115 7 plazas",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/access/5008-access-16-hdi-115-7-plazas/datos",
@@ -2669,7 +2670,7 @@
             ]
         },
         {
-            "name": "5008 Access 1.6 HDi 112",
+            "name": "Access 1.6 HDi 112",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/access/5008-access-16-hdi-112-fap/datos",
@@ -2873,7 +2874,7 @@
             ]
         },
         {
-            "name": "5008 Active 1.6 VTi 120",
+            "name": "Active 1.6 VTi 120",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/active/5008-active-16-vti-120/datos",
@@ -3093,7 +3094,7 @@
             ]
         },
         {
-            "name": "5008 Premium 1.6 VTi 120",
+            "name": "Premium 1.6 VTi 120",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/premium/5008-premium-16-vti-1202/datos",
@@ -3310,7 +3311,7 @@
             ]
         },
         {
-            "name": "5008 Access 1.6 HDi 110 5 plazas",
+            "name": "Access 1.6 HDi 110 5 plazas",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/access/5008-access-16-hdi-1102/datos",
@@ -3513,7 +3514,7 @@
             ]
         },
         {
-            "name": "5008 Access 1.6 HDi 110 7 plazas",
+            "name": "Access 1.6 HDi 110 7 plazas",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/access/5008-access-16-hdi-110-7-plazas/datos",
@@ -3717,7 +3718,7 @@
             ]
         },
         {
-            "name": "5008 Premium 1.6 VTi 120",
+            "name": "Premium 1.6 VTi 120",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/premium/5008-premium-16-vti-120/datos",
@@ -3927,7 +3928,7 @@
             ]
         },
         {
-            "name": "5008 Family 1.6 VTi 120",
+            "name": "Family 1.6 VTi 120",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/family/5008-family-16-vti-120/datos",
@@ -4149,7 +4150,7 @@
             ]
         },
         {
-            "name": "5008 Access 1.6 HDi 110",
+            "name": "Access 1.6 HDi 110",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/access/5008-access-16-hdi-110/datos",
@@ -4353,7 +4354,7 @@
             ]
         },
         {
-            "name": "5008 Confort 1.6 HDi 112 FAP",
+            "name": "Confort 1.6 HDi 112 FAP",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/confort/5008-confort-16-hdi-112-fap/datos",
@@ -4553,7 +4554,7 @@
             ]
         },
         {
-            "name": "5008 Active 1.6 HDi 115 5 plazas",
+            "name": "Active 1.6 HDi 115 5 plazas",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/active/5008-active-16-hdi-115-5-plazas/datos",
@@ -4769,7 +4770,7 @@
             ]
         },
         {
-            "name": "5008 Active 1.6 HDi 115 7 plazas",
+            "name": "Active 1.6 HDi 115 7 plazas",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/active/5008-active-16-hdi-115-7-plazas/datos",
@@ -4986,7 +4987,7 @@
             ]
         },
         {
-            "name": "5008 Confort 1.6 HDI 110 FAP",
+            "name": "Confort 1.6 HDI 110 FAP",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/confort/5008-confort-16-hdi-110-fap/datos",
@@ -5183,7 +5184,7 @@
             ]
         },
         {
-            "name": "5008 Style 1.6 HDi 115 5 plazas",
+            "name": "Style 1.6 HDi 115 5 plazas",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/style/5008-style-16-hdi-115-5-plazas/datos",
@@ -5399,7 +5400,7 @@
             ]
         },
         {
-            "name": "5008 Style 1.6 HDi 115 7 plazas",
+            "name": "Style 1.6 HDi 115 7 plazas",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/style/5008-style-16-hdi-115-7-plazas/datos",
@@ -5616,7 +5617,7 @@
             ]
         },
         {
-            "name": "5008 Confort 1.6 HDI 110 FAP",
+            "name": "Confort 1.6 HDI 110 FAP",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/confort/5008-confort-16-hdi-110-fap2/datos",
@@ -5814,7 +5815,7 @@
             ]
         },
         {
-            "name": "5008 Active 1.6 e-HDi 115 CMP Blue Lion 5 plazas",
+            "name": "Active 1.6 e-HDi 115 CMP Blue Lion 5 plazas",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/active/5008-active-16-e-hdi-115-cmp-blue-lion-5-plazas2/datos",
@@ -6031,7 +6032,7 @@
             ]
         },
         {
-            "name": "5008 Active 1.6 e-HDi 115 CMP Blue Lion 7 plazas",
+            "name": "Active 1.6 e-HDi 115 CMP Blue Lion 7 plazas",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/active/5008-active-16-e-hdi-115-cmp-blue-lion-7-plazas2/datos",
@@ -6250,7 +6251,7 @@
             ]
         },
         {
-            "name": "5008 Active 1.6 e-HDi 112 CMP Blue Lion",
+            "name": "Active 1.6 e-HDi 112 CMP Blue Lion",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/active/5008-active-16-e-hdi-112-fap-cmp-blue-lion/datos",
@@ -6471,7 +6472,7 @@
             ]
         },
         {
-            "name": "5008 Active 1.6 HDi 112",
+            "name": "Active 1.6 HDi 112",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/active/5008-active-16-hdi-112-fap/datos",
@@ -6692,7 +6693,7 @@
             ]
         },
         {
-            "name": "5008 Style 1.6 e-HDi 115 CMP Blue Lion 7 plazas",
+            "name": "Style 1.6 e-HDi 115 CMP Blue Lion 7 plazas",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/style/5008-allure-16-e-hdi-115-cmp-blue-lion-7-plazas2/datos",
@@ -6910,7 +6911,7 @@
             ]
         },
         {
-            "name": "5008 Active 1.6 e-HDi 110 CMP Blue Lion 5 plazas",
+            "name": "Active 1.6 e-HDi 110 CMP Blue Lion 5 plazas",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/active/5008-active-16-e-hdi-110-cmp-blue-lion2/datos",
@@ -7131,7 +7132,7 @@
             ]
         },
         {
-            "name": "5008 Active 1.6 e-HDi 110 CMP Blue Lion 7 plazas",
+            "name": "Active 1.6 e-HDi 110 CMP Blue Lion 7 plazas",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/active/5008-active-16-e-hdi-110-cmp-blue-lion-7-plazas/datos",
@@ -7353,7 +7354,7 @@
             ]
         },
         {
-            "name": "5008 Active 1.6 HDi 110 5 plazas",
+            "name": "Active 1.6 HDi 110 5 plazas",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/active/5008-active-16-hdi-1102/datos",
@@ -7573,7 +7574,7 @@
             ]
         },
         {
-            "name": "5008 Active 1.6 HDi 110 7 plazas",
+            "name": "Active 1.6 HDi 110 7 plazas",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/active/5008-active-16-hdi-110-7-plazas/datos",
@@ -7794,7 +7795,7 @@
             ]
         },
         {
-            "name": "5008 Active 1.6 e-HDi 110 CMP Blue Lion",
+            "name": "Active 1.6 e-HDi 110 CMP Blue Lion",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/active/5008-active-16-e-hdi-110-cmp-blue-lion/datos",
@@ -8016,7 +8017,7 @@
             ]
         },
         {
-            "name": "5008 Active 1.6 HDi 110",
+            "name": "Active 1.6 HDi 110",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/active/5008-active-16-hdi-110/datos",
@@ -8237,7 +8238,7 @@
             ]
         },
         {
-            "name": "5008 Premium 1.6 HDi 112 FAP",
+            "name": "Premium 1.6 HDi 112 FAP",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/premium/5008-premium-16-hdi-112-fap/datos",
@@ -8456,7 +8457,7 @@
             ]
         },
         {
-            "name": "5008 Premium 1.6 HDI 110 FAP",
+            "name": "Premium 1.6 HDI 110 FAP",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/premium/5008-premium-16-hdi-110-fap/datos",
@@ -8667,7 +8668,7 @@
             ]
         },
         {
-            "name": "5008 Family 1.6 e-HDi 110 CMP Blue Lion",
+            "name": "Family 1.6 e-HDi 110 CMP Blue Lion",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/family/5008-family-16-e-hdi-110-cmp-blue-lion/datos",
@@ -8890,7 +8891,7 @@
             ]
         },
         {
-            "name": "5008 Active 2.0 HDI 150 5 plazas",
+            "name": "Active 2.0 HDI 150 5 plazas",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/active/5008-active-20-hdi-1503/datos",
@@ -9106,7 +9107,7 @@
             ]
         },
         {
-            "name": "5008 Active 2.0 HDI 150 7 plazas",
+            "name": "Active 2.0 HDI 150 7 plazas",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/active/5008-active-20-hdi-150-7-plazas2/datos",
@@ -9323,7 +9324,7 @@
             ]
         },
         {
-            "name": "5008 Family 1.6 HDi 110",
+            "name": "Family 1.6 HDi 110",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/family/5008-family-16-hdi-110/datos",
@@ -9547,7 +9548,7 @@
             ]
         },
         {
-            "name": "5008 Premium 1.6 THP 156",
+            "name": "Premium 1.6 THP 156",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/premium/5008-premium-16-thp-1562/datos",
@@ -9765,7 +9766,7 @@
             ]
         },
         {
-            "name": "5008 Active 1.6 e-HDi 115 CMP Blue Lion 5 plazas",
+            "name": "Active 1.6 e-HDi 115 CMP Blue Lion 5 plazas",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/active/5008-active-16-e-hdi-115-cmp-blue-lion-5-plazas/datos",
@@ -9985,7 +9986,7 @@
             ]
         },
         {
-            "name": "5008 Active 1.6 e-HDi 115 CMP Blue Lion 7 plazas",
+            "name": "Active 1.6 e-HDi 115 CMP Blue Lion 7 plazas",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/active/5008-active-16-e-hdi-115-cmp-blue-lion-7-plazas/datos",
@@ -10207,7 +10208,7 @@
             ]
         },
         {
-            "name": "5008 Premium 1.6 HDI 110 FAP",
+            "name": "Premium 1.6 HDI 110 FAP",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/premium/5008-premium-16-hdi-110-fap2/datos",
@@ -10419,7 +10420,7 @@
             ]
         },
         {
-            "name": "5008 Premium 1.6 HDi 112 FAP CMP",
+            "name": "Premium 1.6 HDi 112 FAP CMP",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/premium/5008-premium-16-hdi-112-fap-cmp/datos",
@@ -10636,7 +10637,7 @@
             ]
         },
         {
-            "name": "5008 Style 2.0 HDI 150 5 plazas",
+            "name": "Style 2.0 HDI 150 5 plazas",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/style/5008-style-20-hdi-150-5lazas/datos",
@@ -10852,7 +10853,7 @@
             ]
         },
         {
-            "name": "5008 Style 2.0 HDI 150 7 plazas",
+            "name": "Style 2.0 HDI 150 7 plazas",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/style/5008-style-20-hdi-150-7-plazas/datos",
@@ -11069,7 +11070,7 @@
             ]
         },
         {
-            "name": "5008 Premium 1.6 THP 156",
+            "name": "Premium 1.6 THP 156",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/premium/5008-premium-16-thp-156/datos",
@@ -11280,7 +11281,7 @@
             ]
         },
         {
-            "name": "5008 Active 1.6 THP 156",
+            "name": "Active 1.6 THP 156",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/active/5008-premium-16-thp-1563/datos",
@@ -11500,7 +11501,7 @@
             ]
         },
         {
-            "name": "5008 Allure 1.6 THP 155 5 plazas",
+            "name": "Allure 1.6 THP 155 5 plazas",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-16-thp-155-5-plazas2/datos",
@@ -11728,7 +11729,7 @@
             ]
         },
         {
-            "name": "5008 Allure 1.6 THP 155 7 plazas",
+            "name": "Allure 1.6 THP 155 7 plazas",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-16-thp-155-7-plazas3/datos",
@@ -11957,7 +11958,7 @@
             ]
         },
         {
-            "name": "5008 Premium 1.6 e-HDi 112 FAP CMP BLUE LION",
+            "name": "Premium 1.6 e-HDi 112 FAP CMP BLUE LION",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/premium/5008-premium-16-e-hdi-112-fap-cmp/datos",
@@ -12177,7 +12178,7 @@
             ]
         },
         {
-            "name": "5008 Premium 1.6 HDI 110 FAP CMP",
+            "name": "Premium 1.6 HDI 110 FAP CMP",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/premium/5008-premium-16-hdi-110-fap-cmp/datos",
@@ -12388,7 +12389,7 @@
             ]
         },
         {
-            "name": "5008 Active 2.0 HDI 150",
+            "name": "Active 2.0 HDI 150",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/active/5008-active-20-hdi-150-fap/datos",
@@ -12609,7 +12610,7 @@
             ]
         },
         {
-            "name": "5008 Allure 1.6 HDi 115 5 plazas",
+            "name": "Allure 1.6 HDi 115 5 plazas",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-16-hdi-115-5-plazas/datos",
@@ -12839,7 +12840,7 @@
             ]
         },
         {
-            "name": "5008 Allure 1.6 HDi 115 7 plazas",
+            "name": "Allure 1.6 HDi 115 7 plazas",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-16-hdi-115-7-plazas/datos",
@@ -13070,7 +13071,7 @@
             ]
         },
         {
-            "name": "5008 Premium 1.6 HDI 110 FAP CMP",
+            "name": "Premium 1.6 HDI 110 FAP CMP",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/premium/5008-premium-16-hdi-110-fap-cmp2/datos",
@@ -13282,7 +13283,7 @@
             ]
         },
         {
-            "name": "5008 Active 2.0 HDI 150 7 plazas",
+            "name": "Active 2.0 HDI 150 7 plazas",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/active/5008-active-20-hdi-150-7-plazas/datos",
@@ -13503,7 +13504,7 @@
             ]
         },
         {
-            "name": "5008 Active 2.0 HDI 150",
+            "name": "Active 2.0 HDI 150",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/active/5008-active-20-hdi-1502/datos",
@@ -13724,7 +13725,7 @@
             ]
         },
         {
-            "name": "5008 Business Line 1.6 HDi 112 FAP",
+            "name": "Business Line 1.6 HDi 112 FAP",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/business-line/5008-business-line-16-hdi-112-fap/datos",
@@ -13940,7 +13941,7 @@
             ]
         },
         {
-            "name": "5008 Allure 1.6 e-HDi 115 CMP Blue Lion 7 plazas",
+            "name": "Allure 1.6 e-HDi 115 CMP Blue Lion 7 plazas",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-16-e-hdi-115-cmp-blue-lion-7-plazas/datos",
@@ -14172,7 +14173,7 @@
             ]
         },
         {
-            "name": "5008 Premium 2.0 HDI 150 FAP",
+            "name": "Premium 2.0 HDI 150 FAP",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/premium/5008-premium-20-hdi-150-fap2/datos",
@@ -14391,7 +14392,7 @@
             ]
         },
         {
-            "name": "5008 Allure 1.6 HDi 112",
+            "name": "Allure 1.6 HDi 112",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-16-hdi-112-fap/datos",
@@ -14629,7 +14630,7 @@
             ]
         },
         {
-            "name": "5008 Family 1.6 HDi 112 FAP",
+            "name": "Family 1.6 HDi 112 FAP",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/family/5008-family-16-hdi-112-fap/datos",
@@ -14847,7 +14848,7 @@
             ]
         },
         {
-            "name": "5008 Premium Pack 1.6 HDi FAP 110 CV 7 plazas",
+            "name": "Premium Pack 1.6 HDi FAP 110 CV 7 plazas",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/premium-pack/5008-premium-pack-16-hdi-fap-110-cv-7-plazas/datos",
@@ -15045,7 +15046,7 @@
             ]
         },
         {
-            "name": "5008 Premium 2.0 HDI 150 FAP",
+            "name": "Premium 2.0 HDI 150 FAP",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/premium/5008-premium-20-hdi-150-fap/datos",
@@ -15257,7 +15258,7 @@
             ]
         },
         {
-            "name": "5008 Family 2.0 HDI 150",
+            "name": "Family 2.0 HDI 150",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/family/5008-family-20-hdi-150/datos",
@@ -15480,7 +15481,7 @@
             ]
         },
         {
-            "name": "5008 Allure 1.6 HDi 110 5 plazas",
+            "name": "Allure 1.6 HDi 110 5 plazas",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-16-hdi-1102/datos",
@@ -15717,7 +15718,7 @@
             ]
         },
         {
-            "name": "5008 Allure 1.6 HDi 110 7 plazas",
+            "name": "Allure 1.6 HDi 110 7 plazas",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-16-hdi-110-7-plazas/datos",
@@ -15955,7 +15956,7 @@
             ]
         },
         {
-            "name": "5008 Allure 1.6 HDi 110",
+            "name": "Allure 1.6 HDi 110",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-16-hdi-110/datos",
@@ -16193,7 +16194,7 @@
             ]
         },
         {
-            "name": "5008 Family 1.6 HDi 112 FAP CMP",
+            "name": "Family 1.6 HDi 112 FAP CMP",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/family/5008-family-16-hdi-112-fap-cmp/datos",
@@ -16411,7 +16412,7 @@
             ]
         },
         {
-            "name": "5008 Allure 1.6 THP 155 Aut. 5 plazas",
+            "name": "Allure 1.6 THP 155 Aut. 5 plazas",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-16-thp-155-aut-5-plazas2/datos",
@@ -16639,7 +16640,7 @@
             ]
         },
         {
-            "name": "5008 Allure 1.6 THP 155 Aut. 7 plazas",
+            "name": "Allure 1.6 THP 155 Aut. 7 plazas",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-16-thp-155-aut-7-plazas3/datos",
@@ -16868,7 +16869,7 @@
             ]
         },
         {
-            "name": "5008 Sport Pack 1.6 HDI 110 FAP",
+            "name": "Sport Pack 1.6 HDI 110 FAP",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/sport-pack/5008-sport-pack-16-hdi-110-fap/datos",
@@ -17095,7 +17096,7 @@
             ]
         },
         {
-            "name": "5008 Allure 1.6 THP 155 5 plazas",
+            "name": "Allure 1.6 THP 155 5 plazas",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-16-thp-155/datos",
@@ -17331,7 +17332,7 @@
             ]
         },
         {
-            "name": "5008 Allure 1.6 THP 155 7 plazas",
+            "name": "Allure 1.6 THP 155 7 plazas",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-16-thp-155-7-plazas/datos",
@@ -17568,7 +17569,7 @@
             ]
         },
         {
-            "name": "5008 Sport Pack 1.6 HDi 112 FAP",
+            "name": "Sport Pack 1.6 HDi 112 FAP",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/sport-pack/5008-sport-pack-16-hdi-112-fap/datos",
@@ -17803,7 +17804,7 @@
             ]
         },
         {
-            "name": "5008 Pack Video 1.6 HDi 112 FAP 7 plazas",
+            "name": "Pack Video 1.6 HDi 112 FAP 7 plazas",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/pack-video/5008-pack-video-16-hdi-112-fap/datos",
@@ -18021,7 +18022,7 @@
             ]
         },
         {
-            "name": "5008 Allure 1.6 e-HDi 112 CMP Blue Lion",
+            "name": "Allure 1.6 e-HDi 112 CMP Blue Lion",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-16-e-hdi-112-fap-cmp-blue-lion/datos",
@@ -18260,7 +18261,7 @@
             ]
         },
         {
-            "name": "5008 Allure 1.6 THP 155",
+            "name": "Allure 1.6 THP 155",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-16-thp-156/datos",
@@ -18497,7 +18498,7 @@
             ]
         },
         {
-            "name": "5008 Allure 2.0 HDI 150 5 plazas",
+            "name": "Allure 2.0 HDI 150 5 plazas",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-20-hdi-1502/datos",
@@ -18727,7 +18728,7 @@
             ]
         },
         {
-            "name": "5008 Allure 2.0 HDI 150 7 plazas",
+            "name": "Allure 2.0 HDI 150 7 plazas",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-20-hdi-150-7-plazas2/datos",
@@ -18958,7 +18959,7 @@
             ]
         },
         {
-            "name": "5008 Sport Pack 1.6 HDI 110 FAP",
+            "name": "Sport Pack 1.6 HDI 110 FAP",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/sport-pack/5008-sport-pack-16-hdi-110-fap2/datos",
@@ -19186,7 +19187,7 @@
             ]
         },
         {
-            "name": "5008 Allure 1.6 THP 155 5 plazas",
+            "name": "Allure 1.6 THP 155 5 plazas",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-16-thp-155-5-plazas/datos",
@@ -19417,7 +19418,7 @@
             ]
         },
         {
-            "name": "5008 Allure 1.6 THP 155 7 plazas",
+            "name": "Allure 1.6 THP 155 7 plazas",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-16-thp-155-7-plazas2/datos",
@@ -19649,7 +19650,7 @@
             ]
         },
         {
-            "name": "5008 Sport Pack 1.6 THP 156",
+            "name": "Sport Pack 1.6 THP 156",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/sport-pack/5008-sport-pack-16-thp-156/datos",
@@ -19876,7 +19877,7 @@
             ]
         },
         {
-            "name": "5008 Allure 1.6 e-HDi 110 CMP Blue Lion 5 plazas",
+            "name": "Allure 1.6 e-HDi 110 CMP Blue Lion 5 plazas",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-16-e-hdi-110-cmp-blue-lion2/datos",
@@ -20114,7 +20115,7 @@
             ]
         },
         {
-            "name": "5008 Allure 1.6 e-HDi 110 CMP Blue Lion 7 plazas",
+            "name": "Allure 1.6 e-HDi 110 CMP Blue Lion 7 plazas",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-16-e-hdi-110-cmp-blue-lion-7-plazas/datos",
@@ -20353,7 +20354,7 @@
             ]
         },
         {
-            "name": "5008 Sport Pack 1.6 THP 156",
+            "name": "Sport Pack 1.6 THP 156",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/sport-pack/5008-sport-pack-16-thp-1562/datos",
@@ -20587,7 +20588,7 @@
             ]
         },
         {
-            "name": "5008 Allure 1.6 e-HDi 115 CMP Blue Lion 5 plazas",
+            "name": "Allure 1.6 e-HDi 115 CMP Blue Lion 5 plazas",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-16-e-hdi-115-cmp-blue-lion-5-plazas/datos",
@@ -20820,7 +20821,7 @@
             ]
         },
         {
-            "name": "5008 Sport Pack 1.6 HDI 110 FAP CMP",
+            "name": "Sport Pack 1.6 HDI 110 FAP CMP",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/sport-pack/5008-sport-pack-16-hdi-110-fap-cmp/datos",
@@ -21047,7 +21048,7 @@
             ]
         },
         {
-            "name": "5008 Sport Pack 1.6 HDi 112 FAP CMP",
+            "name": "Sport Pack 1.6 HDi 112 FAP CMP",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/sport-pack/5008-sport-pack-16-hdi-112-fap-cmp/datos",
@@ -21279,7 +21280,7 @@
             ]
         },
         {
-            "name": "5008 Allure 1.6 e-HDi 110 CMP Blue Lion",
+            "name": "Allure 1.6 e-HDi 110 CMP Blue Lion",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-16-e-hdi-110-cmp-blue-lion/datos",
@@ -21518,7 +21519,7 @@
             ]
         },
         {
-            "name": "5008 Business Line 2.0 HDi 150 FAP",
+            "name": "Business Line 2.0 HDi 150 FAP",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/business-line/5008-business-line-20-hdi-150-fap/datos",
@@ -21735,7 +21736,7 @@
             ]
         },
         {
-            "name": "5008 Sport Pack 1.6 e-HDi 112 FAP CMP BLUE LION",
+            "name": "Sport Pack 1.6 e-HDi 112 FAP CMP BLUE LION",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/sport-pack/5008-sport-pack-16-e-hdi-112-fap-cmp/datos",
@@ -21971,7 +21972,7 @@
             ]
         },
         {
-            "name": "5008 Allure 1.6 THP 155 Aut. 5 plazas",
+            "name": "Allure 1.6 THP 155 Aut. 5 plazas",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-16-thp-155-aut/datos",
@@ -22206,7 +22207,7 @@
             ]
         },
         {
-            "name": "5008 Allure 1.6 THP 155 Aut. 7 plazas",
+            "name": "Allure 1.6 THP 155 Aut. 7 plazas",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-16-thp-155-aut-7-plazas/datos",
@@ -22442,7 +22443,7 @@
             ]
         },
         {
-            "name": "5008 Premium 2.0 HDi 163 FAP Aut.",
+            "name": "Premium 2.0 HDi 163 FAP Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/premium/5008-premium-20-hdi-163-fap-aut/datos",
@@ -22661,7 +22662,7 @@
             ]
         },
         {
-            "name": "5008 Allure 2.0 HDI 150",
+            "name": "Allure 2.0 HDI 150",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-20-hdi-150-fap/datos",
@@ -22899,7 +22900,7 @@
             ]
         },
         {
-            "name": "5008 Sport Pack 1.6 HDI 110 FAP CMP",
+            "name": "Sport Pack 1.6 HDI 110 FAP CMP",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/sport-pack/5008-sport-pack-16-hdi-110-fap-cmp2/datos",
@@ -23127,7 +23128,7 @@
             ]
         },
         {
-            "name": "5008 Premium 2.0 HDi 163 CV FAP Aut.",
+            "name": "Premium 2.0 HDi 163 CV FAP Aut.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/premium/5008-premium-20-hdi-163-cv-fap-aut/datos",
@@ -23337,7 +23338,7 @@
             ]
         },
         {
-            "name": "5008 Allure 1.6 THP 155 Aut.",
+            "name": "Allure 1.6 THP 155 Aut.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-16-thp-156-aut/datos",
@@ -23573,7 +23574,7 @@
             ]
         },
         {
-            "name": "5008 Sport Pack 1.6 THP 156 Aut.",
+            "name": "Sport Pack 1.6 THP 156 Aut.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/sport-pack/5008-sport-pack-16-thp-156-aut/datos",
@@ -23798,7 +23799,7 @@
             ]
         },
         {
-            "name": "5008 Allure 2.0 HDI 150 7 plazas",
+            "name": "Allure 2.0 HDI 150 7 plazas",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-20-hdi-150-7-plazas/datos",
@@ -24036,7 +24037,7 @@
             ]
         },
         {
-            "name": "5008 Allure 1.6 THP 155 Aut. 5 plazas",
+            "name": "Allure 1.6 THP 155 Aut. 5 plazas",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-16-thp-155-aut-5-plazas/datos",
@@ -24266,7 +24267,7 @@
             ]
         },
         {
-            "name": "5008 Allure 1.6 THP 155 Aut. 7 plazas",
+            "name": "Allure 1.6 THP 155 Aut. 7 plazas",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-16-thp-155-aut-7-plazas2/datos",
@@ -24497,7 +24498,7 @@
             ]
         },
         {
-            "name": "5008 Sport Pack 1.6 THP 156 Aut.",
+            "name": "Sport Pack 1.6 THP 156 Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/sport-pack/5008-sport-pack-16-thp-156-aut2/datos",
@@ -24730,7 +24731,7 @@
             ]
         },
         {
-            "name": "5008 Allure 2.0 HDI 150",
+            "name": "Allure 2.0 HDI 150",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-20-hdi-150/datos",
@@ -24968,7 +24969,7 @@
             ]
         },
         {
-            "name": "5008 Sport Pack 2.0 HDI 150 FAP",
+            "name": "Sport Pack 2.0 HDI 150 FAP",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/sport-pack/5008-sport-pack-20-hdi-150-fap/datos",
@@ -25196,7 +25197,7 @@
             ]
         },
         {
-            "name": "5008 Sport Pack 2.0 HDI 150 FAP",
+            "name": "Sport Pack 2.0 HDI 150 FAP",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/sport-pack/5008-sport-pack-20-hdi-150-fap2/datos",
@@ -25431,7 +25432,7 @@
             ]
         },
         {
-            "name": "5008 Allure 2.0 HDi 160 Aut. 5 plazas",
+            "name": "Allure 2.0 HDi 160 Aut. 5 plazas",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-20-hdi-160-aut/datos",
@@ -25661,7 +25662,7 @@
             ]
         },
         {
-            "name": "5008 Allure 2.0 HDi 160 Aut. 7 plazas",
+            "name": "Allure 2.0 HDi 160 Aut. 7 plazas",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-20-hdi-160-aut-7-plazas/datos",
@@ -25892,7 +25893,7 @@
             ]
         },
         {
-            "name": "5008 Allure 2.0 HDi 160 Aut.",
+            "name": "Allure 2.0 HDi 160 Aut.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/allure/5008-allure-20-hdi-163-fap-aut/datos",
@@ -26130,7 +26131,7 @@
             ]
         },
         {
-            "name": "5008 Sport Pack 2.0 HDi 163 CV FAP Aut.",
+            "name": "Sport Pack 2.0 HDi 163 CV FAP Aut.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/sport-pack/5008-sport-pack-20-hdi-163-cv-fap-aut/datos",
@@ -26356,7 +26357,7 @@
             ]
         },
         {
-            "name": "5008 Sport Pack 2.0 HDi 163 FAP Aut.",
+            "name": "Sport Pack 2.0 HDi 163 FAP Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/5008/2010/estandar/sport-pack/5008-sport-pack-20-hdi-163-fap-aut/datos",

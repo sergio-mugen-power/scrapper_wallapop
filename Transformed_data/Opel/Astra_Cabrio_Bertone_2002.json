@@ -1,11 +1,12 @@
 {
+    "brand": "Opel",
     "name": "Astra Cabrio Bertone",
     "year": "2002",
     "url": "https://www.km77.com/coches/opel/astra/2002/cabrio-bertone",
     "price": "",
     "versions": [
         {
-            "name": "Astra Cabrio Bertone 1.8 16V",
+            "name": "1.8 16V",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/astra/2002/cabrio-bertone/bertone/astra-cabrio-bertone-18-16v/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Astra Cabrio Bertone 2.2 16V",
+            "name": "2.2 16V",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/astra/2002/cabrio-bertone/bertone/astra-cabrio-bertone-22-16v/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Astra Cabrio Bertone 2.2 DTI 16V",
+            "name": "2.2 DTI 16V",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/astra/2002/cabrio-bertone/bertone/astra-cabrio-bertone-22-dti-16v/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Astra Cabrio Bertone 2.2 16V Aut.",
+            "name": "2.2 16V Aut.",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/astra/2002/cabrio-bertone/bertone/astra-cabrio-bertone-22-16v-aut/datos",

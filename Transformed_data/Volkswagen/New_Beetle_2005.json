@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "New Beetle",
     "year": "2005",
     "url": "https://www.km77.com/coches/volkswagen/new-beetle/2005/estandar",
     "price": "",
     "versions": [
         {
-            "name": "New Beetle 1.6",
+            "name": "1.6",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/2005/estandar/estandar/new-beetle-16/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "New Beetle 1.6",
+            "name": "1.6",
             "start_year": "2007",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/2005/estandar/estandar/new-beetle-162/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "New Beetle 1.6 Aut.",
+            "name": "1.6 Aut.",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/2005/estandar/estandar/new-beetle-16-aut/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "New Beetle 1.6",
+            "name": "1.6",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/2005/estandar/estandar/new-beetle-163/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "New Beetle 1.6 Aut.",
+            "name": "1.6 Aut.",
             "start_year": "2007",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/2005/estandar/estandar/new-beetle-16-aut2/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "New Beetle 1.6 Aut.",
+            "name": "1.6 Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/2005/estandar/estandar/new-beetle-16-aut3/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "New Beetle 2.0",
+            "name": "2.0",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/2005/estandar/estandar/new-beetle-20/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "New Beetle 1.9 TDI",
+            "name": "1.9 TDI",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/2005/estandar/estandar/new-beetle-19-tdi/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "New Beetle 1.9 TDI",
+            "name": "1.9 TDI",
             "start_year": "2007",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/2005/estandar/estandar/new-beetle-19-tdi2/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "New Beetle 1.9 TDI",
+            "name": "1.9 TDI",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/2005/estandar/estandar/new-beetle-19-tdi3/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "New Beetle 1.8 Turbo",
+            "name": "1.8 Turbo",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/2005/estandar/estandar/new-beetle-18-turbo/datos",
@@ -313,7 +314,7 @@
             ]
         },
         {
-            "name": "New Beetle 2.0 Aut.",
+            "name": "2.0 Aut.",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/2005/estandar/estandar/new-beetle-20-aut/datos",
@@ -341,7 +342,7 @@
             ]
         },
         {
-            "name": "New Beetle 2.0",
+            "name": "2.0",
             "start_year": "2007",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/2005/estandar/estandar/new-beetle-202/datos",
@@ -369,7 +370,7 @@
             ]
         },
         {
-            "name": "New Beetle 1.8 Turbo",
+            "name": "1.8 Turbo",
             "start_year": "2007",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/2005/estandar/estandar/new-beetle-18-turbo2/datos",
@@ -397,7 +398,7 @@
             ]
         },
         {
-            "name": "New Beetle 2.0",
+            "name": "2.0",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/2005/estandar/estandar/new-beetle-203/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "New Beetle 1.8 Turbo",
+            "name": "1.8 Turbo",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/2005/estandar/estandar/new-beetle-18-turbo3/datos",
@@ -453,7 +454,7 @@
             ]
         },
         {
-            "name": "New Beetle 1.8 Turbo Aut.",
+            "name": "1.8 Turbo Aut.",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/2005/estandar/estandar/new-beetle-18-turbo-aut/datos",
@@ -481,7 +482,7 @@
             ]
         },
         {
-            "name": "New Beetle 2.0 Aut.",
+            "name": "2.0 Aut.",
             "start_year": "2007",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/2005/estandar/estandar/new-beetle-20-aut2/datos",
@@ -509,7 +510,7 @@
             ]
         },
         {
-            "name": "New Beetle 2.0 Aut.",
+            "name": "2.0 Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/2005/estandar/estandar/new-beetle-20-aut3/datos",
@@ -537,7 +538,7 @@
             ]
         },
         {
-            "name": "New Beetle 1.8 Turbo Aut.",
+            "name": "1.8 Turbo Aut.",
             "start_year": "2007",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/2005/estandar/estandar/new-beetle-18-turbo-aut2/datos",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "name": "New Beetle 1.8 Turbo Aut.",
+            "name": "1.8 Turbo Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/2005/estandar/estandar/new-beetle-18-turbo-aut3/datos",

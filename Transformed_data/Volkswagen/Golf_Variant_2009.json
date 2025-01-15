@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Golf Variant",
     "year": "2009",
     "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant",
     "price": "",
     "versions": [
         {
-            "name": "Golf Variant Advance 1.2 TSI 105 CV",
+            "name": "Advance 1.2 TSI 105 CV",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/advance/golf-variant-advance-12-tsi-105-cv/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.6 102 CV",
+            "name": "Advance 1.6 102 CV",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/advance/golf-variant-advance-16-102-cv/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.2 TSI 105 CV",
+            "name": "Advance 1.2 TSI 105 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/advance/golf-variant-advance-12-tsi-105-cv2/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.4 TSI 122 CV",
+            "name": "Advance 1.4 TSI 122 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/advance/golf-variant-advance-14-tsi-122-cv2/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.6 TDI 105 CV",
+            "name": "Advance 1.6 TDI 105 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/advance/golf-variant-advance-16-tdi-105-cv/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.4 TSI 122 CV",
+            "name": "Advance 1.4 TSI 122 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/advance/golf-variant-advance-14-tsi-122-cv/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.6 TDI 105 CV",
+            "name": "Advance 1.6 TDI 105 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/advance/golf-variant-advance-16-tdi-105-cv-dpf2/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.6 TDI 105 CV DPF",
+            "name": "Advance 1.6 TDI 105 CV DPF",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/advance/golf-variant-advance-16-tdi-105-cv-dpf/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.2 TSI 105 CV DSG 7 vel.",
+            "name": "Advance 1.2 TSI 105 CV DSG 7 vel.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/advance/golf-variant-advance-12-tsi-105-cv-dsg-7-vel/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.2 TSI 105 CV DSG 7 vel.",
+            "name": "Advance 1.2 TSI 105 CV DSG 7 vel.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/advance/golf-variant-advance-12-tsi-105-cv-dsg-7-vel2/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.6 TDI 105 CV",
+            "name": "Sport 1.6 TDI 105 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/sport/golf-variant-sport-16-tdi-105-cv/datos",
@@ -313,7 +314,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.4 TSI 122 CV",
+            "name": "Sport 1.4 TSI 122 CV",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/sport/golf-variant-sport-14-tsi-122-cv/datos",
@@ -341,7 +342,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.6 TDI 105 CV DPF",
+            "name": "Sport 1.6 TDI 105 CV DPF",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/sport/golf-variant-sport-16-tdi-105-cv-dpf/datos",
@@ -369,7 +370,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.6 TDI 105 CV",
+            "name": "Sport 1.6 TDI 105 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/sport/golf-variant-sport-16-tdi-105-cv-dpf2/datos",
@@ -397,7 +398,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.6 TDI 105 CV DPF DSG 7 vel.",
+            "name": "Advance 1.6 TDI 105 CV DPF DSG 7 vel.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/advance/golf-variant-advance-16-tdi-105-cv-dpf-dsg-7-vel/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.4 TSI 122 CV",
+            "name": "Sport 1.4 TSI 122 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/sport/golf-variant-sport-14-tsi-122-cv2/datos",
@@ -453,7 +454,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.4 TSI 160 CV",
+            "name": "Sport 1.4 TSI 160 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/sport/golf-variant-sport-14-tsi-160-cv3/datos",
@@ -481,7 +482,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.4 TSI 160 CV",
+            "name": "Sport 1.4 TSI 160 CV",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/sport/golf-variant-sport-14-tsi-160-cv/datos",
@@ -509,7 +510,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.4 TSI 160 CV",
+            "name": "Sport 1.4 TSI 160 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/sport/golf-variant-sport-14-tsi-160-cv2/datos",
@@ -537,7 +538,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.6 TDI 105 CV DPF DSG 7 vel.",
+            "name": "Advance 1.6 TDI 105 CV DPF DSG 7 vel.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/advance/golf-variant-advance-16-tdi-105-cv-dpf-dsg-7-vel2/datos",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.4 TSI 122 CV DSG 7 vel.",
+            "name": "Sport 1.4 TSI 122 CV DSG 7 vel.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/sport/golf-variant-sport-14-tsi-122-cv-dsg-7-vel/datos",
@@ -593,7 +594,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.4 TSI 122 CV DSG 7 vel.",
+            "name": "Sport 1.4 TSI 122 CV DSG 7 vel.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/sport/golf-variant-sport-14-tsi-122-cv-dsg-7-vel2/datos",
@@ -621,7 +622,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.6 TDI 105 CV DSG 7 vel.",
+            "name": "Sport 1.6 TDI 105 CV DSG 7 vel.",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/sport/golf-variant-sport-16-tdi-105-cv-dsg-7-vel/datos",
@@ -649,7 +650,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.6 TDI 105 CV DPF DSG 7 vel.",
+            "name": "Sport 1.6 TDI 105 CV DPF DSG 7 vel.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/sport/golf-variant-sport-16-tdi-105-cv-dpf-dsg-7-vel/datos",
@@ -677,7 +678,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.6 TDI 105 CV DSG 7 vel.",
+            "name": "Sport 1.6 TDI 105 CV DSG 7 vel.",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/sport/golf-variant-sport-16-tdi-105-cv-dpf-dsg-7-vel2/datos",
@@ -705,7 +706,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.4 TSI 160 CV DSG 7 vel.",
+            "name": "Sport 1.4 TSI 160 CV DSG 7 vel.",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/sport/golf-variant-sport-14-tsi-160-cv-dsg-7-vel3/datos",
@@ -733,7 +734,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.4 TSI 160 CV DSG 7 vel.",
+            "name": "Sport 1.4 TSI 160 CV DSG 7 vel.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/sport/golf-variant-sport-14-tsi-160-cv-dsg-7-vel/datos",
@@ -761,7 +762,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.4 TSI 160 CV DSG 7 vel.",
+            "name": "Sport 1.4 TSI 160 CV DSG 7 vel.",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/sport/golf-variant-sport-14-tsi-160-cv-dsg-7-vel2/datos",
@@ -789,7 +790,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 2.0 TDI 140 CV",
+            "name": "Sport 2.0 TDI 140 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/sport/golf-variant-sport-20-tdi-140-cv/datos",
@@ -817,7 +818,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 2.0 TDI 140 CV CR DPF",
+            "name": "Sport 2.0 TDI 140 CV CR DPF",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/sport/golf-variant-sport-20-tdi-140-cv-cr-dpf/datos",
@@ -845,7 +846,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 2.0 TDI 140 CV",
+            "name": "Sport 2.0 TDI 140 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/sport/golf-variant-sport-20-tdi-140-cv-cr-dpf2/datos",
@@ -873,7 +874,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 2.0 TDI 140 CV CR DPF DSG",
+            "name": "Sport 2.0 TDI 140 CV CR DPF DSG",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/sport/golf-variant-sport-20-tdi-140-cv-cr-dpf-dsg/datos",
@@ -901,7 +902,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 2.0 TDI 140 CV DSG",
+            "name": "Sport 2.0 TDI 140 CV DSG",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/sport/golf-variant-sport-20-tdi-140-cv-dsg/datos",
@@ -929,7 +930,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 2.0 TDI 140 CV DSG",
+            "name": "Sport 2.0 TDI 140 CV DSG",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/golf/2009/variant/sport/golf-variant-sport-20-tdi-140-cv-cr-dpf-dsg2/datos",

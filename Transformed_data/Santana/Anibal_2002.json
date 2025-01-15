@@ -1,11 +1,12 @@
 {
+    "brand": "Santana",
     "name": "Anibal",
     "year": "2002",
     "url": "https://www.km77.com/coches/santana/anibal/2002/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Anibal Lujo 5 plazas",
+            "name": "Lujo 5 plazas",
             "start_year": "2002",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/santana/anibal/2002/estandar/lujo/anibal-lujo-5-plazas/datos",
@@ -155,7 +156,7 @@
             ]
         },
         {
-            "name": "Anibal Superlujo 7 plazas",
+            "name": "Superlujo 7 plazas",
             "start_year": "2002",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/santana/anibal/2002/estandar/superlujo/anibal-superlujo-7-plazas/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Opel",
     "name": "Signum",
     "year": "2006",
     "url": "https://www.km77.com/coches/opel/signum/2006/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Signum Elegance 1.8 16V 140 CV",
+            "name": "Elegance 1.8 16V 140 CV",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/opel/signum/2006/estandar/elegance/signum-elegance-18-16v-140-cv/datos",
@@ -25,7 +26,7 @@
             ]
         },
         {
-            "name": "Signum Elegance 2.2 DIG 16V",
+            "name": "Elegance 2.2 DIG 16V",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/opel/signum/2006/estandar/elegance/signum-elegance-22-dig-16v/datos",
@@ -45,7 +46,7 @@
             ]
         },
         {
-            "name": "Signum Elegance 1.9 CDTi 8V 120 CV",
+            "name": "Elegance 1.9 CDTi 8V 120 CV",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/opel/signum/2006/estandar/elegance/signum-elegance-19-cdti-8v-120-cv/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "Signum Elegance 1.9 CDTi 16V 150 CV",
+            "name": "Elegance 1.9 CDTi 16V 150 CV",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/opel/signum/2006/estandar/elegance/signum-elegance-19-cdti-16v-150-cv/datos",
@@ -85,7 +86,7 @@
             ]
         },
         {
-            "name": "Signum Elegance 2.2 DIG 16V Aut.",
+            "name": "Elegance 2.2 DIG 16V Aut.",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/opel/signum/2006/estandar/elegance/signum-elegance-22-dig-16v-aut/datos",
@@ -105,7 +106,7 @@
             ]
         },
         {
-            "name": "Signum Elegance 1.8 16V",
+            "name": "Elegance 1.8 16V",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/opel/signum/2006/estandar/elegance/signum-elegance-18-16v/datos",
@@ -125,7 +126,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 2.2 DIG 16v",
+            "name": "Cosmo 2.2 DIG 16v",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/signum/2006/estandar/cosmo/signum-cosmo-22-dig-16v2/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 2.2 DIG 16V",
+            "name": "Cosmo 2.2 DIG 16V",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/signum/2006/estandar/cosmo/signum-cosmo-22-dig-16v/datos",
@@ -165,7 +166,7 @@
             ]
         },
         {
-            "name": "Signum Elegance 1.9 CDTi 16V 150 CV Aut.",
+            "name": "Elegance 1.9 CDTi 16V 150 CV Aut.",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/opel/signum/2006/estandar/elegance/signum-elegance-19-cdti-16v-150-cv-aut/datos",
@@ -185,7 +186,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 1.9 CDTi 16v",
+            "name": "Cosmo 1.9 CDTi 16v",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/signum/2006/estandar/cosmo/signum-cosmo-19-cdti-16v/datos",
@@ -205,7 +206,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 2.2 DIG 16v Aut.",
+            "name": "Cosmo 2.2 DIG 16v Aut.",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/signum/2006/estandar/cosmo/signum-cosmo-22-dig-16v-aut2/datos",
@@ -225,7 +226,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 1.9 CDTi 16V 150 CV",
+            "name": "Cosmo 1.9 CDTi 16V 150 CV",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/signum/2006/estandar/cosmo/signum-cosmo-19-cdti-16v-150-cv/datos",
@@ -245,7 +246,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 2.2 DIG 16V Aut.",
+            "name": "Cosmo 2.2 DIG 16V Aut.",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/signum/2006/estandar/cosmo/signum-cosmo-22-dig-16v-aut/datos",
@@ -265,7 +266,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 1.9 CDTi 16V 150 CV Aut.",
+            "name": "Cosmo 1.9 CDTi 16V 150 CV Aut.",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/signum/2006/estandar/cosmo/signum-cosmo-19-cdti-16v-150-cv-aut/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 2.8 Turbo 230 CV",
+            "name": "Cosmo 2.8 Turbo 230 CV",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/opel/signum/2006/estandar/cosmo/signum-cosmo-28-turbo-230-cv/datos",
@@ -305,7 +306,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 1.9 CDTi 16v Aut.",
+            "name": "Cosmo 1.9 CDTi 16v Aut.",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/signum/2006/estandar/cosmo/signum-cosmo-19-cdti-16v-aut/datos",
@@ -325,7 +326,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 3.0 V6 CDTi 24v",
+            "name": "Cosmo 3.0 V6 CDTi 24v",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/signum/2006/estandar/cosmo/signum-cosmo-30-v6-cdti-24v2/datos",
@@ -345,7 +346,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 2.8 Turbo 250 CV",
+            "name": "Cosmo 2.8 Turbo 250 CV",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/signum/2006/estandar/cosmo/signum-cosmo-28-turbo-250-cv/datos",
@@ -365,7 +366,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 2.8 Turbo 230 CV Aut.",
+            "name": "Cosmo 2.8 Turbo 230 CV Aut.",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/opel/signum/2006/estandar/cosmo/signum-cosmo-28-turbo-230-cv-aut/datos",
@@ -385,7 +386,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 3.0 V6 CDTi 24V",
+            "name": "Cosmo 3.0 V6 CDTi 24V",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/signum/2006/estandar/cosmo/signum-cosmo-30-v6-cdti-24v/datos",
@@ -405,7 +406,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 2.8 V6 Turbo",
+            "name": "Cosmo 2.8 V6 Turbo",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/signum/2006/estandar/cosmo/signum-cosmo-28-v6-turbo/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 3.0 V6 CDTi 24v Aut.",
+            "name": "Cosmo 3.0 V6 CDTi 24v Aut.",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/signum/2006/estandar/cosmo/signum-cosmo-30-v6-cdti-24v-aut2/datos",
@@ -445,7 +446,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 2.8 Turbo 250 CV Aut.",
+            "name": "Cosmo 2.8 Turbo 250 CV Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/signum/2006/estandar/cosmo/signum-cosmo-28-turbo-250-cv-aut/datos",
@@ -465,7 +466,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 3.0 V6 CDTi 24V Aut.",
+            "name": "Cosmo 3.0 V6 CDTi 24V Aut.",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/signum/2006/estandar/cosmo/signum-cosmo-30-v6-cdti-24v-aut/datos",
@@ -485,7 +486,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 2.8 V6 Turbo Aut.",
+            "name": "Cosmo 2.8 V6 Turbo Aut.",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/signum/2006/estandar/cosmo/signum-cosmo-28-v6-turbo-aut/datos",

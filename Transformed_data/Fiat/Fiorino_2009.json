@@ -1,11 +1,12 @@
 {
+    "brand": "Fiat",
     "name": "Fiorino",
     "year": "2009",
     "url": "https://www.km77.com/coches/fiat/fiorino/2009/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Fiorino Combi Base 1.4 75cv",
+            "name": "Combi Base 1.4 75cv",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/fiat/fiorino/2009/estandar/base/fiorino-combi-base-14-75cv2/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Fiorino Combi Base 1.4 75cv",
+            "name": "Combi Base 1.4 75cv",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/fiat/fiorino/2009/estandar/base/fiorino-combi-base-14-75cv/datos",
@@ -302,7 +303,7 @@
             ]
         },
         {
-            "name": "Fiorino Combi SX 1.3 Multijet 75cv",
+            "name": "Combi SX 1.3 Multijet 75cv",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/fiat/fiorino/2009/estandar/sx/fiorino-combi-sx-13-multijet-75cv2/datos",
@@ -462,7 +463,7 @@
             ]
         },
         {
-            "name": "Fiorino Combi Base 1.4 73cv",
+            "name": "Combi Base 1.4 73cv",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/fiat/fiorino/2009/estandar/base/fiorino-combi-base-14-73cv/datos",
@@ -622,7 +623,7 @@
             ]
         },
         {
-            "name": "Fiorino Combi Base 1.3 Multijet 75cv",
+            "name": "Combi Base 1.3 Multijet 75cv",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/fiat/fiorino/2009/estandar/base/fiorino-combi-base-13-multijet-75cv/datos",
@@ -781,7 +782,7 @@
             ]
         },
         {
-            "name": "Fiorino Combi SX 1.3 Multijet 75cv",
+            "name": "Combi SX 1.3 Multijet 75cv",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/fiat/fiorino/2009/estandar/sx/fiorino-combi-sx-13-multijet-75cv/datos",
@@ -940,7 +941,7 @@
             ]
         },
         {
-            "name": "Fiorino Combi Base 1.4 73cv",
+            "name": "Combi Base 1.4 73cv",
             "start_year": "2012",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/fiat/fiorino/2009/estandar/combi/fiorino-combi-base-14-73cv2/datos",
@@ -1100,7 +1101,7 @@
             ]
         },
         {
-            "name": "Fiorino Combi Adventure 1.3 Multijet 75cv",
+            "name": "Combi Adventure 1.3 Multijet 75cv",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/fiat/fiorino/2009/estandar/adventure/fiorino-combi-adventure-13-multijet-75cv/datos",
@@ -1257,7 +1258,7 @@
             ]
         },
         {
-            "name": "Fiorino Combi Base 1.3 Multijet 75cv",
+            "name": "Combi Base 1.3 Multijet 75cv",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/fiat/fiorino/2009/estandar/base/fiorino-combi-base-13-multijet-75cv2/datos",
@@ -1417,7 +1418,7 @@
             ]
         },
         {
-            "name": "Fiorino Combi SX 1.3 Multijet 75cv",
+            "name": "Combi SX 1.3 Multijet 75cv",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/fiat/fiorino/2009/estandar/sx/fiorino-combi-sx-13-multijet-75cv3/datos",
@@ -1583,7 +1584,7 @@
             ]
         },
         {
-            "name": "Fiorino Combi Base 1.3 Multijet 75cv",
+            "name": "Combi Base 1.3 Multijet 75cv",
             "start_year": "2012",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/fiat/fiorino/2009/estandar/combi/fiorino-combi-base-13-multijet-75cv3/datos",
@@ -1744,7 +1745,7 @@
             ]
         },
         {
-            "name": "Fiorino Combi SX 1.3 Multijet 95cv",
+            "name": "Combi SX 1.3 Multijet 95cv",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/fiat/fiorino/2009/estandar/sx/fiorino-combi-sx-13-multijet-95cv/datos",
@@ -1907,7 +1908,7 @@
             ]
         },
         {
-            "name": "Fiorino Combi Adventure 1.3 Multijet 75cv",
+            "name": "Combi Adventure 1.3 Multijet 75cv",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/fiat/fiorino/2009/estandar/adventure/fiorino-combi-adventure-13-multijet-75cv2/datos",
@@ -2071,7 +2072,7 @@
             ]
         },
         {
-            "name": "Fiorino Combi Base 1.4 Natural Power GNC",
+            "name": "Combi Base 1.4 Natural Power GNC",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/fiat/fiorino/2009/estandar/base/fiorino-combi-base-14-natural-power-70cv-gnc/datos",
@@ -2231,7 +2232,7 @@
             ]
         },
         {
-            "name": "Fiorino Combi SX 1.3 Multijet 75cv",
+            "name": "Combi SX 1.3 Multijet 75cv",
             "start_year": "2012",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/fiat/fiorino/2009/estandar/combi/fiorino-combi-sx-13-multijet-75cv4/datos",
@@ -2396,7 +2397,7 @@
             ]
         },
         {
-            "name": "Fiorino Combi Base 1.4 Natural Power",
+            "name": "Combi Base 1.4 Natural Power",
             "start_year": "2012",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/fiat/fiorino/2009/estandar/combi/fiorino-combi-base-14-natural-power-gnc/datos",
@@ -2557,7 +2558,7 @@
             ]
         },
         {
-            "name": "Fiorino Combi Adventure 1.3 Multijet 75cv",
+            "name": "Combi Adventure 1.3 Multijet 75cv",
             "start_year": "2012",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/fiat/fiorino/2009/estandar/adventure/fiorino-combi-adventure-13-multijet-75cv3/datos",
@@ -2720,7 +2721,7 @@
             ]
         },
         {
-            "name": "Fiorino Combi SX 1.3 Multijet 95cv",
+            "name": "Combi SX 1.3 Multijet 95cv",
             "start_year": "2012",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/fiat/fiorino/2009/estandar/combi/fiorino-combi-sx-13-multijet-95cv2/datos",

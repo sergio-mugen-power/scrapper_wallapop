@@ -1,11 +1,12 @@
 {
+    "brand": "Rover",
     "name": "MGF",
     "year": "2000",
     "url": "https://www.km77.com/coches/rover/mgf/2000/estandar",
     "price": "",
     "versions": [
         {
-            "name": "MGF 1.8i 00MY",
+            "name": "1.8i 00MY",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/rover/mgf/2000/estandar/estandar/mgf-18i-00my/datos",
@@ -140,7 +141,7 @@
             ]
         },
         {
-            "name": "MGF 1.8i Stepspeed 00MY",
+            "name": "1.8i Stepspeed 00MY",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/rover/mgf/2000/estandar/estandar/mgf-18i-stepspeed-00my/datos",
@@ -275,7 +276,7 @@
             ]
         },
         {
-            "name": "MGF 1.8i VVC 00MY",
+            "name": "1.8i VVC 00MY",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/rover/mgf/2000/estandar/estandar/mgf-18i-vvc-00my/datos",
@@ -410,7 +411,7 @@
             ]
         },
         {
-            "name": "MGF 1.8 Trophy",
+            "name": "1.8 Trophy",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/rover/mgf/2000/estandar/trophy/mgf-18-trophy/datos",

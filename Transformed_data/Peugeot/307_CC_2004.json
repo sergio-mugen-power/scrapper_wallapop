@@ -1,11 +1,12 @@
 {
+    "brand": "Peugeot",
     "name": "307 CC",
     "year": "2004",
     "url": "https://www.km77.com/coches/peugeot/307/2004/cc",
     "price": "",
     "versions": [
         {
-            "name": "307 CC 1.6 16V",
+            "name": "1.6 16V",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/peugeot/307/2004/cc/estandar/307-cc-16-16v/datos",
@@ -174,7 +175,7 @@
             ]
         },
         {
-            "name": "307 CC 2.0 16V",
+            "name": "2.0 16V",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/peugeot/307/2004/cc/estandar/307-cc-20-16v/datos",
@@ -344,7 +345,7 @@
             ]
         },
         {
-            "name": "307 CC 2.0 16V Aut.",
+            "name": "2.0 16V Aut.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/peugeot/307/2004/cc/estandar/307-cc-20-16v-aut/datos",
@@ -514,7 +515,7 @@
             ]
         },
         {
-            "name": "307 CC 2.0 Sport 180 CV",
+            "name": "2.0 Sport 180 CV",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/peugeot/307/2004/cc/sport/307-cc-20-sport-180-cv/datos",

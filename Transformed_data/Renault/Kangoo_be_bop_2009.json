@@ -1,11 +1,12 @@
 {
+    "brand": "Renault",
     "name": "Kangoo be bop",
     "year": "2009",
     "url": "https://www.km77.com/coches/renault/kangoo-be-bop/2009/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Kangoo be bop 1.6 16v 105 CV",
+            "name": "1.6 16v 105 CV",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/renault/kangoo-be-bop/2009/estandar/estandar/kangoo-be-bop-16-16v-105-cv/datos",
@@ -185,7 +186,7 @@
             ]
         },
         {
-            "name": "Kangoo be bop 1.5 dCi 105 CV",
+            "name": "1.5 dCi 105 CV",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/renault/kangoo-be-bop/2009/estandar/estandar/kangoo-be-bop-15-dci-105-cv/datos",

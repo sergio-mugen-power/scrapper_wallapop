@@ -1,11 +1,12 @@
 {
+    "brand": "THINK",
     "name": "City",
     "year": "2009",
     "url": "https://www.km77.com/coches/think/city/2009/estandar",
     "price": "",
     "versions": [
         {
-            "name": "City",
+            "name": "",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/think/city/2009/estandar/estandar/city2/datos",
@@ -16,7 +17,7 @@
             "maletero": "-"
         },
         {
-            "name": "City 4 plazas",
+            "name": "4 plazas",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/think/city/2009/estandar/estandar/city-4-plazas2/datos",
@@ -27,7 +28,7 @@
             "maletero": "-"
         },
         {
-            "name": "City",
+            "name": "",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/think/city/2009/estandar/estandar/city/datos",
@@ -38,7 +39,7 @@
             "maletero": "-"
         },
         {
-            "name": "City 4 plazas",
+            "name": "4 plazas",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/think/city/2009/estandar/estandar/city-4-plazas/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Suzuki",
     "name": "Grand Vitara XL-7",
     "year": "2004",
     "url": "https://www.km77.com/coches/suzuki/grand-vitara-xl-7/2004/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Grand Vitara XL-7 DLX Diesel",
+            "name": "DLX Diesel",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/suzuki/grand-vitara-xl-7/2004/estandar/dlx/grand-vitara-xl-7-dlx-diesel/datos",
@@ -93,7 +94,7 @@
             ]
         },
         {
-            "name": "Grand Vitara XL-7 Diesel DLX 7 plazas",
+            "name": "Diesel DLX 7 plazas",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/suzuki/grand-vitara-xl-7/2004/estandar/dlx/grand-vitara-xl-7-diesel-dlx-7-plazas/datos",

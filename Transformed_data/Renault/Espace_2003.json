@@ -1,11 +1,12 @@
 {
+    "brand": "Renault",
     "name": "Espace",
     "year": "2003",
     "url": "https://www.km77.com/coches/renault/espace/2003/estandar",
     "price": "Desde 39.482 €",
     "versions": [
         {
-            "name": "Espace 2.0 16v Authentique",
+            "name": "2.0 16v Authentique",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/renault/espace/2003/estandar/authentique/espace-20-16v-authentique/datos",
@@ -180,7 +181,7 @@
             ]
         },
         {
-            "name": "Espace 2.0 16v Expression",
+            "name": "2.0 16v Expression",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/renault/espace/2003/estandar/expression/espace-20-16v-expression/datos",
@@ -368,7 +369,7 @@
             ]
         },
         {
-            "name": "Espace 1.9 dCi Authentique",
+            "name": "1.9 dCi Authentique",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/renault/espace/2003/estandar/authentique/espace-19-dci-authentique/datos",
@@ -543,7 +544,7 @@
             ]
         },
         {
-            "name": "Espace 2.0 16v Turbo Expression",
+            "name": "2.0 16v Turbo Expression",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/renault/espace/2003/estandar/expression/espace-20-16v-turbo-expression/datos",
@@ -731,7 +732,7 @@
             ]
         },
         {
-            "name": "Espace 1.9 dCi Expression",
+            "name": "1.9 dCi Expression",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/renault/espace/2003/estandar/expression/espace-19-dci-expression/datos",
@@ -919,7 +920,7 @@
             ]
         },
         {
-            "name": "Espace 2.0 16v Turbo Dynamique",
+            "name": "2.0 16v Turbo Dynamique",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/renault/espace/2003/estandar/dynamique/espace-20-16v-turbo-dynamique/datos",
@@ -1107,7 +1108,7 @@
             ]
         },
         {
-            "name": "Espace 2.2 dCi 150 CV Expression",
+            "name": "2.2 dCi 150 CV Expression",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/renault/espace/2003/estandar/expression/espace-22-dci-150-cv-expression/datos",
@@ -1295,7 +1296,7 @@
             ]
         },
         {
-            "name": "Espace 2.0 16v Turbo Privilege",
+            "name": "2.0 16v Turbo Privilege",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/renault/espace/2003/estandar/privilege/espace-20-16v-turbo-privilege/datos",
@@ -1492,7 +1493,7 @@
             ]
         },
         {
-            "name": "Espace 2.2 dCi 150 CV Dynamique",
+            "name": "2.2 dCi 150 CV Dynamique",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/renault/espace/2003/estandar/dynamique/espace-22-dci-150-cv-dynamique/datos",
@@ -1680,7 +1681,7 @@
             ]
         },
         {
-            "name": "Espace 2.0 16v Turbo Privilege Aut.",
+            "name": "2.0 16v Turbo Privilege Aut.",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/renault/espace/2003/estandar/privilege/espace-20-16v-turbo-privilege-aut/datos",
@@ -1877,7 +1878,7 @@
             ]
         },
         {
-            "name": "Espace 2.2 dCi 150 CV Privilege",
+            "name": "2.2 dCi 150 CV Privilege",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/renault/espace/2003/estandar/privilege/espace-22-dci-150-cv-privilege/datos",
@@ -1970,7 +1971,7 @@
             ]
         },
         {
-            "name": "Espace 2.2 dCi 150 CV Privilege Aut.",
+            "name": "2.2 dCi 150 CV Privilege Aut.",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/renault/espace/2003/estandar/privilege/espace-22-dci-150-cv-privilege-aut/datos",
@@ -2165,7 +2166,7 @@
             ]
         },
         {
-            "name": "Espace 3.0 dCi V6 24v Privilege Aut.",
+            "name": "3.0 dCi V6 24v Privilege Aut.",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/renault/espace/2003/estandar/privilege/espace-30-dci-v6-24v-privilege-aut/datos",
@@ -2362,7 +2363,7 @@
             ]
         },
         {
-            "name": "Espace 3.5 V6 24v Initiale Aut.",
+            "name": "3.5 V6 24v Initiale Aut.",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/renault/espace/2003/estandar/initiale/espace-35-v6-24v-initiale-aut/datos",
@@ -2556,7 +2557,7 @@
             ]
         },
         {
-            "name": "Espace 3.0 dCi V6 24v Initiale Aut.",
+            "name": "3.0 dCi V6 24v Initiale Aut.",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/renault/espace/2003/estandar/initiale/espace-30-dci-v6-24v-initiale-aut/datos",

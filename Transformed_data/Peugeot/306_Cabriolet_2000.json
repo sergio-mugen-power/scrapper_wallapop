@@ -1,11 +1,12 @@
 {
+    "brand": "Peugeot",
     "name": "306 Cabriolet",
     "year": "2000",
     "url": "https://www.km77.com/coches/peugeot/306/2000/cabriolet",
     "price": "",
     "versions": [
         {
-            "name": "306 Cabriolet 1.6",
+            "name": "1.6",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/peugeot/306/2000/cabriolet/estandar/306-cabriolet-16/datos",
@@ -138,7 +139,7 @@
             ]
         },
         {
-            "name": "306 Cabriolet 2.0",
+            "name": "2.0",
             "start_year": "2000",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/peugeot/306/2000/cabriolet/estandar/306-cabriolet-20/datos",

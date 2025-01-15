@@ -1,11 +1,12 @@
 {
+    "brand": "Mitsubishi",
     "name": "ASX",
     "year": "2023",
     "url": "https://www.km77.com/coches/mitsubishi/asx/2023/estandar",
     "price": "Desde 23.290 €",
     "versions": [
         {
-            "name": "ASX 100T Spirit",
+            "name": "100T Spirit",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/mitsubishi/asx/2023/estandar/estandar/asx-100t/datos",
@@ -220,7 +221,7 @@
             ]
         },
         {
-            "name": "ASX 100T Motion",
+            "name": "100T Motion",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/mitsubishi/asx/2023/estandar/estandar/asx-100t-motion/datos",
@@ -438,7 +439,7 @@
             ]
         },
         {
-            "name": "ASX 130T MHEV Motion",
+            "name": "130T MHEV Motion",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/mitsubishi/asx/2023/estandar/estandar/asx-130t-103-kw/datos",
@@ -672,7 +673,7 @@
             ]
         },
         {
-            "name": "ASX 130T MHEV Kaiteki",
+            "name": "130T MHEV Kaiteki",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/mitsubishi/asx/2023/estandar/estandar/asx-130t-mhev-kaiteki/datos",
@@ -917,7 +918,7 @@
             ]
         },
         {
-            "name": "ASX 130T MHEV 7DCT Kaiteki",
+            "name": "130T MHEV 7DCT Kaiteki",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/mitsubishi/asx/2023/estandar/estandar/asx-130t-116-kw-mild-hybrid-at/datos",
@@ -1163,7 +1164,7 @@
             ]
         },
         {
-            "name": "ASX 160 HEV Kaiteki",
+            "name": "160 HEV Kaiteki",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/mitsubishi/asx/2023/estandar/hev/asx-160-hev/datos",
@@ -1418,7 +1419,7 @@
             ]
         },
         {
-            "name": "ASX 160 PHEV Kaiteki",
+            "name": "160 PHEV Kaiteki",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/mitsubishi/asx/2023/estandar/phev/asx-160-phev/datos",
@@ -1680,7 +1681,7 @@
             ]
         },
         {
-            "name": "ASX 160 PHEV Kaiteki+",
+            "name": "160 PHEV Kaiteki+",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/mitsubishi/asx/2023/estandar/phev/asx-160-phev-kaiteki/datos",

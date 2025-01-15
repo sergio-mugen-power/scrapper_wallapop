@@ -1,11 +1,12 @@
 {
+    "brand": "Maybach",
     "name": "62",
     "year": "2010",
     "url": "https://www.km77.com/coches/maybach/62/2010/estandar",
     "price": "",
     "versions": [
         {
-            "name": "62",
+            "name": "",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/maybach/62/2010/estandar/estandar/62/datos",
@@ -236,7 +237,7 @@
             ]
         },
         {
-            "name": "62 S",
+            "name": "S",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/maybach/62/2010/estandar/s/62-s/datos",

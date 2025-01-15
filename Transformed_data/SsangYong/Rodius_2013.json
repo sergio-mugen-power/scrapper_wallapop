@@ -1,11 +1,12 @@
 {
+    "brand": "SsangYong",
     "name": "Rodius",
     "year": "2013",
     "url": "https://www.km77.com/coches/ssangyong/rodius/2013/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Rodius 2.0 eXdi",
+            "name": "2.0 eXdi",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ssangyong/rodius/2013/estandar/estandar/rodius-2013/datos",
@@ -92,7 +93,7 @@
             ]
         },
         {
-            "name": "Rodius D22T 178 CV Line",
+            "name": "D22T 178 CV Line",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ssangyong/rodius/2013/estandar/line/rodius-d22t-line/datos",
@@ -179,7 +180,7 @@
             ]
         },
         {
-            "name": "Rodius 2.0 eXdi Premium",
+            "name": "2.0 eXdi Premium",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ssangyong/rodius/2013/estandar/premium/rodius-20-xdi-premium/datos",
@@ -267,7 +268,7 @@
             ]
         },
         {
-            "name": "Rodius D22T 178 CV Premium",
+            "name": "D22T 178 CV Premium",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ssangyong/rodius/2013/estandar/premium/rodius-d22t-178-cv-premium/datos",
@@ -355,7 +356,7 @@
             ]
         },
         {
-            "name": "Rodius 2.0 eXdi Limited",
+            "name": "2.0 eXdi Limited",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ssangyong/rodius/2013/estandar/limited/rodius-20-xdi-limited/datos",
@@ -443,7 +444,7 @@
             ]
         },
         {
-            "name": "Rodius 2.0 eXdi Premium Aut.",
+            "name": "2.0 eXdi Premium Aut.",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ssangyong/rodius/2013/estandar/premium/rodius-20-xdi-premium-aut/datos",
@@ -531,7 +532,7 @@
             ]
         },
         {
-            "name": "Rodius D22T 178 CV Premium Aut.",
+            "name": "D22T 178 CV Premium Aut.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ssangyong/rodius/2013/estandar/premium/rodius-d22t-178-cv-premium-aut/datos",
@@ -619,7 +620,7 @@
             ]
         },
         {
-            "name": "Rodius D22T 178 CV Limited",
+            "name": "D22T 178 CV Limited",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ssangyong/rodius/2013/estandar/limited/rodius-d22t-178-cv-limited/datos",
@@ -707,7 +708,7 @@
             ]
         },
         {
-            "name": "Rodius 2.0 eXdi Limited Aut.",
+            "name": "2.0 eXdi Limited Aut.",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ssangyong/rodius/2013/estandar/limited/rodius-20-xdi-limited-aut/datos",
@@ -795,7 +796,7 @@
             ]
         },
         {
-            "name": "Rodius D22T 178 CV Limited Aut.",
+            "name": "D22T 178 CV Limited Aut.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ssangyong/rodius/2013/estandar/limited/rodius-d22t-178-cv-limited-aut/datos",
@@ -883,7 +884,7 @@
             ]
         },
         {
-            "name": "Rodius 2.0 eXdi Limited 4x4 Aut.",
+            "name": "2.0 eXdi Limited 4x4 Aut.",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ssangyong/rodius/2013/estandar/limited/rodius-20-xdi-limited-4x4-aut/datos",
@@ -971,7 +972,7 @@
             ]
         },
         {
-            "name": "Rodius D22T 178 CV Limited AWD Aut.",
+            "name": "D22T 178 CV Limited AWD Aut.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ssangyong/rodius/2013/estandar/limited/rodius-d22t-178-cv-limited-awd-aut/datos",

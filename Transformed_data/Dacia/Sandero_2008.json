@@ -1,11 +1,12 @@
 {
+    "brand": "Dacia",
     "name": "Sandero",
     "year": "2008",
     "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar",
     "price": "Desde 9.990 €",
     "versions": [
         {
-            "name": "Sandero Base 1.2 16v 75 CV",
+            "name": "Base 1.2 16v 75 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/base/sandero-base-12-16v-75-cv3/datos",
@@ -131,7 +132,7 @@
             ]
         },
         {
-            "name": "Sandero Base 1.2 16v 75 CV",
+            "name": "Base 1.2 16v 75 CV",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/base/sandero-base-12-16v-75-cv/datos",
@@ -253,7 +254,7 @@
             ]
         },
         {
-            "name": "Sandero Base 1.4 75 CV",
+            "name": "Base 1.4 75 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/base/sandero-base-14-75-cv/datos",
@@ -375,7 +376,7 @@
             ]
         },
         {
-            "name": "Sandero Base 1.2 16v 75 CV",
+            "name": "Base 1.2 16v 75 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/base/sandero-base-12-16v-75-cv2/datos",
@@ -497,7 +498,7 @@
             ]
         },
         {
-            "name": "Sandero Ambiance 1.2 16v 75 CV",
+            "name": "Ambiance 1.2 16v 75 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/ambiance/sandero-ambiance-12-16v-75-cv3/datos",
@@ -636,7 +637,7 @@
             ]
         },
         {
-            "name": "Sandero Ambiance Music 1.2 16v 75 CV",
+            "name": "Ambiance Music 1.2 16v 75 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/ambiance-music/sandero-ambiance-music-12-16v-75-cv/datos",
@@ -777,7 +778,7 @@
             ]
         },
         {
-            "name": "Sandero Podium 1.2 16v 75 CV",
+            "name": "Podium 1.2 16v 75 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/podium/sandero-podium-12-16v-75-cv/datos",
@@ -920,7 +921,7 @@
             ]
         },
         {
-            "name": "Sandero Ambiance 1.4 75 CV",
+            "name": "Ambiance 1.4 75 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/ambiance/sandero-ambiance-14-75-cv/datos",
@@ -1054,7 +1055,7 @@
             ]
         },
         {
-            "name": "Sandero Ambiance Music 1.2 16v 75 CV",
+            "name": "Ambiance Music 1.2 16v 75 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/ambiance-music/sandero-ambiance-music-12-16v-75-cv3/datos",
@@ -1195,7 +1196,7 @@
             ]
         },
         {
-            "name": "Sandero Ambiance 1.2 16v 75 CV",
+            "name": "Ambiance 1.2 16v 75 CV",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/ambiance/sandero-ambiance-12-16v-75-cv/datos",
@@ -1329,7 +1330,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate 1.2 16v 75 CV",
+            "name": "Laureate 1.2 16v 75 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/laureate/sandero-laureate-12-16v-75-cv3/datos",
@@ -1480,7 +1481,7 @@
             ]
         },
         {
-            "name": "Sandero Ambiance 1.2 16v 75 CV",
+            "name": "Ambiance 1.2 16v 75 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/ambiance/sandero-ambiance-12-16v-75-cv2/datos",
@@ -1614,7 +1615,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate Music 1.2 16v 75 CV",
+            "name": "Laureate Music 1.2 16v 75 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/laureate-music/sandero-laureate-music-12-16v-75-cv/datos",
@@ -1766,7 +1767,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate 1.4 75 CV",
+            "name": "Laureate 1.4 75 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/laureate/sandero-laureate-14-75-cv/datos",
@@ -1912,7 +1913,7 @@
             ]
         },
         {
-            "name": "Sandero Ambiance 1.6 90 CV",
+            "name": "Ambiance 1.6 90 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/ambiance/sandero-ambiance-16-90-cv/datos",
@@ -2048,7 +2049,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate 1.2 16v 75 CV",
+            "name": "Laureate 1.2 16v 75 CV",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/laureate/sandero-laureate-12-16v-75-cv/datos",
@@ -2196,7 +2197,7 @@
             ]
         },
         {
-            "name": "Sandero Ambiance Music 1.2 16v 75 CV GLP",
+            "name": "Ambiance Music 1.2 16v 75 CV GLP",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/ambiance-music/sandero-ambiance-music-12-16v-75-cv2/datos",
@@ -2336,7 +2337,7 @@
             ]
         },
         {
-            "name": "Sandero Ambiance 1.5 dCi 75 CV",
+            "name": "Ambiance 1.5 dCi 75 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/ambiance/sandero-ambiance-15-dci-75-cv/datos",
@@ -2476,7 +2477,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate Music 1.2 16v 75 CV",
+            "name": "Laureate Music 1.2 16v 75 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/laureate-music/sandero-laureate-music-12-16v-75-cv2/datos",
@@ -2630,7 +2631,7 @@
             ]
         },
         {
-            "name": "Sandero Ambiance 1.6 85 CV",
+            "name": "Ambiance 1.6 85 CV",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/ambiance/sandero-ambiance-16-85-cv/datos",
@@ -2766,7 +2767,7 @@
             ]
         },
         {
-            "name": "Sandero Ambiance 1.6 90 CV",
+            "name": "Ambiance 1.6 90 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/ambiance/sandero-ambiance-16-90-cv2/datos",
@@ -2902,7 +2903,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate 1.2 16v 75 CV",
+            "name": "Laureate 1.2 16v 75 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/laureate/sandero-laureate-12-16v-75-cv2/datos",
@@ -3050,7 +3051,7 @@
             ]
         },
         {
-            "name": "Sandero Ambiance Music 1.5 dCi 75 CV",
+            "name": "Ambiance Music 1.5 dCi 75 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/ambiance-music/sandero-ambiance-music-15-dci-75-cv/datos",
@@ -3192,7 +3193,7 @@
             ]
         },
         {
-            "name": "Sandero Podium 1.5 dCi 75 CV",
+            "name": "Podium 1.5 dCi 75 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/podium/sandero-podium-15-dci-75-cv/datos",
@@ -3336,7 +3337,7 @@
             ]
         },
         {
-            "name": "Sandero Ambiance Music 1.2 16v 75 CV GLP",
+            "name": "Ambiance Music 1.2 16v 75 CV GLP",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/ambiance-music/sandero-ambiance-music-12-16v-75-cv-glp/datos",
@@ -3477,7 +3478,7 @@
             ]
         },
         {
-            "name": "Sandero Ambiance 1.5 dCi 70 CV",
+            "name": "Ambiance 1.5 dCi 70 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/ambiance/sandero-ambiance-15-dci-70-cv/datos",
@@ -3610,7 +3611,7 @@
             ]
         },
         {
-            "name": "Sandero Ambiance Music 1.5 dCi 75 CV",
+            "name": "Ambiance Music 1.5 dCi 75 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/ambiance-music/sandero-ambiance-music-15-dci-75-cv2/datos",
@@ -3752,7 +3753,7 @@
             ]
         },
         {
-            "name": "Sandero Ambiance 1.5 dCi 70 CV",
+            "name": "Ambiance 1.5 dCi 70 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/ambiance/sandero-ambiance-15-dci-70-cv2/datos",
@@ -3885,7 +3886,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate 1.6 90 CV",
+            "name": "Laureate 1.6 90 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/laureate/sandero-laureate-16-90-cv/datos",
@@ -4033,7 +4034,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate 1.5 dCi 75 CV",
+            "name": "Laureate 1.5 dCi 75 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/laureate/sandero-laureate-15-dci-75-cv/datos",
@@ -4185,7 +4186,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate 1.6 85 CV",
+            "name": "Laureate 1.6 85 CV",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/laureate/sandero-laureate-16-85-cv/datos",
@@ -4333,7 +4334,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate 1.6 90 CV",
+            "name": "Laureate 1.6 90 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/laureate/sandero-laureate-16-90-cv2/datos",
@@ -4481,7 +4482,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate Music 1.2 16v 75 CV GLP",
+            "name": "Laureate Music 1.2 16v 75 CV GLP",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/laureate-music/sandero-laureate-music-12-16v-75-cv-glp/datos",
@@ -4632,7 +4633,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate 1.5 dCi 70 CV",
+            "name": "Laureate 1.5 dCi 70 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/laureate/sandero-laureate-15-dci-70-cv/datos",
@@ -4777,7 +4778,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate Music 1.5 dCi 75 CV",
+            "name": "Laureate Music 1.5 dCi 75 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/laureate-music/sandero-laureate-music-15-dci-75-cv/datos",
@@ -4930,7 +4931,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate Music 1.2 16v 75 CV GLP",
+            "name": "Laureate Music 1.2 16v 75 CV GLP",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/laureate-music/sandero-laureate-music-12-16v-75-cv-glp2/datos",
@@ -5082,7 +5083,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate 1.5 dCi 70 CV",
+            "name": "Laureate 1.5 dCi 70 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/laureate/sandero-laureate-15-dci-70-cv2/datos",
@@ -5227,7 +5228,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate 1.5 dCi 90 CV",
+            "name": "Laureate 1.5 dCi 90 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/laureate/sandero-laureate-15-dci-90-cv/datos",
@@ -5379,7 +5380,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate Music 1.5 dCi 75 CV",
+            "name": "Laureate Music 1.5 dCi 75 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/laureate-music/sandero-laureate-music-15-dci-75-cv2/datos",
@@ -5532,7 +5533,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate 1.5 dCi 85 CV",
+            "name": "Laureate 1.5 dCi 85 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/laureate/sandero-laureate-15-dci-85-cv/datos",
@@ -5676,7 +5677,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate Music 1.5 dCi 90 CV",
+            "name": "Laureate Music 1.5 dCi 90 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/laureate-music/sandero-laureate-music-15-dci-90-cv/datos",
@@ -5829,7 +5830,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate 1.5 dCi 85 CV",
+            "name": "Laureate 1.5 dCi 85 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/laureate/sandero-laureate-15-dci-85-cv2/datos",
@@ -5973,7 +5974,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate Music 1.5 dCi 90 CV",
+            "name": "Laureate Music 1.5 dCi 90 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/sandero/2008/estandar/laureate-music/sandero-laureate-music-15-dci-90-cv2/datos",

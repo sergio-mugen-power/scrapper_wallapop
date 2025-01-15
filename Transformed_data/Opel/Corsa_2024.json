@@ -1,11 +1,12 @@
 {
+    "brand": "Opel",
     "name": "Corsa",
     "year": "2024",
     "url": "https://www.km77.com/coches/opel/corsa/2024/estandar",
     "price": "Desde 16.400 €",
     "versions": [
         {
-            "name": "Corsa 1.2 Turbo 74 kW (100 CV) Edition (07/2023 - )",
+            "name": "1.2 Turbo 74 kW (100 CV) Edition (07/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/opel/corsa/2024/estandar/estandar/corsa-12-turbo-74-kw-100-cv/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Corsa 1.2 Turbo 74 kW (100 CV) GS (07/2023 - )",
+            "name": "1.2 Turbo 74 kW (100 CV) GS (07/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/opel/corsa/2024/estandar/estandar/corsa-12-turbo-74-kw-100-cv-gs/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Corsa Hybrid 1.2 74 kW (100 CV) Edition (12/2023 - )",
+            "name": "Hybrid 1.2 74 kW (100 CV) Edition (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/opel/corsa/2024/estandar/estandar/corsa-hybrid-12-74-kw-100-cv/datos",
@@ -91,7 +92,7 @@
             ]
         },
         {
-            "name": "Corsa Hybrid 1.2 74 kW (100 CV) GS (12/2023 - )",
+            "name": "Hybrid 1.2 74 kW (100 CV) GS (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/opel/corsa/2024/estandar/estandar/corsa-hybrid-12-74-kw-100-cv-gs/datos",
@@ -121,7 +122,7 @@
             ]
         },
         {
-            "name": "Corsa Hybrid 1.2 100 kW (136 CV) GS (12/2023 - )",
+            "name": "Hybrid 1.2 100 kW (136 CV) GS (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/opel/corsa/2024/estandar/estandar/corsa-hybrid-12-100-kw-136-cv/datos",
@@ -151,7 +152,7 @@
             ]
         },
         {
-            "name": "Corsa Electric Edition 100 kW (136 CV) batería 50 kWh (07/2023 - )",
+            "name": "Electric Edition 100 kW (136 CV) batería 50 kWh (07/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/opel/corsa/2024/estandar/electric/corsa-electric/datos",
@@ -181,7 +182,7 @@
             ]
         },
         {
-            "name": "Corsa Electric GS 115 kW (156 CV) batería 54 kWh (07/2023 - )",
+            "name": "Electric GS 115 kW (156 CV) batería 54 kWh (07/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/opel/corsa/2024/estandar/electric/corsa-electric-long-range/datos",

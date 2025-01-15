@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "A8 L",
     "year": "2014",
     "url": "https://www.km77.com/coches/audi/a8/2014/l",
     "price": "Desde 115.850 €",
     "versions": [
         {
-            "name": "A8 L 3.0 TDI clean diesel 258 CV quattro tiptronic 8 vel.",
+            "name": "3.0 TDI clean diesel 258 CV quattro tiptronic 8 vel.",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/audi/a8/2014/l/estandar/a8-l-30-tdi-258-cv-quattro-tiptronic-8-vel/datos",
@@ -319,7 +320,7 @@
             ]
         },
         {
-            "name": "A8 L 3.0 TDI clean diesel 262 CV quattro tiptronic 8 vel.",
+            "name": "3.0 TDI clean diesel 262 CV quattro tiptronic 8 vel.",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/audi/a8/2014/l/estandar/a8-l-30-tdi-clean-diesel-262-cv-quattro-tiptronic-8-vel/datos",
@@ -631,7 +632,7 @@
             ]
         },
         {
-            "name": "A8 L 3.0 TFSI 310 CV quattro tiptronic 8 vel.",
+            "name": "3.0 TFSI 310 CV quattro tiptronic 8 vel.",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/audi/a8/2014/l/estandar/a8-l-30-tfsi-310-cv-quattro-tiptronic-8-vel/datos",
@@ -945,7 +946,7 @@
             ]
         },
         {
-            "name": "A8 L hybrid 2.0 TFSI tiptronic 8 vel.",
+            "name": "hybrid 2.0 TFSI tiptronic 8 vel.",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/audi/a8/2014/l/hybrid/a8-l-hybrid/datos",
@@ -1241,7 +1242,7 @@
             ]
         },
         {
-            "name": "A8 L hybrid 2.0 TFSI tiptronic 8 vel.",
+            "name": "hybrid 2.0 TFSI tiptronic 8 vel.",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/audi/a8/2014/l/hybrid/a8-l-hybrid-20-tfsi-tiptronic-8-vel/datos",
@@ -1538,7 +1539,7 @@
             ]
         },
         {
-            "name": "A8 L 3.0 TFSI 310 CV quattro tiptronic 8 vel.",
+            "name": "3.0 TFSI 310 CV quattro tiptronic 8 vel.",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/audi/a8/2014/l/estandar/a8-l-30-tfsi-310-cv-quattro-tiptronic-8-vel2/datos",
@@ -1629,7 +1630,7 @@
             ]
         },
         {
-            "name": "A8 L 4.2 TDI clean diesel 385 CV quattro tiptronic 8 vel.",
+            "name": "4.2 TDI clean diesel 385 CV quattro tiptronic 8 vel.",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/audi/a8/2014/l/estandar/a8-l-42-tdi-385-cv-quattro-tiptronic-8-vel/datos",
@@ -1720,7 +1721,7 @@
             ]
         },
         {
-            "name": "A8 L 4.2 TDI clean diesel 385 CV quattro tiptronic 8 vel.",
+            "name": "4.2 TDI clean diesel 385 CV quattro tiptronic 8 vel.",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/audi/a8/2014/l/estandar/a8-l-42-tdi-clean-diesel-385-cv-quattro-tiptronic-8-vel/datos",
@@ -2032,7 +2033,7 @@
             ]
         },
         {
-            "name": "A8 L 4.0 TFSI 435 CV quattro tiptronic 8 vel.",
+            "name": "4.0 TFSI 435 CV quattro tiptronic 8 vel.",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/audi/a8/2014/l/estandar/a8-l-40-tfsi-435-cv-quattro-tiptronic-8-vel/datos",
@@ -2346,7 +2347,7 @@
             ]
         },
         {
-            "name": "A8 L 4.0 TFSI 435 CV quattro tiptronic 8 vel.",
+            "name": "4.0 TFSI 435 CV quattro tiptronic 8 vel.",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/audi/a8/2014/l/estandar/a8-l-40-tfsi-435-cv-quattro-tiptronic-8-vel2/datos",
@@ -2658,7 +2659,7 @@
             ]
         },
         {
-            "name": "A8 L W12 quattro tiptronic 8 vel.",
+            "name": "W12 quattro tiptronic 8 vel.",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/audi/a8/2014/l/estandar/a8-l-w12-quattro-tiptronic-8-vel/datos",
@@ -2969,7 +2970,7 @@
             ]
         },
         {
-            "name": "A8 L W12 500 CV quattro tiptronic 8 vel.",
+            "name": "W12 500 CV quattro tiptronic 8 vel.",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/audi/a8/2014/l/estandar/a8-l-w12-500-cv-quattro-tiptronic-8-vel/datos",

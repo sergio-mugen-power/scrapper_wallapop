@@ -1,11 +1,12 @@
 {
+    "brand": "Nissan",
     "name": "Almera Sedán",
     "year": "2003",
     "url": "https://www.km77.com/coches/nissan/almera/2003/sedan",
     "price": "",
     "versions": [
         {
-            "name": "Almera Sedán 1.5 Visia",
+            "name": "1.5 Visia",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/nissan/almera/2003/sedan/visia/almera-sedan-15-visia/datos",
@@ -176,7 +177,7 @@
             ]
         },
         {
-            "name": "Almera Sedán 1.5dCi Visia",
+            "name": "1.5dCi Visia",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/nissan/almera/2003/sedan/visia/almera-sedan-15dci-visia/datos",
@@ -345,7 +346,7 @@
             ]
         },
         {
-            "name": "Almera Sedán 2.2dCi (112 CV) Visia",
+            "name": "2.2dCi (112 CV) Visia",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/nissan/almera/2003/sedan/visia/almera-sedan-22dci-112-cv-visia/datos",
@@ -514,7 +515,7 @@
             ]
         },
         {
-            "name": "Almera Sedán 1.8 Line Up",
+            "name": "1.8 Line Up",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/nissan/almera/2003/sedan/line-up/almera-sedan-18-line-up/datos",
@@ -693,7 +694,7 @@
             ]
         },
         {
-            "name": "Almera Sedán 1.8 Visia",
+            "name": "1.8 Visia",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/nissan/almera/2003/sedan/visia/almera-sedan-18-visia/datos",
@@ -826,7 +827,7 @@
             ]
         },
         {
-            "name": "Almera Sedán 1.8 Line Up Aut.",
+            "name": "1.8 Line Up Aut.",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/nissan/almera/2003/sedan/line-up/almera-sedan-18-line-up-aut/datos",
@@ -1003,7 +1004,7 @@
             ]
         },
         {
-            "name": "Almera Sedán 2.2Di Visia",
+            "name": "2.2Di Visia",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/nissan/almera/2003/sedan/visia/almera-sedan-22di-visia/datos",
@@ -1136,7 +1137,7 @@
             ]
         },
         {
-            "name": "Almera Sedán 2.2dCi (112 CV) Line Up",
+            "name": "2.2dCi (112 CV) Line Up",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/nissan/almera/2003/sedan/line-up/almera-sedan-22dci-112-cv-line-up/datos",
@@ -1315,7 +1316,7 @@
             ]
         },
         {
-            "name": "Almera Sedán 1.8 Acenta",
+            "name": "1.8 Acenta",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/nissan/almera/2003/sedan/acenta/almera-sedan-18-acenta/datos",
@@ -1449,7 +1450,7 @@
             ]
         },
         {
-            "name": "Almera Sedán 1.8 Acenta Aut.",
+            "name": "1.8 Acenta Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/nissan/almera/2003/sedan/acenta/almera-sedan-18-acenta-aut/datos",
@@ -1581,7 +1582,7 @@
             ]
         },
         {
-            "name": "Almera Sedán 2.2Di Acenta",
+            "name": "2.2Di Acenta",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/nissan/almera/2003/sedan/acenta/almera-sedan-22di-acenta/datos",

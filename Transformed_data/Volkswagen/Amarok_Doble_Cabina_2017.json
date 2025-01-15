@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Amarok Doble Cabina",
     "year": "2017",
     "url": "https://www.km77.com/coches/volkswagen/amarok/2017/doble-cabina",
     "price": "Desde 48.040 €",
     "versions": [
         {
-            "name": "Amarok Doble Cabina 3.0 V6 TDI BMT 4MOTION 120 kW (163 CV)",
+            "name": "3.0 V6 TDI BMT 4MOTION 120 kW (163 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/amarok/2017/doble-cabina/estandar/amarok-doble-cabina-30-v6-tdi-bmt-4motion-120-kw-163-cv/datos",
@@ -16,7 +17,7 @@
             "maletero": "-"
         },
         {
-            "name": "Amarok Doble Cabina Origin 3.0 V6 TDI BMT 4MOTION 120 kW (163 CV)",
+            "name": "Origin 3.0 V6 TDI BMT 4MOTION 120 kW (163 CV)",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/amarok/2017/doble-cabina/origin/amarok-doble-cabina-origin-30-v6-tdi-bmt-4motion-120-kw-163-cv/datos",
@@ -27,7 +28,7 @@
             "maletero": "-"
         },
         {
-            "name": "Amarok Doble Cabina Origin 3.0 V6 TDI BMT 4MOTION 150 kW (204 CV)",
+            "name": "Origin 3.0 V6 TDI BMT 4MOTION 150 kW (204 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/amarok/2017/doble-cabina/origin/amarok-doble-cabina-origin-30-v6-tdi-bmt-4motion-150-kw-204-cv/datos",
@@ -38,7 +39,7 @@
             "maletero": "-"
         },
         {
-            "name": "Amarok Doble Cabina Trendline 3.0 V6 TDI BMT 4MOTION 120 kW (163 CV)",
+            "name": "Trendline 3.0 V6 TDI BMT 4MOTION 120 kW (163 CV)",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/amarok/2017/doble-cabina/trendline/amarok-doble-cabina-trendline-30-v6-tdi-bmt-4motion-120-kw-163-cv/datos",
@@ -49,7 +50,7 @@
             "maletero": "-"
         },
         {
-            "name": "Amarok Doble Cabina Origin 3.0 V6 TDI BMT 4MOTION 150 kW (204 CV) Aut. 8 vel.",
+            "name": "Origin 3.0 V6 TDI BMT 4MOTION 150 kW (204 CV) Aut. 8 vel.",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/amarok/2017/doble-cabina/origin/amarok-doble-cabina-origin-30-v6-tdi-bmt-4motion-150-kw-204-cv-aut-8-vel/datos",
@@ -60,7 +61,7 @@
             "maletero": "-"
         },
         {
-            "name": "Amarok Doble Cabina Premium 3.0 V6 TDI BMT 4MOTION 150 kW (204 CV)",
+            "name": "Premium 3.0 V6 TDI BMT 4MOTION 150 kW (204 CV)",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/amarok/2017/doble-cabina/premium/amarok-doble-cabina-premium-30-v6-tdi-bmt-4motion-150-kw-204-cv2/datos",
@@ -71,7 +72,7 @@
             "maletero": "-"
         },
         {
-            "name": "Amarok Doble Cabina Premium 3.0 V6 TDI BMT 4MOTION 150 kW (204 CV) Aut. 8 vel.",
+            "name": "Premium 3.0 V6 TDI BMT 4MOTION 150 kW (204 CV) Aut. 8 vel.",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volkswagen/amarok/2017/doble-cabina/premium/amarok-doble-cabina-premium-30-v6-tdi-bmt-4motion-150-kw-204-cv/datos",
@@ -82,7 +83,7 @@
             "maletero": "-"
         },
         {
-            "name": "Amarok Doble Cabina Premium 3.0 V6 TDI BMT 4MOTION 150 kW (204 CV) Aut. 8 vel.",
+            "name": "Premium 3.0 V6 TDI BMT 4MOTION 150 kW (204 CV) Aut. 8 vel.",
             "start_year": "2017",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/amarok/2017/doble-cabina/premium/amarok-doble-cabina-premium-30-v6-tdi-bmt-4motion-150-kw-204-cv-aut-8-vel/datos",
@@ -93,7 +94,7 @@
             "maletero": "-"
         },
         {
-            "name": "Amarok Doble Cabina Highline 3.0 V6 TDI BMT 4MOTION 150 kW (204 CV) Aut. 8 vel.",
+            "name": "Highline 3.0 V6 TDI BMT 4MOTION 150 kW (204 CV) Aut. 8 vel.",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/amarok/2017/doble-cabina/highline/amarok-doble-cabina-highline-30-v6-tdi-bmt-4motion-150-kw-204-cv-aut-8-vel2/datos",
@@ -104,7 +105,7 @@
             "maletero": "-"
         },
         {
-            "name": "Amarok Doble Cabina Premium 3.0 V6 TDI BMT 4MOTION 190 kW (258 CV) Aut. 8 vel.",
+            "name": "Premium 3.0 V6 TDI BMT 4MOTION 190 kW (258 CV) Aut. 8 vel.",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/amarok/2017/doble-cabina/premium/amarok-doble-cabina-premium-30-v6-tdi-bmt-4motion-190-kw-258-cv-aut-8-vel/datos",
@@ -115,7 +116,7 @@
             "maletero": "-"
         },
         {
-            "name": "Amarok Doble Cabina Highline 3.0 V6 TDI BMT 4MOTION 190 kW (258 CV) Aut. 8 vel.",
+            "name": "Highline 3.0 V6 TDI BMT 4MOTION 190 kW (258 CV) Aut. 8 vel.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/amarok/2017/doble-cabina/highline/amarok-doble-cabina-highline-30-v6-tdi-bmt-4motion-190-kw-258-cv-aut-8-vel/datos",
@@ -126,7 +127,7 @@
             "maletero": "-"
         },
         {
-            "name": "Amarok Doble Cabina Highline 3.0 V6 TDI BMT 4MOTION 150 kW (204 CV) Aut. 8 vel.",
+            "name": "Highline 3.0 V6 TDI BMT 4MOTION 150 kW (204 CV) Aut. 8 vel.",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volkswagen/amarok/2017/doble-cabina/highline/amarok-doble-cabina-highline-30-v6-tdi-bmt-4motion-150-kw-204-cv-aut-8-vel/datos",
@@ -137,7 +138,7 @@
             "maletero": "-"
         },
         {
-            "name": "Amarok Doble Cabina Highline 3.0 V6 TDI BMT 4MOTION 165 kW (224 CV) Aut. 8 vel.",
+            "name": "Highline 3.0 V6 TDI BMT 4MOTION 165 kW (224 CV) Aut. 8 vel.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/amarok/2017/doble-cabina/highline/amarok-doble-cabina-highline-30-v6-tdi-bmt-4motion-165-kw-224-cv-aut-8-vel2/datos",
@@ -148,7 +149,7 @@
             "maletero": "-"
         },
         {
-            "name": "Amarok Doble Cabina Highline 3.0 V6 TDI BMT 4MOTION 165 kW (224 CV) Aut. 8 vel.",
+            "name": "Highline 3.0 V6 TDI BMT 4MOTION 165 kW (224 CV) Aut. 8 vel.",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volkswagen/amarok/2017/doble-cabina/highline/amarok-doble-cabina-highline-30-v6-tdi-bmt-4motion-165-kw-224-cv-aut-8-vel/datos",
@@ -159,7 +160,7 @@
             "maletero": "-"
         },
         {
-            "name": "Amarok Doble Cabina Aventura 3.0 V6 TDI BMT 4MOTION 150 kW (204 CV) Aut. 8 vel.",
+            "name": "Aventura 3.0 V6 TDI BMT 4MOTION 150 kW (204 CV) Aut. 8 vel.",
             "start_year": "2017",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/amarok/2017/doble-cabina/aventura/amarok-doble-cabina-aventura-30-v6-tdi-bmt-4motion-150-kw-204-cv-aut-8-vel/datos",
@@ -170,7 +171,7 @@
             "maletero": "-"
         },
         {
-            "name": "Amarok Doble Cabina Aventura 3.0 V6 TDI BMT 4MOTION 190 kW (258 CV) Aut. 8 vel.",
+            "name": "Aventura 3.0 V6 TDI BMT 4MOTION 190 kW (258 CV) Aut. 8 vel.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/amarok/2017/doble-cabina/aventura/amarok-doble-cabina-aventura-30-v6-tdi-bmt-4motion-190-kw-258-cv-aut-8-vel/datos",
@@ -181,7 +182,7 @@
             "maletero": "-"
         },
         {
-            "name": "Amarok Doble Cabina Aventura 3.0 V6 TDI BMT 4MOTION 165 kW (224 CV) Aut. 8 vel.",
+            "name": "Aventura 3.0 V6 TDI BMT 4MOTION 165 kW (224 CV) Aut. 8 vel.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/amarok/2017/doble-cabina/aventura/amarok-doble-cabina-aventura-30-v6-tdi-bmt-4motion-165-kw-224-cv-aut-8-vel2/datos",
@@ -192,7 +193,7 @@
             "maletero": "-"
         },
         {
-            "name": "Amarok Doble Cabina Aventura 3.0 V6 TDI BMT 4MOTION 165 kW (224 CV) Aut. 8 vel.",
+            "name": "Aventura 3.0 V6 TDI BMT 4MOTION 165 kW (224 CV) Aut. 8 vel.",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volkswagen/amarok/2017/doble-cabina/aventura/amarok-doble-cabina-aventura-30-v6-tdi-bmt-4motion-165-kw-224-cv-aut-8-vel/datos",

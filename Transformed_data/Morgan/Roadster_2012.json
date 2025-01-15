@@ -1,11 +1,12 @@
 {
+    "brand": "Morgan",
     "name": "Roadster",
     "year": "2012",
     "url": "https://www.km77.com/coches/morgan/roadster/2012/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Roadster 3.7",
+            "name": "3.7",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/morgan/roadster/2012/estandar/estandar/roadster-37/datos",
@@ -194,7 +195,7 @@
             ]
         },
         {
-            "name": "Roadster 3.7",
+            "name": "3.7",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/morgan/roadster/2012/estandar/estandar/roadster-373/datos",
@@ -384,7 +385,7 @@
             ]
         },
         {
-            "name": "Roadster 3.7 4 plazas",
+            "name": "3.7 4 plazas",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/morgan/roadster/2012/estandar/estandar/roadster-372/datos",
@@ -571,7 +572,7 @@
             ]
         },
         {
-            "name": "Roadster 3.7 4 plazas",
+            "name": "3.7 4 plazas",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/morgan/roadster/2012/estandar/estandar/roadster-37-4-plazas/datos",

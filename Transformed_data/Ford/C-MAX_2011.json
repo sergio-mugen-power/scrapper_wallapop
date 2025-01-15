@@ -1,11 +1,12 @@
 {
+    "brand": "Ford",
     "name": "C-MAX",
     "year": "2011",
     "url": "https://www.km77.com/coches/ford/c-max/2011/estandar",
     "price": "",
     "versions": [
         {
-            "name": "C-MAX Urban 1.6 TDCi 95 CV",
+            "name": "Urban 1.6 TDCi 95 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/urban/c-max-urban-16-tdci-95-cv/datos",
@@ -149,7 +150,7 @@
             ]
         },
         {
-            "name": "C-MAX Trend 1.6 Ti-VCT 105 CV",
+            "name": "Trend 1.6 Ti-VCT 105 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/trend/c-max-trend-16-ti-vct-105-cv/datos",
@@ -333,7 +334,7 @@
             ]
         },
         {
-            "name": "C-MAX Trend 1.0 EcoBoost Auto-Start-Stop 100 CV",
+            "name": "Trend 1.0 EcoBoost Auto-Start-Stop 100 CV",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/trend/grand-c-max-titanium-16-tdci-115-cv-5-plazas2/datos",
@@ -514,7 +515,7 @@
             ]
         },
         {
-            "name": "C-MAX Trend 1.6 Flexifuel 120 CV",
+            "name": "Trend 1.6 Flexifuel 120 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/trend/c-max-trend-16-flexifuel-120-cv/datos",
@@ -696,7 +697,7 @@
             ]
         },
         {
-            "name": "C-MAX Trend 1.6 Ti-VCT 105 CV",
+            "name": "Trend 1.6 Ti-VCT 105 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/trend/c-max-trend-16-ti-vct-105-cv2/datos",
@@ -879,7 +880,7 @@
             ]
         },
         {
-            "name": "C-MAX Trend 1.6 Ti-VCT 125 CV",
+            "name": "Trend 1.6 Ti-VCT 125 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/trend/c-max-trend-16-ti-vct-125-cv/datos",
@@ -1063,7 +1064,7 @@
             ]
         },
         {
-            "name": "C-MAX Trend 1.0 EcoBoost Auto-Start-Stop 125 CV",
+            "name": "Trend 1.0 EcoBoost Auto-Start-Stop 125 CV",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/trend/c-max-trend-10-ecoboost-125-cv/datos",
@@ -1243,7 +1244,7 @@
             ]
         },
         {
-            "name": "C-MAX Edition 1.0 EcoBoost Auto-Start-Stop 125 CV",
+            "name": "Edition 1.0 EcoBoost Auto-Start-Stop 125 CV",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/edition/c-max-edition-10-ecoboost-auto-start-stop-125-cv/datos",
@@ -1421,7 +1422,7 @@
             ]
         },
         {
-            "name": "C-MAX Trend 1.6 Flexifuel 120 CV",
+            "name": "Trend 1.6 Flexifuel 120 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/trend/c-max-trend-16-flexifuel-120-cv2/datos",
@@ -1602,7 +1603,7 @@
             ]
         },
         {
-            "name": "C-MAX Trend 1.6 Flexifuel 125 CV",
+            "name": "Trend 1.6 Flexifuel 125 CV",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/trend/c-max-trend-16-flexifuel-125-cv/datos",
@@ -1779,7 +1780,7 @@
             ]
         },
         {
-            "name": "C-MAX Trend 1.6 Ti-VCT 125 CV",
+            "name": "Trend 1.6 Ti-VCT 125 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/trend/c-max-trend-16-ti-vct-125-cv2/datos",
@@ -1962,7 +1963,7 @@
             ]
         },
         {
-            "name": "C-MAX Trend 1.6 TDCi 95 CV",
+            "name": "Trend 1.6 TDCi 95 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/trend/c-max-trend-16-tdci-95-cv/datos",
@@ -2148,7 +2149,7 @@
             ]
         },
         {
-            "name": "C-MAX Titanium 1.6 Ti-VCT 125 CV",
+            "name": "Titanium 1.6 Ti-VCT 125 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/titanium/c-max-titanium-16-ti-vct-125-cv/datos",
@@ -2344,7 +2345,7 @@
             ]
         },
         {
-            "name": "C-MAX Trend 1.6 TDCi 115 CV",
+            "name": "Trend 1.6 TDCi 115 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/trend/c-max-trend-16-tdci-115-cv/datos",
@@ -2530,7 +2531,7 @@
             ]
         },
         {
-            "name": "C-MAX Trend 1.6 TDCi 95 CV",
+            "name": "Trend 1.6 TDCi 95 CV",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/trend/c-max-trend-16-tdci-95-cv3/datos",
@@ -2713,7 +2714,7 @@
             ]
         },
         {
-            "name": "C-MAX Trend 1.6 TDCi 95 CV",
+            "name": "Trend 1.6 TDCi 95 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/trend/c-max-trend-16-tdci-95-cv2/datos",
@@ -2899,7 +2900,7 @@
             ]
         },
         {
-            "name": "C-MAX Titanium 1.0 EcoBoost Auto-Start-Stop 125 CV",
+            "name": "Titanium 1.0 EcoBoost Auto-Start-Stop 125 CV",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/titanium/c-max-titanium-10-ecoboost-125-cv/datos",
@@ -3104,7 +3105,7 @@
             ]
         },
         {
-            "name": "C-MAX Trend 1.6 TDCi 115 CV",
+            "name": "Trend 1.6 TDCi 115 CV",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/trend/c-max-trend-16-tdci-115-cv3/datos",
@@ -3285,7 +3286,7 @@
             ]
         },
         {
-            "name": "C-MAX Titanium 1.6 Ti-VCT 125 CV",
+            "name": "Titanium 1.6 Ti-VCT 125 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/titanium/c-max-titanium-16-ti-vct-125-cv2/datos",
@@ -3481,7 +3482,7 @@
             ]
         },
         {
-            "name": "C-MAX Titanium 1.6 EcoBoost Auto-Start-Stop 150 CV",
+            "name": "Titanium 1.6 EcoBoost Auto-Start-Stop 150 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/titanium/c-max-titanium-16-ecoboost-auto-start-stop-150-cv/datos",
@@ -3678,7 +3679,7 @@
             ]
         },
         {
-            "name": "C-MAX Edition 1.6 TDCi 115 CV",
+            "name": "Edition 1.6 TDCi 115 CV",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/edition/c-max-edition-16-tdci-115-cv/datos",
@@ -3857,7 +3858,7 @@
             ]
         },
         {
-            "name": "C-MAX Trend 1.6 TDCi 115 CV",
+            "name": "Trend 1.6 TDCi 115 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/trend/c-max-trend-16-tdci-115-cv2/datos",
@@ -4043,7 +4044,7 @@
             ]
         },
         {
-            "name": "C-MAX Titanium 1.6 EcoBoost 150 CV",
+            "name": "Titanium 1.6 EcoBoost 150 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/titanium/c-max-titanium-16-ecoboost-150-cv/datos",
@@ -4236,7 +4237,7 @@
             ]
         },
         {
-            "name": "C-MAX Titanium 1.6 TDCi 115 CV",
+            "name": "Titanium 1.6 TDCi 115 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/titanium/c-max-titanium-16-tdci-115-cv/datos",
@@ -4434,7 +4435,7 @@
             ]
         },
         {
-            "name": "C-MAX Titanium 1.6 EcoBoost Auto-Start-Stop 150 CV",
+            "name": "Titanium 1.6 EcoBoost Auto-Start-Stop 150 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/titanium/c-max-titanium-16-ecoboost-auto-start-stop-150-cv2/datos",
@@ -4637,7 +4638,7 @@
             ]
         },
         {
-            "name": "C-MAX Titanium 2.0 TDCi 140 CV",
+            "name": "Titanium 2.0 TDCi 140 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/titanium/c-max-titanium-20-tdci-140-cv/datos",
@@ -4834,7 +4835,7 @@
             ]
         },
         {
-            "name": "C-MAX Titanium 1.6 TDCi 115 CV",
+            "name": "Titanium 1.6 TDCi 115 CV",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/titanium/c-max-titanium-16-tdci-115-cv3/datos",
@@ -5040,7 +5041,7 @@
             ]
         },
         {
-            "name": "C-MAX Titanium 1.6 TDCi 115 CV",
+            "name": "Titanium 1.6 TDCi 115 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/titanium/c-max-titanium-16-tdci-115-cv2/datos",
@@ -5244,7 +5245,7 @@
             ]
         },
         {
-            "name": "C-MAX Titanium 2.0 TDCi 140 CV",
+            "name": "Titanium 2.0 TDCi 140 CV",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/titanium/c-max-titanium-20-tdci-140-cv3/datos",
@@ -5449,7 +5450,7 @@
             ]
         },
         {
-            "name": "C-MAX Titanium 2.0 TDCi 140 CV",
+            "name": "Titanium 2.0 TDCi 140 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/titanium/c-max-titanium-20-tdci-140-cv2/datos",
@@ -5652,7 +5653,7 @@
             ]
         },
         {
-            "name": "C-MAX Titanium 2.0 TDCi 140 CV PowerShift",
+            "name": "Titanium 2.0 TDCi 140 CV PowerShift",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/titanium/c-max-titanium-20-tdci-140-cv-powershift/datos",
@@ -5850,7 +5851,7 @@
             ]
         },
         {
-            "name": "C-MAX Titanium 2.0 TDCi 140 CV PowerShift",
+            "name": "Titanium 2.0 TDCi 140 CV PowerShift",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/titanium/c-max-titanium-20-tdci-140-cv-powershift3/datos",
@@ -6056,7 +6057,7 @@
             ]
         },
         {
-            "name": "C-MAX Titanium 2.0 TDCi 140 CV PowerShift",
+            "name": "Titanium 2.0 TDCi 140 CV PowerShift",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/ford/c-max/2011/estandar/titanium/c-max-titanium-20-tdci-140-cv-powershift2/datos",

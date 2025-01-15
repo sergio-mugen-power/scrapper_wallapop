@@ -1,11 +1,12 @@
 {
+    "brand": "Opel",
     "name": "Mokka X",
     "year": "2017",
     "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Mokka X Edition 1.4 Turbo (103 kW) 140 CV 4x2 Start&Stop",
+            "name": "Edition 1.4 Turbo (103 kW) 140 CV 4x2 Start&Stop",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/edition/mokka-x-edition-14-turbo-103-kw-140-cv-4x2-startstop/datos",
@@ -26,7 +27,7 @@
             ]
         },
         {
-            "name": "Mokka X 120 Aniversario 1.4 Turbo 103 kW (140 CV) 4x2 Start&Stop",
+            "name": "120 Aniversario 1.4 Turbo 103 kW (140 CV) 4x2 Start&Stop",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/120-aniversario/mokka-x-120-aniversario-14-turbo-103-kw-140-cv-4x2-startstop/datos",
@@ -47,7 +48,7 @@
             ]
         },
         {
-            "name": "Mokka X Selective 1.4 Turbo (103 kW) 140 CV 4x2 Start&Stop",
+            "name": "Selective 1.4 Turbo (103 kW) 140 CV 4x2 Start&Stop",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/selective/mokka-x-selective-14-turbo-103-kw-140-cv-4x2-startstop/datos",
@@ -68,7 +69,7 @@
             ]
         },
         {
-            "name": "Mokka X Selective 1.4 Turbo (103 kW) 140 CV 4x2 Start/Stop",
+            "name": "Selective 1.4 Turbo (103 kW) 140 CV 4x2 Start/Stop",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/selective/mokka-x-14-turbo-140-cv-startstop/datos",
@@ -79,7 +80,7 @@
             "maletero": "356"
         },
         {
-            "name": "Mokka X 120 Aniversario 1.4 Turbo GLP 103 kW (140 CV) 4x2",
+            "name": "120 Aniversario 1.4 Turbo GLP 103 kW (140 CV) 4x2",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/120-aniversario/mokka-x-120-aniversario-14-turbo-glp-103-kw-140-cv-4x2/datos",
@@ -100,7 +101,7 @@
             ]
         },
         {
-            "name": "Mokka X Selective 1.4 Turbo GLP 103 kW (140 CV) 4x2",
+            "name": "Selective 1.4 Turbo GLP 103 kW (140 CV) 4x2",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/selective/mokka-x-14-140-cv-glp/datos",
@@ -121,7 +122,7 @@
             ]
         },
         {
-            "name": "Mokka X Design Line 1.4 Turbo 103 kW (140 CV) 4x2 Start&Stop",
+            "name": "Design Line 1.4 Turbo 103 kW (140 CV) 4x2 Start&Stop",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/design-line/mokka-x-design-line-14-turbo-103-kw-140-cv-4x2-startstop/datos",
@@ -142,7 +143,7 @@
             ]
         },
         {
-            "name": "Mokka X Selective 1.4 Turbo GLP 103 kW (140 CV) 4x2",
+            "name": "Selective 1.4 Turbo GLP 103 kW (140 CV) 4x2",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/selective/mokka-x-selective-14-turbo-glp-103-kw-140-cv-4x2/datos",
@@ -163,7 +164,7 @@
             ]
         },
         {
-            "name": "Mokka X Innovation 1.4 Turbo 103 kW (140 CV) 4x2 Start&Stop",
+            "name": "Innovation 1.4 Turbo 103 kW (140 CV) 4x2 Start&Stop",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/innovation/mokka-x-innovation-14-turbo-103-kw-140-cv-4x2-startstop/datos",
@@ -184,7 +185,7 @@
             ]
         },
         {
-            "name": "Mokka X Selective 1.4 Turbo (103 kW) 140 CV 4x2 Aut.",
+            "name": "Selective 1.4 Turbo (103 kW) 140 CV 4x2 Aut.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/selective/mokka-x-selective-14-turbo-103-kw-140-cv-4x2-aut/datos",
@@ -205,7 +206,7 @@
             ]
         },
         {
-            "name": "Mokka X Selective 1.4 Turbo (103 kW) 140 CV 4x2 Aut.",
+            "name": "Selective 1.4 Turbo (103 kW) 140 CV 4x2 Aut.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/selective/mokka-x-14-turbo-140-cv-aut/datos",
@@ -226,7 +227,7 @@
             ]
         },
         {
-            "name": "Mokka X 120 Aniversario 1.6 CDTI 100 kW (136 CV) 4x2 Start&Stop",
+            "name": "120 Aniversario 1.6 CDTI 100 kW (136 CV) 4x2 Start&Stop",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/120-aniversario/mokka-x-120-aniversario-16-cdti-100-kw-136-cv-4x2-startstop/datos",
@@ -247,7 +248,7 @@
             ]
         },
         {
-            "name": "Mokka X Selective 1.6 CDTI 100 kW (136 CV) 4x2 Start/Stop",
+            "name": "Selective 1.6 CDTI 100 kW (136 CV) 4x2 Start/Stop",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/selective/mokka-x-16-cdti-136-cv-startstop/datos",
@@ -268,7 +269,7 @@
             ]
         },
         {
-            "name": "Mokka X Excellence 1.4 Turbo 103 kW (140 CV) 4x2 Start&Stop",
+            "name": "Excellence 1.4 Turbo 103 kW (140 CV) 4x2 Start&Stop",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/excellence/mokka-x-excellence-14-turbo-103-kw-140-cv-4x2-startstop/datos",
@@ -289,7 +290,7 @@
             ]
         },
         {
-            "name": "Mokka X Excellence 1.4 Turbo 103 kW (140 CV) 4x2 Start/Stop",
+            "name": "Excellence 1.4 Turbo 103 kW (140 CV) 4x2 Start/Stop",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/excellence/mokka-x-excellence-14-turbo-140-cv-4x2-startstop/datos",
@@ -310,7 +311,7 @@
             ]
         },
         {
-            "name": "Mokka X Color Edition 1.4 Turbo 103 kW (140 CV) 4x2 Start/Stop",
+            "name": "Color Edition 1.4 Turbo 103 kW (140 CV) 4x2 Start/Stop",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/color-edition/mokka-x-color-edition-14-turbo-140-cv-4x2-startstop/datos",
@@ -331,7 +332,7 @@
             ]
         },
         {
-            "name": "Mokka X Color Edition 1.4 Turbo 103 kW (140 CV) 4x2 Start&Stop",
+            "name": "Color Edition 1.4 Turbo 103 kW (140 CV) 4x2 Start&Stop",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/color-edition/mokka-x-color-edition-14-turbo-103-kw-140-cv-4x2-startstop/datos",
@@ -352,7 +353,7 @@
             ]
         },
         {
-            "name": "Mokka X Selective 1.6 CDTI 100 kW (136 CV) 4x2 Start&Stop",
+            "name": "Selective 1.6 CDTI 100 kW (136 CV) 4x2 Start&Stop",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/selective/mokka-x-selective-16-cdti-100-kw-136-cv-4x2-startstop/datos",
@@ -373,7 +374,7 @@
             ]
         },
         {
-            "name": "Mokka X Excellence 1.4 Turbo GLP 103 kW (140 CV) 4x2",
+            "name": "Excellence 1.4 Turbo GLP 103 kW (140 CV) 4x2",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/excellence/mokka-x-excellence-14-turbo-glp-103-kw-140-cv-4x2/datos",
@@ -394,7 +395,7 @@
             ]
         },
         {
-            "name": "Mokka X Innovation 1.4 Turbo 103 kW (140 CV) 4x2 Aut.",
+            "name": "Innovation 1.4 Turbo 103 kW (140 CV) 4x2 Aut.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/innovation/mokka-x-innovation-14-turbo-103-kw-140-cv-4x2-aut/datos",
@@ -415,7 +416,7 @@
             ]
         },
         {
-            "name": "Mokka X Innovation 1.6 CDTI 100 kW (136 CV) 4x2 Start&Stop",
+            "name": "Innovation 1.6 CDTI 100 kW (136 CV) 4x2 Start&Stop",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/innovation/mokka-x-innovation-16-cdti-100-kw-136-cv-4x2-startstop/datos",
@@ -436,7 +437,7 @@
             ]
         },
         {
-            "name": "Mokka X Selective 1.6 CDTI 100 kW (136 CV) 4x2 Aut.",
+            "name": "Selective 1.6 CDTI 100 kW (136 CV) 4x2 Aut.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/selective/mokka-x-16-cdti-136-cv-aut/datos",
@@ -457,7 +458,7 @@
             ]
         },
         {
-            "name": "Mokka X Excellence 1.6 CDTI 100 kW (136 CV) 4x2 Start/Stop",
+            "name": "Excellence 1.6 CDTI 100 kW (136 CV) 4x2 Start/Stop",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/excellence/mokka-x-excellence-16-cdti-136-cv-4x2-startstop/datos",
@@ -478,7 +479,7 @@
             ]
         },
         {
-            "name": "Mokka X Color Edition 1.6 CDTI 100 kW (136 CV) 4x2 Start/Stop",
+            "name": "Color Edition 1.6 CDTI 100 kW (136 CV) 4x2 Start/Stop",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/color-edition/mokka-x-color-edition-16-cdti-136-cv-4x2-startstop/datos",
@@ -499,7 +500,7 @@
             ]
         },
         {
-            "name": "Mokka X Selective 1.6 CDTI 100 kW (136 CV) 4x2 Aut.",
+            "name": "Selective 1.6 CDTI 100 kW (136 CV) 4x2 Aut.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/selective/mokka-x-selective-16-cdti-100-kw-136-cv-4x2-aut/datos",
@@ -520,7 +521,7 @@
             ]
         },
         {
-            "name": "Mokka X Excellence 1.4 Turbo 103 kW (140 CV) 4x2 Aut.",
+            "name": "Excellence 1.4 Turbo 103 kW (140 CV) 4x2 Aut.",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/excellence/mokka-x-excellence-14-turbo-103-kw-140-cv-4x2-aut/datos",
@@ -541,7 +542,7 @@
             ]
         },
         {
-            "name": "Mokka X Excellence 1.4 Turbo 103 kW (140 CV) 4x2 Aut.",
+            "name": "Excellence 1.4 Turbo 103 kW (140 CV) 4x2 Aut.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/excellence/mokka-x-excellence-14-turbo-140-cv-4x2-aut/datos",
@@ -562,7 +563,7 @@
             ]
         },
         {
-            "name": "Mokka X Excellence 1.4 Turbo GLP 103 kW (140 CV) 4x2",
+            "name": "Excellence 1.4 Turbo GLP 103 kW (140 CV) 4x2",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/excellence/mokka-x-excellence-14-turbo-glp-103-kw-140-cv-4x22/datos",
@@ -583,7 +584,7 @@
             ]
         },
         {
-            "name": "Mokka X Innovation 1.4 Turbo GLP 103 kW (140 CV) 4x2",
+            "name": "Innovation 1.4 Turbo GLP 103 kW (140 CV) 4x2",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/innovation/mokka-x-innovation-14-turbo-glp-103-kw-140-cv-4x2/datos",
@@ -604,7 +605,7 @@
             ]
         },
         {
-            "name": "Mokka X Selective 1.6 CDTI 100 kW (136 CV) 4x4 Start/Stop",
+            "name": "Selective 1.6 CDTI 100 kW (136 CV) 4x4 Start/Stop",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/selective/mokka-x-16-cdti-136-cv-startstop-4x4/datos",
@@ -625,7 +626,7 @@
             ]
         },
         {
-            "name": "Mokka X Excellence 1.4 Turbo 103 kW (140 CV) 4x4 Start/Stop",
+            "name": "Excellence 1.4 Turbo 103 kW (140 CV) 4x4 Start/Stop",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/excellence/mokka-x-14-turbo-140-cv-startstop-4x4/datos",
@@ -646,7 +647,7 @@
             ]
         },
         {
-            "name": "Mokka X Excellence 1.6 CDTI 100 kW (136 CV) 4x2 Start&Stop",
+            "name": "Excellence 1.6 CDTI 100 kW (136 CV) 4x2 Start&Stop",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/excellence/mokka-x-excellence-16-cdti-100-kw-136-cv-4x2-startstop/datos",
@@ -667,7 +668,7 @@
             ]
         },
         {
-            "name": "Mokka X Innovation 1.4 Turbo 103 kW (140 CV) 4x4 Start&Stop",
+            "name": "Innovation 1.4 Turbo 103 kW (140 CV) 4x4 Start&Stop",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/innovation/mokka-x-innovation-14-turbo-103-kw-140-cv-4x4-startstop/datos",
@@ -688,7 +689,7 @@
             ]
         },
         {
-            "name": "Mokka X Color Edition 1.6 CDTI 100 kW (136 CV) 4x2 Start&Stop",
+            "name": "Color Edition 1.6 CDTI 100 kW (136 CV) 4x2 Start&Stop",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/color-edition/mokka-x-color-edition-16-cdti-100-kw-136-cv-4x2-startstop/datos",
@@ -709,7 +710,7 @@
             ]
         },
         {
-            "name": "Mokka X Excellence 1.6 CDTI 100 kW (136 CV) 4x2 Aut.",
+            "name": "Excellence 1.6 CDTI 100 kW (136 CV) 4x2 Aut.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/excellence/mokka-x-excellence-16-cdti-136-cv-4x2-aut/datos",
@@ -730,7 +731,7 @@
             ]
         },
         {
-            "name": "Mokka X Selective 1.6 CDTI 100 kW (136 CV) 4x4 Start&Stop",
+            "name": "Selective 1.6 CDTI 100 kW (136 CV) 4x4 Start&Stop",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/selective/mokka-x-selective-16-cdti-100-kw-136-cv-4x4-startstop/datos",
@@ -751,7 +752,7 @@
             ]
         },
         {
-            "name": "Mokka X Excellence 1.6 CDTI 100 kW (136 CV) 4x2 Aut.",
+            "name": "Excellence 1.6 CDTI 100 kW (136 CV) 4x2 Aut.",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/excellence/mokka-x-excellence-16-cdti-100-kw-136-cv-4x2-aut/datos",
@@ -772,7 +773,7 @@
             ]
         },
         {
-            "name": "Mokka X Innovation 1.6 CDTI 100 kW (136 CV) 4x2 Aut.",
+            "name": "Innovation 1.6 CDTI 100 kW (136 CV) 4x2 Aut.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/innovation/mokka-x-innovation-16-cdti-100-kw-136-cv-4x2-aut/datos",
@@ -793,7 +794,7 @@
             ]
         },
         {
-            "name": "Mokka X Excellence 1.4 Turbo 103 kW (140 CV) 4x4 Start&Stop",
+            "name": "Excellence 1.4 Turbo 103 kW (140 CV) 4x4 Start&Stop",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/excellence/mokka-x-excellence-14-turbo-103-kw-140-cv-4x4-startstop/datos",
@@ -814,7 +815,7 @@
             ]
         },
         {
-            "name": "Mokka X Excellence 1.6 CDTI 100 kW (136 CV) 4x4 Start&Stop",
+            "name": "Excellence 1.6 CDTI 100 kW (136 CV) 4x4 Start&Stop",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/excellence/mokka-x-excellence-16-cdti-100-kw-136-cv-4x4-startstop/datos",
@@ -835,7 +836,7 @@
             ]
         },
         {
-            "name": "Mokka X Excellence 1.6 CDTI 100 kW (136 CV) 4x4 Start/Stop",
+            "name": "Excellence 1.6 CDTI 100 kW (136 CV) 4x4 Start/Stop",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/excellence/mokka-x-excellence-16-cdti-136-cv-4x4-startstop/datos",
@@ -856,7 +857,7 @@
             ]
         },
         {
-            "name": "Mokka X Innovation 1.6 CDTI 100 kW (136 CV) 4x4 Start&Stop",
+            "name": "Innovation 1.6 CDTI 100 kW (136 CV) 4x4 Start&Stop",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/innovation/mokka-x-innovation-16-cdti-100-kw-136-cv-4x4-startstop/datos",
@@ -877,7 +878,7 @@
             ]
         },
         {
-            "name": "Mokka X Excellence 1.4 Turbo 112 kW (152 CV) 4x4 Start/Stop Aut.",
+            "name": "Excellence 1.4 Turbo 112 kW (152 CV) 4x4 Start/Stop Aut.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/excellence/mokka-x-14-turbo-152-cv-startstop-4x4-aut/datos",
@@ -898,7 +899,7 @@
             ]
         },
         {
-            "name": "Mokka X Ultimate 1.4 Turbo 103 kW (140 CV) 4x2 Start/Stop",
+            "name": "Ultimate 1.4 Turbo 103 kW (140 CV) 4x2 Start/Stop",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/ultimate/mokka-x-ultimate-14-turbo-103-kw-140-cv-4x2-startstop/datos",
@@ -919,7 +920,7 @@
             ]
         },
         {
-            "name": "Mokka X Ultimate 1.4 Turbo 103 kW (140 CV) 4x2 Aut.",
+            "name": "Ultimate 1.4 Turbo 103 kW (140 CV) 4x2 Aut.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/ultimate/mokka-x-ultimate-14-turbo-103-kw-140-cv-4x2-aut2/datos",
@@ -940,7 +941,7 @@
             ]
         },
         {
-            "name": "Mokka X Ultimate 1.4 Turbo 103 kW (140 CV) 4x2 Aut.",
+            "name": "Ultimate 1.4 Turbo 103 kW (140 CV) 4x2 Aut.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/ultimate/mokka-x-ultimate-14-turbo-103-kw-140-cv-4x2-aut/datos",
@@ -961,7 +962,7 @@
             ]
         },
         {
-            "name": "Mokka X Ultimate 1.6 CDTI 100 kW (136 CV) 4x2 Start/Stop",
+            "name": "Ultimate 1.6 CDTI 100 kW (136 CV) 4x2 Start/Stop",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/ultimate/mokka-x-ultimate-16-cdti-100-kw-136-cv-4x2-startstop/datos",
@@ -982,7 +983,7 @@
             ]
         },
         {
-            "name": "Mokka X Ultimate 1.6 CDTI 100 kW (136 CV) 4x2 Aut.",
+            "name": "Ultimate 1.6 CDTI 100 kW (136 CV) 4x2 Aut.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/ultimate/mokka-x-ultimate-16-cdti-100-kw-136-cv-4x2-aut/datos",
@@ -1003,7 +1004,7 @@
             ]
         },
         {
-            "name": "Mokka X Ultimate 1.6 CDTI 100 kW (136 CV) 4x2 Aut.",
+            "name": "Ultimate 1.6 CDTI 100 kW (136 CV) 4x2 Aut.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/ultimate/mokka-x-ultimate-16-cdti-100-kw-136-cv-4x2-aut2/datos",
@@ -1024,7 +1025,7 @@
             ]
         },
         {
-            "name": "Mokka X Ultimate 1.4 Turbo 112 kW (152 CV) 4x4 Start/Stop Aut.",
+            "name": "Ultimate 1.4 Turbo 112 kW (152 CV) 4x4 Start/Stop Aut.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/mokka-x/2017/estandar/ultimate/mokka-x-ultimate-14-turbo-112-kw-152-cv-4x4-startstop-aut/datos",

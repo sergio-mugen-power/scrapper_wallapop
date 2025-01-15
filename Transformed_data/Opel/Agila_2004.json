@@ -1,11 +1,12 @@
 {
+    "brand": "Opel",
     "name": "Agila",
     "year": "2004",
     "url": "https://www.km77.com/coches/opel/agila/2004/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Agila Essentia 1.0 12V",
+            "name": "Essentia 1.0 12V",
             "start_year": "2003",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/opel/agila/2004/estandar/essentia/agila-essentia-10-12v/datos",
@@ -180,7 +181,7 @@
             ]
         },
         {
-            "name": "Agila Essentia 1.2 16V",
+            "name": "Essentia 1.2 16V",
             "start_year": "2003",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/opel/agila/2004/estandar/essentia/agila-essentia-12-16v/datos",
@@ -353,7 +354,7 @@
             ]
         },
         {
-            "name": "Agila Línea Blu 1.2 16V",
+            "name": "Línea Blu 1.2 16V",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/agila/2004/estandar/blue-line/agila-linea-blu-12-16v/datos",
@@ -527,7 +528,7 @@
             ]
         },
         {
-            "name": "Agila Enjoy 1.2 16V",
+            "name": "Enjoy 1.2 16V",
             "start_year": "2003",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/opel/agila/2004/estandar/enjoy/agila-enjoy-12-16v/datos",
@@ -700,7 +701,7 @@
             ]
         },
         {
-            "name": "Agila Essentia 1.2 16V",
+            "name": "Essentia 1.2 16V",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/opel/agila/2004/estandar/essentia/agila-essentia-12-16v2/datos",
@@ -875,7 +876,7 @@
             ]
         },
         {
-            "name": "Agila Blue Line 1.2 16V",
+            "name": "Blue Line 1.2 16V",
             "start_year": "2004",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/opel/agila/2004/estandar/blue-line/agila-blue-line-12-16v/datos",
@@ -1049,7 +1050,7 @@
             ]
         },
         {
-            "name": "Agila Enjoy 1.2 16V",
+            "name": "Enjoy 1.2 16V",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/agila/2004/estandar/enjoy/agila-enjoy-12-16v2/datos",
@@ -1223,7 +1224,7 @@
             ]
         },
         {
-            "name": "Agila Línea Blu 1.3 CDTi",
+            "name": "Línea Blu 1.3 CDTi",
             "start_year": "2005",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/agila/2004/estandar/blue-line/agila-linea-blu-13-cdti/datos",
@@ -1397,7 +1398,7 @@
             ]
         },
         {
-            "name": "Agila Essentia 1.3 CDTi",
+            "name": "Essentia 1.3 CDTi",
             "start_year": "2003",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/opel/agila/2004/estandar/essentia/agila-essentia-13-cdti/datos",
@@ -1572,7 +1573,7 @@
             ]
         },
         {
-            "name": "Agila Cosmo 1.2 16V",
+            "name": "Cosmo 1.2 16V",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/opel/agila/2004/estandar/cosmo/agila-cosmo-12-16v3/datos",
@@ -1748,7 +1749,7 @@
             ]
         },
         {
-            "name": "Agila Enjoy 1.3 CDTi",
+            "name": "Enjoy 1.3 CDTi",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/agila/2004/estandar/enjoy/agila-enjoy-13-cdti/datos",
@@ -1922,7 +1923,7 @@
             ]
         },
         {
-            "name": "Agila Cosmo 1.2 16V",
+            "name": "Cosmo 1.2 16V",
             "start_year": "2003",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/opel/agila/2004/estandar/cosmo/agila-cosmo-12-16v/datos",
@@ -2092,7 +2093,7 @@
             ]
         },
         {
-            "name": "Agila Cosmo 1.2 16V",
+            "name": "Cosmo 1.2 16V",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/agila/2004/estandar/cosmo/agila-cosmo-12-16v2/datos",
@@ -2263,7 +2264,7 @@
             ]
         },
         {
-            "name": "Agila Cosmo 1.3 CDTi",
+            "name": "Cosmo 1.3 CDTi",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/opel/agila/2004/estandar/cosmo/agila-cosmo-13-cdti2/datos",
@@ -2439,7 +2440,7 @@
             ]
         },
         {
-            "name": "Agila Cosmo 1.3 CDTi",
+            "name": "Cosmo 1.3 CDTi",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/agila/2004/estandar/cosmo/agila-cosmo-13-cdti/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "A4 Avant",
     "year": "2005",
     "url": "https://www.km77.com/coches/audi/a4/2005/avant",
     "price": "",
     "versions": [
         {
-            "name": "A4 Avant 2.0",
+            "name": "2.0",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-202/datos",
@@ -103,7 +104,7 @@
             ]
         },
         {
-            "name": "A4 Avant 1.9 TDI",
+            "name": "1.9 TDI",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-19-tdi2/datos",
@@ -200,7 +201,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.0",
+            "name": "2.0",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-20/datos",
@@ -476,7 +477,7 @@
             ]
         },
         {
-            "name": "A4 Avant 1.9 TDI",
+            "name": "1.9 TDI",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-19-tdi/datos",
@@ -751,7 +752,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.0 multitronic 7 vel.",
+            "name": "2.0 multitronic 7 vel.",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-20-multitronic-7-vel2/datos",
@@ -849,7 +850,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.0 multitronic 7 vel.",
+            "name": "2.0 multitronic 7 vel.",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-20-multitronic-7-vel/datos",
@@ -1126,7 +1127,7 @@
             ]
         },
         {
-            "name": "A4 Avant 1.8 T",
+            "name": "1.8 T",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-18-t2/datos",
@@ -1224,7 +1225,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.0 TDI 140 CV 6 vel.",
+            "name": "2.0 TDI 140 CV 6 vel.",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-20-tdi-140-cv-6-vel/datos",
@@ -1322,7 +1323,7 @@
             ]
         },
         {
-            "name": "A4 Avant 1.8 T",
+            "name": "1.8 T",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-18-t/datos",
@@ -1598,7 +1599,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.0 TDI 6 vel.",
+            "name": "2.0 TDI 6 vel.",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-20-tdi-6-vel/datos",
@@ -1874,7 +1875,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.0 TDI 170 CV 6 vel. DPF",
+            "name": "2.0 TDI 170 CV 6 vel. DPF",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-20-tdi-170-cv-6-vel-dpf/datos",
@@ -1971,7 +1972,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.0 TDI 170 CV DPF",
+            "name": "2.0 TDI 170 CV DPF",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-20-tdi-170-cv-dpf/datos",
@@ -2245,7 +2246,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.0 TDI multitronic 7 vel.",
+            "name": "2.0 TDI multitronic 7 vel.",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-20-tdi-multitronic-7-vel/datos",
@@ -2522,7 +2523,7 @@
             ]
         },
         {
-            "name": "A4 Avant 1.8 T multitronic 7 vel.",
+            "name": "1.8 T multitronic 7 vel.",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-18-t-multitronic-7-vel/datos",
@@ -2799,7 +2800,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.0 T FSI 6 vel. 200 CV",
+            "name": "2.0 T FSI 6 vel. 200 CV",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-20-t-fsi-6-vel-200-cv2/datos",
@@ -2897,7 +2898,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.0 TDI 140 CV multitronic 7 vel.",
+            "name": "2.0 TDI 140 CV multitronic 7 vel.",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-20-tdi-140-cv-multitronic-7-vel/datos",
@@ -2995,7 +2996,7 @@
             ]
         },
         {
-            "name": "A4 Avant 1.8 T quattro 6 vel.",
+            "name": "1.8 T quattro 6 vel.",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-18-t-quattro-6-vel/datos",
@@ -3272,7 +3273,7 @@
             ]
         },
         {
-            "name": "A4 Avant 1.8 T multitronic 7 vel.",
+            "name": "1.8 T multitronic 7 vel.",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-18-t-multitronic-7-vel2/datos",
@@ -3370,7 +3371,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.0 T FSI 6 vel. 200 CV",
+            "name": "2.0 T FSI 6 vel. 200 CV",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-20-t-fsi-6-vel-200-cv/datos",
@@ -3645,7 +3646,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.0 TDI quattro 6 vel. DPF",
+            "name": "2.0 TDI quattro 6 vel. DPF",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-20-tdi-quattro-6-vel-dpf/datos",
@@ -3920,7 +3921,7 @@
             ]
         },
         {
-            "name": "A4 Avant 1.8 T quattro 6 vel.",
+            "name": "1.8 T quattro 6 vel.",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-18-t-quattro-6-vel2/datos",
@@ -4018,7 +4019,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.5 TDI 6 vel.",
+            "name": "2.5 TDI 6 vel.",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-25-tdi-6-vel/datos",
@@ -4290,7 +4291,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.0 TDI 140 CV quattro 6 vel. DPF",
+            "name": "2.0 TDI 140 CV quattro 6 vel. DPF",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-20-tdi-140-cv-quattro-6-vel-dpf/datos",
@@ -4387,7 +4388,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.0 T FSI 6 vel. 220 CV",
+            "name": "2.0 T FSI 6 vel. 220 CV",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-20-t-fsi-6-vel-220-cv2/datos",
@@ -4484,7 +4485,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.7 TDI 6 vel.",
+            "name": "2.7 TDI 6 vel.",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-27-tdi-6-vel2/datos",
@@ -4581,7 +4582,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.0 TDI 170 CV quattro DPF",
+            "name": "2.0 TDI 170 CV quattro DPF",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-20-tdi-170-cv-quattro-dpf/datos",
@@ -4855,7 +4856,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.0 T FSI multitronic 7 vel. 200 CV",
+            "name": "2.0 T FSI multitronic 7 vel. 200 CV",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-20-t-fsi-multitronic-7-vel-200-cv2/datos",
@@ -4953,7 +4954,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.0 T FSI 6 vel. 220 CV",
+            "name": "2.0 T FSI 6 vel. 220 CV",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-20-t-fsi-6-vel-220-cv/datos",
@@ -5227,7 +5228,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.7 TDI 6 vel.",
+            "name": "2.7 TDI 6 vel.",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-27-tdi-6-vel/datos",
@@ -5500,7 +5501,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.0 T FSI multitronic 7 vel. 200 CV",
+            "name": "2.0 T FSI multitronic 7 vel. 200 CV",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-20-t-fsi-multitronic-7-vel-200-cv/datos",
@@ -5776,7 +5777,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.0 TDI 170 CV quattro 6 vel. DPF",
+            "name": "2.0 TDI 170 CV quattro 6 vel. DPF",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-20-tdi-170-cv-quattro-6-vel-dpf/datos",
@@ -5873,7 +5874,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.0 T FSI quattro 6 vel. 200 CV",
+            "name": "2.0 T FSI quattro 6 vel. 200 CV",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-20-t-fsi-quattro-6-vel-200-cv/datos",
@@ -6149,7 +6150,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.5 TDI multitronic 7 vel.",
+            "name": "2.5 TDI multitronic 7 vel.",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-25-tdi-multitronic-7-vel/datos",
@@ -6422,7 +6423,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.7 TDI multitronic 7 vel.",
+            "name": "2.7 TDI multitronic 7 vel.",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-27-tdi-multitronic-7-vel2/datos",
@@ -6519,7 +6520,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.0 T FSI quattro 6 vel. 200 CV",
+            "name": "2.0 T FSI quattro 6 vel. 200 CV",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-20-t-fsi-quattro-6-vel-200-cv2/datos",
@@ -6617,7 +6618,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.7 TDI multitronic 7 vel.",
+            "name": "2.7 TDI multitronic 7 vel.",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-27-tdi-multitronic-7-vel/datos",
@@ -6891,7 +6892,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.0 T FSI quattro 6 vel. 220 CV",
+            "name": "2.0 T FSI quattro 6 vel. 220 CV",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-20-t-fsi-quattro-6-vel-220-cv/datos",
@@ -7166,7 +7167,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.0 T FSI quattro tiptronic 6 vel. 200 CV",
+            "name": "2.0 T FSI quattro tiptronic 6 vel. 200 CV",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-20-t-fsi-quattro-tiptronic-6-vel-200-cv/datos",
@@ -7443,7 +7444,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.0 T FSI quattro 6 vel. 220 CV",
+            "name": "2.0 T FSI quattro 6 vel. 220 CV",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-20-t-fsi-quattro-6-vel-220-cv2/datos",
@@ -7540,7 +7541,7 @@
             ]
         },
         {
-            "name": "A4 Avant 2.0 T FSI quattro tiptronic 6 vel. 200 CV",
+            "name": "2.0 T FSI quattro tiptronic 6 vel. 200 CV",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-20-t-fsi-quattro-tiptronic-6-vel-200-cv2/datos",
@@ -7638,7 +7639,7 @@
             ]
         },
         {
-            "name": "A4 Avant 3.0 TDI quattro 6 vel. 204 CV",
+            "name": "3.0 TDI quattro 6 vel. 204 CV",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-30-tdi-quattro-6-vel-204-cv/datos",
@@ -7910,7 +7911,7 @@
             ]
         },
         {
-            "name": "A4 Avant 3.0 TDI quattro 6 vel.",
+            "name": "3.0 TDI quattro 6 vel.",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-30-tdi-quattro-6-vel/datos",
@@ -8007,7 +8008,7 @@
             ]
         },
         {
-            "name": "A4 Avant 3.0 TDI quattro tiptronic 6 vel. 204 CV",
+            "name": "3.0 TDI quattro tiptronic 6 vel. 204 CV",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-30-tdi-quattro-tiptronic-6-vel-204-cv/datos",
@@ -8280,7 +8281,7 @@
             ]
         },
         {
-            "name": "A4 Avant 3.0 TDI quattro 6 vel. 233 CV",
+            "name": "3.0 TDI quattro 6 vel. 233 CV",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-30-tdi-quattro-6-vel-233-cv/datos",
@@ -8552,7 +8553,7 @@
             ]
         },
         {
-            "name": "A4 Avant 3.2 FSI multitronic 7 vel.",
+            "name": "3.2 FSI multitronic 7 vel.",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-32-fsi-multitronic-7-vel/datos",
@@ -8826,7 +8827,7 @@
             ]
         },
         {
-            "name": "A4 Avant 3.2 FSI quattro 6 vel.",
+            "name": "3.2 FSI quattro 6 vel.",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-32-fsi-quattro-6-vel/datos",
@@ -9097,7 +9098,7 @@
             ]
         },
         {
-            "name": "A4 Avant 3.2 FSI multitronic 7 vel.",
+            "name": "3.2 FSI multitronic 7 vel.",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-32-fsi-multitronic-7-vel2/datos",
@@ -9195,7 +9196,7 @@
             ]
         },
         {
-            "name": "A4 Avant 3.0 TDI quattro tiptronic 6 vel. 233 CV",
+            "name": "3.0 TDI quattro tiptronic 6 vel. 233 CV",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-30-tdi-quattro-tiptronic-6-vel-233-cv/datos",
@@ -9468,7 +9469,7 @@
             ]
         },
         {
-            "name": "A4 Avant 3.2 FSI quattro 6 vel.",
+            "name": "3.2 FSI quattro 6 vel.",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-32-fsi-quattro-6-vel2/datos",
@@ -9564,7 +9565,7 @@
             ]
         },
         {
-            "name": "A4 Avant 3.0 TDI quattro tiptronic 6 vel.",
+            "name": "3.0 TDI quattro tiptronic 6 vel.",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-30-tdi-quattro-tiptronic-6-vel/datos",
@@ -9661,7 +9662,7 @@
             ]
         },
         {
-            "name": "A4 Avant 3.2 FSI quattro tiptronic 6 vel.",
+            "name": "3.2 FSI quattro tiptronic 6 vel.",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-32-fsi-quattro-tiptronic-6-vel/datos",
@@ -9935,7 +9936,7 @@
             ]
         },
         {
-            "name": "A4 Avant 3.2 FSI quattro tiptronic 6 vel.",
+            "name": "3.2 FSI quattro tiptronic 6 vel.",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a4/2005/avant/estandar/a4-avant-32-fsi-quattro-tiptronic-6-vel2/datos",

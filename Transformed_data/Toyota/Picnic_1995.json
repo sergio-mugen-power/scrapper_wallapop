@@ -1,11 +1,12 @@
 {
+    "brand": "Toyota",
     "name": "Picnic",
     "year": "1995",
     "url": "https://www.km77.com/coches/toyota/picnic/1995/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Picnic 2.0 7pl",
+            "name": "2.0 7pl",
             "start_year": "2000",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/toyota/picnic/1995/estandar/estandar/picnic-20-7pl/datos",
@@ -129,7 +130,7 @@
             ]
         },
         {
-            "name": "Picnic 2.2 TD 6pl",
+            "name": "2.2 TD 6pl",
             "start_year": "2000",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/toyota/picnic/1995/estandar/estandar/picnic-22-td-6pl/datos",
@@ -253,7 +254,7 @@
             ]
         },
         {
-            "name": "Picnic 2.2 TD 7 plazas AA",
+            "name": "2.2 TD 7 plazas AA",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/toyota/picnic/1995/estandar/estandar/picnic-22-td-7-plazas-aa/datos",

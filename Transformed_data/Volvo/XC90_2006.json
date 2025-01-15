@@ -1,11 +1,12 @@
 {
+    "brand": "Volvo",
     "name": "XC90",
     "year": "2006",
     "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar",
     "price": "Desde 81.200 €",
     "versions": [
         {
-            "name": "XC90 2.5T Kinetic",
+            "name": "2.5T Kinetic",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/kinetic/xc90-25t-kinetic/datos",
@@ -26,7 +27,7 @@
             ]
         },
         {
-            "name": "XC90 D3 Kinetic Geartronic",
+            "name": "D3 Kinetic Geartronic",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/kinetic/xc90-d3-kinetic-geartronic/datos",
@@ -47,7 +48,7 @@
             ]
         },
         {
-            "name": "XC90 D4 Kinetic Geartronic",
+            "name": "D4 Kinetic Geartronic",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/kinetic/xc90-d4-kinetic-geartronic/datos",
@@ -68,7 +69,7 @@
             ]
         },
         {
-            "name": "XC90 D5 Kinetic",
+            "name": "D5 Kinetic",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/kinetic/xc90-d5-kinetic/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "XC90 2.5T Kinetic Aut.",
+            "name": "2.5T Kinetic Aut.",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/kinetic/xc90-25t-kinetic-aut/datos",
@@ -110,7 +111,7 @@
             ]
         },
         {
-            "name": "XC90 D5 Kinetic (5 plazas)",
+            "name": "D5 Kinetic (5 plazas)",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/kinetic/xc90-d5-kinetic-5-plazas/datos",
@@ -131,7 +132,7 @@
             ]
         },
         {
-            "name": "XC90 D4 Kinetic Geartronic",
+            "name": "D4 Kinetic Geartronic",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/kinetic/xc90-d4-kinetic-geartronic2/datos",
@@ -152,7 +153,7 @@
             ]
         },
         {
-            "name": "XC90 D3 Momentum Aut.",
+            "name": "D3 Momentum Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/momentum/xc90-d3-momentum-aut/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "XC90 2.5T Momentum",
+            "name": "2.5T Momentum",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/momentum/xc90-25t-momentum/datos",
@@ -194,7 +195,7 @@
             ]
         },
         {
-            "name": "XC90 3.2 Kinetic",
+            "name": "3.2 Kinetic",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/kinetic/xc90-32-kinetic/datos",
@@ -215,7 +216,7 @@
             ]
         },
         {
-            "name": "XC90 D5 Kinetic Aut.",
+            "name": "D5 Kinetic Aut.",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/kinetic/xc90-d5-kinetic-aut/datos",
@@ -236,7 +237,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Master Edition",
+            "name": "D5 AWD Master Edition",
             "start_year": "2014",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/master-edition/xc90-d5-awd-master-edition/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "XC90 D3 Momentum Geartronic",
+            "name": "D3 Momentum Geartronic",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/momentum/xc90-d3-momentum-geartronic/datos",
@@ -278,7 +279,7 @@
             ]
         },
         {
-            "name": "XC90 D5 Momentum",
+            "name": "D5 Momentum",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/momentum/xc90-d5-momentum/datos",
@@ -299,7 +300,7 @@
             ]
         },
         {
-            "name": "XC90 3.2 Kinetic Aut.",
+            "name": "3.2 Kinetic Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/kinetic/xc90-32-kinetic-aut/datos",
@@ -320,7 +321,7 @@
             ]
         },
         {
-            "name": "XC90 D5 Kinetic (7 plazas)",
+            "name": "D5 Kinetic (7 plazas)",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/kinetic/xc90-d5-kinetic-7-plazas/datos",
@@ -341,7 +342,7 @@
             ]
         },
         {
-            "name": "XC90 D4 Momentum Geartronic",
+            "name": "D4 Momentum Geartronic",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/momentum/xc90-d4-momentum-geartronic/datos",
@@ -362,7 +363,7 @@
             ]
         },
         {
-            "name": "XC90 D5 Kinetic Aut. (5 plazas)",
+            "name": "D5 Kinetic Aut. (5 plazas)",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/kinetic/xc90-d5-kinetic-aut-5-plazas/datos",
@@ -383,7 +384,7 @@
             ]
         },
         {
-            "name": "XC90 2.5T Momentum Aut.",
+            "name": "2.5T Momentum Aut.",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/momentum/xc90-25t-momentum-aut/datos",
@@ -404,7 +405,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Kinetic Geartronic",
+            "name": "D5 AWD Kinetic Geartronic",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/kinetic/xc90-d5-awd-kinetic-geartronic/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Kinetic Geartronic",
+            "name": "D5 AWD Kinetic Geartronic",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/kinetic/xc90-d5-awd-kinetic-geartronic2/datos",
@@ -446,7 +447,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Momentum",
+            "name": "D5 AWD Momentum",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/momentum/xc90-d5-awd-momentum/datos",
@@ -467,7 +468,7 @@
             ]
         },
         {
-            "name": "XC90 3.2 Momentum",
+            "name": "3.2 Momentum",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/momentum/xc90-32-momentum/datos",
@@ -488,7 +489,7 @@
             ]
         },
         {
-            "name": "XC90 D5 Momentum Aut.",
+            "name": "D5 Momentum Aut.",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/momentum/xc90-d5-momentum-aut/datos",
@@ -509,7 +510,7 @@
             ]
         },
         {
-            "name": "XC90 D5 Momentum",
+            "name": "D5 Momentum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/momentum/xc90-d5-momentum2/datos",
@@ -530,7 +531,7 @@
             ]
         },
         {
-            "name": "XC90 D5 Kinetic Aut. (7 plazas)",
+            "name": "D5 Kinetic Aut. (7 plazas)",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/kinetic/xc90-d5-kinetic-aut-7-plazas/datos",
@@ -551,7 +552,7 @@
             ]
         },
         {
-            "name": "XC90 D4 Momentum Geartronic",
+            "name": "D4 Momentum Geartronic",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/momentum/xc90-d4-momentum-geartronic2/datos",
@@ -572,7 +573,7 @@
             ]
         },
         {
-            "name": "XC90 2.5T Summum",
+            "name": "2.5T Summum",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/summum/xc90-25t-summum/datos",
@@ -593,7 +594,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Kinetic Geartronic",
+            "name": "D5 AWD Kinetic Geartronic",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/kinetic/xc90-d5-awd-kinetic-geartronic3/datos",
@@ -614,7 +615,7 @@
             ]
         },
         {
-            "name": "XC90 3.2 Momentum Aut.",
+            "name": "3.2 Momentum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/momentum/xc90-32-momentum-aut/datos",
@@ -635,7 +636,7 @@
             ]
         },
         {
-            "name": "XC90 D3 Summum Aut.",
+            "name": "D3 Summum Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/summum/xc90-d3-summum-aut/datos",
@@ -656,7 +657,7 @@
             ]
         },
         {
-            "name": "XC90 D3 R-Design Aut.",
+            "name": "D3 R-Design Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/r-design/xc90-d3-r-design-aut/datos",
@@ -677,7 +678,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Momentum Aut.",
+            "name": "D5 AWD Momentum Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/momentum/xc90-d5-awd-momentum-aut/datos",
@@ -698,7 +699,7 @@
             ]
         },
         {
-            "name": "XC90 D5 Momentum Aut.",
+            "name": "D5 Momentum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/momentum/xc90-d5-momentum-aut2/datos",
@@ -719,7 +720,7 @@
             ]
         },
         {
-            "name": "XC90 D5 Momentum (7 plazas)",
+            "name": "D5 Momentum (7 plazas)",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/momentum/xc90-d5-momentum-7-plazas/datos",
@@ -740,7 +741,7 @@
             ]
         },
         {
-            "name": "XC90 D5 Summum",
+            "name": "D5 Summum",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/summum/xc90-d5-summum/datos",
@@ -761,7 +762,7 @@
             ]
         },
         {
-            "name": "XC90 Sport D5",
+            "name": "Sport D5",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/sport/xc90-sport-d5/datos",
@@ -782,7 +783,7 @@
             ]
         },
         {
-            "name": "XC90 D5 Ocean Race Edition Aut.",
+            "name": "D5 Ocean Race Edition Aut.",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/ocean-race-edition/xc90-d5-ocean-race-edition-aut/datos",
@@ -803,7 +804,7 @@
             ]
         },
         {
-            "name": "XC90 D3 Summum Geartronic",
+            "name": "D3 Summum Geartronic",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/summum/xc90-d3-summum-geartronic/datos",
@@ -824,7 +825,7 @@
             ]
         },
         {
-            "name": "XC90 D3 R-Design Geartronic",
+            "name": "D3 R-Design Geartronic",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/r-design/xc90-d3-r-design-geartronic/datos",
@@ -845,7 +846,7 @@
             ]
         },
         {
-            "name": "XC90 D4 Summum Geartronic",
+            "name": "D4 Summum Geartronic",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/summum/xc90-d4-summum-geartronic/datos",
@@ -866,7 +867,7 @@
             ]
         },
         {
-            "name": "XC90 2.5T Summum Aut.",
+            "name": "2.5T Summum Aut.",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/summum/xc90-25t-summum-aut/datos",
@@ -887,7 +888,7 @@
             ]
         },
         {
-            "name": "XC90 D4 R-Design Geartronic",
+            "name": "D4 R-Design Geartronic",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/r-design/xc90-d4-r-design-geartronic/datos",
@@ -908,7 +909,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Momentum Geartronic",
+            "name": "D5 AWD Momentum Geartronic",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/momentum/xc90-d5-awd-momentum-geartronic/datos",
@@ -929,7 +930,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Momentum Geartronic",
+            "name": "D5 AWD Momentum Geartronic",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/momentum/xc90-d5-awd-momentum-geartronic2/datos",
@@ -950,7 +951,7 @@
             ]
         },
         {
-            "name": "XC90 D5 Summum",
+            "name": "D5 Summum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/summum/xc90-d5-summum2/datos",
@@ -971,7 +972,7 @@
             ]
         },
         {
-            "name": "XC90 3.2 Summum",
+            "name": "3.2 Summum",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/summum/xc90-32-summum/datos",
@@ -992,7 +993,7 @@
             ]
         },
         {
-            "name": "XC90 Sport 3.2",
+            "name": "Sport 3.2",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/sport/xc90-sport-32/datos",
@@ -1013,7 +1014,7 @@
             ]
         },
         {
-            "name": "XC90 3.2 Ocean Race Edition Aut.",
+            "name": "3.2 Ocean Race Edition Aut.",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/ocean-race-edition/xc90-32-ocean-race-edition-aut/datos",
@@ -1034,7 +1035,7 @@
             ]
         },
         {
-            "name": "XC90 D5 Momentum Aut. (7 plazas)",
+            "name": "D5 Momentum Aut. (7 plazas)",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/momentum/xc90-d5-momentum-aut-7-plazas/datos",
@@ -1055,7 +1056,7 @@
             ]
         },
         {
-            "name": "XC90 D5 Summum Aut.",
+            "name": "D5 Summum Aut.",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/summum/xc90-d5-summum-aut/datos",
@@ -1076,7 +1077,7 @@
             ]
         },
         {
-            "name": "XC90 Sport D5 Aut.",
+            "name": "Sport D5 Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/sport/xc90-sport-d5-aut/datos",
@@ -1097,7 +1098,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Summum",
+            "name": "D5 AWD Summum",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/summum/xc90-d5-awd-summum/datos",
@@ -1118,7 +1119,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD R-Design",
+            "name": "D5 AWD R-Design",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/r-design/xc90-d5-awd-r-design/datos",
@@ -1139,7 +1140,7 @@
             ]
         },
         {
-            "name": "XC90 D4 Summum Geartronic",
+            "name": "D4 Summum Geartronic",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/summum/xc90-d4-summum-geartronic2/datos",
@@ -1160,7 +1161,7 @@
             ]
         },
         {
-            "name": "XC90 D4 R-Design Geartronic",
+            "name": "D4 R-Design Geartronic",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/r-design/xc90-d4-r-design-geartronic2/datos",
@@ -1181,7 +1182,7 @@
             ]
         },
         {
-            "name": "XC90 D5 R-Design",
+            "name": "D5 R-Design",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/r-design/xc90-d5-r-design/datos",
@@ -1202,7 +1203,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Momentum Geartronic",
+            "name": "D5 AWD Momentum Geartronic",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/momentum/xc90-d5-awd-momentum-geartronic3/datos",
@@ -1223,7 +1224,7 @@
             ]
         },
         {
-            "name": "XC90 3.2 Summum Aut.",
+            "name": "3.2 Summum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/summum/xc90-32-summum-aut/datos",
@@ -1244,7 +1245,7 @@
             ]
         },
         {
-            "name": "XC90 D5 Summum Aut.",
+            "name": "D5 Summum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/summum/xc90-d5-summum-aut2/datos",
@@ -1265,7 +1266,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Summum Aut.",
+            "name": "D5 AWD Summum Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/summum/xc90-d5-awd-summum-aut/datos",
@@ -1286,7 +1287,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD R-Design Aut.",
+            "name": "D5 AWD R-Design Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/r-design/xc90-d5-awd-r-design-aut/datos",
@@ -1307,7 +1308,7 @@
             ]
         },
         {
-            "name": "XC90 3.2 R-Design Aut.",
+            "name": "3.2 R-Design Aut.",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/r-design/xc90-32-r-design-aut/datos",
@@ -1328,7 +1329,7 @@
             ]
         },
         {
-            "name": "XC90 D5 Summum (7 plazas)",
+            "name": "D5 Summum (7 plazas)",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/summum/xc90-d5-summum-7-plazas/datos",
@@ -1349,7 +1350,7 @@
             ]
         },
         {
-            "name": "XC90 D5 R-Design (7 plazas)",
+            "name": "D5 R-Design (7 plazas)",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/r-design/xc90-d5-r-design-7-plazas/datos",
@@ -1370,7 +1371,7 @@
             ]
         },
         {
-            "name": "XC90 D5 R-Design Aut.",
+            "name": "D5 R-Design Aut.",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/r-design/xc90-d5-r-design-aut/datos",
@@ -1391,7 +1392,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Summum Geartronic",
+            "name": "D5 AWD Summum Geartronic",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/summum/xc90-d5-awd-summum-geartronic/datos",
@@ -1412,7 +1413,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Summum Geartronic",
+            "name": "D5 AWD Summum Geartronic",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/summum/xc90-d5-awd-summum-geartronic2/datos",
@@ -1433,7 +1434,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD R-Design Geartronic",
+            "name": "D5 AWD R-Design Geartronic",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/r-design/xc90-d5-awd-r-design-geartronic/datos",
@@ -1454,7 +1455,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD R-Design Geartronic",
+            "name": "D5 AWD R-Design Geartronic",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/r-design/xc90-d5-awd-r-design-geartronic2/datos",
@@ -1475,7 +1476,7 @@
             ]
         },
         {
-            "name": "XC90 D5 Summum Aut. (7 plazas)",
+            "name": "D5 Summum Aut. (7 plazas)",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/summum/xc90-d5-summum-aut-7-plazas/datos",
@@ -1496,7 +1497,7 @@
             ]
         },
         {
-            "name": "XC90 D5 R-Design Aut. (7 plazas)",
+            "name": "D5 R-Design Aut. (7 plazas)",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/r-design/xc90-d5-r-design-aut-7-plazas/datos",
@@ -1517,7 +1518,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Summum Geartronic",
+            "name": "D5 AWD Summum Geartronic",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/summum/xc90-d5-awd-summum-geartronic3/datos",
@@ -1538,7 +1539,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD R-Design Geartronic",
+            "name": "D5 AWD R-Design Geartronic",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/r-design/xc90-d5-awd-r-design-geartronic3/datos",
@@ -1559,7 +1560,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Executive Geartronic",
+            "name": "D5 AWD Executive Geartronic",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/executive/xc90-d5-awd-executive-geartronic/datos",
@@ -1580,7 +1581,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Executive Geartronic",
+            "name": "D5 AWD Executive Geartronic",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/executive/xc90-d5-awd-executive-geartronic2/datos",
@@ -1601,7 +1602,7 @@
             ]
         },
         {
-            "name": "XC90 V8 Summum",
+            "name": "V8 Summum",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/summum/xc90-v8-summum/datos",
@@ -1622,7 +1623,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Executive Geartronic",
+            "name": "D5 AWD Executive Geartronic",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/executive/xc90-d5-awd-executive-geartronic3/datos",
@@ -1643,7 +1644,7 @@
             ]
         },
         {
-            "name": "XC90 3.2 Executive",
+            "name": "3.2 Executive",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/executive/xc90-32-executive/datos",
@@ -1664,7 +1665,7 @@
             ]
         },
         {
-            "name": "XC90 V8 Summum Aut.",
+            "name": "V8 Summum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/summum/xc90-v8-summum-aut/datos",
@@ -1685,7 +1686,7 @@
             ]
         },
         {
-            "name": "XC90 D5 Executive Aut.",
+            "name": "D5 Executive Aut.",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/executive/xc90-d5-executive-aut/datos",
@@ -1706,7 +1707,7 @@
             ]
         },
         {
-            "name": "XC90 Sport V8",
+            "name": "Sport V8",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/sport/xc90-sport-v8/datos",
@@ -1727,7 +1728,7 @@
             ]
         },
         {
-            "name": "XC90 V8 Ocean Race Edition Aut.",
+            "name": "V8 Ocean Race Edition Aut.",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/ocean-race-edition/xc90-v8-ocean-race-edition-aut/datos",
@@ -1748,7 +1749,7 @@
             ]
         },
         {
-            "name": "XC90 3.2 Executive Aut.",
+            "name": "3.2 Executive Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/executive/xc90-32-executive-aut/datos",
@@ -1769,7 +1770,7 @@
             ]
         },
         {
-            "name": "XC90 D5 Executive Aut.",
+            "name": "D5 Executive Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/executive/xc90-d5-executive-aut2/datos",
@@ -1790,7 +1791,7 @@
             ]
         },
         {
-            "name": "XC90 V8 R-Design Aut.",
+            "name": "V8 R-Design Aut.",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/r-design/xc90-v8-r-design-aut/datos",
@@ -1811,7 +1812,7 @@
             ]
         },
         {
-            "name": "XC90 D5 Executive Aut. (7 plazas)",
+            "name": "D5 Executive Aut. (7 plazas)",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/executive/xc90-d5-executive-aut-7-plazas/datos",
@@ -1832,7 +1833,7 @@
             ]
         },
         {
-            "name": "XC90 V8 R-Design Aut. (7 plazas)",
+            "name": "V8 R-Design Aut. (7 plazas)",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/r-design/xc90-v8-r-design-aut-7-plazas/datos",
@@ -1853,7 +1854,7 @@
             ]
         },
         {
-            "name": "XC90 V8 Executive",
+            "name": "V8 Executive",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/executive/xc90-v8-executive/datos",
@@ -1874,7 +1875,7 @@
             ]
         },
         {
-            "name": "XC90 V8 Executive Aut.",
+            "name": "V8 Executive Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/executive/xc90-v8-executive-aut/datos",
@@ -1895,7 +1896,7 @@
             ]
         },
         {
-            "name": "XC90 V8 Executive Aut. (7 plazas)",
+            "name": "V8 Executive Aut. (7 plazas)",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/xc90/2006/estandar/executive/xc90-v8-executive-aut-7-plazas/datos",

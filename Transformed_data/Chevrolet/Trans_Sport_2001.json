@@ -1,11 +1,12 @@
 {
+    "brand": "Chevrolet",
     "name": "Trans Sport",
     "year": "2001",
     "url": "https://www.km77.com/coches/chevrolet/trans-sport/2001/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Trans Sport 3.4 V6",
+            "name": "3.4 V6",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/chevrolet/trans-sport/2001/estandar/estandar/trans-sport-34-v6/datos",
@@ -132,7 +133,7 @@
             ]
         },
         {
-            "name": "Trans Sport SC",
+            "name": "SC",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chevrolet/trans-sport/2001/estandar/sc/trans-sport-sc/datos",
@@ -263,7 +264,7 @@
             ]
         },
         {
-            "name": "Trans Sport SD",
+            "name": "SD",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chevrolet/trans-sport/2001/estandar/sd/trans-sport-sd/datos",
@@ -394,7 +395,7 @@
             ]
         },
         {
-            "name": "Trans Sport AWD 3.4 V6 SC",
+            "name": "AWD 3.4 V6 SC",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/chevrolet/trans-sport/2001/estandar/sc/trans-sport-awd-34-v6-sc/datos",
@@ -538,7 +539,7 @@
             ]
         },
         {
-            "name": "Trans Sport 3.4 V6 tap. en piel",
+            "name": "3.4 V6 tap. en piel",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/chevrolet/trans-sport/2001/estandar/estandar/trans-sport-34-v6-tap-en-piel/datos",
@@ -666,7 +667,7 @@
             ]
         },
         {
-            "name": "Trans Sport AWD 3.4 V6 SD",
+            "name": "AWD 3.4 V6 SD",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/chevrolet/trans-sport/2001/estandar/sd/trans-sport-awd-34-v6-sd/datos",
@@ -810,7 +811,7 @@
             ]
         },
         {
-            "name": "Trans Sport SE piel",
+            "name": "SE piel",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chevrolet/trans-sport/2001/estandar/se/trans-sport-se-piel/datos",
@@ -941,7 +942,7 @@
             ]
         },
         {
-            "name": "Trans Sport SF AWD piel",
+            "name": "SF AWD piel",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chevrolet/trans-sport/2001/estandar/sf/trans-sport-sf-awd-piel/datos",
@@ -1074,7 +1075,7 @@
             ]
         },
         {
-            "name": "Trans Sport AWD 3.4 V6 SF Premium",
+            "name": "AWD 3.4 V6 SF Premium",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/chevrolet/trans-sport/2001/estandar/sf-premium/trans-sport-awd-34-v6-sf-premium/datos",

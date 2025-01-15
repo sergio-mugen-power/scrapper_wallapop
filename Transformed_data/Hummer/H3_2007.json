@@ -1,11 +1,12 @@
 {
+    "brand": "Hummer",
     "name": "H3",
     "year": "2007",
     "url": "https://www.km77.com/coches/hummer/h3/2007/estandar",
     "price": "",
     "versions": [
         {
-            "name": "H3 3.7",
+            "name": "3.7",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/hummer/h3/2007/estandar/estandar/h3-37/datos",
@@ -190,7 +191,7 @@
             ]
         },
         {
-            "name": "H3 3.7",
+            "name": "3.7",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/hummer/h3/2007/estandar/estandar/h3-372/datos",
@@ -376,7 +377,7 @@
             ]
         },
         {
-            "name": "H3 3.7 Aut.",
+            "name": "3.7 Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/hummer/h3/2007/estandar/estandar/h3-37-aut/datos",
@@ -562,7 +563,7 @@
             ]
         },
         {
-            "name": "H3 3.7 Aut.",
+            "name": "3.7 Aut.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/hummer/h3/2007/estandar/estandar/h3-37-aut2/datos",
@@ -749,7 +750,7 @@
             ]
         },
         {
-            "name": "H3 3.7 Adventure",
+            "name": "3.7 Adventure",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/hummer/h3/2007/estandar/adventure/h3-37-adventure/datos",
@@ -926,7 +927,7 @@
             ]
         },
         {
-            "name": "H3 3.7 Adventure",
+            "name": "3.7 Adventure",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/hummer/h3/2007/estandar/adventure/h3-37-adventure2/datos",
@@ -1104,7 +1105,7 @@
             ]
         },
         {
-            "name": "H3 3.7 Luxury",
+            "name": "3.7 Luxury",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/hummer/h3/2007/estandar/luxury/h3-37-luxury/datos",
@@ -1285,7 +1286,7 @@
             ]
         },
         {
-            "name": "H3 3.7 Adventure Aut.",
+            "name": "3.7 Adventure Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/hummer/h3/2007/estandar/adventure/h3-37-adventure-aut/datos",
@@ -1465,7 +1466,7 @@
             ]
         },
         {
-            "name": "H3 3.7 Luxury",
+            "name": "3.7 Luxury",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/hummer/h3/2007/estandar/luxury/h3-37-luxury2/datos",
@@ -1647,7 +1648,7 @@
             ]
         },
         {
-            "name": "H3 3.7 Adventure Aut.",
+            "name": "3.7 Adventure Aut.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/hummer/h3/2007/estandar/adventure/h3-37-adventure-aut2/datos",
@@ -1828,7 +1829,7 @@
             ]
         },
         {
-            "name": "H3 3.7 Luxury Aut.",
+            "name": "3.7 Luxury Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/hummer/h3/2007/estandar/luxury/h3-37-luxury-aut/datos",
@@ -2012,7 +2013,7 @@
             ]
         },
         {
-            "name": "H3 3.7 Luxury Aut.",
+            "name": "3.7 Luxury Aut.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/hummer/h3/2007/estandar/luxury/h3-37-luxury-aut2/datos",
@@ -2197,7 +2198,7 @@
             ]
         },
         {
-            "name": "H3 5.3 V8 Luxury Aut.",
+            "name": "5.3 V8 Luxury Aut.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/hummer/h3/2007/estandar/luxury/h3-53-v8-luxury-aut/datos",

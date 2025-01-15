@@ -1,11 +1,12 @@
 {
+    "brand": "Ford",
     "name": "Focus Berlina",
     "year": "2008",
     "url": "https://www.km77.com/coches/ford/focus/2008/berlina",
     "price": "Desde 25.144 €",
     "versions": [
         {
-            "name": "Focus Berlina Business 1.4",
+            "name": "Business 1.4",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/business/focus-berlina-business-14/datos",
@@ -157,7 +158,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Business 1.6",
+            "name": "Business 1.6",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/business/focus-berlina-business-16/datos",
@@ -309,7 +310,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Trend 1.6",
+            "name": "Trend 1.6",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/trend/focus-berlina-trend-162/datos",
@@ -495,7 +496,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Business 1.6 TDCi 90 CV",
+            "name": "Business 1.6 TDCi 90 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/business/focus-berlina-business-16-tdci-90-cv/datos",
@@ -646,7 +647,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Trend 1.6",
+            "name": "Trend 1.6",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/trend/focus-berlina-trend-16/datos",
@@ -834,7 +835,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Trend 1.6 TDCi 90 CV",
+            "name": "Trend 1.6 TDCi 90 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/trend/focus-berlina-trend-16-tdci-90-cv2/datos",
@@ -1023,7 +1024,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Trend 1.6 Ti-VCT",
+            "name": "Trend 1.6 Ti-VCT",
             "start_year": "2007",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/trend/focus-berlina-trend-16-ti-vct/datos",
@@ -1213,7 +1214,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Trend 1.6 Aut.",
+            "name": "Trend 1.6 Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/trend/focus-berlina-trend-16-aut2/datos",
@@ -1399,7 +1400,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Trend 1.6 TDCi 90 CV",
+            "name": "Trend 1.6 TDCi 90 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/trend/focus-berlina-trend-16-tdci-90-cv/datos",
@@ -1588,7 +1589,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Trend 1.8 Flexifuel",
+            "name": "Trend 1.8 Flexifuel",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/trend/focus-berlina-trend-18-flexifuel/datos",
@@ -1775,7 +1776,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Trend 1.6 Aut.",
+            "name": "Trend 1.6 Aut.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/trend/focus-berlina-trend-16-aut/datos",
@@ -1961,7 +1962,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Trend 1.6 TDCi 109 CV",
+            "name": "Trend 1.6 TDCi 109 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/trend/focus-berlina-trend-16-tdci-109-cv2/datos",
@@ -2150,7 +2151,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Trend 1.8 TDCi 115 CV",
+            "name": "Trend 1.8 TDCi 115 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/trend/focus-berlina-trend-18-tdci-115-cv/datos",
@@ -2332,7 +2333,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Trend 1.6 TDCi 109 CV",
+            "name": "Trend 1.6 TDCi 109 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/trend/focus-berlina-trend-16-tdci-109-cv/datos",
@@ -2521,7 +2522,7 @@
             ]
         },
         {
-            "name": "Focus Berlina ECOnetic 1.6 TDCi 109 CV",
+            "name": "ECOnetic 1.6 TDCi 109 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/econetic/focus-berlina-econetic-16-tdci-109-cv2/datos",
@@ -2697,7 +2698,7 @@
             ]
         },
         {
-            "name": "Focus Berlina ECOnetic 1.6 TDCi 109 CV",
+            "name": "ECOnetic 1.6 TDCi 109 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/econetic/focus-berlina-econetic-16-tdci-109-cv/datos",
@@ -2873,7 +2874,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Titanium 1.6 Ti-VCT",
+            "name": "Titanium 1.6 Ti-VCT",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/titanium/focus-berlina-titanium-16-ti-vct/datos",
@@ -3080,7 +3081,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Trend 2.0",
+            "name": "Trend 2.0",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/trend/focus-berlina-trend-20/datos",
@@ -3264,7 +3265,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Titanium 1.8 125 CV Flexifuel",
+            "name": "Titanium 1.8 125 CV Flexifuel",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/titanium/focus-berlina-titanium-18-125-cv-flexifuel/datos",
@@ -3447,7 +3448,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Titanium 1.6 TDCi 90 CV",
+            "name": "Titanium 1.6 TDCi 90 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/titanium/focus-berlina-titanium-16-tdci-90-cv/datos",
@@ -3630,7 +3631,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Titanium 1.6 TDCi 109 CV",
+            "name": "Titanium 1.6 TDCi 109 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/titanium/focus-berlina-titanium-16-tdci-109-cv/datos",
@@ -3838,7 +3839,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Titanium 1.6 TDCi 109 CV",
+            "name": "Titanium 1.6 TDCi 109 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/titanium/focus-berlina-titanium-16-tdci-109-cv2/datos",
@@ -4043,7 +4044,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Titanium 2.0",
+            "name": "Titanium 2.0",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/titanium/focus-berlina-titanium-20/datos",
@@ -4250,7 +4251,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Titanium 1.8 TDCi 115 CV",
+            "name": "Titanium 1.8 TDCi 115 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/titanium/focus-berlina-titanium-18-tdci-115-cv/datos",
@@ -4437,7 +4438,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Trend 2.0 TDCi 136 CV",
+            "name": "Trend 2.0 TDCi 136 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/trend/focus-berlina-trend-20-tdci-136-cv/datos",
@@ -4621,7 +4622,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Titanium 2.0 Aut.",
+            "name": "Titanium 2.0 Aut.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/titanium/focus-berlina-titanium-20-aut/datos",
@@ -4828,7 +4829,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Titanium 2.0 TDCi 136 CV",
+            "name": "Titanium 2.0 TDCi 136 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/titanium/focus-berlina-titanium-20-tdci-136-cv/datos",
@@ -5036,7 +5037,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Trend 2.0 TDCi 136 CV PowerShift",
+            "name": "Trend 2.0 TDCi 136 CV PowerShift",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/trend/focus-berlina-trend-20-tdci-136-cv-powershift/datos",
@@ -5219,7 +5220,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Trend 2.0 TDCi 110 CV PowerShift",
+            "name": "Trend 2.0 TDCi 110 CV PowerShift",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/trend/focus-berlina-trend-20-tdci-110-cv-powershift/datos",
@@ -5397,7 +5398,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Titanium 2.0 TDCi 136 CV",
+            "name": "Titanium 2.0 TDCi 136 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/titanium/focus-berlina-titanium-20-tdci-136-cv2/datos",
@@ -5602,7 +5603,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Titanium 2.0 TDCi 136 CV PowerShift",
+            "name": "Titanium 2.0 TDCi 136 CV PowerShift",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/titanium/focus-berlina-titanium-20-tdci-136-cv-powershift/datos",
@@ -5811,7 +5812,7 @@
             ]
         },
         {
-            "name": "Focus Berlina Titanium 2.0 TDCi 136 CV PowerShift",
+            "name": "Titanium 2.0 TDCi 136 CV PowerShift",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/titanium/focus-berlina-titanium-20-tdci-136-cv-powershift2/datos",
@@ -6017,7 +6018,7 @@
             ]
         },
         {
-            "name": "Focus Berlina ST 2.5",
+            "name": "ST 2.5",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/st/focus-berlina-st-25/datos",
@@ -6217,7 +6218,7 @@
             ]
         },
         {
-            "name": "Focus Berlina ST 2.5",
+            "name": "ST 2.5",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/ford/focus/2008/berlina/st/focus-berlina-st-252/datos",

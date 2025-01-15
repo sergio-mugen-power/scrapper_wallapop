@@ -1,11 +1,12 @@
 {
+    "brand": "Alfa Romeo",
     "name": "Giulia",
     "year": "2016",
     "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar",
     "price": "Desde 42.915 €",
     "versions": [
         {
-            "name": "Giulia 2.2 Diesel 100 kW (136 CV) Giulia",
+            "name": "2.2 Diesel 100 kW (136 CV)",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/giulia/giulia-22-diesel-100-kw-136-cv-giulia/datos",
@@ -212,7 +213,7 @@
             ]
         },
         {
-            "name": "Giulia 2.2 Diesel 110 kW (150 CV) Giulia",
+            "name": "2.2 Diesel 110 kW (150 CV)",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/giulia/giulia-22-diesel-150-cv/datos",
@@ -419,7 +420,7 @@
             ]
         },
         {
-            "name": "Giulia 2.2 Diesel 118 kW (160 CV) Giulia",
+            "name": "2.2 Diesel 118 kW (160 CV)",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/giulia/giulia-22-diesel-118-kw-160-cv-giulia/datos",
@@ -628,7 +629,7 @@
             ]
         },
         {
-            "name": "Giulia 2.2 Diesel 110 kW (150 CV) Giulia Aut. 8 vel.",
+            "name": "2.2 Diesel 110 kW (150 CV)  Aut. 8 vel.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/giulia/giulia-22-diesel-150-cv-aut-8-vel/datos",
@@ -836,7 +837,7 @@
             ]
         },
         {
-            "name": "Giulia 2.2 Diesel 110 kW (150 CV) Super",
+            "name": "2.2 Diesel 110 kW (150 CV) Super",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/super/giulia-22-diesel-150-cv-super/datos",
@@ -1071,7 +1072,7 @@
             ]
         },
         {
-            "name": "Giulia 2.2 Diesel 118 kW (160 CV) Super",
+            "name": "2.2 Diesel 118 kW (160 CV) Super",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/super/giulia-22-diesel-118-kw-160-cv-super/datos",
@@ -1303,7 +1304,7 @@
             ]
         },
         {
-            "name": "Giulia 2.0 Turbo 147 kW (200 CV) Giulia Aut. 8 vel.",
+            "name": "2.0 Turbo 147 kW (200 CV)  Aut. 8 vel.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/giulia/giulia-20-turbo-200-cv-giulia-aut-8-vel/datos",
@@ -1510,7 +1511,7 @@
             ]
         },
         {
-            "name": "Giulia 2.2 Diesel 132 kW (180 CV) Super",
+            "name": "2.2 Diesel 132 kW (180 CV) Super",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/super/giulia-22-diesel-180-cv-super/datos",
@@ -1746,7 +1747,7 @@
             ]
         },
         {
-            "name": "Giulia 2.2 Diesel 110 kW (150 CV) Super Aut. 8 vel.",
+            "name": "2.2 Diesel 110 kW (150 CV) Super Aut. 8 vel.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/super/giulia-22-diesel-150-cv-aut-8-vel-super/datos",
@@ -1984,7 +1985,7 @@
             ]
         },
         {
-            "name": "Giulia 2.2 Diesel 110 kW (150 CV) Executive",
+            "name": "2.2 Diesel 110 kW (150 CV) Executive",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/executive/giulia-22-diesel-110-kw-150-cv-executive/datos",
@@ -2210,7 +2211,7 @@
             ]
         },
         {
-            "name": "Giulia 2.0 Turbo 148 kW (200 CV) Giulia Aut. 8 vel.",
+            "name": "2.0 Turbo 148 kW (200 CV)  Aut. 8 vel.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/giulia/giulia-20-turbo-148-kw-200-cv-giulia-aut-8-vel/datos",
@@ -2419,7 +2420,7 @@
             ]
         },
         {
-            "name": "Giulia 2.2 Diesel 118 kW (160 CV) Super Aut. 8 vel.",
+            "name": "2.2 Diesel 118 kW (160 CV) Super Aut. 8 vel.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/super/giulia-22-diesel-118-kw-160-cv-super-aut-8-vel/datos",
@@ -2652,7 +2653,7 @@
             ]
         },
         {
-            "name": "Giulia 2.0 Turbo 147 kW (200 CV) Super Aut. 8 vel.",
+            "name": "2.0 Turbo 147 kW (200 CV) Super Aut. 8 vel.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/super/giulia-20-turbo-200-cv-super-aut-8-vel/datos",
@@ -2889,7 +2890,7 @@
             ]
         },
         {
-            "name": "Giulia 2.0 Turbo 148 kW (200 CV) Super Aut. 8 vel.",
+            "name": "2.0 Turbo 148 kW (200 CV) Super Aut. 8 vel.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/super/giulia-20-turbo-148-kw-200-cv-super-aut-8-vel/datos",
@@ -3122,7 +3123,7 @@
             ]
         },
         {
-            "name": "Giulia 2.2 Diesel 132 kW (180 CV) Super Aut. 8 vel.",
+            "name": "2.2 Diesel 132 kW (180 CV) Super Aut. 8 vel.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/super/giulia-22-diesel-180-cv-aut-8-vel-super/datos",
@@ -3360,7 +3361,7 @@
             ]
         },
         {
-            "name": "Giulia 2.2 Diesel 118 kW (160 CV) Executive",
+            "name": "2.2 Diesel 118 kW (160 CV) Executive",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/executive/giulia-22-diesel-118-kw-160-cv-executive/datos",
@@ -3590,7 +3591,7 @@
             ]
         },
         {
-            "name": "Giulia 2.2 Diesel 110 kW (150 CV) Executive Aut. 8 vel.",
+            "name": "2.2 Diesel 110 kW (150 CV) Executive Aut. 8 vel.",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/executive/giulia-22-diesel-110-kw-150-cv-executive-aut-8-vel/datos",
@@ -3818,7 +3819,7 @@
             ]
         },
         {
-            "name": "Giulia 2.0 Turbo 147 kW (200 CV) Executive Aut. 8 vel.",
+            "name": "2.0 Turbo 147 kW (200 CV) Executive Aut. 8 vel.",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/executive/giulia-20-turbo-147-kw-200-cv-executive-aut-8-vel/datos",
@@ -4047,7 +4048,7 @@
             ]
         },
         {
-            "name": "Giulia 2.2 Diesel 118 kW (160 CV) Executive Aut. 8 vel.",
+            "name": "2.2 Diesel 118 kW (160 CV) Executive Aut. 8 vel.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/executive/giulia-22-diesel-118-kw-160-cv-executive-aut-8-vel/datos",
@@ -4278,7 +4279,7 @@
             ]
         },
         {
-            "name": "Giulia 2.2 Diesel 132 kW (180 CV) Executive Aut. 8 vel.",
+            "name": "2.2 Diesel 132 kW (180 CV) Executive Aut. 8 vel.",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/executive/giulia-22-diesel-132-kw-180-cv-executive-aut-8-vel/datos",
@@ -4507,7 +4508,7 @@
             ]
         },
         {
-            "name": "Giulia 2.0 Turbo 148 kW (200 CV) Executive Aut. 8 vel.",
+            "name": "2.0 Turbo 148 kW (200 CV) Executive Aut. 8 vel.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/executive/giulia-20-turbo-148-kw-200-cv-executive-aut-8-vel/datos",
@@ -4738,7 +4739,7 @@
             ]
         },
         {
-            "name": "Giulia 2.2 Diesel 140 kW (190 CV) Executive Aut. 8 vel.",
+            "name": "2.2 Diesel 140 kW (190 CV) Executive Aut. 8 vel.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/executive/giulia-22-diesel-140-kw-190-cv-executive-aut-8-vel/datos",
@@ -4969,7 +4970,7 @@
             ]
         },
         {
-            "name": "Giulia 2.2 Diesel 154 kW (210 CV) Veloce ATX Aut. 8 vel.",
+            "name": "2.2 Diesel 154 kW (210 CV) Veloce ATX Aut. 8 vel.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/veloce/giulia-22-diesel-210-cv-veloce-aut-8-vel/datos",
@@ -5201,7 +5202,7 @@
             ]
         },
         {
-            "name": "Giulia 2.2 Diesel 155 kW (210 CV) Veloce ATX Aut. 8 vel.",
+            "name": "2.2 Diesel 155 kW (210 CV) Veloce ATX Aut. 8 vel.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/veloce/giulia-22-diesel-155-kw-210-cv-veloce-atx-aut-8-vel/datos",
@@ -5434,7 +5435,7 @@
             ]
         },
         {
-            "name": "Giulia 2.0 Turbo 206 kW (280 CV) Veloce ATX Aut. 8 vel.",
+            "name": "2.0 Turbo 206 kW (280 CV) Veloce ATX Aut. 8 vel.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/veloce/giulia-20-turbo-280-cv-veloce-aut-8-vel/datos",
@@ -5665,7 +5666,7 @@
             ]
         },
         {
-            "name": "Giulia 2.0 Turbo 206 kW (280 CV) Veloce ATX Aut. 8 vel.",
+            "name": "2.0 Turbo 206 kW (280 CV) Veloce ATX Aut. 8 vel.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/veloce/giulia-20-turbo-206-kw-280-cv-veloce-atx-aut-8-vel/datos",
@@ -5897,7 +5898,7 @@
             ]
         },
         {
-            "name": "Giulia 2.9 V6 Bi-turbo 375 kW (510 CV) Quadrifoglio",
+            "name": "2.9 V6 Bi-turbo 375 kW (510 CV) Quadrifoglio",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/quadrifoglio/giulia-29-v6-bi-turbo-375-kw-510-cv-quadrifoglio/datos",
@@ -6115,7 +6116,7 @@
             ]
         },
         {
-            "name": "Giulia 2.9 V6 Bi-turbo 375 kW (510 CV) Quadrifoglio Aut. 8 vel.",
+            "name": "2.9 V6 Bi-turbo 375 kW (510 CV) Quadrifoglio Aut. 8 vel.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/quadrifoglio/giulia-29-v6-bi-turbo-510-cv-quadrifoglio-aut-8-vel/datos",
@@ -6336,7 +6337,7 @@
             ]
         },
         {
-            "name": "Giulia 2.9 V6 Bi-turbo 375 kW (510 CV) Quadrifoglio Aut. 8 vel.",
+            "name": "2.9 V6 Bi-turbo 375 kW (510 CV) Quadrifoglio Aut. 8 vel.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/quadrifoglio/giulia-29-v6-bi-turbo-375-kw-510-cv-quadrifoglio-aut-8-vel/datos",
@@ -6564,7 +6565,7 @@
             ]
         },
         {
-            "name": "Giulia 2.9T V6 375 kW (510 CV) Quadrifoglio Aut. 8 vel.",
+            "name": "2.9T V6 375 kW (510 CV) Quadrifoglio Aut. 8 vel.",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/alfa-romeo/giulia/2016/estandar/quadrifoglio/giulia-29-v6-bi-turbo-375-kw-510-cv-quadrifoglio-aut-8-vel2/datos",

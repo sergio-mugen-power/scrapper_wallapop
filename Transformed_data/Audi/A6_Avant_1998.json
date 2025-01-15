@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "A6 Avant",
     "year": "1998",
     "url": "https://www.km77.com/coches/audi/a6/1998/avant",
     "price": "Desde 70.480 €",
     "versions": [
         {
-            "name": "A6 Avant 1.8 T",
+            "name": "1.8 T",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-18-t/datos",
@@ -158,7 +159,7 @@
             ]
         },
         {
-            "name": "A6 Avant 1.8 T tiptronic 5 vel.",
+            "name": "1.8 T tiptronic 5 vel.",
             "start_year": "2000",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-18-t-tiptronic-5-vel/datos",
@@ -311,7 +312,7 @@
             ]
         },
         {
-            "name": "A6 Avant 1.8 T multitronic 6 vel.",
+            "name": "1.8 T multitronic 6 vel.",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-18-t-multitronic-6-vel/datos",
@@ -464,7 +465,7 @@
             ]
         },
         {
-            "name": "A6 Avant 1.8 T",
+            "name": "1.8 T",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-18-t2/datos",
@@ -617,7 +618,7 @@
             ]
         },
         {
-            "name": "A6 Avant 1.8 T quattro",
+            "name": "1.8 T quattro",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-18-t-quattro/datos",
@@ -770,7 +771,7 @@
             ]
         },
         {
-            "name": "A6 Avant 1.9 TDI 130 CV",
+            "name": "1.9 TDI 130 CV",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-19-tdi-130-cv/datos",
@@ -922,7 +923,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.4",
+            "name": "2.4",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-24/datos",
@@ -1075,7 +1076,7 @@
             ]
         },
         {
-            "name": "A6 Avant 1.9 TDI 130 CV 6 vel.",
+            "name": "1.9 TDI 130 CV 6 vel.",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-19-tdi-130-cv-6-vel/datos",
@@ -1227,7 +1228,7 @@
             ]
         },
         {
-            "name": "A6 Avant 1.8 T multitronic 6 vel.",
+            "name": "1.8 T multitronic 6 vel.",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-18-t-multitronic-6-vel2/datos",
@@ -1380,7 +1381,7 @@
             ]
         },
         {
-            "name": "A6 Avant 1.8 T quattro",
+            "name": "1.8 T quattro",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-18-t-quattro2/datos",
@@ -1533,7 +1534,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.4 tiptronic 5 vel.",
+            "name": "2.4 tiptronic 5 vel.",
             "start_year": "2000",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-24-tiptronic-5-vel/datos",
@@ -1689,7 +1690,7 @@
             ]
         },
         {
-            "name": "A6 Avant 1.9 TDI 130 CV multitronic 6 vel.",
+            "name": "1.9 TDI 130 CV multitronic 6 vel.",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-19-tdi-130-cv-multitronic-6-vel/datos",
@@ -1842,7 +1843,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.4",
+            "name": "2.4",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-242/datos",
@@ -1995,7 +1996,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.4 multitronic 6 vel.",
+            "name": "2.4 multitronic 6 vel.",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-24-multitronic-6-vel/datos",
@@ -2148,7 +2149,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.5 TDI 6 vel.",
+            "name": "2.5 TDI 6 vel.",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-25-tdi-6-vel/datos",
@@ -2301,7 +2302,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.5 TDI 155 CV 6 vel.",
+            "name": "2.5 TDI 155 CV 6 vel.",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-25-tdi-155-cv-6-vel/datos",
@@ -2454,7 +2455,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.4 quattro",
+            "name": "2.4 quattro",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-24-quattro/datos",
@@ -2607,7 +2608,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.8",
+            "name": "2.8",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-28/datos",
@@ -2760,7 +2761,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.4 multitronic 6 vel.",
+            "name": "2.4 multitronic 6 vel.",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-24-multitronic-6-vel2/datos",
@@ -2913,7 +2914,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.5 TDI tiptronic 5 vel.",
+            "name": "2.5 TDI tiptronic 5 vel.",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-25-tdi-tiptronic-5-vel/datos",
@@ -3066,7 +3067,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.5 TDI 163 CV 6 vel.",
+            "name": "2.5 TDI 163 CV 6 vel.",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-25-tdi-163-cv-6-vel/datos",
@@ -3219,7 +3220,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.4 quattro",
+            "name": "2.4 quattro",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-24-quattro2/datos",
@@ -3372,7 +3373,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.5 TDI 155 CV multitronic 6 vel.",
+            "name": "2.5 TDI 155 CV multitronic 6 vel.",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-25-tdi-155-cv-multitronic-6-vel/datos",
@@ -3525,7 +3526,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.4 quattro tiptronic 5 vel.",
+            "name": "2.4 quattro tiptronic 5 vel.",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-24-quattro-tiptronic-5-vel/datos",
@@ -3678,7 +3679,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.5 TDI quattro 6 vel.",
+            "name": "2.5 TDI quattro 6 vel.",
             "start_year": "2000",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-25-tdi-quattro-6-vel/datos",
@@ -3831,7 +3832,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.8 tiptronic 5 vel.",
+            "name": "2.8 tiptronic 5 vel.",
             "start_year": "2000",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-28-tiptronic-5-vel/datos",
@@ -3987,7 +3988,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.8 multitronic 6 vel.",
+            "name": "2.8 multitronic 6 vel.",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-28-multitronic-6-vel/datos",
@@ -4140,7 +4141,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.5 TDI 180CV quattro 6 vel.",
+            "name": "2.5 TDI 180CV quattro 6 vel.",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-25-tdi-180cv-quattro-6-vel/datos",
@@ -4293,7 +4294,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.5 TDI 163 CV multitronic 6 vel.",
+            "name": "2.5 TDI 163 CV multitronic 6 vel.",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-25-tdi-163-cv-multitronic-6-vel/datos",
@@ -4446,7 +4447,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.4 quattro tiptronic 5 vel.",
+            "name": "2.4 quattro tiptronic 5 vel.",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-24-quattro-tiptronic-5-vel2/datos",
@@ -4599,7 +4600,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.8 quattro",
+            "name": "2.8 quattro",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-28-quattro/datos",
@@ -4752,7 +4753,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.5 TDI quattro tiptronic 5 vel.",
+            "name": "2.5 TDI quattro tiptronic 5 vel.",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-25-tdi-quattro-tiptronic-5-vel/datos",
@@ -4905,7 +4906,7 @@
             ]
         },
         {
-            "name": "A6 Avant 3.0",
+            "name": "3.0",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-30/datos",
@@ -5059,7 +5060,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.7 T",
+            "name": "2.7 T",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-27-t/datos",
@@ -5215,7 +5216,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.5 TDI 180CV quattro tiptronic 5 vel.",
+            "name": "2.5 TDI 180CV quattro tiptronic 5 vel.",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-25-tdi-180cv-quattro-tiptronic-5-vel/datos",
@@ -5368,7 +5369,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.8 quattro tiptronic 5 vel.",
+            "name": "2.8 quattro tiptronic 5 vel.",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-28-quattro-tiptronic-5-vel/datos",
@@ -5521,7 +5522,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.5 TDI 180 CV quattro 6 vel.",
+            "name": "2.5 TDI 180 CV quattro 6 vel.",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-25-tdi-180-cv-quattro-6-vel/datos",
@@ -5674,7 +5675,7 @@
             ]
         },
         {
-            "name": "A6 Avant 3.0 multitronic 6 vel.",
+            "name": "3.0 multitronic 6 vel.",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-30-multitronic-6-vel/datos",
@@ -5828,7 +5829,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.7 T tiptronic 5 vel.",
+            "name": "2.7 T tiptronic 5 vel.",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-27-t-tiptronic-5-vel/datos",
@@ -5984,7 +5985,7 @@
             ]
         },
         {
-            "name": "A6 Avant 3.0 quattro 6 vel.",
+            "name": "3.0 quattro 6 vel.",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-30-quattro-6-vel/datos",
@@ -6138,7 +6139,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.7 T quattro",
+            "name": "2.7 T quattro",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-27-t-quattro/datos",
@@ -6291,7 +6292,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.5 TDI 180 CV quattro tiptronic 5 vel.",
+            "name": "2.5 TDI 180 CV quattro tiptronic 5 vel.",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-25-tdi-180-cv-quattro-tiptronic-5-vel/datos",
@@ -6444,7 +6445,7 @@
             ]
         },
         {
-            "name": "A6 Avant 3.0 quattro tiptronic 5 vel.",
+            "name": "3.0 quattro tiptronic 5 vel.",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-30-quattro-tiptronic-5-vel/datos",
@@ -6598,7 +6599,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.7 T quattro tiptronic 5 vel.",
+            "name": "2.7 T quattro tiptronic 5 vel.",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-27-t-quattro-tiptronic-5-vel/datos",
@@ -6751,7 +6752,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.7 T quattro 6 vel.",
+            "name": "2.7 T quattro 6 vel.",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-27-t-quattro-6-vel/datos",
@@ -6903,7 +6904,7 @@
             ]
         },
         {
-            "name": "A6 Avant 2.7 T quattro tiptronic 5 vel.",
+            "name": "2.7 T quattro tiptronic 5 vel.",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-27-t-quattro-tiptronic-5-vel2/datos",
@@ -7056,7 +7057,7 @@
             ]
         },
         {
-            "name": "A6 Avant 4.2 quattro tiptronic 5 vel.",
+            "name": "4.2 quattro tiptronic 5 vel.",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-42-quattro-tiptronic-5-vel/datos",
@@ -7209,7 +7210,7 @@
             ]
         },
         {
-            "name": "A6 Avant 4.2 quattro tiptronic 5 vel.",
+            "name": "4.2 quattro tiptronic 5 vel.",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/a6/1998/avant/estandar/a6-avant-42-quattro-tiptronic-5-vel2/datos",

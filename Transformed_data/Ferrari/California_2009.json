@@ -1,11 +1,12 @@
 {
+    "brand": "Ferrari",
     "name": "California",
     "year": "2009",
     "url": "https://www.km77.com/coches/ferrari/california/2009/estandar",
     "price": "",
     "versions": [
         {
-            "name": "California",
+            "name": "",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/ferrari/california/2009/estandar/estandar/california/datos",
@@ -212,7 +213,7 @@
             ]
         },
         {
-            "name": "California",
+            "name": "",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ferrari/california/2009/estandar/estandar/california2/datos",
@@ -435,7 +436,7 @@
             ]
         },
         {
-            "name": "California",
+            "name": "",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/ferrari/california/2009/estandar/estandar/california3/datos",

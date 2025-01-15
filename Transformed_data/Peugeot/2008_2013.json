@@ -1,11 +1,12 @@
 {
+    "brand": "Peugeot",
     "name": "2008",
     "year": "2013",
     "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar",
     "price": "Desde 24.190 €",
     "versions": [
         {
-            "name": "2008 Access 1.2 VTi 82",
+            "name": "Access 1.2 VTi 82",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/access/2008-access-12-vti-822/datos",
@@ -176,7 +177,7 @@
             ]
         },
         {
-            "name": "2008 Access 1.2 PureTech 82",
+            "name": "Access 1.2 PureTech 82",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/access/2008-access-12-puretech-82/datos",
@@ -347,7 +348,7 @@
             ]
         },
         {
-            "name": "2008 Active 1.2 VTi 82",
+            "name": "Active 1.2 VTi 82",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/active/2008-active-12-vti-822/datos",
@@ -528,7 +529,7 @@
             ]
         },
         {
-            "name": "2008 Active 1.2 PureTech 82",
+            "name": "Active 1.2 PureTech 82",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/active/2008-active-12-puretech-82/datos",
@@ -709,7 +710,7 @@
             ]
         },
         {
-            "name": "2008 Active 1.2 e-VTi 82 ETG5",
+            "name": "Active 1.2 e-VTi 82 ETG5",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/active/2008-active-12-e-vti-82-cmp-blue-lion/datos",
@@ -888,7 +889,7 @@
             ]
         },
         {
-            "name": "2008 Style 1.2 PureTech 82",
+            "name": "Style 1.2 PureTech 82",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/style/2008-style-12-puretech-82/datos",
@@ -1067,7 +1068,7 @@
             ]
         },
         {
-            "name": "2008 Active 1.2 PureTech 82 ETG5",
+            "name": "Active 1.2 PureTech 82 ETG5",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/active/2008-active-12-puretech-82-etg5/datos",
@@ -1246,7 +1247,7 @@
             ]
         },
         {
-            "name": "2008 Active 1.2 PureTech 110",
+            "name": "Active 1.2 PureTech 110",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/active/2008-active-12-puretech-110/datos",
@@ -1426,7 +1427,7 @@
             ]
         },
         {
-            "name": "2008 Active 1.6 e-HDi 92",
+            "name": "Active 1.6 e-HDi 92",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/active/2008-active-16-e-hdi-92/datos",
@@ -1609,7 +1610,7 @@
             ]
         },
         {
-            "name": "2008 Active 1.6 e-HDi 92 CMP",
+            "name": "Active 1.6 e-HDi 92 CMP",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/active/2008-active-16-e-hdi-92-cmp-blue-lion/datos",
@@ -1789,7 +1790,7 @@
             ]
         },
         {
-            "name": "2008 Active 1.6 e-HDi 92",
+            "name": "Active 1.6 e-HDi 92",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/active/2008-active-16-e-hdi-922/datos",
@@ -1971,7 +1972,7 @@
             ]
         },
         {
-            "name": "2008 Style 1.2 PureTech 110",
+            "name": "Style 1.2 PureTech 110",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/style/2008-style-12-puretech-110/datos",
@@ -2150,7 +2151,7 @@
             ]
         },
         {
-            "name": "2008 Active 1.6 BlueHDi 100",
+            "name": "Active 1.6 BlueHDi 100",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/active/2008-active-16-bluehdi-100/datos",
@@ -2332,7 +2333,7 @@
             ]
         },
         {
-            "name": "2008 Active 1.6 e-HDi 92 ETG6",
+            "name": "Active 1.6 e-HDi 92 ETG6",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/active/2008-active-16-e-hdi-92-etg6/datos",
@@ -2512,7 +2513,7 @@
             ]
         },
         {
-            "name": "2008 Active 1.6 e-HDi 92 ETG6",
+            "name": "Active 1.6 e-HDi 92 ETG6",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/active/2008-active-16-e-hdi-92-etg62/datos",
@@ -2692,7 +2693,7 @@
             ]
         },
         {
-            "name": "2008 Style 1.6 BlueHDi 100",
+            "name": "Style 1.6 BlueHDi 100",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/style/2008-active-16-bluehdi-1003/datos",
@@ -2873,7 +2874,7 @@
             ]
         },
         {
-            "name": "2008 Allure 1.6 VTi 120",
+            "name": "Allure 1.6 VTi 120",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/allure/2008-allure-16-vti-120/datos",
@@ -3063,7 +3064,7 @@
             ]
         },
         {
-            "name": "2008 Allure 1.2 PureTech 110",
+            "name": "Allure 1.2 PureTech 110",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/allure/2008-allure-12-puretech-110/datos",
@@ -3253,7 +3254,7 @@
             ]
         },
         {
-            "name": "2008 Allure 1.6 e-HDi 92",
+            "name": "Allure 1.6 e-HDi 92",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/allure/2008-allure-16-e-hdi-922/datos",
@@ -3445,7 +3446,7 @@
             ]
         },
         {
-            "name": "2008 Allure 1.2 PureTech 130",
+            "name": "Allure 1.2 PureTech 130",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/allure/2008-allure-12-puretech-130/datos",
@@ -3636,7 +3637,7 @@
             ]
         },
         {
-            "name": "2008 Allure 1.6 e-HDi 92",
+            "name": "Allure 1.6 e-HDi 92",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/allure/2008-allure-16-e-hdi-923/datos",
@@ -3828,7 +3829,7 @@
             ]
         },
         {
-            "name": "2008 Allure 1.6 BlueHDi 100",
+            "name": "Allure 1.6 BlueHDi 100",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/allure/2008-active-16-bluehdi-1002/datos",
@@ -4020,7 +4021,7 @@
             ]
         },
         {
-            "name": "2008 Crossway 1.2 PureTech 110",
+            "name": "Crossway 1.2 PureTech 110",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/crossway/2008-crossway-12-puretech-110/datos",
@@ -4207,7 +4208,7 @@
             ]
         },
         {
-            "name": "2008 Allure 1.6 e-HDi 115",
+            "name": "Allure 1.6 e-HDi 115",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/allure/2008-allure-16-e-hdi-115/datos",
@@ -4399,7 +4400,7 @@
             ]
         },
         {
-            "name": "2008 Allure 1.6 BlueHDi 120",
+            "name": "Allure 1.6 BlueHDi 120",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/allure/2008-allure-16-bluehdi-120/datos",
@@ -4591,7 +4592,7 @@
             ]
         },
         {
-            "name": "2008 Crossway 1.2 PureTech 130",
+            "name": "Crossway 1.2 PureTech 130",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/crossway/2008-crossway-12-puretech-130/datos",
@@ -4779,7 +4780,7 @@
             ]
         },
         {
-            "name": "2008 Crossway 1.6 BlueHDi 100",
+            "name": "Crossway 1.6 BlueHDi 100",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/crossway/2008-crossway-16-bluehdi-100/datos",
@@ -4968,7 +4969,7 @@
             ]
         },
         {
-            "name": "2008 Crossway 1.6 BlueHDi 120",
+            "name": "Crossway 1.6 BlueHDi 120",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/2008/2013/estandar/crossway/2008-crossway-16-bluehdi-120/datos",

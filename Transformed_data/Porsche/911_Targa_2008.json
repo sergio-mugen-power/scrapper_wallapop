@@ -1,11 +1,12 @@
 {
+    "brand": "Porsche",
     "name": "911 Targa",
     "year": "2008",
     "url": "https://www.km77.com/coches/porsche/911/2008/targa",
     "price": "Desde 223.486 €",
     "versions": [
         {
-            "name": "911 Targa 4",
+            "name": "4",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/porsche/911/2008/targa/4/911-targa-4/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "911 Targa 4",
+            "name": "4",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/911/2008/targa/4/911-targa-42/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "911 Targa 4 PDK",
+            "name": "4 PDK",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/porsche/911/2008/targa/4/911-targa-4-pdk/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "911 Targa 4 PDK",
+            "name": "4 PDK",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/911/2008/targa/4/911-targa-4-pdk2/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "911 Targa 4S",
+            "name": "4S",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/porsche/911/2008/targa/4s/911-targa-4s/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "911 Targa 4S PDK",
+            "name": "4S PDK",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/porsche/911/2008/targa/4s/911-targa-4s-pdk/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "911 Targa 4S",
+            "name": "4S",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/911/2008/targa/4s/911-targa-4s2/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "911 Targa 4S PDK",
+            "name": "4S PDK",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/911/2008/targa/4s/911-targa-4s-pdk2/datos",

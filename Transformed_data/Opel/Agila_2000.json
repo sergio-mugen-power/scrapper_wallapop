@@ -1,11 +1,12 @@
 {
+    "brand": "Opel",
     "name": "Agila",
     "year": "2000",
     "url": "https://www.km77.com/coches/opel/agila/2000/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Agila 1.0 12V",
+            "name": "1.0 12V",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/opel/agila/2000/estandar/estandar/agila-10-12v/datos",
@@ -141,7 +142,7 @@
             ]
         },
         {
-            "name": "Agila 1.2 16V",
+            "name": "1.2 16V",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/opel/agila/2000/estandar/estandar/agila-12-16v/datos",
@@ -277,7 +278,7 @@
             ]
         },
         {
-            "name": "Agila 1.2 16V Edition",
+            "name": "1.2 16V Edition",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/opel/agila/2000/estandar/edition/agila-12-16v-edition/datos",

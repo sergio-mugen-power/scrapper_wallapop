@@ -1,11 +1,12 @@
 {
+    "brand": "Maserati",
     "name": "Quattroporte",
     "year": "2004",
     "url": "https://www.km77.com/coches/maserati/quattroporte/2004/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Quattroporte",
+            "name": "",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2004/estandar/estandar/quattroporte/datos",
@@ -215,7 +216,7 @@
             ]
         },
         {
-            "name": "Quattroporte Automatic",
+            "name": "Automatic",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2004/estandar/estandar/quattroporte-automatic/datos",
@@ -428,7 +429,7 @@
             ]
         },
         {
-            "name": "Quattroporte Duo Select",
+            "name": "Duo Select",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2004/estandar/estandar/quattroporte-duo-select/datos",
@@ -642,7 +643,7 @@
             ]
         },
         {
-            "name": "Quattroporte Automatic",
+            "name": "Automatic",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2004/estandar/estandar/quattroporte-automatic2/datos",
@@ -856,7 +857,7 @@
             ]
         },
         {
-            "name": "Quattroporte Duo Select",
+            "name": "Duo Select",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2004/estandar/estandar/quattroporte-duo-select2/datos",
@@ -1071,7 +1072,7 @@
             ]
         },
         {
-            "name": "Quattroporte Sport GT",
+            "name": "Sport GT",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2004/estandar/sport-gt/quattroporte-sport-gt/datos",
@@ -1279,7 +1280,7 @@
             ]
         },
         {
-            "name": "Quattroporte Automatic Sport GT",
+            "name": "Automatic Sport GT",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2004/estandar/sport-gt/quattroporte-automatic-sport-gt/datos",
@@ -1494,7 +1495,7 @@
             ]
         },
         {
-            "name": "Quattroporte Duo Select Sport GT",
+            "name": "Duo Select Sport GT",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2004/estandar/sport-gt/quattroporte-duo-select-sport-gt/datos",
@@ -1709,7 +1710,7 @@
             ]
         },
         {
-            "name": "Quattroporte Executive GT",
+            "name": "Executive GT",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2004/estandar/executive-gt/quattroporte-executive-gt/datos",
@@ -1915,7 +1916,7 @@
             ]
         },
         {
-            "name": "Quattroporte Automatic Sport GT",
+            "name": "Automatic Sport GT",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2004/estandar/sport-gt/quattroporte-automatic-sport-gt2/datos",
@@ -2131,7 +2132,7 @@
             ]
         },
         {
-            "name": "Quattroporte Duo Select Sport GT",
+            "name": "Duo Select Sport GT",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2004/estandar/sport-gt/quattroporte-duo-select-sport-gt2/datos",
@@ -2347,7 +2348,7 @@
             ]
         },
         {
-            "name": "Quattroporte Automatic Executive GT",
+            "name": "Automatic Executive GT",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2004/estandar/executive-gt/quattroporte-automatic-executive-gt/datos",
@@ -2558,7 +2559,7 @@
             ]
         },
         {
-            "name": "Quattroporte Duo Select Executive GT",
+            "name": "Duo Select Executive GT",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2004/estandar/executive-gt/quattroporte-duo-select-executive-gt/datos",
@@ -2770,7 +2771,7 @@
             ]
         },
         {
-            "name": "Quattroporte Automatic Executive GT",
+            "name": "Automatic Executive GT",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2004/estandar/executive-gt/quattroporte-automatic-executive-gt2/datos",
@@ -2982,7 +2983,7 @@
             ]
         },
         {
-            "name": "Quattroporte Duo Select Executive GT",
+            "name": "Duo Select Executive GT",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2004/estandar/executive-gt/quattroporte-duo-select-executive-gt2/datos",
@@ -3195,7 +3196,7 @@
             ]
         },
         {
-            "name": "Quattroporte Automatic Sport GT S",
+            "name": "Automatic Sport GT S",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2004/estandar/sport-gt-s/quattroporte-automatic-sport-gt-s/datos",
@@ -3408,7 +3409,7 @@
             ]
         },
         {
-            "name": "Quattroporte Automatic Collezione Cento",
+            "name": "Automatic Collezione Cento",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2004/estandar/collezione-centro/quattroporte-automatic-collezione-cento/datos",

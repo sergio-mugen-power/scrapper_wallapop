@@ -1,11 +1,12 @@
 {
+    "brand": "Honda",
     "name": "S2000",
     "year": "1999",
     "url": "https://www.km77.com/coches/honda/s2000/1999/estandar",
     "price": "",
     "versions": [
         {
-            "name": "S2000 2.0 VTEC",
+            "name": "2.0 VTEC",
             "start_year": "1999",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/honda/s2000/1999/estandar/estandar/s2000-20-vtec/datos",
@@ -162,7 +163,7 @@
             ]
         },
         {
-            "name": "S2000 2.0 VTEC",
+            "name": "2.0 VTEC",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/honda/s2000/1999/estandar/estandar/s2000-20-vtec2/datos",
@@ -321,7 +322,7 @@
             ]
         },
         {
-            "name": "S2000 2.0 VTEC",
+            "name": "2.0 VTEC",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/honda/s2000/1999/estandar/estandar/s2000-20-vtec3/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "X7",
     "year": "2019",
     "url": "https://www.km77.com/coches/bmw/x7/2019/estandar",
     "price": "Desde 111.550 €",
     "versions": [
         {
-            "name": "X7 xDrive30d",
+            "name": "xDrive30d",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x7/2019/estandar/estandar/x7-xdrive30d/datos",
@@ -322,7 +323,7 @@
             ]
         },
         {
-            "name": "X7 xDrive40i",
+            "name": "xDrive40i",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/bmw/x7/2019/estandar/estandar/x7-xdrive40i/datos",
@@ -639,7 +640,7 @@
             ]
         },
         {
-            "name": "X7 xDrive40i",
+            "name": "xDrive40i",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/bmw/x7/2019/estandar/estandar/x7-xdrive40i2/datos",
@@ -967,7 +968,7 @@
             ]
         },
         {
-            "name": "X7 xDrive40d",
+            "name": "xDrive40d",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/bmw/x7/2019/estandar/estandar/x7-xdrive40d/datos",
@@ -1295,7 +1296,7 @@
             ]
         },
         {
-            "name": "X7 M50d",
+            "name": "M50d",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/bmw/x7/2019/estandar/m-performance/x7-m50d/datos",
@@ -1614,7 +1615,7 @@
             ]
         },
         {
-            "name": "X7 M50i",
+            "name": "M50i",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/bmw/x7/2019/estandar/m-performance/x7-m50i/datos",

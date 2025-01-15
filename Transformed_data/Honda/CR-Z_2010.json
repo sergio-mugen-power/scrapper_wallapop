@@ -1,11 +1,12 @@
 {
+    "brand": "Honda",
     "name": "CR-Z",
     "year": "2010",
     "url": "https://www.km77.com/coches/honda/cr-z/2010/estandar",
     "price": "",
     "versions": [
         {
-            "name": "CR-Z 1.5 i-VTEC IMA Sport",
+            "name": "1.5 i-VTEC IMA Sport",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/honda/cr-z/2010/estandar/sport/cr-z-15-i-vtec-ima-sport/datos",
@@ -205,7 +206,7 @@
             ]
         },
         {
-            "name": "CR-Z 1.5 i-VTEC IMA Sport",
+            "name": "1.5 i-VTEC IMA Sport",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/honda/cr-z/2010/estandar/sport/cr-z-15-i-vtec-ima-sport2/datos",
@@ -406,7 +407,7 @@
             ]
         },
         {
-            "name": "CR-Z 1.5 i-VTEC IMA GT",
+            "name": "1.5 i-VTEC IMA GT",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/honda/cr-z/2010/estandar/gt/cr-z-15-i-vtec-ima-gt/datos",
@@ -610,7 +611,7 @@
             ]
         },
         {
-            "name": "CR-Z 1.5 i-VTEC IMA GT",
+            "name": "1.5 i-VTEC IMA GT",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/honda/cr-z/2010/estandar/gt/cr-z-15-i-vtec-ima-gt2/datos",
@@ -815,7 +816,7 @@
             ]
         },
         {
-            "name": "CR-Z 1.5 i-VTEC IMA GT Plus",
+            "name": "1.5 i-VTEC IMA GT Plus",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/honda/cr-z/2010/estandar/gt-plus/cr-z-15-i-vtec-ima-gt-plus/datos",
@@ -1019,7 +1020,7 @@
             ]
         },
         {
-            "name": "CR-Z 1.5 i-VTEC IMA GT Plus",
+            "name": "1.5 i-VTEC IMA GT Plus",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/honda/cr-z/2010/estandar/gt-plus/cr-z-15-i-vtec-ima-gt-plus2/datos",
@@ -1224,7 +1225,7 @@
             ]
         },
         {
-            "name": "CR-Z 1.5 i-VTEC IMA S",
+            "name": "1.5 i-VTEC IMA S",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/honda/cr-z/2010/estandar/s/cr-z-15-i-vtec-ima-s/datos",
@@ -1417,7 +1418,7 @@
             ]
         },
         {
-            "name": "CR-Z Sport",
+            "name": "Sport",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/honda/cr-z/2010/estandar/sport/cr-z-sport/datos",
@@ -1617,7 +1618,7 @@
             ]
         },
         {
-            "name": "CR-Z GT",
+            "name": "GT",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/honda/cr-z/2010/estandar/gt/cr-z-gt/datos",
@@ -1821,7 +1822,7 @@
             ]
         },
         {
-            "name": "CR-Z GT Plus",
+            "name": "GT Plus",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/honda/cr-z/2010/estandar/gt-plus/cr-z-gt-plus/datos",

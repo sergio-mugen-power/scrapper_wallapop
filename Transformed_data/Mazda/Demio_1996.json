@@ -1,11 +1,12 @@
 {
+    "brand": "Mazda",
     "name": "Demio",
     "year": "1996",
     "url": "https://www.km77.com/coches/mazda/demio/1996/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Demio Exclusive 1.3 16V",
+            "name": "Exclusive 1.3 16V",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/mazda/demio/1996/estandar/exclusive/demio-exclusive-13-16v/datos",
@@ -128,7 +129,7 @@
             ]
         },
         {
-            "name": "Demio Exclusive 1.5 16V",
+            "name": "Exclusive 1.5 16V",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/mazda/demio/1996/estandar/exclusive/demio-exclusive-15-16v/datos",
@@ -251,7 +252,7 @@
             ]
         },
         {
-            "name": "Demio 1.3 L",
+            "name": "1.3 L",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/mazda/demio/1996/estandar/l/demio-13-l/datos",
@@ -370,7 +371,7 @@
             ]
         },
         {
-            "name": "Demio Active 1.3 16V",
+            "name": "Active 1.3 16V",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/mazda/demio/1996/estandar/active/demio-active-13-16v/datos",
@@ -496,7 +497,7 @@
             ]
         },
         {
-            "name": "Demio 1.5 L",
+            "name": "1.5 L",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/mazda/demio/1996/estandar/l/demio-15-l/datos",
@@ -615,7 +616,7 @@
             ]
         },
         {
-            "name": "Demio Active 1.5 16V",
+            "name": "Active 1.5 16V",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/mazda/demio/1996/estandar/active/demio-active-15-16v/datos",
@@ -741,7 +742,7 @@
             ]
         },
         {
-            "name": "Demio Sportive 1.5 16V",
+            "name": "Sportive 1.5 16V",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/mazda/demio/1996/estandar/sportive/demio-sportive-15-16v/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Tesla",
     "name": "Model X",
     "year": "2016",
     "url": "https://www.km77.com/coches/tesla/model-x/2016/estandar",
     "price": "Desde 99.990 €",
     "versions": [
         {
-            "name": "Model X Autonomía",
+            "name": "Autonomía",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/tesla/model-x/2016/estandar/estandar/model-x-autonomia-estandar/datos",
@@ -238,7 +239,7 @@
             ]
         },
         {
-            "name": "Model X Gran autonomía",
+            "name": "Gran autonomía",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/tesla/model-x/2016/estandar/estandar/model-x-gran-autonomia/datos",
@@ -475,7 +476,7 @@
             ]
         },
         {
-            "name": "Model X Autonomía 7 asientos",
+            "name": "Autonomía 7 asientos",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/tesla/model-x/2016/estandar/estandar/model-x-autonomia-estandar-7-asientos/datos",
@@ -707,7 +708,7 @@
             ]
         },
         {
-            "name": "Model X Gran autonomía 7 asientos",
+            "name": "Gran autonomía 7 asientos",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/tesla/model-x/2016/estandar/estandar/model-x-gran-autonomia-7-asientos/datos",
@@ -942,7 +943,7 @@
             ]
         },
         {
-            "name": "Model X Gran autonomía plus",
+            "name": "Gran autonomía plus",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/tesla/model-x/2016/estandar/estandar/model-x-gran-autonomia-plus/datos",
@@ -1190,7 +1191,7 @@
             ]
         },
         {
-            "name": "Model X 75D 5 plazas",
+            "name": "75D 5 plazas",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/tesla/model-x/2016/estandar/estandar/model-x-75d-5-plazas/datos",
@@ -1423,7 +1424,7 @@
             ]
         },
         {
-            "name": "Model X Gran autonomía plus 7 asientos",
+            "name": "Gran autonomía plus 7 asientos",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/tesla/model-x/2016/estandar/estandar/model-x-gran-autonomia-plus-7-asientos/datos",
@@ -1670,7 +1671,7 @@
             ]
         },
         {
-            "name": "Model X 75D 7 plazas",
+            "name": "75D 7 plazas",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/tesla/model-x/2016/estandar/estandar/model-x-75d-7-plazas/datos",
@@ -1900,7 +1901,7 @@
             ]
         },
         {
-            "name": "Model X Performance",
+            "name": "Performance",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/tesla/model-x/2016/estandar/estandar/model-x-performance/datos",
@@ -2138,7 +2139,7 @@
             ]
         },
         {
-            "name": "Model X 90D 5 plazas",
+            "name": "90D 5 plazas",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/tesla/model-x/2016/estandar/estandar/model-x-90d-5-plazas/datos",
@@ -2375,7 +2376,7 @@
             ]
         },
         {
-            "name": "Model X Performance 7 asientos",
+            "name": "Performance 7 asientos",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/tesla/model-x/2016/estandar/estandar/model-x-performance-7-asientos/datos",
@@ -2611,7 +2612,7 @@
             ]
         },
         {
-            "name": "Model X Performance",
+            "name": "Performance",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/tesla/model-x/2016/estandar/estandar/model-x-performance2/datos",
@@ -2859,7 +2860,7 @@
             ]
         },
         {
-            "name": "Model X 90D 7 plazas",
+            "name": "90D 7 plazas",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/tesla/model-x/2016/estandar/estandar/model-x-90d-7-plazas/datos",
@@ -3093,7 +3094,7 @@
             ]
         },
         {
-            "name": "Model X Performance 7 asientos",
+            "name": "Performance 7 asientos",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/tesla/model-x/2016/estandar/estandar/model-x-performance-7-asientos2/datos",
@@ -3340,7 +3341,7 @@
             ]
         },
         {
-            "name": "Model X 100D 5 plazas",
+            "name": "100D 5 plazas",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/tesla/model-x/2016/estandar/estandar/model-x-100d-5-plazas/datos",
@@ -3577,7 +3578,7 @@
             ]
         },
         {
-            "name": "Model X 100D 7 plazas",
+            "name": "100D 7 plazas",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/tesla/model-x/2016/estandar/estandar/model-x-100d-7-plazas/datos",
@@ -3809,7 +3810,7 @@
             ]
         },
         {
-            "name": "Model X P100D 5 plazas",
+            "name": "P100D 5 plazas",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/tesla/model-x/2016/estandar/estandar/model-x-p100d-5-plazas/datos",
@@ -4047,7 +4048,7 @@
             ]
         },
         {
-            "name": "Model X P100D 7 plazas",
+            "name": "P100D 7 plazas",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/tesla/model-x/2016/estandar/estandar/model-x-p100d-7-plazas/datos",

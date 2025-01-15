@@ -1,11 +1,12 @@
 {
+    "brand": "Volvo",
     "name": "V50",
     "year": "2004",
     "url": "https://www.km77.com/coches/volvo/v50/2004/estandar",
     "price": "",
     "versions": [
         {
-            "name": "V50 1.6 Kinetic",
+            "name": "1.6 Kinetic",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/kinetic/v50-16-kinetic/datos",
@@ -25,7 +26,7 @@
             ]
         },
         {
-            "name": "V50 1.8 Kinetic",
+            "name": "1.8 Kinetic",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/kinetic/v50-18-kinetic/datos",
@@ -45,7 +46,7 @@
             ]
         },
         {
-            "name": "V50 1.6 Momentum",
+            "name": "1.6 Momentum",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/momentum/v50-16-momentum/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "V50 1.8 Flexifuel Kinetic",
+            "name": "1.8 Flexifuel Kinetic",
             "start_year": "2007",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/kinetic/v50-18-flexifuel-kinetic/datos",
@@ -85,7 +86,7 @@
             ]
         },
         {
-            "name": "V50 1.6D Kinetic",
+            "name": "1.6D Kinetic",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/kinetic/v50-16d-kinetic/datos",
@@ -105,7 +106,7 @@
             ]
         },
         {
-            "name": "V50 2.0 Kinetic",
+            "name": "2.0 Kinetic",
             "start_year": "2007",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/kinetic/v50-20-kinetic/datos",
@@ -125,7 +126,7 @@
             ]
         },
         {
-            "name": "V50 2.4 Kinetic",
+            "name": "2.4 Kinetic",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/kinetic/v50-24-kinetic/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "V50 1.8 Momentum",
+            "name": "1.8 Momentum",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/momentum/v50-18-momentum/datos",
@@ -165,7 +166,7 @@
             ]
         },
         {
-            "name": "V50 1.8 Flexifuel Momentum",
+            "name": "1.8 Flexifuel Momentum",
             "start_year": "2007",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/momentum/v50-18-flexifuel-momentum/datos",
@@ -185,7 +186,7 @@
             ]
         },
         {
-            "name": "V50 2.0D Kinetic",
+            "name": "2.0D Kinetic",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/kinetic/v50-20d-kinetic/datos",
@@ -205,7 +206,7 @@
             ]
         },
         {
-            "name": "V50 1.6 Summum",
+            "name": "1.6 Summum",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/summum/v50-16-summum/datos",
@@ -225,7 +226,7 @@
             ]
         },
         {
-            "name": "V50 1.6D Momentum",
+            "name": "1.6D Momentum",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/momentum/v50-16d-momentum/datos",
@@ -245,7 +246,7 @@
             ]
         },
         {
-            "name": "V50 2.4 Kinetic Aut.",
+            "name": "2.4 Kinetic Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/kinetic/v50-24-kinetic-aut/datos",
@@ -265,7 +266,7 @@
             ]
         },
         {
-            "name": "V50 2.0 Momentum",
+            "name": "2.0 Momentum",
             "start_year": "2007",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/momentum/v50-20-momentum/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "V50 2.4 Momentum",
+            "name": "2.4 Momentum",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/momentum/v50-24-momentum/datos",
@@ -305,7 +306,7 @@
             ]
         },
         {
-            "name": "V50 2.4i Kinetic",
+            "name": "2.4i Kinetic",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/kinetic/v50-24i-kinetic/datos",
@@ -325,7 +326,7 @@
             ]
         },
         {
-            "name": "V50 1.8 Summum",
+            "name": "1.8 Summum",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/summum/v50-18-summum/datos",
@@ -345,7 +346,7 @@
             ]
         },
         {
-            "name": "V50 2.0D Momentum",
+            "name": "2.0D Momentum",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/momentum/v50-20d-momentum/datos",
@@ -365,7 +366,7 @@
             ]
         },
         {
-            "name": "V50 1.8 Flexifuel Summum",
+            "name": "1.8 Flexifuel Summum",
             "start_year": "2007",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/summum/v50-18-flexifuel-summum/datos",
@@ -385,7 +386,7 @@
             ]
         },
         {
-            "name": "V50 1.6D Summum",
+            "name": "1.6D Summum",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/summum/v50-16d-summum/datos",
@@ -405,7 +406,7 @@
             ]
         },
         {
-            "name": "V50 2.4 Momentum Aut.",
+            "name": "2.4 Momentum Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/momentum/v50-24-momentum-aut/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "V50 2.0 Summum",
+            "name": "2.0 Summum",
             "start_year": "2007",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/summum/v50-20-summum/datos",
@@ -445,7 +446,7 @@
             ]
         },
         {
-            "name": "V50 2.4 Summum",
+            "name": "2.4 Summum",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/summum/v50-24-summum/datos",
@@ -465,7 +466,7 @@
             ]
         },
         {
-            "name": "V50 2.4i Kinetic Aut.",
+            "name": "2.4i Kinetic Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/kinetic/v50-24i-kinetic-aut/datos",
@@ -485,7 +486,7 @@
             ]
         },
         {
-            "name": "V50 2.4i Momentum",
+            "name": "2.4i Momentum",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/momentum/v50-24i-momentum/datos",
@@ -505,7 +506,7 @@
             ]
         },
         {
-            "name": "V50 D5 Kinetic Aut.",
+            "name": "D5 Kinetic Aut.",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/kinetic/v50-d5-kinetic-aut/datos",
@@ -525,7 +526,7 @@
             ]
         },
         {
-            "name": "V50 2.0D Summum",
+            "name": "2.0D Summum",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/summum/v50-20d-summum/datos",
@@ -545,7 +546,7 @@
             ]
         },
         {
-            "name": "V50 2.4 Summum Aut.",
+            "name": "2.4 Summum Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/summum/v50-24-summum-aut/datos",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "name": "V50 2.4i Momentum Aut.",
+            "name": "2.4i Momentum Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/momentum/v50-24i-momentum-aut/datos",
@@ -585,7 +586,7 @@
             ]
         },
         {
-            "name": "V50 D5 Momentum Aut.",
+            "name": "D5 Momentum Aut.",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/momentum/v50-d5-momentum-aut/datos",
@@ -605,7 +606,7 @@
             ]
         },
         {
-            "name": "V50 2.4i Summum",
+            "name": "2.4i Summum",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/summum/v50-24i-summum/datos",
@@ -625,7 +626,7 @@
             ]
         },
         {
-            "name": "V50 T5 Momentum",
+            "name": "T5 Momentum",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/momentum/v50-t5-momentum/datos",
@@ -645,7 +646,7 @@
             ]
         },
         {
-            "name": "V50 2.4i Summum Aut.",
+            "name": "2.4i Summum Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/summum/v50-24i-summum-aut/datos",
@@ -665,7 +666,7 @@
             ]
         },
         {
-            "name": "V50 D5 Summum Aut.",
+            "name": "D5 Summum Aut.",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/summum/v50-d5-summum-aut/datos",
@@ -685,7 +686,7 @@
             ]
         },
         {
-            "name": "V50 T5 Momentum Aut.",
+            "name": "T5 Momentum Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/momentum/v50-t5-momentum-aut/datos",
@@ -705,7 +706,7 @@
             ]
         },
         {
-            "name": "V50 T5 AWD Momentum",
+            "name": "T5 AWD Momentum",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/momentum/v50-t5-awd-momentum/datos",
@@ -725,7 +726,7 @@
             ]
         },
         {
-            "name": "V50 T5 Summum",
+            "name": "T5 Summum",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/summum/v50-t5-summum/datos",
@@ -745,7 +746,7 @@
             ]
         },
         {
-            "name": "V50 T5 AWD Momentum Aut.",
+            "name": "T5 AWD Momentum Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/momentum/v50-t5-awd-momentum-aut/datos",
@@ -765,7 +766,7 @@
             ]
         },
         {
-            "name": "V50 T5 Summum Aut.",
+            "name": "T5 Summum Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/summum/v50-t5-summum-aut/datos",
@@ -785,7 +786,7 @@
             ]
         },
         {
-            "name": "V50 T5 AWD Summum",
+            "name": "T5 AWD Summum",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/summum/v50-t5-awd-summum/datos",
@@ -805,7 +806,7 @@
             ]
         },
         {
-            "name": "V50 T5 AWD Summum Aut.",
+            "name": "T5 AWD Summum Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v50/2004/estandar/summum/v50-t5-awd-summum-aut/datos",

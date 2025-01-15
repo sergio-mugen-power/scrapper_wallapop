@@ -1,11 +1,12 @@
 {
+    "brand": "Chevrolet",
     "name": "Corvette Coupé",
     "year": "1997",
     "url": "https://www.km77.com/coches/chevrolet/corvette/1997/coupe",
     "price": "",
     "versions": [
         {
-            "name": "Corvette Coupé SA Aut.",
+            "name": "SA Aut.",
             "start_year": "1997",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/chevrolet/corvette/1997/coupe/sa/corvette-coupe-sa-aut/datos",
@@ -140,7 +141,7 @@
             ]
         },
         {
-            "name": "Corvette Coupé SA",
+            "name": "SA",
             "start_year": "1997",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/chevrolet/corvette/1997/coupe/sa/corvette-coupe-sa/datos",
@@ -273,7 +274,7 @@
             ]
         },
         {
-            "name": "Corvette Coupé Aut.",
+            "name": "Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chevrolet/corvette/1997/coupe/estandar/corvette-coupe-aut/datos",
@@ -409,7 +410,7 @@
             ]
         },
         {
-            "name": "Corvette Coupé Manual 6 vel.",
+            "name": "Manual 6 vel.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chevrolet/corvette/1997/coupe/estandar/corvette-coupe-manual-6-vel/datos",
@@ -543,7 +544,7 @@
             ]
         },
         {
-            "name": "Corvette Coupé 50 Aniversario Aut.",
+            "name": "50 Aniversario Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chevrolet/corvette/1997/coupe/50-aniversario/corvette-coupe-50-aniversario-aut/datos",
@@ -678,7 +679,7 @@
             ]
         },
         {
-            "name": "Corvette Coupé 50 Aniversario Manual 6 vel.",
+            "name": "50 Aniversario Manual 6 vel.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chevrolet/corvette/1997/coupe/50-aniversario/corvette-coupe-50-aniversario-manual-6-vel/datos",

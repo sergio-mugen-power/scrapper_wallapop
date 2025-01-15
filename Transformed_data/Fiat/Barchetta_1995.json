@@ -1,11 +1,12 @@
 {
+    "brand": "Fiat",
     "name": "Barchetta",
     "year": "1995",
     "url": "https://www.km77.com/coches/fiat/barchetta/1995/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Barchetta 1.8 16v Naxos",
+            "name": "1.8 16v Naxos",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/fiat/barchetta/1995/estandar/naxos/barchetta-18-16v-naxos/datos",
@@ -128,7 +129,7 @@
             ]
         },
         {
-            "name": "Barchetta 1.8 16v",
+            "name": "1.8 16v",
             "start_year": "1995",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/fiat/barchetta/1995/estandar/estandar/barchetta-18-16v/datos",
@@ -246,7 +247,7 @@
             ]
         },
         {
-            "name": "Barchetta 1.8 16V Lido",
+            "name": "1.8 16V Lido",
             "start_year": "2001",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/fiat/barchetta/1995/estandar/lido/barchetta-18-16v-lido/datos",

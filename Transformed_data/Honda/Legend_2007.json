@@ -1,11 +1,12 @@
 {
+    "brand": "Honda",
     "name": "Legend",
     "year": "2007",
     "url": "https://www.km77.com/coches/honda/legend/2007/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Legend 3.5 V6 VTEC",
+            "name": "3.5 V6 VTEC",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/honda/legend/2007/estandar/estandar/legend-35-v6-vtec/datos",
@@ -205,7 +206,7 @@
             ]
         },
         {
-            "name": "Legend 3.5 V6 VTEC SH-AWD Aut.",
+            "name": "3.5 V6 VTEC SH-AWD Aut.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/honda/legend/2007/estandar/estandar/legend-35-v6-vtec-sh-awd-aut/datos",

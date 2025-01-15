@@ -1,11 +1,12 @@
 {
+    "brand": "Honda",
     "name": "Insight",
     "year": "2012",
     "url": "https://www.km77.com/coches/honda/insight/2012/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Insight 1.3 i-VTEC IMA S CVT",
+            "name": "1.3 i-VTEC IMA S CVT",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/honda/insight/2012/estandar/s/insight-13-i-vtec-ima-s-cvt/datos",
@@ -190,7 +191,7 @@
             ]
         },
         {
-            "name": "Insight 1.3 i-VTEC IMA Executive CVT",
+            "name": "1.3 i-VTEC IMA Executive CVT",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/honda/insight/2012/estandar/executive/insight-13-i-vtec-ima-executive-cvt/datos",
@@ -387,7 +388,7 @@
             ]
         },
         {
-            "name": "Insight 1.3 i-VTEC IMA Executive CVT",
+            "name": "1.3 i-VTEC IMA Executive CVT",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/honda/insight/2012/estandar/executive/insight-13-i-vtec-ima-executive-cvt2/datos",

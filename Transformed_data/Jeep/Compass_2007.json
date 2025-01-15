@@ -1,11 +1,12 @@
 {
+    "brand": "Jeep",
     "name": "Compass",
     "year": "2007",
     "url": "https://www.km77.com/coches/jeep/compass/2007/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Compass Sport 2.0 CRD",
+            "name": "Sport 2.0 CRD",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/jeep/compass/2007/estandar/sport/compass-sport-20-crd/datos",
@@ -185,7 +186,7 @@
             ]
         },
         {
-            "name": "Compass 2.2 CRD Sport",
+            "name": "2.2 CRD Sport",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/jeep/compass/2007/estandar/sport/compass-22-crd-sport/datos",
@@ -362,7 +363,7 @@
             ]
         },
         {
-            "name": "Compass 2.0 CRD Sport",
+            "name": "2.0 CRD Sport",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/jeep/compass/2007/estandar/sport/compass-20-crd-sport/datos",
@@ -552,7 +553,7 @@
             ]
         },
         {
-            "name": "Compass 2.0 CRD Limited",
+            "name": "2.0 CRD Limited",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/jeep/compass/2007/estandar/limited/compass-20-crd-limited/datos",
@@ -742,7 +743,7 @@
             ]
         },
         {
-            "name": "Compass 2.4 Limited",
+            "name": "2.4 Limited",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/jeep/compass/2007/estandar/limited/compass-24-limited/datos",
@@ -932,7 +933,7 @@
             ]
         },
         {
-            "name": "Compass Limited 2.0 CRD",
+            "name": "Limited 2.0 CRD",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/jeep/compass/2007/estandar/limited/compass-limited-20-crd/datos",
@@ -1118,7 +1119,7 @@
             ]
         },
         {
-            "name": "Compass 2.4 CVT Limited",
+            "name": "2.4 CVT Limited",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/jeep/compass/2007/estandar/limited/compass-24-cvt-limited/datos",
@@ -1308,7 +1309,7 @@
             ]
         },
         {
-            "name": "Compass Limited 2.4 CVT",
+            "name": "Limited 2.4 CVT",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/jeep/compass/2007/estandar/limited/compass-limited-24-cvt/datos",
@@ -1494,7 +1495,7 @@
             ]
         },
         {
-            "name": "Compass 2.2 CRD Limited",
+            "name": "2.2 CRD Limited",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/jeep/compass/2007/estandar/limited/compass-22-crd-limited/datos",
@@ -1676,7 +1677,7 @@
             ]
         },
         {
-            "name": "Compass 2.2 CRD Overland",
+            "name": "2.2 CRD Overland",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/jeep/compass/2007/estandar/overland/compass-22-crd-overland/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Volvo",
     "name": "V90 Cross Country",
     "year": "2017",
     "url": "https://www.km77.com/coches/volvo/v90/2017/cross-country",
     "price": "Desde 52.450 €",
     "versions": [
         {
-            "name": "V90 Cross Country D4 AWD",
+            "name": "D4 AWD",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v90/2017/cross-country/estandar/v90-cross-country-d4-awd/datos",
@@ -25,7 +26,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country D4 AWD",
+            "name": "D4 AWD",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volvo/v90/2017/cross-country/estandar/v90-cross-country-d4-awd2/datos",
@@ -45,7 +46,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country D4 AWD Aut.",
+            "name": "D4 AWD Aut.",
             "start_year": "2016",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volvo/v90/2017/cross-country/estandar/v90-cross-country-d4-awd-aut/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country T5 AWD Aut.",
+            "name": "T5 AWD Aut.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volvo/v90/2017/cross-country/estandar/v90-cross-country-t5-awd-aut/datos",
@@ -85,7 +86,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country T5 AWD Aut.",
+            "name": "T5 AWD Aut.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v90/2017/cross-country/estandar/v90-cross-country-t5-aut/datos",
@@ -105,7 +106,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country D4 AWD Pro",
+            "name": "D4 AWD Pro",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v90/2017/cross-country/pro/v90-cross-country-d4-awd-pro/datos",
@@ -125,7 +126,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country D4 AWD Pro",
+            "name": "D4 AWD Pro",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volvo/v90/2017/cross-country/pro/v90-cross-country-d4-awd-pro2/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country D4 AWD Pro Aut.",
+            "name": "D4 AWD Pro Aut.",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volvo/v90/2017/cross-country/pro/v90-cross-country-d4-awd-pro-aut/datos",
@@ -165,7 +166,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country D4 AWD Pro Aut.",
+            "name": "D4 AWD Pro Aut.",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volvo/v90/2017/cross-country/pro/v90-cross-country-d4-awd-aut-pro/datos",
@@ -185,7 +186,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country D5 AWD Aut.",
+            "name": "D5 AWD Aut.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v90/2017/cross-country/estandar/v90-d5-awd-aut/datos",
@@ -205,7 +206,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country T5 AWD Pro Aut.",
+            "name": "T5 AWD Pro Aut.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volvo/v90/2017/cross-country/pro/v90-cross-country-t5-awd-pro-aut/datos",
@@ -225,7 +226,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country T5 AWD Pro Aut.",
+            "name": "T5 AWD Pro Aut.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v90/2017/cross-country/pro/v90-cross-country-t5-pro-aut/datos",
@@ -245,7 +246,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country T5 AWD Aut.",
+            "name": "T5 AWD Aut.",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volvo/v90/2017/cross-country/estandar/v90-cross-country-t5-awd-aut2/datos",
@@ -265,7 +266,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country D5 AWD Aut.",
+            "name": "D5 AWD Aut.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volvo/v90/2017/cross-country/estandar/v90-cross-country-d5-awd-aut/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country D5 AWD Pro Aut.",
+            "name": "D5 AWD Pro Aut.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v90/2017/cross-country/pro/v90-d5-awd-pro-aut/datos",
@@ -305,7 +306,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country T5 AWD Pro Aut.",
+            "name": "T5 AWD Pro Aut.",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volvo/v90/2017/cross-country/pro/v90-cross-country-t5-awd-pro-aut2/datos",
@@ -325,7 +326,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country D5 AWD Pro Aut.",
+            "name": "D5 AWD Pro Aut.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volvo/v90/2017/cross-country/pro/v90-cross-country-d5-awd-pro-aut/datos",
@@ -345,7 +346,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country T6 AWD Aut.",
+            "name": "T6 AWD Aut.",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volvo/v90/2017/cross-country/estandar/v90-cross-country-t6-awd-aut/datos",
@@ -365,7 +366,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country T6 AWD Aut.",
+            "name": "T6 AWD Aut.",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volvo/v90/2017/cross-country/estandar/v90-cross-country-t6-awd-aut2/datos",
@@ -385,7 +386,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country T6 AWD Pro Aut.",
+            "name": "T6 AWD Pro Aut.",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volvo/v90/2017/cross-country/pro/v90-cross-country-t6-awd-pro-aut/datos",
@@ -405,7 +406,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country T6 AWD Pro Aut.",
+            "name": "T6 AWD Pro Aut.",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volvo/v90/2017/cross-country/pro/v90-cross-country-t6-awd-pro-aut3/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country T6 AWD Pro Aut.",
+            "name": "T6 AWD Pro Aut.",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volvo/v90/2017/cross-country/pro/v90-cross-country-t6-awd-pro-aut2/datos",

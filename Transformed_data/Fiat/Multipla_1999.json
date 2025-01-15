@@ -1,11 +1,12 @@
 {
+    "brand": "Fiat",
     "name": "Multipla",
     "year": "1999",
     "url": "https://www.km77.com/coches/fiat/multipla/1999/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Multipla 1.6 16v SX",
+            "name": "1.6 16v SX",
             "start_year": "1998",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/fiat/multipla/1999/estandar/sx/multipla-16-16v-sx/datos",
@@ -132,7 +133,7 @@
             ]
         },
         {
-            "name": "Multipla JTD 105 SX",
+            "name": "JTD 105 SX",
             "start_year": "1998",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/fiat/multipla/1999/estandar/sx/multipla-jtd-105-sx/datos",
@@ -259,7 +260,7 @@
             ]
         },
         {
-            "name": "Multipla 1.6 ELX",
+            "name": "1.6 ELX",
             "start_year": "1998",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/fiat/multipla/1999/estandar/elx/multipla-16-elx/datos",
@@ -392,7 +393,7 @@
             ]
         },
         {
-            "name": "Multipla 1.6 16v",
+            "name": "1.6 16v",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/fiat/multipla/1999/estandar/estandar/multipla-16-16v/datos",
@@ -529,7 +530,7 @@
             ]
         },
         {
-            "name": "Multipla JTD 105 ELX",
+            "name": "JTD 105 ELX",
             "start_year": "1998",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/fiat/multipla/1999/estandar/elx/multipla-jtd-105-elx/datos",
@@ -659,7 +660,7 @@
             ]
         },
         {
-            "name": "Multipla 1.6 ELX",
+            "name": "1.6 ELX",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/fiat/multipla/1999/estandar/elx/multipla-16-elx2/datos",
@@ -817,7 +818,7 @@
             ]
         },
         {
-            "name": "Multipla JTD 110 ELX",
+            "name": "JTD 110 ELX",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/fiat/multipla/1999/estandar/elx/multipla-jtd-110-elx/datos",
@@ -949,7 +950,7 @@
             ]
         },
         {
-            "name": "Multipla 1.9 JTD 110",
+            "name": "1.9 JTD 110",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/fiat/multipla/1999/estandar/estandar/multipla-19-jtd-110/datos",
@@ -1084,7 +1085,7 @@
             ]
         },
         {
-            "name": "Multipla 1.9 JTD ELX",
+            "name": "1.9 JTD ELX",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/fiat/multipla/1999/estandar/elx/multipla-19-jtd-elx/datos",

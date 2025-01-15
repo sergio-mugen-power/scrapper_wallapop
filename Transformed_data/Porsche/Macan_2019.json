@@ -1,11 +1,12 @@
 {
+    "brand": "Porsche",
     "name": "Macan",
     "year": "2019",
     "url": "https://www.km77.com/coches/porsche/macan/2019/estandar",
     "price": "Desde 82.310 €",
     "versions": [
         {
-            "name": "Macan",
+            "name": "",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/porsche/macan/2019/estandar/estandar/macan/datos",
@@ -35,7 +36,7 @@
             ]
         },
         {
-            "name": "Macan S",
+            "name": "S",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/porsche/macan/2019/estandar/s/macan-s/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "Macan GTS",
+            "name": "GTS",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/porsche/macan/2019/estandar/gts/macan-gts/datos",
@@ -95,7 +96,7 @@
             ]
         },
         {
-            "name": "Macan Turbo",
+            "name": "Turbo",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/porsche/macan/2019/estandar/turbo/macan-turbo/datos",

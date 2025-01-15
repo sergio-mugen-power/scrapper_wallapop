@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "X7",
     "year": "2023",
     "url": "https://www.km77.com/coches/bmw/x7/2023/estandar",
     "price": "Desde 111.550 €",
     "versions": [
         {
-            "name": "X7 xDrive40i\n(05/2022 - )",
+            "name": "xDrive40i\n(05/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/bmw/x7/2023/estandar/estandar/x7-xdrive40i/datos",
@@ -323,7 +324,7 @@
             ]
         },
         {
-            "name": "X7 xDrive40d\n(05/2022 - )",
+            "name": "xDrive40d\n(05/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/bmw/x7/2023/estandar/estandar/x7-xdrive40d/datos",
@@ -640,7 +641,7 @@
             ]
         },
         {
-            "name": "X7 M60i xDrive\n(05/2022 - )",
+            "name": "M60i xDrive\n(05/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/bmw/x7/2023/estandar/estandar/x7-m60i-xdrive/datos",

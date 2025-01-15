@@ -1,11 +1,12 @@
 {
+    "brand": "Toyota",
     "name": "C-HR",
     "year": "2020",
     "url": "https://www.km77.com/coches/toyota/c-hr/2020/estandar",
     "price": "Desde 31.750 €",
     "versions": [
         {
-            "name": "C-HR 125H Active",
+            "name": "125H Active",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/toyota/c-hr/2020/estandar/active/c-hr-125h-active/datos",
@@ -240,7 +241,7 @@
             ]
         },
         {
-            "name": "C-HR 125H Advance",
+            "name": "125H Advance",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/toyota/c-hr/2020/estandar/advance/c-hr-125h-advance/datos",
@@ -484,7 +485,7 @@
             ]
         },
         {
-            "name": "C-HR 180H Dynamic",
+            "name": "180H Dynamic",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/toyota/c-hr/2020/estandar/dynamic/c-hr-180h-dynamic/datos",
@@ -724,7 +725,7 @@
             ]
         },
         {
-            "name": "C-HR 180H Kaji Edition",
+            "name": "180H Kaji Edition",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/toyota/c-hr/2020/estandar/kaji-edition/c-hr-180h-kaji-edition/datos",
@@ -962,7 +963,7 @@
             ]
         },
         {
-            "name": "C-HR 125H Advance Plus",
+            "name": "125H Advance Plus",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/toyota/c-hr/2020/estandar/advance-plus/c-hr-125h-advance-plus/datos",
@@ -1207,7 +1208,7 @@
             ]
         },
         {
-            "name": "C-HR 180H Advance",
+            "name": "180H Advance",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/toyota/c-hr/2020/estandar/advance/c-hr-180h-advance/datos",
@@ -1451,7 +1452,7 @@
             ]
         },
         {
-            "name": "C-HR 180H Advance Luxury",
+            "name": "180H Advance Luxury",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/toyota/c-hr/2020/estandar/advance-luxury/c-hr-180h-advance-luxury/datos",
@@ -1700,7 +1701,7 @@
             ]
         },
         {
-            "name": "C-HR 180H GR Sport",
+            "name": "180H GR Sport",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/toyota/c-hr/2020/estandar/estandar/c-hr-180h-gr-sport/datos",

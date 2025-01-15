@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Caddy",
     "year": "2004",
     "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar",
     "price": "Desde 22.102 €",
     "versions": [
         {
-            "name": "Caddy Kombi 1.4",
+            "name": "Kombi 1.4",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/kombi/caddy-kombi-14/datos",
@@ -191,7 +192,7 @@
             ]
         },
         {
-            "name": "Caddy Kombi SDI",
+            "name": "Kombi SDI",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/kombi/caddy-kombi-sdi/datos",
@@ -373,7 +374,7 @@
             ]
         },
         {
-            "name": "Caddy Kombi Plus 1.4",
+            "name": "Kombi Plus 1.4",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/kombi-plus/caddy-kombi-plus-14/datos",
@@ -559,7 +560,7 @@
             ]
         },
         {
-            "name": "Caddy Kombi 1.4",
+            "name": "Kombi 1.4",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/kombi/caddy-kombi-142/datos",
@@ -748,7 +749,7 @@
             ]
         },
         {
-            "name": "Caddy Kombi Plus SDI",
+            "name": "Kombi Plus SDI",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/kombi-plus/caddy-kombi-plus-sdi/datos",
@@ -929,7 +930,7 @@
             ]
         },
         {
-            "name": "Caddy Kombi Plus 1.4",
+            "name": "Kombi Plus 1.4",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/kombi-plus/caddy-kombi-plus-142/datos",
@@ -1118,7 +1119,7 @@
             ]
         },
         {
-            "name": "Caddy Kombi 1.9 TDI 75 CV",
+            "name": "Kombi 1.9 TDI 75 CV",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/kombi/caddy-kombi-19-tdi-75-cv/datos",
@@ -1308,7 +1309,7 @@
             ]
         },
         {
-            "name": "Caddy Kombi 1.6",
+            "name": "Kombi 1.6",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/kombi/caddy-kombi-16/datos",
@@ -1497,7 +1498,7 @@
             ]
         },
         {
-            "name": "Caddy Kombi 1.4",
+            "name": "Kombi 1.4",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/kombi/caddy-kombi-143/datos",
@@ -1696,7 +1697,7 @@
             ]
         },
         {
-            "name": "Caddy Kombi Plus 1.6",
+            "name": "Kombi Plus 1.6",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/kombi-plus/caddy-kombi-plus-16/datos",
@@ -1885,7 +1886,7 @@
             ]
         },
         {
-            "name": "Caddy Kombi Plus 1.9 TDI 75 CV",
+            "name": "Kombi Plus 1.9 TDI 75 CV",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/kombi-plus/caddy-kombi-plus-19-tdi-75-cv/datos",
@@ -2075,7 +2076,7 @@
             ]
         },
         {
-            "name": "Caddy Kombi 1.9 TDI 75 CV",
+            "name": "Kombi 1.9 TDI 75 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/kombi/caddy-kombi-19-tdi-75-cv2/datos",
@@ -2275,7 +2276,7 @@
             ]
         },
         {
-            "name": "Caddy Kombi 1.6",
+            "name": "Kombi 1.6",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/kombi/caddy-kombi-162/datos",
@@ -2474,7 +2475,7 @@
             ]
         },
         {
-            "name": "Caddy Kombi Plus 1.9 TDI 104 CV",
+            "name": "Kombi Plus 1.9 TDI 104 CV",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/kombi-plus/caddy-kombi-plus-19-tdi-104-cv/datos",
@@ -2665,7 +2666,7 @@
             ]
         },
         {
-            "name": "Caddy Kombi 1.9 TDI 104 CV",
+            "name": "Kombi 1.9 TDI 104 CV",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/kombi/caddy-kombi-19-tdi-104-cv/datos",
@@ -2856,7 +2857,7 @@
             ]
         },
         {
-            "name": "Caddy Kombi 1.9 TDI 105 CV",
+            "name": "Kombi 1.9 TDI 105 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/kombi/caddy-kombi-19-tdi-105-cv/datos",
@@ -3058,7 +3059,7 @@
             ]
         },
         {
-            "name": "Caddy Life 1.6",
+            "name": "Life 1.6",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/life/caddy-life-16/datos",
@@ -3247,7 +3248,7 @@
             ]
         },
         {
-            "name": "Caddy Life 1.9 TDI 75 CV",
+            "name": "Life 1.9 TDI 75 CV",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/life/caddy-life-19-tdi-75-cv/datos",
@@ -3451,7 +3452,7 @@
             ]
         },
         {
-            "name": "Caddy Kombi 1.9 TDI BlueMotion 105 CV",
+            "name": "Kombi 1.9 TDI BlueMotion 105 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/kombi/caddy-kombi-19-tdi-bluemotion-105-cv/datos",
@@ -3645,7 +3646,7 @@
             ]
         },
         {
-            "name": "Caddy Kombi 2.0 Ecofuel",
+            "name": "Kombi 2.0 Ecofuel",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/kombi/caddy-kombi-20-ecofuel/datos",
@@ -3843,7 +3844,7 @@
             ]
         },
         {
-            "name": "Caddy Kombi 1.9 TDI 104 CV DSG",
+            "name": "Kombi 1.9 TDI 104 CV DSG",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/kombi/caddy-kombi-19-tdi-104-cv-dsg/datos",
@@ -4032,7 +4033,7 @@
             ]
         },
         {
-            "name": "Caddy Life 1.6",
+            "name": "Life 1.6",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/life/caddy-life-162/datos",
@@ -4237,7 +4238,7 @@
             ]
         },
         {
-            "name": "Caddy Kombi Plus 1.9 TDI 104 CV DSG",
+            "name": "Kombi Plus 1.9 TDI 104 CV DSG",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/kombi-plus/caddy-kombi-plus-19-tdi-104-cv-dsg/datos",
@@ -4426,7 +4427,7 @@
             ]
         },
         {
-            "name": "Caddy Life 1.9 TDI 104 CV",
+            "name": "Life 1.9 TDI 104 CV",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/life/caddy-life-19-tdi-104-cv/datos",
@@ -4616,7 +4617,7 @@
             ]
         },
         {
-            "name": "Caddy Life 1.9 TDI 105 CV",
+            "name": "Life 1.9 TDI 105 CV",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/life/caddy-life-19-tdi-105-cv/datos",
@@ -4822,7 +4823,7 @@
             ]
         },
         {
-            "name": "Caddy Kombi 1.9 TDI 105 CV DSG",
+            "name": "Kombi 1.9 TDI 105 CV DSG",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/kombi/caddy-kombi-19-tdi-105-cv-dsg/datos",
@@ -5022,7 +5023,7 @@
             ]
         },
         {
-            "name": "Caddy Kombi 2.0 TDI",
+            "name": "Kombi 2.0 TDI",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/kombi/caddy-kombi-20-tdi/datos",
@@ -5220,7 +5221,7 @@
             ]
         },
         {
-            "name": "Caddy Life 1.9 TDI BlueMotion 105 CV",
+            "name": "Life 1.9 TDI BlueMotion 105 CV",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/life/caddy-life-19-tdi-bluemotion-105-cv/datos",
@@ -5423,7 +5424,7 @@
             ]
         },
         {
-            "name": "Caddy Life 1.9 TDI 104 CV DSG",
+            "name": "Life 1.9 TDI 104 CV DSG",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/life/caddy-life-19-tdi-104-cv-dsg/datos",
@@ -5614,7 +5615,7 @@
             ]
         },
         {
-            "name": "Caddy Life 2.0 Ecofuel",
+            "name": "Life 2.0 Ecofuel",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/life/caddy-life-20-ecofuel/datos",
@@ -5818,7 +5819,7 @@
             ]
         },
         {
-            "name": "Caddy Tramper 1.9 TDI 104 CV",
+            "name": "Tramper 1.9 TDI 104 CV",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/tramper/caddy-tramper-19-tdi-104-cv/datos",
@@ -6010,7 +6011,7 @@
             ]
         },
         {
-            "name": "Caddy Kombi 1.9 TDI 105 CV 4Motion",
+            "name": "Kombi 1.9 TDI 105 CV 4Motion",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/kombi/caddy-kombi-19-tdi-105-cv-4motion/datos",
@@ -6207,7 +6208,7 @@
             ]
         },
         {
-            "name": "Caddy Life 1.9 TDI 105 CV DSG",
+            "name": "Life 1.9 TDI 105 CV DSG",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/life/caddy-life-19-tdi-105-cv-dsg/datos",
@@ -6413,7 +6414,7 @@
             ]
         },
         {
-            "name": "Caddy Tramper 1.9 TDI 104 CV DSG",
+            "name": "Tramper 1.9 TDI 104 CV DSG",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/tramper/caddy-tramper-19-tdi-104-cv-dsg/datos",
@@ -6607,7 +6608,7 @@
             ]
         },
         {
-            "name": "Caddy Life 2.0 TDI",
+            "name": "Life 2.0 TDI",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/life/caddy-life-20-tdi/datos",
@@ -6811,7 +6812,7 @@
             ]
         },
         {
-            "name": "Caddy Life 1.9 TDI 105 CV 4Motion",
+            "name": "Life 1.9 TDI 105 CV 4Motion",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2004/estandar/kombi/caddy-life-19-tdi-105-cv-4motion/datos",

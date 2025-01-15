@@ -1,11 +1,12 @@
 {
+    "brand": "Mahindra",
     "name": "KUV100",
     "year": "2020",
     "url": "https://www.km77.com/coches/mahindra/kuv100/2020/estandar",
     "price": "",
     "versions": [
         {
-            "name": "KUV100 K6+",
+            "name": "K6+",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/mahindra/kuv100/2020/estandar/k6plus/kuv100-k6/datos",
@@ -184,7 +185,7 @@
             ]
         },
         {
-            "name": "KUV100 K8",
+            "name": "K8",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/mahindra/kuv100/2020/estandar/k8/kuv100-k8/datos",

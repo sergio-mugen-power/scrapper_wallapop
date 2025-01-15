@@ -1,11 +1,12 @@
 {
+    "brand": "Chrysler",
     "name": "Voyager",
     "year": "2001",
     "url": "https://www.km77.com/coches/chrysler/voyager/2001/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Voyager SE 2.4",
+            "name": "SE 2.4",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chrysler/voyager/2001/estandar/estandar/voyager-se-24/datos",
@@ -135,7 +136,7 @@
             ]
         },
         {
-            "name": "Voyager SE 2.4 Aut.",
+            "name": "SE 2.4 Aut.",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chrysler/voyager/2001/estandar/estandar/voyager-se-24-aut/datos",
@@ -265,7 +266,7 @@
             ]
         },
         {
-            "name": "Voyager SE 2.5 CRD",
+            "name": "SE 2.5 CRD",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chrysler/voyager/2001/estandar/estandar/voyager-se-25-crd/datos",
@@ -395,7 +396,7 @@
             ]
         },
         {
-            "name": "Voyager LX 2.4",
+            "name": "LX 2.4",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chrysler/voyager/2001/estandar/estandar/voyager-lx-24/datos",
@@ -536,7 +537,7 @@
             ]
         },
         {
-            "name": "Voyager LX 3.3",
+            "name": "LX 3.3",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chrysler/voyager/2001/estandar/estandar/voyager-lx-33/datos",
@@ -678,7 +679,7 @@
             ]
         },
         {
-            "name": "Voyager LX 2.5 CRD",
+            "name": "LX 2.5 CRD",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chrysler/voyager/2001/estandar/estandar/voyager-lx-25-crd/datos",

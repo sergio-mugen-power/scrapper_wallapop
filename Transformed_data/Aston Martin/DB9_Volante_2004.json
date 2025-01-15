@@ -1,11 +1,12 @@
 {
+    "brand": "Aston Martin",
     "name": "DB9 Volante",
     "year": "2004",
     "url": "https://www.km77.com/coches/aston-martin/db9/2004/volante",
     "price": "",
     "versions": [
         {
-            "name": "DB9 Volante",
+            "name": "",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/aston-martin/db9/2004/volante/estandar/db9-volante/datos",
@@ -156,7 +157,7 @@
             ]
         },
         {
-            "name": "DB9 Volante Touchtronic2",
+            "name": "Touchtronic2",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/aston-martin/db9/2004/volante/estandar/db9-volante-touchtronic2/datos",
@@ -335,7 +336,7 @@
             ]
         },
         {
-            "name": "DB9 Volante",
+            "name": "",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/aston-martin/db9/2004/volante/estandar/db9-volante2/datos",
@@ -494,7 +495,7 @@
             ]
         },
         {
-            "name": "DB9 Volante Touchtronic II",
+            "name": "Touchtronic II",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/aston-martin/db9/2004/volante/estandar/db9-volante-touchtronic-ii/datos",
@@ -685,7 +686,7 @@
             ]
         },
         {
-            "name": "DB9 Volante Touchtronic II",
+            "name": "Touchtronic II",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/aston-martin/db9/2004/volante/estandar/db9-volante-touchtronic-ii2/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Polestar",
     "name": "2",
     "year": "2020",
     "url": "https://www.km77.com/coches/polestar/2/2020/estandar",
     "price": "Desde 47.190 €",
     "versions": [
         {
-            "name": "2 Standard range Single motor",
+            "name": "Standard range Single motor",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/polestar/2/2020/estandar/estandar/2-standard-range-single-motor/datos",
@@ -35,7 +36,7 @@
             ]
         },
         {
-            "name": "2 Long range Single motor",
+            "name": "Long range Single motor",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/polestar/2/2020/estandar/estandar/2-long-range-single-motor/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "2 Long range Dual motor",
+            "name": "Long range Dual motor",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/polestar/2/2020/estandar/estandar/2/datos",
@@ -96,7 +97,7 @@
             ]
         },
         {
-            "name": "2 Long range Dual motor Performance Pack",
+            "name": "Long range Dual motor Performance Pack",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/polestar/2/2020/estandar/estandar/2-long-range-dual-motor-performance-pack/datos",

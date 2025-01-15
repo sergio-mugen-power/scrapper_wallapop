@@ -1,11 +1,12 @@
 {
+    "brand": "Tesla",
     "name": "Model Y",
     "year": "2021",
     "url": "https://www.km77.com/coches/tesla/model-y/2021/estandar",
     "price": "Desde 39.990 €",
     "versions": [
         {
-            "name": "Model Y Tracción trasera (09/2022 - )",
+            "name": "Tracción trasera (09/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/tesla/model-y/2021/estandar/estandar/model-y-traccion-trasera/datos",
@@ -228,7 +229,7 @@
             ]
         },
         {
-            "name": "Model Y Gran autonomía Tracción trasera (04/2024 - )",
+            "name": "Gran autonomía Tracción trasera (04/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/tesla/model-y/2021/estandar/estandar/model-y-traccion-trasera-gran-autonomia2/datos",
@@ -451,7 +452,7 @@
             ]
         },
         {
-            "name": "Model Y Gran autonomía Tracción integral (11/2019 - )",
+            "name": "Gran autonomía Tracción integral (11/2019 - )",
             "start_year": "2019",
             "end_year": "",
             "url": "https://www.km77.com/coches/tesla/model-y/2021/estandar/estandar/model-y-traccion-integral-gran-autonomia/datos",
@@ -685,7 +686,7 @@
             ]
         },
         {
-            "name": "Model Y Gran autonomía Tracción integral 7 plazas (10/2024 - )",
+            "name": "Gran autonomía Tracción integral 7 plazas (10/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/tesla/model-y/2021/estandar/estandar/model-y-gran-autonomia-traccion-integral-7-plazas/datos",
@@ -919,7 +920,7 @@
             ]
         },
         {
-            "name": "Model Y Performance Tracción integral (11/2019 - )",
+            "name": "Performance Tracción integral (11/2019 - )",
             "start_year": "2019",
             "end_year": "",
             "url": "https://www.km77.com/coches/tesla/model-y/2021/estandar/estandar/model-y-traccion-integral-performance/datos",

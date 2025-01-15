@@ -1,11 +1,12 @@
 {
+    "brand": "Nissan",
     "name": "Maxima QX",
     "year": "1995",
     "url": "https://www.km77.com/coches/nissan/maxima-qx/1995/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Maxima QX 2.0 SLX",
+            "name": "2.0 SLX",
             "start_year": "1994",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/nissan/maxima-qx/1995/estandar/slx/maxima-qx-20-slx/datos",
@@ -130,7 +131,7 @@
             ]
         },
         {
-            "name": "Maxima QX 2.0 SE",
+            "name": "2.0 SE",
             "start_year": "1994",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/nissan/maxima-qx/1995/estandar/se/maxima-qx-20-se/datos",
@@ -256,7 +257,7 @@
             ]
         },
         {
-            "name": "Maxima QX 2.0 SS",
+            "name": "2.0 SS",
             "start_year": "1994",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/nissan/maxima-qx/1995/estandar/ss/maxima-qx-20-ss/datos",
@@ -382,7 +383,7 @@
             ]
         },
         {
-            "name": "Maxima QX 2.0 SE Automático",
+            "name": "2.0 SE Automático",
             "start_year": "1994",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/nissan/maxima-qx/1995/estandar/se/maxima-qx-20-se-automatico/datos",
@@ -508,7 +509,7 @@
             ]
         },
         {
-            "name": "Maxima QX 3.0 SE",
+            "name": "3.0 SE",
             "start_year": "1994",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/nissan/maxima-qx/1995/estandar/se/maxima-qx-30-se/datos",
@@ -638,7 +639,7 @@
             ]
         },
         {
-            "name": "Maxima QX 3.0 SS",
+            "name": "3.0 SS",
             "start_year": "1994",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/nissan/maxima-qx/1995/estandar/ss/maxima-qx-30-ss/datos",
@@ -768,7 +769,7 @@
             ]
         },
         {
-            "name": "Maxima QX 3.0 SE Automático",
+            "name": "3.0 SE Automático",
             "start_year": "1994",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/nissan/maxima-qx/1995/estandar/se/maxima-qx-30-se-automatico/datos",
@@ -898,7 +899,7 @@
             ]
         },
         {
-            "name": "Maxima QX 3.0 SS Automático",
+            "name": "3.0 SS Automático",
             "start_year": "1994",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/nissan/maxima-qx/1995/estandar/ss/maxima-qx-30-ss-automatico/datos",

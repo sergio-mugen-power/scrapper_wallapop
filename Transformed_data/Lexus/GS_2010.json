@@ -1,11 +1,12 @@
 {
+    "brand": "Lexus",
     "name": "GS",
     "year": "2010",
     "url": "https://www.km77.com/coches/lexus/gs/2010/estandar",
     "price": "",
     "versions": [
         {
-            "name": "GS 300 Premium",
+            "name": "300 Premium",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lexus/gs/2010/estandar/premium/gs-300-premium/datos",
@@ -180,7 +181,7 @@
             ]
         },
         {
-            "name": "GS 300 Luxury",
+            "name": "300 Luxury",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lexus/gs/2010/estandar/luxury/gs-300-luxury/datos",
@@ -363,7 +364,7 @@
             ]
         },
         {
-            "name": "GS 450h Premium",
+            "name": "450h Premium",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/lexus/gs/2010/estandar/premium/gs-450h-premium/datos",
@@ -560,7 +561,7 @@
             ]
         },
         {
-            "name": "GS 450h Luxury",
+            "name": "450h Luxury",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/lexus/gs/2010/estandar/luxury/gs-450h-luxury/datos",
@@ -758,7 +759,7 @@
             ]
         },
         {
-            "name": "GS 300 President",
+            "name": "300 President",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lexus/gs/2010/estandar/president/gs-300-president/datos",
@@ -945,7 +946,7 @@
             ]
         },
         {
-            "name": "GS 450h President",
+            "name": "450h President",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/lexus/gs/2010/estandar/president/gs-450h-president/datos",
@@ -1149,7 +1150,7 @@
             ]
         },
         {
-            "name": "GS 460 President",
+            "name": "460 President",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lexus/gs/2010/estandar/president/gs-460-president/datos",

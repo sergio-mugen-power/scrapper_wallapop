@@ -1,11 +1,12 @@
 {
+    "brand": "KIA",
     "name": "Soul",
     "year": "2017",
     "url": "https://www.km77.com/coches/kia/soul/2017/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Soul Concept 1.6 GDi Eco-Dynamics",
+            "name": "Concept 1.6 GDi Eco-Dynamics",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/soul/2017/estandar/concept/soul-concept-16-gdi-97-kw-132-cv-eco-dynamics/datos",
@@ -181,7 +182,7 @@
             ]
         },
         {
-            "name": "Soul Concept 1.6 CRDi Eco-Dynamics",
+            "name": "Concept 1.6 CRDi Eco-Dynamics",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/soul/2017/estandar/concept/soul-concept-16-crdi-100-kw-136-cv-eco-dynamics/datos",
@@ -358,7 +359,7 @@
             ]
         },
         {
-            "name": "Soul Drive 1.6 GDi Eco-Dynamics",
+            "name": "Drive 1.6 GDi Eco-Dynamics",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/soul/2017/estandar/drive/soul-drive-16-gdi-97-kw-132-cv-eco-dynamics/datos",
@@ -552,7 +553,7 @@
             ]
         },
         {
-            "name": "Soul Drive 1.6 CRDi Eco-Dynamics",
+            "name": "Drive 1.6 CRDi Eco-Dynamics",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/soul/2017/estandar/drive/soul-drive-16-crdi-100-kw-136-cv-eco-dynamics/datos",
@@ -747,7 +748,7 @@
             ]
         },
         {
-            "name": "Soul Drive 1.6 CRDi 7DCT",
+            "name": "Drive 1.6 CRDi 7DCT",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/soul/2017/estandar/drive/soul-drive-16-crdi-100-kw-136-cv-eco-dynamics-dct/datos",
@@ -938,7 +939,7 @@
             ]
         },
         {
-            "name": "Soul Emotion 1.6 CRDi Eco-Dynamics",
+            "name": "Emotion 1.6 CRDi Eco-Dynamics",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/soul/2017/estandar/emotion/soul-emotion-16-crdi-100-kw-136-cv-eco-dynamics/datos",
@@ -1138,7 +1139,7 @@
             ]
         },
         {
-            "name": "Soul Sport 1.6 T-GDi 150 kW (204 CV)",
+            "name": "Sport 1.6 T-GDi 150 kW (204 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/soul/2017/estandar/sport/soul-sport-16-t-gdi-150-kw-204-cv/datos",
@@ -1336,7 +1337,7 @@
             ]
         },
         {
-            "name": "Soul Sport 1.6 T-GDi 150 kW (204 CV) 7DCT",
+            "name": "Sport 1.6 T-GDi 150 kW (204 CV) 7DCT",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/kia/soul/2017/estandar/sport/soul-sport-16-t-gdi-150-kw-204-cv-dct/datos",
@@ -1533,7 +1534,7 @@
             ]
         },
         {
-            "name": "Soul Emotion 1.6 CRDi 7DCT",
+            "name": "Emotion 1.6 CRDi 7DCT",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/soul/2017/estandar/emotion/soul-emotion-16-crdi-100-kw-136-cv-dct/datos",
@@ -1731,7 +1732,7 @@
             ]
         },
         {
-            "name": "Soul Eléctrico",
+            "name": "Eléctrico",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/soul/2017/estandar/electrico/soul-electrico/datos",
@@ -1927,7 +1928,7 @@
             ]
         },
         {
-            "name": "Soul Eléctrico (CHAdeMO)",
+            "name": "Eléctrico (CHAdeMO)",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/soul/2017/estandar/electrico/soul-electrico-chademo/datos",

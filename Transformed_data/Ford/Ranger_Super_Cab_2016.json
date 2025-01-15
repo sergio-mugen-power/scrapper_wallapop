@@ -1,11 +1,12 @@
 {
+    "brand": "Ford",
     "name": "Ranger Super Cab",
     "year": "2016",
     "url": "https://www.km77.com/coches/ford/ranger/2016/super-cab",
     "price": "",
     "versions": [
         {
-            "name": "Ranger Super Cab XL 2.2 TDCi 118 kW (160 CV) 4x4 Start&Stop",
+            "name": "XL 2.2 TDCi 118 kW (160 CV) 4x4 Start&Stop",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/ranger/2016/super-cab/xl/ranger-sper-cab-xl-22-tdci-160-cv-4x4-startstop/datos",
@@ -194,7 +195,7 @@
             ]
         },
         {
-            "name": "Ranger Super Cab XL 2.2 TDCi 118 kW (160 CV) 4x4 Start&Stop",
+            "name": "XL 2.2 TDCi 118 kW (160 CV) 4x4 Start&Stop",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/ranger/2016/super-cab/xl/ranger-super-cab-xl-22-tdci-118-kw-160-cv-4x4-startstop/datos",

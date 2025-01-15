@@ -1,11 +1,12 @@
 {
+    "brand": "Bentley",
     "name": "Mulsanne",
     "year": "2016",
     "url": "https://www.km77.com/coches/bentley/mulsanne/2016/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Mulsanne",
+            "name": "",
             "start_year": "2016",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bentley/mulsanne/2016/estandar/estandar/mulsanne-2016/datos",
@@ -116,7 +117,7 @@
             ]
         },
         {
-            "name": "Mulsanne Speed",
+            "name": "Speed",
             "start_year": "2016",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bentley/mulsanne/2016/estandar/speed/mulsanne-speed/datos",

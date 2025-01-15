@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "X1",
     "year": "2023",
     "url": "https://www.km77.com/coches/bmw/x1/2023/estandar",
     "price": "Desde 44.200 €",
     "versions": [
         {
-            "name": "X1 sDrive18d\n(06/2022 - )",
+            "name": "sDrive18d\n(06/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/bmw/x1/2023/estandar/estandar/x1-sdrive18d/datos",
@@ -16,7 +17,7 @@
             "maletero": "540"
         },
         {
-            "name": "X1 sDrive18i\n(06/2022 - )",
+            "name": "sDrive18i\n(06/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/bmw/x1/2023/estandar/estandar/x1-sdrive18i/datos",
@@ -27,7 +28,7 @@
             "maletero": "540"
         },
         {
-            "name": "X1 sDrive20i\n(11/2022 - )",
+            "name": "sDrive20i\n(11/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/bmw/x1/2023/estandar/estandar/x1-sdrive20i/datos",
@@ -38,7 +39,7 @@
             "maletero": "500"
         },
         {
-            "name": "X1 xDrive20d\n(11/2022 - )",
+            "name": "xDrive20d\n(11/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/bmw/x1/2023/estandar/estandar/x1-xdrive20d/datos",
@@ -49,7 +50,7 @@
             "maletero": "500"
         },
         {
-            "name": "X1 xDrive25e\n(06/2022 - )",
+            "name": "xDrive25e\n(06/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/bmw/x1/2023/estandar/e/x1-xdrive25e/datos",
@@ -60,7 +61,7 @@
             "maletero": "490"
         },
         {
-            "name": "X1 xDrive30e\n(06/2022 - )",
+            "name": "xDrive30e\n(06/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/bmw/x1/2023/estandar/e/x1-xdrive30e/datos",
@@ -71,7 +72,7 @@
             "maletero": "490"
         },
         {
-            "name": "X1 M35i xDrive\n(09/2023 - )",
+            "name": "M35i xDrive\n(09/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/bmw/x1/2023/estandar/estandar/x1-m35i-xdrive/datos",

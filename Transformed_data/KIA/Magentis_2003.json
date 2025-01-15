@@ -1,11 +1,12 @@
 {
+    "brand": "KIA",
     "name": "Magentis",
     "year": "2003",
     "url": "https://www.km77.com/coches/kia/magentis/2003/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Magentis 2.0 EX",
+            "name": "2.0 EX",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/kia/magentis/2003/estandar/ex/magentis-20-ex/datos",
@@ -160,7 +161,7 @@
             ]
         },
         {
-            "name": "Magentis 2.5 V6 EX",
+            "name": "2.5 V6 EX",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/kia/magentis/2003/estandar/ex/magentis-25-v6-ex/datos",
@@ -316,7 +317,7 @@
             ]
         },
         {
-            "name": "Magentis 2.5 V6 EX Aut.",
+            "name": "2.5 V6 EX Aut.",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/kia/magentis/2003/estandar/ex/magentis-25-v6-ex-aut/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Nissan",
     "name": "LEAF",
     "year": "2011",
     "url": "https://www.km77.com/coches/nissan/leaf/2011/estandar",
     "price": "",
     "versions": [
         {
-            "name": "LEAF Flex Visia",
+            "name": "Flex Visia",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/leaf/2011/estandar/flex-visia/leaf-visia/datos",
@@ -176,7 +177,7 @@
             ]
         },
         {
-            "name": "LEAF Flex Visia+",
+            "name": "Flex Visia+",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/leaf/2011/estandar/flex-visia-plus/leaf-flex-visia/datos",
@@ -349,7 +350,7 @@
             ]
         },
         {
-            "name": "LEAF Flex Acenta",
+            "name": "Flex Acenta",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/leaf/2011/estandar/flex-acenta/leaf-acenta/datos",
@@ -531,7 +532,7 @@
             ]
         },
         {
-            "name": "LEAF",
+            "name": "",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/nissan/leaf/2011/estandar/estandar/leaf2/datos",
@@ -707,7 +708,7 @@
             ]
         },
         {
-            "name": "LEAF",
+            "name": "",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/nissan/leaf/2011/estandar/estandar/leaf/datos",
@@ -882,7 +883,7 @@
             ]
         },
         {
-            "name": "LEAF Flex Tekna",
+            "name": "Flex Tekna",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/leaf/2011/estandar/flex-tekna/leaf-tekna/datos",

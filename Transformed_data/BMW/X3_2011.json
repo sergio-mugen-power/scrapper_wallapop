@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "X3",
     "year": "2011",
     "url": "https://www.km77.com/coches/bmw/x3/2011/estandar",
     "price": "Desde 63.100 €",
     "versions": [
         {
-            "name": "X3 sDrive18d",
+            "name": "sDrive18d",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/bmw/x3/2011/estandar/estandar/x3-sdrive18d/datos",
@@ -275,7 +276,7 @@
             ]
         },
         {
-            "name": "X3 sDrive18d Aut.",
+            "name": "sDrive18d Aut.",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/bmw/x3/2011/estandar/estandar/x3-sdrive18d-aut/datos",
@@ -544,7 +545,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20i",
+            "name": "xDrive20i",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x3/2011/estandar/estandar/x3-xdrive20i/datos",
@@ -808,7 +809,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20i",
+            "name": "xDrive20i",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/bmw/x3/2011/estandar/estandar/x3-xdrive20i2/datos",
@@ -1072,7 +1073,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20d",
+            "name": "xDrive20d",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x3/2011/estandar/estandar/x3-xdrive20d/datos",
@@ -1337,7 +1338,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20d",
+            "name": "xDrive20d",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/bmw/x3/2011/estandar/estandar/x3-xdrive20d2/datos",
@@ -1602,7 +1603,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20i Aut.",
+            "name": "xDrive20i Aut.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x3/2011/estandar/estandar/x3-xdrive20i-aut/datos",
@@ -1866,7 +1867,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20i Aut.",
+            "name": "xDrive20i Aut.",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/bmw/x3/2011/estandar/estandar/x3-xdrive20i-aut2/datos",
@@ -2130,7 +2131,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20d Aut.",
+            "name": "xDrive20d Aut.",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x3/2011/estandar/estandar/x3-xdrive20d-aut/datos",
@@ -2395,7 +2396,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20d Aut.",
+            "name": "xDrive20d Aut.",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/bmw/x3/2011/estandar/estandar/x3-xdrive20d-aut2/datos",
@@ -2660,7 +2661,7 @@
             ]
         },
         {
-            "name": "X3 xDrive28i",
+            "name": "xDrive28i",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x3/2011/estandar/estandar/x3-xdrive28i/datos",
@@ -2925,7 +2926,7 @@
             ]
         },
         {
-            "name": "X3 xDrive28i",
+            "name": "xDrive28i",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/bmw/x3/2011/estandar/estandar/x3-xdrive28i2/datos",
@@ -3190,7 +3191,7 @@
             ]
         },
         {
-            "name": "X3 xDrive28i",
+            "name": "xDrive28i",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x3/2011/estandar/estandar/x3-xdrive28i-aut/datos",
@@ -3452,7 +3453,7 @@
             ]
         },
         {
-            "name": "X3 xDrive30d",
+            "name": "xDrive30d",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x3/2011/estandar/estandar/x3-xdrive30d/datos",
@@ -3718,7 +3719,7 @@
             ]
         },
         {
-            "name": "X3 xDrive30d",
+            "name": "xDrive30d",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/bmw/x3/2011/estandar/estandar/x3-xdrive30d2/datos",
@@ -3984,7 +3985,7 @@
             ]
         },
         {
-            "name": "X3 xDrive35i",
+            "name": "xDrive35i",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x3/2011/estandar/estandar/x3-xdrive35i-aut/datos",
@@ -4247,7 +4248,7 @@
             ]
         },
         {
-            "name": "X3 xDrive35d",
+            "name": "xDrive35d",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x3/2011/estandar/estandar/x3-xdrive35d/datos",
@@ -4511,7 +4512,7 @@
             ]
         },
         {
-            "name": "X3 xDrive35i",
+            "name": "xDrive35i",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/bmw/x3/2011/estandar/estandar/x3-xdrive35i/datos",
@@ -4774,7 +4775,7 @@
             ]
         },
         {
-            "name": "X3 xDrive35d",
+            "name": "xDrive35d",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/bmw/x3/2011/estandar/estandar/x3-xdrive35d2/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "XPENG",
     "name": "G9",
     "year": "2024",
     "url": "https://www.km77.com/coches/xpeng/g9/2024/estandar",
     "price": "Desde 58.970 €",
     "versions": [
         {
-            "name": "G9 RWD Standard Range (09/2024 - )",
+            "name": "RWD Standard Range (09/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/xpeng/g9/2024/estandar/estandar/g9-rwd-standard-range/datos",
@@ -252,7 +253,7 @@
             ]
         },
         {
-            "name": "G9 RWD Long Range (09/2024 - )",
+            "name": "RWD Long Range (09/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/xpeng/g9/2024/estandar/estandar/g9-rwd-long-range/datos",
@@ -499,7 +500,7 @@
             ]
         },
         {
-            "name": "G9 AWD Performance (09/2024 - )",
+            "name": "AWD Performance (09/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/xpeng/g9/2024/estandar/estandar/g9-awd-performance/datos",

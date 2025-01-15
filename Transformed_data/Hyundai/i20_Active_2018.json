@@ -1,11 +1,12 @@
 {
+    "brand": "Hyundai",
     "name": "i20 Active",
     "year": "2018",
     "url": "https://www.km77.com/coches/hyundai/i20/2018/active",
     "price": "Desde 19.840 €",
     "versions": [
         {
-            "name": "i20 Active 1.0 T-GDi 73,6 kW (100 CV) Drive & Skate",
+            "name": "1.0 T-GDi 73,6 kW (100 CV) Drive & Skate",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/hyundai/i20/2018/active/estandar/i20-active-10-t-gdi-736-kw-100-cv-drive-skate/datos",
@@ -193,7 +194,7 @@
             ]
         },
         {
-            "name": "i20 Active 1.0 T-GDi 73,6 kW (100 CV) Klass SLE",
+            "name": "1.0 T-GDi 73,6 kW (100 CV) Klass SLE",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/hyundai/i20/2018/active/klass/i20-active-10-t-gdi-736-kw-100-cv-klass/datos",
@@ -383,7 +384,7 @@
             ]
         },
         {
-            "name": "i20 Active 1.0 T-GDi 73,6 kW (100 CV) Tecno",
+            "name": "1.0 T-GDi 73,6 kW (100 CV) Tecno",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/hyundai/i20/2018/active/tecno/i20-active-10-t-gdi-736-kw-100-cv-tecno/datos",
@@ -577,7 +578,7 @@
             ]
         },
         {
-            "name": "i20 Active 1.0 T-GDi 73,6 kW (100 CV) DCT Tecno SLE",
+            "name": "1.0 T-GDi 73,6 kW (100 CV) DCT Tecno SLE",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/hyundai/i20/2018/active/estandar/i20-active-10-t-gdi-736-kw-100-cv-dct-tecno-sle/datos",
@@ -771,7 +772,7 @@
             ]
         },
         {
-            "name": "i20 Active 1.0 T-GDi 73,6 kW (100 CV) DCT Tecno",
+            "name": "1.0 T-GDi 73,6 kW (100 CV) DCT Tecno",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/hyundai/i20/2018/active/tecno/i20-active-10-t-gdi-736-kw-100-cv-dct-tecno/datos",

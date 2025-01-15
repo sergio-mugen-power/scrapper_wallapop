@@ -1,11 +1,12 @@
 {
+    "brand": "Dacia",
     "name": "Sandero",
     "year": "2017",
     "url": "https://www.km77.com/coches/dacia/sandero/2017/estandar",
     "price": "Desde 9.990 €",
     "versions": [
         {
-            "name": "Sandero Base SCe 54 kW (73 CV)",
+            "name": "Base SCe 54 kW (73 CV)",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/sandero/2017/estandar/base/sandero-sce-75-cv/datos",
@@ -137,7 +138,7 @@
             ]
         },
         {
-            "name": "Sandero Access 1.0 55 kW (75 CV)",
+            "name": "Access 1.0 55 kW (75 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/dacia/sandero/2017/estandar/access/sandero-access-10-55-kw-75-cv2/datos",
@@ -279,7 +280,7 @@
             ]
         },
         {
-            "name": "Sandero Access 1.0 55 kW (75 CV)",
+            "name": "Access 1.0 55 kW (75 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/dacia/sandero/2017/estandar/access/sandero-access-10-55-kw-75-cv/datos",
@@ -420,7 +421,7 @@
             ]
         },
         {
-            "name": "Sandero Ambiance SCe 54 kW (73 CV)",
+            "name": "Ambiance SCe 54 kW (73 CV)",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/sandero/2017/estandar/ambiance/sandero-ambiance-sce-75/datos",
@@ -573,7 +574,7 @@
             ]
         },
         {
-            "name": "Sandero Essential 1.0 55 kW (75 CV)",
+            "name": "Essential 1.0 55 kW (75 CV)",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/dacia/sandero/2017/estandar/essential/sandero-essential-10-55-kw-75-cv2/datos",
@@ -736,7 +737,7 @@
             ]
         },
         {
-            "name": "Sandero Essential 1.0 55 kW (75 CV)",
+            "name": "Essential 1.0 55 kW (75 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/dacia/sandero/2017/estandar/essential/sandero-essential-10-55-kw-75-cv/datos",
@@ -898,7 +899,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate SCe 54 kW (73 CV)",
+            "name": "Laureate SCe 54 kW (73 CV)",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/sandero/2017/estandar/laureate/sandero-laureate-sce-54-kw-73-cv/datos",
@@ -1064,7 +1065,7 @@
             ]
         },
         {
-            "name": "Sandero Ambiance dCi 55 kW (75 CV)",
+            "name": "Ambiance dCi 55 kW (75 CV)",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/sandero/2017/estandar/ambiance/sandero-dci-75-cv-ss/datos",
@@ -1220,7 +1221,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate TCE 66 kW (90 CV)",
+            "name": "Laureate TCE 66 kW (90 CV)",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/sandero/2017/estandar/laureate/sandero-tce-90-cv-ss/datos",
@@ -1389,7 +1390,7 @@
             ]
         },
         {
-            "name": "Sandero Comfort TCE 66 kW (90 CV)",
+            "name": "Comfort TCE 66 kW (90 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/dacia/sandero/2017/estandar/comfort/sandero-comfort-tce-66-kw-90-cv2/datos",
@@ -1566,7 +1567,7 @@
             ]
         },
         {
-            "name": "Sandero Comfort TCE 66 kW (90 CV)",
+            "name": "Comfort TCE 66 kW (90 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/dacia/sandero/2017/estandar/comfort/sandero-comfort-tce-66-kw-90-cv/datos",
@@ -1743,7 +1744,7 @@
             ]
         },
         {
-            "name": "Sandero Ambiance TCE 66 kW (90 CV) GLP",
+            "name": "Ambiance TCE 66 kW (90 CV) GLP",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/sandero/2017/estandar/ambiance/sandero-tce-90-cv-ss-glp/datos",
@@ -1896,7 +1897,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate dCi 55 kW (75 CV)",
+            "name": "Laureate dCi 55 kW (75 CV)",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/sandero/2017/estandar/laureate/sandero-laureate-dci-75/datos",
@@ -2062,7 +2063,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate TCE 66 kW (90 CV) EASY-R",
+            "name": "Laureate TCE 66 kW (90 CV) EASY-R",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/dacia/sandero/2017/estandar/laureate/sandero-tce-90-cv-ss-easy-r/datos",
@@ -2230,7 +2231,7 @@
             ]
         },
         {
-            "name": "Sandero Essential TCE 66 kW (90 CV) GLP",
+            "name": "Essential TCE 66 kW (90 CV) GLP",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/dacia/sandero/2017/estandar/essential/sandero-essential-tce-66-kw-90-cv-glp/datos",
@@ -2392,7 +2393,7 @@
             ]
         },
         {
-            "name": "Sandero Access 1.0 55 kW (75 CV)",
+            "name": "Access 1.0 55 kW (75 CV)",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/dacia/sandero/2017/estandar/access/sandero-access-10-55-kw-75-cv3/datos",
@@ -2537,7 +2538,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate TCE 66 kW (90 CV) GLP",
+            "name": "Laureate TCE 66 kW (90 CV) GLP",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/sandero/2017/estandar/laureate/sandero-laureate-tce-90-cv-glp/datos",
@@ -2701,7 +2702,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate dCi 66 kW (90 CV)",
+            "name": "Laureate dCi 66 kW (90 CV)",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/sandero/2017/estandar/laureate/sandero-dci-90-cv-ss/datos",
@@ -2871,7 +2872,7 @@
             ]
         },
         {
-            "name": "Sandero Comfort Blue dCi 70 kW (95 CV)",
+            "name": "Comfort Blue dCi 70 kW (95 CV)",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/dacia/sandero/2017/estandar/comfort/sandero-comfort-blue-dci-70-kw-95-cv/datos",
@@ -3046,7 +3047,7 @@
             ]
         },
         {
-            "name": "Sandero Essential 1.0 55 kW (75 CV)",
+            "name": "Essential 1.0 55 kW (75 CV)",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/dacia/sandero/2017/estandar/essential/sandero-essential-10-55-kw-75-cv3/datos",
@@ -3212,7 +3213,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate dCi 66 kW (90 CV) EASY-R",
+            "name": "Laureate dCi 66 kW (90 CV) EASY-R",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/dacia/sandero/2017/estandar/laureate/sandero-dci-90-cv-ss-easy-r/datos",
@@ -3380,7 +3381,7 @@
             ]
         },
         {
-            "name": "Sandero Essential TCE 74 kW (100 CV) GLP",
+            "name": "Essential TCE 74 kW (100 CV) GLP",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/dacia/sandero/2017/estandar/essential/sandero-essential-tce-74-kw-100-cv-glp/datos",
@@ -3543,7 +3544,7 @@
             ]
         },
         {
-            "name": "Sandero Comfort TCE 66 kW (90 CV)",
+            "name": "Comfort TCE 66 kW (90 CV)",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/dacia/sandero/2017/estandar/comfort/sandero-comfort-tce-66-kw-90-cv3/datos",
@@ -3721,7 +3722,7 @@
             ]
         },
         {
-            "name": "Sandero Comfort TCE 74 kW (100 CV)",
+            "name": "Comfort TCE 74 kW (100 CV)",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/dacia/sandero/2017/estandar/comfort/sandero-comfort-tce-74-kw-100-cv/datos",
@@ -3899,7 +3900,7 @@
             ]
         },
         {
-            "name": "Sandero Comfort Blue dCi 70 kW (95 CV)",
+            "name": "Comfort Blue dCi 70 kW (95 CV)",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/dacia/sandero/2017/estandar/comfort/sandero-comfort-blue-dci-70-kw-95-cv2/datos",

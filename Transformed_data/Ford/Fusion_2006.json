@@ -1,11 +1,12 @@
 {
+    "brand": "Ford",
     "name": "Fusion",
     "year": "2006",
     "url": "https://www.km77.com/coches/ford/fusion/2006/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Fusion Urban 1.4 80 CV",
+            "name": "Urban 1.4 80 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/urban/fusion-urban-14-80-cv/datos",
@@ -151,7 +152,7 @@
             ]
         },
         {
-            "name": "Fusion Urban 1.4 80 CV",
+            "name": "Urban 1.4 80 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/urban/fusion-urban-14-80-cv2/datos",
@@ -297,7 +298,7 @@
             ]
         },
         {
-            "name": "Fusion Ambiente 1.4 80 CV",
+            "name": "Ambiente 1.4 80 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/ambiente/fusion-ambiente-14-80-cv/datos",
@@ -434,7 +435,7 @@
             ]
         },
         {
-            "name": "Fusion Ambiente 1.4 TDCi 68 CV",
+            "name": "Ambiente 1.4 TDCi 68 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/ambiente/fusion-ambiente-14-tdci-68-cv/datos",
@@ -569,7 +570,7 @@
             ]
         },
         {
-            "name": "Fusion Futura 1.4 80 CV",
+            "name": "Futura 1.4 80 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/futura/fusion-futura-14-80-cv/datos",
@@ -721,7 +722,7 @@
             ]
         },
         {
-            "name": "Fusion Flex 1.4 80 CV",
+            "name": "Flex 1.4 80 CV",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/flex/fusion-flex-14-80-cv/datos",
@@ -873,7 +874,7 @@
             ]
         },
         {
-            "name": "Fusion Futura 1.4 TDCi 68 CV",
+            "name": "Futura 1.4 TDCi 68 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/futura/fusion-futura-14-tdci-68-cv/datos",
@@ -1025,7 +1026,7 @@
             ]
         },
         {
-            "name": "Fusion Flex 1.4 TDCi 68 CV",
+            "name": "Flex 1.4 TDCi 68 CV",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/flex/fusion-flex-14-tdci-68-cv/datos",
@@ -1177,7 +1178,7 @@
             ]
         },
         {
-            "name": "Fusion Newport 1.4 80 CV",
+            "name": "Newport 1.4 80 CV",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/newport/fusion-newport-14-80-cv/datos",
@@ -1325,7 +1326,7 @@
             ]
         },
         {
-            "name": "Fusion Flex 1.4 80 CV Aut.",
+            "name": "Flex 1.4 80 CV Aut.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/flex/fusion-flex-14-80-cv-aut/datos",
@@ -1475,7 +1476,7 @@
             ]
         },
         {
-            "name": "Fusion Futura 1.4 80 CV Durashift EST",
+            "name": "Futura 1.4 80 CV Durashift EST",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/futura/fusion-futura-14-80-cv-durashift-est/datos",
@@ -1623,7 +1624,7 @@
             ]
         },
         {
-            "name": "Fusion Trend 1.4 80 CV",
+            "name": "Trend 1.4 80 CV",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/trend/fusion-trend-14-80-cv/datos",
@@ -1767,7 +1768,7 @@
             ]
         },
         {
-            "name": "Fusion Urban4 1.4 80 CV",
+            "name": "Urban4 1.4 80 CV",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/urban4/fusion-urban4-14-80-cv/datos",
@@ -1917,7 +1918,7 @@
             ]
         },
         {
-            "name": "Fusion Futura 1.4 TDCi 68 CV Durashift EST",
+            "name": "Futura 1.4 TDCi 68 CV Durashift EST",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/futura/fusion-futura-14-tdci-68-cv-durashift-est/datos",
@@ -2064,7 +2065,7 @@
             ]
         },
         {
-            "name": "Fusion Urban4 1.4 TDCi 68 CV",
+            "name": "Urban4 1.4 TDCi 68 CV",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/urban4/fusion-urban4-14-tdci-68-cv/datos",
@@ -2214,7 +2215,7 @@
             ]
         },
         {
-            "name": "Fusion Flex 1.6 TDCi 90 CV",
+            "name": "Flex 1.6 TDCi 90 CV",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/flex/fusion-flex-16-tdci-90-cv/datos",
@@ -2363,7 +2364,7 @@
             ]
         },
         {
-            "name": "Fusion Newport 1.4 80 CV Durashift EST",
+            "name": "Newport 1.4 80 CV Durashift EST",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/newport/fusion-newport-14-80-cv-durashift-est/datos",
@@ -2509,7 +2510,7 @@
             ]
         },
         {
-            "name": "Fusion Futura 1.6 TDCi 90 CV",
+            "name": "Futura 1.6 TDCi 90 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/futura/fusion-futura-16-tdci-90-cv/datos",
@@ -2658,7 +2659,7 @@
             ]
         },
         {
-            "name": "Fusion Urban4 1.6 100 CV",
+            "name": "Urban4 1.6 100 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/urban4/fusion-urban4-16-100-cv/datos",
@@ -2809,7 +2810,7 @@
             ]
         },
         {
-            "name": "Fusion Trend 1.4 80 CV Durashift EST",
+            "name": "Trend 1.4 80 CV Durashift EST",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/trend/fusion-trend-14-80-cv-durashift-est/datos",
@@ -2952,7 +2953,7 @@
             ]
         },
         {
-            "name": "Fusion Newport 1.4 TDCi 68 CV",
+            "name": "Newport 1.4 TDCi 68 CV",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/newport/fusion-newport-14-tdci-68-cv/datos",
@@ -3100,7 +3101,7 @@
             ]
         },
         {
-            "name": "Fusion Trend 1.4 TDCi 68 CV",
+            "name": "Trend 1.4 TDCi 68 CV",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/trend/fusion-trend-14-tdci-68-cv/datos",
@@ -3245,7 +3246,7 @@
             ]
         },
         {
-            "name": "Fusion Elegance 1.6 100 CV",
+            "name": "Elegance 1.6 100 CV",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/elegance/fusion-elegance-16-100-cv/datos",
@@ -3394,7 +3395,7 @@
             ]
         },
         {
-            "name": "Fusion Elegance 1.4 TDCi 68 CV",
+            "name": "Elegance 1.4 TDCi 68 CV",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/elegance/fusion-elegance-14-tdci-68-cv2/datos",
@@ -3546,7 +3547,7 @@
             ]
         },
         {
-            "name": "Fusion Ambiente 1.4 80 CV",
+            "name": "Ambiente 1.4 80 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/ambiente/fusion-ambiente-14-80-cv2/datos",
@@ -3683,7 +3684,7 @@
             ]
         },
         {
-            "name": "Fusion Elegance 1.4 TDCi 68 CV",
+            "name": "Elegance 1.4 TDCi 68 CV",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/elegance/fusion-elegance-14-tdci-68-cv/datos",
@@ -3832,7 +3833,7 @@
             ]
         },
         {
-            "name": "Fusion Urban4 1.6 TDCi 90 CV",
+            "name": "Urban4 1.6 TDCi 90 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/urban4/fusion-urban4-16-tdci-90-cv2/datos",
@@ -3980,7 +3981,7 @@
             ]
         },
         {
-            "name": "Fusion Elegance 1.6 100 CV",
+            "name": "Elegance 1.6 100 CV",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/elegance/fusion-elegance-16-100-cv2/datos",
@@ -4132,7 +4133,7 @@
             ]
         },
         {
-            "name": "Fusion Newport 1.4 TDCi 68 CV Durashift EST",
+            "name": "Newport 1.4 TDCi 68 CV Durashift EST",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/newport/fusion-newport-14-tdci-68-cv-durashift-est/datos",
@@ -4276,7 +4277,7 @@
             ]
         },
         {
-            "name": "Fusion Newport 1.6 TDCi 90 CV",
+            "name": "Newport 1.6 TDCi 90 CV",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/newport/fusion-newport-16-tdci-90-cv/datos",
@@ -4420,7 +4421,7 @@
             ]
         },
         {
-            "name": "Fusion + 1.6 100 CV",
+            "name": "+ 1.6 100 CV",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/plus/fusion-16-100-cv/datos",
@@ -4571,7 +4572,7 @@
             ]
         },
         {
-            "name": "Fusion Ambiente 1.4 TDCi 68 CV",
+            "name": "Ambiente 1.4 TDCi 68 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/ambiente/fusion-ambiente-14-tdci-68-cv2/datos",
@@ -4706,7 +4707,7 @@
             ]
         },
         {
-            "name": "Fusion Flex 1.4 80 CV",
+            "name": "Flex 1.4 80 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/flex/fusion-flex-14-80-cv2/datos",
@@ -4858,7 +4859,7 @@
             ]
         },
         {
-            "name": "Fusion Trend 1.6 TDCi 90 CV",
+            "name": "Trend 1.6 TDCi 90 CV",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/trend/fusion-trend-16-tdci-90-cv/datos",
@@ -5000,7 +5001,7 @@
             ]
         },
         {
-            "name": "Fusion Elegance 1.6 100 CV Durashift Aut.",
+            "name": "Elegance 1.6 100 CV Durashift Aut.",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/elegance/fusion-elegance-16-100-cv-durashift-aut/datos",
@@ -5146,7 +5147,7 @@
             ]
         },
         {
-            "name": "Fusion Elegance 1.6 TDCi 90 CV",
+            "name": "Elegance 1.6 TDCi 90 CV",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/elegance/fusion-elegance-16-tdci-90-cv2/datos",
@@ -5295,7 +5296,7 @@
             ]
         },
         {
-            "name": "Fusion Plus 1.6 100 CV",
+            "name": "Plus 1.6 100 CV",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/plus2/fusion-plus-16-100-cv/datos",
@@ -5449,7 +5450,7 @@
             ]
         },
         {
-            "name": "Fusion Flex 1.4 TDCi 68 CV",
+            "name": "Flex 1.4 TDCi 68 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/flex/fusion-flex-14-tdci-68-cv2/datos",
@@ -5599,7 +5600,7 @@
             ]
         },
         {
-            "name": "Fusion Urban4 1.6 TDCi 90 CV",
+            "name": "Urban4 1.6 TDCi 90 CV",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/urban4/fusion-urban4-16-tdci-90-cv/datos",
@@ -5743,7 +5744,7 @@
             ]
         },
         {
-            "name": "Fusion Elegance 1.6 TDCi 90 CV",
+            "name": "Elegance 1.6 TDCi 90 CV",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/elegance/fusion-elegance-16-tdci-90-cv/datos",
@@ -5889,7 +5890,7 @@
             ]
         },
         {
-            "name": "Fusion Flex 1.4 80 CV Aut.",
+            "name": "Flex 1.4 80 CV Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/flex/fusion-flex-14-80-cv-aut2/datos",
@@ -6039,7 +6040,7 @@
             ]
         },
         {
-            "name": "Fusion Plus 1.4 TDCi 68 CV Durashift EST",
+            "name": "Plus 1.4 TDCi 68 CV Durashift EST",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/plus2/fusion-plus-14-tdci-68-cv-durashift-est/datos",
@@ -6189,7 +6190,7 @@
             ]
         },
         {
-            "name": "Fusion + 1.4 TDCi 68 CV Durashift EST",
+            "name": "+ 1.4 TDCi 68 CV Durashift EST",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/plus/fusion-14-tdci-68-cv-durashift-est/datos",
@@ -6337,7 +6338,7 @@
             ]
         },
         {
-            "name": "Fusion Plus 1.6 TDCi 90 CV",
+            "name": "Plus 1.6 TDCi 90 CV",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/plus2/fusion-plus-16-tdci-90-cv/datos",
@@ -6488,7 +6489,7 @@
             ]
         },
         {
-            "name": "Fusion Elegance 1.6 100 CV Durashift",
+            "name": "Elegance 1.6 100 CV Durashift",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/elegance/fusion-elegance-16-100-cv-durashift/datos",
@@ -6636,7 +6637,7 @@
             ]
         },
         {
-            "name": "Fusion + 1.6 TDCi 90 CV",
+            "name": "+ 1.6 TDCi 90 CV",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/plus/fusion-16-tdci-90-cv/datos",
@@ -6786,7 +6787,7 @@
             ]
         },
         {
-            "name": "Fusion Flex 1.6 TDCi 90 CV",
+            "name": "Flex 1.6 TDCi 90 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/flex/fusion-flex-16-tdci-90-cv2/datos",
@@ -6935,7 +6936,7 @@
             ]
         },
         {
-            "name": "Fusion Plus 1.4 TDCi 68 CV",
+            "name": "Plus 1.4 TDCi 68 CV",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/plus2/fusion-plus-14-tdci-68-cv/datos",
@@ -7029,7 +7030,7 @@
             ]
         },
         {
-            "name": "Fusion Plus 1.4 TDCi 68 CV",
+            "name": "Plus 1.4 TDCi 68 CV",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/ford/fusion/2006/estandar/plus2/fusion-plus-14-tdci-68-cv2/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Subaru",
     "name": "Forester",
     "year": "2019",
     "url": "https://www.km77.com/coches/subaru/forester/2019/estandar",
     "price": "Desde 40.400 €",
     "versions": [
         {
-            "name": "Forester 2.0i Hybrid CVT Sport Plus",
+            "name": "2.0i Hybrid CVT Sport Plus",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/subaru/forester/2019/estandar/sport-plus/forester-20i-hybrid-cvt-sport-plus/datos",
@@ -244,7 +245,7 @@
             ]
         },
         {
-            "name": "Forester 2.0i Hybrid CVT Executive",
+            "name": "2.0i Hybrid CVT Executive",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/subaru/forester/2019/estandar/executive/forester-20i-hybrid-cvt-executive/datos",
@@ -492,7 +493,7 @@
             ]
         },
         {
-            "name": "Forester 2.0i Hybrid CVT Executive Plus",
+            "name": "2.0i Hybrid CVT Executive Plus",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/subaru/forester/2019/estandar/executive-plus/forester-20i-hybrid-cvt-executive-plus/datos",

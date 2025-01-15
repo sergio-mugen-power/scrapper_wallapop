@@ -1,11 +1,12 @@
 {
+    "brand": "Suzuki",
     "name": "Vitara",
     "year": "2020",
     "url": "https://www.km77.com/coches/suzuki/vitara/2020/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Vitara 1.4T Mild Hybrid GLE",
+            "name": "1.4T Mild Hybrid GLE",
             "start_year": "2022",
             "end_year": "2025",
             "url": "https://www.km77.com/coches/suzuki/vitara/2020/estandar/estandar/vitara-14t-mild-hybrid-gle/datos",
@@ -36,7 +37,7 @@
             ]
         },
         {
-            "name": "Vitara 1.4T GLE Mild Hybrid",
+            "name": "1.4T GLE Mild Hybrid",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/suzuki/vitara/2020/estandar/gle/vitara-14t-gle-mild-hybrid/datos",
@@ -67,7 +68,7 @@
             ]
         },
         {
-            "name": "Vitara 1.4T Mild Hybrid 20º Aniversario",
+            "name": "1.4T Mild Hybrid 20º Aniversario",
             "start_year": "2023",
             "end_year": "2025",
             "url": "https://www.km77.com/coches/suzuki/vitara/2020/estandar/estandar/vitara-14t-mild-hybrid-20-aniversario/datos",
@@ -98,7 +99,7 @@
             ]
         },
         {
-            "name": "Vitara 1.4T GLE 4WD Mild Hybrid",
+            "name": "1.4T GLE 4WD Mild Hybrid",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/suzuki/vitara/2020/estandar/gle/vitara-14t-gle-4wd-mild-hybrid/datos",
@@ -129,7 +130,7 @@
             ]
         },
         {
-            "name": "Vitara 1.4T Mild Hybrid GLX",
+            "name": "1.4T Mild Hybrid GLX",
             "start_year": "2022",
             "end_year": "2025",
             "url": "https://www.km77.com/coches/suzuki/vitara/2020/estandar/estandar/vitara-14t-mild-hybrid-glx/datos",
@@ -160,7 +161,7 @@
             ]
         },
         {
-            "name": "Vitara 1.4T GLX Mild Hybrid",
+            "name": "1.4T GLX Mild Hybrid",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/suzuki/vitara/2020/estandar/glx/vitara-14t-glx-mild-hybrid/datos",
@@ -191,7 +192,7 @@
             ]
         },
         {
-            "name": "Vitara 1.4T Mild Hybrid 4x4 GLE",
+            "name": "1.4T Mild Hybrid 4x4 GLE",
             "start_year": "2022",
             "end_year": "2025",
             "url": "https://www.km77.com/coches/suzuki/vitara/2020/estandar/estandar/vitara-14t-mild-hybrid-4x4-gle/datos",
@@ -223,7 +224,7 @@
             ]
         },
         {
-            "name": "Vitara 1.5 Strong Hybrid AGS GLE",
+            "name": "1.5 Strong Hybrid AGS GLE",
             "start_year": "2022",
             "end_year": "2025",
             "url": "https://www.km77.com/coches/suzuki/vitara/2020/estandar/hibrido/vitara-15-strong-hybrid-gle/datos",
@@ -254,7 +255,7 @@
             ]
         },
         {
-            "name": "Vitara 1.4T Mild Hybrid 4x4 20º Aniversario",
+            "name": "1.4T Mild Hybrid 4x4 20º Aniversario",
             "start_year": "2023",
             "end_year": "2025",
             "url": "https://www.km77.com/coches/suzuki/vitara/2020/estandar/estandar/vitara-14t-mild-hybrid-4x4-20-aniversario/datos",
@@ -286,7 +287,7 @@
             ]
         },
         {
-            "name": "Vitara 1.4T GLX Mild Hybrid Aut.",
+            "name": "1.4T GLX Mild Hybrid Aut.",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/suzuki/vitara/2020/estandar/glx/vitara-14t-glx-mild-hybrid-aut/datos",
@@ -317,7 +318,7 @@
             ]
         },
         {
-            "name": "Vitara 1.4T GLX 4WD Mild Hybrid",
+            "name": "1.4T GLX 4WD Mild Hybrid",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/suzuki/vitara/2020/estandar/glx/vitara-14t-glx-4wd-mild-hybrid/datos",
@@ -348,7 +349,7 @@
             ]
         },
         {
-            "name": "Vitara 1.4T Mild Hybrid 4x4 GLX",
+            "name": "1.4T Mild Hybrid 4x4 GLX",
             "start_year": "2022",
             "end_year": "2025",
             "url": "https://www.km77.com/coches/suzuki/vitara/2020/estandar/estandar/vitara-14t-mild-hybrid-4x4-glx/datos",
@@ -380,7 +381,7 @@
             ]
         },
         {
-            "name": "Vitara 1.5 Strong Hybrid AGS GLX",
+            "name": "1.5 Strong Hybrid AGS GLX",
             "start_year": "2022",
             "end_year": "2025",
             "url": "https://www.km77.com/coches/suzuki/vitara/2020/estandar/hibrido/vitara-15-strong-hybrid-glx/datos",
@@ -411,7 +412,7 @@
             ]
         },
         {
-            "name": "Vitara 1.4T GLX 4WD Mild Hybrid Aut.",
+            "name": "1.4T GLX 4WD Mild Hybrid Aut.",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/suzuki/vitara/2020/estandar/glx/vitara-14t-glx-4wd-mild-hybrid-aut/datos",
@@ -442,7 +443,7 @@
             ]
         },
         {
-            "name": "Vitara 1.5 Strong Hybrid AGS 4x4 GLE",
+            "name": "1.5 Strong Hybrid AGS 4x4 GLE",
             "start_year": "2022",
             "end_year": "2025",
             "url": "https://www.km77.com/coches/suzuki/vitara/2020/estandar/hibrido/vitara-15-strong-hybrid-ags-4x4-gle/datos",
@@ -474,7 +475,7 @@
             ]
         },
         {
-            "name": "Vitara 1.5 Strong Hybrid AGS 4x4 GLX",
+            "name": "1.5 Strong Hybrid AGS 4x4 GLX",
             "start_year": "2022",
             "end_year": "2025",
             "url": "https://www.km77.com/coches/suzuki/vitara/2020/estandar/hibrido/vitara-15-strong-hybrid-ags-4x4-glx/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Mercedes-Benz",
     "name": "GLB",
     "year": "2020",
     "url": "https://www.km77.com/coches/mercedes/glb/2020/estandar",
     "price": "Desde 49.069 €",
     "versions": [
         {
-            "name": "GLB 180",
+            "name": "180",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/glb/2020/estandar/estandar/glb-180/datos",
@@ -290,7 +291,7 @@
             ]
         },
         {
-            "name": "GLB 180 7 plazas",
+            "name": "180 7 plazas",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/glb/2020/estandar/estandar/glb-180-7-plazas/datos",
@@ -575,7 +576,7 @@
             ]
         },
         {
-            "name": "GLB 200",
+            "name": "200",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/glb/2020/estandar/estandar/glb-200/datos",
@@ -860,7 +861,7 @@
             ]
         },
         {
-            "name": "GLB 200 d",
+            "name": "200 d",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/glb/2020/estandar/estandar/glb-200-d/datos",
@@ -1145,7 +1146,7 @@
             ]
         },
         {
-            "name": "GLB 200 7 plazas",
+            "name": "200 7 plazas",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/glb/2020/estandar/estandar/glb-200-7-plazas/datos",
@@ -1423,7 +1424,7 @@
             ]
         },
         {
-            "name": "GLB 200 d 7 plazas",
+            "name": "200 d 7 plazas",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/glb/2020/estandar/estandar/glb-200-d-7-plazas/datos",
@@ -1708,7 +1709,7 @@
             ]
         },
         {
-            "name": "GLB 200 d 4MATIC",
+            "name": "200 d 4MATIC",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/glb/2020/estandar/estandar/glb-200-d-4matic/datos",
@@ -1994,7 +1995,7 @@
             ]
         },
         {
-            "name": "GLB 200 d 4MATIC 7 plazas",
+            "name": "200 d 4MATIC 7 plazas",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/glb/2020/estandar/estandar/glb-200-d-4matic-7-plazas/datos",
@@ -2280,7 +2281,7 @@
             ]
         },
         {
-            "name": "GLB 220 d 4MATIC",
+            "name": "220 d 4MATIC",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/glb/2020/estandar/estandar/glb-220-d-4matic/datos",
@@ -2566,7 +2567,7 @@
             ]
         },
         {
-            "name": "GLB 220 d 4MATIC 7 plazas",
+            "name": "220 d 4MATIC 7 plazas",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/glb/2020/estandar/estandar/glb-220-d-4matic-7-plazas/datos",
@@ -2852,7 +2853,7 @@
             ]
         },
         {
-            "name": "GLB 250 4MATIC",
+            "name": "250 4MATIC",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/glb/2020/estandar/estandar/glb-250-4matic/datos",
@@ -3138,7 +3139,7 @@
             ]
         },
         {
-            "name": "GLB 250 4MATIC 7 plazas",
+            "name": "250 4MATIC 7 plazas",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/glb/2020/estandar/estandar/glb-250-4matic-7-plazas/datos",
@@ -3424,7 +3425,7 @@
             ]
         },
         {
-            "name": "Mercedes-AMG GLB 35 4MATIC+",
+            "name": "Mercedes-AMG  35 4MATIC+",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/mercedes/glb/2020/estandar/amg/amg-glb-35-4matic/datos",
@@ -3711,7 +3712,7 @@
             ]
         },
         {
-            "name": "Mercedes-AMG GLB 35 4MATIC+ 7 plazas",
+            "name": "Mercedes-AMG  35 4MATIC+ 7 plazas",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/mercedes/glb/2020/estandar/amg/amg-glb-35-4matic-7-plazas/datos",
@@ -3998,7 +3999,7 @@
             ]
         },
         {
-            "name": "Mercedes-AMG GLB 35 4MATIC",
+            "name": "Mercedes-AMG  35 4MATIC",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/glb/2020/estandar/amg/amg-glb-35-4matic2/datos",
@@ -4280,7 +4281,7 @@
             ]
         },
         {
-            "name": "Mercedes-AMG GLB 35 4MATIC 7 plazas",
+            "name": "Mercedes-AMG  35 4MATIC 7 plazas",
             "start_year": "2021",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/glb/2020/estandar/amg/amg-glb-35-4matic-7-plazas2/datos",

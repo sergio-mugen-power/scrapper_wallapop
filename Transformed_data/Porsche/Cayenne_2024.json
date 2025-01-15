@@ -1,11 +1,12 @@
 {
+    "brand": "Porsche",
     "name": "Cayenne",
     "year": "2024",
     "url": "https://www.km77.com/coches/porsche/cayenne/2024/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Cayenne (04/2023 - )",
+            "name": "(04/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/porsche/cayenne/2024/estandar/estandar/cayenne/datos",
@@ -34,7 +35,7 @@
             ]
         },
         {
-            "name": "Cayenne E-Hybrid (04/2023 - )",
+            "name": "E-Hybrid (04/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/porsche/cayenne/2024/estandar/phev/cayenne-e-hybrid/datos",
@@ -66,7 +67,7 @@
             ]
         },
         {
-            "name": "Cayenne S E-Hybrid (09/2023 - )",
+            "name": "S E-Hybrid (09/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/porsche/cayenne/2024/estandar/phev/cayenne-s-e-hybrid/datos",
@@ -98,7 +99,7 @@
             ]
         },
         {
-            "name": "Cayenne S (04/2023 - )",
+            "name": "S (04/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/porsche/cayenne/2024/estandar/estandar/cayenne-s/datos",
@@ -127,7 +128,7 @@
             ]
         },
         {
-            "name": "Cayenne GTS (04/2024 - )",
+            "name": "GTS (04/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/porsche/cayenne/2024/estandar/gts/cayenne-gts/datos",
@@ -156,7 +157,7 @@
             ]
         },
         {
-            "name": "Cayenne Turbo E-Hybrid (08/2023 - )",
+            "name": "Turbo E-Hybrid (08/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/porsche/cayenne/2024/estandar/phev/cayenne-turbo-e-hybrid/datos",

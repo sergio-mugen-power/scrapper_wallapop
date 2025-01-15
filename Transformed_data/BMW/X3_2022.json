@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "X3",
     "year": "2022",
     "url": "https://www.km77.com/coches/bmw/x3/2022/estandar",
     "price": "Desde 63.100 €",
     "versions": [
         {
-            "name": "X3 sDrive18d xLine",
+            "name": "sDrive18d xLine",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/bmw/x3/2022/estandar/estandar/x3-sdrive18d/datos",
@@ -311,7 +312,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20i xLine",
+            "name": "xDrive20i xLine",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/bmw/x3/2022/estandar/estandar/x3-xdrive20i/datos",
@@ -619,7 +620,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20d xLine",
+            "name": "xDrive20d xLine",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/bmw/x3/2022/estandar/estandar/x3-xdrive20d/datos",
@@ -927,7 +928,7 @@
             ]
         },
         {
-            "name": "X3 xDrive30i xLine",
+            "name": "xDrive30i xLine",
             "start_year": "2021",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x3/2022/estandar/estandar/x3-xdrive30i/datos",
@@ -1234,7 +1235,7 @@
             ]
         },
         {
-            "name": "X3 xDrive30d xLine",
+            "name": "xDrive30d xLine",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/bmw/x3/2022/estandar/estandar/x3-xdrive30d/datos",
@@ -1542,7 +1543,7 @@
             ]
         },
         {
-            "name": "X3 xDrive30e xLine",
+            "name": "xDrive30e xLine",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/bmw/x3/2022/estandar/e/x3-xdrive30e/datos",
@@ -1856,7 +1857,7 @@
             ]
         },
         {
-            "name": "X3 M40i xDrive",
+            "name": "M40i xDrive",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/bmw/x3/2022/estandar/estandar/x3-m40i/datos",
@@ -2156,7 +2157,7 @@
             ]
         },
         {
-            "name": "X3 M40d xDrive",
+            "name": "M40d xDrive",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/bmw/x3/2022/estandar/estandar/x3-m40d/datos",
@@ -2456,7 +2457,7 @@
             ]
         },
         {
-            "name": "X3 M",
+            "name": "M",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/bmw/x3/2022/estandar/m/x3-m/datos",
@@ -2727,7 +2728,7 @@
             ]
         },
         {
-            "name": "X3 M Competition",
+            "name": "M Competition",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/bmw/x3/2022/estandar/m/x3-m-competition/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Land Rover",
     "name": "Range Rover",
     "year": "2013",
     "url": "https://www.km77.com/coches/land-rover/range-rover/2013/estandar",
     "price": "Desde 140.950 €",
     "versions": [
         {
-            "name": "Range Rover 3.0 TDV6 HSE",
+            "name": "3.0 TDV6 HSE",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2013/estandar/hse/range-rover-30-tdv6-hse/datos",
@@ -249,7 +250,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.0 TDV6 258 CV HSE",
+            "name": "3.0 TDV6 258 CV HSE",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2013/estandar/hse/range-rover-30-tdv6-hse2/datos",
@@ -512,7 +513,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.0 TDV6 VOGUE",
+            "name": "3.0 TDV6 VOGUE",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2013/estandar/vogue/range-rover-30-tdv6-vogue/datos",
@@ -765,7 +766,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.0 TDV6 258 CV VOGUE",
+            "name": "3.0 TDV6 258 CV VOGUE",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2013/estandar/vogue/range-rover-30-tdv6-vogue2/datos",
@@ -1041,7 +1042,7 @@
             ]
         },
         {
-            "name": "Range Rover 4.4 SDV8 VOGUE",
+            "name": "4.4 SDV8 VOGUE",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2013/estandar/vogue/range-rover-44-sdv8-vogue/datos",
@@ -1305,7 +1306,7 @@
             ]
         },
         {
-            "name": "Range Rover 5.0 V8 Supercharged VOGUE",
+            "name": "5.0 V8 Supercharged VOGUE",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2013/estandar/vogue/range-rover-50-v8-supercharged-vogue/datos",
@@ -1557,7 +1558,7 @@
             ]
         },
         {
-            "name": "Range Rover 4.4 SDV8 340 CV VOGUE",
+            "name": "4.4 SDV8 340 CV VOGUE",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2013/estandar/vogue/range-rover-44-sdv8-340-cv-vogue/datos",
@@ -1833,7 +1834,7 @@
             ]
         },
         {
-            "name": "Range Rover 5.0 V8 Supercharged VOGUE",
+            "name": "5.0 V8 Supercharged VOGUE",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2013/estandar/vogue/range-rover-50-v8-supercharged-vogue2/datos",
@@ -2099,7 +2100,7 @@
             ]
         },
         {
-            "name": "Range Rover 5.0 V8 Supercharged 510 CV VOGUE",
+            "name": "5.0 V8 Supercharged 510 CV VOGUE",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2013/estandar/vogue/range-rover-50-v8-supercharged-510-cv-vogue/datos",
@@ -2374,7 +2375,7 @@
             ]
         },
         {
-            "name": "Range Rover 4.4 SDV8 Autobiography",
+            "name": "4.4 SDV8 Autobiography",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2013/estandar/autobiography/range-rover-44-sdv8-autobiography/datos",
@@ -2646,7 +2647,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.0 SDV6 HYBRID 340 CV Autobiography",
+            "name": "3.0 SDV6 HYBRID 340 CV Autobiography",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2013/estandar/autobiography/range-rover-hybrid/datos",
@@ -2930,7 +2931,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.0 SDV6 HYBRID 340 CV Autobiography",
+            "name": "3.0 SDV6 HYBRID 340 CV Autobiography",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2013/estandar/autobiography/range-rover-30-sdv6-hybrid-340-cv-autobiography/datos",
@@ -3217,7 +3218,7 @@
             ]
         },
         {
-            "name": "Range Rover 5.0 V8 Supercharged Autobiography",
+            "name": "5.0 V8 Supercharged Autobiography",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2013/estandar/autobiography/range-rover-50-v8-supercharged-autobiography/datos",
@@ -3472,7 +3473,7 @@
             ]
         },
         {
-            "name": "Range Rover 5.0 V8 Supercharged Autobiography",
+            "name": "5.0 V8 Supercharged Autobiography",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2013/estandar/autobiography/range-rover-50-v8-supercharged-autobiography2/datos",
@@ -3747,7 +3748,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.0 SDV6 HYBRID 354 CV Autobiography",
+            "name": "3.0 SDV6 HYBRID 354 CV Autobiography",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2013/estandar/autobiography/range-rover-30-sdv6-hybrid-354-cv-autobiography/datos",
@@ -4041,7 +4042,7 @@
             ]
         },
         {
-            "name": "Range Rover 4.4 SDV8 340 CV Autobiography",
+            "name": "4.4 SDV8 340 CV Autobiography",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2013/estandar/autobiography/range-rover-44-sdv8-340-cv-autobiography/datos",
@@ -4324,7 +4325,7 @@
             ]
         },
         {
-            "name": "Range Rover 5.0 V8 Supercharged 510 CV Autobiography",
+            "name": "5.0 V8 Supercharged 510 CV Autobiography",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2013/estandar/autobiography/range-rover-50-v8-supercharged-510-cv-autobiography/datos",

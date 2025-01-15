@@ -1,11 +1,12 @@
 {
+    "brand": "Subaru",
     "name": "Forester",
     "year": "2003",
     "url": "https://www.km77.com/coches/subaru/forester/2003/estandar",
     "price": "Desde 40.400 €",
     "versions": [
         {
-            "name": "Forester 2.0 XT",
+            "name": "2.0 XT",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/subaru/forester/2003/estandar/xt/forester-20-xt/datos",
@@ -179,7 +180,7 @@
             ]
         },
         {
-            "name": "Forester 2.0 XT Aut.",
+            "name": "2.0 XT Aut.",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/subaru/forester/2003/estandar/xt/forester-20-xt-aut/datos",
@@ -352,7 +353,7 @@
             ]
         },
         {
-            "name": "Forester 2.5 XT",
+            "name": "2.5 XT",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/subaru/forester/2003/estandar/xt/forester-25-xt/datos",

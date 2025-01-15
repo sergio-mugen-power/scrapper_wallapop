@@ -1,11 +1,12 @@
 {
+    "brand": "Porsche",
     "name": "Panamera",
     "year": "2009",
     "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar",
     "price": "Desde 127.829 €",
     "versions": [
         {
-            "name": "Panamera",
+            "name": "",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/estandar/panamera/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Panamera",
+            "name": "",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/estandar/panamera2/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Panamera Diesel",
+            "name": "Diesel",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/diesel/panamera-diesel/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Panamera PDK",
+            "name": "PDK",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/estandar/panamera-pdk/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "Panamera Diesel",
+            "name": "Diesel",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/diesel/panamera-diesel2/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Panamera",
+            "name": "",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/estandar/panamera3/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "Panamera PDK",
+            "name": "PDK",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/estandar/panamera-pdk2/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "Panamera Diesel Platinum Edition",
+            "name": "Diesel Platinum Edition",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/platinum-edition/panamera-diesel-platinum-edition/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "Panamera Platinum Edition",
+            "name": "Platinum Edition",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/platinum-edition/panamera-platinum-edition/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "Panamera PDK",
+            "name": "PDK",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/estandar/panamera-pdk3/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "Panamera 4 PDK",
+            "name": "4 PDK",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/4/panamera-4-pdk/datos",
@@ -313,7 +314,7 @@
             ]
         },
         {
-            "name": "Panamera 4",
+            "name": "4",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/4/panamera-4/datos",
@@ -341,7 +342,7 @@
             ]
         },
         {
-            "name": "Panamera Platinum Edition PDK",
+            "name": "Platinum Edition PDK",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/platinum-edition/panamera-platinum-edition-pdk/datos",
@@ -369,7 +370,7 @@
             ]
         },
         {
-            "name": "Panamera 4",
+            "name": "4",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/4/panamera-42/datos",
@@ -397,7 +398,7 @@
             ]
         },
         {
-            "name": "Panamera 4 Platinum Edition",
+            "name": "4 Platinum Edition",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/platinum-edition/panamera-4-platinum-edition/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "Panamera S",
+            "name": "S",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/s/panamera-s/datos",
@@ -453,7 +454,7 @@
             ]
         },
         {
-            "name": "Panamera S",
+            "name": "S",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/s/panamera-s2/datos",
@@ -481,7 +482,7 @@
             ]
         },
         {
-            "name": "Panamera S PDK",
+            "name": "S PDK",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/s/panamera-s-pdk/datos",
@@ -509,7 +510,7 @@
             ]
         },
         {
-            "name": "Panamera S",
+            "name": "S",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/s/panamera-s3/datos",
@@ -537,7 +538,7 @@
             ]
         },
         {
-            "name": "Panamera S PDK",
+            "name": "S PDK",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/s/panamera-s-pdk2/datos",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "name": "Panamera S Hybrid (ruedas 19\" de baja resistencia a la rodadura)",
+            "name": "S Hybrid (ruedas 19\" de baja resistencia a la rodadura)",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/s-hybrid/panamera-s-hybrid-ruedas-19-de-baja-resistencia-a-la-rodadura/datos",
@@ -595,7 +596,7 @@
             ]
         },
         {
-            "name": "Panamera 4S PDK",
+            "name": "4S PDK",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/4s/panamera-4s-pdk/datos",
@@ -623,7 +624,7 @@
             ]
         },
         {
-            "name": "Panamera S Hybrid (ruedas 19\" de baja resistencia a la rodadura)",
+            "name": "S Hybrid (ruedas 19\" de baja resistencia a la rodadura)",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/s-hybrid/panamera-s-hybrid-ruedas-19-de-baja-resistencia-a-la-rodadura2/datos",
@@ -653,7 +654,7 @@
             ]
         },
         {
-            "name": "Panamera S Hybrid",
+            "name": "S Hybrid",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/s-hybrid/panamera-s-hybrid/datos",
@@ -683,7 +684,7 @@
             ]
         },
         {
-            "name": "Panamera S PDK",
+            "name": "S PDK",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/s/panamera-s-pdk3/datos",
@@ -711,7 +712,7 @@
             ]
         },
         {
-            "name": "Panamera 4S",
+            "name": "4S",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/4s/panamera-4s/datos",
@@ -739,7 +740,7 @@
             ]
         },
         {
-            "name": "Panamera S Hybrid",
+            "name": "S Hybrid",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/s-hybrid/panamera-s-hybrid2/datos",
@@ -769,7 +770,7 @@
             ]
         },
         {
-            "name": "Panamera 4S",
+            "name": "4S",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/4s/panamera-4s2/datos",
@@ -797,7 +798,7 @@
             ]
         },
         {
-            "name": "Panamera GTS",
+            "name": "GTS",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/gts/panamera-gts/datos",
@@ -825,7 +826,7 @@
             ]
         },
         {
-            "name": "Panamera GTS",
+            "name": "GTS",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/gts/panamera-gts2/datos",
@@ -853,7 +854,7 @@
             ]
         },
         {
-            "name": "Panamera Turbo PDK",
+            "name": "Turbo PDK",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/turbo/panamera-turbo-pdk/datos",
@@ -881,7 +882,7 @@
             ]
         },
         {
-            "name": "Panamera Turbo",
+            "name": "Turbo",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/turbo/panamera-turbo/datos",
@@ -909,7 +910,7 @@
             ]
         },
         {
-            "name": "Panamera Turbo",
+            "name": "Turbo",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/turbo/panamera-turbo2/datos",
@@ -937,7 +938,7 @@
             ]
         },
         {
-            "name": "Panamera Turbo S",
+            "name": "Turbo S",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/turbo-s/panamera-turbo-s/datos",
@@ -965,7 +966,7 @@
             ]
         },
         {
-            "name": "Panamera Turbo S",
+            "name": "Turbo S",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/porsche/panamera/2009/estandar/turbo-s/panamera-turbo-s2/datos",

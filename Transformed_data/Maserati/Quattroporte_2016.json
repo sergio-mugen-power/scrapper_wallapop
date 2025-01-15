@@ -1,11 +1,12 @@
 {
+    "brand": "Maserati",
     "name": "Quattroporte",
     "year": "2016",
     "url": "https://www.km77.com/coches/maserati/quattroporte/2016/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Quattroporte Diesel",
+            "name": "Diesel",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2016/estandar/estandar/quattroporte-2016/datos",
@@ -270,7 +271,7 @@
             ]
         },
         {
-            "name": "Quattroporte Diesel",
+            "name": "Diesel",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2016/estandar/estandar/quattroporte-diesel/datos",
@@ -541,7 +542,7 @@
             ]
         },
         {
-            "name": "Quattroporte Diesel GranLusso",
+            "name": "Diesel GranLusso",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2016/estandar/granlusso/quattroporte-diesel-granlusso/datos",
@@ -806,7 +807,7 @@
             ]
         },
         {
-            "name": "Quattroporte Diesel GranSport",
+            "name": "Diesel GranSport",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2016/estandar/gransport/quattroporte-diesel-gransport/datos",
@@ -1076,7 +1077,7 @@
             ]
         },
         {
-            "name": "Quattroporte S",
+            "name": "S",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2016/estandar/estandar/quattroporte-s/datos",
@@ -1338,7 +1339,7 @@
             ]
         },
         {
-            "name": "Quattroporte S Q4",
+            "name": "S Q4",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2016/estandar/estandar/quattroporte-s-q4/datos",
@@ -1601,7 +1602,7 @@
             ]
         },
         {
-            "name": "Quattroporte S Q4",
+            "name": "S Q4",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2016/estandar/estandar/quattroporte-s-q42/datos",
@@ -1873,7 +1874,7 @@
             ]
         },
         {
-            "name": "Quattroporte Diesel GranLusso",
+            "name": "Diesel GranLusso",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2016/estandar/granlusso/quattroporte-diesel-granlusso2/datos",
@@ -2143,7 +2144,7 @@
             ]
         },
         {
-            "name": "Quattroporte Diesel GranSport",
+            "name": "Diesel GranSport",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2016/estandar/gransport/quattroporte-diesel-gransport2/datos",
@@ -2417,7 +2418,7 @@
             ]
         },
         {
-            "name": "Quattroporte S GranLusso",
+            "name": "S GranLusso",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2016/estandar/granlusso/quattroporte-s-granlusso/datos",
@@ -2681,7 +2682,7 @@
             ]
         },
         {
-            "name": "Quattroporte S GranSport",
+            "name": "S GranSport",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2016/estandar/gransport/quattroporte-s-gransport/datos",
@@ -2950,7 +2951,7 @@
             ]
         },
         {
-            "name": "Quattroporte S Q4 GranLusso",
+            "name": "S Q4 GranLusso",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2016/estandar/granlusso/quattroporte-s-q4-granlusso/datos",
@@ -3215,7 +3216,7 @@
             ]
         },
         {
-            "name": "Quattroporte S Q4 GranSport",
+            "name": "S Q4 GranSport",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2016/estandar/gransport/quattroporte-s-q4-gransport/datos",
@@ -3485,7 +3486,7 @@
             ]
         },
         {
-            "name": "Quattroporte S Q4 GranSport",
+            "name": "S Q4 GranSport",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2016/estandar/gransport/quattroporte-s-q4-gransport2/datos",
@@ -3759,7 +3760,7 @@
             ]
         },
         {
-            "name": "Quattroporte S Q4 GranLusso",
+            "name": "S Q4 GranLusso",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2016/estandar/granlusso/quattroporte-s-q4-granlusso2/datos",
@@ -4030,7 +4031,7 @@
             ]
         },
         {
-            "name": "Quattroporte GTS GranLusso",
+            "name": "GTS GranLusso",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2016/estandar/granlusso/quattroporte-gts/datos",
@@ -4293,7 +4294,7 @@
             ]
         },
         {
-            "name": "Quattroporte GTS GranSport",
+            "name": "GTS GranSport",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2016/estandar/gransport/quattroporte-gts-gransport/datos",

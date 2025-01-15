@@ -1,11 +1,12 @@
 {
+    "brand": "Nissan",
     "name": "Serena",
     "year": "1998",
     "url": "https://www.km77.com/coches/nissan/serena/1998/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Serena 1.6 LX 5p",
+            "name": "1.6 LX 5p",
             "start_year": "1999",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/nissan/serena/1998/estandar/estandar/serena-16-lx-5p/datos",
@@ -31,7 +32,7 @@
             ]
         },
         {
-            "name": "Serena 1.6 SLX 5p",
+            "name": "1.6 SLX 5p",
             "start_year": "1999",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/nissan/serena/1998/estandar/estandar/serena-16-slx-5p/datos",
@@ -58,7 +59,7 @@
             ]
         },
         {
-            "name": "Serena 2.3 D LX 5p",
+            "name": "2.3 D LX 5p",
             "start_year": "1999",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/nissan/serena/1998/estandar/estandar/serena-23-d-lx-5p/datos",
@@ -84,7 +85,7 @@
             ]
         },
         {
-            "name": "Serena 1.6 SLX 8p",
+            "name": "1.6 SLX 8p",
             "start_year": "1999",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/nissan/serena/1998/estandar/estandar/serena-16-slx-8p/datos",
@@ -111,7 +112,7 @@
             ]
         },
         {
-            "name": "Serena 2.3 D LX 8p",
+            "name": "2.3 D LX 8p",
             "start_year": "1999",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/nissan/serena/1998/estandar/estandar/serena-23-d-lx-8p/datos",
@@ -137,7 +138,7 @@
             ]
         },
         {
-            "name": "Serena 2.3 D SLX 5p",
+            "name": "2.3 D SLX 5p",
             "start_year": "1999",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/nissan/serena/1998/estandar/estandar/serena-23-d-slx-5p/datos",
@@ -164,7 +165,7 @@
             ]
         },
         {
-            "name": "Serena 2.3 D SLX 8p",
+            "name": "2.3 D SLX 8p",
             "start_year": "1999",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/nissan/serena/1998/estandar/estandar/serena-23-d-slx-8p/datos",
@@ -191,7 +192,7 @@
             ]
         },
         {
-            "name": "Serena 2.0 SE",
+            "name": "2.0 SE",
             "start_year": "1999",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/nissan/serena/1998/estandar/estandar/serena-20-se/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Lexus",
     "name": "RC",
     "year": "2019",
     "url": "https://www.km77.com/coches/lexus/rc/2019/estandar",
     "price": "",
     "versions": [
         {
-            "name": "RC 300h Business",
+            "name": "300h Business",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/lexus/rc/2019/estandar/business/rc-300h-business/datos",
@@ -221,7 +222,7 @@
             ]
         },
         {
-            "name": "RC 300h Executive",
+            "name": "300h Executive",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/lexus/rc/2019/estandar/executive/rc-300h-executive/datos",
@@ -440,7 +441,7 @@
             ]
         },
         {
-            "name": "RC 300h F Sport",
+            "name": "300h F Sport",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/lexus/rc/2019/estandar/f-sport/rc-300h-f-sport/datos",
@@ -670,7 +671,7 @@
             ]
         },
         {
-            "name": "RC 300h Luxury",
+            "name": "300h Luxury",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/lexus/rc/2019/estandar/luxury/rc-300h-luxury/datos",

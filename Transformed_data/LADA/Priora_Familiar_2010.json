@@ -1,11 +1,12 @@
 {
+    "brand": "LADA",
     "name": "Priora Familiar",
     "year": "2010",
     "url": "https://www.km77.com/coches/lada/priora/2010/familiar",
     "price": "",
     "versions": [
         {
-            "name": "Priora Familiar",
+            "name": "",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/lada/priora/2010/familiar/estandar/priora-familiar/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "Priora Familiar",
+            "name": "",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/lada/priora/2010/familiar/estandar/priora-familiar2/datos",
@@ -342,7 +343,7 @@
             ]
         },
         {
-            "name": "Priora Familiar Luxe",
+            "name": "Luxe",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/lada/priora/2010/familiar/luxe/priora-familiar-luxe/datos",
@@ -512,7 +513,7 @@
             ]
         },
         {
-            "name": "Priora Familiar Luxe",
+            "name": "Luxe",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/lada/priora/2010/familiar/luxe/priora-familiar-luxe2/datos",

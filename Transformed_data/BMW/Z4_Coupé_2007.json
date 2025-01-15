@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "Z4 Coupé",
     "year": "2007",
     "url": "https://www.km77.com/coches/bmw/z4/2007/coupe",
     "price": "Desde 58.700 €",
     "versions": [
         {
-            "name": "Z4 Coupé 3.0si",
+            "name": "3.0si",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/z4/2007/coupe/estandar/z4-coupe-30si/datos",
@@ -226,7 +227,7 @@
             ]
         },
         {
-            "name": "Z4 Coupé 3.0si",
+            "name": "3.0si",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/z4/2007/coupe/estandar/z4-coupe-30si2/datos",
@@ -447,7 +448,7 @@
             ]
         },
         {
-            "name": "Z4 Coupé 3.0si Aut.",
+            "name": "3.0si Aut.",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/z4/2007/coupe/estandar/z4-coupe-30si-aut/datos",
@@ -668,7 +669,7 @@
             ]
         },
         {
-            "name": "Z4 Coupé 3.0si Aut.",
+            "name": "3.0si Aut.",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/z4/2007/coupe/estandar/z4-coupe-30si-aut2/datos",

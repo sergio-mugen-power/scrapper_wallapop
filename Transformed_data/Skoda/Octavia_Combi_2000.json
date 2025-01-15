@@ -1,11 +1,12 @@
 {
+    "brand": "Skoda",
     "name": "Octavia Combi",
     "year": "2000",
     "url": "https://www.km77.com/coches/skoda/octavia/2000/combi",
     "price": "Desde 33.100 €",
     "versions": [
         {
-            "name": "Octavia Combi GLXi",
+            "name": "GLXi",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/skoda/octavia/2000/combi/glxi/octavia-combi-glxi/datos",
@@ -133,7 +134,7 @@
             ]
         },
         {
-            "name": "Octavia Combi GLX TDI",
+            "name": "GLX TDI",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/skoda/octavia/2000/combi/glx/octavia-combi-glx-tdi/datos",
@@ -444,7 +445,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 1.6 Ambiente",
+            "name": "1.6 Ambiente",
             "start_year": "2000",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/skoda/octavia/2000/combi/ambiente/octavia-combi-16-ambiente/datos",
@@ -637,7 +638,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 1.9 TDI Ambiente 90 CV",
+            "name": "1.9 TDI Ambiente 90 CV",
             "start_year": "2000",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/skoda/octavia/2000/combi/ambiente/octavia-combi-19-tdi-ambiente-90-cv/datos",
@@ -1015,7 +1016,7 @@
             ]
         },
         {
-            "name": "Octavia Combi SLX TDI",
+            "name": "SLX TDI",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/skoda/octavia/2000/combi/slx/octavia-combi-slx-tdi/datos",
@@ -1150,7 +1151,7 @@
             ]
         },
         {
-            "name": "Octavia Combi SLX 1.8T 20V",
+            "name": "SLX 1.8T 20V",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/skoda/octavia/2000/combi/slx/octavia-combi-slx-18t-20v/datos",
@@ -1284,7 +1285,7 @@
             ]
         },
         {
-            "name": "Octavia Combi SLX TDI 4 x 4",
+            "name": "SLX TDI 4 x 4",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/skoda/octavia/2000/combi/slx/octavia-combi-slx-tdi-4-x-4/datos",
@@ -1422,7 +1423,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 1.9 TDI Collection 110 CV",
+            "name": "1.9 TDI Collection 110 CV",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/skoda/octavia/2000/combi/collection/octavia-combi-19-tdi-collection-110-cv/datos",
@@ -1616,7 +1617,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 1.9 TDI Elegance 110 CV",
+            "name": "1.9 TDI Elegance 110 CV",
             "start_year": "2003",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/skoda/octavia/2000/combi/elegance/octavia-combi-19-tdi-elegance-110-cv/datos",
@@ -1791,7 +1792,7 @@
             ]
         },
         {
-            "name": "Octavia Combi Elegance 1.8T 20V",
+            "name": "Elegance 1.8T 20V",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/skoda/octavia/2000/combi/elegance/octavia-combi-elegance-18t-20v/datos",
@@ -1960,7 +1961,7 @@
             ]
         },
         {
-            "name": "Octavia Combi Elegance 2.0 4x4",
+            "name": "Elegance 2.0 4x4",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/skoda/octavia/2000/combi/elegance/octavia-combi-elegance-20-4x4/datos",
@@ -2140,7 +2141,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 1.9 TDI Collection 130 CV",
+            "name": "1.9 TDI Collection 130 CV",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/skoda/octavia/2000/combi/collection/octavia-combi-19-tdi-collection-130-cv/datos",
@@ -2334,7 +2335,7 @@
             ]
         },
         {
-            "name": "Octavia Combi Elegance TDI 130 CV",
+            "name": "Elegance TDI 130 CV",
             "start_year": "2003",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/skoda/octavia/2000/combi/elegance/octavia-combi-elegance-tdi-130-cv/datos",
@@ -2510,7 +2511,7 @@
             ]
         },
         {
-            "name": "Octavia Combi Elegance TDI 4x4 101 CV",
+            "name": "Elegance TDI 4x4 101 CV",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/skoda/octavia/2000/combi/elegance/octavia-combi-elegance-tdi-4x4-101-cv/datos",
@@ -2686,7 +2687,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 1.9 TDI 4x4 Collection 101 CV",
+            "name": "1.9 TDI 4x4 Collection 101 CV",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/skoda/octavia/2000/combi/collection/octavia-combi-19-tdi-4x4-collection-101-cv/datos",
@@ -2880,7 +2881,7 @@
             ]
         },
         {
-            "name": "Octavia Combi Elegance 1.8T 20V 4x4",
+            "name": "Elegance 1.8T 20V 4x4",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/skoda/octavia/2000/combi/elegance/octavia-combi-elegance-18t-20v-4x4/datos",
@@ -3060,7 +3061,7 @@
             ]
         },
         {
-            "name": "Octavia Combi Laurin&Klement TDI",
+            "name": "Laurin&Klement TDI",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/skoda/octavia/2000/combi/laurinklement/octavia-combi-laurinklement-tdi/datos",
@@ -3198,7 +3199,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 1.8T 20V 4x4 Collection",
+            "name": "1.8T 20V 4x4 Collection",
             "start_year": "2003",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/skoda/octavia/2000/combi/collection/octavia-combi-18t-20v-4x4-collection/datos",
@@ -3378,7 +3379,7 @@
             ]
         },
         {
-            "name": "Octavia Combi Laurin&Klement 1.8T 20V",
+            "name": "Laurin&Klement 1.8T 20V",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/skoda/octavia/2000/combi/laurinklement/octavia-combi-laurinklement-18t-20v/datos",
@@ -3516,7 +3517,7 @@
             ]
         },
         {
-            "name": "Octavia Combi Laurin&Klement TDI 110 CV",
+            "name": "Laurin&Klement TDI 110 CV",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/skoda/octavia/2000/combi/laurinklement/octavia-combi-laurinklement-tdi-110-cv/datos",
@@ -3688,7 +3689,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 1.8T 20V RS",
+            "name": "1.8T 20V RS",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/skoda/octavia/2000/combi/rs/octavia-combi-18t-20v-rs/datos",
@@ -3858,7 +3859,7 @@
             ]
         },
         {
-            "name": "Octavia Combi Laurin&Klement 1.8T 20V",
+            "name": "Laurin&Klement 1.8T 20V",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/skoda/octavia/2000/combi/laurinklement/octavia-combi-laurinklement-18t-20v2/datos",
@@ -4035,7 +4036,7 @@
             ]
         },
         {
-            "name": "Octavia Combi Laurin&Klement TDI 130 CV",
+            "name": "Laurin&Klement TDI 130 CV",
             "start_year": "2003",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/skoda/octavia/2000/combi/laurinklement/octavia-combi-laurinklement-tdi-130-cv/datos",
@@ -4212,7 +4213,7 @@
             ]
         },
         {
-            "name": "Octavia Combi Laurin&Klement 1.8T 20V Aut.",
+            "name": "Laurin&Klement 1.8T 20V Aut.",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/skoda/octavia/2000/combi/laurinklement/octavia-combi-laurinklement-18t-20v-aut/datos",
@@ -4349,7 +4350,7 @@
             ]
         },
         {
-            "name": "Octavia Combi Laurin&Klement 1.8T 20V Aut.",
+            "name": "Laurin&Klement 1.8T 20V Aut.",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/skoda/octavia/2000/combi/laurinklement/octavia-combi-laurinklement-18t-20v-aut2/datos",
@@ -4526,7 +4527,7 @@
             ]
         },
         {
-            "name": "Octavia Combi Laurin&Klement 1.8T 20V 4x4",
+            "name": "Laurin&Klement 1.8T 20V 4x4",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/skoda/octavia/2000/combi/laurinklement/octavia-combi-laurinklement-18t-20v-4x4/datos",

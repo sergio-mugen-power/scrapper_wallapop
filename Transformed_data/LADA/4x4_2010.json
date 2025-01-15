@@ -1,11 +1,12 @@
 {
+    "brand": "LADA",
     "name": "4x4",
     "year": "2010",
     "url": "https://www.km77.com/coches/lada/4x4/2010/estandar",
     "price": "",
     "versions": [
         {
-            "name": "4x4 1.7i Tundra",
+            "name": "1.7i Tundra",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/lada/4x4/2010/estandar/tundra/4x4-17i-tundra/datos",
@@ -16,7 +17,7 @@
             "maletero": "263"
         },
         {
-            "name": "4x4 1.7i",
+            "name": "1.7i",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/lada/4x4/2010/estandar/estandar/4x4-17i/datos",
@@ -27,7 +28,7 @@
             "maletero": "263"
         },
         {
-            "name": "4x4 1.7i",
+            "name": "1.7i",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/lada/4x4/2010/estandar/estandar/4x4-17i2/datos",

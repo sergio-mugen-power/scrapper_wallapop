@@ -1,11 +1,12 @@
 {
+    "brand": "Hyundai",
     "name": "H-1",
     "year": "1998",
     "url": "https://www.km77.com/coches/hyundai/h-1/1998/estandar",
     "price": "",
     "versions": [
         {
-            "name": "H-1 2.4 MPI SVX 7p",
+            "name": "2.4 MPI SVX 7p",
             "start_year": "1997",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/hyundai/h-1/1998/estandar/svx/h-1-24-mpi-svx-7p/datos",
@@ -130,7 +131,7 @@
             ]
         },
         {
-            "name": "H-1 2.5 TD SVX 7p",
+            "name": "2.5 TD SVX 7p",
             "start_year": "1997",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/hyundai/h-1/1998/estandar/svx/h-1-25-td-svx-7p/datos",
@@ -251,7 +252,7 @@
             ]
         },
         {
-            "name": "H-1 2.5 TCI Top 7 plazas",
+            "name": "2.5 TCI Top 7 plazas",
             "start_year": "2000",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/hyundai/h-1/1998/estandar/top/h-1-25-tci-top-7-plazas/datos",
@@ -410,7 +411,7 @@
             ]
         },
         {
-            "name": "H-1 2.5 TCI Top 9 plazas",
+            "name": "2.5 TCI Top 9 plazas",
             "start_year": "2000",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/hyundai/h-1/1998/estandar/top/h-1-25-tci-top-9-plazas/datos",
@@ -570,7 +571,7 @@
             ]
         },
         {
-            "name": "H-1 2.5 TD SVX 9p",
+            "name": "2.5 TD SVX 9p",
             "start_year": "1997",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/hyundai/h-1/1998/estandar/svx/h-1-25-td-svx-9p/datos",
@@ -691,7 +692,7 @@
             ]
         },
         {
-            "name": "H-1 2.5 CRDi Top 7 plazas",
+            "name": "2.5 CRDi Top 7 plazas",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/hyundai/h-1/1998/estandar/top/h-1-25-crdi-top-7-plazas/datos",
@@ -851,7 +852,7 @@
             ]
         },
         {
-            "name": "H-1 2.5 CRDi Top 9 plazas",
+            "name": "2.5 CRDi Top 9 plazas",
             "start_year": "2005",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/hyundai/h-1/1998/estandar/top/h-1-25-crdi-top-9-plazas/datos",

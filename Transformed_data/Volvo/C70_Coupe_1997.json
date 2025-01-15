@@ -1,11 +1,12 @@
 {
+    "brand": "Volvo",
     "name": "C70 Coupe",
     "year": "1997",
     "url": "https://www.km77.com/coches/volvo/c70/1997/coupe",
     "price": "",
     "versions": [
         {
-            "name": "C70 Coupe 2.5 20V",
+            "name": "2.5 20V",
             "start_year": "2000",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/c70/1997/coupe/estandar/c70-coupe-25-20v/datos",
@@ -92,7 +93,7 @@
             ]
         },
         {
-            "name": "C70 Coupe 2.5 20V Aut.",
+            "name": "2.5 20V Aut.",
             "start_year": "2000",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/c70/1997/coupe/estandar/c70-coupe-25-20v-aut/datos",
@@ -178,7 +179,7 @@
             ]
         },
         {
-            "name": "C70 Coupe 2.0T",
+            "name": "2.0T",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/c70/1997/coupe/estandar/c70-coupe-20t/datos",
@@ -268,7 +269,7 @@
             ]
         },
         {
-            "name": "C70 Coupe 2.0T Aut.",
+            "name": "2.0T Aut.",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/c70/1997/coupe/estandar/c70-coupe-20t-aut/datos",
@@ -358,7 +359,7 @@
             ]
         },
         {
-            "name": "C70 Coupe 2.4T",
+            "name": "2.4T",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/c70/1997/coupe/estandar/c70-coupe-24t/datos",
@@ -448,7 +449,7 @@
             ]
         },
         {
-            "name": "C70 Coupe 2.4T Aut.",
+            "name": "2.4T Aut.",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/c70/1997/coupe/estandar/c70-coupe-24t-aut/datos",
@@ -539,7 +540,7 @@
             ]
         },
         {
-            "name": "C70 Coupe T5",
+            "name": "T5",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/c70/1997/coupe/estandar/c70-coupe-t5/datos",
@@ -630,7 +631,7 @@
             ]
         },
         {
-            "name": "C70 Coupe T5 Aut.",
+            "name": "T5 Aut.",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/c70/1997/coupe/estandar/c70-coupe-t5-aut/datos",

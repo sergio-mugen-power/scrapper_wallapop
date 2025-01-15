@@ -1,11 +1,12 @@
 {
+    "brand": "Volvo",
     "name": "S60",
     "year": "2001",
     "url": "https://www.km77.com/coches/volvo/s60/2001/estandar",
     "price": "",
     "versions": [
         {
-            "name": "S60 2.4 140 CV",
+            "name": "2.4 140 CV",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/estandar/s60-24-140-cv/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "S60 2.4D",
+            "name": "2.4D",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/estandar/s60-24d/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "S60 2.4 140 CV Aut.",
+            "name": "2.4 140 CV Aut.",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/estandar/s60-24-140-cv-aut/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "S60 2.4 170 CV",
+            "name": "2.4 170 CV",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/estandar/s60-24-170-cv/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "S60 2.4 140 CV Optima",
+            "name": "2.4 140 CV Optima",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/optima/s60-24-140-cv-optima/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "S60 2.4D Aut.",
+            "name": "2.4D Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/estandar/s60-24d-aut/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "S60 140 CV Kinetic",
+            "name": "140 CV Kinetic",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/kinetic/s60-140-cv-kinetic/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "S60 2.4 170 CV Aut.",
+            "name": "2.4 170 CV Aut.",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/estandar/s60-24-170-cv-aut/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "S60 D5",
+            "name": "D5",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/estandar/s60-d5/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "S60 2.4D Kinetic",
+            "name": "2.4D Kinetic",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/kinetic/s60-24d-kinetic/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "S60 2.4D Optima",
+            "name": "2.4D Optima",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/optima/s60-24d-optima/datos",
@@ -313,7 +314,7 @@
             ]
         },
         {
-            "name": "S60 2.4 140 CV Optima Aut.",
+            "name": "2.4 140 CV Optima Aut.",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/optima/s60-24-140-cv-optima-aut/datos",
@@ -341,7 +342,7 @@
             ]
         },
         {
-            "name": "S60 140 CV Kinetic Aut.",
+            "name": "140 CV Kinetic Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/kinetic/s60-140-cv-kinetic-aut/datos",
@@ -369,7 +370,7 @@
             ]
         },
         {
-            "name": "S60 2.4 170 CV Kinetic",
+            "name": "2.4 170 CV Kinetic",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/kinetic/s60-24-170-cv-kinetic/datos",
@@ -397,7 +398,7 @@
             ]
         },
         {
-            "name": "S60 2.4 170 CV Momentum",
+            "name": "2.4 170 CV Momentum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/momentum/s60-24-170-cv-momentum2/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "S60 2.4 170 CV Optima",
+            "name": "2.4 170 CV Optima",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/optima/s60-24-170-cv-optima/datos",
@@ -453,7 +454,7 @@
             ]
         },
         {
-            "name": "S60 D5 Aut.",
+            "name": "D5 Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/estandar/s60-d5-aut/datos",
@@ -481,7 +482,7 @@
             ]
         },
         {
-            "name": "S60 126 CV Kinetic",
+            "name": "126 CV Kinetic",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/kinetic/s60-126-cv-kinetic/datos",
@@ -509,7 +510,7 @@
             ]
         },
         {
-            "name": "S60 140 CV Momentum",
+            "name": "140 CV Momentum",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/momentum/s60-140-cv-momentum/datos",
@@ -537,7 +538,7 @@
             ]
         },
         {
-            "name": "S60 2.4D Optima Aut.",
+            "name": "2.4D Optima Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/optima/s60-24d-optima-aut/datos",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "name": "S60 2.4T",
+            "name": "2.4T",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/estandar/s60-24t/datos",
@@ -593,7 +594,7 @@
             ]
         },
         {
-            "name": "S60 2.4 170 CV Kinetic Aut.",
+            "name": "2.4 170 CV Kinetic Aut.",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/kinetic/s60-24-170-cv-kinetic-aut/datos",
@@ -621,7 +622,7 @@
             ]
         },
         {
-            "name": "S60 2.4 170 CV Optima Aut.",
+            "name": "2.4 170 CV Optima Aut.",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/optima/s60-24-170-cv-optima-aut/datos",
@@ -649,7 +650,7 @@
             ]
         },
         {
-            "name": "S60 2.4 170 CV Momentum Aut.",
+            "name": "2.4 170 CV Momentum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/momentum/s60-24-170-cv-momentum-aut2/datos",
@@ -677,7 +678,7 @@
             ]
         },
         {
-            "name": "S60 D5 Optima",
+            "name": "D5 Optima",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/kinetic/s60-d5-optima/datos",
@@ -705,7 +706,7 @@
             ]
         },
         {
-            "name": "S60 2.4D Momentum",
+            "name": "2.4D Momentum",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/momentum/s60-24d-momentum/datos",
@@ -733,7 +734,7 @@
             ]
         },
         {
-            "name": "S60 D5 Kinetic",
+            "name": "D5 Kinetic",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/kinetic/s60-d5-kinetic/datos",
@@ -761,7 +762,7 @@
             ]
         },
         {
-            "name": "S60 140 CV Momentum Aut.",
+            "name": "140 CV Momentum Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/momentum/s60-140-cv-momentum-aut/datos",
@@ -789,7 +790,7 @@
             ]
         },
         {
-            "name": "S60 2.4 170 CV Momentum",
+            "name": "2.4 170 CV Momentum",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/momentum/s60-24-170-cv-momentum/datos",
@@ -817,7 +818,7 @@
             ]
         },
         {
-            "name": "S60 130 CV Kinetic Aut.",
+            "name": "130 CV Kinetic Aut.",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/kinetic/s60-130-cv-kinetic-aut/datos",
@@ -845,7 +846,7 @@
             ]
         },
         {
-            "name": "S60 2.4T Aut.",
+            "name": "2.4T Aut.",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/estandar/s60-24t-aut/datos",
@@ -873,7 +874,7 @@
             ]
         },
         {
-            "name": "S60 2.4D Momentum",
+            "name": "2.4D Momentum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/momentum/s60-24d-momentum3/datos",
@@ -901,7 +902,7 @@
             ]
         },
         {
-            "name": "S60 126 CV Momentum",
+            "name": "126 CV Momentum",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/momentum/s60-126-cv-momentum/datos",
@@ -929,7 +930,7 @@
             ]
         },
         {
-            "name": "S60 D5 Optima Aut.",
+            "name": "D5 Optima Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/optima/s60-d5-optima-aut/datos",
@@ -957,7 +958,7 @@
             ]
         },
         {
-            "name": "S60 2.4D Kinetic",
+            "name": "2.4D Kinetic",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/kinetic/s60-24d-kinetic2/datos",
@@ -985,7 +986,7 @@
             ]
         },
         {
-            "name": "S60 2.4 170 CV Summum",
+            "name": "2.4 170 CV Summum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/summum/s60-24-170-cv-summum2/datos",
@@ -1013,7 +1014,7 @@
             ]
         },
         {
-            "name": "S60 2.4 170 CV Momentum Aut.",
+            "name": "2.4 170 CV Momentum Aut.",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/momentum/s60-24-170-cv-momentum-aut/datos",
@@ -1041,7 +1042,7 @@
             ]
         },
         {
-            "name": "S60 AWD",
+            "name": "AWD",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/estandar/s60-awd/datos",
@@ -1069,7 +1070,7 @@
             ]
         },
         {
-            "name": "S60 2.4T Optima",
+            "name": "2.4T Optima",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/optima/s60-24t-optima/datos",
@@ -1097,7 +1098,7 @@
             ]
         },
         {
-            "name": "S60 D5 Momentum",
+            "name": "D5 Momentum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/momentum/s60-d5-momentum3/datos",
@@ -1125,7 +1126,7 @@
             ]
         },
         {
-            "name": "S60 D5 Momentum",
+            "name": "D5 Momentum",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/momentum/s60-d5-momentum/datos",
@@ -1153,7 +1154,7 @@
             ]
         },
         {
-            "name": "S60 2.4D Momentum Aut.",
+            "name": "2.4D Momentum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/momentum/s60-24d-momentum-aut2/datos",
@@ -1181,7 +1182,7 @@
             ]
         },
         {
-            "name": "S60 130 CV Momentum Aut.",
+            "name": "130 CV Momentum Aut.",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/momentum/s60-130-cv-momentum-aut/datos",
@@ -1209,7 +1210,7 @@
             ]
         },
         {
-            "name": "S60 D5 Kinetic",
+            "name": "D5 Kinetic",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/kinetic/s60-d5-kinetic2/datos",
@@ -1237,7 +1238,7 @@
             ]
         },
         {
-            "name": "S60 2.5T Kinetic",
+            "name": "2.5T Kinetic",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/kinetic/s60-25t-kinetic/datos",
@@ -1265,7 +1266,7 @@
             ]
         },
         {
-            "name": "S60 AWD Aut.",
+            "name": "AWD Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/estandar/s60-awd-aut/datos",
@@ -1293,7 +1294,7 @@
             ]
         },
         {
-            "name": "S60 2.4D Kinetic Aut.",
+            "name": "2.4D Kinetic Aut.",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/kinetic/s60-24d-kinetic-aut/datos",
@@ -1321,7 +1322,7 @@
             ]
         },
         {
-            "name": "S60 2.4T Optima Aut.",
+            "name": "2.4T Optima Aut.",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/optima/s60-24t-optima-aut/datos",
@@ -1349,7 +1350,7 @@
             ]
         },
         {
-            "name": "S60 140 CV Summum",
+            "name": "140 CV Summum",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/summum/s60-140-cv-summum/datos",
@@ -1377,7 +1378,7 @@
             ]
         },
         {
-            "name": "S60 2.4D Momentum",
+            "name": "2.4D Momentum",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/momentum/s60-24d-momentum2/datos",
@@ -1405,7 +1406,7 @@
             ]
         },
         {
-            "name": "S60 2.4D Summum",
+            "name": "2.4D Summum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/summum/s60-24d-summum3/datos",
@@ -1433,7 +1434,7 @@
             ]
         },
         {
-            "name": "S60 T5",
+            "name": "T5",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/estandar/s60-t5/datos",
@@ -1461,7 +1462,7 @@
             ]
         },
         {
-            "name": "S60 2.4 170 CV Summum",
+            "name": "2.4 170 CV Summum",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/summum/s60-24-170-cv-summum/datos",
@@ -1489,7 +1490,7 @@
             ]
         },
         {
-            "name": "S60 D5 Momentum Aut.",
+            "name": "D5 Momentum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/momentum/s60-d5-momentum-aut2/datos",
@@ -1517,7 +1518,7 @@
             ]
         },
         {
-            "name": "S60 2.4D Summum",
+            "name": "2.4D Summum",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/summum/s60-24d-summum/datos",
@@ -1545,7 +1546,7 @@
             ]
         },
         {
-            "name": "S60 AWD Optima",
+            "name": "AWD Optima",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/optima/s60-awd-optima/datos",
@@ -1573,7 +1574,7 @@
             ]
         },
         {
-            "name": "S60 140 CV Summum Aut.",
+            "name": "140 CV Summum Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/summum/s60-140-cv-summum-aut/datos",
@@ -1601,7 +1602,7 @@
             ]
         },
         {
-            "name": "S60 126 CV Summum",
+            "name": "126 CV Summum",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/summum/s60-126-cv-summum/datos",
@@ -1629,7 +1630,7 @@
             ]
         },
         {
-            "name": "S60 D5 Kinetic Aut.",
+            "name": "D5 Kinetic Aut.",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/kinetic/s60-d5-kinetic-aut/datos",
@@ -1657,7 +1658,7 @@
             ]
         },
         {
-            "name": "S60 2.5T Kinetic Aut.",
+            "name": "2.5T Kinetic Aut.",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/kinetic/s60-25t-kinetic-aut/datos",
@@ -1685,7 +1686,7 @@
             ]
         },
         {
-            "name": "S60 D5 Momentum",
+            "name": "D5 Momentum",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/momentum/s60-d5-momentum2/datos",
@@ -1713,7 +1714,7 @@
             ]
         },
         {
-            "name": "S60 D5 Summum",
+            "name": "D5 Summum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/summum/s60-d5-summum3/datos",
@@ -1741,7 +1742,7 @@
             ]
         },
         {
-            "name": "S60 T5 Aut.",
+            "name": "T5 Aut.",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/estandar/s60-t5-aut/datos",
@@ -1769,7 +1770,7 @@
             ]
         },
         {
-            "name": "S60 2.5T Momentum",
+            "name": "2.5T Momentum",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/momentum/s60-25t-momentum/datos",
@@ -1797,7 +1798,7 @@
             ]
         },
         {
-            "name": "S60 T5 Optima",
+            "name": "T5 Optima",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/optima/s60-t5-optima/datos",
@@ -1825,7 +1826,7 @@
             ]
         },
         {
-            "name": "S60 2.4D Momentum Aut.",
+            "name": "2.4D Momentum Aut.",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/momentum/s60-24d-momentum-aut/datos",
@@ -1853,7 +1854,7 @@
             ]
         },
         {
-            "name": "S60 2.4D Summum Aut.",
+            "name": "2.4D Summum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/summum/s60-24d-summum-aut2/datos",
@@ -1881,7 +1882,7 @@
             ]
         },
         {
-            "name": "S60 2.4 170 CV Summum Aut.",
+            "name": "2.4 170 CV Summum Aut.",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/summum/s60-24-170-cv-summum-aut/datos",
@@ -1909,7 +1910,7 @@
             ]
         },
         {
-            "name": "S60 2.4 170 CV Summum Aut.",
+            "name": "2.4 170 CV Summum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/summum/s60-24-170-cv-summum-aut2/datos",
@@ -1937,7 +1938,7 @@
             ]
         },
         {
-            "name": "S60 AWD Optima Aut.",
+            "name": "AWD Optima Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/optima/s60-awd-optima-aut/datos",
@@ -1965,7 +1966,7 @@
             ]
         },
         {
-            "name": "S60 AWD Kinetic",
+            "name": "AWD Kinetic",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/kinetic/s60-awd-kinetic/datos",
@@ -1993,7 +1994,7 @@
             ]
         },
         {
-            "name": "S60 D5 Summum",
+            "name": "D5 Summum",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/summum/s60-d5-summum/datos",
@@ -2021,7 +2022,7 @@
             ]
         },
         {
-            "name": "S60 T5 Optima Aut.",
+            "name": "T5 Optima Aut.",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/optima/s60-t5-optima-aut/datos",
@@ -2049,7 +2050,7 @@
             ]
         },
         {
-            "name": "S60 2.5T Momentum Aut.",
+            "name": "2.5T Momentum Aut.",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/momentum/s60-25t-momentum-aut/datos",
@@ -2077,7 +2078,7 @@
             ]
         },
         {
-            "name": "S60 D5 Momentum Aut.",
+            "name": "D5 Momentum Aut.",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/momentum/s60-d5-momentum-aut/datos",
@@ -2105,7 +2106,7 @@
             ]
         },
         {
-            "name": "S60 D5 Summum Aut.",
+            "name": "D5 Summum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/summum/s60-d5-summum-aut2/datos",
@@ -2133,7 +2134,7 @@
             ]
         },
         {
-            "name": "S60 2.4D Summum",
+            "name": "2.4D Summum",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/summum/s60-24d-summum2/datos",
@@ -2161,7 +2162,7 @@
             ]
         },
         {
-            "name": "S60 130 CV Summum Aut.",
+            "name": "130 CV Summum Aut.",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/summum/s60-130-cv-summum-aut/datos",
@@ -2189,7 +2190,7 @@
             ]
         },
         {
-            "name": "S60 AWD Kinetic Aut.",
+            "name": "AWD Kinetic Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/kinetic/s60-awd-kinetic-aut/datos",
@@ -2217,7 +2218,7 @@
             ]
         },
         {
-            "name": "S60 AWD Momentum",
+            "name": "AWD Momentum",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/momentum/s60-awd-momentum/datos",
@@ -2245,7 +2246,7 @@
             ]
         },
         {
-            "name": "S60 D5 Summum",
+            "name": "D5 Summum",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/kinetic/s60-d5-summum2/datos",
@@ -2273,7 +2274,7 @@
             ]
         },
         {
-            "name": "S60 T5 Momentum",
+            "name": "T5 Momentum",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/momentum/s60-t5-momentum/datos",
@@ -2301,7 +2302,7 @@
             ]
         },
         {
-            "name": "S60 2.5T Summum",
+            "name": "2.5T Summum",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/summum/s60-25t-summum/datos",
@@ -2329,7 +2330,7 @@
             ]
         },
         {
-            "name": "S60 2.4D Summum Aut.",
+            "name": "2.4D Summum Aut.",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/summum/s60-24d-summum-aut/datos",
@@ -2357,7 +2358,7 @@
             ]
         },
         {
-            "name": "S60 AWD Momentum Aut.",
+            "name": "AWD Momentum Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/momentum/s60-awd-momentum-aut/datos",
@@ -2385,7 +2386,7 @@
             ]
         },
         {
-            "name": "S60 D5 Summum Aut.",
+            "name": "D5 Summum Aut.",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/summum/s60-d5-summum-aut/datos",
@@ -2413,7 +2414,7 @@
             ]
         },
         {
-            "name": "S60 T5 Momentum Aut.",
+            "name": "T5 Momentum Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/momentum/s60-t5-momentum-aut/datos",
@@ -2441,7 +2442,7 @@
             ]
         },
         {
-            "name": "S60 2.5T Summum Aut.",
+            "name": "2.5T Summum Aut.",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/summum/s60-25t-summum-aut/datos",
@@ -2469,7 +2470,7 @@
             ]
         },
         {
-            "name": "S60 AWD Summum",
+            "name": "AWD Summum",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/summum/s60-awd-summum/datos",
@@ -2497,7 +2498,7 @@
             ]
         },
         {
-            "name": "S60 T5 Summum",
+            "name": "T5 Summum",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/summum/s60-t5-summum/datos",
@@ -2525,7 +2526,7 @@
             ]
         },
         {
-            "name": "S60 AWD Summum Aut.",
+            "name": "AWD Summum Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/summum/s60-awd-summum-aut/datos",
@@ -2553,7 +2554,7 @@
             ]
         },
         {
-            "name": "S60 T5 Summum Aut.",
+            "name": "T5 Summum Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/summum/s60-t5-summum-aut/datos",
@@ -2581,7 +2582,7 @@
             ]
         },
         {
-            "name": "S60 R AWD",
+            "name": "R AWD",
             "start_year": "2003",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/r/s60-r-awd/datos",
@@ -2609,7 +2610,7 @@
             ]
         },
         {
-            "name": "S60 R",
+            "name": "R",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/r/s60-r/datos",
@@ -2637,7 +2638,7 @@
             ]
         },
         {
-            "name": "S60 R AWD Aut.",
+            "name": "R AWD Aut.",
             "start_year": "2004",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s60/2001/estandar/r/s60-r-awd-aut/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Abarth",
     "name": "Grande Punto",
     "year": "2009",
     "url": "https://www.km77.com/coches/abarth/grande-punto/2009/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Grande Punto 1.4 T-Jet 155 CV",
+            "name": "1.4 T-Jet 155 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/abarth/grande-punto/2009/estandar/estandar/grande-punto-14-t-jet-155-cv/datos",
@@ -165,7 +166,7 @@
             ]
         },
         {
-            "name": "Grande Punto 1.4 16v T-Jet 155 CV",
+            "name": "1.4 16v T-Jet 155 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/abarth/grande-punto/2009/estandar/estandar/grande-punto-14-16v-t-jet-155-cv/datos",

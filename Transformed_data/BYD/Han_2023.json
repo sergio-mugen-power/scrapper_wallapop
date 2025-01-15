@@ -1,11 +1,12 @@
 {
+    "brand": "BYD",
     "name": "Han",
     "year": "2023",
     "url": "https://www.km77.com/coches/byd/han/2023/estandar",
     "price": "Desde 69.990 €",
     "versions": [
         {
-            "name": "Han AWD Executive\n(03/2023 - )",
+            "name": "AWD Executive\n(03/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/byd/han/2023/estandar/estandar/han/datos",
@@ -230,7 +231,7 @@
             ]
         },
         {
-            "name": "Han AWD Emerald Edition\n(03/2023 - )",
+            "name": "AWD Emerald Edition\n(03/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/byd/han/2023/estandar/estandar/han-emerald-green-edition/datos",

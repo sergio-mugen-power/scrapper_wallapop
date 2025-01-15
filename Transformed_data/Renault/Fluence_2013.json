@@ -1,11 +1,12 @@
 {
+    "brand": "Renault",
     "name": "Fluence",
     "year": "2013",
     "url": "https://www.km77.com/coches/renault/fluence/2013/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Fluence Expression 1.6 16v 110",
+            "name": "Expression 1.6 16v 110",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/renault/fluence/2013/estandar/expression/fluence-expression-16-16v-110/datos",
@@ -171,7 +172,7 @@
             ]
         },
         {
-            "name": "Fluence Expression 1.6 16v 115",
+            "name": "Expression 1.6 16v 115",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/renault/fluence/2013/estandar/expression/fluence-expression-16-16v-115/datos",
@@ -341,7 +342,7 @@
             ]
         },
         {
-            "name": "Fluence Limited 1.6 16v 110",
+            "name": "Limited 1.6 16v 110",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/renault/fluence/2013/estandar/limited/fluence-limited-16-16v-110/datos",
@@ -512,7 +513,7 @@
             ]
         },
         {
-            "name": "Fluence Limited 1.6 16v 115",
+            "name": "Limited 1.6 16v 115",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/renault/fluence/2013/estandar/limited/fluence-limited-16-16v-115/datos",
@@ -687,7 +688,7 @@
             ]
         },
         {
-            "name": "Fluence Expression dCi 90",
+            "name": "Expression dCi 90",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/renault/fluence/2013/estandar/expression/fluence-expression-dci-90/datos",
@@ -854,7 +855,7 @@
             ]
         },
         {
-            "name": "Fluence Dynamique 1.6 16v 110",
+            "name": "Dynamique 1.6 16v 110",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/renault/fluence/2013/estandar/dynamique/fluence-dynamique-16-16v-110/datos",
@@ -1034,7 +1035,7 @@
             ]
         },
         {
-            "name": "Fluence Expression dCi 95",
+            "name": "Expression dCi 95",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/renault/fluence/2013/estandar/expression/fluence-expression-dci-95/datos",
@@ -1204,7 +1205,7 @@
             ]
         },
         {
-            "name": "Fluence Expression dCi 95",
+            "name": "Expression dCi 95",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/renault/fluence/2013/estandar/expression/fluence-expression-dci-952/datos",
@@ -1374,7 +1375,7 @@
             ]
         },
         {
-            "name": "Fluence Expression dCi 110",
+            "name": "Expression dCi 110",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/renault/fluence/2013/estandar/expression/fluence-expression-dci-1102/datos",
@@ -1545,7 +1546,7 @@
             ]
         },
         {
-            "name": "Fluence Expression dCi 110",
+            "name": "Expression dCi 110",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/renault/fluence/2013/estandar/expression/fluence-expression-dci-110/datos",
@@ -1716,7 +1717,7 @@
             ]
         },
         {
-            "name": "Fluence Limited dCi 110",
+            "name": "Limited dCi 110",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/renault/fluence/2013/estandar/limited/fluence-limited-dci-110/datos",
@@ -1892,7 +1893,7 @@
             ]
         },
         {
-            "name": "Fluence Limited dCi 110",
+            "name": "Limited dCi 110",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/renault/fluence/2013/estandar/limited/fluence-limited-dci-1102/datos",
@@ -2068,7 +2069,7 @@
             ]
         },
         {
-            "name": "Fluence Dynamique dCi 110",
+            "name": "Dynamique dCi 110",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/renault/fluence/2013/estandar/dynamique/fluence-dynamique-dci-110/datos",
@@ -2249,7 +2250,7 @@
             ]
         },
         {
-            "name": "Fluence Limited dCi 110 EDC",
+            "name": "Limited dCi 110 EDC",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/renault/fluence/2013/estandar/limited/fluence-limited-dci-110-edc/datos",
@@ -2419,7 +2420,7 @@
             ]
         },
         {
-            "name": "Fluence Limited dCi 130",
+            "name": "Limited dCi 130",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/renault/fluence/2013/estandar/limited/fluence-limited-dci-130/datos",
@@ -2591,7 +2592,7 @@
             ]
         },
         {
-            "name": "Fluence Dynamique 2.0 140 CVT",
+            "name": "Dynamique 2.0 140 CVT",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/renault/fluence/2013/estandar/dynamique/fluence-dynamique-20-140-cvt/datos",
@@ -2772,7 +2773,7 @@
             ]
         },
         {
-            "name": "Fluence Dynamique dCi 110 EDC",
+            "name": "Dynamique dCi 110 EDC",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/renault/fluence/2013/estandar/dynamique/fluence-dynamique-dci-110-edc/datos",
@@ -2951,7 +2952,7 @@
             ]
         },
         {
-            "name": "Fluence Dynamique dCi 130",
+            "name": "Dynamique dCi 130",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/renault/fluence/2013/estandar/dynamique/fluence-dynamique-dci-130/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Chevrolet",
     "name": "HHR",
     "year": "2008",
     "url": "https://www.km77.com/coches/chevrolet/hhr/2008/estandar",
     "price": "",
     "versions": [
         {
-            "name": "HHR 2.4",
+            "name": "2.4",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/chevrolet/hhr/2008/estandar/estandar/hhr-24/datos",
@@ -177,7 +178,7 @@
             ]
         },
         {
-            "name": "HHR 2.4 Aut.",
+            "name": "2.4 Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/chevrolet/hhr/2008/estandar/estandar/hhr-24-aut/datos",

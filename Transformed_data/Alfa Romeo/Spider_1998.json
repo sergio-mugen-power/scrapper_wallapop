@@ -1,11 +1,12 @@
 {
+    "brand": "Alfa Romeo",
     "name": "Spider",
     "year": "1998",
     "url": "https://www.km77.com/coches/alfa-romeo/spider/1998/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Spider 1.8",
+            "name": "1.8",
             "start_year": "1998",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/alfa-romeo/spider/1998/estandar/medio/spider-18/datos",
@@ -136,7 +137,7 @@
             ]
         },
         {
-            "name": "Spider 2.0 Medio",
+            "name": "2.0 Medio",
             "start_year": "1998",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/alfa-romeo/spider/1998/estandar/medio/spider-20-medio/datos",
@@ -266,7 +267,7 @@
             ]
         },
         {
-            "name": "Spider 2.0 TS Medio",
+            "name": "2.0 TS Medio",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/alfa-romeo/spider/1998/estandar/medio/spider-20-ts-medio/datos",
@@ -397,7 +398,7 @@
             ]
         },
         {
-            "name": "Spider 2.0 Lujo",
+            "name": "2.0 Lujo",
             "start_year": "1998",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/alfa-romeo/spider/1998/estandar/lujo/spider-20-lujo/datos",
@@ -528,7 +529,7 @@
             ]
         },
         {
-            "name": "Spider 3.0 Elegante",
+            "name": "3.0 Elegante",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/alfa-romeo/spider/1998/estandar/elegante/spider-30-elegant/datos",

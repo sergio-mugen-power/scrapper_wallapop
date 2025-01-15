@@ -1,11 +1,12 @@
 {
+    "brand": "Ford",
     "name": "Explorer",
     "year": "1996",
     "url": "https://www.km77.com/coches/ford/explorer/1996/estandar",
     "price": "Desde 41.812 €",
     "versions": [
         {
-            "name": "Explorer XLT 4x4 4p",
+            "name": "XLT 4x4 4p",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/ford/explorer/1996/estandar/estandar/explorer-xlt-4x4-4p/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Explorer Full Equipped 4x4 4p",
+            "name": "Full Equipped 4x4 4p",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/ford/explorer/1996/estandar/estandar/explorer-full-equipped-4x4-4p/datos",

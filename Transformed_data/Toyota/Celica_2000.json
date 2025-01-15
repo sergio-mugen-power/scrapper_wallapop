@@ -1,11 +1,12 @@
 {
+    "brand": "Toyota",
     "name": "Celica",
     "year": "2000",
     "url": "https://www.km77.com/coches/toyota/celica/2000/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Celica 1.8 VVT-i",
+            "name": "1.8 VVT-i",
             "start_year": "1999",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/toyota/celica/2000/estandar/estandar/celica-18-vvt-i/datos",
@@ -166,7 +167,7 @@
             ]
         },
         {
-            "name": "Celica 1.8 VVTL-i T-Sport",
+            "name": "1.8 VVTL-i T-Sport",
             "start_year": "1999",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/toyota/celica/2000/estandar/estandar/celica-18-vvtl-i-t-sport/datos",

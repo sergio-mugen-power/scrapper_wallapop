@@ -1,11 +1,12 @@
 {
+    "brand": "Porsche",
     "name": "Boxster Spyder",
     "year": "2010",
     "url": "https://www.km77.com/coches/porsche/boxster/2010/spyder",
     "price": "",
     "versions": [
         {
-            "name": "Boxster Spyder",
+            "name": "",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/porsche/boxster/2010/spyder/spyder/boxster-spyder/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Boxster Spyder",
+            "name": "",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/boxster/2010/spyder/spyder/boxster-spyder2/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Boxster Spyder PDK",
+            "name": "PDK",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/porsche/boxster/2010/spyder/spyder/boxster-spyder-pdk/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Boxster Spyder PDK",
+            "name": "PDK",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/boxster/2010/spyder/spyder/boxster-spyder-pdk2/datos",

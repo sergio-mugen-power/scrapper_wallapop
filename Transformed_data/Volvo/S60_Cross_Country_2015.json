@@ -1,11 +1,12 @@
 {
+    "brand": "Volvo",
     "name": "S60 Cross Country",
     "year": "2015",
     "url": "https://www.km77.com/coches/volvo/s60/2015/cross-country",
     "price": "",
     "versions": [
         {
-            "name": "S60 Cross Country D4 Summum",
+            "name": "D4 Summum",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/s60/2015/cross-country/cross-country-summum/s60-cross-country-2015/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "S60 Cross Country D4 Summum Aut.",
+            "name": "D4 Summum Aut.",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/s60/2015/cross-country/cross-country-summum/s60-cross-country-d4-summum-aut/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "S60 Cross Country D4 AWD Summum Aut.",
+            "name": "D4 AWD Summum Aut.",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/s60/2015/cross-country/cross-country-summum/s60-cross-country-d4-awd-summum-aut/datos",
@@ -90,7 +91,7 @@
             ]
         },
         {
-            "name": "S60 Cross Country T5 AWD Summum Aut.",
+            "name": "T5 AWD Summum Aut.",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/s60/2015/cross-country/cross-country-summum/s60-cross-country-t5-awd-summum-aut/datos",

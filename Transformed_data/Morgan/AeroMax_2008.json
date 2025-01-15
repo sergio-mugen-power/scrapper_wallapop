@@ -1,11 +1,12 @@
 {
+    "brand": "Morgan",
     "name": "AeroMax",
     "year": "2008",
     "url": "https://www.km77.com/coches/morgan/aeromax/2008/estandar",
     "price": "",
     "versions": [
         {
-            "name": "AeroMax",
+            "name": "",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/morgan/aeromax/2008/estandar/estandar/aeromax/datos",
@@ -170,7 +171,7 @@
             ]
         },
         {
-            "name": "AeroMax Aut.",
+            "name": "Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/morgan/aeromax/2008/estandar/estandar/aeromax-aut/datos",

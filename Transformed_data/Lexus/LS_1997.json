@@ -1,11 +1,12 @@
 {
+    "brand": "Lexus",
     "name": "LS",
     "year": "1997",
     "url": "https://www.km77.com/coches/lexus/ls/1997/estandar",
     "price": "Desde 118.300 €",
     "versions": [
         {
-            "name": "LS400",
+            "name": "400",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/lexus/ls/1997/estandar/estandar/ls400/datos",

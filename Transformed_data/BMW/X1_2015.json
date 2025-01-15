@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "X1",
     "year": "2015",
     "url": "https://www.km77.com/coches/bmw/x1/2015/estandar",
     "price": "Desde 44.200 €",
     "versions": [
         {
-            "name": "X1 sDrive16d",
+            "name": "sDrive16d",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-sdrive16d/datos",
@@ -16,7 +17,7 @@
             "maletero": "505"
         },
         {
-            "name": "X1 sDrive18i",
+            "name": "sDrive18i",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-sdrive18i/datos",
@@ -27,7 +28,7 @@
             "maletero": "505"
         },
         {
-            "name": "X1 sDrive16d",
+            "name": "sDrive16d",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-sdrive16d2/datos",
@@ -38,7 +39,7 @@
             "maletero": "505"
         },
         {
-            "name": "X1 sDrive18d",
+            "name": "sDrive18d",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-2015/datos",
@@ -49,7 +50,7 @@
             "maletero": "505"
         },
         {
-            "name": "X1 sDrive18i",
+            "name": "sDrive18i",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-sdrive18i2/datos",
@@ -60,7 +61,7 @@
             "maletero": "505"
         },
         {
-            "name": "X1 sDrive18d",
+            "name": "sDrive18d",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-sdrive18d/datos",
@@ -71,7 +72,7 @@
             "maletero": "505"
         },
         {
-            "name": "X1 sDrive16d Aut.",
+            "name": "sDrive16d Aut.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-sdrive16d-aut/datos",
@@ -82,7 +83,7 @@
             "maletero": "505"
         },
         {
-            "name": "X1 sDrive18i",
+            "name": "sDrive18i",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-sdrive18i3/datos",
@@ -93,7 +94,7 @@
             "maletero": "505"
         },
         {
-            "name": "X1 sDrive18d Aut.",
+            "name": "sDrive18d Aut.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-sdrive18d-aut/datos",
@@ -104,7 +105,7 @@
             "maletero": "505"
         },
         {
-            "name": "X1 sDrive18i Aut.",
+            "name": "sDrive18i Aut.",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-sdrive18i-aut/datos",
@@ -115,7 +116,7 @@
             "maletero": "505"
         },
         {
-            "name": "X1 sDrive18i Aut.",
+            "name": "sDrive18i Aut.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-sdrive18i-aut2/datos",
@@ -126,7 +127,7 @@
             "maletero": "505"
         },
         {
-            "name": "X1 xDrive18d",
+            "name": "xDrive18d",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-xdrive18d/datos",
@@ -137,7 +138,7 @@
             "maletero": "505"
         },
         {
-            "name": "X1 sDrive18i Aut.",
+            "name": "sDrive18i Aut.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-sdrive18i-aut3/datos",
@@ -148,7 +149,7 @@
             "maletero": "505"
         },
         {
-            "name": "X1 sDrive18d Aut.",
+            "name": "sDrive18d Aut.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-sdrive18d-aut2/datos",
@@ -159,7 +160,7 @@
             "maletero": "505"
         },
         {
-            "name": "X1 xDrive18d",
+            "name": "xDrive18d",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-xdrive18d2/datos",
@@ -461,7 +462,7 @@
             ]
         },
         {
-            "name": "X1 sDrive20d Aut.",
+            "name": "sDrive20d Aut.",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-sdrive20d-aut/datos",
@@ -760,7 +761,7 @@
             ]
         },
         {
-            "name": "X1 sDrive20i Aut.",
+            "name": "sDrive20i Aut.",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-sdrive-20i/datos",
@@ -1058,7 +1059,7 @@
             ]
         },
         {
-            "name": "X1 sDrive20d Aut.",
+            "name": "sDrive20d Aut.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-sdrive20d-aut2/datos",
@@ -1362,7 +1363,7 @@
             ]
         },
         {
-            "name": "X1 sDrive20i Aut.",
+            "name": "sDrive20i Aut.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-sdrive20i-aut/datos",
@@ -1668,7 +1669,7 @@
             ]
         },
         {
-            "name": "X1 xDrive18d Aut.",
+            "name": "xDrive18d Aut.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-xdrive18d-aut/datos",
@@ -1976,7 +1977,7 @@
             ]
         },
         {
-            "name": "X1 sDrive20i Aut.",
+            "name": "sDrive20i Aut.",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-sdrive20i-aut2/datos",
@@ -2281,7 +2282,7 @@
             ]
         },
         {
-            "name": "X1 xDrive20d Aut.",
+            "name": "xDrive20d Aut.",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-xdrive20d/datos",
@@ -2581,7 +2582,7 @@
             ]
         },
         {
-            "name": "X1 xDrive18d Aut.",
+            "name": "xDrive18d Aut.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-xdrive18d-aut2/datos",
@@ -2887,7 +2888,7 @@
             ]
         },
         {
-            "name": "X1 xDrive20d Aut.",
+            "name": "xDrive20d Aut.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-xdrive20d-aut/datos",
@@ -3195,7 +3196,7 @@
             ]
         },
         {
-            "name": "X1 sDrive20d Aut.",
+            "name": "sDrive20d Aut.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-sdrive20d-aut3/datos",
@@ -3500,7 +3501,7 @@
             ]
         },
         {
-            "name": "X1 xDrive20d Aut.",
+            "name": "xDrive20d Aut.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-xdrive20d-aut2/datos",
@@ -3806,7 +3807,7 @@
             ]
         },
         {
-            "name": "X1 xDrive25d Aut.",
+            "name": "xDrive25d Aut.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-xdrive25d/datos",
@@ -4114,7 +4115,7 @@
             ]
         },
         {
-            "name": "X1 xDrive25i Aut.",
+            "name": "xDrive25i Aut.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x1/2015/estandar/estandar/x1-xdrive-25i/datos",

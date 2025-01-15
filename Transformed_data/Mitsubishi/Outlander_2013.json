@@ -1,11 +1,12 @@
 {
+    "brand": "Mitsubishi",
     "name": "Outlander",
     "year": "2013",
     "url": "https://www.km77.com/coches/mitsubishi/outlander/2013/estandar",
     "price": "Desde 48.200 €",
     "versions": [
         {
-            "name": "Outlander 220 DI-D Challenge 2WD",
+            "name": "220 DI-D Challenge 2WD",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/mitsubishi/outlander/2013/estandar/challenge/220-di-d-challenge-2wd/datos",
@@ -206,7 +207,7 @@
             ]
         },
         {
-            "name": "Outlander 220 DI-D Motion",
+            "name": "220 DI-D Motion",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/mitsubishi/outlander/2013/estandar/motion/220-di-d-motion/datos",
@@ -415,7 +416,7 @@
             ]
         },
         {
-            "name": "Outlander 220 DI-D Motion Aut.",
+            "name": "220 DI-D Motion Aut.",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/mitsubishi/outlander/2013/estandar/motion/220-di-d-motion-aut/datos",
@@ -624,7 +625,7 @@
             ]
         },
         {
-            "name": "Outlander PHEV Motion",
+            "name": "PHEV Motion",
             "start_year": "2014",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/mitsubishi/outlander/2013/estandar/motion/outlander-phev-motion/datos",
@@ -860,7 +861,7 @@
             ]
         },
         {
-            "name": "Outlander 220 DI-D Kaiteki Aut.",
+            "name": "220 DI-D Kaiteki Aut.",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/mitsubishi/outlander/2013/estandar/kaiteki/220-di-d-kaiteki-aut/datos",
@@ -1074,7 +1075,7 @@
             ]
         },
         {
-            "name": "Outlander PHEV Kaiteki",
+            "name": "PHEV Kaiteki",
             "start_year": "2014",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/mitsubishi/outlander/2013/estandar/kaiteki/outlander-phev/datos",

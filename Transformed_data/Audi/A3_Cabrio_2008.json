@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "A3 Cabrio",
     "year": "2008",
     "url": "https://www.km77.com/coches/audi/a3/2008/cabrio",
     "price": "Desde 33.890 €",
     "versions": [
         {
-            "name": "A3 Cabrio 1.6 Attraction",
+            "name": "1.6 Attraction",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/cabrio/attraction/a3-cabrio-16-attraction/datos",
@@ -234,7 +235,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 1.6 TDI Attraction",
+            "name": "1.6 TDI Attraction",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/cabrio/attraction/a3-cabrio-16-tdi-attraction/datos",
@@ -464,7 +465,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 1.9 TDI Attraction DPF",
+            "name": "1.9 TDI Attraction DPF",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/a3/2008/cabrio/attraction/a3-cabrio-19-tdi-attraction-dpf/datos",
@@ -690,7 +691,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 1.6 Ambition",
+            "name": "1.6 Ambition",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/cabrio/ambition/a3-cabrio-16-ambition/datos",
@@ -924,7 +925,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 1.6 TDI Ambition",
+            "name": "1.6 TDI Ambition",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/cabrio/ambition/a3-cabrio-16-tdi-ambition/datos",
@@ -1157,7 +1158,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 1.9 TDI Ambition DPF",
+            "name": "1.9 TDI Ambition DPF",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/a3/2008/cabrio/ambition/a3-cabrio-19-tdi-ambition-dpf/datos",
@@ -1244,7 +1245,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 2.0 TDI Attraction DPF",
+            "name": "2.0 TDI Attraction DPF",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/cabrio/attraction/a3-cabrio-20-tdi-attraction-dpf/datos",
@@ -1474,7 +1475,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 1.8 TFSI Attraction",
+            "name": "1.8 TFSI Attraction",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/cabrio/attraction/a3-cabrio-18-tfsi-attraction/datos",
@@ -1702,7 +1703,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 2.0 TDI Ambition DPF",
+            "name": "2.0 TDI Ambition DPF",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/cabrio/ambition/a3-cabrio-20-tdi-ambition-dpf/datos",
@@ -1937,7 +1938,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 1.8 TFSI Ambition",
+            "name": "1.8 TFSI Ambition",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/cabrio/ambition/a3-cabrio-18-tfsi-ambition/datos",
@@ -2168,7 +2169,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 1.8 T FSI Attraction Stronic 6 vel.",
+            "name": "1.8 T FSI Attraction Stronic 6 vel.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/a3/2008/cabrio/attraction/a3-cabrio-18-t-fsi-attraction-stronic-6-vel/datos",
@@ -2392,7 +2393,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 2.0 TDI Attraction S tronic DPF",
+            "name": "2.0 TDI Attraction S tronic DPF",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/cabrio/attraction/a3-cabrio-20-tdi-attraction-s-tronic-dpf/datos",
@@ -2624,7 +2625,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 1.8 TFSI Attraction S tronic 7 vel.",
+            "name": "1.8 TFSI Attraction S tronic 7 vel.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/cabrio/attraction/a3-cabrio-18-tfsi-attraction-s-tronic-7-vel/datos",
@@ -2855,7 +2856,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 2.0 TFSI Attraction",
+            "name": "2.0 TFSI Attraction",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/cabrio/attraction/a3-cabrio-20-tfsi-attraction/datos",
@@ -3084,7 +3085,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 1.8 T FSI Ambition Stronic 6 vel.",
+            "name": "1.8 T FSI Ambition Stronic 6 vel.",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/a3/2008/cabrio/ambition/a3-cabrio-18-t-fsi-ambition-stronic-6-vel/datos",
@@ -3308,7 +3309,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 2.0 TDI Ambition S tronic DPF",
+            "name": "2.0 TDI Ambition S tronic DPF",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/cabrio/ambition/a3-cabrio-20-tdi-ambition-s-tronic-dpf/datos",
@@ -3545,7 +3546,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 1.8 TFSI Ambition S tronic 7 vel.",
+            "name": "1.8 TFSI Ambition S tronic 7 vel.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/cabrio/ambition/a3-cabrio-18-tfsi-ambition-s-tronic-7-vel/datos",
@@ -3781,7 +3782,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 2.0 TFSI Ambition",
+            "name": "2.0 TFSI Ambition",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/cabrio/ambition/a3-cabrio-20-tfsi-ambition/datos",
@@ -4017,7 +4018,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 2.0 TFSI Ambition S tronic",
+            "name": "2.0 TFSI Ambition S tronic",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/cabrio/ambition/a3-cabrio-20-tfsi-ambition-s-tronic/datos",

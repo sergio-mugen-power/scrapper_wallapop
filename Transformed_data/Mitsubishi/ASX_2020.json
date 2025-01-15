@@ -1,11 +1,12 @@
 {
+    "brand": "Mitsubishi",
     "name": "ASX",
     "year": "2020",
     "url": "https://www.km77.com/coches/mitsubishi/asx/2020/estandar",
     "price": "Desde 23.290 €",
     "versions": [
         {
-            "name": "ASX 200 MPI Challenge",
+            "name": "200 MPI Challenge",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/mitsubishi/asx/2020/estandar/estandar/asx-200-mpi-challenge/datos",
@@ -210,7 +211,7 @@
             ]
         },
         {
-            "name": "ASX 200 MPI Spirit",
+            "name": "200 MPI Spirit",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/mitsubishi/asx/2020/estandar/spirit/asx-200-mpi-spirit/datos",
@@ -424,7 +425,7 @@
             ]
         },
         {
-            "name": "ASX 200 MPI CVT Motion",
+            "name": "200 MPI CVT Motion",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/mitsubishi/asx/2020/estandar/motion/asx-200-mpi-cvt-motion/datos",
@@ -640,7 +641,7 @@
             ]
         },
         {
-            "name": "ASX 200 MPI CVT Kaiteki",
+            "name": "200 MPI CVT Kaiteki",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/mitsubishi/asx/2020/estandar/kaiteki/asx-200-mpi-cvt-kaiteki/datos",
@@ -854,7 +855,7 @@
             ]
         },
         {
-            "name": "ASX 200 MPI CVT Kaiteki+ 4WD",
+            "name": "200 MPI CVT Kaiteki+ 4WD",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/mitsubishi/asx/2020/estandar/kaitekiplus/asx-200-mpi-cvt-kaiteki-4wd/datos",

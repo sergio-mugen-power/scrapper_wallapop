@@ -1,11 +1,12 @@
 {
+    "brand": "Suzuki",
     "name": "Vitara",
     "year": "2015",
     "url": "https://www.km77.com/coches/suzuki/vitara/2015/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Vitara 1.6 VVT GL 4x2",
+            "name": "1.6 VVT GL 4x2",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/suzuki/vitara/2015/estandar/gl/vitara-2015/datos",
@@ -34,7 +35,7 @@
             ]
         },
         {
-            "name": "Vitara 1.6 DDiS GL 4x2",
+            "name": "1.6 DDiS GL 4x2",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/suzuki/vitara/2015/estandar/gl/vitara-16-ddis120-cv-2wd/datos",
@@ -63,7 +64,7 @@
             ]
         },
         {
-            "name": "Vitara 1.6 VVT GLE 4x2",
+            "name": "1.6 VVT GLE 4x2",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/suzuki/vitara/2015/estandar/gle/vitara-16-gle-2wd/datos",
@@ -92,7 +93,7 @@
             ]
         },
         {
-            "name": "Vitara 1.6 DDiS GLE 4x2",
+            "name": "1.6 DDiS GLE 4x2",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/suzuki/vitara/2015/estandar/gle/vitara-16-d-gle-2wd/datos",
@@ -121,7 +122,7 @@
             ]
         },
         {
-            "name": "Vitara 1.6 VVT GLE 4x4",
+            "name": "1.6 VVT GLE 4x4",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/suzuki/vitara/2015/estandar/gle/vitara-16-vvt-120-cv-4wd/datos",
@@ -151,7 +152,7 @@
             ]
         },
         {
-            "name": "Vitara 1.6 VVT GLX 4x2",
+            "name": "1.6 VVT GLX 4x2",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/suzuki/vitara/2015/estandar/glx/vitara-16-glx-2wd/datos",
@@ -180,7 +181,7 @@
             ]
         },
         {
-            "name": "Vitara 1.6 VVT Special Edition 4x2",
+            "name": "1.6 VVT Special Edition 4x2",
             "start_year": "2017",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/suzuki/vitara/2015/estandar/special-edition/vitara-16-vvt-special-edition-4x2/datos",
@@ -209,7 +210,7 @@
             ]
         },
         {
-            "name": "Vitara 1.6 DDiS GLE 4x4",
+            "name": "1.6 DDiS GLE 4x4",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/suzuki/vitara/2015/estandar/gle/vitara-16-ddis-120-cv-4wd/datos",
@@ -239,7 +240,7 @@
             ]
         },
         {
-            "name": "Vitara 1.6 DDiS GLX 4x2",
+            "name": "1.6 DDiS GLX 4x2",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/suzuki/vitara/2015/estandar/glx/vitara-16-d-glx-2wd/datos",
@@ -268,7 +269,7 @@
             ]
         },
         {
-            "name": "Vitara 1.6 VVT Toro 4x2",
+            "name": "1.6 VVT Toro 4x2",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/suzuki/vitara/2015/estandar/toro/vitara-16-vvt-toro-4x2/datos",
@@ -297,7 +298,7 @@
             ]
         },
         {
-            "name": "Vitara 1.6 VVT GLX 4x4",
+            "name": "1.6 VVT GLX 4x4",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/suzuki/vitara/2015/estandar/glx/vitara-16-glx-4wd/datos",
@@ -327,7 +328,7 @@
             ]
         },
         {
-            "name": "Vitara 1.6 VVT GLX 4x2 Aut.",
+            "name": "1.6 VVT GLX 4x2 Aut.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/suzuki/vitara/2015/estandar/glx/vitara-16-vvt-120-cv-2wd-aut/datos",
@@ -356,7 +357,7 @@
             ]
         },
         {
-            "name": "Vitara 1.6 DDiS GLE 4x4 TCSS",
+            "name": "1.6 DDiS GLE 4x4 TCSS",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/suzuki/vitara/2015/estandar/gle/vitara-16-ddis-gle-4wd-aut/datos",
@@ -386,7 +387,7 @@
             ]
         },
         {
-            "name": "Vitara S 1.4 BoosterJet 4x4",
+            "name": "S 1.4 BoosterJet 4x4",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/suzuki/vitara/2015/estandar/s/vitara-14-boosterjet-s-4wd/datos",
@@ -416,7 +417,7 @@
             ]
         },
         {
-            "name": "Vitara 1.6 DDiS GLX 4x4",
+            "name": "1.6 DDiS GLX 4x4",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/suzuki/vitara/2015/estandar/glx/vitara-16-d-glx-4wd/datos",
@@ -446,7 +447,7 @@
             ]
         },
         {
-            "name": "Vitara 1.6 VVT GLX 4x4 Aut.",
+            "name": "1.6 VVT GLX 4x4 Aut.",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/suzuki/vitara/2015/estandar/glx/vitara-16-vvt-120-cv-4wd-aut/datos",
@@ -476,7 +477,7 @@
             ]
         },
         {
-            "name": "Vitara 1.6 DDiS Special Edition 4x4",
+            "name": "1.6 DDiS Special Edition 4x4",
             "start_year": "2017",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/suzuki/vitara/2015/estandar/special-edition/vitara-16-ddis-special-edition-4x42/datos",
@@ -505,7 +506,7 @@
             ]
         },
         {
-            "name": "Vitara 1.6 DDiS Toro 4x4",
+            "name": "1.6 DDiS Toro 4x4",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/suzuki/vitara/2015/estandar/toro/vitara-16-ddis-toro-4x4/datos",
@@ -535,7 +536,7 @@
             ]
         },
         {
-            "name": "Vitara S 1.4 BoosterJet 4x4 Aut.",
+            "name": "S 1.4 BoosterJet 4x4 Aut.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/suzuki/vitara/2015/estandar/s/vitara-14-boosterjet-s-4wd-aut/datos",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "name": "Vitara 1.6 DDiS GLX 4x4 TCSS",
+            "name": "1.6 DDiS GLX 4x4 TCSS",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/suzuki/vitara/2015/estandar/glx/vitara-16-ddis-glx-4wd-aut/datos",

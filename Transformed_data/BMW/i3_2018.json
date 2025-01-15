@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "i3",
     "year": "2018",
     "url": "https://www.km77.com/coches/bmw/i3/2018/estandar",
     "price": "",
     "versions": [
         {
-            "name": "i3 94Ah",
+            "name": "94Ah",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/i3/2018/estandar/estandar/i3/datos",
@@ -262,7 +263,7 @@
             ]
         },
         {
-            "name": "i3 120Ah",
+            "name": "120Ah",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/bmw/i3/2018/estandar/estandar/i3-120ah/datos",
@@ -528,7 +529,7 @@
             ]
         },
         {
-            "name": "i3s 94Ah",
+            "name": "s 94Ah",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/i3/2018/estandar/s/i3s/datos",
@@ -779,7 +780,7 @@
             ]
         },
         {
-            "name": "i3 94Ah REX",
+            "name": "94Ah REX",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/i3/2018/estandar/estandar/i3-range-extender/datos",
@@ -1053,7 +1054,7 @@
             ]
         },
         {
-            "name": "i3s 120Ah",
+            "name": "s 120Ah",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/bmw/i3/2018/estandar/s/i3s-120ah/datos",
@@ -1317,7 +1318,7 @@
             ]
         },
         {
-            "name": "i3s 94Ah REX",
+            "name": "s 94Ah REX",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/i3/2018/estandar/s/i3s-range-extender/datos",

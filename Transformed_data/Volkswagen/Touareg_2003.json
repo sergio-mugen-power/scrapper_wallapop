@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Touareg",
     "year": "2003",
     "url": "https://www.km77.com/coches/volkswagen/touareg/2003/estandar",
     "price": "Desde 70.860 €",
     "versions": [
         {
-            "name": "Touareg R5 TDI 174 CV",
+            "name": "R5 TDI 174 CV",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2003/estandar/estandar/touareg-r5-tdi-174-cv/datos",
@@ -26,7 +27,7 @@
             ]
         },
         {
-            "name": "Touareg R5 TDI 174 CV Tiptronic",
+            "name": "R5 TDI 174 CV Tiptronic",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2003/estandar/estandar/touareg-r5-tdi-174-cv-tiptronic/datos",
@@ -47,7 +48,7 @@
             ]
         },
         {
-            "name": "Touareg V6 3.2 220 CV Manual 6 vel.",
+            "name": "V6 3.2 220 CV Manual 6 vel.",
             "start_year": "2003",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2003/estandar/estandar/touareg-v6-32-220-cv-manual-6-vel/datos",
@@ -67,7 +68,7 @@
             ]
         },
         {
-            "name": "Touareg V6 TDI 3.0 225 CV",
+            "name": "V6 TDI 3.0 225 CV",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2003/estandar/estandar/touareg-v6-tdi-30-225-cv/datos",
@@ -87,7 +88,7 @@
             ]
         },
         {
-            "name": "Touareg V6 3.2 241 CV",
+            "name": "V6 3.2 241 CV",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2003/estandar/estandar/touareg-v6-32-241-cv/datos",
@@ -107,7 +108,7 @@
             ]
         },
         {
-            "name": "Touareg V6 3.2 220 CV Tiptronic 6 vel.",
+            "name": "V6 3.2 220 CV Tiptronic 6 vel.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2003/estandar/estandar/touareg-v6-32-220-cv-tiptronic-6-vel/datos",
@@ -127,7 +128,7 @@
             ]
         },
         {
-            "name": "Touareg V6 TDI 3.0 225 CV Tiptronic",
+            "name": "V6 TDI 3.0 225 CV Tiptronic",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2003/estandar/estandar/touareg-v6-tdi-30-225-cv-tiptronic/datos",
@@ -147,7 +148,7 @@
             ]
         },
         {
-            "name": "Touareg V6 3.2 241 CV Tiptronic",
+            "name": "V6 3.2 241 CV Tiptronic",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2003/estandar/estandar/touareg-v6-32-241-cv-tiptronic/datos",
@@ -167,7 +168,7 @@
             ]
         },
         {
-            "name": "Touareg V6 3.6 FSI 280 CV Tiptronic",
+            "name": "V6 3.6 FSI 280 CV Tiptronic",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2003/estandar/estandar/touareg-v6-36-fsi-280-cv-tiptronic/datos",
@@ -187,7 +188,7 @@
             ]
         },
         {
-            "name": "Touareg V8 4.2 310 CV Tiptronic",
+            "name": "V8 4.2 310 CV Tiptronic",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2003/estandar/estandar/touareg-v8-42-310-cv-tiptronic/datos",
@@ -207,7 +208,7 @@
             ]
         },
         {
-            "name": "Touareg V10 TDI 5.0 313 CV Tiptronic",
+            "name": "V10 TDI 5.0 313 CV Tiptronic",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2003/estandar/estandar/touareg-v10-tdi-50-313-cv-tiptronic/datos",
@@ -227,7 +228,7 @@
             ]
         },
         {
-            "name": "Touareg W12 6.0 450 CV Executive Tiptronic",
+            "name": "W12 6.0 450 CV Executive Tiptronic",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2003/estandar/executive/touareg-w12-60-450-cv-executive-tiptronic/datos",
@@ -247,7 +248,7 @@
             ]
         },
         {
-            "name": "Touareg W12 6.0 450 CV Sport Tiptronic",
+            "name": "W12 6.0 450 CV Sport Tiptronic",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2003/estandar/sport/touareg-w12-60-450-cv-sport-tiptronic/datos",

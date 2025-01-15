@@ -1,11 +1,12 @@
 {
+    "brand": "Peugeot",
     "name": "508 SW",
     "year": "2015",
     "url": "https://www.km77.com/coches/peugeot/508/2015/sw",
     "price": "Desde 38.610 €",
     "versions": [
         {
-            "name": "508 SW Access 1.6 e-HDi 115",
+            "name": "Access 1.6 e-HDi 115",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/508/2015/sw/access/508-sw-access-16-e-hdi-115/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "508 SW Access 1.6 BlueHDi 120",
+            "name": "Access 1.6 BlueHDi 120",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/508/2015/sw/access/508-sw-access-16-bluehdi-120/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "508 SW Active 1.6 BlueHDi 120",
+            "name": "Active 1.6 BlueHDi 120",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/peugeot/508/2015/sw/active/508-sw-active-16-bluehdi-120/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "508 SW Active 1.6 e-HDi 115",
+            "name": "Active 1.6 e-HDi 115",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/508/2015/sw/active/508-sw-active-16-e-hdi-115/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "508 SW Active 1.6 e-HDi 115 ETG6",
+            "name": "Active 1.6 e-HDi 115 ETG6",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/508/2015/sw/active/508-sw-active-16-e-hdi-115-etg6/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "508 SW Active 1.6 THP 165 S&S",
+            "name": "Active 1.6 THP 165 S&S",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/peugeot/508/2015/sw/active/508-sw-active-16-thp-165-ss/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "508 SW Active 2.0 HDi 140",
+            "name": "Active 2.0 HDi 140",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/508/2015/sw/active/508-sw-active-20-hdi-140/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "508 SW Active 1.6 BlueHDi 120 EAT6",
+            "name": "Active 1.6 BlueHDi 120 EAT6",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/peugeot/508/2015/sw/active/508-sw-active-16-bluehdi-120-eat6/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "508 SW Active 2.0 BlueHDi 150",
+            "name": "Active 2.0 BlueHDi 150",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/peugeot/508/2015/sw/active/508-sw-active-20-hdi-1402/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "508 SW Allure 1.6 e-HDi 115",
+            "name": "Allure 1.6 e-HDi 115",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/508/2015/sw/allure/508-sw-allure-16-e-hdi-115/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "508 SW Allure 1.6 BlueHDi 120",
+            "name": "Allure 1.6 BlueHDi 120",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/peugeot/508/2015/sw/allure/508-sw-allure-16-bluehdi-120/datos",
@@ -313,7 +314,7 @@
             ]
         },
         {
-            "name": "508 SW GT Line 1.6 BlueHDi 120",
+            "name": "GT Line 1.6 BlueHDi 120",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/peugeot/508/2015/sw/gt-line/508-sw-gt-line-16-bluehdi-120/datos",
@@ -341,7 +342,7 @@
             ]
         },
         {
-            "name": "508 SW Allure 1.6 e-HDi 115 ETG6",
+            "name": "Allure 1.6 e-HDi 115 ETG6",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/508/2015/sw/allure/508-sw-allure-16-e-hdi-115-etg6/datos",
@@ -369,7 +370,7 @@
             ]
         },
         {
-            "name": "508 SW GT Line 1.6 e-HDi 115",
+            "name": "GT Line 1.6 e-HDi 115",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/508/2015/sw/gt-line/508-sw-gt-line-16-e-hdi-115/datos",
@@ -397,7 +398,7 @@
             ]
         },
         {
-            "name": "508 SW Allure 1.6 BlueHDi 120 EAT6",
+            "name": "Allure 1.6 BlueHDi 120 EAT6",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/peugeot/508/2015/sw/allure/508-sw-allure-16-bluehdi-120-eat6/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "508 SW GT Line 1.6 BlueHDi 120 EAT6",
+            "name": "GT Line 1.6 BlueHDi 120 EAT6",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/peugeot/508/2015/sw/gt-line/508-sw-gt-line-16-bluehdi-120-eat6/datos",
@@ -453,7 +454,7 @@
             ]
         },
         {
-            "name": "508 SW Allure 2.0 BlueHDi 150",
+            "name": "Allure 2.0 BlueHDi 150",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/508/2015/sw/allure/508-sw-allure-20-e-hdi-150/datos",
@@ -481,7 +482,7 @@
             ]
         },
         {
-            "name": "508 SW Allure 2.0 BlueHDi 150",
+            "name": "Allure 2.0 BlueHDi 150",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/peugeot/508/2015/sw/allure/508-sw-allure-20-bluehdi-150/datos",
@@ -509,7 +510,7 @@
             ]
         },
         {
-            "name": "508 SW GT Line 2.0 BlueHDi 150",
+            "name": "GT Line 2.0 BlueHDi 150",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/peugeot/508/2015/sw/gt-line/508-sw-gt-line-20-bluehdi-150/datos",
@@ -537,7 +538,7 @@
             ]
         },
         {
-            "name": "508 SW Allure 1.6 THP 165 S&S Aut.",
+            "name": "Allure 1.6 THP 165 S&S Aut.",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/peugeot/508/2015/sw/allure/508-sw-allure-16-thp-165-ss-aut/datos",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "name": "508 SW GT Line 1.6 THP 165 S&S Aut.",
+            "name": "GT Line 1.6 THP 165 S&S Aut.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/peugeot/508/2015/sw/gt-line/508-sw-gt-line-16-thp-165-ss-aut/datos",
@@ -593,7 +594,7 @@
             ]
         },
         {
-            "name": "508 SW Allure 2.0 BlueHDi 180 Aut.",
+            "name": "Allure 2.0 BlueHDi 180 Aut.",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/peugeot/508/2015/sw/allure/508-sw-allure-20-e-hdi-180-aut/datos",
@@ -621,7 +622,7 @@
             ]
         },
         {
-            "name": "508 SW GT 2.0 BlueHDi 180 Aut.",
+            "name": "GT 2.0 BlueHDi 180 Aut.",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/peugeot/508/2015/sw/gt/508-sw-gt-20-e-hdi-180-aut/datos",

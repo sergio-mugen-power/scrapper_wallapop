@@ -1,11 +1,12 @@
 {
+    "brand": "Hummer",
     "name": "H2 SUT",
     "year": "2005",
     "url": "https://www.km77.com/coches/hummer/h2/2005/sut",
     "price": "",
     "versions": [
         {
-            "name": "H2 SUT 6.0 V8 Luxury Aut.",
+            "name": "6.0 V8 Luxury Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/hummer/h2/2005/sut/luxury/h2-sut-60-v8-luxury-aut/datos",
@@ -16,7 +17,7 @@
             "maletero": "-"
         },
         {
-            "name": "H2 SUT 6.0 V8 Luxury Aut.",
+            "name": "6.0 V8 Luxury Aut.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/hummer/h2/2005/sut/luxury/h2-sut-60-v8-luxury-aut2/datos",
@@ -27,7 +28,7 @@
             "maletero": "-"
         },
         {
-            "name": "H2 SUT",
+            "name": "",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/hummer/h2/2005/sut/estandar/h2-sut/datos",

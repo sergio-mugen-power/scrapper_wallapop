@@ -1,11 +1,12 @@
 {
+    "brand": "Porsche",
     "name": "911 Targa",
     "year": "2006",
     "url": "https://www.km77.com/coches/porsche/911/2006/targa",
     "price": "Desde 223.486 €",
     "versions": [
         {
-            "name": "911 Targa 4",
+            "name": "4",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/porsche/911/2006/targa/4/911-targa-4/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "911 Targa 4",
+            "name": "4",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/porsche/911/2006/targa/4/911-targa-42/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "911 Targa 4 Tiptronic",
+            "name": "4 Tiptronic",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/porsche/911/2006/targa/4/911-targa-4-tiptronic/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "911 Targa 4 Tiptronic",
+            "name": "4 Tiptronic",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/porsche/911/2006/targa/4/911-targa-4-tiptronic2/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "911 Targa 4S",
+            "name": "4S",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/porsche/911/2006/targa/4s/911-targa-4s/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "911 Targa 4S",
+            "name": "4S",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/porsche/911/2006/targa/4s/911-targa-4s2/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "911 Targa 4S Tiptronic",
+            "name": "4S Tiptronic",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/porsche/911/2006/targa/4s/911-targa-4s-tiptronic/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "911 Targa 4S Tiptronic",
+            "name": "4S Tiptronic",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/porsche/911/2006/targa/4s/911-targa-4s-tiptronic2/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "LADA",
     "name": "Kalina Vagon",
     "year": "2010",
     "url": "https://www.km77.com/coches/lada/kalina/2010/vagon",
     "price": "",
     "versions": [
         {
-            "name": "Kalina Vagon",
+            "name": "",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/lada/kalina/2010/vagon/estandar/kalina-vagon/datos",
@@ -162,7 +163,7 @@
             ]
         },
         {
-            "name": "Kalina Vagon Luxe",
+            "name": "Luxe",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/lada/kalina/2010/vagon/luxe/kalina-vagon-luxe/datos",

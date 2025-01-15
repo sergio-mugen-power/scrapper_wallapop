@@ -1,11 +1,12 @@
 {
+    "brand": "Volvo",
     "name": "EC40",
     "year": "2024",
     "url": "https://www.km77.com/coches/volvo/ec40/2024/estandar",
     "price": "Desde 50.200 €",
     "versions": [
         {
-            "name": "EC40 Core Single Motor (04/2024 - )",
+            "name": "Core Single Motor (04/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/ec40/2024/estandar/estandar/ec40-single-motor/datos",
@@ -106,7 +107,7 @@
             ]
         },
         {
-            "name": "EC40 Core Single Motor Extended Range (04/2024 - )",
+            "name": "Core Single Motor Extended Range (04/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/ec40/2024/estandar/estandar/ec40-single-motor-extended-range/datos",
@@ -207,7 +208,7 @@
             ]
         },
         {
-            "name": "EC40 Plus Single Motor (04/2024 - )",
+            "name": "Plus Single Motor (04/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/ec40/2024/estandar/estandar/ec40-plus-single-motor/datos",
@@ -308,7 +309,7 @@
             ]
         },
         {
-            "name": "EC40 Plus Single Motor Extended Range (04/2024 - )",
+            "name": "Plus Single Motor Extended Range (04/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/ec40/2024/estandar/estandar/ec40-plus-single-motor-extended-range/datos",
@@ -409,7 +410,7 @@
             ]
         },
         {
-            "name": "EC40 Plus Twin Motor AWD (04/2024 - )",
+            "name": "Plus Twin Motor AWD (04/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/ec40/2024/estandar/estandar/ec40-twin-motor-awd/datos",
@@ -519,7 +520,7 @@
             ]
         },
         {
-            "name": "EC40 Ultra Single Motor Extended Range (04/2024 - )",
+            "name": "Ultra Single Motor Extended Range (04/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/ec40/2024/estandar/estandar/ec40-ultra-single-motor-extended-range/datos",
@@ -620,7 +621,7 @@
             ]
         },
         {
-            "name": "EC40 Ultra Twin Motor AWD (04/2024 - )",
+            "name": "Ultra Twin Motor AWD (04/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/ec40/2024/estandar/estandar/ec40-ultra-twin-motor-awd/datos",

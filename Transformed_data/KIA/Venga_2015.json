@@ -1,11 +1,12 @@
 {
+    "brand": "KIA",
     "name": "Venga",
     "year": "2015",
     "url": "https://www.km77.com/coches/kia/venga/2015/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Venga 1.4 CVVT Basic",
+            "name": "1.4 CVVT Basic",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/kia/venga/2015/estandar/basic/venga-2015/datos",
@@ -178,7 +179,7 @@
             ]
         },
         {
-            "name": "Venga 1.4 CVVT Concept",
+            "name": "1.4 CVVT Concept",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/kia/venga/2015/estandar/concept/venga-14-cvvt-concept/datos",
@@ -351,7 +352,7 @@
             ]
         },
         {
-            "name": "Venga 1.4 CVVT Tech",
+            "name": "1.4 CVVT Tech",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/kia/venga/2015/estandar/tech/venga-14-cvvt-tech/datos",
@@ -538,7 +539,7 @@
             ]
         },
         {
-            "name": "Venga 1.4 CRDi WGT Concept",
+            "name": "1.4 CRDi WGT Concept",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/kia/venga/2015/estandar/concept/venga-14-crdi-wgt-concept/datos",
@@ -712,7 +713,7 @@
             ]
         },
         {
-            "name": "Venga 1.4 CVVT Drive",
+            "name": "1.4 CVVT Drive",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/kia/venga/2015/estandar/drive/venga-14-cvvt-concept2/datos",
@@ -894,7 +895,7 @@
             ]
         },
         {
-            "name": "Venga 1.4 CRDi WGT Tech",
+            "name": "1.4 CRDi WGT Tech",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/kia/venga/2015/estandar/tech/venga-14-crdi-wgt-tech/datos",
@@ -1081,7 +1082,7 @@
             ]
         },
         {
-            "name": "Venga 1.6 CRDi VGT 85 kW (115 CV) Concept Eco-Dynamics",
+            "name": "1.6 CRDi VGT 85 kW (115 CV) Concept Eco-Dynamics",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/kia/venga/2015/estandar/concept/venga-16-crdi-vgt-115-concept/datos",
@@ -1256,7 +1257,7 @@
             ]
         },
         {
-            "name": "Venga 1.6 CVVT Drive",
+            "name": "1.6 CVVT Drive",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/kia/venga/2015/estandar/drive/venga-16-cvvt-drive/datos",
@@ -1438,7 +1439,7 @@
             ]
         },
         {
-            "name": "Venga 1.4 CVVT x-Tech",
+            "name": "1.4 CVVT x-Tech",
             "start_year": "2017",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/kia/venga/2015/estandar/x-tech/venga-14-cvvt-x-tech/datos",
@@ -1623,7 +1624,7 @@
             ]
         },
         {
-            "name": "Venga 1.4 CVVT x-Tech",
+            "name": "1.4 CVVT x-Tech",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/kia/venga/2015/estandar/x-tech/venga-14-cvvt-x-tech2/datos",
@@ -1810,7 +1811,7 @@
             ]
         },
         {
-            "name": "Venga 1.6 CRDi VGT 85 kW (115 CV) Tech Eco-Dynamics",
+            "name": "1.6 CRDi VGT 85 kW (115 CV) Tech Eco-Dynamics",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/kia/venga/2015/estandar/tech/venga-16-crdi-vgt-85-kw-115-cv-tech-eco-dynamics/datos",
@@ -1997,7 +1998,7 @@
             ]
         },
         {
-            "name": "Venga 1.6 CVVT x-Tech",
+            "name": "1.6 CVVT x-Tech",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/kia/venga/2015/estandar/x-tech/venga-16-cvvt-x-tech/datos",
@@ -2184,7 +2185,7 @@
             ]
         },
         {
-            "name": "Venga 1.6 CRDi VGT 94 kW (128 CV) Drive Eco-Dynamics",
+            "name": "1.6 CRDi VGT 94 kW (128 CV) Drive Eco-Dynamics",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/kia/venga/2015/estandar/drive/venga-16-crdi-vgt-128-drive/datos",
@@ -2368,7 +2369,7 @@
             ]
         },
         {
-            "name": "Venga 1.6 CRDi VGT 128 x-Tech Eco-Dynamics",
+            "name": "1.6 CRDi VGT 128 x-Tech Eco-Dynamics",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/kia/venga/2015/estandar/x-tech/venga-16-crdi-vgt-128-x-tech/datos",
@@ -2552,7 +2553,7 @@
             ]
         },
         {
-            "name": "Venga 1.6 CRDi VGT 94 kW (128 CV) x-Tech Eco-Dynamics",
+            "name": "1.6 CRDi VGT 94 kW (128 CV) x-Tech Eco-Dynamics",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/kia/venga/2015/estandar/x-tech/venga-16-crdi-vgt-94-kw-128-cv-x-tech-eco-dynamics/datos",
@@ -2739,7 +2740,7 @@
             ]
         },
         {
-            "name": "Venga 1.6 CRDi VGT 94 kW (128 CV) Emotion Eco-Dynamics",
+            "name": "1.6 CRDi VGT 94 kW (128 CV) Emotion Eco-Dynamics",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/kia/venga/2015/estandar/emotion/venga-16-crdi-vgt-128-emotion/datos",

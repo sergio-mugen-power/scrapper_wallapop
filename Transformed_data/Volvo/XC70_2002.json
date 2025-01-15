@@ -1,11 +1,12 @@
 {
+    "brand": "Volvo",
     "name": "XC70",
     "year": "2002",
     "url": "https://www.km77.com/coches/volvo/xc70/2002/estandar",
     "price": "",
     "versions": [
         {
-            "name": "XC70 D5 Aut.",
+            "name": "D5 Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/xc70/2002/estandar/estandar/xc70-d5-aut/datos",
@@ -25,7 +26,7 @@
             ]
         },
         {
-            "name": "XC70 D5 Kinetic",
+            "name": "D5 Kinetic",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/xc70/2002/estandar/kinetic/xc70-d5-kinetic/datos",
@@ -45,7 +46,7 @@
             ]
         },
         {
-            "name": "XC70 2.5T",
+            "name": "2.5T",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/xc70/2002/estandar/estandar/xc70-25t/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "XC70 D5 Momentum",
+            "name": "D5 Momentum",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/xc70/2002/estandar/momentum/xc70-d5-momentum/datos",
@@ -85,7 +86,7 @@
             ]
         },
         {
-            "name": "XC70 2.5T Aut.",
+            "name": "2.5T Aut.",
             "start_year": "2003",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/xc70/2002/estandar/estandar/xc70-25t-aut/datos",
@@ -105,7 +106,7 @@
             ]
         },
         {
-            "name": "XC70 2.4D Kinetic Aut.",
+            "name": "2.4D Kinetic Aut.",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/xc70/2002/estandar/kinetic/xc70-24d-kinetic-aut/datos",
@@ -125,7 +126,7 @@
             ]
         },
         {
-            "name": "XC70 D5 Kinetic",
+            "name": "D5 Kinetic",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/xc70/2002/estandar/kinetic/xc70-d5-kinetic2/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "XC70 2.5T Kinetic",
+            "name": "2.5T Kinetic",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/xc70/2002/estandar/kinetic/xc70-25t-kinetic/datos",
@@ -165,7 +166,7 @@
             ]
         },
         {
-            "name": "XC70 2.5T Momentum",
+            "name": "2.5T Momentum",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/xc70/2002/estandar/momentum/xc70-25t-momentum/datos",
@@ -185,7 +186,7 @@
             ]
         },
         {
-            "name": "XC70 D5 Momentum",
+            "name": "D5 Momentum",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/xc70/2002/estandar/momentum/xc70-d5-momentum2/datos",
@@ -205,7 +206,7 @@
             ]
         },
         {
-            "name": "XC70 2.4D Momentum Aut.",
+            "name": "2.4D Momentum Aut.",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/xc70/2002/estandar/momentum/xc70-24d-momentum-aut/datos",
@@ -225,7 +226,7 @@
             ]
         },
         {
-            "name": "XC70 D5 Summum",
+            "name": "D5 Summum",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/xc70/2002/estandar/summum/xc70-d5-summum/datos",
@@ -245,7 +246,7 @@
             ]
         },
         {
-            "name": "XC70 D5 Kinetic Aut.",
+            "name": "D5 Kinetic Aut.",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/xc70/2002/estandar/kinetic/xc70-d5-kinetic-aut/datos",
@@ -265,7 +266,7 @@
             ]
         },
         {
-            "name": "XC70 2.5T Kinetic Aut.",
+            "name": "2.5T Kinetic Aut.",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/xc70/2002/estandar/kinetic/xc70-25t-kinetic-aut/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "XC70 2.5T Momentum Aut.",
+            "name": "2.5T Momentum Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/xc70/2002/estandar/momentum/xc70-25t-momentum-aut/datos",
@@ -305,7 +306,7 @@
             ]
         },
         {
-            "name": "XC70 D5 Momentum Aut.",
+            "name": "D5 Momentum Aut.",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/xc70/2002/estandar/momentum/xc70-d5-momentum-aut/datos",
@@ -325,7 +326,7 @@
             ]
         },
         {
-            "name": "XC70 D5Ocean Race",
+            "name": "D5Ocean Race",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/xc70/2002/estandar/volvo-ocean-race/xc70-d5-volvo-ocean-race/datos",
@@ -345,7 +346,7 @@
             ]
         },
         {
-            "name": "XC70 2.5TOcean Race",
+            "name": "2.5TOcean Race",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/xc70/2002/estandar/volvo-ocean-race/xc70-25t-volvo-ocean-race/datos",
@@ -365,7 +366,7 @@
             ]
         },
         {
-            "name": "XC70 2.5T Summum",
+            "name": "2.5T Summum",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/xc70/2002/estandar/summum/xc70-25t-summum/datos",
@@ -385,7 +386,7 @@
             ]
         },
         {
-            "name": "XC70 D5 Summum",
+            "name": "D5 Summum",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/xc70/2002/estandar/summum/xc70-d5-summum2/datos",
@@ -405,7 +406,7 @@
             ]
         },
         {
-            "name": "XC70 2.4D Summum Aut.",
+            "name": "2.4D Summum Aut.",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/xc70/2002/estandar/summum/xc70-24d-summum-aut/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "XC70 D5Ocean Race Aut.",
+            "name": "D5Ocean Race Aut.",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/xc70/2002/estandar/volvo-ocean-race/xc70-d5-volvo-ocean-race-aut/datos",
@@ -445,7 +446,7 @@
             ]
         },
         {
-            "name": "XC70 2.5TOcean Race Aut.",
+            "name": "2.5TOcean Race Aut.",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/xc70/2002/estandar/volvo-ocean-race/xc70-25t-volvo-ocean-race-aut/datos",
@@ -465,7 +466,7 @@
             ]
         },
         {
-            "name": "XC70 2.5T Summum Aut.",
+            "name": "2.5T Summum Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/xc70/2002/estandar/summum/xc70-25t-summum-aut/datos",
@@ -485,7 +486,7 @@
             ]
         },
         {
-            "name": "XC70 D5 Summum Aut.",
+            "name": "D5 Summum Aut.",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/xc70/2002/estandar/summum/xc70-d5-summum-aut/datos",

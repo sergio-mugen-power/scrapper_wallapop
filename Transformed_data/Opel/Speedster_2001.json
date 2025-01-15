@@ -1,11 +1,12 @@
 {
+    "brand": "Opel",
     "name": "Speedster",
     "year": "2001",
     "url": "https://www.km77.com/coches/opel/speedster/2001/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Speedster VX220 2.2 16V",
+            "name": "VX220 2.2 16V",
             "start_year": "2001",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/opel/speedster/2001/estandar/estandar/speedster-vx220-22-16v/datos",
@@ -25,7 +26,7 @@
             ]
         },
         {
-            "name": "Speedster VX220 Turbo",
+            "name": "VX220 Turbo",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/opel/speedster/2001/estandar/estandar/speedster-vx220-turbo/datos",

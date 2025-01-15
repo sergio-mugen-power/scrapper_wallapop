@@ -1,11 +1,12 @@
 {
+    "brand": "Chevrolet",
     "name": "Trax",
     "year": "2013",
     "url": "https://www.km77.com/coches/chevrolet/trax/2013/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Trax LS 1.6 FWD",
+            "name": "LS 1.6 FWD",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/chevrolet/trax/2013/estandar/ls/trax-ls-16-fwd/datos",
@@ -181,7 +182,7 @@
             ]
         },
         {
-            "name": "Trax LS+ 1.6 FWD",
+            "name": "LS+ 1.6 FWD",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/chevrolet/trax/2013/estandar/lsplus/trax-ls-16-fwd3/datos",
@@ -363,7 +364,7 @@
             ]
         },
         {
-            "name": "Trax LT 1.6 FWD",
+            "name": "LT 1.6 FWD",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/chevrolet/trax/2013/estandar/lt/trax-ls-16-fwd2/datos",
@@ -564,7 +565,7 @@
             ]
         },
         {
-            "name": "Trax LS+ 1.7 Diesel FWD",
+            "name": "LS+ 1.7 Diesel FWD",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/chevrolet/trax/2013/estandar/lsplus/trax-ls-17-diesel-fwd/datos",
@@ -746,7 +747,7 @@
             ]
         },
         {
-            "name": "Trax LT 1.4 Turbo FWD",
+            "name": "LT 1.4 Turbo FWD",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/chevrolet/trax/2013/estandar/lt/trax-lt-14-turbo/datos",
@@ -947,7 +948,7 @@
             ]
         },
         {
-            "name": "Trax LT 1.7 Diesel FWD",
+            "name": "LT 1.7 Diesel FWD",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/chevrolet/trax/2013/estandar/lt/trax-lt-17-diesel-fwd/datos",
@@ -1149,7 +1150,7 @@
             ]
         },
         {
-            "name": "Trax LT 1.4 Turbo FWD Aut.",
+            "name": "LT 1.4 Turbo FWD Aut.",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/chevrolet/trax/2013/estandar/lt/trax-lt-14-turbo-aut/datos",
@@ -1348,7 +1349,7 @@
             ]
         },
         {
-            "name": "Trax LT 1.7 Diesel FWD Aut.",
+            "name": "LT 1.7 Diesel FWD Aut.",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/chevrolet/trax/2013/estandar/lt/trax-lt-17-diesel-fwd-aut/datos",
@@ -1548,7 +1549,7 @@
             ]
         },
         {
-            "name": "Trax LT 1.4 Turbo AWD",
+            "name": "LT 1.4 Turbo AWD",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/chevrolet/trax/2013/estandar/lt/trax-lt-14-awd/datos",
@@ -1750,7 +1751,7 @@
             ]
         },
         {
-            "name": "Trax LT 1.7 Diesel AWD",
+            "name": "LT 1.7 Diesel AWD",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/chevrolet/trax/2013/estandar/lt/trax-lt-17-diesel-awd/datos",

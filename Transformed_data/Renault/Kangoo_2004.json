@@ -1,11 +1,12 @@
 {
+    "brand": "Renault",
     "name": "Kangoo",
     "year": "2004",
     "url": "https://www.km77.com/coches/renault/kangoo/2004/estandar",
     "price": "Desde 28.588 €",
     "versions": [
         {
-            "name": "Kangoo Combi Expression 1.2",
+            "name": "Combi Expression 1.2",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/renault/kangoo/2004/estandar/expression/kangoo-combi-expression-12/datos",
@@ -171,7 +172,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Generique 1.9 D 55 CV",
+            "name": "Combi Generique 1.9 D 55 CV",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/renault/kangoo/2004/estandar/generique/kangoo-combi-generique-19-d-55-cv/datos",
@@ -324,7 +325,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Authentique 1.9 D 65 CV",
+            "name": "Combi Authentique 1.9 D 65 CV",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/renault/kangoo/2004/estandar/authentique/kangoo-combi-authentique-19-d-65-cv/datos",
@@ -487,7 +488,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Authentique 1.5 dCi 65 CV",
+            "name": "Combi Authentique 1.5 dCi 65 CV",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/renault/kangoo/2004/estandar/authentique/kangoo-combi-authentique-15-dci-65-cv/datos",
@@ -651,7 +652,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Privilege 1.2 16v",
+            "name": "Combi Privilege 1.2 16v",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/renault/kangoo/2004/estandar/privilege/kangoo-combi-privilege-12-16v/datos",
@@ -818,7 +819,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Expression 1.5 dCi 65 CV",
+            "name": "Combi Expression 1.5 dCi 65 CV",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/renault/kangoo/2004/estandar/expression/kangoo-combi-expression-15-dci-65-cv/datos",
@@ -984,7 +985,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Privilege 1.6 16v",
+            "name": "Combi Privilege 1.6 16v",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/renault/kangoo/2004/estandar/privilege/kangoo-combi-privilege-16-16v/datos",
@@ -1150,7 +1151,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Authentique 1.5 dCi 80 CV",
+            "name": "Combi Authentique 1.5 dCi 80 CV",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/renault/kangoo/2004/estandar/authentique/kangoo-combi-authentique-15-dci-80-cv/datos",
@@ -1312,7 +1313,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Expression 1.5 dCi 80 CV",
+            "name": "Combi Expression 1.5 dCi 80 CV",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/renault/kangoo/2004/estandar/expression/kangoo-combi-expression-15-dci-80-cv/datos",
@@ -1478,7 +1479,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Ice 1.5 dCi 65 CV",
+            "name": "Combi Ice 1.5 dCi 65 CV",
             "start_year": "2005",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/renault/kangoo/2004/estandar/ice/kangoo-combi-ice-15-dci-65-cv/datos",
@@ -1645,7 +1646,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Privilege 1.5 dCi 65 CV",
+            "name": "Combi Privilege 1.5 dCi 65 CV",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/renault/kangoo/2004/estandar/privilege/kangoo-combi-privilege-15-dci-65-cv/datos",
@@ -1812,7 +1813,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Ice 1.5 dCi 80 CV",
+            "name": "Combi Ice 1.5 dCi 80 CV",
             "start_year": "2005",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/renault/kangoo/2004/estandar/ice/kangoo-combi-ice-15-dci-80-cv/datos",
@@ -1979,7 +1980,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi 4X4 Expression 1.6 16v",
+            "name": "Combi 4X4 Expression 1.6 16v",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/renault/kangoo/2004/estandar/expression/kangoo-combi-4x4-expression-16-16v/datos",
@@ -2146,7 +2147,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Privilege 1.5 dCi 80 CV",
+            "name": "Combi Privilege 1.5 dCi 80 CV",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/renault/kangoo/2004/estandar/privilege/kangoo-combi-privilege-15-dci-80-cv/datos",
@@ -2313,7 +2314,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi 4X4 Authentique 1.9 dCi",
+            "name": "Combi 4X4 Authentique 1.9 dCi",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/renault/kangoo/2004/estandar/authentique/kangoo-combi-4x4-authentique-19-dci/datos",
@@ -2475,7 +2476,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Alize + 1.5 dCi 65 CV",
+            "name": "Combi Alize + 1.5 dCi 65 CV",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/renault/kangoo/2004/estandar/alize-plus/kangoo-combi-alize-15-dci-65-cv/datos",
@@ -2633,7 +2634,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi 4X4 Expression 1.9 dCi",
+            "name": "Combi 4X4 Expression 1.9 dCi",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/renault/kangoo/2004/estandar/expression/kangoo-combi-4x4-expression-19-dci/datos",
@@ -2800,7 +2801,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi 4X4 Fairway 1.6 16v",
+            "name": "Combi 4X4 Fairway 1.6 16v",
             "start_year": "2005",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/renault/kangoo/2004/estandar/fairway/kangoo-combi-4x4-fairway-16-16v/datos",
@@ -2963,7 +2964,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Alize + 1.5 dCi 80 CV",
+            "name": "Combi Alize + 1.5 dCi 80 CV",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/renault/kangoo/2004/estandar/alize-plus/kangoo-combi-alize-15-dci-80-cv/datos",
@@ -3121,7 +3122,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi 4X4 Privilege 1.6 16v",
+            "name": "Combi 4X4 Privilege 1.6 16v",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/renault/kangoo/2004/estandar/privilege/kangoo-combi-4x4-privilege-16-16v/datos",
@@ -3288,7 +3289,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi 4X4 Extreme 1.9 dCi",
+            "name": "Combi 4X4 Extreme 1.9 dCi",
             "start_year": "2005",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/renault/kangoo/2004/estandar/extreme/kangoo-combi-4x4-extreme-19-dci/datos",
@@ -3455,7 +3456,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi 4X4 Fairway 1.9 dCi",
+            "name": "Combi 4X4 Fairway 1.9 dCi",
             "start_year": "2005",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/renault/kangoo/2004/estandar/fairway/kangoo-combi-4x4-fairway-19-dci/datos",
@@ -3618,7 +3619,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi 4X4 Privilege 1.9 dCi",
+            "name": "Combi 4X4 Privilege 1.9 dCi",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/renault/kangoo/2004/estandar/privilege/kangoo-combi-4x4-privilege-19-dci/datos",

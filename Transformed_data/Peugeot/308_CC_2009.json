@@ -1,11 +1,12 @@
 {
+    "brand": "Peugeot",
     "name": "308 CC",
     "year": "2009",
     "url": "https://www.km77.com/coches/peugeot/308/2009/cc",
     "price": "Desde 24.050 €",
     "versions": [
         {
-            "name": "308 CC 1.6 VTi 120",
+            "name": "1.6 VTi 120",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/estandar/308-cc-16-vti-1202/datos",
@@ -190,7 +191,7 @@
             ]
         },
         {
-            "name": "308 CC 1.6 VTi 120",
+            "name": "1.6 VTi 120",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/estandar/308-cc-16-vti-1203/datos",
@@ -375,7 +376,7 @@
             ]
         },
         {
-            "name": "308 CC 1.6 VTi 120",
+            "name": "1.6 VTi 120",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/estandar/308-cc-16-vti-1204/datos",
@@ -560,7 +561,7 @@
             ]
         },
         {
-            "name": "308 CC Sport 1.6 VTi 120",
+            "name": "Sport 1.6 VTi 120",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/sport/308-cc-sport-16-vti-1202/datos",
@@ -753,7 +754,7 @@
             ]
         },
         {
-            "name": "308 CC Sport 1.6 VTi 120",
+            "name": "Sport 1.6 VTi 120",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/sport/308-cc-sport-16-vti-1203/datos",
@@ -944,7 +945,7 @@
             ]
         },
         {
-            "name": "308 CC 1.6 VTi 120",
+            "name": "1.6 VTi 120",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/estandar/308-cc-16-vti-120/datos",
@@ -1126,7 +1127,7 @@
             ]
         },
         {
-            "name": "308 CC Sport 1.6 VTi 120",
+            "name": "Sport 1.6 VTi 120",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/sport/308-cc-sport-16-vti-120/datos",
@@ -1317,7 +1318,7 @@
             ]
         },
         {
-            "name": "308 CC 1.6 THP 150",
+            "name": "1.6 THP 150",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/estandar/308-cc-16-thp-150/datos",
@@ -1499,7 +1500,7 @@
             ]
         },
         {
-            "name": "308 CC Sport 1.6 THP 156",
+            "name": "Sport 1.6 THP 156",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/sport/308-cc-sport-16-thp-156/datos",
@@ -1690,7 +1691,7 @@
             ]
         },
         {
-            "name": "308 CC 1.6 HDi 112 FAP",
+            "name": "1.6 HDi 112 FAP",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/estandar/308-cc-16-hdi-112-fap/datos",
@@ -1873,7 +1874,7 @@
             ]
         },
         {
-            "name": "308 CC Sport 1.6 HDi 112 FAP",
+            "name": "Sport 1.6 HDi 112 FAP",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/sport/308-cc-sport-16-hdi-112-fap/datos",
@@ -2064,7 +2065,7 @@
             ]
         },
         {
-            "name": "308 CC Sport 1.6 THP 156",
+            "name": "Sport 1.6 THP 156",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/sport/308-cc-sport-16-thp-1562/datos",
@@ -2255,7 +2256,7 @@
             ]
         },
         {
-            "name": "308 CC Sport 1.6 HDi 112 FAP",
+            "name": "Sport 1.6 HDi 112 FAP",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/sport/308-cc-sport-16-hdi-112-fap2/datos",
@@ -2446,7 +2447,7 @@
             ]
         },
         {
-            "name": "308 CC 2.0 HDi 140 FAP",
+            "name": "2.0 HDi 140 FAP",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/estandar/308-cc-20-hdi-140-fap/datos",
@@ -2629,7 +2630,7 @@
             ]
         },
         {
-            "name": "308 CC Sport 2.0 HDi 140 FAP",
+            "name": "Sport 2.0 HDi 140 FAP",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/sport/308-cc-sport-20-hdi-140-fap/datos",
@@ -2821,7 +2822,7 @@
             ]
         },
         {
-            "name": "308 CC Sport 2.0 HDi 140 FAP",
+            "name": "Sport 2.0 HDi 140 FAP",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/sport/308-cc-sport-20-hdi-140-fap2/datos",
@@ -3013,7 +3014,7 @@
             ]
         },
         {
-            "name": "308 CC Sport Pack 1.6 THP 150",
+            "name": "Sport Pack 1.6 THP 150",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/sport-pack/308-cc-sport-pack-16-thp-150/datos",
@@ -3208,7 +3209,7 @@
             ]
         },
         {
-            "name": "308 CC Sport Pack 1.6 THP 156",
+            "name": "Sport Pack 1.6 THP 156",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/sport-pack/308-cc-sport-pack-16-thp-156/datos",
@@ -3412,7 +3413,7 @@
             ]
         },
         {
-            "name": "308 CC Sport Pack 1.6 THP 156",
+            "name": "Sport Pack 1.6 THP 156",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/sport-pack/308-cc-sport-pack-16-thp-1562/datos",
@@ -3612,7 +3613,7 @@
             ]
         },
         {
-            "name": "308 CC Sport Pack 1.6 THP 140 Aut.",
+            "name": "Sport Pack 1.6 THP 140 Aut.",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/sport-pack/308-cc-sport-pack-16-thp-140-aut/datos",
@@ -3807,7 +3808,7 @@
             ]
         },
         {
-            "name": "308 CC Sport Pack 1.6 THP 156 Aut.",
+            "name": "Sport Pack 1.6 THP 156 Aut.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/sport-pack/308-cc-sport-pack-16-thp-156-aut/datos",
@@ -4011,7 +4012,7 @@
             ]
         },
         {
-            "name": "308 CC Sport Pack 2.0 HDi 140 FAP",
+            "name": "Sport Pack 2.0 HDi 140 FAP",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/sport-pack/308-cc-sport-pack-20-hdi-140-fap2/datos",
@@ -4216,7 +4217,7 @@
             ]
         },
         {
-            "name": "308 CC Sport Pack 2.0 HDi 140 FAP",
+            "name": "Sport Pack 2.0 HDi 140 FAP",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/sport-pack/308-cc-sport-pack-20-hdi-140-fap/datos",
@@ -4412,7 +4413,7 @@
             ]
         },
         {
-            "name": "308 CC Sport Pack 1.6 THP 156 Aut.",
+            "name": "Sport Pack 1.6 THP 156 Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/sport-pack/308-cc-sport-pack-16-thp-156-aut2/datos",
@@ -4612,7 +4613,7 @@
             ]
         },
         {
-            "name": "308 CC Limited Edition 1.6 THP 150",
+            "name": "Limited Edition 1.6 THP 150",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/limited-edition/308-cc-limited-edition-16-thp-150/datos",
@@ -4804,7 +4805,7 @@
             ]
         },
         {
-            "name": "308 CC Sport Pack 2.0 HDi 140 FAP",
+            "name": "Sport Pack 2.0 HDi 140 FAP",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/sport-pack/308-cc-sport-pack-20-hdi-140-fap3/datos",
@@ -5005,7 +5006,7 @@
             ]
         },
         {
-            "name": "308 CC Sport Pack 1.6 THP 200",
+            "name": "Sport Pack 1.6 THP 200",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/sport-pack/308-cc-sport-pack-16-thp-200/datos",
@@ -5207,7 +5208,7 @@
             ]
         },
         {
-            "name": "308 CC Sport Pack 2.0 HDi 136 FAP Aut.",
+            "name": "Sport Pack 2.0 HDi 136 FAP Aut.",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/sport-pack/308-cc-sport-pack-20-hdi-136-fap-aut/datos",
@@ -5403,7 +5404,7 @@
             ]
         },
         {
-            "name": "308 CC Sport Pack 2.0 HDi 136 FAP Aut.",
+            "name": "Sport Pack 2.0 HDi 136 FAP Aut.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/sport-pack/308-cc-sport-pack-20-hdi-136-fap-aut2/datos",
@@ -5608,7 +5609,7 @@
             ]
         },
         {
-            "name": "308 CC Sport Pack 2.0 HDi 136 FAP Aut.",
+            "name": "Sport Pack 2.0 HDi 136 FAP Aut.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/sport-pack/308-cc-sport-pack-20-hdi-136-fap-aut3/datos",
@@ -5812,7 +5813,7 @@
             ]
         },
         {
-            "name": "308 CC Sport Pack 2.0 HDi 163 FAP Aut.",
+            "name": "Sport Pack 2.0 HDi 163 FAP Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/peugeot/308/2009/cc/sport-pack/308-cc-sport-pack-20-hdi-163-fap-aut/datos",

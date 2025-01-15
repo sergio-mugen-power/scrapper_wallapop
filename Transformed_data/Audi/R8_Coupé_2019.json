@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "R8 Coupé",
     "year": "2019",
     "url": "https://www.km77.com/coches/audi/r8/2019/coupe",
     "price": "",
     "versions": [
         {
-            "name": "R8 Coupé V10 FSI RWD S tronic",
+            "name": "V10 FSI RWD S tronic",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/audi/r8/2019/coupe/estandar/r8-coupe-v10-rwd/datos",
@@ -244,7 +245,7 @@
             ]
         },
         {
-            "name": "R8 Coupé V10 FSI performance RWD 419 kW (570 CV)",
+            "name": "V10 FSI performance RWD 419 kW (570 CV)",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/audi/r8/2019/coupe/estandar/r8-coupe-v10-fsi-performance-rwd/datos",
@@ -464,7 +465,7 @@
             ]
         },
         {
-            "name": "R8 Coupé V10 FSI quattro S tronic",
+            "name": "V10 FSI quattro S tronic",
             "start_year": "2018",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/audi/r8/2019/coupe/estandar/r8-coupe-v10-quattro/datos",
@@ -716,7 +717,7 @@
             ]
         },
         {
-            "name": "R8 Coupé V10 FSI performance quattro 456 kW (620 CV)",
+            "name": "V10 FSI performance quattro 456 kW (620 CV)",
             "start_year": "2018",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/audi/r8/2019/coupe/estandar/r8-coupe-v10-performance-quattro/datos",
@@ -946,7 +947,7 @@
             ]
         },
         {
-            "name": "R8 Coupé V10 FSI Decennium",
+            "name": "V10 FSI Decennium",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/audi/r8/2019/coupe/decennium/r8-coupe-v10-decennium/datos",
@@ -1027,7 +1028,7 @@
             ]
         },
         {
-            "name": "R8 Coupé V10 GT RWD",
+            "name": "V10 GT RWD",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/audi/r8/2019/coupe/estandar/r8-coupe-v10-fsi-gt-rwd/datos",

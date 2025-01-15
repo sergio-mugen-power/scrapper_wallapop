@@ -1,11 +1,12 @@
 {
+    "brand": "Ford",
     "name": "Mustang Convertible",
     "year": "2024",
     "url": "https://www.km77.com/coches/ford/mustang/2024/convertible",
     "price": "",
     "versions": [
         {
-            "name": "Mustang Convertible GT 5.0 V8\n(05/2024 - )",
+            "name": "GT 5.0 V8\n(05/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/ford/mustang/2024/convertible/estandar/mustang-convertible-gt-50-v8/datos",
@@ -237,7 +238,7 @@
             ]
         },
         {
-            "name": "Mustang Convertible GT 5.0 V8 Aut.\n(05/2024 - )",
+            "name": "GT 5.0 V8 Aut.\n(05/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/ford/mustang/2024/convertible/estandar/mustang-convertible-gt-50-v8-aut/datos",

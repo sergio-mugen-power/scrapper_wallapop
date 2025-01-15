@@ -1,11 +1,12 @@
 {
+    "brand": "MG",
     "name": "HS",
     "year": "2020",
     "url": "https://www.km77.com/coches/mg/hs/2020/estandar",
     "price": "Desde 27.990 €",
     "versions": [
         {
-            "name": "HS 1.5 Turbo Comfort",
+            "name": "1.5 Turbo Comfort",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mg/hs/2020/estandar/estandar/hs-turbo/datos",
@@ -210,7 +211,7 @@
             ]
         },
         {
-            "name": "HS 1.5 Turbo Comfort AT",
+            "name": "1.5 Turbo Comfort AT",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mg/hs/2020/estandar/estandar/hs-turbo-at/datos",
@@ -417,7 +418,7 @@
             ]
         },
         {
-            "name": "HS 1.5 Turbo Luxury",
+            "name": "1.5 Turbo Luxury",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mg/hs/2020/estandar/estandar/hs-15-turbo-luxury/datos",
@@ -634,7 +635,7 @@
             ]
         },
         {
-            "name": "HS 1.5 Turbo Luxury AT",
+            "name": "1.5 Turbo Luxury AT",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mg/hs/2020/estandar/estandar/hs-15-turbo-luxury-at/datos",

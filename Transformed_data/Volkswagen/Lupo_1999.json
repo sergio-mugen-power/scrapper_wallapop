@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Lupo",
     "year": "1999",
     "url": "https://www.km77.com/coches/volkswagen/lupo/1999/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Lupo 50 Conceptline",
+            "name": "50 Conceptline",
             "start_year": "1998",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volkswagen/lupo/1999/estandar/conceptline/lupo-50-conceptline/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Lupo 1.0 50 CV Advance",
+            "name": "1.0 50 CV Advance",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/lupo/1999/estandar/advance/lupo-10-50-cv-advance/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Lupo 60 Conceptline",
+            "name": "60 Conceptline",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volkswagen/lupo/1999/estandar/conceptline/lupo-60-conceptline/datos",
@@ -88,7 +89,7 @@
             ]
         },
         {
-            "name": "Lupo 1.4 60 CV Advance",
+            "name": "1.4 60 CV Advance",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/lupo/1999/estandar/advance/lupo-14-60-cv-advance/datos",
@@ -116,7 +117,7 @@
             ]
         },
         {
-            "name": "Lupo 75 Trendline",
+            "name": "75 Trendline",
             "start_year": "1998",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volkswagen/lupo/1999/estandar/trendline/lupo-75-trendline/datos",
@@ -144,7 +145,7 @@
             ]
         },
         {
-            "name": "Lupo 1.4 75 CV Advance",
+            "name": "1.4 75 CV Advance",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/lupo/1999/estandar/advance/lupo-14-75-cv-advance/datos",
@@ -172,7 +173,7 @@
             ]
         },
         {
-            "name": "Lupo 60 SDI Conceptline",
+            "name": "60 SDI Conceptline",
             "start_year": "1998",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volkswagen/lupo/1999/estandar/conceptline/lupo-60-sdi-conceptline/datos",
@@ -200,7 +201,7 @@
             ]
         },
         {
-            "name": "Lupo 1.7 SDI 60 CV Advance",
+            "name": "1.7 SDI 60 CV Advance",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/lupo/1999/estandar/advance/lupo-17-sdi-60-cv-advance/datos",
@@ -228,7 +229,7 @@
             ]
         },
         {
-            "name": "Lupo 100 CV Trendline",
+            "name": "100 CV Trendline",
             "start_year": "1999",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volkswagen/lupo/1999/estandar/trendline/lupo-100-cv-trendline/datos",
@@ -256,7 +257,7 @@
             ]
         },
         {
-            "name": "Lupo 1.4 75 CV Advance Aut.",
+            "name": "1.4 75 CV Advance Aut.",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/lupo/1999/estandar/advance/lupo-14-75-cv-advance-aut/datos",
@@ -284,7 +285,7 @@
             ]
         },
         {
-            "name": "Lupo 75 Trendline Aut.",
+            "name": "75 Trendline Aut.",
             "start_year": "1998",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volkswagen/lupo/1999/estandar/trendline/lupo-75-trendline-aut/datos",
@@ -312,7 +313,7 @@
             ]
         },
         {
-            "name": "Lupo 1.4 100 CV Advance",
+            "name": "1.4 100 CV Advance",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/lupo/1999/estandar/advance/lupo-14-100-cv-advance/datos",
@@ -340,7 +341,7 @@
             ]
         },
         {
-            "name": "Lupo 1.4 TDI Trendline",
+            "name": "1.4 TDI Trendline",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volkswagen/lupo/1999/estandar/trendline/lupo-14-tdi-trendline/datos",
@@ -368,7 +369,7 @@
             ]
         },
         {
-            "name": "Lupo 1.4 TDI 75 CV Advance",
+            "name": "1.4 TDI 75 CV Advance",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/lupo/1999/estandar/advance/lupo-14-tdi-75-cv-advance/datos",
@@ -396,7 +397,7 @@
             ]
         },
         {
-            "name": "Lupo 1.2 TDI 3L Tiptronic",
+            "name": "1.2 TDI 3L Tiptronic",
             "start_year": "1999",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/lupo/1999/estandar/3l/lupo-12-tdi-3l-tiptronic/datos",
@@ -424,7 +425,7 @@
             ]
         },
         {
-            "name": "Lupo 1.6 GTI 5 vel.",
+            "name": "1.6 GTI 5 vel.",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/volkswagen/lupo/1999/estandar/gti/lupo-16-gti-5-vel/datos",
@@ -452,7 +453,7 @@
             ]
         },
         {
-            "name": "Lupo 125 CV GTI",
+            "name": "125 CV GTI",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/lupo/1999/estandar/gti/lupo-125-cv-gti/datos",
@@ -480,7 +481,7 @@
             ]
         },
         {
-            "name": "Lupo FSI",
+            "name": "FSI",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/lupo/1999/estandar/fsi/lupo-fsi/datos",

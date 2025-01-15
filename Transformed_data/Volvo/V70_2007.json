@@ -1,11 +1,12 @@
 {
+    "brand": "Volvo",
     "name": "V70",
     "year": "2007",
     "url": "https://www.km77.com/coches/volvo/v70/2007/estandar",
     "price": "",
     "versions": [
         {
-            "name": "V70 Kinetic 2.0D",
+            "name": "Kinetic 2.0D",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-kinetic-20d/datos",
@@ -25,7 +26,7 @@
             ]
         },
         {
-            "name": "V70 Kinetic 2.0 F",
+            "name": "Kinetic 2.0 F",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-kinetic-20-f/datos",
@@ -45,7 +46,7 @@
             ]
         },
         {
-            "name": "V70 Kinetic D3",
+            "name": "Kinetic D3",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-kinetic-d3/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "V70 Kinetic D3",
+            "name": "Kinetic D3",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-kinetic-d32/datos",
@@ -85,7 +86,7 @@
             ]
         },
         {
-            "name": "V70 Kinetic D4",
+            "name": "Kinetic D4",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-kinetic-d4/datos",
@@ -105,7 +106,7 @@
             ]
         },
         {
-            "name": "V70 Kinetic 2.4D",
+            "name": "Kinetic 2.4D",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-kinetic-24d/datos",
@@ -125,7 +126,7 @@
             ]
         },
         {
-            "name": "V70 Kinetic D3",
+            "name": "Kinetic D3",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-kinetic-d33/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "V70 2.5T Kinetic",
+            "name": "2.5T Kinetic",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-25t-kinetic/datos",
@@ -165,7 +166,7 @@
             ]
         },
         {
-            "name": "V70 Momentum 2.0D",
+            "name": "Momentum 2.0D",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-momentum-20d/datos",
@@ -185,7 +186,7 @@
             ]
         },
         {
-            "name": "V70 Kinetic D4",
+            "name": "Kinetic D4",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-kinetic-d42/datos",
@@ -205,7 +206,7 @@
             ]
         },
         {
-            "name": "V70 Kinetic D3 Aut.",
+            "name": "Kinetic D3 Aut.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-kinetic-d3-aut/datos",
@@ -225,7 +226,7 @@
             ]
         },
         {
-            "name": "V70 2.4D Kinetic",
+            "name": "2.4D Kinetic",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-24d-kinetic/datos",
@@ -245,7 +246,7 @@
             ]
         },
         {
-            "name": "V70 2.4D Kinetic",
+            "name": "2.4D Kinetic",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-24d-kinetic2/datos",
@@ -265,7 +266,7 @@
             ]
         },
         {
-            "name": "V70 Kinetic D3 Aut.",
+            "name": "Kinetic D3 Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-kinetic-d3-aut2/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "V70 Kinetic 2.4D Aut.",
+            "name": "Kinetic 2.4D Aut.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-kinetic-24d-aut/datos",
@@ -305,7 +306,7 @@
             ]
         },
         {
-            "name": "V70 2.4D Kinetic Aut.",
+            "name": "2.4D Kinetic Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-24d-kinetic-aut2/datos",
@@ -325,7 +326,7 @@
             ]
         },
         {
-            "name": "V70 Momentum 2.0 F",
+            "name": "Momentum 2.0 F",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-momentum-20-f/datos",
@@ -345,7 +346,7 @@
             ]
         },
         {
-            "name": "V70 Kinetic D3 Geartronic",
+            "name": "Kinetic D3 Geartronic",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-kinetic-d3-geartronic/datos",
@@ -365,7 +366,7 @@
             ]
         },
         {
-            "name": "V70 Kinetic D4 Geartronic",
+            "name": "Kinetic D4 Geartronic",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-kinetic-d4-geartronic/datos",
@@ -385,7 +386,7 @@
             ]
         },
         {
-            "name": "V70 2.5T Kinetic Aut.",
+            "name": "2.5T Kinetic Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-25t-kinetic-aut/datos",
@@ -405,7 +406,7 @@
             ]
         },
         {
-            "name": "V70 2.5 FT Kinetic",
+            "name": "2.5 FT Kinetic",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-25-ft-kinetic/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "V70 D5 Kinetic",
+            "name": "D5 Kinetic",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-d5-kinetic2/datos",
@@ -445,7 +446,7 @@
             ]
         },
         {
-            "name": "V70 D5 Kinetic",
+            "name": "D5 Kinetic",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-d5-kinetic/datos",
@@ -465,7 +466,7 @@
             ]
         },
         {
-            "name": "V70 Momentum D3",
+            "name": "Momentum D3",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-momentum-d3/datos",
@@ -485,7 +486,7 @@
             ]
         },
         {
-            "name": "V70 2.5T Momentum",
+            "name": "2.5T Momentum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-25t-momentum/datos",
@@ -505,7 +506,7 @@
             ]
         },
         {
-            "name": "V70 2.4D Kinetic Aut.",
+            "name": "2.4D Kinetic Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-24d-kinetic-aut/datos",
@@ -525,7 +526,7 @@
             ]
         },
         {
-            "name": "V70 Kinetic D4 Geartronic",
+            "name": "Kinetic D4 Geartronic",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-kinetic-d4-geartronic2/datos",
@@ -545,7 +546,7 @@
             ]
         },
         {
-            "name": "V70 Momentum D4",
+            "name": "Momentum D4",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-momentum-d4/datos",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "name": "V70 Summum 2.0D",
+            "name": "Summum 2.0D",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-summum-20d/datos",
@@ -585,7 +586,7 @@
             ]
         },
         {
-            "name": "V70 D5 Kinetic Aut.",
+            "name": "D5 Kinetic Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-d5-kinetic-aut2/datos",
@@ -605,7 +606,7 @@
             ]
         },
         {
-            "name": "V70 Momentum D3",
+            "name": "Momentum D3",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-momentum-d32/datos",
@@ -625,7 +626,7 @@
             ]
         },
         {
-            "name": "V70 2.4D Momentum",
+            "name": "2.4D Momentum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-24d-momentum/datos",
@@ -645,7 +646,7 @@
             ]
         },
         {
-            "name": "V70 2.4D Momentum",
+            "name": "2.4D Momentum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-24d-momentum2/datos",
@@ -665,7 +666,7 @@
             ]
         },
         {
-            "name": "V70 Momentum 2.4D",
+            "name": "Momentum 2.4D",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-momentum-24d/datos",
@@ -685,7 +686,7 @@
             ]
         },
         {
-            "name": "V70 Momentum D3",
+            "name": "Momentum D3",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-momentum-d33/datos",
@@ -705,7 +706,7 @@
             ]
         },
         {
-            "name": "V70 Momentum D4",
+            "name": "Momentum D4",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-momentum-d42/datos",
@@ -725,7 +726,7 @@
             ]
         },
         {
-            "name": "V70 2.4D Momentum Aut.",
+            "name": "2.4D Momentum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-24d-momentum-aut2/datos",
@@ -745,7 +746,7 @@
             ]
         },
         {
-            "name": "V70 2.5 FT Kinetic Aut.",
+            "name": "2.5 FT Kinetic Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-25-ft-kinetic-aut/datos",
@@ -765,7 +766,7 @@
             ]
         },
         {
-            "name": "V70 D5 Kinetic Aut.",
+            "name": "D5 Kinetic Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-d5-kinetic-aut/datos",
@@ -785,7 +786,7 @@
             ]
         },
         {
-            "name": "V70 Momentum D3 Aut.",
+            "name": "Momentum D3 Aut.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-momentum-d3-aut/datos",
@@ -805,7 +806,7 @@
             ]
         },
         {
-            "name": "V70 D5 Kinetic AWD",
+            "name": "D5 Kinetic AWD",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-d5-kinetic-awd/datos",
@@ -825,7 +826,7 @@
             ]
         },
         {
-            "name": "V70 3.2 Kinetic",
+            "name": "3.2 Kinetic",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-32-kinetic/datos",
@@ -845,7 +846,7 @@
             ]
         },
         {
-            "name": "V70 2.5T Momentum Aut.",
+            "name": "2.5T Momentum Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-25t-momentum-aut/datos",
@@ -865,7 +866,7 @@
             ]
         },
         {
-            "name": "V70 D5 Momentum",
+            "name": "D5 Momentum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-d5-momentum2/datos",
@@ -885,7 +886,7 @@
             ]
         },
         {
-            "name": "V70 2.5 FT Momentum",
+            "name": "2.5 FT Momentum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-25-ft-momentum/datos",
@@ -905,7 +906,7 @@
             ]
         },
         {
-            "name": "V70 D5 Momentum",
+            "name": "D5 Momentum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-d5-momentum/datos",
@@ -925,7 +926,7 @@
             ]
         },
         {
-            "name": "V70 Summum 2.0 F",
+            "name": "Summum 2.0 F",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-summum-20-f/datos",
@@ -945,7 +946,7 @@
             ]
         },
         {
-            "name": "V70 Momentum 2.4D Aut.",
+            "name": "Momentum 2.4D Aut.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-momentum-24d-aut/datos",
@@ -965,7 +966,7 @@
             ]
         },
         {
-            "name": "V70 Momentum D3 Aut.",
+            "name": "Momentum D3 Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-momentum-d3-aut2/datos",
@@ -985,7 +986,7 @@
             ]
         },
         {
-            "name": "V70 2.4D Momentum Aut.",
+            "name": "2.4D Momentum Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-24d-momentum-aut/datos",
@@ -1005,7 +1006,7 @@
             ]
         },
         {
-            "name": "V70 Momentum D3 Geartronic",
+            "name": "Momentum D3 Geartronic",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-momentum-d3-geartronic/datos",
@@ -1025,7 +1026,7 @@
             ]
         },
         {
-            "name": "V70 Momentum D4 Geartronic",
+            "name": "Momentum D4 Geartronic",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-momentum-d4-geartronic/datos",
@@ -1045,7 +1046,7 @@
             ]
         },
         {
-            "name": "V70 Summum D3",
+            "name": "Summum D3",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-summum-d3/datos",
@@ -1065,7 +1066,7 @@
             ]
         },
         {
-            "name": "V70 D5 Momentum Aut.",
+            "name": "D5 Momentum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-d5-momentum-aut2/datos",
@@ -1085,7 +1086,7 @@
             ]
         },
         {
-            "name": "V70 2.5T Summum",
+            "name": "2.5T Summum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-25t-summum/datos",
@@ -1105,7 +1106,7 @@
             ]
         },
         {
-            "name": "V70 Momentum D5",
+            "name": "Momentum D5",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-momentum-d5/datos",
@@ -1125,7 +1126,7 @@
             ]
         },
         {
-            "name": "V70 Summum D4",
+            "name": "Summum D4",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-summum-d4/datos",
@@ -1145,7 +1146,7 @@
             ]
         },
         {
-            "name": "V70 Summum 2.4D",
+            "name": "Summum 2.4D",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-summum-24d/datos",
@@ -1165,7 +1166,7 @@
             ]
         },
         {
-            "name": "V70 Summum D3",
+            "name": "Summum D3",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-summum-d32/datos",
@@ -1185,7 +1186,7 @@
             ]
         },
         {
-            "name": "V70 Momentum D4 Geartronic",
+            "name": "Momentum D4 Geartronic",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-momentum-d4-geartronic2/datos",
@@ -1205,7 +1206,7 @@
             ]
         },
         {
-            "name": "V70 2.4D Summum",
+            "name": "2.4D Summum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-24d-summum/datos",
@@ -1225,7 +1226,7 @@
             ]
         },
         {
-            "name": "V70 2.4D Summum",
+            "name": "2.4D Summum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-24d-summum2/datos",
@@ -1245,7 +1246,7 @@
             ]
         },
         {
-            "name": "V70 2.5 FT Momentum Aut.",
+            "name": "2.5 FT Momentum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-25-ft-momentum-aut/datos",
@@ -1265,7 +1266,7 @@
             ]
         },
         {
-            "name": "V70 D5 Momentum Aut.",
+            "name": "D5 Momentum Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-d5-momentum-aut/datos",
@@ -1285,7 +1286,7 @@
             ]
         },
         {
-            "name": "V70 Summum D3",
+            "name": "Summum D3",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-summum-d33/datos",
@@ -1305,7 +1306,7 @@
             ]
         },
         {
-            "name": "V70 D5 Momentum AWD",
+            "name": "D5 Momentum AWD",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-d5-momentum-awd/datos",
@@ -1325,7 +1326,7 @@
             ]
         },
         {
-            "name": "V70 3.2 Kinetic Aut.",
+            "name": "3.2 Kinetic Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-32-kinetic-aut/datos",
@@ -1345,7 +1346,7 @@
             ]
         },
         {
-            "name": "V70 Summum D4",
+            "name": "Summum D4",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-summum-d42/datos",
@@ -1365,7 +1366,7 @@
             ]
         },
         {
-            "name": "V70 3.2 Momentum",
+            "name": "3.2 Momentum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-32-momentum/datos",
@@ -1385,7 +1386,7 @@
             ]
         },
         {
-            "name": "V70 Summum D3 Aut.",
+            "name": "Summum D3 Aut.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-summum-d3-aut/datos",
@@ -1405,7 +1406,7 @@
             ]
         },
         {
-            "name": "V70 2.4D Summum Aut.",
+            "name": "2.4D Summum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-24d-summum-aut2/datos",
@@ -1425,7 +1426,7 @@
             ]
         },
         {
-            "name": "V70 Momentum D5 Aut.",
+            "name": "Momentum D5 Aut.",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-momentum-d5-aut/datos",
@@ -1445,7 +1446,7 @@
             ]
         },
         {
-            "name": "V70 2.5T Summum Aut.",
+            "name": "2.5T Summum Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-25t-summum-aut/datos",
@@ -1465,7 +1466,7 @@
             ]
         },
         {
-            "name": "V70 Summum 2.4D Aut.",
+            "name": "Summum 2.4D Aut.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-summum-24d-aut/datos",
@@ -1485,7 +1486,7 @@
             ]
         },
         {
-            "name": "V70 D5 Ocean Race Edition",
+            "name": "D5 Ocean Race Edition",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/ocean-race/v70-d5-ocean-race-edition/datos",
@@ -1505,7 +1506,7 @@
             ]
         },
         {
-            "name": "V70 D5 Summum",
+            "name": "D5 Summum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-d5-summum/datos",
@@ -1525,7 +1526,7 @@
             ]
         },
         {
-            "name": "V70 D5 Summum",
+            "name": "D5 Summum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-d5-summum2/datos",
@@ -1545,7 +1546,7 @@
             ]
         },
         {
-            "name": "V70 Summum D3 Aut.",
+            "name": "Summum D3 Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-summum-d3-aut2/datos",
@@ -1565,7 +1566,7 @@
             ]
         },
         {
-            "name": "V70 D5 Kinetic AWD Aut.",
+            "name": "D5 Kinetic AWD Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/kinetic/v70-d5-kinetic-awd-aut/datos",
@@ -1585,7 +1586,7 @@
             ]
         },
         {
-            "name": "V70 2.5 FT Summum",
+            "name": "2.5 FT Summum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-25-ft-summum/datos",
@@ -1605,7 +1606,7 @@
             ]
         },
         {
-            "name": "V70 Summum D4 Geartronic",
+            "name": "Summum D4 Geartronic",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-summum-d4-geartronic/datos",
@@ -1625,7 +1626,7 @@
             ]
         },
         {
-            "name": "V70 2.4D Summum Aut.",
+            "name": "2.4D Summum Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-24d-summum-aut/datos",
@@ -1645,7 +1646,7 @@
             ]
         },
         {
-            "name": "V70 Summum D5",
+            "name": "Summum D5",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-summum-d5/datos",
@@ -1665,7 +1666,7 @@
             ]
         },
         {
-            "name": "V70 R-Design D5",
+            "name": "R-Design D5",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/r-design/v70-r-design-d5/datos",
@@ -1685,7 +1686,7 @@
             ]
         },
         {
-            "name": "V70 Summum D3 Geartronic",
+            "name": "Summum D3 Geartronic",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-summum-d3-geartronic/datos",
@@ -1705,7 +1706,7 @@
             ]
         },
         {
-            "name": "V70 D5 Summum Aut.",
+            "name": "D5 Summum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-d5-summum-aut2/datos",
@@ -1725,7 +1726,7 @@
             ]
         },
         {
-            "name": "V70 Summum D4 Geartronic",
+            "name": "Summum D4 Geartronic",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-summum-d4-geartronic2/datos",
@@ -1745,7 +1746,7 @@
             ]
         },
         {
-            "name": "V70 3.2 Momentum Aut.",
+            "name": "3.2 Momentum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-32-momentum-aut/datos",
@@ -1765,7 +1766,7 @@
             ]
         },
         {
-            "name": "V70 D5 Summum Aut.",
+            "name": "D5 Summum Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-d5-summum-aut/datos",
@@ -1785,7 +1786,7 @@
             ]
         },
         {
-            "name": "V70 3.2 Summum",
+            "name": "3.2 Summum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-32-summum/datos",
@@ -1805,7 +1806,7 @@
             ]
         },
         {
-            "name": "V70 2.5 FT Summum Aut.",
+            "name": "2.5 FT Summum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-25-ft-summum-aut/datos",
@@ -1825,7 +1826,7 @@
             ]
         },
         {
-            "name": "V70 D5 Summum AWD",
+            "name": "D5 Summum AWD",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-d5-summum-awd/datos",
@@ -1845,7 +1846,7 @@
             ]
         },
         {
-            "name": "V70 Summum D5 Aut.",
+            "name": "Summum D5 Aut.",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-summum-d5-aut/datos",
@@ -1865,7 +1866,7 @@
             ]
         },
         {
-            "name": "V70 R-Design D5 Aut.",
+            "name": "R-Design D5 Aut.",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/r-design/v70-r-design-d5-aut/datos",
@@ -1885,7 +1886,7 @@
             ]
         },
         {
-            "name": "V70 D5 Momentum AWD Aut.",
+            "name": "D5 Momentum AWD Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-d5-momentum-awd-aut/datos",
@@ -1905,7 +1906,7 @@
             ]
         },
         {
-            "name": "V70 3.2 Ocean Race Edition Aut.",
+            "name": "3.2 Ocean Race Edition Aut.",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/ocean-race/v70-32-ocean-race-edition-aut/datos",
@@ -1925,7 +1926,7 @@
             ]
         },
         {
-            "name": "V70 3.2 Summum Aut.",
+            "name": "3.2 Summum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-32-summum-aut/datos",
@@ -1945,7 +1946,7 @@
             ]
         },
         {
-            "name": "V70 T6 Momentum",
+            "name": "T6 Momentum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-t6-momentum/datos",
@@ -1965,7 +1966,7 @@
             ]
         },
         {
-            "name": "V70 D5 Summum AWD Aut.",
+            "name": "D5 Summum AWD Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-d5-summum-awd-aut/datos",
@@ -1985,7 +1986,7 @@
             ]
         },
         {
-            "name": "V70 Momentum T6 AWD Aut.",
+            "name": "Momentum T6 AWD Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/momentum/v70-momentum-t6-awd-aut/datos",
@@ -2005,7 +2006,7 @@
             ]
         },
         {
-            "name": "V70 T6 Summum",
+            "name": "T6 Summum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-t6-summum/datos",
@@ -2025,7 +2026,7 @@
             ]
         },
         {
-            "name": "V70 Summum T6 AWD Aut.",
+            "name": "Summum T6 AWD Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/summum/v70-summum-t6-awd-aut/datos",
@@ -2045,7 +2046,7 @@
             ]
         },
         {
-            "name": "V70 R-Design T6 AWD Aut.",
+            "name": "R-Design T6 AWD Aut.",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/v70/2007/estandar/r-design/v70-r-design-t6-awd-aut/datos",

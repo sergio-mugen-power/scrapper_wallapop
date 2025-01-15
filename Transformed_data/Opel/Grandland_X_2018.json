@@ -1,11 +1,12 @@
 {
+    "brand": "Opel",
     "name": "Grandland X",
     "year": "2018",
     "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Grandland X Selective 1.2 Turbo Start&Stop 96 kW (130 CV)",
+            "name": "Selective 1.2 Turbo Start&Stop 96 kW (130 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/selective/grandland-x-selective-12-turbo-startstop-96-kw-130-cv2/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Grandland X Selective 1.2 Turbo Start&Stop 96 kW (130 CV)",
+            "name": "Selective 1.2 Turbo Start&Stop 96 kW (130 CV)",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/selective/grandland-x-selective-12-turbo-startstop-96-kw-130-cv/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Grandland X Selective 1.2 Turbo Start&Stop 96 kW (130 CV)",
+            "name": "Selective 1.2 Turbo Start&Stop 96 kW (130 CV)",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/selective/grandland-x-selective-12-turbo-startstop-96-kw-130-cv3/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Grandland X Selective 1.6 CDTi Start&Stop 88 kW (120 CV)",
+            "name": "Selective 1.6 CDTi Start&Stop 88 kW (120 CV)",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/selective/grandland-x-selective-16-cdti-startstop-88-kw-120-cv/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "Grandland X Selective 1.5 CDTi Start&Stop 96 kW (130 CV)",
+            "name": "Selective 1.5 CDTi Start&Stop 96 kW (130 CV)",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/selective/grandland-x-selective-15-cdti-startstop-96-kw-130-cv2/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Grandland X Selective 1.5 CDTi Start&Stop 96 kW (130 CV)",
+            "name": "Selective 1.5 CDTi Start&Stop 96 kW (130 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/selective/grandland-x-selective-15-cdti-startstop-96-kw-130-cv/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "Grandland X Selective Pro 1.5 CDTi Start&Stop 96 kW (130 CV)",
+            "name": "Selective Pro 1.5 CDTi Start&Stop 96 kW (130 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/selective-pro/grandland-x-selective-pro-15-cdti-startstop-96-kw-130-cv/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "Grandland X Selective 1.2 Turbo Start&Stop 96 kW (130 CV)",
+            "name": "Selective 1.2 Turbo Start&Stop 96 kW (130 CV)",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/selective/grandland-x-selective-12-turbo-startstop-96-kw-130-cv4/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "Grandland X Excellence 1.2 Turbo Start&Stop 96 kW (130 CV)",
+            "name": "Excellence 1.2 Turbo Start&Stop 96 kW (130 CV)",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/excellence/grandland-x-excellence-12-turbo-startstop-96-kw-130-cv/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "Grandland X Excellence 1.2 Turbo Start&Stop 96 kW (130 CV)",
+            "name": "Excellence 1.2 Turbo Start&Stop 96 kW (130 CV)",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/excellence/grandland-x-excellence-12-turbo-startstop-96-kw-130-cv2/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "Grandland X 120 Aniversario 1.2 Turbo Start&Stop 96 kW (130 CV)",
+            "name": "120 Aniversario 1.2 Turbo Start&Stop 96 kW (130 CV)",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/120-aniversario/grandland-x-120-aniversario-12-turbo-startstop-96-kw-130-cv/datos",
@@ -313,7 +314,7 @@
             ]
         },
         {
-            "name": "Grandland X Business 1.5 CDTi Start&Stop 96 kW (130 CV)",
+            "name": "Business 1.5 CDTi Start&Stop 96 kW (130 CV)",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/business/grandland-x-business-15-cdti-startsto9688-kw-130-cv/datos",
@@ -341,7 +342,7 @@
             ]
         },
         {
-            "name": "Grandland X 120 Aniversario 1.2 Turbo Start&Stop 96 kW (130 CV)",
+            "name": "120 Aniversario 1.2 Turbo Start&Stop 96 kW (130 CV)",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/120-aniversario/grandland-x-120-aniversario-12-turbo-startstop-96-kw-130-cv2/datos",
@@ -369,7 +370,7 @@
             ]
         },
         {
-            "name": "Grandland X Excellence 1.6 CDTi Start&Stop 88 kW (120 CV)",
+            "name": "Excellence 1.6 CDTi Start&Stop 88 kW (120 CV)",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/excellence/grandland-x-excellence-16-cdti-startstop-88-kw-120-cv/datos",
@@ -397,7 +398,7 @@
             ]
         },
         {
-            "name": "Grandland X Selective 1.5 CDTi Start&Stop 96 kW (130 CV)",
+            "name": "Selective 1.5 CDTi Start&Stop 96 kW (130 CV)",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/selective/grandland-x-selective-15-cdti-startstop-96-kw-130-cv3/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "Grandland X Design Line 1.2 Turbo Start&Stop 96 kW (130 CV)",
+            "name": "Design Line 1.2 Turbo Start&Stop 96 kW (130 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/design-line/grandland-x-design-line-12-turbo-startstop-96-kw-130-cv/datos",
@@ -453,7 +454,7 @@
             ]
         },
         {
-            "name": "Grandland X 120 Aniversario 1.5 CDTi Start&Stop 96 kW (130 CV)",
+            "name": "120 Aniversario 1.5 CDTi Start&Stop 96 kW (130 CV)",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/120-aniversario/grandland-x-120-aniversario-15-cdti-startstop-96-kw-130-cv/datos",
@@ -473,7 +474,7 @@
             ]
         },
         {
-            "name": "Grandland X 120 Aniversario 1.5 CDTi Start&Stop 96 kW (130 CV)",
+            "name": "120 Aniversario 1.5 CDTi Start&Stop 96 kW (130 CV)",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/120-aniversario/grandland-x-120-aniversario-15-cdti-startstop-96-kw-130-cv2/datos",
@@ -501,7 +502,7 @@
             ]
         },
         {
-            "name": "Grandland X 120 Aniversario 1.2 Turbo Start&Stop 96 kW (130 CV) Aut. 8v",
+            "name": "120 Aniversario 1.2 Turbo Start&Stop 96 kW (130 CV) Aut. 8v",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/120-aniversario/grandland-x-120-aniversario-12-turbo-startstop-96-kw-130-cv-aut-8v/datos",
@@ -529,7 +530,7 @@
             ]
         },
         {
-            "name": "Grandland X Excellence 1.5 CDTi Start&Stop 96 kW (130 CV)",
+            "name": "Excellence 1.5 CDTi Start&Stop 96 kW (130 CV)",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/excellence/grandland-x-excellence-15-cdti-startstop-96-kw-130-cv/datos",
@@ -557,7 +558,7 @@
             ]
         },
         {
-            "name": "Grandland X Design Line 1.5 CDTi Start&Stop 96 kW (130 CV)",
+            "name": "Design Line 1.5 CDTi Start&Stop 96 kW (130 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/design-line/grandland-x-design-line-15-cdti-startstop-96-kw-130-cv/datos",
@@ -585,7 +586,7 @@
             ]
         },
         {
-            "name": "Grandland X Design Line 1.2 Turbo Start&Stop 96 kW (130 CV)",
+            "name": "Design Line 1.2 Turbo Start&Stop 96 kW (130 CV)",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/estandar/grandland-x-design-line-12-turbo-startstop-96-kw-130-cv2/datos",
@@ -613,7 +614,7 @@
             ]
         },
         {
-            "name": "Grandland X Design Line 1.2 Turbo Start&Stop 96 kW (130 CV) Aut. 8v",
+            "name": "Design Line 1.2 Turbo Start&Stop 96 kW (130 CV) Aut. 8v",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/design-line/grandland-x-design-line-12-turbo-startstop-96-kw-130-cv-aut-8v/datos",
@@ -641,7 +642,7 @@
             ]
         },
         {
-            "name": "Grandland X 2020 1.2 Turbo Start&Stop 96 kW (130 CV)",
+            "name": "2020 1.2 Turbo Start&Stop 96 kW (130 CV)",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/opel-2020/grandland-x-opel-2020-12-turbo-startstop-96-kw-130-cv/datos",
@@ -669,7 +670,7 @@
             ]
         },
         {
-            "name": "Grandland X Excellence 1.6 CDTi Start&Stop 88 kW (120 CV) Aut.",
+            "name": "Excellence 1.6 CDTi Start&Stop 88 kW (120 CV) Aut.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/excellence/grandland-x-excellence-16-cdti-startstop-88-kw-120-cv-aut/datos",
@@ -697,7 +698,7 @@
             ]
         },
         {
-            "name": "Grandland X 120 Aniversario 1.2 Turbo Start&Stop 96 kW (130 CV) Aut. 8v",
+            "name": "120 Aniversario 1.2 Turbo Start&Stop 96 kW (130 CV) Aut. 8v",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/120-aniversario/grandland-x-120-aniversario-12-turbo-startstop-96-kw-130-cv-aut-8v2/datos",
@@ -725,7 +726,7 @@
             ]
         },
         {
-            "name": "Grandland X 120 Aniversario 1.5 CDTi Start&Stop 96 kW (130 CV) Aut. 6v",
+            "name": "120 Aniversario 1.5 CDTi Start&Stop 96 kW (130 CV) Aut. 6v",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/120-aniversario/grandland-x-120-aniversario-15-cdti-startstop-96-kw-130-cv-aut-6v/datos",
@@ -753,7 +754,7 @@
             ]
         },
         {
-            "name": "Grandland X Excellence 1.5 CDTi Start&Stop 96 kW (130 CV) Aut. 8v",
+            "name": "Excellence 1.5 CDTi Start&Stop 96 kW (130 CV) Aut. 8v",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/excellence/grandland-x-excellence-15-cdti-startstop-96-kw-130-cv-aut-8v/datos",
@@ -781,7 +782,7 @@
             ]
         },
         {
-            "name": "Grandland X Edition 1.2 Turbo Start&Stop 96 kW (130 CV)",
+            "name": "Edition 1.2 Turbo Start&Stop 96 kW (130 CV)",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/estandar/grandland-x-edition-12-turbo-startstop-96-kw-130-cv/datos",
@@ -809,7 +810,7 @@
             ]
         },
         {
-            "name": "Grandland X Design Line 1.5 CDTi Start&Stop 96 kW (130 CV) Aut. 8v",
+            "name": "Design Line 1.5 CDTi Start&Stop 96 kW (130 CV) Aut. 8v",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/design-line/grandland-x-design-line-15-cdti-startstop-96-kw-130-cv-aut-8v/datos",
@@ -837,7 +838,7 @@
             ]
         },
         {
-            "name": "Grandland X 120 Aniversario 1.5 CDTi Start&Stop 96 kW (130 CV) Aut. 8v",
+            "name": "120 Aniversario 1.5 CDTi Start&Stop 96 kW (130 CV) Aut. 8v",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/120-aniversario/grandland-x-120-aniversario-15-cdti-startstop-96-kw-130-cv-aut-8v/datos",
@@ -865,7 +866,7 @@
             ]
         },
         {
-            "name": "Grandland X Ultimate 1.2 Turbo Start&Stop 96 kW (130 CV)",
+            "name": "Ultimate 1.2 Turbo Start&Stop 96 kW (130 CV)",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/ultimate/grandland-x-ultimate-12-turbo-startstop-96-kw-130-cv/datos",
@@ -893,7 +894,7 @@
             ]
         },
         {
-            "name": "Grandland X 2020 1.5 CDTi Start&Stop 96 kW (130 CV)",
+            "name": "2020 1.5 CDTi Start&Stop 96 kW (130 CV)",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/opel-2020/grandland-x-opel-2020-15-cdti-startstop-96-kw-130-cv/datos",
@@ -921,7 +922,7 @@
             ]
         },
         {
-            "name": "Grandland X Ultimate 1.2 Turbo Start&Stop 96 kW (130 CV)",
+            "name": "Ultimate 1.2 Turbo Start&Stop 96 kW (130 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/ultimate/grandland-x-ultimate-12-turbo-startstop-96-kw-130-cv2/datos",
@@ -949,7 +950,7 @@
             ]
         },
         {
-            "name": "Grandland X Ultimate 1.2 Turbo Start&Stop 96 kW (130 CV)",
+            "name": "Ultimate 1.2 Turbo Start&Stop 96 kW (130 CV)",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/ultimate/grandland-x-ultimate-12-turbo-startstop-96-kw-130-cv3/datos",
@@ -977,7 +978,7 @@
             ]
         },
         {
-            "name": "Grandland X 2020 1.2 Turbo Start&Stop 96 kW (130 CV) Aut. 8v",
+            "name": "2020 1.2 Turbo Start&Stop 96 kW (130 CV) Aut. 8v",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/opel-2020/grandland-x-opel-2020-12-turbo-startstop-96-kw-130-cv-aut-8v/datos",
@@ -1005,7 +1006,7 @@
             ]
         },
         {
-            "name": "Grandland X Ultimate 1.2 Turbo Start&Stop 96 kW (130 CV) Aut. 8v",
+            "name": "Ultimate 1.2 Turbo Start&Stop 96 kW (130 CV) Aut. 8v",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/ultimate/grandland-x-ultimate-12-turbo-startstop-96-kw-130-cv-aut-8v2/datos",
@@ -1033,7 +1034,7 @@
             ]
         },
         {
-            "name": "Grandland X Design Line 1.5 CDTi Start&Stop 96 kW (130 CV)",
+            "name": "Design Line 1.5 CDTi Start&Stop 96 kW (130 CV)",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/estandar/grandland-x-design-line-15-cdti-startstop-96-kw-130-cv2/datos",
@@ -1061,7 +1062,7 @@
             ]
         },
         {
-            "name": "Grandland X Design & Tech 1.2 Turbo Start&Stop 96 kW (130 CV)",
+            "name": "Design & Tech 1.2 Turbo Start&Stop 96 kW (130 CV)",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/estandar/grandland-x-design-tech-12-turbo-startstop-96-kw-130-cv/datos",
@@ -1089,7 +1090,7 @@
             ]
         },
         {
-            "name": "Grandland X Ultimate 1.2 Turbo Start&Stop 96 kW (130 CV) Aut. 8v",
+            "name": "Ultimate 1.2 Turbo Start&Stop 96 kW (130 CV) Aut. 8v",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/ultimate/grandland-x-ultimate-12-turbo-startstop-96-kw-130-cv-aut-8v/datos",
@@ -1117,7 +1118,7 @@
             ]
         },
         {
-            "name": "Grandland X Ultimate 1.5 CDTi Start&Stop 96 kW (130 CV)",
+            "name": "Ultimate 1.5 CDTi Start&Stop 96 kW (130 CV)",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/ultimate/grandland-x-ultimate-15-cdti-startstop-96-kw-130-cv/datos",
@@ -1145,7 +1146,7 @@
             ]
         },
         {
-            "name": "Grandland X 2020 1.5 CDTi Start&Stop 96 kW (130 CV) Aut. 8v",
+            "name": "2020 1.5 CDTi Start&Stop 96 kW (130 CV) Aut. 8v",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/opel-2020/grandland-x-opel-2020-15-cdti-startstop-96-kw-130-cv-aut-8v/datos",
@@ -1173,7 +1174,7 @@
             ]
         },
         {
-            "name": "Grandland X Ultimate 1.2 Turbo Start&Stop 96 kW (130 CV)",
+            "name": "Ultimate 1.2 Turbo Start&Stop 96 kW (130 CV)",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/ultimate/grandland-x-ultimate-12-turbo-startstop-96-kw-130-cv4/datos",
@@ -1201,7 +1202,7 @@
             ]
         },
         {
-            "name": "Grandland X Ultimate 1.5 CDTi Start&Stop 96 kW (130 CV) Aut. 6v",
+            "name": "Ultimate 1.5 CDTi Start&Stop 96 kW (130 CV) Aut. 6v",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/ultimate/grandland-x-ultimate-15-cdti-startstop-96-kw-130-cv-aut-6v/datos",
@@ -1229,7 +1230,7 @@
             ]
         },
         {
-            "name": "Grandland X Edition 1.5 CDTi Start&Stop 96 kW (130 CV)",
+            "name": "Edition 1.5 CDTi Start&Stop 96 kW (130 CV)",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/estandar/grandland-x-edition-15-cdti-startstop-96-kw-130-cv/datos",
@@ -1257,7 +1258,7 @@
             ]
         },
         {
-            "name": "Grandland X Ultimate 1.5 CDTi Start&Stop 96 kW (130 CV) Aut. 8v",
+            "name": "Ultimate 1.5 CDTi Start&Stop 96 kW (130 CV) Aut. 8v",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/ultimate/grandland-x-ultimate-15-cdti-startstop-96-kw-130-cv-aut-8v2/datos",
@@ -1285,7 +1286,7 @@
             ]
         },
         {
-            "name": "Grandland X Design & Tech 1.5 CDTi Start&Stop 96 kW (130 CV)",
+            "name": "Design & Tech 1.5 CDTi Start&Stop 96 kW (130 CV)",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/estandar/grandland-x-design-tech-15-cdti-startstop-96-kw-130-cv/datos",
@@ -1313,7 +1314,7 @@
             ]
         },
         {
-            "name": "Grandland X Ultimate 1.6 Turbo Start&Stop 134 kW (180 CV) Aut. 8v",
+            "name": "Ultimate 1.6 Turbo Start&Stop 134 kW (180 CV) Aut. 8v",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/ultimate/grandland-x-ultimate-16-turbo-startstop-134-kw-180-cv-aut-8v/datos",
@@ -1341,7 +1342,7 @@
             ]
         },
         {
-            "name": "Grandland X Ultimate 1.5 CDTi Start&Stop 96 kW (130 CV) Aut. 8v",
+            "name": "Ultimate 1.5 CDTi Start&Stop 96 kW (130 CV) Aut. 8v",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/ultimate/grandland-x-ultimate-15-cdti-startstop-96-kw-130-cv-aut-8v/datos",
@@ -1369,7 +1370,7 @@
             ]
         },
         {
-            "name": "Grandland X Ultimate 1.2 Turbo Start&Stop 96 kW (130 CV) Aut. 8v",
+            "name": "Ultimate 1.2 Turbo Start&Stop 96 kW (130 CV) Aut. 8v",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/ultimate/grandland-x-ultimate-12-turbo-startstop-96-kw-130-cv-aut-8v3/datos",
@@ -1397,7 +1398,7 @@
             ]
         },
         {
-            "name": "Grandland X Ultimate 1.2 Turbo Start&Stop 96 kW (130 CV)",
+            "name": "Ultimate 1.2 Turbo Start&Stop 96 kW (130 CV)",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/ultimate/grandland-x-ultimate-12-turbo-startstop-96-kw-130-cv5/datos",
@@ -1425,7 +1426,7 @@
             ]
         },
         {
-            "name": "Grandland X Ultimate 2.0 CDTi Start&Stop 130 kW (180 CV) Aut. 8v",
+            "name": "Ultimate 2.0 CDTi Start&Stop 130 kW (180 CV) Aut. 8v",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/ultimate/grandland-x-ultimate-20-cdti-startstop-130-kw-180-cv-aut/datos",
@@ -1453,7 +1454,7 @@
             ]
         },
         {
-            "name": "Grandland X Ultimate 2.0 CDTi Start&Stop 130 kW (180 CV) Aut. 8v",
+            "name": "Ultimate 2.0 CDTi Start&Stop 130 kW (180 CV) Aut. 8v",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/ultimate/grandland-x-ultimate-20-cdti-startstop-130-kw-180-cv-aut-8v/datos",
@@ -1481,7 +1482,7 @@
             ]
         },
         {
-            "name": "Grandland X Ultimate 1.6 Turbo Start&Stop 134 kW (180 CV) Aut. 8v",
+            "name": "Ultimate 1.6 Turbo Start&Stop 134 kW (180 CV) Aut. 8v",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/ultimate/grandland-x-ultimate-16-turbo-startstop-134-kw-180-cv-aut-8v3/datos",
@@ -1509,7 +1510,7 @@
             ]
         },
         {
-            "name": "Grandland X Ultimate 1.6 Turbo Start&Stop 134 kW (180 CV) Aut. 8v",
+            "name": "Ultimate 1.6 Turbo Start&Stop 134 kW (180 CV) Aut. 8v",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/ultimate/grandland-x-ultimate-16-turbo-startstop-134-kw-180-cv-aut-8v2/datos",
@@ -1537,7 +1538,7 @@
             ]
         },
         {
-            "name": "Grandland X Ultimate 1.5 CDTi Start&Stop 96 kW (130 CV) Aut. 8v",
+            "name": "Ultimate 1.5 CDTi Start&Stop 96 kW (130 CV) Aut. 8v",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/ultimate/grandland-x-ultimate-15-cdti-startstop-96-kw-130-cv-aut-8v3/datos",
@@ -1565,7 +1566,7 @@
             ]
         },
         {
-            "name": "Grandland X Ultimate 1.2 Turbo Start&Stop 96 kW (130 CV) Aut. 8v",
+            "name": "Ultimate 1.2 Turbo Start&Stop 96 kW (130 CV) Aut. 8v",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/ultimate/grandland-x-ultimate-12-turbo-startstop-96-kw-130-cv-aut-8v4/datos",
@@ -1593,7 +1594,7 @@
             ]
         },
         {
-            "name": "Grandland X Selective Híbrido Enchufable 1.6 Turbo 165 kW (225 CV)",
+            "name": "Selective Híbrido Enchufable 1.6 Turbo 165 kW (225 CV)",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/hibrido-enchufable/grandland-x-selective-hibrido-enchufable-16-turbo-165-kw-225-cv/datos",
@@ -1624,7 +1625,7 @@
             ]
         },
         {
-            "name": "Grandland X Ultimate 1.5 CDTi Start&Stop 96 kW (130 CV) Aut. 8v",
+            "name": "Ultimate 1.5 CDTi Start&Stop 96 kW (130 CV) Aut. 8v",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/ultimate/grandland-x-ultimate-15-cdti-startstop-96-kw-130-cv-aut-8v4/datos",
@@ -1652,7 +1653,7 @@
             ]
         },
         {
-            "name": "Grandland X Ultimate 1.6 Turbo Start&Stop 134 kW (180 CV) Aut. 8v",
+            "name": "Ultimate 1.6 Turbo Start&Stop 134 kW (180 CV) Aut. 8v",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/ultimate/grandland-x-ultimate-16-turbo-startstop-134-kw-180-cv-aut-8v4/datos",
@@ -1680,7 +1681,7 @@
             ]
         },
         {
-            "name": "Grandland X Edition Híbrido Enchufable 1.6 Turbo 165 kW (225 CV)",
+            "name": "Edition Híbrido Enchufable 1.6 Turbo 165 kW (225 CV)",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/hibrido-enchufable/grandland-x-edition-hibrido-enchufable-16-turbo-165-kw-225-cv/datos",
@@ -1711,7 +1712,7 @@
             ]
         },
         {
-            "name": "Grandland X Ultimate Híbrido Enchufable 1.6 Turbo 165 kW (225 CV)",
+            "name": "Ultimate Híbrido Enchufable 1.6 Turbo 165 kW (225 CV)",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/hibrido-enchufable/grandland-x-ultimate-hibrido-enchufable-16-turbo-165-kw-225-cv/datos",
@@ -1742,7 +1743,7 @@
             ]
         },
         {
-            "name": "Grandland X Ultimate Híbrido Enchufable 4x4 1.6 Turbo 221 kW (300 CV)",
+            "name": "Ultimate Híbrido Enchufable 4x4 1.6 Turbo 221 kW (300 CV)",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/grandland-x/2018/estandar/hibrido-enchufable/grandland-x-hybrid4/datos",

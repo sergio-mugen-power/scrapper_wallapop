@@ -1,11 +1,12 @@
 {
+    "brand": "Skoda",
     "name": "Felicia Combi",
     "year": "1999",
     "url": "https://www.km77.com/coches/skoda/felicia/1999/combi",
     "price": "",
     "versions": [
         {
-            "name": "Felicia Combi GLXi",
+            "name": "GLXi",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/skoda/felicia/1999/combi/estandar/felicia-combi-glxi/datos",
@@ -131,7 +132,7 @@
             ]
         },
         {
-            "name": "Felicia Combi GLX",
+            "name": "GLX",
             "start_year": "2000",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/skoda/felicia/1999/combi/estandar/felicia-combi-glx/datos",
@@ -250,7 +251,7 @@
             ]
         },
         {
-            "name": "Felicia Combi D GLX",
+            "name": "D GLX",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/skoda/felicia/1999/combi/estandar/felicia-combi-d-glx/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "SsangYong",
     "name": "Musso",
     "year": "2004",
     "url": "https://www.km77.com/coches/ssangyong/musso/2004/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Musso MS 290 Full",
+            "name": "MS 290 Full",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/ssangyong/musso/2004/estandar/full/musso-ms-290-full/datos",
@@ -92,7 +93,7 @@
             ]
         },
         {
-            "name": "Musso MS 290 Full Aut.",
+            "name": "MS 290 Full Aut.",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/ssangyong/musso/2004/estandar/full/musso-ms-290-full-aut/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "X5",
     "year": "2007",
     "url": "https://www.km77.com/coches/bmw/x5/2007/estandar",
     "price": "",
     "versions": [
         {
-            "name": "X5 3.0si",
+            "name": "3.0si",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/bmw/x5/2007/estandar/estandar/x5-30si/datos",
@@ -266,7 +267,7 @@
             ]
         },
         {
-            "name": "X5 3.0si",
+            "name": "3.0si",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x5/2007/estandar/estandar/x5-30si2/datos",
@@ -534,7 +535,7 @@
             ]
         },
         {
-            "name": "X5 3.0d",
+            "name": "3.0d",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/bmw/x5/2007/estandar/estandar/x5-30d/datos",
@@ -798,7 +799,7 @@
             ]
         },
         {
-            "name": "X5 3.0si",
+            "name": "3.0si",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x5/2007/estandar/estandar/x5-30si3/datos",
@@ -1067,7 +1068,7 @@
             ]
         },
         {
-            "name": "X5 3.0d",
+            "name": "3.0d",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x5/2007/estandar/estandar/x5-30d2/datos",
@@ -1338,7 +1339,7 @@
             ]
         },
         {
-            "name": "X5 3.0d",
+            "name": "3.0d",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x5/2007/estandar/estandar/x5-30d3/datos",
@@ -1607,7 +1608,7 @@
             ]
         },
         {
-            "name": "X5 xDrive30i",
+            "name": "xDrive30i",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x5/2007/estandar/estandar/x5-xdrive30i/datos",
@@ -1885,7 +1886,7 @@
             ]
         },
         {
-            "name": "X5 3.0sd",
+            "name": "3.0sd",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x5/2007/estandar/estandar/x5-30sd/datos",
@@ -2157,7 +2158,7 @@
             ]
         },
         {
-            "name": "X5 xDrive30d",
+            "name": "xDrive30d",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x5/2007/estandar/estandar/x5-xdrive30d/datos",
@@ -2436,7 +2437,7 @@
             ]
         },
         {
-            "name": "X5 3.0sd",
+            "name": "3.0sd",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x5/2007/estandar/estandar/x5-30sd2/datos",
@@ -2705,7 +2706,7 @@
             ]
         },
         {
-            "name": "X5 xDrive35d",
+            "name": "xDrive35d",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x5/2007/estandar/estandar/x5-xdrive35d/datos",
@@ -2984,7 +2985,7 @@
             ]
         },
         {
-            "name": "X5 4.8i",
+            "name": "4.8i",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/bmw/x5/2007/estandar/estandar/x5-48i/datos",
@@ -3246,7 +3247,7 @@
             ]
         },
         {
-            "name": "X5 4.8i",
+            "name": "4.8i",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x5/2007/estandar/estandar/x5-48i2/datos",
@@ -3516,7 +3517,7 @@
             ]
         },
         {
-            "name": "X5 4.8i",
+            "name": "4.8i",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x5/2007/estandar/estandar/x5-48i3/datos",
@@ -3786,7 +3787,7 @@
             ]
         },
         {
-            "name": "X5 xDrive48i",
+            "name": "xDrive48i",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x5/2007/estandar/estandar/x5-xdrive48i/datos",
@@ -4063,7 +4064,7 @@
             ]
         },
         {
-            "name": "X5 M",
+            "name": "M",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x5/2007/estandar/m/x5-m/datos",
@@ -4319,7 +4320,7 @@
             ]
         },
         {
-            "name": "X5 M",
+            "name": "M",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x5/2007/estandar/m/x5-m2/datos",
@@ -4587,7 +4588,7 @@
             ]
         },
         {
-            "name": "X5 M",
+            "name": "M",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x5/2007/estandar/m/x5-m3/datos",
@@ -4854,7 +4855,7 @@
             ]
         },
         {
-            "name": "X5 M",
+            "name": "M",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/bmw/x5/2007/estandar/m/x5-m4/datos",

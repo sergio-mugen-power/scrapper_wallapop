@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "X3",
     "year": "2014",
     "url": "https://www.km77.com/coches/bmw/x3/2014/estandar",
     "price": "Desde 63.100 €",
     "versions": [
         {
-            "name": "X3 sDrive18d",
+            "name": "sDrive18d",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/bmw/x3/2014/estandar/estandar/x3-sdrive18d/datos",
@@ -293,7 +294,7 @@
             ]
         },
         {
-            "name": "X3 sDrive18d",
+            "name": "sDrive18d",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/bmw/x3/2014/estandar/estandar/x3-sdrive18d2/datos",
@@ -596,7 +597,7 @@
             ]
         },
         {
-            "name": "X3 sDrive18d Aut.",
+            "name": "sDrive18d Aut.",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/bmw/x3/2014/estandar/estandar/x3-sdrive18d-aut/datos",
@@ -887,7 +888,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20i",
+            "name": "xDrive20i",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/bmw/x3/2014/estandar/estandar/x3-xdrive20i/datos",
@@ -1177,7 +1178,7 @@
             ]
         },
         {
-            "name": "X3 sDrive18d Aut.",
+            "name": "sDrive18d Aut.",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/bmw/x3/2014/estandar/estandar/x3-sdrive18d-aut2/datos",
@@ -1483,7 +1484,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20d",
+            "name": "xDrive20d",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/bmw/x3/2014/estandar/estandar/x3-xdrive-20d/datos",
@@ -1773,7 +1774,7 @@
             ]
         },
         {
-            "name": "X3 sDrive20i Aut.",
+            "name": "sDrive20i Aut.",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/bmw/x3/2014/estandar/estandar/x3-sdrive20i-aut/datos",
@@ -2078,7 +2079,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20d",
+            "name": "xDrive20d",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/bmw/x3/2014/estandar/estandar/x3-xdrive20d/datos",
@@ -2386,7 +2387,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20d Aut.",
+            "name": "xDrive20d Aut.",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/bmw/x3/2014/estandar/estandar/x3-xdrive-20d-aut/datos",
@@ -2679,7 +2680,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20i Aut.",
+            "name": "xDrive20i Aut.",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/bmw/x3/2014/estandar/estandar/x3-xdrive20i-aut/datos",
@@ -2989,7 +2990,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20d Aut.",
+            "name": "xDrive20d Aut.",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/bmw/x3/2014/estandar/estandar/x3-xdrive20d-aut/datos",
@@ -3300,7 +3301,7 @@
             ]
         },
         {
-            "name": "X3 xDrive28i Aut.",
+            "name": "xDrive28i Aut.",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/bmw/x3/2014/estandar/estandar/x3-xdrive28i/datos",
@@ -3610,7 +3611,7 @@
             ]
         },
         {
-            "name": "X3 xDrive30d Aut.",
+            "name": "xDrive30d Aut.",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/bmw/x3/2014/estandar/estandar/x3-xdrive-30d/datos",
@@ -3921,7 +3922,7 @@
             ]
         },
         {
-            "name": "X3 xDrive35i Aut.",
+            "name": "xDrive35i Aut.",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/bmw/x3/2014/estandar/estandar/x3-xdrive35i/datos",
@@ -4228,7 +4229,7 @@
             ]
         },
         {
-            "name": "X3 xDrive35d Aut.",
+            "name": "xDrive35d Aut.",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/bmw/x3/2014/estandar/estandar/x3-xdrive35d/datos",

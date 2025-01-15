@@ -1,11 +1,12 @@
 {
+    "brand": "Volvo",
     "name": "V60 Cross Country",
     "year": "2015",
     "url": "https://www.km77.com/coches/volvo/v60/2015/cross-country",
     "price": "",
     "versions": [
         {
-            "name": "V60 Cross Country D3 Kinetic",
+            "name": "D3 Kinetic",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v60/2015/cross-country/kinetic/v60-cross-country-2015/datos",
@@ -25,7 +26,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country D3 Momentum",
+            "name": "D3 Momentum",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v60/2015/cross-country/momentum/v60-cross-country-d3-momentum/datos",
@@ -45,7 +46,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country D3 Kinetic Aut.",
+            "name": "D3 Kinetic Aut.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v60/2015/cross-country/kinetic/v60-cross-country-d3-kinetic-aut/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country D4 Kinetic",
+            "name": "D4 Kinetic",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v60/2015/cross-country/kinetic/v60-cross-country-d4-kinetic/datos",
@@ -85,7 +86,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country D3 Momentum Aut.",
+            "name": "D3 Momentum Aut.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v60/2015/cross-country/momentum/v60-cross-country-d3-momentum-aut/datos",
@@ -105,7 +106,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country D3 Summum",
+            "name": "D3 Summum",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v60/2015/cross-country/summum/v60-cross-country-d3-summum/datos",
@@ -125,7 +126,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country D4 Momentum",
+            "name": "D4 Momentum",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v60/2015/cross-country/momentum/v60-cross-country-d4-momentum/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country D4 Kinetic Aut.",
+            "name": "D4 Kinetic Aut.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v60/2015/cross-country/kinetic/v60-cross-country-d4-kinetic-aut/datos",
@@ -165,7 +166,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country D3 Summum Aut.",
+            "name": "D3 Summum Aut.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v60/2015/cross-country/summum/v60-cross-country-d3-summum-aut/datos",
@@ -185,7 +186,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country D4 Momentum Aut.",
+            "name": "D4 Momentum Aut.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v60/2015/cross-country/momentum/v60-cross-country-d4-momentum-aut/datos",
@@ -205,7 +206,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country D4 Summum",
+            "name": "D4 Summum",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v60/2015/cross-country/summum/v60-cross-country-d4-summum/datos",
@@ -225,7 +226,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country D4 AWD Kinetic Aut.",
+            "name": "D4 AWD Kinetic Aut.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v60/2015/cross-country/kinetic/v60-cross-country-d4-awd-kinetic-aut/datos",
@@ -245,7 +246,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country D4 AWD Momentum Aut.",
+            "name": "D4 AWD Momentum Aut.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v60/2015/cross-country/momentum/v60-cross-country-d4-awd-momentum-aut/datos",
@@ -265,7 +266,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country D4 Summum Aut.",
+            "name": "D4 Summum Aut.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v60/2015/cross-country/summum/v60-cross-country-d4-summum-aut/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country D4 AWD Summum Aut.",
+            "name": "D4 AWD Summum Aut.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v60/2015/cross-country/summum/v60-cross-country-d4-awd-summum-aut/datos",
@@ -305,7 +306,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country T5 AWD Momentum Aut.",
+            "name": "T5 AWD Momentum Aut.",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v60/2015/cross-country/momentum/v60-cross-country-t5-awd-momentum-aut/datos",
@@ -325,7 +326,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country T5 AWD Momentum Aut.",
+            "name": "T5 AWD Momentum Aut.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v60/2015/cross-country/momentum/v60-cross-country-t5-awd-momentum-aut2/datos",
@@ -345,7 +346,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country T5 AWD Summum Aut.",
+            "name": "T5 AWD Summum Aut.",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v60/2015/cross-country/summum/v60-cross-country-t5-awd-summum-aut/datos",
@@ -365,7 +366,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country T5 AWD Summum Aut.",
+            "name": "T5 AWD Summum Aut.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v60/2015/cross-country/summum/v60-cross-country-t5-awd-summum-aut2/datos",

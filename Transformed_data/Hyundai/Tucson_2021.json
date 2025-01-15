@@ -1,11 +1,12 @@
 {
+    "brand": "Hyundai",
     "name": "Tucson",
     "year": "2021",
     "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar",
     "price": "Desde 33.325 €",
     "versions": [
         {
-            "name": "Tucson Klass 1.6 T-GDI 110 kW (150 CV)",
+            "name": "Klass 1.6 T-GDI 110 kW (150 CV)",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-16-t-gdi-150-cv/datos",
@@ -221,7 +222,7 @@
             ]
         },
         {
-            "name": "Tucson Klass 1.6 CRDi 85 kW (115 CV)",
+            "name": "Klass 1.6 CRDi 85 kW (115 CV)",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson/datos",
@@ -437,7 +438,7 @@
             ]
         },
         {
-            "name": "Tucson Maxx 1.6 T-GDI 110 kW (150 CV)",
+            "name": "Maxx 1.6 T-GDI 110 kW (150 CV)",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-maxx-16-t-gdi-150-cv/datos",
@@ -662,7 +663,7 @@
             ]
         },
         {
-            "name": "Tucson Maxx 1.6 T-GDI 48V 110 kW (150 CV)",
+            "name": "Maxx 1.6 T-GDI 48V 110 kW (150 CV)",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-16-t-gdi-48v-150-cv/datos",
@@ -901,7 +902,7 @@
             ]
         },
         {
-            "name": "Tucson Maxx 1.6 CRDi 85 kW (115 CV)",
+            "name": "Maxx 1.6 CRDi 85 kW (115 CV)",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-maxx-16-crdi-115-cv/datos",
@@ -1125,7 +1126,7 @@
             ]
         },
         {
-            "name": "Tucson Maxx Sky 1.6 T-GDI 48V 110 kW (150 CV)",
+            "name": "Maxx Sky 1.6 T-GDI 48V 110 kW (150 CV)",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-maxx-sky-16-t-gdi-48v-110-kw-150-cv/datos",
@@ -1364,7 +1365,7 @@
             ]
         },
         {
-            "name": "Tucson N Line 30 Aniversario 1.6 T-GDI 110 kW (150 CV)",
+            "name": "N Line 30 Aniversario 1.6 T-GDI 110 kW (150 CV)",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-n-line-30-aniversario-16-t-gdi-110-kw-150-cv/datos",
@@ -1603,7 +1604,7 @@
             ]
         },
         {
-            "name": "Tucson Maxx 1.6 CRDi 48V 100 kW (136 CV)",
+            "name": "Maxx 1.6 CRDi 48V 100 kW (136 CV)",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-tecno-16-crdi-48v-100-kw-136-cv/datos",
@@ -1841,7 +1842,7 @@
             ]
         },
         {
-            "name": "Tucson Maxx Sky 1.6 CRDi 48V 100 kW (136 CV)",
+            "name": "Maxx Sky 1.6 CRDi 48V 100 kW (136 CV)",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-maxx-sky-16-crdi-48v-100-kw-136-cv/datos",
@@ -2081,7 +2082,7 @@
             ]
         },
         {
-            "name": "Tucson Tecno 1.6 T-GDI 48V 110 kW (150 CV)",
+            "name": "Tecno 1.6 T-GDI 48V 110 kW (150 CV)",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-tecno-16-t-gdi-48v-150-cv/datos",
@@ -2336,7 +2337,7 @@
             ]
         },
         {
-            "name": "Tucson N Line 1.6 T-GDI 48V 110 kW (150 CV) DCT",
+            "name": "N Line 1.6 T-GDI 48V 110 kW (150 CV) DCT",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-n-line-16-t-gdi-48v-110-kw-150-cv-dct/datos",
@@ -2581,7 +2582,7 @@
             ]
         },
         {
-            "name": "Tucson Tecno Sky 1.6 T-GDI 48V 110 kW (150 CV)",
+            "name": "Tecno Sky 1.6 T-GDI 48V 110 kW (150 CV)",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-tecno-16-t-gdi-48v-110-kw-150-cv/datos",
@@ -2835,7 +2836,7 @@
             ]
         },
         {
-            "name": "Tucson Maxx 1.6 CRDi 48V 100 kW (136 CV) DCT",
+            "name": "Maxx 1.6 CRDi 48V 100 kW (136 CV) DCT",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-maxx-16-crdi-48v-136-cv-dct/datos",
@@ -3074,7 +3075,7 @@
             ]
         },
         {
-            "name": "Tucson Maxx Híbrido 1.6 T-GDI HEV 169 kW (230 CV) 6AT",
+            "name": "Maxx Híbrido 1.6 T-GDI HEV 169 kW (230 CV) 6AT",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/hev/tucson-16-t-gdi-hev-230-cv/datos",
@@ -3318,7 +3319,7 @@
             ]
         },
         {
-            "name": "Tucson N Line 1.6 T-GDI 48V 110 kW (150 CV)",
+            "name": "N Line 1.6 T-GDI 48V 110 kW (150 CV)",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-n-line-16-t-gdi-48v-110-kw-150-cv2/datos",
@@ -3571,7 +3572,7 @@
             ]
         },
         {
-            "name": "Tucson Maxx Sky 1.6 CRDi 48V 100 kW (136 CV) DCT",
+            "name": "Maxx Sky 1.6 CRDi 48V 100 kW (136 CV) DCT",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-maxx-sky-16-crdi-48v-100-kw-136-cv-dct/datos",
@@ -3812,7 +3813,7 @@
             ]
         },
         {
-            "name": "Tucson Maxx Sky Híbrido 1.6 T-GDI HEV 169 kW (230 CV) 6AT",
+            "name": "Maxx Sky Híbrido 1.6 T-GDI HEV 169 kW (230 CV) 6AT",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/hev/tucson-maxx-sky-hibrido-16-t-gdi-hev-169-kw-230-cv-6at/datos",
@@ -4055,7 +4056,7 @@
             ]
         },
         {
-            "name": "Tucson Tecno 1.6 T-GDI 48V 110 kW (150 CV) DCT",
+            "name": "Tecno 1.6 T-GDI 48V 110 kW (150 CV) DCT",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-16-t-gdi-48v-150-cv-dct/datos",
@@ -4312,7 +4313,7 @@
             ]
         },
         {
-            "name": "Tucson Tecno 1.6 CRDi 48V 100 kW (136 CV)",
+            "name": "Tecno 1.6 CRDi 48V 100 kW (136 CV)",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-tecno-16-crdi-48v-100-kw-136-cv2/datos",
@@ -4567,7 +4568,7 @@
             ]
         },
         {
-            "name": "Tucson Tecno Sky 1.6 T-GDI 48V 110 kW (150 CV) DCT",
+            "name": "Tecno Sky 1.6 T-GDI 48V 110 kW (150 CV) DCT",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-tecno-sky-16-t-gdi-48v-110-kw-150-cv-dct/datos",
@@ -4822,7 +4823,7 @@
             ]
         },
         {
-            "name": "Tucson Tecno Sky 1.6 CRDi 48V 100 kW (136 CV)",
+            "name": "Tecno Sky 1.6 CRDi 48V 100 kW (136 CV)",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-tecno-sky-16-crdi-48v-100-kw-136-cv/datos",
@@ -5076,7 +5077,7 @@
             ]
         },
         {
-            "name": "Tucson Maxx 1.6 CRDi 48V 100 kW (136 CV) 4x4 DCT",
+            "name": "Maxx 1.6 CRDi 48V 100 kW (136 CV) 4x4 DCT",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-16-crdi-48v-136-cv-4wd-dct/datos",
@@ -5316,7 +5317,7 @@
             ]
         },
         {
-            "name": "Tucson N Line Sky 1.6 T-GDI 48V 110 kW (150 CV) DCT",
+            "name": "N Line Sky 1.6 T-GDI 48V 110 kW (150 CV) DCT",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-n-line-sky-16-t-gdi-48v-110-kw-150-cv-dct/datos",
@@ -5571,7 +5572,7 @@
             ]
         },
         {
-            "name": "Tucson Tecno 1.6 CRDi 48V 100 kW (136 CV) DCT",
+            "name": "Tecno 1.6 CRDi 48V 100 kW (136 CV) DCT",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-16-crdi-48v-136-cv-dct/datos",
@@ -5826,7 +5827,7 @@
             ]
         },
         {
-            "name": "Tucson Tecno Sky 1.6 CRDi 48V 100 kW (136 CV) DCT",
+            "name": "Tecno Sky 1.6 CRDi 48V 100 kW (136 CV) DCT",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-tecno-sky-16-crdi-48v-100-kw-136-cv-dct/datos",
@@ -6080,7 +6081,7 @@
             ]
         },
         {
-            "name": "Tucson Tecno Híbrido 1.6 T-GDI HEV 169 kW (230 CV) 6AT",
+            "name": "Tecno Híbrido 1.6 T-GDI HEV 169 kW (230 CV) 6AT",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/hev/tucson-tecno-16-hibrido-t-gdi-hev-230-cv-6at/datos",
@@ -6336,7 +6337,7 @@
             ]
         },
         {
-            "name": "Tucson PHEV 1.6 TGDI 195 kW (265 CV) 6AT 4X4 Maxx",
+            "name": "PHEV 1.6 TGDI 195 kW (265 CV) 6AT 4X4 Maxx",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/phev/tucson-plug-in-hybrid/datos",
@@ -6582,7 +6583,7 @@
             ]
         },
         {
-            "name": "Tucson Tecno Sky Híbrido 1.6 T-GDI HEV 169 kW (230 CV) 6AT",
+            "name": "Tecno Sky Híbrido 1.6 T-GDI HEV 169 kW (230 CV) 6AT",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/hev/tucson-tecno-sky-hibrido-16-t-gdi-hev-169-kw-230-cv-6at/datos",
@@ -6838,7 +6839,7 @@
             ]
         },
         {
-            "name": "Tucson Tecno 1.6 CRDi 48V 100 kW (136 CV) 4x4 DCT",
+            "name": "Tecno 1.6 CRDi 48V 100 kW (136 CV) 4x4 DCT",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-tecno-16-crdi-48v-100-kw-136-cv-4x4-dct/datos",
@@ -7091,7 +7092,7 @@
             ]
         },
         {
-            "name": "Tucson N Line Sky 1.6 CRDi 48V 100 kW (136 CV) DCT",
+            "name": "N Line Sky 1.6 CRDi 48V 100 kW (136 CV) DCT",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-n-line-sky-16-crdi-48v-100-kw-136-cv-dct/datos",
@@ -7346,7 +7347,7 @@
             ]
         },
         {
-            "name": "Tucson N Line Sky Híbrido 1.6 T-GDI HEV 169 kW (230 CV) 6AT",
+            "name": "N Line Sky Híbrido 1.6 T-GDI HEV 169 kW (230 CV) 6AT",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/hev/tucson-n-line-sky-hibrido-16-t-gdi-hev-169-kw-230-cv-6at/datos",
@@ -7602,7 +7603,7 @@
             ]
         },
         {
-            "name": "Tucson N Line Sky 1.6 CRDi 48V 100 kW (136 CV) 4x4 DCT",
+            "name": "N Line Sky 1.6 CRDi 48V 100 kW (136 CV) 4x4 DCT",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-n-line-sky-16-crdi-48v-100-kw-136-cv-4x4-dct/datos",
@@ -7857,7 +7858,7 @@
             ]
         },
         {
-            "name": "Tucson Style 1.6 T-GDI 48V 132 kW (180 CV) 4x4 DCT",
+            "name": "Style 1.6 T-GDI 48V 132 kW (180 CV) 4x4 DCT",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-16-t-gdi-48v-180-cv-4wd-dct/datos",
@@ -8118,7 +8119,7 @@
             ]
         },
         {
-            "name": "Tucson Style Híbrido 1.6 T-GDI HEV 169 kW (230 CV) 6AT",
+            "name": "Style Híbrido 1.6 T-GDI HEV 169 kW (230 CV) 6AT",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/hev/tucson-style-hibrido-16-t-gdi-hev-169-kw-230-cv-6at/datos",
@@ -8382,7 +8383,7 @@
             ]
         },
         {
-            "name": "Tucson PHEV 1.6 TGDI 195 kW (265 CV) 6AT 4X4 Tecno Sky",
+            "name": "PHEV 1.6 TGDI 195 kW (265 CV) 6AT 4X4 Tecno Sky",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/phev/tucson-phev-16-tgdi-195-kw-265-cv-6at-4x4-tecno-sky/datos",
@@ -8646,7 +8647,7 @@
             ]
         },
         {
-            "name": "Tucson Style 1.6 CRDi 48V 100 kW (136 CV) 4x4 DCT",
+            "name": "Style 1.6 CRDi 48V 100 kW (136 CV) 4x4 DCT",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/estandar/tucson-style-16-crdi-48v-136-cv-4x4-dct/datos",
@@ -8909,7 +8910,7 @@
             ]
         },
         {
-            "name": "Tucson Style Híbrido 1.6 T-GDI HEV 169 kW (230 CV) 4x4 6AT",
+            "name": "Style Híbrido 1.6 T-GDI HEV 169 kW (230 CV) 4x4 6AT",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/hev/tucson-16-t-gdi-hev-230-cv-4wd/datos",
@@ -9174,7 +9175,7 @@
             ]
         },
         {
-            "name": "Tucson PHEV 1.6 TGDI 195 kW (265 CV) 6AT 4X4 Style",
+            "name": "PHEV 1.6 TGDI 195 kW (265 CV) 6AT 4X4 Style",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/tucson/2021/estandar/phev/tucson-phev-16-tgdi-195-kw-265-cv-6at-4x4-style/datos",

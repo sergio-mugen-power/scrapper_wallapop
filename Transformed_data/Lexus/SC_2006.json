@@ -1,11 +1,12 @@
 {
+    "brand": "Lexus",
     "name": "SC",
     "year": "2006",
     "url": "https://www.km77.com/coches/lexus/sc/2006/estandar",
     "price": "",
     "versions": [
         {
-            "name": "SC 430",
+            "name": "430",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/lexus/sc/2006/estandar/estandar/sc-430/datos",
@@ -177,7 +178,7 @@
             ]
         },
         {
-            "name": "SC 430",
+            "name": "430",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lexus/sc/2006/estandar/estandar/sc-4302/datos",
@@ -353,7 +354,7 @@
             ]
         },
         {
-            "name": "SC 430",
+            "name": "430",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lexus/sc/2006/estandar/estandar/sc-4303/datos",

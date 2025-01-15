@@ -1,11 +1,12 @@
 {
+    "brand": "Lexus",
     "name": "IS",
     "year": "1999",
     "url": "https://www.km77.com/coches/lexus/is/1999/estandar",
     "price": "",
     "versions": [
         {
-            "name": "IS-200",
+            "name": "-200",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/lexus/is/1999/estandar/estandar/is-200/datos",
@@ -135,7 +136,7 @@
             ]
         },
         {
-            "name": "IS 200 Premium",
+            "name": "200 Premium",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/lexus/is/1999/estandar/premium/is-200-premium/datos",
@@ -300,7 +301,7 @@
             ]
         },
         {
-            "name": "IS-200 Sport",
+            "name": "-200 Sport",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/lexus/is/1999/estandar/sport/is-200-sport/datos",
@@ -430,7 +431,7 @@
             ]
         },
         {
-            "name": "IS 200 Luxury",
+            "name": "200 Luxury",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/lexus/is/1999/estandar/luxury/is-200-luxury/datos",
@@ -597,7 +598,7 @@
             ]
         },
         {
-            "name": "IS 200 Premium Aut.",
+            "name": "200 Premium Aut.",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/lexus/is/1999/estandar/premium/is-200-premium-aut/datos",
@@ -762,7 +763,7 @@
             ]
         },
         {
-            "name": "IS 200 Sport",
+            "name": "200 Sport",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/lexus/is/1999/estandar/sport/is200-sport/datos",
@@ -896,7 +897,7 @@
             ]
         },
         {
-            "name": "IS-200 Automático",
+            "name": "-200 Automático",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/lexus/is/1999/estandar/estandar/is-200-automatico/datos",
@@ -1029,7 +1030,7 @@
             ]
         },
         {
-            "name": "IS 200 Luxury Aut.",
+            "name": "200 Luxury Aut.",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/lexus/is/1999/estandar/luxury/is-200-luxury-aut/datos",
@@ -1196,7 +1197,7 @@
             ]
         },
         {
-            "name": "IS 200 President",
+            "name": "200 President",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/lexus/is/1999/estandar/president/is-200-president/datos",
@@ -1362,7 +1363,7 @@
             ]
         },
         {
-            "name": "IS 200 President Aut.",
+            "name": "200 President Aut.",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/lexus/is/1999/estandar/president/is-200-president-aut/datos",
@@ -1528,7 +1529,7 @@
             ]
         },
         {
-            "name": "IS 300 Premium",
+            "name": "300 Premium",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/lexus/is/1999/estandar/premium/is-300-premium/datos",
@@ -1696,7 +1697,7 @@
             ]
         },
         {
-            "name": "IS 300 President",
+            "name": "300 President",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/lexus/is/1999/estandar/president/is-300-president/datos",

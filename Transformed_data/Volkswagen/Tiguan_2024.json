@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Tiguan",
     "year": "2024",
     "url": "https://www.km77.com/coches/volkswagen/tiguan/2024/estandar",
     "price": "Desde 36.285 €",
     "versions": [
         {
-            "name": "Tiguan 1.5 eTSI 130 CV DSG (12/2023 - )",
+            "name": "1.5 eTSI 130 CV DSG (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2024/estandar/estandar/tiguan-15-etsi-131-cv-dsg/datos",
@@ -28,7 +29,7 @@
             ]
         },
         {
-            "name": "Tiguan 2.0 TDI 150 CV DSG (12/2023 - )",
+            "name": "2.0 TDI 150 CV DSG (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2024/estandar/estandar/tiguan-20-tdi-150-cv-dsg/datos",
@@ -49,7 +50,7 @@
             ]
         },
         {
-            "name": "Tiguan Más 1.5 eTSI 130 CV DSG (01/2024 - )",
+            "name": "Más 1.5 eTSI 130 CV DSG (01/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2024/estandar/estandar/tiguan-mas-15-etsi-96-kw-130-cv-dsg/datos",
@@ -71,7 +72,7 @@
             ]
         },
         {
-            "name": "Tiguan Más 1.5 eTSI 150 CV DSG (01/2024 - )",
+            "name": "Más 1.5 eTSI 150 CV DSG (01/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2024/estandar/estandar/tiguan-mas-15-etsi-110-kw-150-cv-dsg/datos",
@@ -94,7 +95,7 @@
             ]
         },
         {
-            "name": "Tiguan Más 2.0 TDI 150 CV DSG (01/2024 - )",
+            "name": "Más 2.0 TDI 150 CV DSG (01/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2024/estandar/estandar/tiguan-mas-20-tdi-110-kw-150-cv-dsg/datos",
@@ -115,7 +116,7 @@
             ]
         },
         {
-            "name": "Tiguan R-Line 1.5 eTSI 150 CV DSG (12/2023 - )",
+            "name": "R-Line 1.5 eTSI 150 CV DSG (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2024/estandar/estandar/tiguan-r-line-15-etsi-110-kw-150-cv-dsg/datos",
@@ -138,7 +139,7 @@
             ]
         },
         {
-            "name": "Tiguan Más 1.5 TSI eHybrid 204 CV (03/2024 - )",
+            "name": "Más 1.5 TSI eHybrid 204 CV (03/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2024/estandar/ehybrid/tiguan-mas-15-tsi-ehybrid-204-cv/datos",
@@ -162,7 +163,7 @@
             ]
         },
         {
-            "name": "Tiguan R-Line 2.0 TDI 150 CV DSG (12/2023 - )",
+            "name": "R-Line 2.0 TDI 150 CV DSG (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2024/estandar/estandar/tiguan-r-line-20-tdi-110-kw-150-cv-dsg/datos",
@@ -183,7 +184,7 @@
             ]
         },
         {
-            "name": "Tiguan R-Line 2.0 TSI 4Motion 204 CV DSG (12/2024 - )",
+            "name": "R-Line 2.0 TSI 4Motion 204 CV DSG (12/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2024/estandar/estandar/tiguan-r-line-20-tsi-4motion-204-cv-dsg/datos",
@@ -204,7 +205,7 @@
             ]
         },
         {
-            "name": "Tiguan R-Line 2.0 TDI 4Motion 193 CV DSG (01/2024 - )",
+            "name": "R-Line 2.0 TDI 4Motion 193 CV DSG (01/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2024/estandar/estandar/tiguan-r-line-20-tdi-4motion-142-kw-193-cv-dsg/datos",
@@ -225,7 +226,7 @@
             ]
         },
         {
-            "name": "Tiguan R-Line 1.5 TSI eHybrid 204 CV (03/2024 - )",
+            "name": "R-Line 1.5 TSI eHybrid 204 CV (03/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2024/estandar/ehybrid/tiguan-r-line-15-tsi-ehybrid-204-cv/datos",
@@ -249,7 +250,7 @@
             ]
         },
         {
-            "name": "Tiguan R-Line 1.5 TSI eHybrid 272 CV (03/2024 - )",
+            "name": "R-Line 1.5 TSI eHybrid 272 CV (03/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2024/estandar/ehybrid/tiguan-ehybrid-272-cv/datos",

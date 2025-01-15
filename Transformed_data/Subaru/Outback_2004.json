@@ -1,11 +1,12 @@
 {
+    "brand": "Subaru",
     "name": "Outback",
     "year": "2004",
     "url": "https://www.km77.com/coches/subaru/outback/2004/estandar",
     "price": "Desde 40.400 €",
     "versions": [
         {
-            "name": "Outback 2.5i",
+            "name": "2.5i",
             "start_year": "2003",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/subaru/outback/2004/estandar/estandar/outback-25i/datos",
@@ -178,7 +179,7 @@
             ]
         },
         {
-            "name": "Outback 2.5i Aut.",
+            "name": "2.5i Aut.",
             "start_year": "2003",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/subaru/outback/2004/estandar/estandar/outback-25i-aut/datos",
@@ -347,7 +348,7 @@
             ]
         },
         {
-            "name": "Outback 3.0R",
+            "name": "3.0R",
             "start_year": "2003",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/subaru/outback/2004/estandar/r/outback-30r/datos",

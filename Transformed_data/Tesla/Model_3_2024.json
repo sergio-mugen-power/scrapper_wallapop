@@ -1,11 +1,12 @@
 {
+    "brand": "Tesla",
     "name": "Model 3",
     "year": "2024",
     "url": "https://www.km77.com/coches/tesla/model-3/2024/estandar",
     "price": "Desde 38.780 €",
     "versions": [
         {
-            "name": "Model 3 Tracción trasera\n(09/2023 - )",
+            "name": "Tracción trasera\n(09/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/tesla/model-3/2024/estandar/estandar/model-3-traccion-trasera/datos",
@@ -166,7 +167,7 @@
             ]
         },
         {
-            "name": "Model 3 Gran autonomía Tracción trasera\n(10/2024 - )",
+            "name": "Gran autonomía Tracción trasera\n(10/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/tesla/model-3/2024/estandar/estandar/model-3-gran-autonomia-traccion-trasera/datos",
@@ -324,7 +325,7 @@
             ]
         },
         {
-            "name": "Model 3 Gran autonomía Tracción a las 4 ruedas\n(09/2023 - )",
+            "name": "Gran autonomía Tracción a las 4 ruedas\n(09/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/tesla/model-3/2024/estandar/estandar/model-3-traccion-integral-gran-autonomia/datos",
@@ -559,7 +560,7 @@
             ]
         },
         {
-            "name": "Model 3 Performance Tracción a las 4 ruedas\n(04/2024 - )",
+            "name": "Performance Tracción a las 4 ruedas\n(04/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/tesla/model-3/2024/estandar/performance/model-3-performance-traccion-a-las-cuatro-ruedas/datos",

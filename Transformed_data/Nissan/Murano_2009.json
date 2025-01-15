@@ -1,11 +1,12 @@
 {
+    "brand": "Nissan",
     "name": "Murano",
     "year": "2009",
     "url": "https://www.km77.com/coches/nissan/murano/2009/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Murano 4WD 3.5 V6 S-CVT Comfort",
+            "name": "4WD 3.5 V6 S-CVT Comfort",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/murano/2009/estandar/comfort/murano-4wd-35-v6-s-cvt-comfort/datos",
@@ -194,7 +195,7 @@
             ]
         },
         {
-            "name": "Murano 4WD 3.5 V6 S-CVT Premium",
+            "name": "4WD 3.5 V6 S-CVT Premium",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/murano/2009/estandar/premium/murano-4wd-35-v6-s-cvt-premium/datos",

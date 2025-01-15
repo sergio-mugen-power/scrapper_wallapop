@@ -1,11 +1,12 @@
 {
+    "brand": "Maserati",
     "name": "GranCabrio",
     "year": "2010",
     "url": "https://www.km77.com/coches/maserati/grancabrio/2010/estandar",
     "price": "Desde 209.600 €",
     "versions": [
         {
-            "name": "GranCabrio",
+            "name": "",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/maserati/grancabrio/2010/estandar/estandar/grancabrio/datos",
@@ -228,7 +229,7 @@
             ]
         },
         {
-            "name": "GranCabrio",
+            "name": "",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/maserati/grancabrio/2010/estandar/estandar/grancabrio2/datos",
@@ -457,7 +458,7 @@
             ]
         },
         {
-            "name": "GranCabrio Sport",
+            "name": "Sport",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/maserati/grancabrio/2010/estandar/sport/grancabrio-sport/datos",
@@ -697,7 +698,7 @@
             ]
         },
         {
-            "name": "GranCabrio",
+            "name": "",
             "start_year": "2012",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/maserati/grancabrio/2010/estandar/estandar/grancabrio3/datos",
@@ -928,7 +929,7 @@
             ]
         },
         {
-            "name": "GranCabrio Sport",
+            "name": "Sport",
             "start_year": "2012",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/maserati/grancabrio/2010/estandar/sport/grancabrio-sport2/datos",
@@ -1180,7 +1181,7 @@
             ]
         },
         {
-            "name": "GranCabrio MC",
+            "name": "MC",
             "start_year": "2013",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/maserati/grancabrio/2010/estandar/mc/grancabrio-mc/datos",
@@ -1426,7 +1427,7 @@
             ]
         },
         {
-            "name": "GranCabrio MC Centennial Edition",
+            "name": "MC Centennial Edition",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/maserati/grancabrio/2010/estandar/mc-centennial-edition/grancabrio-mc-centennial-edition/datos",

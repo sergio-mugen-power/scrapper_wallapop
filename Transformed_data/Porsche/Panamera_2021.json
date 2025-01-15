@@ -1,11 +1,12 @@
 {
+    "brand": "Porsche",
     "name": "Panamera",
     "year": "2021",
     "url": "https://www.km77.com/coches/porsche/panamera/2021/estandar",
     "price": "Desde 127.829 €",
     "versions": [
         {
-            "name": "Panamera",
+            "name": "",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/porsche/panamera/2021/estandar/estandar/panamera/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Panamera 4",
+            "name": "4",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/porsche/panamera/2021/estandar/estandar/panamera-4/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Panamera 4 E-Hybrid",
+            "name": "4 E-Hybrid",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/porsche/panamera/2021/estandar/e-hybrid/panamera-4-e-hybrid/datos",
@@ -92,7 +93,7 @@
             ]
         },
         {
-            "name": "Panamera 4 E-Hybrid Platinum Edition",
+            "name": "4 E-Hybrid Platinum Edition",
             "start_year": "2021",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/porsche/panamera/2021/estandar/e-hybrid/panamera-4-e-hybrid-platinum-edition/datos",
@@ -123,7 +124,7 @@
             ]
         },
         {
-            "name": "Panamera 4 Platinum Edition",
+            "name": "4 Platinum Edition",
             "start_year": "2021",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/porsche/panamera/2021/estandar/estandar/panamera-4-platinum-edition/datos",
@@ -151,7 +152,7 @@
             ]
         },
         {
-            "name": "Panamera 4S E-Hybrid",
+            "name": "4S E-Hybrid",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/porsche/panamera/2021/estandar/e-hybrid/panamera-4s-e-hybrid/datos",
@@ -182,7 +183,7 @@
             ]
         },
         {
-            "name": "Panamera 4S",
+            "name": "4S",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/porsche/panamera/2021/estandar/estandar/panamera-4s/datos",
@@ -210,7 +211,7 @@
             ]
         },
         {
-            "name": "Panamera GTS",
+            "name": "GTS",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/porsche/panamera/2021/estandar/estandar/panamera-gts/datos",
@@ -238,7 +239,7 @@
             ]
         },
         {
-            "name": "Panamera Turbo S E-Hybrid",
+            "name": "Turbo S E-Hybrid",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/porsche/panamera/2021/estandar/e-hybrid/panamera-turbo-s-e-hybrid/datos",
@@ -269,7 +270,7 @@
             ]
         },
         {
-            "name": "Panamera Turbo S",
+            "name": "Turbo S",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/porsche/panamera/2021/estandar/estandar/panamera-turbo-s/datos",

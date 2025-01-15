@@ -1,11 +1,12 @@
 {
+    "brand": "Toyota",
     "name": "Camry",
     "year": "2019",
     "url": "https://www.km77.com/coches/toyota/camry/2019/estandar",
     "price": "Desde 36.000 €",
     "versions": [
         {
-            "name": "Camry 220H Advance",
+            "name": "220H Advance",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/toyota/camry/2019/estandar/advance/camry-220h-advance/datos",
@@ -219,7 +220,7 @@
             ]
         },
         {
-            "name": "Camry 220H Business",
+            "name": "220H Business",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/toyota/camry/2019/estandar/business/camry-220h-business/datos",
@@ -432,7 +433,7 @@
             ]
         },
         {
-            "name": "Camry 220H Luxury",
+            "name": "220H Luxury",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/toyota/camry/2019/estandar/luxury/camry-220h-luxury/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Lamborghini",
     "name": "Diablo",
     "year": "2000",
     "url": "https://www.km77.com/coches/lamborghini/diablo/2000/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Diablo 6.0",
+            "name": "6.0",
             "start_year": "1999",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/lamborghini/diablo/2000/estandar/estandar/diablo-60/datos",
@@ -86,7 +87,7 @@
             ]
         },
         {
-            "name": "Diablo GTR",
+            "name": "GTR",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/lamborghini/diablo/2000/estandar/gtr/diablo-gtr/datos",

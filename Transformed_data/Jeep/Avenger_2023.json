@@ -1,11 +1,12 @@
 {
+    "brand": "Jeep",
     "name": "Avenger",
     "year": "2023",
     "url": "https://www.km77.com/coches/jeep/avenger/2023/estandar",
     "price": "Desde 21.286 €",
     "versions": [
         {
-            "name": "Avenger Longitude 1.2 Turbo 100 CV (01/2023 - )",
+            "name": "Longitude 1.2 Turbo 100 CV (01/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/jeep/avenger/2023/estandar/estandar/avenger-longitude-12-turbo-74-kw-100-cv/datos",
@@ -16,7 +17,7 @@
             "maletero": "380"
         },
         {
-            "name": "Avenger Longitude e-Hybrid 100 CV AT (11/2023 - )",
+            "name": "Longitude e-Hybrid 100 CV AT (11/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/jeep/avenger/2023/estandar/estandar/avenger-e-hybrid2/datos",
@@ -27,7 +28,7 @@
             "maletero": "380"
         },
         {
-            "name": "Avenger Altitude 1.2 Turbo 100 CV (01/2023 - )",
+            "name": "Altitude 1.2 Turbo 100 CV (01/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/jeep/avenger/2023/estandar/estandar/avenger-altitude-12-turbo-74-kw-100-cv2/datos",
@@ -38,7 +39,7 @@
             "maletero": "380"
         },
         {
-            "name": "Avenger Altitude e-Hybrid 100 CV AT (11/2023 - )",
+            "name": "Altitude e-Hybrid 100 CV AT (11/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/jeep/avenger/2023/estandar/estandar/avenger-e-hybrid-74-kw-100-cv-altitude/datos",
@@ -49,7 +50,7 @@
             "maletero": "380"
         },
         {
-            "name": "Avenger Summit 1.2 Turbo 100 CV (01/2023 - )",
+            "name": "Summit 1.2 Turbo 100 CV (01/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/jeep/avenger/2023/estandar/estandar/avenger-summit-12-turbo-74-kw-100-cv/datos",
@@ -60,7 +61,7 @@
             "maletero": "380"
         },
         {
-            "name": "Avenger Summit e-Hybrid 100 CV AT (11/2023 - )",
+            "name": "Summit e-Hybrid 100 CV AT (11/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/jeep/avenger/2023/estandar/estandar/avenger-e-hybrid-74-kw-100-cv-summit/datos",
@@ -71,7 +72,7 @@
             "maletero": "380"
         },
         {
-            "name": "Avenger 4xe Upland 1.2 Turbo 136 CV AT (10/2024 - )",
+            "name": "4xe Upland 1.2 Turbo 136 CV AT (10/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/jeep/avenger/2023/estandar/4xe/avenger-4xe/datos",
@@ -82,7 +83,7 @@
             "maletero": "325"
         },
         {
-            "name": "Avenger 4xe The North Face 1.2 Turbo 136 CV AT (10/2024 - )",
+            "name": "4xe The North Face 1.2 Turbo 136 CV AT (10/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/jeep/avenger/2023/estandar/4xe/avenger-4xe-the-north-face-12-turbo-100-kw-136-cv-at/datos",
@@ -93,7 +94,7 @@
             "maletero": "325"
         },
         {
-            "name": "Avenger Summit Eléctrico 115 kW (156 CV) (01/2023 - )",
+            "name": "Summit Eléctrico 115 kW (156 CV) (01/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/jeep/avenger/2023/estandar/electrico/avenger-summit-bev-115-kw-156-cv/datos",

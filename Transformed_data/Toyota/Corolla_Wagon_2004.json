@@ -1,11 +1,12 @@
 {
+    "brand": "Toyota",
     "name": "Corolla Wagon",
     "year": "2004",
     "url": "https://www.km77.com/coches/toyota/corolla/2004/wagon",
     "price": "",
     "versions": [
         {
-            "name": "Corolla Wagon 1.4 D4-D 90 CV Terra",
+            "name": "1.4 D4-D 90 CV Terra",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/toyota/corolla/2004/wagon/terra/corolla-wagon-14-d4-d-90-cv-terra/datos",
@@ -171,7 +172,7 @@
             ]
         },
         {
-            "name": "Corolla Wagon 1.4 D4-D 90 CV Terra MMT",
+            "name": "1.4 D4-D 90 CV Terra MMT",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/toyota/corolla/2004/wagon/terra/corolla-wagon-14-d4-d-90-cv-terra-mmt/datos",
@@ -337,7 +338,7 @@
             ]
         },
         {
-            "name": "Corolla Wagon 2.0 D4-D 116 CV Sol",
+            "name": "2.0 D4-D 116 CV Sol",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/toyota/corolla/2004/wagon/sol/corolla-wagon-20-d4-d-116-cv-sol/datos",

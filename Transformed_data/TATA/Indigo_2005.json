@@ -1,11 +1,12 @@
 {
+    "brand": "TATA",
     "name": "Indigo",
     "year": "2005",
     "url": "https://www.km77.com/coches/tata/indigo/2005/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Indigo Urban Style",
+            "name": "Urban Style",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/tata/indigo/2005/estandar/urban-style/indigo-urban-style/datos",
@@ -172,7 +173,7 @@
             ]
         },
         {
-            "name": "Indigo 1.4 TD",
+            "name": "1.4 TD",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/tata/indigo/2005/estandar/estandar/indigo-14-td/datos",
@@ -342,7 +343,7 @@
             ]
         },
         {
-            "name": "Indigo 1.4 MPFI",
+            "name": "1.4 MPFI",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/tata/indigo/2005/estandar/estandar/indigo-14-mpfi/datos",

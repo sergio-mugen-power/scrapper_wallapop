@@ -1,11 +1,12 @@
 {
+    "brand": "Citroën",
     "name": "C-15",
     "year": "1992",
     "url": "https://www.km77.com/coches/citroen/c-15/1992/estandar",
     "price": "",
     "versions": [
         {
-            "name": "C-15 D Top",
+            "name": "D Top",
             "start_year": "1992",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/citroen/c-15/1992/estandar/estandar/c-15-d-top/datos",
@@ -94,7 +95,7 @@
             ]
         },
         {
-            "name": "C-15 D Top Familiar",
+            "name": "D Top Familiar",
             "start_year": "1992",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/citroen/c-15/1992/estandar/estandar/c-15-d-top-familiar/datos",
@@ -183,7 +184,7 @@
             ]
         },
         {
-            "name": "C-15 RD Top Familiar",
+            "name": "RD Top Familiar",
             "start_year": "1992",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/citroen/c-15/1992/estandar/estandar/c-15-rd-top-familiar/datos",

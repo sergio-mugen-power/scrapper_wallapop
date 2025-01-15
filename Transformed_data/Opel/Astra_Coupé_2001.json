@@ -1,11 +1,12 @@
 {
+    "brand": "Opel",
     "name": "Astra Coupé",
     "year": "2001",
     "url": "https://www.km77.com/coches/opel/astra/2001/coupe",
     "price": "",
     "versions": [
         {
-            "name": "Astra Coupé Bertone 1.8 16V",
+            "name": "Bertone 1.8 16V",
             "start_year": "2000",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/astra/2001/coupe/club/astra-coupe-bertone-18-16v/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Astra Coupé Bertone Edition 2.0T 16V",
+            "name": "Bertone Edition 2.0T 16V",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/opel/astra/2001/coupe/edition/astra-coupe-bertone-edition-20t-16v/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Astra Coupé Bertone Edition 2.2 16V",
+            "name": "Bertone Edition 2.2 16V",
             "start_year": "2000",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/astra/2001/coupe/edition/astra-coupe-bertone-edition-22-16v/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Astra Coupé Bertone Edition 2.2 DTI 16V",
+            "name": "Bertone Edition 2.2 DTI 16V",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/astra/2001/coupe/edition/astra-coupe-bertone-edition-22-dti-16v/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "Astra Coupé Bertone Edition 2.0T 16V",
+            "name": "Bertone Edition 2.0T 16V",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/opel/astra/2001/coupe/edition/astra-coupe-bertone-edition-20t-16v2/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Astra Coupé Bertone Edition 2.2 16V Aut.",
+            "name": "Bertone Edition 2.2 16V Aut.",
             "start_year": "2000",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/astra/2001/coupe/edition/astra-coupe-bertone-edition-22-16v-aut/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "Astra Coupé Bertone Edition 2.0T 16V",
+            "name": "Bertone Edition 2.0T 16V",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/astra/2001/coupe/edition/astra-coupe-bertone-edition-20t-16v3/datos",

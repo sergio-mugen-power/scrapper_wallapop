@@ -1,11 +1,12 @@
 {
+    "brand": "Lotus",
     "name": "Exige",
     "year": "2010",
     "url": "https://www.km77.com/coches/lotus/exige/2010/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Exige S",
+            "name": "S",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/lotus/exige/2010/estandar/s/exige-s/datos",
@@ -183,7 +184,7 @@
             ]
         },
         {
-            "name": "Exige Cup 260",
+            "name": "Cup 260",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/lotus/exige/2010/estandar/cup-260/exige-cup-260/datos",

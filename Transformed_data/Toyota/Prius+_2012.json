@@ -1,11 +1,12 @@
 {
+    "brand": "Toyota",
     "name": "Prius+",
     "year": "2012",
     "url": "https://www.km77.com/coches/toyota/prius2/2012/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Prius+ 1.8 HSD Eco",
+            "name": "1.8 HSD Eco",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/toyota/prius2/2012/estandar/eco/prius-hibrido-hsd-eco/datos",
@@ -209,7 +210,7 @@
             ]
         },
         {
-            "name": "Prius+ 1.8 HSD Eco",
+            "name": "1.8 HSD Eco",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/toyota/prius2/2012/estandar/eco/prius-18-hsd-eco/datos",
@@ -417,7 +418,7 @@
             ]
         },
         {
-            "name": "Prius+ 1.8 HSD Advance",
+            "name": "1.8 HSD Advance",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/toyota/prius2/2012/estandar/advance/prius-hibrido-hsd-advance/datos",
@@ -629,7 +630,7 @@
             ]
         },
         {
-            "name": "Prius+ 1.8 HSD Advance",
+            "name": "1.8 HSD Advance",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/toyota/prius2/2012/estandar/advance/prius-18-hsd-advance/datos",
@@ -863,7 +864,7 @@
             ]
         },
         {
-            "name": "Prius+ 1.8 HSD Executive",
+            "name": "1.8 HSD Executive",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/toyota/prius2/2012/estandar/executive/prius-hibrido-hsd-executive/datos",
@@ -1085,7 +1086,7 @@
             ]
         },
         {
-            "name": "Prius+ 1.8 HSD Executive",
+            "name": "1.8 HSD Executive",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/toyota/prius2/2012/estandar/executive/prius-18-hsd-executive/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Renault",
     "name": "Mégane Berlina",
     "year": "2012",
     "url": "https://www.km77.com/coches/renault/megane/2012/berlina",
     "price": "Desde 32.160 €",
     "versions": [
         {
-            "name": "Mégane Berlina Authentique 1.6 16v 110",
+            "name": "Authentique 1.6 16v 110",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/authentique/megane-berlina-authentique-16-16v-110/datos",
@@ -180,7 +181,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Authentique 1.6 16v 100",
+            "name": "Authentique 1.6 16v 100",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/authentique/megane-berlina-authentique-16-16v-1103/datos",
@@ -355,7 +356,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Authentique 1.6 16v 110",
+            "name": "Authentique 1.6 16v 110",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/authentique/megane-berlina-authentique-16-16v-1102/datos",
@@ -530,7 +531,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Authentique dCi 90",
+            "name": "Authentique dCi 90",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/authentique/megane-berlina-authentique-dci-90-eco23/datos",
@@ -706,7 +707,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Expression Energy Tce 115 S&S",
+            "name": "Expression Energy Tce 115 S&S",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/expression/megane-berlina-expression-energy-tce-115/datos",
@@ -886,7 +887,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Expression Energy Tce 115 S&S",
+            "name": "Expression Energy Tce 115 S&S",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/expression/megane-berlina-expression-energy-tce-115-ss/datos",
@@ -1066,7 +1067,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Authentique dCi 90",
+            "name": "Authentique dCi 90",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/authentique/megane-berlina-authentique-dci-90/datos",
@@ -1242,7 +1243,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Expression dCi 90",
+            "name": "Expression dCi 90",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/expression/megane-berlina-expression-dci-90-eco2/datos",
@@ -1421,7 +1422,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina GT-Style Energy Tce 115 S&S",
+            "name": "GT-Style Energy Tce 115 S&S",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/gt-style/megane-berlina-sl-gt-style-energy-tce-115-ss/datos",
@@ -1602,7 +1603,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Expression dCi 90",
+            "name": "Expression dCi 90",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/expression/megane-berlina-expression-dci-90/datos",
@@ -1781,7 +1782,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Dynamique Energy Tce 115 S&S",
+            "name": "Dynamique Energy Tce 115 S&S",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/dynamique/megane-berlina-dynamique-energy-tce-115/datos",
@@ -1979,7 +1980,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Dynamique Energy Tce 115 S&S",
+            "name": "Dynamique Energy Tce 115 S&S",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/dynamique/megane-berlina-dynamique-energy-tce-115-ss/datos",
@@ -2177,7 +2178,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Expression dCi 110",
+            "name": "Expression dCi 110",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/expression/megane-berlina-emotion-dci-110/datos",
@@ -2356,7 +2357,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Expression dCi 110",
+            "name": "Expression dCi 110",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/expression/megane-berlina-expression-dci-110/datos",
@@ -2535,7 +2536,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Dynamique Tce 130",
+            "name": "Dynamique Tce 130",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/dynamique/megane-berlina-dynamique-tce-130/datos",
@@ -2731,7 +2732,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Expression Energy dCi 110 S&S",
+            "name": "Expression Energy dCi 110 S&S",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/expression/megane-berlina-expression-energy-dci-110-ss/datos",
@@ -2912,7 +2913,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Expression Energy dCi 110 S&S",
+            "name": "Expression Energy dCi 110 S&S",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/expression/megane-berlina-expression-energy-dci-110-ss2/datos",
@@ -3093,7 +3094,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Dynamique Energy Tce 130 S&S",
+            "name": "Dynamique Energy Tce 130 S&S",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/dynamique/megane-berlina-dynamique-energy-tce-130-ss/datos",
@@ -3286,7 +3287,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Dynamique dCi 110",
+            "name": "Dynamique dCi 110",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/dynamique/megane-berlina-dynamique-dci-110/datos",
@@ -3483,7 +3484,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina GT-Style Energy dCi 110 S&S",
+            "name": "GT-Style Energy dCi 110 S&S",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/gt-style/megane-berlina-expression-energy-dci-110-ss3/datos",
@@ -3664,7 +3665,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Dynamique Tce 130",
+            "name": "Dynamique Tce 130",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/dynamique/megane-berlina-dynamique-tce-1302/datos",
@@ -3860,7 +3861,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Dynamique dCi 110",
+            "name": "Dynamique dCi 110",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/dynamique/megane-berlina-dynamique-dci-1102/datos",
@@ -4057,7 +4058,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Dynamique Energy dCi 110 S&S",
+            "name": "Dynamique Energy dCi 110 S&S",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/dynamique/megane-berlina-dynamique-energy-dci-110-ss/datos",
@@ -4256,7 +4257,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Privilege Tce 130",
+            "name": "Privilege Tce 130",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/privilege/megane-berlina-privilege-tce-130/datos",
@@ -4447,7 +4448,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Dynamique Energy dCi 110 S&S",
+            "name": "Dynamique Energy dCi 110 S&S",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/dynamique/megane-berlina-dynamique-energy-dci-110-ss2/datos",
@@ -4646,7 +4647,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Dynamique Energy dCi 130 S&S",
+            "name": "Dynamique Energy dCi 130 S&S",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/dynamique/megane-berlina-dynamique-energy-dci-130-ss/datos",
@@ -4845,7 +4846,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Dynamique dCi 110 EDC",
+            "name": "Dynamique dCi 110 EDC",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/dynamique/megane-berlina-dynamique-dci-110-edc/datos",
@@ -5042,7 +5043,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Dynamique Energy dCi 130 S&S",
+            "name": "Dynamique Energy dCi 130 S&S",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/dynamique/megane-berlina-dynamique-energy-dci-130-ss2/datos",
@@ -5241,7 +5242,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Privilege Tce 130",
+            "name": "Privilege Tce 130",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/privilege/megane-berlina-privilege-tce-1302/datos",
@@ -5433,7 +5434,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Dynamique dCi 110 EDC",
+            "name": "Dynamique dCi 110 EDC",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/dynamique/megane-berlina-dynamique-dci-110-edc2/datos",
@@ -5630,7 +5631,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Privilege Energy Tce 130 S&S",
+            "name": "Privilege Energy Tce 130 S&S",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/privilege/megane-berlina-privilege-tce-1303/datos",
@@ -5819,7 +5820,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Privilège 2.0 CVT 140",
+            "name": "Privilège 2.0 CVT 140",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/privilege/megane-berlina-privilege-20-cvt-140/datos",
@@ -6010,7 +6011,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Privilege Energy dCi 130 S&S",
+            "name": "Privilege Energy dCi 130 S&S",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/privilege/megane-berlina-privilege-energy-dci-130-ss/datos",
@@ -6204,7 +6205,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina GT Tce 180",
+            "name": "GT Tce 180",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/gt/megane-berlina-gt-tce-180/datos",
@@ -6400,7 +6401,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Privilège 2.0 CVT 140",
+            "name": "Privilège 2.0 CVT 140",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/privilege/megane-berlina-privilege-20-cvt-1402/datos",
@@ -6592,7 +6593,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina GT Tce 180",
+            "name": "GT Tce 180",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/gt/megane-berlina-gt-tce-1802/datos",
@@ -6787,7 +6788,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina Privilege Energy dCi 130 S&S",
+            "name": "Privilege Energy dCi 130 S&S",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/privilege/megane-berlina-privilege-energy-dci-130-ss2/datos",
@@ -6982,7 +6983,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina GT dCi 160",
+            "name": "GT dCi 160",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/gt/megane-berlina-gt-dci-160/datos",
@@ -7179,7 +7180,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina GT dCi 165",
+            "name": "GT dCi 165",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/gt/megane-berlina-gt-dci-165/datos",
@@ -7374,7 +7375,7 @@
             ]
         },
         {
-            "name": "Mégane Berlina GT dCi 160",
+            "name": "GT dCi 160",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/megane/2012/berlina/gt/megane-berlina-gt-dci-1602/datos",

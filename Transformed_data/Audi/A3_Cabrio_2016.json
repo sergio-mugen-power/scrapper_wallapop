@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "A3 Cabrio",
     "year": "2016",
     "url": "https://www.km77.com/coches/audi/a3/2016/cabrio",
     "price": "Desde 33.890 €",
     "versions": [
         {
-            "name": "A3 Cabrio 1.6 TDI 81 kW (110 CV)",
+            "name": "1.6 TDI 81 kW (110 CV)",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/audi/a3/2016/cabrio/estandar/a3-cabrio-16-tdi-110-cv/datos",
@@ -281,7 +282,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 1.4 TFSI 85 kW (116 CV)",
+            "name": "1.4 TFSI 85 kW (116 CV)",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a3/2016/cabrio/estandar/a3-cabrio-14-tfsi-85-kw-116-cv/datos",
@@ -557,7 +558,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 1.6 TDI 85 kW (116 CV)",
+            "name": "1.6 TDI 85 kW (116 CV)",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a3/2016/cabrio/estandar/a3-cabrio-16-tdi-85-kw-116-cv/datos",
@@ -841,7 +842,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 1.4 TFSI COD ultra 110 kW (150 CV)",
+            "name": "1.4 TFSI COD ultra 110 kW (150 CV)",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/audi/a3/2016/cabrio/estandar/a3-cabrio-14-tfsi-cod-ultra-150-cv/datos",
@@ -1118,7 +1119,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 2.0 TDI 110 kW (150 CV)",
+            "name": "2.0 TDI 110 kW (150 CV)",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/audi/a3/2016/cabrio/estandar/a3-cabrio-20-tdi-150-cv/datos",
@@ -1394,7 +1395,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 1.5 TFSI CoD EVO 110 kW (150 CV)",
+            "name": "1.5 TFSI CoD EVO 110 kW (150 CV)",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a3/2016/cabrio/estandar/a3-cabrio-15-tfsi-cod-evo-110-kw-150-cv/datos",
@@ -1679,7 +1680,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 1.4 TFSI 85 kW (116 CV) S tronic 7 vel.",
+            "name": "1.4 TFSI 85 kW (116 CV) S tronic 7 vel.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a3/2016/cabrio/estandar/a3-cabrio-14-tfsi-85-kw-116-cv-s-tronic-7-vel/datos",
@@ -1958,7 +1959,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 2.0 TDI 110 kW (150 CV)",
+            "name": "2.0 TDI 110 kW (150 CV)",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a3/2016/cabrio/estandar/a3-cabrio-20-tdi-110-kw-150-cv/datos",
@@ -2241,7 +2242,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 35 TFSI",
+            "name": "35 TFSI",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/audi/a3/2016/cabrio/estandar/a3-cabrio-35-tfsi/datos",
@@ -2518,7 +2519,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 1.4 TFSI COD ultra 110 kW (150 CV) S tronic 7 vel.",
+            "name": "1.4 TFSI COD ultra 110 kW (150 CV) S tronic 7 vel.",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/audi/a3/2016/cabrio/estandar/a3-cabrio-14-tfsi-cod-ultra-150-cv-s-tronic/datos",
@@ -2797,7 +2798,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 2.0 TDI 150 CV quattro",
+            "name": "2.0 TDI 150 CV quattro",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/audi/a3/2016/cabrio/estandar/a3-cabrio-20-tdi-150-cv-quattro/datos",
@@ -3074,7 +3075,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 1.5 TFSI CoD EVO 110 kW (150 CV) S tronic 7 vel.",
+            "name": "1.5 TFSI CoD EVO 110 kW (150 CV) S tronic 7 vel.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a3/2016/cabrio/estandar/a3-cabrio-15-tfsi-cod-evo-110-kw-150-cv-s-tronic-7-vel/datos",
@@ -3362,7 +3363,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 2.0 TDI 110 kW (150 CV) S tronic 6 vel.",
+            "name": "2.0 TDI 110 kW (150 CV) S tronic 6 vel.",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/audi/a3/2016/cabrio/estandar/a3-cabrio-20-tdi-150-cv-s-tronic/datos",
@@ -3641,7 +3642,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 2.0 TDI 110 kW (150 CV) S tronic 7 vel.",
+            "name": "2.0 TDI 110 kW (150 CV) S tronic 7 vel.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a3/2016/cabrio/estandar/a3-cabrio-20-tdi-110-kw-150-cv-s-tronic-7-vel/datos",
@@ -3927,7 +3928,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 2.0 TFSI 140 kW (190 CV)",
+            "name": "2.0 TFSI 140 kW (190 CV)",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a3/2016/cabrio/estandar/a3-cabrio-20-tfsi-190-cv/datos",
@@ -4211,7 +4212,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 35 TFSI S tronic 7 vel.",
+            "name": "35 TFSI S tronic 7 vel.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/audi/a3/2016/cabrio/estandar/a3-cabrio-35-tfsi-s-tronic-7-vel/datos",
@@ -4491,7 +4492,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 2.0 TDI 110 kW (150 CV) quattro",
+            "name": "2.0 TDI 110 kW (150 CV) quattro",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a3/2016/cabrio/estandar/a3-cabrio-20-tdi-110-kw-150-cv-quattro/datos",
@@ -4775,7 +4776,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 2.0 TFSI 140 kW (190 CV) S tronic 7 vel.",
+            "name": "2.0 TFSI 140 kW (190 CV) S tronic 7 vel.",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a3/2016/cabrio/estandar/a3-cabrio-20-tfsi-140-kw-190-cv-s-tronic-7-vel/datos",
@@ -5059,7 +5060,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 40 TFSI S tronic 7 vel.",
+            "name": "40 TFSI S tronic 7 vel.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/audi/a3/2016/cabrio/estandar/a3-cabrio-40-tfsi-s-tronic-7-vel/datos",
@@ -5341,7 +5342,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 2.0 TFSI 140 kW (190 CV) quattro S tronic 7 vel.",
+            "name": "2.0 TFSI 140 kW (190 CV) quattro S tronic 7 vel.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a3/2016/cabrio/estandar/a3-cabrio-20-tfsi-190-cv-quattro-s-tronic/datos",
@@ -5629,7 +5630,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 2.0 TDI 135 kW (184 CV) quattro S tronic 7 vel.",
+            "name": "2.0 TDI 135 kW (184 CV) quattro S tronic 7 vel.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a3/2016/cabrio/estandar/a3-cabrio-20-tdi-135-kw-184-cv-quattro-s-tronic-7-vel/datos",
@@ -5918,7 +5919,7 @@
             ]
         },
         {
-            "name": "A3 Cabrio 40 TFSI quattro S tronic 7 vel. S line edition",
+            "name": "40 TFSI quattro S tronic 7 vel. S line edition",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/audi/a3/2016/cabrio/s-line-edition/a3-cabrio-40-tfsi-quattro-s-tronic-7-vel-s-line-edition/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "A1 allstreet",
     "year": "2022",
     "url": "https://www.km77.com/coches/audi/a1/2022/allstreet",
     "price": "",
     "versions": [
         {
-            "name": "A1 allstreet 30 TFSI (04/2024 - )",
+            "name": "30 TFSI (04/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/audi/a1/2022/allstreet/estandar/a1-allstreet-30-tfsi3/datos",
@@ -16,7 +17,7 @@
             "maletero": "335"
         },
         {
-            "name": "A1 allstreet 30 TFSI S tronic (04/2024 - )",
+            "name": "30 TFSI S tronic (04/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/audi/a1/2022/allstreet/estandar/a1-allstreet-30-tfsi-s-tronic2/datos",
@@ -27,7 +28,7 @@
             "maletero": "335"
         },
         {
-            "name": "A1 allstreet Adrenalin 30 TFSI (04/2024 - )",
+            "name": "Adrenalin 30 TFSI (04/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/audi/a1/2022/allstreet/estandar/a1-allstreet-adrenalin-30-tfsi2/datos",
@@ -38,7 +39,7 @@
             "maletero": "335"
         },
         {
-            "name": "A1 allstreet 35 TFSI S tronic (06/2022 - )",
+            "name": "35 TFSI S tronic (06/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/audi/a1/2022/allstreet/estandar/a1-allstreet-35-tfsi-s-tronic/datos",
@@ -49,7 +50,7 @@
             "maletero": "335"
         },
         {
-            "name": "A1 allstreet Adrenalin 30 TFSI S tronic (04/2024 - )",
+            "name": "Adrenalin 30 TFSI S tronic (04/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/audi/a1/2022/allstreet/estandar/a1-allstreet-adrenalin-30-tfsi-s-tronic2/datos",
@@ -60,7 +61,7 @@
             "maletero": "335"
         },
         {
-            "name": "A1 allstreet Adrenalin 35 TFSI S tronic (06/2022 - )",
+            "name": "Adrenalin 35 TFSI S tronic (06/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/audi/a1/2022/allstreet/estandar/a1-allstreet-adrenalin-35-tfsi-s-tronic/datos",

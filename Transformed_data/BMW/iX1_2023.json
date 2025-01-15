@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "iX1",
     "year": "2023",
     "url": "https://www.km77.com/coches/bmw/ix1/2023/estandar",
     "price": "Desde 49.100 €",
     "versions": [
         {
-            "name": "iX1 eDrive20 (10/2023 - )",
+            "name": "eDrive20 (10/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/bmw/ix1/2023/estandar/estandar/ix1-edrive20/datos",
@@ -294,7 +295,7 @@
             ]
         },
         {
-            "name": "iX1 xDrive30 (06/2022 - )",
+            "name": "xDrive30 (06/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/bmw/ix1/2023/estandar/estandar/ix1-xdrive30/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Maserati",
     "name": "Quattroporte",
     "year": "2021",
     "url": "https://www.km77.com/coches/maserati/quattroporte/2021/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Quattroporte GT",
+            "name": "GT",
             "start_year": "2021",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2021/estandar/estandar/quattroporte-gt/datos",
@@ -271,7 +272,7 @@
             ]
         },
         {
-            "name": "Quattroporte Modena Q4",
+            "name": "Modena Q4",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2021/estandar/estandar/quattroporte-modena-q4/datos",
@@ -532,7 +533,7 @@
             ]
         },
         {
-            "name": "Quattroporte Trofeo",
+            "name": "Trofeo",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2021/estandar/trofeo/quattroporte-trofeo/datos",

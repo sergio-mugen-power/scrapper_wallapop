@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "X6",
     "year": "2008",
     "url": "https://www.km77.com/coches/bmw/x6/2008/estandar",
     "price": "Desde 99.300 €",
     "versions": [
         {
-            "name": "X6 xDrive35i",
+            "name": "xDrive35i",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x6/2008/estandar/estandar/x6-xdrive35i/datos",
@@ -261,7 +262,7 @@
             ]
         },
         {
-            "name": "X6 xDrive30d",
+            "name": "xDrive30d",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x6/2008/estandar/estandar/x6-xdrive30d/datos",
@@ -517,7 +518,7 @@
             ]
         },
         {
-            "name": "X6 xDrive30d",
+            "name": "xDrive30d",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x6/2008/estandar/estandar/x6-xdrive30d2/datos",
@@ -799,7 +800,7 @@
             ]
         },
         {
-            "name": "X6 xDrive35i",
+            "name": "xDrive35i",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x6/2008/estandar/estandar/x6-xdrive35i2/datos",
@@ -1080,7 +1081,7 @@
             ]
         },
         {
-            "name": "X6 xDrive30d",
+            "name": "xDrive30d",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x6/2008/estandar/estandar/x6-xdrive30d3/datos",
@@ -1371,7 +1372,7 @@
             ]
         },
         {
-            "name": "X6 xDrive35i",
+            "name": "xDrive35i",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x6/2008/estandar/estandar/x6-xdrive35i3/datos",
@@ -1660,7 +1661,7 @@
             ]
         },
         {
-            "name": "X6 xDrive35d",
+            "name": "xDrive35d",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x6/2008/estandar/estandar/x6-xdrive35d/datos",
@@ -1916,7 +1917,7 @@
             ]
         },
         {
-            "name": "X6 xDrive40d",
+            "name": "xDrive40d",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x6/2008/estandar/estandar/x6-xdrive40d/datos",
@@ -2198,7 +2199,7 @@
             ]
         },
         {
-            "name": "X6 xDrive40d",
+            "name": "xDrive40d",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x6/2008/estandar/estandar/x6-xdrive40d2/datos",
@@ -2488,7 +2489,7 @@
             ]
         },
         {
-            "name": "X6 xDrive50i",
+            "name": "xDrive50i",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x6/2008/estandar/estandar/x6-xdrive50i/datos",
@@ -2745,7 +2746,7 @@
             ]
         },
         {
-            "name": "X6 xDrive50i",
+            "name": "xDrive50i",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x6/2008/estandar/estandar/x6-xdrive50i2/datos",
@@ -3025,7 +3026,7 @@
             ]
         },
         {
-            "name": "X6 xDrive50i",
+            "name": "xDrive50i",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x6/2008/estandar/estandar/x6-xdrive50i3/datos",
@@ -3315,7 +3316,7 @@
             ]
         },
         {
-            "name": "ActiveHybrid X6",
+            "name": "ActiveHybrid",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x6/2008/estandar/estandar/activehybrid-x63/datos",
@@ -3608,7 +3609,7 @@
             ]
         },
         {
-            "name": "ActiveHybrid X6",
+            "name": "ActiveHybrid",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x6/2008/estandar/estandar/activehybrid-x6/datos",
@@ -3895,7 +3896,7 @@
             ]
         },
         {
-            "name": "ActiveHybrid X6",
+            "name": "ActiveHybrid",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x6/2008/estandar/estandar/activehybrid-x62/datos",
@@ -4182,7 +4183,7 @@
             ]
         },
         {
-            "name": "X6 M",
+            "name": "M",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x6/2008/estandar/m/x6-m/datos",
@@ -4435,7 +4436,7 @@
             ]
         },
         {
-            "name": "X6 M",
+            "name": "M",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x6/2008/estandar/m/x6-m2/datos",

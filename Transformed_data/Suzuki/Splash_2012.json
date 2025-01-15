@@ -1,11 +1,12 @@
 {
+    "brand": "Suzuki",
     "name": "Splash",
     "year": "2012",
     "url": "https://www.km77.com/coches/suzuki/splash/2012/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Splash 1.0 GLS",
+            "name": "1.0 GLS",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/suzuki/splash/2012/estandar/gls/splash-10-gls/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Splash 1.2 GLS Aut.",
+            "name": "1.2 GLS Aut.",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/suzuki/splash/2012/estandar/gls/splash-12-gls-aut/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Land Rover",
     "name": "Discovery",
     "year": "2003",
     "url": "https://www.km77.com/coches/land-rover/discovery/2003/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Discovery E Td5 (138 CV)",
+            "name": "E Td5 (138 CV)",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/land-rover/discovery/2003/estandar/e/discovery-e-td5-138-cv/datos",
@@ -180,7 +181,7 @@
             ]
         },
         {
-            "name": "Discovery E Td5 (138 CV) Aut.",
+            "name": "E Td5 (138 CV) Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/land-rover/discovery/2003/estandar/e/discovery-e-td5-138-cv-aut/datos",
@@ -355,7 +356,7 @@
             ]
         },
         {
-            "name": "Discovery E V8 Aut. (184 CV)",
+            "name": "E V8 Aut. (184 CV)",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/land-rover/discovery/2003/estandar/e/discovery-e-v8-aut-184-cv/datos",
@@ -531,7 +532,7 @@
             ]
         },
         {
-            "name": "Discovery S Td5 (138 CV)",
+            "name": "S Td5 (138 CV)",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/land-rover/discovery/2003/estandar/s/discovery-s-td5-138-cv/datos",
@@ -720,7 +721,7 @@
             ]
         },
         {
-            "name": "Discovery SE Td5 (138 CV)",
+            "name": "SE Td5 (138 CV)",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/land-rover/discovery/2003/estandar/se/discovery-se-td5-138-cv/datos",
@@ -907,7 +908,7 @@
             ]
         },
         {
-            "name": "Discovery S Td5 (138 CV) Aut.",
+            "name": "S Td5 (138 CV) Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/land-rover/discovery/2003/estandar/s/discovery-s-td5-138-cv-aut/datos",
@@ -1096,7 +1097,7 @@
             ]
         },
         {
-            "name": "Discovery S V8 Aut. (184 CV)",
+            "name": "S V8 Aut. (184 CV)",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/land-rover/discovery/2003/estandar/s/discovery-s-v8-aut-184-cv/datos",
@@ -1286,7 +1287,7 @@
             ]
         },
         {
-            "name": "Discovery SE Td5 (138 CV) Aut.",
+            "name": "SE Td5 (138 CV) Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/land-rover/discovery/2003/estandar/se/discovery-se-td5-138-cv-aut/datos",
@@ -1473,7 +1474,7 @@
             ]
         },
         {
-            "name": "Discovery HSE Td5 (138 CV)",
+            "name": "HSE Td5 (138 CV)",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/land-rover/discovery/2003/estandar/hse/discovery-hse-td5-138-cv/datos",
@@ -1660,7 +1661,7 @@
             ]
         },
         {
-            "name": "Discovery SE V8 Aut. (184 CV)",
+            "name": "SE V8 Aut. (184 CV)",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/land-rover/discovery/2003/estandar/se/discovery-se-v8-aut-184-cv/datos",
@@ -1847,7 +1848,7 @@
             ]
         },
         {
-            "name": "Discovery HSE Td5 (138 CV) Aut.",
+            "name": "HSE Td5 (138 CV) Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/land-rover/discovery/2003/estandar/hse/discovery-hse-td5-138-cv-aut/datos",
@@ -2034,7 +2035,7 @@
             ]
         },
         {
-            "name": "Discovery HSE V8 Aut. (184 CV)",
+            "name": "HSE V8 Aut. (184 CV)",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/land-rover/discovery/2003/estandar/hse/discovery-hse-v8-aut-184-cv/datos",

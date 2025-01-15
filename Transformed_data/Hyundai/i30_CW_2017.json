@@ -1,11 +1,12 @@
 {
+    "brand": "Hyundai",
     "name": "i30 CW",
     "year": "2017",
     "url": "https://www.km77.com/coches/hyundai/i30/2017/cw",
     "price": "",
     "versions": [
         {
-            "name": "i30 CW 1.0 T-GDi 88 kW (120 CV) Klass Max",
+            "name": "1.0 T-GDi 88 kW (120 CV) Klass Max",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/hyundai/i30/2017/cw/klass-max/i30-cw-10-t-gdi-88-kw-120-cv-klass-max/datos",
@@ -193,7 +194,7 @@
             ]
         },
         {
-            "name": "i30 CW 1.0 T-GDi 88 kW (120 CV) Link",
+            "name": "1.0 T-GDi 88 kW (120 CV) Link",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/hyundai/i30/2017/cw/link/i30-cw-10-t-gdi-88-kw-120-cv-link/datos",
@@ -386,7 +387,7 @@
             ]
         },
         {
-            "name": "i30 CW 1.0 T-GDi 88 kW (120 CV) Go",
+            "name": "1.0 T-GDi 88 kW (120 CV) Go",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/hyundai/i30/2017/cw/go/i30-cw-10-t-gdi-88-kw-120-cv-go/datos",
@@ -580,7 +581,7 @@
             ]
         },
         {
-            "name": "i30 CW 1.6 CRDi 81 kW (110 CV) Klass Max",
+            "name": "1.6 CRDi 81 kW (110 CV) Klass Max",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/hyundai/i30/2017/cw/klass-max/i30-cw-16-crdi-81-kw-110-cv-klass-max/datos",
@@ -767,7 +768,7 @@
             ]
         },
         {
-            "name": "i30 CW 1.6 CRDi 81 kW (110 CV) Link",
+            "name": "1.6 CRDi 81 kW (110 CV) Link",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/hyundai/i30/2017/cw/link/i30-cw-16-crdi-81-kw-110-cv-link/datos",
@@ -958,7 +959,7 @@
             ]
         },
         {
-            "name": "i30 CW 1.6 CRDi 81 kW (110 CV) Go",
+            "name": "1.6 CRDi 81 kW (110 CV) Go",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/hyundai/i30/2017/cw/go/i30-cw-16-crdi-81-kw-110-cv-go/datos",
@@ -1152,7 +1153,7 @@
             ]
         },
         {
-            "name": "i30 CW 1.4 T-GDi 103 kW (140 CV) Tecno",
+            "name": "1.4 T-GDi 103 kW (140 CV) Tecno",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/hyundai/i30/2017/cw/tecno/i30-cw-14-t-gdi-103-kw-140-cv-tecno/datos",
@@ -1351,7 +1352,7 @@
             ]
         },
         {
-            "name": "i30 CW 1.6 CRDi 81 kW (110 CV) Tecno",
+            "name": "1.6 CRDi 81 kW (110 CV) Tecno",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/hyundai/i30/2017/cw/tecno/i30-cw-16-crdi-81-kw-110-cv-tecno/datos",
@@ -1552,7 +1553,7 @@
             ]
         },
         {
-            "name": "i30 CW 1.6 CRDi 81 kW (110 CV) Go Plus",
+            "name": "1.6 CRDi 81 kW (110 CV) Go Plus",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/hyundai/i30/2017/cw/go-plus/i30-cw-16-crdi-81-kw-110-cv-go-plus/datos",
@@ -1753,7 +1754,7 @@
             ]
         },
         {
-            "name": "i30 CW 1.4 T-GDi 103 kW (140 CV) Tecno 7DCT",
+            "name": "1.4 T-GDi 103 kW (140 CV) Tecno 7DCT",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/hyundai/i30/2017/cw/tecno/i30-cw-14-t-gdi-103-kw-140-cv-tecno-7dct/datos",
@@ -1952,7 +1953,7 @@
             ]
         },
         {
-            "name": "i30 CW 1.6 CRDi 81 kW (110 CV) Tecno 7DCT",
+            "name": "1.6 CRDi 81 kW (110 CV) Tecno 7DCT",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/hyundai/i30/2017/cw/tecno/i30-cw-16-crdi-81-kw-110-cv-tecno-7dct/datos",
@@ -2148,7 +2149,7 @@
             ]
         },
         {
-            "name": "i30 CW 1.4 T-GDi 103 kW (140 CV) Go Plus 7DCT",
+            "name": "1.4 T-GDi 103 kW (140 CV) Go Plus 7DCT",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/hyundai/i30/2017/cw/go-plus/i30-cw-14-t-gdi-103-kw-140-cv-go-plus-7dct/datos",
@@ -2348,7 +2349,7 @@
             ]
         },
         {
-            "name": "i30 CW 1.6 CRDi 81 kW (110 CV) Go Plus 7DCT",
+            "name": "1.6 CRDi 81 kW (110 CV) Go Plus 7DCT",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/hyundai/i30/2017/cw/go-plus/i30-cw-16-crdi-81-kw-110-cv-go-plus-7dct/datos",
@@ -2549,7 +2550,7 @@
             ]
         },
         {
-            "name": "i30 CW 1.6 CRDi 100 kW (136 CV) Style Lux 7DCT",
+            "name": "1.6 CRDi 100 kW (136 CV) Style Lux 7DCT",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/hyundai/i30/2017/cw/style-lux/i30-cw-16-crdi-100-kw-136-cv-style-lux-7dct/datos",

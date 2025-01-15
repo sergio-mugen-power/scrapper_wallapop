@@ -1,11 +1,12 @@
 {
+    "brand": "Ford",
     "name": "Galaxy",
     "year": "2001",
     "url": "https://www.km77.com/coches/ford/galaxy/2001/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Galaxy Ambiente 2.0 16v",
+            "name": "Ambiente 2.0 16v",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/ford/galaxy/2001/estandar/ambiente/galaxy-ambiente-20-16v/datos",
@@ -137,7 +138,7 @@
             ]
         },
         {
-            "name": "Galaxy Trend 1.9 TDi 90 cv",
+            "name": "Trend 1.9 TDi 90 cv",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/ford/galaxy/2001/estandar/trend/galaxy-trend-19-tdi-90-cv/datos",
@@ -276,7 +277,7 @@
             ]
         },
         {
-            "name": "Galaxy 2.3 140 CV Trend",
+            "name": "2.3 140 CV Trend",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/ford/galaxy/2001/estandar/trend/galaxy-23-140-cv-trend/datos",
@@ -441,7 +442,7 @@
             ]
         },
         {
-            "name": "Galaxy Trend 2.3 140cv",
+            "name": "Trend 2.3 140cv",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/ford/galaxy/2001/estandar/trend/galaxy-trend-23-140cv/datos",
@@ -596,7 +597,7 @@
             ]
         },
         {
-            "name": "Galaxy Ambiente 1.9 TDi 115 cv",
+            "name": "Ambiente 1.9 TDi 115 cv",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/ford/galaxy/2001/estandar/ambiente/galaxy-ambiente-19-tdi-115-cv/datos",
@@ -737,7 +738,7 @@
             ]
         },
         {
-            "name": "Galaxy 1.9 TDi 115 CV Ambiente",
+            "name": "1.9 TDi 115 CV Ambiente",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/galaxy/2001/estandar/ambiente/galaxy-19-tdi-115-cv-ambiente/datos",
@@ -884,7 +885,7 @@
             ]
         },
         {
-            "name": "Galaxy Trend 1.9 TDi 115 cv",
+            "name": "Trend 1.9 TDi 115 cv",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/ford/galaxy/2001/estandar/trend/galaxy-trend-19-tdi-115-cv/datos",
@@ -1038,7 +1039,7 @@
             ]
         },
         {
-            "name": "Galaxy Trend 1.9 TDi 115 cv Selectshift",
+            "name": "Trend 1.9 TDi 115 cv Selectshift",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/ford/galaxy/2001/estandar/trend/galaxy-trend-19-tdi-115-cv-selectshift/datos",
@@ -1178,7 +1179,7 @@
             ]
         },
         {
-            "name": "Galaxy Trend 2.3 16v Selectshift",
+            "name": "Trend 2.3 16v Selectshift",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/ford/galaxy/2001/estandar/trend/galaxy-trend-23-16v-selectshift/datos",
@@ -1333,7 +1334,7 @@
             ]
         },
         {
-            "name": "Galaxy Trend 1.9 TDi 130 cv",
+            "name": "Trend 1.9 TDi 130 cv",
             "start_year": "2004",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/ford/galaxy/2001/estandar/trend/galaxy-trend-19-tdi-130-cv/datos",
@@ -1488,7 +1489,7 @@
             ]
         },
         {
-            "name": "Galaxy 1.9 TDi 115 CV Trend",
+            "name": "1.9 TDi 115 CV Trend",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/galaxy/2001/estandar/trend/galaxy-19-tdi-115-cv-trend/datos",
@@ -1654,7 +1655,7 @@
             ]
         },
         {
-            "name": "Galaxy Ghia 1.9 TDi 115 cv",
+            "name": "Ghia 1.9 TDi 115 cv",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/ford/galaxy/2001/estandar/ghia/galaxy-ghia-19-tdi-115-cv/datos",
@@ -1801,7 +1802,7 @@
             ]
         },
         {
-            "name": "Galaxy 1.9 TDi 130 CV Trend",
+            "name": "1.9 TDi 130 CV Trend",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/galaxy/2001/estandar/trend/galaxy-19-tdi-130-cv-trend/datos",
@@ -1967,7 +1968,7 @@
             ]
         },
         {
-            "name": "Galaxy 1.9 TDi 150 CV Trend",
+            "name": "1.9 TDi 150 CV Trend",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/galaxy/2001/estandar/trend/galaxy-19-tdi-150-cv-trend/datos",
@@ -2129,7 +2130,7 @@
             ]
         },
         {
-            "name": "Galaxy Ghia 1.9 TDi 130 cv",
+            "name": "Ghia 1.9 TDi 130 cv",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/ford/galaxy/2001/estandar/ghia/galaxy-ghia-19-tdi-130-cv/datos",
@@ -2286,7 +2287,7 @@
             ]
         },
         {
-            "name": "Galaxy 2.8 V6 205 CV Ghia",
+            "name": "2.8 V6 205 CV Ghia",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/ford/galaxy/2001/estandar/ghia/galaxy-28-v6-205-cv-ghia/datos",
@@ -2462,7 +2463,7 @@
             ]
         },
         {
-            "name": "Galaxy 1.9 TDi 130 CV Ghia",
+            "name": "1.9 TDi 130 CV Ghia",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/galaxy/2001/estandar/ghia/galaxy-19-tdi-130-cv-ghia/datos",
@@ -2635,7 +2636,7 @@
             ]
         },
         {
-            "name": "Galaxy 1.9 TDi 150 CV Ghia",
+            "name": "1.9 TDi 150 CV Ghia",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/galaxy/2001/estandar/ghia/galaxy-19-tdi-150-cv-ghia/datos",
@@ -2804,7 +2805,7 @@
             ]
         },
         {
-            "name": "Galaxy Ghia 1.9 TDi 115 cv Selectshift",
+            "name": "Ghia 1.9 TDi 115 cv Selectshift",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/ford/galaxy/2001/estandar/ghia/galaxy-ghia-19-tdi-115-cv-selectshift/datos",
@@ -2961,7 +2962,7 @@
             ]
         },
         {
-            "name": "Galaxy Ghia 2.8 V6 205 cv",
+            "name": "Ghia 2.8 V6 205 cv",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/ford/galaxy/2001/estandar/ghia/galaxy-ghia-28-v6-205-cv/datos",
@@ -3118,7 +3119,7 @@
             ]
         },
         {
-            "name": "Galaxy 1.9 TDi 115 CV Ghia Selectshift",
+            "name": "1.9 TDi 115 CV Ghia Selectshift",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/galaxy/2001/estandar/ghia/galaxy-19-tdi-115-cv-ghia-selectshift/datos",
@@ -3291,7 +3292,7 @@
             ]
         },
         {
-            "name": "Galaxy 2.8 V6 205 CV Ghia Selectshift",
+            "name": "2.8 V6 205 CV Ghia Selectshift",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/ford/galaxy/2001/estandar/ghia/galaxy-28-v6-205-cv-ghia-selectshift/datos",
@@ -3467,7 +3468,7 @@
             ]
         },
         {
-            "name": "Galaxy Ghia 2.8 V6 205 cv Selectshift",
+            "name": "Ghia 2.8 V6 205 cv Selectshift",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/ford/galaxy/2001/estandar/ghia/galaxy-ghia-28-v6-205-cv-selectshift/datos",

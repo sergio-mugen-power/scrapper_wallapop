@@ -1,11 +1,12 @@
 {
+    "brand": "Ford",
     "name": "KA+ Active",
     "year": "2018",
     "url": "https://www.km77.com/coches/ford/ka2/2018/active",
     "price": "",
     "versions": [
         {
-            "name": "KA+ Active 1.19 Ti-VCT 63 kW (85 CV)",
+            "name": "1.19 Ti-VCT 63 kW (85 CV)",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/ka2/2018/active/estandar/ka-active-12-ti-vct-63-kw-86-cv/datos",
@@ -183,7 +184,7 @@
             ]
         },
         {
-            "name": "KA+ Active 1.50 TDCi 70 kW (95 CV)",
+            "name": "1.50 TDCi 70 kW (95 CV)",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/ka2/2018/active/estandar/ka-active-15-tdci-70-kw-95-cv/datos",

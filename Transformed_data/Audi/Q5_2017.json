@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "Q5",
     "year": "2017",
     "url": "https://www.km77.com/coches/audi/q5/2017/estandar",
     "price": "Desde 63.910 €",
     "versions": [
         {
-            "name": "Q5 2.0 TDI 110 kW (150 CV)",
+            "name": "2.0 TDI 110 kW (150 CV)",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/q5/2017/estandar/estandar/q5-20-tdi-150-cv/datos",
@@ -343,7 +344,7 @@
             ]
         },
         {
-            "name": "Q5 35 TDI S tronic",
+            "name": "35 TDI S tronic",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/audi/q5/2017/estandar/estandar/q5-35-tdi-s-tronic/datos",
@@ -665,7 +666,7 @@
             ]
         },
         {
-            "name": "Q5 2.0 TDI 120 kW (163 CV) quattro-ultra S tronic 7 vel.",
+            "name": "2.0 TDI 120 kW (163 CV) quattro-ultra S tronic 7 vel.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/q5/2017/estandar/estandar/q5-20-tdi-163-cv-quattro-ultra-s-tronic-7-vel/datos",
@@ -1007,7 +1008,7 @@
             ]
         },
         {
-            "name": "Q5 35 TDI quattro-ultra S tronic",
+            "name": "35 TDI quattro-ultra S tronic",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/audi/q5/2017/estandar/estandar/q5-35-tdi-quattro-ultra-s-tronic-7-vel/datos",
@@ -1323,7 +1324,7 @@
             ]
         },
         {
-            "name": "Q5 2.0 TDI 140 kW (190 CV) quattro-ultra S tronic 7 vel.",
+            "name": "2.0 TDI 140 kW (190 CV) quattro-ultra S tronic 7 vel.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/q5/2017/estandar/estandar/q5-20-tdi-190-cv-quattro-ultra-s-tronic-7-vel/datos",
@@ -1665,7 +1666,7 @@
             ]
         },
         {
-            "name": "Q5 40 TDI quattro-ultra S tronic",
+            "name": "40 TDI quattro-ultra S tronic",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/audi/q5/2017/estandar/estandar/q5-40-tdi-quattro-ultra-s-tronic-7-vel/datos",
@@ -2017,7 +2018,7 @@
             ]
         },
         {
-            "name": "Q5 40 TDI quattro-ultra S tronic",
+            "name": "40 TDI quattro-ultra S tronic",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/audi/q5/2017/estandar/estandar/q5-40-tdi-quattro-ultra-s-tronic/datos",
@@ -2342,7 +2343,7 @@
             ]
         },
         {
-            "name": "Q5 2.0 TFSI 185 kW (252 CV) quattro-ultra S tronic 7 vel.",
+            "name": "2.0 TFSI 185 kW (252 CV) quattro-ultra S tronic 7 vel.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/q5/2017/estandar/estandar/q5-20-tfsi-252-cv-quattro-ultra-s-tronic-7-vel/datos",
@@ -2681,7 +2682,7 @@
             ]
         },
         {
-            "name": "Q5 45 TFSI quattro-ultra S tronic",
+            "name": "45 TFSI quattro-ultra S tronic",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/audi/q5/2017/estandar/estandar/q5-45-tfsi-quattro-ultra-s-tronic-7-vel/datos",
@@ -2997,7 +2998,7 @@
             ]
         },
         {
-            "name": "Q5 Advanced 50 TFSIe quattro-ultra S tronic",
+            "name": "Advanced 50 TFSIe quattro-ultra S tronic",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/audi/q5/2017/estandar/tfsi-e/q5-advanced-50-tfsie-quattro-ultra-s-tronic/datos",
@@ -3331,7 +3332,7 @@
             ]
         },
         {
-            "name": "Q5 45 TDI quattro tiptronic",
+            "name": "45 TDI quattro tiptronic",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/audi/q5/2017/estandar/estandar/q5-45-tdi-quattro-tiptronic-8-vel/datos",
@@ -3682,7 +3683,7 @@
             ]
         },
         {
-            "name": "Q5 3.0 TDI 210 kW (286 CV) quattro tiptronic 8 vel.",
+            "name": "3.0 TDI 210 kW (286 CV) quattro tiptronic 8 vel.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/q5/2017/estandar/estandar/q5-30-tdi-210-kw-286-cv-quattro-tiptronic-8-vel/datos",
@@ -4025,7 +4026,7 @@
             ]
         },
         {
-            "name": "Q5 55 TFSIe quattro-ultra S tronic",
+            "name": "55 TFSIe quattro-ultra S tronic",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/audi/q5/2017/estandar/tfsi-e/q5-tfsi-e/datos",
@@ -4351,7 +4352,7 @@
             ]
         },
         {
-            "name": "Q5 S line 55 TFSIe quattro-ultra S tronic",
+            "name": "S line 55 TFSIe quattro-ultra S tronic",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/audi/q5/2017/estandar/tfsi-e/q5-competition-55-tfsie-quattro-ultra-s-tronic/datos",
@@ -4683,7 +4684,7 @@
             ]
         },
         {
-            "name": "Q5 50 TDI quattro tiptronic",
+            "name": "50 TDI quattro tiptronic",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/audi/q5/2017/estandar/estandar/q5-50-tdi-quattro-tiptronic/datos",
@@ -4999,7 +5000,7 @@
             ]
         },
         {
-            "name": "SQ5 TDI quattro tiptronic",
+            "name": "S TDI quattro tiptronic",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/audi/q5/2017/estandar/sq5/sq5-30-tdi-quattro-tiptronic-255-kw-347-cv/datos",
@@ -5324,7 +5325,7 @@
             ]
         },
         {
-            "name": "SQ5 3.0 TFSI 260 kW (354 CV) quattro tiptronic 8 vel.",
+            "name": "S 3.0 TFSI 260 kW (354 CV) quattro tiptronic 8 vel.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/q5/2017/estandar/sq5/sq5-30-tfsi-quattro-tiptronic/datos",

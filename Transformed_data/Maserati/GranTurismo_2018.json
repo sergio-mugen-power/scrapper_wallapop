@@ -1,11 +1,12 @@
 {
+    "brand": "Maserati",
     "name": "GranTurismo",
     "year": "2018",
     "url": "https://www.km77.com/coches/maserati/granturismo/2018/estandar",
     "price": "Desde 200.900 €",
     "versions": [
         {
-            "name": "GranTurismo Sport",
+            "name": "Sport",
             "start_year": "2017",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/maserati/granturismo/2018/estandar/sport/granturismo-sport/datos",
@@ -241,7 +242,7 @@
             ]
         },
         {
-            "name": "GranTurismo MC",
+            "name": "MC",
             "start_year": "2017",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/maserati/granturismo/2018/estandar/mc/granturismo-mc/datos",

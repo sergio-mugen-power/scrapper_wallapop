@@ -1,11 +1,12 @@
 {
+    "brand": "Toyota",
     "name": "GT86",
     "year": "2017",
     "url": "https://www.km77.com/coches/toyota/gt-86/2017/estandar",
     "price": "",
     "versions": [
         {
-            "name": "GT86 Sport",
+            "name": "Sport",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/toyota/gt-86/2017/estandar/sport/gt86-sport/datos",
@@ -210,7 +211,7 @@
             ]
         },
         {
-            "name": "GT86 Sport",
+            "name": "Sport",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/toyota/gt-86/2017/estandar/sport/gt86-2017/datos",
@@ -408,7 +409,7 @@
             ]
         },
         {
-            "name": "GT86 Sport Aut.",
+            "name": "Sport Aut.",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/toyota/gt-86/2017/estandar/sport/gt86-sport-aut2/datos",
@@ -614,7 +615,7 @@
             ]
         },
         {
-            "name": "GT86 Sport Aut.",
+            "name": "Sport Aut.",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/toyota/gt-86/2017/estandar/sport/gt86-sport-aut/datos",

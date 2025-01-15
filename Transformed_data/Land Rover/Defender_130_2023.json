@@ -1,11 +1,12 @@
 {
+    "brand": "Land Rover",
     "name": "Defender 130",
     "year": "2023",
     "url": "https://www.km77.com/coches/land-rover/defender/2023/130",
     "price": "",
     "versions": [
         {
-            "name": "Defender 130 D250 AWD Auto MHEV SE",
+            "name": "D250 AWD Auto MHEV SE",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/land-rover/defender/2023/130/estandar/defender-130-d250-mhev/datos",
@@ -16,7 +17,7 @@
             "maletero": "588"
         },
         {
-            "name": "Defender 130 D250 AWD Auto MHEV X-Dynamic SE",
+            "name": "D250 AWD Auto MHEV X-Dynamic SE",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/land-rover/defender/2023/130/estandar/defender-130-d250-awd-auto-mhev-x-dynamic-se/datos",
@@ -27,7 +28,7 @@
             "maletero": "588"
         },
         {
-            "name": "Defender 130 P400 AWD Auto MHEV SE",
+            "name": "P400 AWD Auto MHEV SE",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/land-rover/defender/2023/130/estandar/defender-130-p400-mhev/datos",
@@ -38,7 +39,7 @@
             "maletero": "588"
         },
         {
-            "name": "Defender 130 D250 AWD Auto MHEV X-Dynamic HSE",
+            "name": "D250 AWD Auto MHEV X-Dynamic HSE",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/land-rover/defender/2023/130/estandar/defender-130-d250-awd-auto-mhev-x-dynamic-hse/datos",
@@ -49,7 +50,7 @@
             "maletero": "588"
         },
         {
-            "name": "Defender 130 P400 AWD Auto MHEV X-Dynamic SE",
+            "name": "P400 AWD Auto MHEV X-Dynamic SE",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/land-rover/defender/2023/130/estandar/defender-130-p400-awd-auto-mhev-x-dynamic-se/datos",
@@ -60,7 +61,7 @@
             "maletero": "588"
         },
         {
-            "name": "Defender 130 P400 AWD Auto MHEV Outbound",
+            "name": "P400 AWD Auto MHEV Outbound",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/land-rover/defender/2023/130/estandar/defender-130-p400-awd-auto-mhev-outbound/datos",
@@ -71,7 +72,7 @@
             "maletero": "588"
         },
         {
-            "name": "Defender 130 P400 AWD Auto MHEV First Edition",
+            "name": "P400 AWD Auto MHEV First Edition",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/land-rover/defender/2023/130/estandar/defender-130-p400-awd-auto-mhev-first-edition/datos",
@@ -82,7 +83,7 @@
             "maletero": "588"
         },
         {
-            "name": "Defender 130 P400 AWD Auto MHEV X-Dynamic HSE",
+            "name": "P400 AWD Auto MHEV X-Dynamic HSE",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/land-rover/defender/2023/130/estandar/defender-130-p400-awd-auto-mhev-x-dynamic-hse/datos",
@@ -93,7 +94,7 @@
             "maletero": "588"
         },
         {
-            "name": "Defender 130 P400 AWD Auto MHEV X",
+            "name": "P400 AWD Auto MHEV X",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/land-rover/defender/2023/130/estandar/defender-130-p400-awd-auto-mhev-x/datos",
@@ -104,7 +105,7 @@
             "maletero": "588"
         },
         {
-            "name": "Defender 130 V8 P500 AWD Auto",
+            "name": "V8 P500 AWD Auto",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/land-rover/defender/2023/130/estandar/defender-130-v8-p500-awd-auto/datos",

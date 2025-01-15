@@ -1,11 +1,12 @@
 {
+    "brand": "Volvo",
     "name": "XC40",
     "year": "2022",
     "url": "https://www.km77.com/coches/volvo/xc40/2022/estandar",
     "price": "",
     "versions": [
         {
-            "name": "XC40 Essential B3 (03/2024 - )",
+            "name": "Essential B3 (03/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/xc40/2022/estandar/estandar/xc40-essential-b3/datos",
@@ -28,7 +29,7 @@
             ]
         },
         {
-            "name": "XC40 Core B3 (03/2022 - )",
+            "name": "Core B3 (03/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/xc40/2022/estandar/estandar/xc40-b3-core-aut/datos",
@@ -51,7 +52,7 @@
             ]
         },
         {
-            "name": "XC40 Core B4 (11/2022 - )",
+            "name": "Core B4 (11/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/xc40/2022/estandar/estandar/xc40-b4-core-automatico/datos",
@@ -74,7 +75,7 @@
             ]
         },
         {
-            "name": "XC40 Plus B3 (03/2022 - )",
+            "name": "Plus B3 (03/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/xc40/2022/estandar/estandar/xc40-b3-plus-aut/datos",
@@ -97,7 +98,7 @@
             ]
         },
         {
-            "name": "XC40 Plus B4 (11/2022 - )",
+            "name": "Plus B4 (11/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/xc40/2022/estandar/estandar/xc40-b4-plus-automatico/datos",
@@ -120,7 +121,7 @@
             ]
         },
         {
-            "name": "XC40 Ultra B3 (03/2024 - )",
+            "name": "Ultra B3 (03/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/xc40/2022/estandar/estandar/xc40-ultra-b3/datos",
@@ -143,7 +144,7 @@
             ]
         },
         {
-            "name": "XC40 Ultra B4 (03/2024 - )",
+            "name": "Ultra B4 (03/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/xc40/2022/estandar/estandar/xc40-ultra-b4/datos",

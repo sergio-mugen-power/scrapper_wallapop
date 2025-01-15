@@ -1,11 +1,12 @@
 {
+    "brand": "Lexus",
     "name": "IS",
     "year": "2011",
     "url": "https://www.km77.com/coches/lexus/is/2011/estandar",
     "price": "",
     "versions": [
         {
-            "name": "IS 200d Premium",
+            "name": "200d Premium",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/lexus/is/2011/estandar/premium/is-200d-premium/datos",
@@ -180,7 +181,7 @@
             ]
         },
         {
-            "name": "IS 200d Premium",
+            "name": "200d Premium",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/lexus/is/2011/estandar/premium/is-200d-premium2/datos",
@@ -355,7 +356,7 @@
             ]
         },
         {
-            "name": "IS 200d Luxury",
+            "name": "200d Luxury",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/lexus/is/2011/estandar/luxury/is-200d-luxury/datos",
@@ -536,7 +537,7 @@
             ]
         },
         {
-            "name": "IS 200d Luxury",
+            "name": "200d Luxury",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/lexus/is/2011/estandar/luxury/is-200d-luxury2/datos",
@@ -717,7 +718,7 @@
             ]
         },
         {
-            "name": "IS 200d F-Sport",
+            "name": "200d F-Sport",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/lexus/is/2011/estandar/f-sport/is-200d-f-sport/datos",
@@ -903,7 +904,7 @@
             ]
         },
         {
-            "name": "IS 200d F-Sport",
+            "name": "200d F-Sport",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/lexus/is/2011/estandar/f-sport/is-200d-f-sport2/datos",
@@ -1089,7 +1090,7 @@
             ]
         },
         {
-            "name": "IS 250 Premium",
+            "name": "250 Premium",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/lexus/is/2011/estandar/premium/is-250-premium/datos",
@@ -1264,7 +1265,7 @@
             ]
         },
         {
-            "name": "IS 250 Premium",
+            "name": "250 Premium",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/lexus/is/2011/estandar/premium/is-250-premium2/datos",
@@ -1439,7 +1440,7 @@
             ]
         },
         {
-            "name": "IS 250 Luxury",
+            "name": "250 Luxury",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/lexus/is/2011/estandar/luxury/is-250-luxury/datos",
@@ -1621,7 +1622,7 @@
             ]
         },
         {
-            "name": "IS 200d President",
+            "name": "200d President",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/lexus/is/2011/estandar/president/is-200d-president/datos",
@@ -1809,7 +1810,7 @@
             ]
         },
         {
-            "name": "IS 250 Luxury",
+            "name": "250 Luxury",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/lexus/is/2011/estandar/luxury/is-250-luxury2/datos",
@@ -1991,7 +1992,7 @@
             ]
         },
         {
-            "name": "IS 200d President",
+            "name": "200d President",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/lexus/is/2011/estandar/president/is-200d-president2/datos",
@@ -2179,7 +2180,7 @@
             ]
         },
         {
-            "name": "IS 250 F-Sport",
+            "name": "250 F-Sport",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/lexus/is/2011/estandar/f-sport/is-250-f-sport/datos",
@@ -2366,7 +2367,7 @@
             ]
         },
         {
-            "name": "IS 250 F-Sport",
+            "name": "250 F-Sport",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/lexus/is/2011/estandar/f-sport/is-250-f-sport2/datos",
@@ -2553,7 +2554,7 @@
             ]
         },
         {
-            "name": "IS 250 President",
+            "name": "250 President",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/lexus/is/2011/estandar/president/is-250-president/datos",
@@ -2746,7 +2747,7 @@
             ]
         },
         {
-            "name": "IS 250 President",
+            "name": "250 President",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/lexus/is/2011/estandar/president/is-250-president2/datos",
@@ -2939,7 +2940,7 @@
             ]
         },
         {
-            "name": "IS F",
+            "name": "F",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/lexus/is/2011/estandar/f/is-f/datos",

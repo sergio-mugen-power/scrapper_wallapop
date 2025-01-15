@@ -1,11 +1,12 @@
 {
+    "brand": "Porsche",
     "name": "911 Targa",
     "year": "2020",
     "url": "https://www.km77.com/coches/porsche/911/2020/targa",
     "price": "Desde 223.486 €",
     "versions": [
         {
-            "name": "911 Targa 4 PDK",
+            "name": "4 PDK",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/porsche/911/2020/targa/targa-4/911-targa-42/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "911 Targa 4S",
+            "name": "4S",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/porsche/911/2020/targa/targa-4s/911-targa-4s/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "911 Targa 4S PDK",
+            "name": "4S PDK",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/porsche/911/2020/targa/targa-4s/911-targa-4s-pdk/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "911 Targa 4 GTS",
+            "name": "4 GTS",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/porsche/911/2020/targa/gts/911-targa-4-gts/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "911 Targa 4 GTS PDK",
+            "name": "4 GTS PDK",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/porsche/911/2020/targa/gts/911-targa-4-gts-pdk/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "911 Targa 4S Heritage Design PDK",
+            "name": "4S Heritage Design PDK",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/porsche/911/2020/targa/targa-4s-heritage-design/911-targa-4s-heritage-design-pdk/datos",

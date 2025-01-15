@@ -1,11 +1,12 @@
 {
+    "brand": "Citroën",
     "name": "Berlingo Talla XL",
     "year": "2019",
     "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl",
     "price": "Desde 24.953 €",
     "versions": [
         {
-            "name": "Berlingo Talla XL PureTech 110 S&S Live",
+            "name": "PureTech 110 S&S Live",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/live/berlingo-talla-xl-puretech-110-ss-live/datos",
@@ -176,7 +177,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 100 Live",
+            "name": "BlueHDi 100 Live",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/live/berlingo-talla-xl-bluehdi-100-live/datos",
@@ -344,7 +345,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL PureTech 110 S&S Live 7 plazas",
+            "name": "PureTech 110 S&S Live 7 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/live/berlingo-talla-xl-puretech-110-ss-live-7-plazas/datos",
@@ -517,7 +518,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 100 Live 7 plazas",
+            "name": "BlueHDi 100 Live 7 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/live/berlingo-talla-xl-bluehdi-100-live-7-plazas/datos",
@@ -689,7 +690,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 100 S&S Live",
+            "name": "BlueHDi 100 S&S Live",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/live/berlingo-talla-xl-bluehdi-100-ss-live/datos",
@@ -860,7 +861,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 100 Feel",
+            "name": "BlueHDi 100 Feel",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/feel/berlingo-talla-xl-bluehdi-100-feel/datos",
@@ -1049,7 +1050,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 100 S&S Live 7 plazas",
+            "name": "BlueHDi 100 S&S Live 7 plazas",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/live/berlingo-talla-xl-bluehdi-100-ss-live-7-plazas/datos",
@@ -1224,7 +1225,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 100 Feel 7 plazas",
+            "name": "BlueHDi 100 Feel 7 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/feel/berlingo-talla-xl-bluehdi-100-feel-7-plazas/datos",
@@ -1419,7 +1420,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 100 S&S Feel",
+            "name": "BlueHDi 100 S&S Feel",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/feel/berlingo-talla-xl-bluehdi-100-ss-feel/datos",
@@ -1608,7 +1609,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL PureTech 110 S&S Feel",
+            "name": "PureTech 110 S&S Feel",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/feel/berlingo-talla-xl-puretech-110-ss-feel/datos",
@@ -1797,7 +1798,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 100 S&S Feel 7 plazas",
+            "name": "BlueHDi 100 S&S Feel 7 plazas",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/feel/berlingo-talla-xl-bluehdi-100-ss-feel-7-plazas/datos",
@@ -1990,7 +1991,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL PureTech 110 S&S Shine",
+            "name": "PureTech 110 S&S Shine",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/shine/berlingo-talla-xl-puretech-110-ss-shine/datos",
@@ -2205,7 +2206,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL PureTech 110 S&S Feel 7 plazas",
+            "name": "PureTech 110 S&S Feel 7 plazas",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/feel/berlingo-talla-xl-puretech-110-ss-feel-7-plazas/datos",
@@ -2397,7 +2398,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL PureTech 110 S&S Shine 7 plazas",
+            "name": "PureTech 110 S&S Shine 7 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/shine/berlingo-talla-xl-puretech-110-ss-shine-7-plazas/datos",
@@ -2615,7 +2616,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 100 Shine",
+            "name": "BlueHDi 100 Shine",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/shine/berlingo-talla-xl-bluehdi-100-shine/datos",
@@ -2831,7 +2832,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 130 S&S Feel",
+            "name": "BlueHDi 130 S&S Feel",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/feel/berlingo-talla-xl-bluehdi-130-ss-feel/datos",
@@ -3019,7 +3020,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 100 Shine 7 plazas",
+            "name": "BlueHDi 100 Shine 7 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/shine/berlingo-talla-xl-bluehdi-100-shine-7-plazas/datos",
@@ -3239,7 +3240,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 100 S&S Shine",
+            "name": "BlueHDi 100 S&S Shine",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/shine/berlingo-talla-xl-bluehdi-100-ss-shine/datos",
@@ -3454,7 +3455,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 130 S&S Feel 7 plazas",
+            "name": "BlueHDi 130 S&S Feel 7 plazas",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/feel/berlingo-talla-xl-bluehdi-130-ss-feel-7-plazas/datos",
@@ -3646,7 +3647,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 130 S&S EAT8 Feel",
+            "name": "BlueHDi 130 S&S EAT8 Feel",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/feel/berlingo-talla-xl-bluehdi-130-ss-eat8-feel/datos",
@@ -3843,7 +3844,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 100 S&S Shine 7 plazas",
+            "name": "BlueHDi 100 S&S Shine 7 plazas",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/shine/berlingo-talla-xl-bluehdi-100-ss-shine-7-plazas/datos",
@@ -4061,7 +4062,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 130 S&S EAT8 Feel 7 plazas",
+            "name": "BlueHDi 130 S&S EAT8 Feel 7 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/feel/berlingo-talla-xl-bluehdi-130-ss-eat8-feel-7-plazas/datos",
@@ -4262,7 +4263,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 130 S&S 100 Años",
+            "name": "BlueHDi 130 S&S 100 Años",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/100-anos/berlingo-talla-xl-bluehdi-130-ss-100-anos/datos",
@@ -4443,7 +4444,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 130 S&S Shine",
+            "name": "BlueHDi 130 S&S Shine",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/shine/berlingo-talla-xl-bluehdi-130-ss-shine/datos",
@@ -4657,7 +4658,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 130 S&S 100 Años 7 plazas",
+            "name": "BlueHDi 130 S&S 100 Años 7 plazas",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/100-anos/berlingo-talla-xl-bluehdi-130-ss-100-anos-7-plazas/datos",
@@ -4842,7 +4843,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 130 S&S Shine 7 plazas",
+            "name": "BlueHDi 130 S&S Shine 7 plazas",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/shine/berlingo-talla-xl-bluehdi-130-ss-shine-7-plazas/datos",
@@ -5059,7 +5060,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL PureTech 130 S&S EAT8 Shine",
+            "name": "PureTech 130 S&S EAT8 Shine",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/shine/berlingo-talla-xl-puretech-130-ss-eat8-shine/datos",
@@ -5273,7 +5274,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL PureTech 130 S&S EAT8 Shine 7 plazas",
+            "name": "PureTech 130 S&S EAT8 Shine 7 plazas",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/shine/berlingo-talla-xl-puretech-130-ss-eat8-shine-7-plazas/datos",
@@ -5490,7 +5491,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 130 S&S EAT8 Shine",
+            "name": "BlueHDi 130 S&S EAT8 Shine",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/shine/berlingo-talla-xl-bluehdi-130-ss-eat8-shine/datos",
@@ -5705,7 +5706,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 130 S&S EAT8 Shine 7 plazas",
+            "name": "BlueHDi 130 S&S EAT8 Shine 7 plazas",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/shine/berlingo-talla-xl-bluehdi-130-ss-eat8-shine-7-plazas/datos",
@@ -5923,7 +5924,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 100 S&S Live Pack",
+            "name": "BlueHDi 100 S&S Live Pack",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/estandar/berlingo-talla-xl-bluehdi-100-ss-live-pack/datos",
@@ -6101,7 +6102,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 100 S&S Feel",
+            "name": "BlueHDi 100 S&S Feel",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/estandar/berlingo-talla-xl-bluehdi-100-ss-feel2/datos",
@@ -6292,7 +6293,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 130 S&S Shine",
+            "name": "BlueHDi 130 S&S Shine",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/estandar/berlingo-talla-xl-bluehdi-130-ss-shine2/datos",
@@ -6509,7 +6510,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 130 S&S Feel Pack",
+            "name": "BlueHDi 130 S&S Feel Pack",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/estandar/berlingo-talla-xl-bluehdi-130-ss-feel-pack/datos",
@@ -6720,7 +6721,7 @@
             ]
         },
         {
-            "name": "Berlingo Talla XL BlueHDi 130 S&S Shine 7 plazas",
+            "name": "BlueHDi 130 S&S Shine 7 plazas",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/estandar/berlingo-talla-xl-bluehdi-130-ss-shine-7-plazas2/datos",
@@ -6940,7 +6941,7 @@
             ]
         },
         {
-            "name": "ë-Berlingo Talla XL Eléctrico 50 kWh Live Pack",
+            "name": "ë- Eléctrico 50 kWh Live Pack",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/e/e-berlingo-talla-xl-electrico-50-kwh-live-pack/datos",
@@ -7124,7 +7125,7 @@
             ]
         },
         {
-            "name": "ë-Berlingo Talla XL Eléctrico 50 kWh Feel",
+            "name": "ë- Eléctrico 50 kWh Feel",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/e/e-berlingo-talla-xl-electrico-50-kwh-feel-pack/datos",
@@ -7320,7 +7321,7 @@
             ]
         },
         {
-            "name": "ë-Berlingo Talla XL Eléctrico 50 kWh Shine",
+            "name": "ë- Eléctrico 50 kWh Shine",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/citroen/berlingo/2019/talla-xl/e/e-berlingo-talla-xl-electrico-50-kwh-shine/datos",

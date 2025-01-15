@@ -1,11 +1,12 @@
 {
+    "brand": "Maserati",
     "name": "Ghibli",
     "year": "2013",
     "url": "https://www.km77.com/coches/maserati/ghibli/2013/estandar",
     "price": "Desde 82.700 €",
     "versions": [
         {
-            "name": "Ghibli Diesel",
+            "name": "Diesel",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/maserati/ghibli/2013/estandar/estandar/ghibli-diesel/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "Ghibli",
+            "name": "",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/maserati/ghibli/2013/estandar/estandar/ghibli/datos",
@@ -504,7 +505,7 @@
             ]
         },
         {
-            "name": "Ghibli S",
+            "name": "S",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/maserati/ghibli/2013/estandar/s/ghibli-s/datos",
@@ -753,7 +754,7 @@
             ]
         },
         {
-            "name": "Ghibli S Q4",
+            "name": "S Q4",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/maserati/ghibli/2013/estandar/s/ghibli-s-q4/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Volvo",
     "name": "EX30",
     "year": "2023",
     "url": "https://www.km77.com/coches/volvo/ex30/2023/estandar",
     "price": "Desde 39.050 €",
     "versions": [
         {
-            "name": "EX30 Core Single Motor (06/2023 - )",
+            "name": "Core Single Motor (06/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/ex30/2023/estandar/estandar/ex30-single-motor/datos",
@@ -107,7 +108,7 @@
             ]
         },
         {
-            "name": "EX30 Plus Single Motor (06/2023 - )",
+            "name": "Plus Single Motor (06/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/ex30/2023/estandar/estandar/ex30-plus-single-motor/datos",
@@ -209,7 +210,7 @@
             ]
         },
         {
-            "name": "EX30 Core Single Motor Extended Range (06/2023 - )",
+            "name": "Core Single Motor Extended Range (06/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/ex30/2023/estandar/estandar/ex30-single-motor-extended-range/datos",
@@ -312,7 +313,7 @@
             ]
         },
         {
-            "name": "EX30 Plus Single Motor Extended Range (06/2023 - )",
+            "name": "Plus Single Motor Extended Range (06/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/ex30/2023/estandar/estandar/ex30-plus-single-motor-extended-range/datos",
@@ -413,7 +414,7 @@
             ]
         },
         {
-            "name": "EX30 Plus Twin Motor Performance (06/2023 - )",
+            "name": "Plus Twin Motor Performance (06/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/ex30/2023/estandar/estandar/ex30-twin-motor-performance/datos",
@@ -523,7 +524,7 @@
             ]
         },
         {
-            "name": "EX30 Ultra Single Motor Extended Range (06/2023 - )",
+            "name": "Ultra Single Motor Extended Range (06/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/ex30/2023/estandar/estandar/ex30-ultra-single-motor-extended-range/datos",
@@ -624,7 +625,7 @@
             ]
         },
         {
-            "name": "EX30 Ultra Twin Motor Performance (06/2023 - )",
+            "name": "Ultra Twin Motor Performance (06/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/ex30/2023/estandar/estandar/ex30-ultra-twin-motor-performance/datos",

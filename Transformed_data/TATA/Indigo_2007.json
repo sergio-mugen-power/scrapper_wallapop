@@ -1,11 +1,12 @@
 {
+    "brand": "TATA",
     "name": "Indigo",
     "year": "2007",
     "url": "https://www.km77.com/coches/tata/indigo/2007/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Indigo SW MPFi GLX",
+            "name": "SW MPFi GLX",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/tata/indigo/2007/estandar/glx/indigo-sw-mpfi-glx/datos",
@@ -172,7 +173,7 @@
             ]
         },
         {
-            "name": "Indigo MPFi LX",
+            "name": "MPFi LX",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/tata/indigo/2007/estandar/lx/indigo-mpfi-lx/datos",
@@ -339,7 +340,7 @@
             ]
         },
         {
-            "name": "Indigo SW Dicor DLX",
+            "name": "SW Dicor DLX",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/tata/indigo/2007/estandar/dlx/indigo-sw-dicor-dlx/datos",
@@ -506,7 +507,7 @@
             ]
         },
         {
-            "name": "Indigo Dicor LX",
+            "name": "Dicor LX",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/tata/indigo/2007/estandar/lx/indigo-dicor-lx/datos",
@@ -673,7 +674,7 @@
             ]
         },
         {
-            "name": "Indigo MPFi GLX",
+            "name": "MPFi GLX",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/tata/indigo/2007/estandar/glx/indigo-mpfi-glx/datos",
@@ -839,7 +840,7 @@
             ]
         },
         {
-            "name": "Indigo Dicor GLX",
+            "name": "Dicor GLX",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/tata/indigo/2007/estandar/glx/indigo-dicor-glx/datos",

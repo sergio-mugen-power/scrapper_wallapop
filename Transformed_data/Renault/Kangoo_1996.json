@@ -1,11 +1,12 @@
 {
+    "brand": "Renault",
     "name": "Kangoo",
     "year": "1996",
     "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar",
     "price": "Desde 28.588 €",
     "versions": [
         {
-            "name": "Kangoo 1.2 RTE",
+            "name": "1.2 RTE",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/rte/kangoo-12-rte/datos",
@@ -129,7 +130,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.2 Expression",
+            "name": "1.2 Expression",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/expression/kangoo-12-expression/datos",
@@ -258,7 +259,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.2 Expression Oasis",
+            "name": "1.2 Expression Oasis",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/expression-oasis/kangoo-12-expression-oasis/datos",
@@ -388,7 +389,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.9 D 55 CV Authentique",
+            "name": "1.9 D 55 CV Authentique",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/authentique/kangoo-19-d-55-cv-authentique/datos",
@@ -515,7 +516,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.4 RXE",
+            "name": "1.4 RXE",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/rxe/kangoo-14-rxe/datos",
@@ -644,7 +645,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.9D 65 RTE",
+            "name": "1.9D 65 RTE",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/rte/kangoo-19d-65-rte/datos",
@@ -770,7 +771,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.2 16v Expression Oasis",
+            "name": "1.2 16v Expression Oasis",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/expression-oasis/kangoo-12-16v-expression-oasis/datos",
@@ -902,7 +903,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.9 D 65 CV Authentique",
+            "name": "1.9 D 65 CV Authentique",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/authentique/kangoo-19-d-65-cv-authentique/datos",
@@ -1033,7 +1034,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.4 Pampa",
+            "name": "1.4 Pampa",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/pampa/kangoo-14-pampa/datos",
@@ -1165,7 +1166,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.6 16v Expression Oasis",
+            "name": "1.6 16v Expression Oasis",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/expression-oasis/kangoo-16-16v-expression-oasis/datos",
@@ -1296,7 +1297,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.5 dCi 65 CV Authentique",
+            "name": "1.5 dCi 65 CV Authentique",
             "start_year": "2002",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/authentique/kangoo-15-dci-65-cv-authentique/datos",
@@ -1424,7 +1425,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.9 D 65 CV Authentique Oasis",
+            "name": "1.9 D 65 CV Authentique Oasis",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/authentique-oasis/kangoo-19-d-65-cv-authentique-oasis/datos",
@@ -1555,7 +1556,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.9D 65CV Decathlon",
+            "name": "1.9D 65CV Decathlon",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/decathlon/kangoo-19d-65cv-decathlon/datos",
@@ -1683,7 +1684,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.9 dTi 80 CV Authentique",
+            "name": "1.9 dTi 80 CV Authentique",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/authentique/kangoo-19-dti-80-cv-authentique/datos",
@@ -1815,7 +1816,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.5 dCi 65 cv Authentique Oasis",
+            "name": "1.5 dCi 65 cv Authentique Oasis",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/authentique-oasis/kangoo-15-dci-65-cv-authentique-oasis/datos",
@@ -1943,7 +1944,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.9 D 65 CV Expression",
+            "name": "1.9 D 65 CV Expression",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/expression/kangoo-19-d-65-cv-expression/datos",
@@ -2074,7 +2075,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.9 dTi Oasis",
+            "name": "1.9 dTi Oasis",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/oasis/kangoo-19-dti-oasis/datos",
@@ -2204,7 +2205,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.9D 65 Alizé",
+            "name": "1.9D 65 Alizé",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/alize/kangoo-19d-65-alize/datos",
@@ -2332,7 +2333,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.2 16V Privilege",
+            "name": "1.2 16V Privilege",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/privilege/kangoo-12-16v-privilege/datos",
@@ -2466,7 +2467,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.5 dCi 65 CV Expression",
+            "name": "1.5 dCi 65 CV Expression",
             "start_year": "2002",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/expression/kangoo-15-dci-65-cv-expression/datos",
@@ -2595,7 +2596,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.9 D 65 CV Alizé",
+            "name": "1.9 D 65 CV Alizé",
             "start_year": "2002",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/alize/kangoo-19-d-65-cv-alize/datos",
@@ -2726,7 +2727,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.6 16v Privilege",
+            "name": "1.6 16v Privilege",
             "start_year": "2002",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/privilege/kangoo-16-16v-privilege/datos",
@@ -2857,7 +2858,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.5 dCi 80 CV Authentique",
+            "name": "1.5 dCi 80 CV Authentique",
             "start_year": "2002",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/authentique/kangoo-15-dci-80-cv-authentique/datos",
@@ -2987,7 +2988,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.9 dTi 80 CV Expression",
+            "name": "1.9 dTi 80 CV Expression",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/expression/kangoo-19-dti-80-cv-expression/datos",
@@ -3119,7 +3120,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.5 dCi 65 cv Expression Oasis",
+            "name": "1.5 dCi 65 cv Expression Oasis",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/expression-oasis/kangoo-15-dci-65-cv-expression-oasis/datos",
@@ -3249,7 +3250,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.5 dCi 80 cv Authentique Oasis",
+            "name": "1.5 dCi 80 cv Authentique Oasis",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/authentique-oasis/kangoo-15-dci-80-cv-authentique-oasis/datos",
@@ -3379,7 +3380,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.9 dTi RXE",
+            "name": "1.9 dTi RXE",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/rxe/kangoo-19-dti-rxe/datos",
@@ -3509,7 +3510,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.5 dCi 80 CV Expression",
+            "name": "1.5 dCi 80 CV Expression",
             "start_year": "2002",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/expression/kangoo-15-dci-80-cv-expression/datos",
@@ -3640,7 +3641,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.9 dTi Alizé",
+            "name": "1.9 dTi Alizé",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/alize/kangoo-19-dti-alize/datos",
@@ -3770,7 +3771,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.9 D 65 CV Privilege",
+            "name": "1.9 D 65 CV Privilege",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/privilege/kangoo-19-d-65-cv-privilege/datos",
@@ -3904,7 +3905,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.9 dTi 80 CV Alizé",
+            "name": "1.9 dTi 80 CV Alizé",
             "start_year": "2002",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/alize/kangoo-19-dti-80-cv-alize/datos",
@@ -4036,7 +4037,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.5 dCi 80 cv Expression Oasis",
+            "name": "1.5 dCi 80 cv Expression Oasis",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/expression-oasis/kangoo-15-dci-80-cv-expression-oasis/datos",
@@ -4168,7 +4169,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.5 dCi 65 CV Privilege",
+            "name": "1.5 dCi 65 CV Privilege",
             "start_year": "2002",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/privilege/kangoo-15-dci-65-cv-privilege/datos",
@@ -4297,7 +4298,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.9 dTi Pampa",
+            "name": "1.9 dTi Pampa",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/pampa/kangoo-19-dti-pampa/datos",
@@ -4429,7 +4430,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.9 dTi 80 CV Privilege",
+            "name": "1.9 dTi 80 CV Privilege",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/privilege/kangoo-19-dti-80-cv-privilege/datos",
@@ -4564,7 +4565,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.6 16v 4x4 Expression",
+            "name": "1.6 16v 4x4 Expression",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/expression/kangoo-16-16v-4x4-expression/datos",
@@ -4696,7 +4697,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.5 dCi 80 CV Privilege",
+            "name": "1.5 dCi 80 CV Privilege",
             "start_year": "2002",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/privilege/kangoo-15-dci-80-cv-privilege/datos",
@@ -4829,7 +4830,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.6 16v 4x4 Privilege",
+            "name": "1.6 16v 4x4 Privilege",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/privilege/kangoo-16-16v-4x4-privilege/datos",
@@ -4965,7 +4966,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.9 dCi 4x4 Authentique",
+            "name": "1.9 dCi 4x4 Authentique",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/authentique/kangoo-19-dci-4x4-authentique/datos",
@@ -5094,7 +5095,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.9 dCi 4x4 Expression",
+            "name": "1.9 dCi 4x4 Expression",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/expression/kangoo-19-dci-4x4-expression/datos",
@@ -5223,7 +5224,7 @@
             ]
         },
         {
-            "name": "Kangoo 1.9 dCi 4x4 Privilege",
+            "name": "1.9 dCi 4x4 Privilege",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/renault/kangoo/1996/estandar/privilege/kangoo-19-dci-4x4-privilege/datos",

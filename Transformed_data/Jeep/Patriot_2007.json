@@ -1,11 +1,12 @@
 {
+    "brand": "Jeep",
     "name": "Patriot",
     "year": "2007",
     "url": "https://www.km77.com/coches/jeep/patriot/2007/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Patriot Sport 2.0 CRD",
+            "name": "Sport 2.0 CRD",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/jeep/patriot/2007/estandar/sport/patriot-sport-20-crd/datos",
@@ -178,7 +179,7 @@
             ]
         },
         {
-            "name": "Patriot 2.0 CRD Sport",
+            "name": "2.0 CRD Sport",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/jeep/patriot/2007/estandar/sport/patriot-20-crd-sport/datos",
@@ -349,7 +350,7 @@
             ]
         },
         {
-            "name": "Patriot 2.0 CRD Limited",
+            "name": "2.0 CRD Limited",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/jeep/patriot/2007/estandar/limited/patriot-20-crd-limited/datos",
@@ -527,7 +528,7 @@
             ]
         },
         {
-            "name": "Patriot Limited 2.0 CRD",
+            "name": "Limited 2.0 CRD",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/jeep/patriot/2007/estandar/limited/patriot-limited-20-crd/datos",

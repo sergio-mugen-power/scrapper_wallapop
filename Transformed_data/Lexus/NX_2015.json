@@ -1,11 +1,12 @@
 {
+    "brand": "Lexus",
     "name": "NX",
     "year": "2015",
     "url": "https://www.km77.com/coches/lexus/nx/2015/estandar",
     "price": "Desde 51.200 €",
     "versions": [
         {
-            "name": "NX 300h ECO 2WD",
+            "name": "300h ECO 2WD",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/lexus/nx/2015/estandar/eco/nx-300h-eco-2wd/datos",
@@ -218,7 +219,7 @@
             ]
         },
         {
-            "name": "NX 300h Corporate 2WD",
+            "name": "300h Corporate 2WD",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/lexus/nx/2015/estandar/corporate/nx-300h-4x2-corporate/datos",
@@ -441,7 +442,7 @@
             ]
         },
         {
-            "name": "NX 300h Business 2WD",
+            "name": "300h Business 2WD",
             "start_year": "2017",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/lexus/nx/2015/estandar/business/nx-300h-business-2wd/datos",
@@ -657,7 +658,7 @@
             ]
         },
         {
-            "name": "NX 300h Sport Edition 2WD",
+            "name": "300h Sport Edition 2WD",
             "start_year": "2017",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/lexus/nx/2015/estandar/sport-edition/nx-300h-sport-edition-2wd/datos",
@@ -879,7 +880,7 @@
             ]
         },
         {
-            "name": "NX 300h Executive 4WD",
+            "name": "300h Executive 4WD",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/lexus/nx/2015/estandar/executive/nx-300h-4x4-executive/datos",
@@ -1111,7 +1112,7 @@
             ]
         },
         {
-            "name": "NX 300h F SPORT 4WD",
+            "name": "300h F SPORT 4WD",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/lexus/nx/2015/estandar/f-sport/nx-300h-4x4-sport/datos",
@@ -1358,7 +1359,7 @@
             ]
         },
         {
-            "name": "NX 300h Luxury 4WD",
+            "name": "300h Luxury 4WD",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/lexus/nx/2015/estandar/luxury/nx-300h-4x4-luxury/datos",

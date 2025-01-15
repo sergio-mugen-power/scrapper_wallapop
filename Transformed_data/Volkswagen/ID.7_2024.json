@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "ID.7",
     "year": "2024",
     "url": "https://www.km77.com/coches/volkswagen/id7/2024/estandar",
     "price": "Desde 50.965 €",
     "versions": [
         {
-            "name": "ID.7 Pro 210 kW (286 CV) 77 kWh (09/2023 - )",
+            "name": "Pro 210 kW (286 CV) 77 kWh (09/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/id7/2024/estandar/estandar/id7-pro/datos",
@@ -35,7 +36,7 @@
             ]
         },
         {
-            "name": "ID.7 Pro Más 210 kW (286 CV) 77 kWh (04/2024 - )",
+            "name": "Pro Más 210 kW (286 CV) 77 kWh (04/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/id7/2024/estandar/estandar/id7-pro-mas-210-kw-286-cv-77-kwh/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "ID.7 Pro S 210 kW (286 CV) 86 kWh (09/2024 - )",
+            "name": "Pro S 210 kW (286 CV) 86 kWh (09/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/id7/2024/estandar/estandar/id7-pro-s/datos",
@@ -95,7 +96,7 @@
             ]
         },
         {
-            "name": "ID.7 GTX 250 kW (340 CV) 86 kWh (09/2024 - )",
+            "name": "GTX 250 kW (340 CV) 86 kWh (09/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/id7/2024/estandar/gtx/id7-gtx/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Alfa Romeo",
     "name": "MiTo",
     "year": "2008",
     "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar",
     "price": "",
     "versions": [
         {
-            "name": "MiTo 1.4 70 CV MiTo",
+            "name": "1.4 70 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/mito/mito-14-70-cv-mito/datos",
@@ -198,7 +199,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 70 CV MiTo",
+            "name": "1.4 70 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/mito/mito-14-70-cv-mito2/datos",
@@ -392,7 +393,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 78 CV Junior",
+            "name": "1.4 78 CV Junior",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/junior/mito-14-78-cv-junior/datos",
@@ -583,7 +584,7 @@
             ]
         },
         {
-            "name": "MiTo 1.3 JTDm 95 CV S&S MiTo",
+            "name": "1.3 JTDm 95 CV S&S",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/mito/mito-13-jtdm-95-cv-ss-mito/datos",
@@ -782,7 +783,7 @@
             ]
         },
         {
-            "name": "MiTo 1.3 JTDm 95 CV Start&Stop Junior",
+            "name": "1.3 JTDm 95 CV Start&Stop Junior",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/junior/mito-13-jtdm-95-cv-startstop-junior/datos",
@@ -974,7 +975,7 @@
             ]
         },
         {
-            "name": "MiTo 1.3 JTDm 90 CV Junior",
+            "name": "1.3 JTDm 90 CV Junior",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/junior/mito-13-jtdm-90-cv-junior/datos",
@@ -1165,7 +1166,7 @@
             ]
         },
         {
-            "name": "MiTo 1.3 JTDm 95 CV S&S MiTo",
+            "name": "1.3 JTDm 95 CV S&S",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/mito/mito-13-jtdm-95-cv-ss-mito2/datos",
@@ -1364,7 +1365,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 78 CV S&S Distinctive",
+            "name": "1.4 78 CV S&S Distinctive",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/distinctive/mito-14-78-cv-ss-distinctive2/datos",
@@ -1576,7 +1577,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 78 CV Junior",
+            "name": "1.4 78 CV Junior",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/junior/mito-14-78-cv-junior2/datos",
@@ -1771,7 +1772,7 @@
             ]
         },
         {
-            "name": "MiTo 0.9 Turbo TwinAir 85CV S&S Distinctive",
+            "name": "0.9 Turbo TwinAir 85CV S&S Distinctive",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/distinctive/mito-09-twinair-85cv-ss-distinctive/datos",
@@ -1972,7 +1973,7 @@
             ]
         },
         {
-            "name": "MiTo 1.3 JTDm 95 CV S&S Distinctive",
+            "name": "1.3 JTDm 95 CV S&S Distinctive",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/distinctive/mito-13-jtdm-95-cv-ss-distinctive/datos",
@@ -2174,7 +2175,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 MultiAir 105 CV S&S Distinctive",
+            "name": "1.4 MultiAir 105 CV S&S Distinctive",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/distinctive/mito-14-multiair-105-cv-ss-distinctive/datos",
@@ -2376,7 +2377,7 @@
             ]
         },
         {
-            "name": "MiTo 0.9 Turbo TwinAir 85CV S&S Distinctive",
+            "name": "0.9 Turbo TwinAir 85CV S&S Distinctive",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/distinctive/mito-09-turbo-twinair-85cv-ss-distinctive/datos",
@@ -2387,7 +2388,7 @@
             "maletero": "270"
         },
         {
-            "name": "MiTo 1.4 MultiAir 105 CV S&S Distinctive",
+            "name": "1.4 MultiAir 105 CV S&S Distinctive",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/distinctive/mito-14-multiair-105-cv-ss-distinctive2/datos",
@@ -2398,7 +2399,7 @@
             "maletero": "270"
         },
         {
-            "name": "MiTo 1.4 MultiAir 105 CV Distinctive",
+            "name": "1.4 MultiAir 105 CV Distinctive",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/distinctive/mito-14-multiair-105-cv-distinctive/datos",
@@ -2409,7 +2410,7 @@
             "maletero": "270"
         },
         {
-            "name": "MiTo 1.4 MultiAir 105 CV Progression",
+            "name": "1.4 MultiAir 105 CV Progression",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/progression/mito-14-multiair-105-cv-progression/datos",
@@ -2601,7 +2602,7 @@
             ]
         },
         {
-            "name": "MiTo 1.3 JTDm 95 CV Junior",
+            "name": "1.3 JTDm 95 CV Junior",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/junior/mito-13-jtdm-95-cv-startstop-junior2/datos",
@@ -2795,7 +2796,7 @@
             ]
         },
         {
-            "name": "MiTo 1.3 JTDm 95 CV S&S Distinctive",
+            "name": "1.3 JTDm 95 CV S&S Distinctive",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/distinctive/mito-13-jtdm-95-cv-ss-distinctive2/datos",
@@ -3008,7 +3009,7 @@
             ]
         },
         {
-            "name": "MiTo 1.3 JTDm Start&Stop 95 CV Distinctive",
+            "name": "1.3 JTDm Start&Stop 95 CV Distinctive",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/distinctive/mito-13-jtdm-startstop-95-cv-distinctive/datos",
@@ -3207,7 +3208,7 @@
             ]
         },
         {
-            "name": "MiTo 1.6 JTDm 120 CV S&S Distinctive",
+            "name": "1.6 JTDm 120 CV S&S Distinctive",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/distinctive/mito-16-jtdm-120-cv-ss-distinctive/datos",
@@ -3409,7 +3410,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 78 CV Distinctive",
+            "name": "1.4 78 CV Distinctive",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/distinctive/mito-14-78-cv-distinctive/datos",
@@ -3612,7 +3613,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 78 CV S&S Distinctive",
+            "name": "1.4 78 CV S&S Distinctive",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/distinctive/mito-14-78-cv-ss-distinctive/datos",
@@ -3814,7 +3815,7 @@
             ]
         },
         {
-            "name": "MiTo 1.3 JTDm 90 CV Progression",
+            "name": "1.3 JTDm 90 CV Progression",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/progression/mito-13-jtdm-90-cv-progression/datos",
@@ -4004,7 +4005,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 Turbo MultiAir 135 CV S&S Distinctive",
+            "name": "1.4 Turbo MultiAir 135 CV S&S Distinctive",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/distinctive/mito-14-turbo-multiair-135-cv-ss-distinctive/datos",
@@ -4206,7 +4207,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 Turbo 120 CV Progression",
+            "name": "1.4 Turbo 120 CV Progression",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/progression/mito-14-turbo-120-cv-progression/datos",
@@ -4398,7 +4399,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 Turbo MultiAir 135 CV Distinctive",
+            "name": "1.4 Turbo MultiAir 135 CV Distinctive",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/distinctive/mito-14-turbo-multiair-135-cv-distinctive/datos",
@@ -4598,7 +4599,7 @@
             ]
         },
         {
-            "name": "MiTo 1.6 JTDm 120 CV Distinctive",
+            "name": "1.6 JTDm 120 CV Distinctive",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/distinctive/mito-16-jtdm-120-cv-distinctive/datos",
@@ -4796,7 +4797,7 @@
             ]
         },
         {
-            "name": "MiTo 1.3 JTDm 90 CV Distinctive",
+            "name": "1.3 JTDm 90 CV Distinctive",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/distinctive/mito-13-jtdm-90-cv-distinctive/datos",
@@ -4994,7 +4995,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 MultiAir 105 CV Distinctive",
+            "name": "1.4 MultiAir 105 CV Distinctive",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/distinctive/mito-14-multiair-105-cv-distinctive2/datos",
@@ -5196,7 +5197,7 @@
             ]
         },
         {
-            "name": "MiTo 1.6 JTDm 120 CV S&S Distinctive",
+            "name": "1.6 JTDm 120 CV S&S Distinctive",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/distinctive/mito-16-jtdm-120-cv-ss-distinctive2/datos",
@@ -5409,7 +5410,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 Turbo 120 CV Distinctive",
+            "name": "1.4 Turbo 120 CV Distinctive",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/distinctive/mito-14-turbo-120-cv-distinctive/datos",
@@ -5609,7 +5610,7 @@
             ]
         },
         {
-            "name": "MiTo 1.6 JTDm 120 CV Progression",
+            "name": "1.6 JTDm 120 CV Progression",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/progression/mito-16-jtdm-120-cv-progression/datos",
@@ -5796,7 +5797,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 Turbo 155 CV Distinctive",
+            "name": "1.4 Turbo 155 CV Distinctive",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/distinctive/mito-14-turbo-155-cv-distinctive/datos",
@@ -5994,7 +5995,7 @@
             ]
         },
         {
-            "name": "MiTo 1.3 JTDm 95 CV Distinctive",
+            "name": "1.3 JTDm 95 CV Distinctive",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/distinctive/mito-13-jtdm-95-cv-startstop-distinctive/datos",
@@ -6195,7 +6196,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 Turbo 155 CV Progression",
+            "name": "1.4 Turbo 155 CV Progression",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/progression/mito-14-turbo-155-cv-progression/datos",
@@ -6381,7 +6382,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 Turbo MultiAir 135 CV S&S Distinctive TCT",
+            "name": "1.4 Turbo MultiAir 135 CV S&S Distinctive TCT",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/distinctive/mito-14-turbo-multiair-135-cv-ss-distinctive-tct/datos",
@@ -6583,7 +6584,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 Turbo MultiAir 170 CV S&S Quadrifoglio Verde",
+            "name": "1.4 Turbo MultiAir 170 CV S&S Quadrifoglio Verde",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/quadrifoglio-verde/mito-14-turbo-multiair-170-cv-ss-quadrifoglio-verde2/datos",
@@ -6794,7 +6795,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 Turbo MultiAir 135 CV Distinctive",
+            "name": "1.4 Turbo MultiAir 135 CV Distinctive",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/distinctive/mito-14-turbo-multiair-135-cv-distinctive2/datos",
@@ -6994,7 +6995,7 @@
             ]
         },
         {
-            "name": "MiTo 1.6 JTDm 120 CV Distinctive",
+            "name": "1.6 JTDm 120 CV Distinctive",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/distinctive/mito-16-jtdm-120-cv-distinctive3/datos",
@@ -7194,7 +7195,7 @@
             ]
         },
         {
-            "name": "MiTo 1.6 JTDm 120 CV Distinctive",
+            "name": "1.6 JTDm 120 CV Distinctive",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/distinctive/mito-16-jtdm-120-cv-distinctive2/datos",
@@ -7393,7 +7394,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 Turbo MultiAir 170 CV S&S Quadrifoglio Verde",
+            "name": "1.4 Turbo MultiAir 170 CV S&S Quadrifoglio Verde",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/quadrifoglio-verde/mito-14-turbo-multiair-170-cv-ss-quadrifoglio-verde/datos",
@@ -7598,7 +7599,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 Turbo MultiAir 170 CV Quadrifoglio Verde",
+            "name": "1.4 Turbo MultiAir 170 CV Quadrifoglio Verde",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/quadrifoglio-verde/mito-14-turbo-multiair-170-cv-quadrifoglio-verde/datos",
@@ -7800,7 +7801,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 Turbo MultiAir 135 CV Distinctive TCT",
+            "name": "1.4 Turbo MultiAir 135 CV Distinctive TCT",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/distinctive/mito-14-turbo-multiair-tct-135-cv-distinctive/datos",
@@ -8001,7 +8002,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 Turbo MultiAir 170 CV Quadrifoglio Verde",
+            "name": "1.4 Turbo MultiAir 170 CV Quadrifoglio Verde",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2008/estandar/quadrifoglio-verde/mito-14-turbo-multiair-170-cv-quadrifoglio-verde2/datos",

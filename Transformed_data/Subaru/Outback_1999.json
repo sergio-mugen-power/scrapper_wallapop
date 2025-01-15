@@ -1,11 +1,12 @@
 {
+    "brand": "Subaru",
     "name": "Outback",
     "year": "1999",
     "url": "https://www.km77.com/coches/subaru/outback/1999/estandar",
     "price": "Desde 40.400 €",
     "versions": [
         {
-            "name": "Outback 2.5",
+            "name": "2.5",
             "start_year": "1998",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/subaru/outback/1999/estandar/estandar/outback-25/datos",
@@ -140,7 +141,7 @@
             ]
         },
         {
-            "name": "Outback 2.5 Aut.",
+            "name": "2.5 Aut.",
             "start_year": "1998",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/subaru/outback/1999/estandar/estandar/outback-25-aut/datos",
@@ -275,7 +276,7 @@
             ]
         },
         {
-            "name": "Outback H6 3.0 Aut.",
+            "name": "H6 3.0 Aut.",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/subaru/outback/1999/estandar/estandar/outback-h6-30-aut/datos",
@@ -418,7 +419,7 @@
             ]
         },
         {
-            "name": "Outback 3.0 R",
+            "name": "3.0 R",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/subaru/outback/1999/estandar/r/outback-30-r/datos",

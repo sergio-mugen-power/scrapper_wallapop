@@ -1,11 +1,12 @@
 {
+    "brand": "Ford",
     "name": "Puma",
     "year": "2020",
     "url": "https://www.km77.com/coches/ford/puma/2020/estandar",
     "price": "Desde 24.312 €",
     "versions": [
         {
-            "name": "Puma Titanium 1.0 EcoBoost 92 kW (125 CV)",
+            "name": "Titanium 1.0 EcoBoost 92 kW (125 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/titanium/puma-titanium-10-ecoboost-92-kw-125-cv/datos",
@@ -244,7 +245,7 @@
             ]
         },
         {
-            "name": "Puma Titanium 1.0 EcoBoost MHEV 92 kW (125 CV)",
+            "name": "Titanium 1.0 EcoBoost MHEV 92 kW (125 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/titanium/puma-titanium-10-ecoboost-mhev-92-kw-125-cv/datos",
@@ -494,7 +495,7 @@
             ]
         },
         {
-            "name": "Puma ST-Line 1.0 EcoBoost 92 kW (125 CV)",
+            "name": "ST-Line 1.0 EcoBoost 92 kW (125 CV)",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/st-line/puma-st-line-10-ecoboost-92-kw-125-cv/datos",
@@ -738,7 +739,7 @@
             ]
         },
         {
-            "name": "Puma Titanium 1.0 EcoBoost MHEV 114 kW (155 CV)",
+            "name": "Titanium 1.0 EcoBoost MHEV 114 kW (155 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/titanium/puma-titanium-10-ecoboost-mhev-114-kw-155-cv/datos",
@@ -988,7 +989,7 @@
             ]
         },
         {
-            "name": "Puma ST-Line 1.0 EcoBoost MHEV 92 kW (125 CV)",
+            "name": "ST-Line 1.0 EcoBoost MHEV 92 kW (125 CV)",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/st-line/puma-st-line-10-ecoboost-mhev-92-kw-125-cv/datos",
@@ -1244,7 +1245,7 @@
             ]
         },
         {
-            "name": "Puma Titanium 1.5 EcoBlue 88 kW (120 CV)",
+            "name": "Titanium 1.5 EcoBlue 88 kW (120 CV)",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-15-ecoblue-88-kw-120-cv/datos",
@@ -1483,7 +1484,7 @@
             ]
         },
         {
-            "name": "Puma Titanium 1.0 EcoBoost MHEV 92 kW (125 CV)",
+            "name": "Titanium 1.0 EcoBoost MHEV 92 kW (125 CV)",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-titanium-10-ecoboost-mhev-92-kw-125-cv2/datos",
@@ -1745,7 +1746,7 @@
             ]
         },
         {
-            "name": "Puma Titanium 1.0 EcoBoost MHEV 114 kW (155 CV)",
+            "name": "Titanium 1.0 EcoBoost MHEV 114 kW (155 CV)",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-titanium-10-ecoboost-mhev-114-kw-155-cv2/datos",
@@ -2007,7 +2008,7 @@
             ]
         },
         {
-            "name": "Puma ST-Line 1.0 EcoBoost MHEV 114 kW (155 CV)",
+            "name": "ST-Line 1.0 EcoBoost MHEV 114 kW (155 CV)",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/st-line/puma-st-line-10-ecoboost-mhev-114-kw-155-cv/datos",
@@ -2263,7 +2264,7 @@
             ]
         },
         {
-            "name": "Puma ST-Line 1.5 EcoBlue 88 kW (120 CV)",
+            "name": "ST-Line 1.5 EcoBlue 88 kW (120 CV)",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-st-line-15-ecoblue-88-kw-120-cv/datos",
@@ -2512,7 +2513,7 @@
             ]
         },
         {
-            "name": "Puma ST-Line X 1.0 EcoBoost 92 kW (125 CV)",
+            "name": "ST-Line X 1.0 EcoBoost 92 kW (125 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/st-line-x/puma-st-line-x-10-ecoboost-92-kw-125-cv/datos",
@@ -2755,7 +2756,7 @@
             ]
         },
         {
-            "name": "Puma Titanium X 1.5 EcoBlue 88 kW (120 CV)",
+            "name": "Titanium X 1.5 EcoBlue 88 kW (120 CV)",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-titanium-x-15-ecoblue-88-kw-120-cv/datos",
@@ -2997,7 +2998,7 @@
             ]
         },
         {
-            "name": "Puma ST-Line 1.0 EcoBoost MHEV 92 kW (125 CV)",
+            "name": "ST-Line 1.0 EcoBoost MHEV 92 kW (125 CV)",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-st-line-10-ecoboost-mhev-92-kw-125-cv2/datos",
@@ -3264,7 +3265,7 @@
             ]
         },
         {
-            "name": "Puma Titanium 1.0 EcoBoost MHEV 114 kW (155 CV)",
+            "name": "Titanium 1.0 EcoBoost MHEV 114 kW (155 CV)",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-titanium-10-ecoboost-mhev-114-kw-155-cv3/datos",
@@ -3519,7 +3520,7 @@
             ]
         },
         {
-            "name": "Puma ST-Line X 1.0 EcoBoost MHEV 92 kW (125 CV)",
+            "name": "ST-Line X 1.0 EcoBoost MHEV 92 kW (125 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/st-line-x/puma-st-line-x-10-ecoboost-mhev-92-kw-125-cv/datos",
@@ -3773,7 +3774,7 @@
             ]
         },
         {
-            "name": "Puma Titanium 1.0 EcoBoost 92 kW (125 CV) Aut.",
+            "name": "Titanium 1.0 EcoBoost 92 kW (125 CV) Aut.",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-10-ecoboost-92-kw-125-cv-aut/datos",
@@ -4024,7 +4025,7 @@
             ]
         },
         {
-            "name": "Puma Titanium X 1.0 EcoBoost MHEV 92 kW (125 CV)",
+            "name": "Titanium X 1.0 EcoBoost MHEV 92 kW (125 CV)",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-titanium-x-10-ecoboost-mhev-92-kw-125-cv/datos",
@@ -4282,7 +4283,7 @@
             ]
         },
         {
-            "name": "Puma ST-Line 1.0 EcoBoost MHEV 114 kW (155 CV)",
+            "name": "ST-Line 1.0 EcoBoost MHEV 114 kW (155 CV)",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-st-line-10-ecoboost-mhev-114-kw-155-cv2/datos",
@@ -4547,7 +4548,7 @@
             ]
         },
         {
-            "name": "Puma ST-Line X 1.0 EcoBoost MHEV 114 kW (155 CV)",
+            "name": "ST-Line X 1.0 EcoBoost MHEV 114 kW (155 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/st-line-x/puma-st-line-x-10-ecoboost-mhev-114-kw-155-cv/datos",
@@ -4801,7 +4802,7 @@
             ]
         },
         {
-            "name": "Puma ST-Line X 1.5 EcoBlue 88 kW (120 CV)",
+            "name": "ST-Line X 1.5 EcoBlue 88 kW (120 CV)",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-st-line-x-15-ecoblue-88-kw-120-cv/datos",
@@ -5053,7 +5054,7 @@
             ]
         },
         {
-            "name": "Puma Titanium X 1.0 EcoBoost MHEV 114 kW (155 CV)",
+            "name": "Titanium X 1.0 EcoBoost MHEV 114 kW (155 CV)",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-titanium-x-10-ecoboost-mhev-114-kw-155-cv/datos",
@@ -5311,7 +5312,7 @@
             ]
         },
         {
-            "name": "Puma ST-Line X 1.0 EcoBoost MHEV 92 kW (125 CV)",
+            "name": "ST-Line X 1.0 EcoBoost MHEV 92 kW (125 CV)",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-st-line-x-10-ecoboost-mhev-92-kw-125-cv2/datos",
@@ -5577,7 +5578,7 @@
             ]
         },
         {
-            "name": "Puma ST-Line 1.0 EcoBoost 92 kW (125 CV) Aut.",
+            "name": "ST-Line 1.0 EcoBoost 92 kW (125 CV) Aut.",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-st-line-10-ecoboost-92-kw-125-cv-aut/datos",
@@ -5834,7 +5835,7 @@
             ]
         },
         {
-            "name": "Puma Titanium 1.0 EcoBoost MHEV 92 kW (125 CV)",
+            "name": "Titanium 1.0 EcoBoost MHEV 92 kW (125 CV)",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-titanium-10-ecoboost-mhev-92-kw-125-cv3/datos",
@@ -6092,7 +6093,7 @@
             ]
         },
         {
-            "name": "Puma Titanium X 1.0 EcoBoost MHEV 92 kW (125 CV) Aut.",
+            "name": "Titanium X 1.0 EcoBoost MHEV 92 kW (125 CV) Aut.",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-titanium-x-10-ecoboost-mhev-92-kw-125-cv-aut2/datos",
@@ -6350,7 +6351,7 @@
             ]
         },
         {
-            "name": "Puma ST-Line 1.0 EcoBoost MHEV 92 kW (125 CV)",
+            "name": "ST-Line 1.0 EcoBoost MHEV 92 kW (125 CV)",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-st-line-10-ecoboost-mhev-92-kw-125-cv3/datos",
@@ -6610,7 +6611,7 @@
             ]
         },
         {
-            "name": "Puma Titanium X 1.0 EcoBoost MHEV 114 kW (155 CV) Aut.",
+            "name": "Titanium X 1.0 EcoBoost MHEV 114 kW (155 CV) Aut.",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-titanium-x-10-ecoboost-mhev-114-kw-155-cv-aut/datos",
@@ -6868,7 +6869,7 @@
             ]
         },
         {
-            "name": "Puma ST-Line X 1.0 EcoBoost 92 kW (125 CV) Aut.",
+            "name": "ST-Line X 1.0 EcoBoost 92 kW (125 CV) Aut.",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-st-line-x-10-ecoboost-92-kw-125-cv-aut/datos",
@@ -7124,7 +7125,7 @@
             ]
         },
         {
-            "name": "Puma ST-Line Vignale 1.0 EcoBoost MHEV 92 kW (125 CV)",
+            "name": "ST-Line Vignale 1.0 EcoBoost MHEV 92 kW (125 CV)",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-st-line-vignale-10-ecoboost-mhev-92-kw-125-cv/datos",
@@ -7389,7 +7390,7 @@
             ]
         },
         {
-            "name": "Puma Titanium 1.0 EcoBoost MHEV 92 kW (125 CV) Aut.",
+            "name": "Titanium 1.0 EcoBoost MHEV 92 kW (125 CV) Aut.",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-titanium-10-ecoboost-mhev-92-kw-125-cv-aut/datos",
@@ -7647,7 +7648,7 @@
             ]
         },
         {
-            "name": "Puma ST-Line Vignale 1.0 EcoBoost MHEV 92 kW (125 CV)",
+            "name": "ST-Line Vignale 1.0 EcoBoost MHEV 92 kW (125 CV)",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-vignale-10-ecoboost-mhev-92-kw-125-cv/datos",
@@ -7912,7 +7913,7 @@
             ]
         },
         {
-            "name": "Puma ST-Line X 1.0 EcoBoost MHEV 92 kW (125 CV)",
+            "name": "ST-Line X 1.0 EcoBoost MHEV 92 kW (125 CV)",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-st-line-x-10-ecoboost-mhev-92-kw-125-cv3/datos",
@@ -8179,7 +8180,7 @@
             ]
         },
         {
-            "name": "Puma ST-Line Vignale 1.0 EcoBoost MHEV 114 kW (155 CV)",
+            "name": "ST-Line Vignale 1.0 EcoBoost MHEV 114 kW (155 CV)",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-vignale-10-ecoboost-mhev-114-kw-155-cv/datos",
@@ -8444,7 +8445,7 @@
             ]
         },
         {
-            "name": "Puma ST-Line 1.0 EcoBoost MHEV 92 kW (125 CV) Aut.",
+            "name": "ST-Line 1.0 EcoBoost MHEV 92 kW (125 CV) Aut.",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-st-line-10-ecoboost-mhev-92-kw-125-cv-aut/datos",
@@ -8705,7 +8706,7 @@
             ]
         },
         {
-            "name": "Puma ST-Line X 1.0 EcoBoost MHEV 114 kW (155 CV)",
+            "name": "ST-Line X 1.0 EcoBoost MHEV 114 kW (155 CV)",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-st-line-x-10-ecoboost-mhev-114-kw-155-cv2/datos",
@@ -8972,7 +8973,7 @@
             ]
         },
         {
-            "name": "Puma ST-Line Vignale 1.0 EcoBoost 92 kW (125 CV) Aut.",
+            "name": "ST-Line Vignale 1.0 EcoBoost 92 kW (125 CV) Aut.",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-vignale-10-ecoboost-92-kw-125-cv-aut/datos",
@@ -9227,7 +9228,7 @@
             ]
         },
         {
-            "name": "Puma ST-Line X 1.0 EcoBoost MHEV 92 kW (125 CV) Aut.",
+            "name": "ST-Line X 1.0 EcoBoost MHEV 92 kW (125 CV) Aut.",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-st-line-x-10-ecoboost-mhev-92-kw-125-cv-aut/datos",
@@ -9495,7 +9496,7 @@
             ]
         },
         {
-            "name": "Puma ST-Line Vignale 1.0 EcoBoost MHEV 114 kW (155 CV) Aut.",
+            "name": "ST-Line Vignale 1.0 EcoBoost MHEV 114 kW (155 CV) Aut.",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-st-line-vignale-10-ecoboost-mhev-114-kw-155-cv-aut2/datos",
@@ -9760,7 +9761,7 @@
             ]
         },
         {
-            "name": "Puma ST-Line X 1.0 EcoBoost MHEV 114 kW (155 CV) Aut.",
+            "name": "ST-Line X 1.0 EcoBoost MHEV 114 kW (155 CV) Aut.",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-st-line-x-10-ecoboost-mhev-114-kw-155-cv-aut2/datos",
@@ -10028,7 +10029,7 @@
             ]
         },
         {
-            "name": "Puma Vivid Ruby Edition 1.0 EcoBoost MHEV 92 kW (125 CV)",
+            "name": "Vivid Ruby Edition 1.0 EcoBoost MHEV 92 kW (125 CV)",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-vivid-ruby-edition-10-ecoboost-mhev-92-kw-125-cv/datos",
@@ -10289,7 +10290,7 @@
             ]
         },
         {
-            "name": "Puma ST-Line X Gold 1.0 EcoBoost MHEV 114 kW (155 CV)",
+            "name": "ST-Line X Gold 1.0 EcoBoost MHEV 114 kW (155 CV)",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-st-line-x-gold-10-ecoboost-mhev-114-kw-155-cv/datos",
@@ -10547,7 +10548,7 @@
             ]
         },
         {
-            "name": "Puma Vivid Ruby Edition 1.0 EcoBoost MHEV 92 kW (125 CV) Aut.",
+            "name": "Vivid Ruby Edition 1.0 EcoBoost MHEV 92 kW (125 CV) Aut.",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-vivid-ruby-edition-10-ecoboost-mhev-92-kw-125-cv-aut/datos",
@@ -10809,7 +10810,7 @@
             ]
         },
         {
-            "name": "Puma ST 1.5 EcoBoost 147 kW (200 CV)",
+            "name": "ST 1.5 EcoBoost 147 kW (200 CV)",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/st/puma-st/datos",
@@ -11029,7 +11030,7 @@
             ]
         },
         {
-            "name": "Puma ST-Line X Gold 1.0 EcoBoost MHEV 114 kW (155 CV) Aut.",
+            "name": "ST-Line X Gold 1.0 EcoBoost MHEV 114 kW (155 CV) Aut.",
             "start_year": "2021",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/estandar/puma-st-line-x-gold-10-ecoboost-mhev-114-kw-155-cv-aut/datos",
@@ -11288,7 +11289,7 @@
             ]
         },
         {
-            "name": "Puma ST 1.0 EcoBoost MHEV 125 kW (170 CV) Aut.",
+            "name": "ST 1.0 EcoBoost MHEV 125 kW (170 CV) Aut.",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/st/puma-st-10-ecoboost-hybris-125-kw-170-cv-powershift/datos",
@@ -11534,7 +11535,7 @@
             ]
         },
         {
-            "name": "Puma ST 1.5 EcoBoost 147 kW (200 CV)",
+            "name": "ST 1.5 EcoBoost 147 kW (200 CV)",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/st/puma-st-15-ecoboost-147-kw-200-cv/datos",
@@ -11769,7 +11770,7 @@
             ]
         },
         {
-            "name": "Puma ST Gold Edition 1.5 EcoBoost 147 kW (200 CV)",
+            "name": "ST Gold Edition 1.5 EcoBoost 147 kW (200 CV)",
             "start_year": "2022",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ford/puma/2020/estandar/st/puma-st-gold-edition-15-ecoboost-147-kw-200-cv/datos",

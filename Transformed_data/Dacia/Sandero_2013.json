@@ -1,11 +1,12 @@
 {
+    "brand": "Dacia",
     "name": "Sandero",
     "year": "2013",
     "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar",
     "price": "Desde 9.990 €",
     "versions": [
         {
-            "name": "Sandero Base 1.2 75 CV",
+            "name": "Base 1.2 75 CV",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar/base/sandero-base-12-75-cv/datos",
@@ -134,7 +135,7 @@
             ]
         },
         {
-            "name": "Sandero Base 1.2 75 CV",
+            "name": "Base 1.2 75 CV",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar/base/sandero-base-12-75-cv2/datos",
@@ -263,7 +264,7 @@
             ]
         },
         {
-            "name": "Sandero Ambiance 1.2 75 CV",
+            "name": "Ambiance 1.2 75 CV",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar/ambiance/sandero-ambiance-12-75-cv/datos",
@@ -413,7 +414,7 @@
             ]
         },
         {
-            "name": "Sandero Ambiance 1.2 75 CV",
+            "name": "Ambiance 1.2 75 CV",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar/ambiance/sandero-ambiance-12-75-cv2/datos",
@@ -564,7 +565,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate 1.2 75 CV",
+            "name": "Laureate 1.2 75 CV",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar/laureate/sandero-laureate-12-75-cv/datos",
@@ -731,7 +732,7 @@
             ]
         },
         {
-            "name": "Sandero Eficacia 1.2 75 CV",
+            "name": "Eficacia 1.2 75 CV",
             "start_year": "2016",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar/eficacia/sandero-sl-eficacia-12-75-cv/datos",
@@ -881,7 +882,7 @@
             ]
         },
         {
-            "name": "Sandero Ambiance 1.2 75 CV GLP",
+            "name": "Ambiance 1.2 75 CV GLP",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar/ambiance/sandero-ambiance-12-75-cv-glp/datos",
@@ -1030,7 +1031,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate 1.2 75 CV",
+            "name": "Laureate 1.2 75 CV",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar/laureate/sandero-laureate-12-75-cv2/datos",
@@ -1197,7 +1198,7 @@
             ]
         },
         {
-            "name": "Sandero Ambiance dCi 75",
+            "name": "Ambiance dCi 75",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar/ambiance/sandero-ambiance-dci-75/datos",
@@ -1346,7 +1347,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate TCe 90",
+            "name": "Laureate TCe 90",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar/laureate/sandero-laureate-tce-90/datos",
@@ -1513,7 +1514,7 @@
             ]
         },
         {
-            "name": "Sandero Ambiance dCi 75",
+            "name": "Ambiance dCi 75",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar/ambiance/sandero-ambiance-dci-752/datos",
@@ -1663,7 +1664,7 @@
             ]
         },
         {
-            "name": "Sandero Eficacia TCE 90",
+            "name": "Eficacia TCE 90",
             "start_year": "2016",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar/eficacia/sandero-sl-eficacia-tce-90/datos",
@@ -1811,7 +1812,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate 1.2 75 CV GLP",
+            "name": "Laureate 1.2 75 CV GLP",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar/laureate/sandero-laureate-12-75-cv-glp/datos",
@@ -1975,7 +1976,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate TCe 90",
+            "name": "Laureate TCe 90",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar/laureate/sandero-laureate-tce-902/datos",
@@ -2142,7 +2143,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate TCE 90",
+            "name": "Laureate TCE 90",
             "start_year": "2016",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar/laureate/sandero-laureate-tce-903/datos",
@@ -2307,7 +2308,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate dCi 75",
+            "name": "Laureate dCi 75",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar/laureate/sandero-laureate-dci-75/datos",
@@ -2471,7 +2472,7 @@
             ]
         },
         {
-            "name": "Sandero Ambiance TCE 90 GLP",
+            "name": "Ambiance TCE 90 GLP",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar/ambiance/sandero-ambiance-tce-90-glp/datos",
@@ -2619,7 +2620,7 @@
             ]
         },
         {
-            "name": "Sandero Eficacia dCi 75",
+            "name": "Eficacia dCi 75",
             "start_year": "2016",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar/eficacia/sandero-sl-eficacia-dci-75/datos",
@@ -2770,7 +2771,7 @@
             ]
         },
         {
-            "name": "Sandero Eficacia TCE 90 Easy-R",
+            "name": "Eficacia TCE 90 Easy-R",
             "start_year": "2016",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar/eficacia/sandero-sl-eficacia-tce-90-easy-r/datos",
@@ -2917,7 +2918,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate dCi 75",
+            "name": "Laureate dCi 75",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar/laureate/sandero-laureate-dci-752/datos",
@@ -3083,7 +3084,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate TCE 90 Easy-R",
+            "name": "Laureate TCE 90 Easy-R",
             "start_year": "2016",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar/laureate/sandero-laureate-tce-90-easy-r/datos",
@@ -3247,7 +3248,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate dCi 90",
+            "name": "Laureate dCi 90",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar/laureate/sandero-laureate-dci-90/datos",
@@ -3413,7 +3414,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate TCE 90 GLP",
+            "name": "Laureate TCE 90 GLP",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar/laureate/sandero-laureate-tce-90-glp/datos",
@@ -3580,7 +3581,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate dCi 90",
+            "name": "Laureate dCi 90",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar/laureate/sandero-laureate-dci-902/datos",
@@ -3747,7 +3748,7 @@
             ]
         },
         {
-            "name": "Sandero AudCi 90",
+            "name": "AudCi 90",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar/audacia/sandero-audacia-dci-90/datos",
@@ -3913,7 +3914,7 @@
             ]
         },
         {
-            "name": "Sandero Laureate dCi 90 Easy-R",
+            "name": "Laureate dCi 90 Easy-R",
             "start_year": "2016",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/estandar/laureate/sandero-laureate-dci-90-easy-r/datos",

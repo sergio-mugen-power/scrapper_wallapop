@@ -1,11 +1,12 @@
 {
+    "brand": "Tesla",
     "name": "Model S",
     "year": "2021",
     "url": "https://www.km77.com/coches/tesla/model-s/2021/estandar",
     "price": "Desde 89.990 €",
     "versions": [
         {
-            "name": "Model S motor dual tracción integral (01/2023 - )",
+            "name": "motor dual tracción integral (01/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/tesla/model-s/2021/estandar/estandar/model-s-motor-dual-traccion-integral/datos",
@@ -254,7 +255,7 @@
             ]
         },
         {
-            "name": "Model S Plaid (01/2021 - )",
+            "name": "Plaid (01/2021 - )",
             "start_year": "2021",
             "end_year": "",
             "url": "https://www.km77.com/coches/tesla/model-s/2021/estandar/plaid/model-s-plaid/datos",

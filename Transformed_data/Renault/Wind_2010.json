@@ -1,11 +1,12 @@
 {
+    "brand": "Renault",
     "name": "Wind",
     "year": "2010",
     "url": "https://www.km77.com/coches/renault/wind/2010/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Wind TCe 100 Dynamique",
+            "name": "TCe 100 Dynamique",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/wind/2010/estandar/dynamique/wind-tce-100-dynamique/datos",
@@ -183,7 +184,7 @@
             ]
         },
         {
-            "name": "Wind 1.6 16v 133 Dynamique",
+            "name": "1.6 16v 133 Dynamique",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/wind/2010/estandar/dynamique/wind-16-16v-133-dynamique/datos",

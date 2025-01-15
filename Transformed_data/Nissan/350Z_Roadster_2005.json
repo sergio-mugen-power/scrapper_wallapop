@@ -1,11 +1,12 @@
 {
+    "brand": "Nissan",
     "name": "350Z Roadster",
     "year": "2005",
     "url": "https://www.km77.com/coches/nissan/350z/2005/roadster",
     "price": "",
     "versions": [
         {
-            "name": "350Z Roadster",
+            "name": "",
             "start_year": "2005",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/nissan/350z/2005/roadster/estandar/350z-roadster/datos",
@@ -175,7 +176,7 @@
             ]
         },
         {
-            "name": "350Z Roadster Pack",
+            "name": "Pack",
             "start_year": "2005",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/nissan/350z/2005/roadster/pack/350z-roadster-pack/datos",

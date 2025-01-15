@@ -1,11 +1,12 @@
 {
+    "brand": "Morgan",
     "name": "Aero 8",
     "year": "2005",
     "url": "https://www.km77.com/coches/morgan/aero-8/2005/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Aero 8",
+            "name": "",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/morgan/aero-8/2005/estandar/estandar/aero-8/datos",
@@ -178,7 +179,7 @@
             ]
         },
         {
-            "name": "Aero 8 4.8",
+            "name": "4.8",
             "start_year": "2008",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/morgan/aero-8/2005/estandar/estandar/aero-8-48/datos",
@@ -354,7 +355,7 @@
             ]
         },
         {
-            "name": "Aero 8 4.8 Aut.",
+            "name": "4.8 Aut.",
             "start_year": "2008",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/morgan/aero-8/2005/estandar/estandar/aero-8-48-aut/datos",

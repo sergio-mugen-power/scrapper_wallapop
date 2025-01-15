@@ -1,11 +1,12 @@
 {
+    "brand": "Cadillac",
     "name": "XLR",
     "year": "2004",
     "url": "https://www.km77.com/coches/cadillac/xlr/2004/estandar",
     "price": "",
     "versions": [
         {
-            "name": "XLR 4.6 V8",
+            "name": "4.6 V8",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/cadillac/xlr/2004/estandar/estandar/xlr-46-v8/datos",
@@ -169,7 +170,7 @@
             ]
         },
         {
-            "name": "XLR-V",
+            "name": "-V",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/cadillac/xlr/2004/estandar/v/xlr-v/datos",
@@ -322,7 +323,7 @@
             ]
         },
         {
-            "name": "XLR-V 4.4 Aut. Supercharged",
+            "name": "-V 4.4 Aut. Supercharged",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/cadillac/xlr/2004/estandar/v/xlr-v-44-aut-supercharged/datos",

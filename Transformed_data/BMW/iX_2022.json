@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "iX",
     "year": "2022",
     "url": "https://www.km77.com/coches/bmw/ix/2022/estandar",
     "price": "Desde 87.150 €",
     "versions": [
         {
-            "name": "iX xDrive40 (03/2021 - )",
+            "name": "xDrive40 (03/2021 - )",
             "start_year": "2021",
             "end_year": "",
             "url": "https://www.km77.com/coches/bmw/ix/2022/estandar/estandar/ix-xdrive40/datos",
@@ -295,7 +296,7 @@
             ]
         },
         {
-            "name": "iX xDrive50 (03/2021 - )",
+            "name": "xDrive50 (03/2021 - )",
             "start_year": "2021",
             "end_year": "",
             "url": "https://www.km77.com/coches/bmw/ix/2022/estandar/estandar/ix/datos",
@@ -583,7 +584,7 @@
             ]
         },
         {
-            "name": "iX M60 (01/2022 - )",
+            "name": "M60 (01/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/bmw/ix/2022/estandar/m/ix-m60/datos",

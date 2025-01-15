@@ -1,11 +1,12 @@
 {
+    "brand": "Jaguar",
     "name": "XJ",
     "year": "1997",
     "url": "https://www.km77.com/coches/jaguar/xj/1997/estandar",
     "price": "",
     "versions": [
         {
-            "name": "XJ8 3.2 Executive",
+            "name": "8 3.2 Executive",
             "start_year": "1997",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/jaguar/xj/1997/estandar/executive/xj8-32-executive/datos",
@@ -152,7 +153,7 @@
             ]
         },
         {
-            "name": "XJ8 4.0 Executive",
+            "name": "8 4.0 Executive",
             "start_year": "1997",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/jaguar/xj/1997/estandar/executive/xj8-40-executive/datos",
@@ -446,7 +447,7 @@
             ]
         },
         {
-            "name": "XJR 4.0 S/C",
+            "name": "R 4.0 S/C",
             "start_year": "1997",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/jaguar/xj/1997/estandar/xjr/xjr-40-sc/datos",

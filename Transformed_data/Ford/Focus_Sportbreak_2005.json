@@ -1,11 +1,12 @@
 {
+    "brand": "Ford",
     "name": "Focus Sportbreak",
     "year": "2005",
     "url": "https://www.km77.com/coches/ford/focus/2005/sportbreak",
     "price": "Desde 25.144 €",
     "versions": [
         {
-            "name": "Focus Sportbreak Trend 1.6 100cv",
+            "name": "Trend 1.6 100cv",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/focus/2005/sportbreak/trend/focus-sportbreak-trend-16-100cv/datos",
@@ -181,7 +182,7 @@
             ]
         },
         {
-            "name": "Focus Sportbreak Trend 1.6 Ti-VCT 115cv",
+            "name": "Trend 1.6 Ti-VCT 115cv",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/focus/2005/sportbreak/trend/focus-sportbreak-trend-16-ti-vct-115cv/datos",
@@ -359,7 +360,7 @@
             ]
         },
         {
-            "name": "Focus Sportbreak Trend 1.8 Flexifuel 125cv",
+            "name": "Trend 1.8 Flexifuel 125cv",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/focus/2005/sportbreak/trend/focus-sportbreak-trend-18-flexifuel-125cv/datos",
@@ -532,7 +533,7 @@
             ]
         },
         {
-            "name": "Focus Sportbreak Trend 1.6 100cv Aut.",
+            "name": "Trend 1.6 100cv Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/focus/2005/sportbreak/trend/focus-sportbreak-trend-16-100cv-aut/datos",
@@ -710,7 +711,7 @@
             ]
         },
         {
-            "name": "Focus Sportbreak Trend 1.6 TDCi 90cv",
+            "name": "Trend 1.6 TDCi 90cv",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/focus/2005/sportbreak/trend/focus-sportbreak-trend-16-tdci-90cv/datos",
@@ -886,7 +887,7 @@
             ]
         },
         {
-            "name": "Focus Sportbreak Trend 1.8 TDCi 115cv",
+            "name": "Trend 1.8 TDCi 115cv",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/focus/2005/sportbreak/trend/focus-sportbreak-trend-18-tdci-115cv/datos",
@@ -1062,7 +1063,7 @@
             ]
         },
         {
-            "name": "Focus Sportbreak XR 1.6 Ti-VCT 115cv",
+            "name": "XR 1.6 Ti-VCT 115cv",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/focus/2005/sportbreak/xr/focus-sportbreak-xr-16-ti-vct-115cv/datos",
@@ -1249,7 +1250,7 @@
             ]
         },
         {
-            "name": "Focus Sportbreak 1.6 Ti-VCT 115 CV Ghia",
+            "name": "1.6 Ti-VCT 115 CV Ghia",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/focus/2005/sportbreak/ghia/focus-sportbreak-16-ti-vct-115-cv-ghia/datos",
@@ -1587,7 +1588,7 @@
             ]
         },
         {
-            "name": "Focus Sportbreak 1.8 TDCi 115 CV Sport",
+            "name": "1.8 TDCi 115 CV Sport",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/focus/2005/sportbreak/sport/focus-sportbreak-18-tdci-115-cv-sport/datos",
@@ -1759,7 +1760,7 @@
             ]
         },
         {
-            "name": "Focus Sportbreak XR 1.8 TDCi 115cv",
+            "name": "XR 1.8 TDCi 115cv",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/focus/2005/sportbreak/xr/focus-sportbreak-xr-18-tdci-115cv/datos",
@@ -1946,7 +1947,7 @@
             ]
         },
         {
-            "name": "Focus Sportbreak 1.8 TDCi 115 CV Ghia",
+            "name": "1.8 TDCi 115 CV Ghia",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/focus/2005/sportbreak/ghia/focus-sportbreak-18-tdci-115-cv-ghia/datos",
@@ -2291,7 +2292,7 @@
             ]
         },
         {
-            "name": "Focus Sportbreak Ghia 1.6 TDCi 109cv CVT",
+            "name": "Ghia 1.6 TDCi 109cv CVT",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/focus/2005/sportbreak/ghia/focus-sportbreak-ghia-16-tdci-109cv-cvt/datos",
@@ -2462,7 +2463,7 @@
             ]
         },
         {
-            "name": "Focus Sportbreak 2.0 Duratec 145 CV Ghia",
+            "name": "2.0 Duratec 145 CV Ghia",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/focus/2005/sportbreak/ghia/focus-sportbreak-20-duratec-145-cv-ghia/datos",
@@ -2637,7 +2638,7 @@
             ]
         },
         {
-            "name": "Focus Sportbreak S 2.0 TDCi 136cv",
+            "name": "S 2.0 TDCi 136cv",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/focus/2005/sportbreak/s/focus-sportbreak-s-20-tdci-136cv/datos",
@@ -2997,7 +2998,7 @@
             ]
         },
         {
-            "name": "Focus Sportbreak 2.0 TDCi 136 CV Ghia",
+            "name": "2.0 TDCi 136 CV Ghia",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/focus/2005/sportbreak/ghia/focus-sportbreak-20-tdci-136-cv-ghia/datos",

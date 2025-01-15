@@ -1,11 +1,12 @@
 {
+    "brand": "Peugeot",
     "name": "Rifter",
     "year": "2019",
     "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar",
     "price": "Desde 26.873 €",
     "versions": [
         {
-            "name": "Rifter Access Standard BlueHDi 75",
+            "name": "Access Standard BlueHDi 75",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/access/rifter-access-standard-bluehdi-75/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Rifter Access Standard PureTech 110",
+            "name": "Access Standard PureTech 110",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/access/rifter-access-standard-puretech-110/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Rifter Access Standard BlueHDi 100",
+            "name": "Access Standard BlueHDi 100",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/access/rifter-access-standard-bluehdi-100/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Rifter Access Standard BlueHDi 100 7 plazas",
+            "name": "Access Standard BlueHDi 100 7 plazas",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/access/rifter-access-standard-bluehdi-100-7-plazas/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "Rifter Access Standard PureTech 110 7 plazas",
+            "name": "Access Standard PureTech 110 7 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/access/rifter-access-standard-puretech-110-7-plazas/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Rifter Active Pack Standard PureTech 110",
+            "name": "Active Pack Standard PureTech 110",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/estandar/rifter-active-pack-standard-puretech-110/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "Rifter Active Standard BlueHDi 100",
+            "name": "Active Standard BlueHDi 100",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/active/rifter-active-standard-bluehdi-100/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "Rifter Active Standard BlueHDi 100",
+            "name": "Active Standard BlueHDi 100",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/active/rifter-active-standard-bluehdi-1003/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "Rifter Active Standard PureTech 110",
+            "name": "Active Standard PureTech 110",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/active/rifter-active-standard-puretech-110/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "Rifter Active Standard BlueHDi 100 7 plazas",
+            "name": "Active Standard BlueHDi 100 7 plazas",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/active/rifter-active-standard-bluehdi-100-7-plazas/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "Rifter Style Standard PureTech 110",
+            "name": "Style Standard PureTech 110",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/estandar/rifter-style-standard-puretech-110/datos",
@@ -313,7 +314,7 @@
             ]
         },
         {
-            "name": "Rifter Active Pack Standard BlueHDi 100",
+            "name": "Active Pack Standard BlueHDi 100",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/estandar/rifter-active-pack-standard-bluehdi-100/datos",
@@ -341,7 +342,7 @@
             ]
         },
         {
-            "name": "Rifter Active Standard PureTech 110 7 plazas",
+            "name": "Active Standard PureTech 110 7 plazas",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/active/rifter-active-standard-puretech-110-7-plazas/datos",
@@ -369,7 +370,7 @@
             ]
         },
         {
-            "name": "Rifter Allure Standard PureTech 110",
+            "name": "Allure Standard PureTech 110",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/allure/rifter-allure-standard-puretech-1103/datos",
@@ -397,7 +398,7 @@
             ]
         },
         {
-            "name": "Rifter NAV+ Standard BlueHDi 100",
+            "name": "NAV+ Standard BlueHDi 100",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/navplus/rifter-nav-standard-bluehdi-100/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "Rifter Allure Standard PureTech 110",
+            "name": "Allure Standard PureTech 110",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/allure/rifter-allure-standard-puretech-110/datos",
@@ -453,7 +454,7 @@
             ]
         },
         {
-            "name": "Rifter Style Standard BlueHDi 100",
+            "name": "Style Standard BlueHDi 100",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/estandar/rifter-style-standard-bluehdi-100/datos",
@@ -481,7 +482,7 @@
             ]
         },
         {
-            "name": "Rifter Active Standard BlueHDi 130",
+            "name": "Active Standard BlueHDi 130",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/active/rifter-active-standard-bluehdi-130/datos",
@@ -509,7 +510,7 @@
             ]
         },
         {
-            "name": "Rifter NAV+ Standard PureTech 110",
+            "name": "NAV+ Standard PureTech 110",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/navplus/rifter-nav-standard-puretech-110/datos",
@@ -537,7 +538,7 @@
             ]
         },
         {
-            "name": "Rifter NAV+ Standard BlueHDi 100 7 plazas",
+            "name": "NAV+ Standard BlueHDi 100 7 plazas",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/navplus/rifter-nav-standard-bluehdi-100-7-plazas/datos",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "name": "Rifter Allure Standard PureTech 110 7 plazas",
+            "name": "Allure Standard PureTech 110 7 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/allure/rifter-allure-standard-puretech-110-7-plazas/datos",
@@ -593,7 +594,7 @@
             ]
         },
         {
-            "name": "Rifter Allure Standard BlueHDi 100",
+            "name": "Allure Standard BlueHDi 100",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/allure/rifter-allure-standard-bluehdi-100/datos",
@@ -621,7 +622,7 @@
             ]
         },
         {
-            "name": "Rifter Allure Standard BlueHDi 100",
+            "name": "Allure Standard BlueHDi 100",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/allure/rifter-allure-standard-bluehdi-1002/datos",
@@ -649,7 +650,7 @@
             ]
         },
         {
-            "name": "Rifter Active Standard BlueHDi 130 7 plazas",
+            "name": "Active Standard BlueHDi 130 7 plazas",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/active/rifter-active-standard-bluehdi-130-7-plazas/datos",
@@ -677,7 +678,7 @@
             ]
         },
         {
-            "name": "Rifter GT Line Standard PureTech 110",
+            "name": "GT Line Standard PureTech 110",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/gt-line/rifter-gt-line-standard-puretech-110/datos",
@@ -705,7 +706,7 @@
             ]
         },
         {
-            "name": "Rifter NAV+ Standard PureTech 110 7 plazas",
+            "name": "NAV+ Standard PureTech 110 7 plazas",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/navplus/rifter-nav-standard-puretech-110-7-plazas/datos",
@@ -733,7 +734,7 @@
             ]
         },
         {
-            "name": "Rifter Active Pack Standard BlueHDi 130",
+            "name": "Active Pack Standard BlueHDi 130",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/estandar/rifter-active-pack-standard-bluehdi-130/datos",
@@ -761,7 +762,7 @@
             ]
         },
         {
-            "name": "Rifter Allure Standard BlueHDi 100 7 plazas",
+            "name": "Allure Standard BlueHDi 100 7 plazas",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/allure/rifter-allure-standard-bluehdi-100-7-plazas/datos",
@@ -789,7 +790,7 @@
             ]
         },
         {
-            "name": "Rifter Allure Standard PureTech 110",
+            "name": "Allure Standard PureTech 110",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/allure/rifter-allure-standard-puretech-1102/datos",
@@ -817,7 +818,7 @@
             ]
         },
         {
-            "name": "Rifter GT Line Standard PureTech 110 7 plazas",
+            "name": "GT Line Standard PureTech 110 7 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/gt-line/rifter-gt-line-standard-puretech-110-7-plazas/datos",
@@ -845,7 +846,7 @@
             ]
         },
         {
-            "name": "Rifter NAV+ Standard BlueHDi 130",
+            "name": "NAV+ Standard BlueHDi 130",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/navplus/rifter-nav-standard-bluehdi-130/datos",
@@ -873,7 +874,7 @@
             ]
         },
         {
-            "name": "Rifter GT Line Standard BlueHDi 100",
+            "name": "GT Line Standard BlueHDi 100",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/gt-line/rifter-gt-line-standard-bluehdi-100/datos",
@@ -901,7 +902,7 @@
             ]
         },
         {
-            "name": "Rifter Allure Standard PureTech 110 7 plazas",
+            "name": "Allure Standard PureTech 110 7 plazas",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/allure/rifter-allure-standard-puretech-110-7-plazas2/datos",
@@ -929,7 +930,7 @@
             ]
         },
         {
-            "name": "Rifter Style Standard BlueHDi 130",
+            "name": "Style Standard BlueHDi 130",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/estandar/rifter-style-standard-bluehdi-130/datos",
@@ -957,7 +958,7 @@
             ]
         },
         {
-            "name": "Rifter Active Standard BlueHDi 130 EAT8",
+            "name": "Active Standard BlueHDi 130 EAT8",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/active/rifter-active-standard-bluehdi-130-eat8/datos",
@@ -985,7 +986,7 @@
             ]
         },
         {
-            "name": "Rifter NAV+ Standard BlueHDi 130 7 plazas",
+            "name": "NAV+ Standard BlueHDi 130 7 plazas",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/navplus/rifter-nav-standard-bluehdi-130-7-plazas/datos",
@@ -1013,7 +1014,7 @@
             ]
         },
         {
-            "name": "Rifter Allure Pack Standard BlueHDi 100",
+            "name": "Allure Pack Standard BlueHDi 100",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/estandar/rifter-allure-pack-standard-bluehdi-100/datos",
@@ -1041,7 +1042,7 @@
             ]
         },
         {
-            "name": "Rifter GT Line Standard BlueHDi 100 7 plazas",
+            "name": "GT Line Standard BlueHDi 100 7 plazas",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/gt-line/rifter-gt-line-standard-bluehdi-100-7-plazas/datos",
@@ -1069,7 +1070,7 @@
             ]
         },
         {
-            "name": "Rifter Allure Standard BlueHDi 130",
+            "name": "Allure Standard BlueHDi 130",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/allure/rifter-allure-standard-bluehdi-130/datos",
@@ -1097,7 +1098,7 @@
             ]
         },
         {
-            "name": "Rifter Active Standard BlueHDi 130 EAT8 7 plazas",
+            "name": "Active Standard BlueHDi 130 EAT8 7 plazas",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/active/rifter-active-standard-bluehdi-130-eat8-7-plazas/datos",
@@ -1125,7 +1126,7 @@
             ]
         },
         {
-            "name": "Rifter Allure Standard BlueHDi 130",
+            "name": "Allure Standard BlueHDi 130",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/allure/rifter-allure-standard-bluehdi-1302/datos",
@@ -1153,7 +1154,7 @@
             ]
         },
         {
-            "name": "Rifter Allure Standard PureTech 130 EAT8",
+            "name": "Allure Standard PureTech 130 EAT8",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/allure/rifter-allure-standard-puretech-130-eat8/datos",
@@ -1181,7 +1182,7 @@
             ]
         },
         {
-            "name": "Rifter Allure Pack Standard BlueHDi 100 7 plazas",
+            "name": "Allure Pack Standard BlueHDi 100 7 plazas",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/estandar/rifter-allure-pack-standard-bluehdi-100-7-plazas/datos",
@@ -1209,7 +1210,7 @@
             ]
         },
         {
-            "name": "Rifter Allure Standard BlueHDi 130 7 plazas",
+            "name": "Allure Standard BlueHDi 130 7 plazas",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/allure/rifter-allure-standard-bluehdi-130-7-plazas/datos",
@@ -1237,7 +1238,7 @@
             ]
         },
         {
-            "name": "Rifter Allure Pack Standard PureTech 130 EAT8",
+            "name": "Allure Pack Standard PureTech 130 EAT8",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/estandar/rifter-allure-pack-standard-puretech-130-eat8/datos",
@@ -1265,7 +1266,7 @@
             ]
         },
         {
-            "name": "Rifter Allure Standard PureTech 130 EAT8 7 plazas",
+            "name": "Allure Standard PureTech 130 EAT8 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/allure/rifter-allure-standard-puretech-130-eat8-7-plazas/datos",
@@ -1293,7 +1294,7 @@
             ]
         },
         {
-            "name": "Rifter NAV+ Standard BlueHDi 130 EAT8",
+            "name": "NAV+ Standard BlueHDi 130 EAT8",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/navplus/rifter-nav-standard-bluehdi-130-eat8/datos",
@@ -1321,7 +1322,7 @@
             ]
         },
         {
-            "name": "Rifter GT Line Standard BlueHDi 130",
+            "name": "GT Line Standard BlueHDi 130",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/gt-line/rifter-gt-line-standard-bluehdi-130/datos",
@@ -1349,7 +1350,7 @@
             ]
         },
         {
-            "name": "Rifter GT Standard BlueHDi 100",
+            "name": "GT Standard BlueHDi 100",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/estandar/rifter-gt-standard-bluehdi-100/datos",
@@ -1377,7 +1378,7 @@
             ]
         },
         {
-            "name": "Rifter Allure Pack Standard PureTech 130 EAT8 7 plazas",
+            "name": "Allure Pack Standard PureTech 130 EAT8 7 plazas",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/estandar/rifter-allure-pack-standard-puretech-130-eat8-7-plazas/datos",
@@ -1405,7 +1406,7 @@
             ]
         },
         {
-            "name": "Rifter GT Line Standard PureTech 130 EAT8",
+            "name": "GT Line Standard PureTech 130 EAT8",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/gt-line/rifter-gt-line-standard-puretech-130-eat8/datos",
@@ -1433,7 +1434,7 @@
             ]
         },
         {
-            "name": "Rifter NAV+ Standard BlueHDi 130 EAT8 7 plazas",
+            "name": "NAV+ Standard BlueHDi 130 EAT8 7 plazas",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/navplus/rifter-nav-standard-bluehdi-130-eat8-7-plazas/datos",
@@ -1461,7 +1462,7 @@
             ]
         },
         {
-            "name": "Rifter Allure Pack Standard BlueHDi 130",
+            "name": "Allure Pack Standard BlueHDi 130",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/estandar/rifter-allure-pack-standard-bluehdi-130/datos",
@@ -1489,7 +1490,7 @@
             ]
         },
         {
-            "name": "Rifter Allure Standard BlueHDi 130 EAT8",
+            "name": "Allure Standard BlueHDi 130 EAT8",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/allure/rifter-allure-standard-bluehdi-130-eat8/datos",
@@ -1517,7 +1518,7 @@
             ]
         },
         {
-            "name": "Rifter GT Line Standard BlueHDi 130 7 plazas",
+            "name": "GT Line Standard BlueHDi 130 7 plazas",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/gt-line/rifter-gt-line-standard-bluehdi-130-7-plazas/datos",
@@ -1545,7 +1546,7 @@
             ]
         },
         {
-            "name": "Rifter GT Standard BlueHDi 100 7 plazas",
+            "name": "GT Standard BlueHDi 100 7 plazas",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/estandar/rifter-gt-standard-bluehdi-100-7-plazas/datos",
@@ -1573,7 +1574,7 @@
             ]
         },
         {
-            "name": "Rifter GT Standard PureTech 130 EAT8",
+            "name": "GT Standard PureTech 130 EAT8",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/estandar/rifter-gt-standard-puretech-130-eat8/datos",
@@ -1601,7 +1602,7 @@
             ]
         },
         {
-            "name": "Rifter GT Line Standard PureTech 130 EAT8 7 plazas",
+            "name": "GT Line Standard PureTech 130 EAT8 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/gt-line/rifter-gt-line-standard-puretech-130-eat8-7-plazas/datos",
@@ -1629,7 +1630,7 @@
             ]
         },
         {
-            "name": "Rifter Allure Pack Standard BlueHDi 130 7 plazas",
+            "name": "Allure Pack Standard BlueHDi 130 7 plazas",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/estandar/rifter-allure-pack-standard-bluehdi-130-7-plazas/datos",
@@ -1657,7 +1658,7 @@
             ]
         },
         {
-            "name": "Rifter Allure Standard BlueHDi 130 EAT8 7 plazas",
+            "name": "Allure Standard BlueHDi 130 EAT8 7 plazas",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/allure/rifter-allure-standard-bluehdi-130-eat8-7-plazas/datos",
@@ -1685,7 +1686,7 @@
             ]
         },
         {
-            "name": "Rifter GT Standard PureTech 130 EAT8 7 plazas",
+            "name": "GT Standard PureTech 130 EAT8 7 plazas",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/estandar/rifter-gt-standard-puretech-130-eat8-7-plazas/datos",
@@ -1713,7 +1714,7 @@
             ]
         },
         {
-            "name": "Rifter GT Line Standard BlueHDi 130 EAT8",
+            "name": "GT Line Standard BlueHDi 130 EAT8",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/gt-line/rifter-gt-line-standard-bluehdi-130-eat8/datos",
@@ -1741,7 +1742,7 @@
             ]
         },
         {
-            "name": "Rifter GT Standard BlueHDi 130",
+            "name": "GT Standard BlueHDi 130",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/estandar/rifter-gt-standard-bluehdi-130/datos",
@@ -1769,7 +1770,7 @@
             ]
         },
         {
-            "name": "Rifter GT Line Standard BlueHDi 130 EAT8 7 plazas",
+            "name": "GT Line Standard BlueHDi 130 EAT8 7 plazas",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/gt-line/rifter-gt-line-standard-bluehdi-130-eat8-7-plazas/datos",
@@ -1797,7 +1798,7 @@
             ]
         },
         {
-            "name": "Rifter GT Standard BlueHDi 130 7 plazas",
+            "name": "GT Standard BlueHDi 130 7 plazas",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/estandar/rifter-gt-standard-bluehdi-130-7-plazas/datos",
@@ -1825,7 +1826,7 @@
             ]
         },
         {
-            "name": "e-Rifter Active Pack 100 kW (136 CV) batería 50 kWh",
+            "name": "e- Active Pack 100 kW (136 CV) batería 50 kWh",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/e/e-rifter-standard/datos",
@@ -1855,7 +1856,7 @@
             ]
         },
         {
-            "name": "e-Rifter Allure 100 kW (136 CV) batería 50 kWh",
+            "name": "e- Allure 100 kW (136 CV) batería 50 kWh",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/e/e-rifter-allure-100-kw-136-cv-bateria-50-kwh/datos",
@@ -1885,7 +1886,7 @@
             ]
         },
         {
-            "name": "e-Rifter Allure Pack 100 kW (136 CV) batería 50 kWh",
+            "name": "e- Allure Pack 100 kW (136 CV) batería 50 kWh",
             "start_year": "2021",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/e/e-rifter-allure-pack-100-kw-136-cv-bateria-50-kwh/datos",
@@ -1915,7 +1916,7 @@
             ]
         },
         {
-            "name": "e-Rifter GT 100 kW (136 CV) batería 50 kWh",
+            "name": "e- GT 100 kW (136 CV) batería 50 kWh",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/peugeot/rifter/2019/estandar/e/e-rifter-gt-100-kw-136-cv-bateria-50-kwh/datos",

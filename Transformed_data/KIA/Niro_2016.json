@@ -1,11 +1,12 @@
 {
+    "brand": "KIA",
     "name": "Niro",
     "year": "2016",
     "url": "https://www.km77.com/coches/kia/niro/2016/estandar",
     "price": "Desde 29.331 €",
     "versions": [
         {
-            "name": "Niro 1.6 HEV Concept",
+            "name": "1.6 HEV Concept",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/kia/niro/2016/estandar/concept/niro-2016/datos",
@@ -218,7 +219,7 @@
             ]
         },
         {
-            "name": "Niro 1.6 HEV Concept",
+            "name": "1.6 HEV Concept",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/niro/2016/estandar/concept/niro-16-hev-concept/datos",
@@ -430,7 +431,7 @@
             ]
         },
         {
-            "name": "Niro 1.6 HEV Drive",
+            "name": "1.6 HEV Drive",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/kia/niro/2016/estandar/drive/niro-16-hev-drive/datos",
@@ -650,7 +651,7 @@
             ]
         },
         {
-            "name": "Niro 1.6 HEV Drive",
+            "name": "1.6 HEV Drive",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/niro/2016/estandar/drive/niro-16-hev-drive2/datos",
@@ -870,7 +871,7 @@
             ]
         },
         {
-            "name": "Niro 1.6 HEV Emotion",
+            "name": "1.6 HEV Emotion",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/kia/niro/2016/estandar/emotion/niro-16-hev-emotion/datos",
@@ -1104,7 +1105,7 @@
             ]
         },
         {
-            "name": "Niro 1.6 HEV Emotion",
+            "name": "1.6 HEV Emotion",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/niro/2016/estandar/emotion/niro-16-hev-emotion2/datos",
@@ -1341,7 +1342,7 @@
             ]
         },
         {
-            "name": "Niro 1.6 PHEV Concept",
+            "name": "1.6 PHEV Concept",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/niro/2016/estandar/phev/niro-16-phev-concept/datos",
@@ -1559,7 +1560,7 @@
             ]
         },
         {
-            "name": "e-Niro 100 kW (136 CV) batería 39 kWh Concept",
+            "name": "e- 100 kW (136 CV) batería 39 kWh Concept",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/kia/niro/2016/estandar/e-niro/e-niro-100-kw-136-cv-bateria-39-kwh-concept/datos",
@@ -1781,7 +1782,7 @@
             ]
         },
         {
-            "name": "Niro 1.6 PHEV Drive",
+            "name": "1.6 PHEV Drive",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/niro/2016/estandar/phev/niro-16-phev-drive/datos",
@@ -2007,7 +2008,7 @@
             ]
         },
         {
-            "name": "e-Niro 100 kW (136 CV) batería 39 kWh Drive",
+            "name": "e- 100 kW (136 CV) batería 39 kWh Drive",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/kia/niro/2016/estandar/e-niro/e-niro-100-kw-136-cv-bateria-39-kwh-drive/datos",
@@ -2236,7 +2237,7 @@
             ]
         },
         {
-            "name": "Niro 1.6 PHEV Emotion",
+            "name": "1.6 PHEV Emotion",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/niro/2016/estandar/phev/niro-16-phev-emotion/datos",
@@ -2480,7 +2481,7 @@
             ]
         },
         {
-            "name": "e-Niro 100 kW (136 CV) batería 39 kWh Emotion",
+            "name": "e- 100 kW (136 CV) batería 39 kWh Emotion",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/kia/niro/2016/estandar/e-niro/e-niro-100-kw-136-cv-bateria-39-kwh-emotion/datos",
@@ -2724,7 +2725,7 @@
             ]
         },
         {
-            "name": "e-Niro 150 kW (204 CV) batería 64 kWh Drive",
+            "name": "e- 150 kW (204 CV) batería 64 kWh Drive",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/kia/niro/2016/estandar/e-niro/e-niro-150-kw-204-cv-bateria-64-kwh-drive/datos",
@@ -2948,7 +2949,7 @@
             ]
         },
         {
-            "name": "e-Niro 150 kW (204 CV) batería 64 kWh Emotion",
+            "name": "e- 150 kW (204 CV) batería 64 kWh Emotion",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/kia/niro/2016/estandar/e-niro/e-niro-150-kw-204-cv-bateria-64-kwh-emotion/datos",

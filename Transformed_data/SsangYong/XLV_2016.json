@@ -1,11 +1,12 @@
 {
+    "brand": "SsangYong",
     "name": "XLV",
     "year": "2016",
     "url": "https://www.km77.com/coches/ssangyong/xlv/2016/estandar",
     "price": "",
     "versions": [
         {
-            "name": "XLV G16 4x2 Line",
+            "name": "G16 4x2 Line",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ssangyong/xlv/2016/estandar/line/xlv-g16-line/datos",
@@ -95,7 +96,7 @@
             ]
         },
         {
-            "name": "XLV G16 Line",
+            "name": "G16 Line",
             "start_year": "2016",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ssangyong/xlv/2016/estandar/line/tivoli-xlv-g16-4x2/datos",
@@ -190,7 +191,7 @@
             ]
         },
         {
-            "name": "XLV G16 4x2 Premium",
+            "name": "G16 4x2 Premium",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ssangyong/xlv/2016/estandar/premium/xlv-g16-premium2/datos",
@@ -280,7 +281,7 @@
             ]
         },
         {
-            "name": "XLV G16 Premium",
+            "name": "G16 Premium",
             "start_year": "2016",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ssangyong/xlv/2016/estandar/premium/xlv-g16-premium/datos",
@@ -375,7 +376,7 @@
             ]
         },
         {
-            "name": "XLV D16T 4x2 Premium",
+            "name": "D16T 4x2 Premium",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ssangyong/xlv/2016/estandar/premium/tivoli-xlv-d16t-4x2/datos",
@@ -465,7 +466,7 @@
             ]
         },
         {
-            "name": "XLV D16T 4x2 Limited",
+            "name": "D16T 4x2 Limited",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ssangyong/xlv/2016/estandar/limited/xlv-d16t-limited/datos",
@@ -555,7 +556,7 @@
             ]
         },
         {
-            "name": "XLV D16T 4x2 Premium Aut.",
+            "name": "D16T 4x2 Premium Aut.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ssangyong/xlv/2016/estandar/premium/tivoli-xlv-d16t-4x2-aut/datos",
@@ -644,7 +645,7 @@
             ]
         },
         {
-            "name": "XLV D16T 4x2 Limited Aut.",
+            "name": "D16T 4x2 Limited Aut.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ssangyong/xlv/2016/estandar/limited/xlv-d16t-limited-aut/datos",

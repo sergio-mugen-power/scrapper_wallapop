@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "A3 Sportback",
     "year": "2008",
     "url": "https://www.km77.com/coches/audi/a3/2008/sportback",
     "price": "Desde 33.890 €",
     "versions": [
         {
-            "name": "A3 Sportback 1.4 TFSI Attraction",
+            "name": "1.4 TFSI Attraction",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/attraction/a3-sportback-14-tfsi-attraction/datos",
@@ -93,7 +94,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Attraction 1.4 TFSI",
+            "name": "Attraction 1.4 TFSI",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/attraction/a3-sportback-attraction-14-tfsi/datos",
@@ -181,7 +182,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Attraction 1.6 TDI DPF",
+            "name": "Attraction 1.6 TDI DPF",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/attraction/a3-sportback-attraction-16-tdi-dpf/datos",
@@ -430,7 +431,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Attraction 1.6 TDI e DPF",
+            "name": "Attraction 1.6 TDI e DPF",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/attraction/a3-sportback-attraction-16-tdi-e-dpf/datos",
@@ -515,7 +516,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Attraction 1.9 TDIe DPF",
+            "name": "Attraction 1.9 TDIe DPF",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/attraction/a3-sportback-attraction-19-tdie-dpf/datos",
@@ -599,7 +600,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 1.9 TDI Attraction",
+            "name": "1.9 TDI Attraction",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/attraction/a3-sportback-19-tdi-attraction/datos",
@@ -687,7 +688,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 1.9 TDI DPF Attraction",
+            "name": "1.9 TDI DPF Attraction",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/attraction/a3-sportback-19-tdi-dpf-attraction/datos",
@@ -775,7 +776,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Attraction 2.0 TDI 140 CV DPF",
+            "name": "Attraction 2.0 TDI 140 CV DPF",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/attraction/a3-sportback-attraction-20-tdi-140-cv-dpf2/datos",
@@ -860,7 +861,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 1.4 TFSI Ambiente",
+            "name": "1.4 TFSI Ambiente",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambiente/a3-sportback-14-tfsi-ambiente/datos",
@@ -948,7 +949,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 1.4 TFSI Ambition",
+            "name": "1.4 TFSI Ambition",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambition/a3-sportback-14-tfsi-ambition/datos",
@@ -1036,7 +1037,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Attraction 2.0 TDI 140 CV DPF",
+            "name": "Attraction 2.0 TDI 140 CV DPF",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/attraction/a3-sportback-attraction-20-tdi-140-cv-dpf/datos",
@@ -1124,7 +1125,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Attraction 1.8 TFSI",
+            "name": "Attraction 1.8 TFSI",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/attraction/a3-sportback-attraction-18-tfsi/datos",
@@ -1377,7 +1378,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Attraction 1.4 TFSI S tronic 7 vel.",
+            "name": "Attraction 1.4 TFSI S tronic 7 vel.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/attraction/a3-sportback-attraction-14-tfsi-s-tronic-7-vel/datos",
@@ -1466,7 +1467,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Attraction 1.6 TDI DPF S tronic 7 vel.",
+            "name": "Attraction 1.6 TDI DPF S tronic 7 vel.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/attraction/a3-sportback-attraction-16-tdi-dpf-s-tronic-7-vel/datos",
@@ -1555,7 +1556,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambiente 1.4 TFSI",
+            "name": "Ambiente 1.4 TFSI",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambiente/a3-sportback-ambiente-14-tfsi/datos",
@@ -1643,7 +1644,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambiente 1.6 TDI DPF",
+            "name": "Ambiente 1.6 TDI DPF",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambiente/a3-sportback-ambiente-16-tdi-dpf/datos",
@@ -1731,7 +1732,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambition 1.4 TFSI",
+            "name": "Ambition 1.4 TFSI",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambition/a3-sportback-ambition-14-tfsi/datos",
@@ -1819,7 +1820,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambiente 1.9 TDIe DPF",
+            "name": "Ambiente 1.9 TDIe DPF",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambiente/a3-sportback-ambiente-19-tdie-dpf/datos",
@@ -1903,7 +1904,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambition 1.6 TDI DPF",
+            "name": "Ambition 1.6 TDI DPF",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambition/a3-sportback-ambition-16-tdi-dpf/datos",
@@ -1991,7 +1992,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 1.9 TDI Ambiente",
+            "name": "1.9 TDI Ambiente",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambiente/a3-sportback-19-tdi-ambiente/datos",
@@ -2079,7 +2080,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambition 1.9 TDIe DPF",
+            "name": "Ambition 1.9 TDIe DPF",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambition/a3-sportback-ambition-19-tdie-dpf/datos",
@@ -2315,7 +2316,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 1.9 TDI Ambition",
+            "name": "1.9 TDI Ambition",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambition/a3-sportback-19-tdi-ambition/datos",
@@ -2562,7 +2563,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 1.9 TDI DPF Ambiente",
+            "name": "1.9 TDI DPF Ambiente",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambiente/a3-sportback-19-tdi-dpf-ambiente/datos",
@@ -2809,7 +2810,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Attraction 1.9 TDI S tronic DPF",
+            "name": "Attraction 1.9 TDI S tronic DPF",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/attraction/a3-sportback-attraction-19-tdi-s-tronic-dpf/datos",
@@ -2898,7 +2899,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 1.9 TDI DPF Ambition",
+            "name": "1.9 TDI DPF Ambition",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambition/a3-sportback-19-tdi-dpf-ambition/datos",
@@ -2986,7 +2987,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambiente 2.0 TDI 140 CV DPF",
+            "name": "Ambiente 2.0 TDI 140 CV DPF",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambiente/a3-sportback-ambiente-20-tdi-140-cv-dpf2/datos",
@@ -3071,7 +3072,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambition 2.0 TDI 140 CV DPF",
+            "name": "Ambition 2.0 TDI 140 CV DPF",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambition/a3-sportback-ambition-20-tdi-140-cv-dpf2/datos",
@@ -3324,7 +3325,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Attraction 2.0 TDI 140 CV quattro DPF",
+            "name": "Attraction 2.0 TDI 140 CV quattro DPF",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/attraction/a3-sportback-attraction-20-tdi-140-cv-quattro-dpf/datos",
@@ -3575,7 +3576,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Attraction 1.8 TFSI S tronic 7 vel.",
+            "name": "Attraction 1.8 TFSI S tronic 7 vel.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/attraction/a3-sportback-attraction-18-tfsi-s-tronic-7-vel/datos",
@@ -3664,7 +3665,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Attraction 2.0 TDI 140 CV S tronic DPF",
+            "name": "Attraction 2.0 TDI 140 CV S tronic DPF",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/attraction/a3-sportback-attraction-20-tdi-140-cv-s-tronic-dpf/datos",
@@ -3753,7 +3754,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambiente 1.8 TFSI",
+            "name": "Ambiente 1.8 TFSI",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambiente/a3-sportback-ambiente-18-tfsi/datos",
@@ -3841,7 +3842,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Attraction 2.0 TDI 170 CV DPF",
+            "name": "Attraction 2.0 TDI 170 CV DPF",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/attraction/a3-sportback-attraction-20-tdi-170-cv-dpf/datos",
@@ -4092,7 +4093,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambiente 1.4 TFSI S tronic 7 vel.",
+            "name": "Ambiente 1.4 TFSI S tronic 7 vel.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambiente/a3-sportback-ambiente-14-tfsi-s-tronic-7-vel/datos",
@@ -4181,7 +4182,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambiente 1.6 TDI DPF S tronic 7 vel.",
+            "name": "Ambiente 1.6 TDI DPF S tronic 7 vel.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambiente/a3-sportback-ambiente-16-tdi-dpf-s-tronic-7-vel/datos",
@@ -4270,7 +4271,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Attraction 2.0 TDI 140 CV S tronic DPF",
+            "name": "Attraction 2.0 TDI 140 CV S tronic DPF",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/attraction/a3-sportback-attraction-20-tdi-140-cv-s-tronic-dpf2/datos",
@@ -4359,7 +4360,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Attraction 2.0 TDI 140 CV quattro DPF",
+            "name": "Attraction 2.0 TDI 140 CV quattro DPF",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/attraction/a3-sportback-attraction-20-tdi-140-cv-quattro-dpf2/datos",
@@ -4444,7 +4445,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambition 1.8 TFSI",
+            "name": "Ambition 1.8 TFSI",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambition/a3-sportback-ambition-18-tfsi/datos",
@@ -4532,7 +4533,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambiente 2.0 TDI 140 CV DPF",
+            "name": "Ambiente 2.0 TDI 140 CV DPF",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambiente/a3-sportback-ambiente-20-tdi-140-cv-dpf/datos",
@@ -4784,7 +4785,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambition 1.4 TFSI S tronic 7 vel.",
+            "name": "Ambition 1.4 TFSI S tronic 7 vel.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambition/a3-sportback-ambition-14-tfsi-s-tronic-7-vel/datos",
@@ -4873,7 +4874,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambition 1.6 TDI DPF S tronic 7 vel.",
+            "name": "Ambition 1.6 TDI DPF S tronic 7 vel.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambition/a3-sportback-ambition-16-tdi-dpf-s-tronic-7-vel/datos",
@@ -4962,7 +4963,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambition 2.0 TDI 140 CV DPF",
+            "name": "Ambition 2.0 TDI 140 CV DPF",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambition/a3-sportback-ambition-20-tdi-140-cv-dpf/datos",
@@ -5050,7 +5051,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Attraction 1.8 TFSI quattro",
+            "name": "Attraction 1.8 TFSI quattro",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/attraction/a3-sportback-attraction-18-tfsi-quattro/datos",
@@ -5138,7 +5139,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Attraction 2.0 TFSI",
+            "name": "Attraction 2.0 TFSI",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/attraction/a3-sportback-attraction-20-tfsi/datos",
@@ -5391,7 +5392,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambiente 1.9 TDI S tronic DPF",
+            "name": "Ambiente 1.9 TDI S tronic DPF",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambiente/a3-sportback-ambiente-19-tdi-s-tronic-dpf/datos",
@@ -5638,7 +5639,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambition 1.9 TDI S tronic DPF",
+            "name": "Ambition 1.9 TDI S tronic DPF",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambition/a3-sportback-ambition-19-tdi-s-tronic-dpf/datos",
@@ -5727,7 +5728,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambiente 1.8 TFSI S tronic 7 vel.",
+            "name": "Ambiente 1.8 TFSI S tronic 7 vel.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambiente/a3-sportback-ambiente-18-tfsi-s-tronic-7-vel/datos",
@@ -5979,7 +5980,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Attraction 2.0 TDI 170 CV S tronic DPF",
+            "name": "Attraction 2.0 TDI 170 CV S tronic DPF",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/attraction/a3-sportback-attraction-20-tdi-170-cv-s-tronic-dpf/datos",
@@ -6229,7 +6230,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Attraction 2.0 TDI 170 CV quattro DPF",
+            "name": "Attraction 2.0 TDI 170 CV quattro DPF",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/attraction/a3-sportback-attraction-20-tdi-170-cv-quattro-dpf/datos",
@@ -6483,7 +6484,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambition 1.8 TFSI S tronic 7 vel.",
+            "name": "Ambition 1.8 TFSI S tronic 7 vel.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambition/a3-sportback-ambition-18-tfsi-s-tronic-7-vel/datos",
@@ -6736,7 +6737,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambiente 2.0 TDI 140 CV quattro DPF",
+            "name": "Ambiente 2.0 TDI 140 CV quattro DPF",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambiente/a3-sportback-ambiente-20-tdi-140-cv-quattro-dpf/datos",
@@ -6985,7 +6986,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambiente 2.0 TDI 170 CV DPF",
+            "name": "Ambiente 2.0 TDI 170 CV DPF",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambiente/a3-sportback-ambiente-20-tdi-170-cv-dpf/datos",
@@ -7234,7 +7235,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambition 2.0 TDI 140 CV quattro DPF",
+            "name": "Ambition 2.0 TDI 140 CV quattro DPF",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambition/a3-sportback-ambition-20-tdi-140-cv-quattro-dpf/datos",
@@ -7484,7 +7485,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambition 2.0 TDI 170 CV DPF",
+            "name": "Ambition 2.0 TDI 170 CV DPF",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambition/a3-sportback-ambition-20-tdi-170-cv-dpf/datos",
@@ -7734,7 +7735,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambiente 2.0 TDI 140 CV S tronic DPF",
+            "name": "Ambiente 2.0 TDI 140 CV S tronic DPF",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambiente/a3-sportback-ambiente-20-tdi-140-cv-s-tronic-dpf/datos",
@@ -7987,7 +7988,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambiente 2.0 TDI 140 CV S tronic DPF",
+            "name": "Ambiente 2.0 TDI 140 CV S tronic DPF",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambiente/a3-sportback-ambiente-20-tdi-140-cv-s-tronic-dpf2/datos",
@@ -8242,7 +8243,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambiente 2.0 TDI 140 CV quattro DPF",
+            "name": "Ambiente 2.0 TDI 140 CV quattro DPF",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambiente/a3-sportback-ambiente-20-tdi-140-cv-quattro-dpf2/datos",
@@ -8493,7 +8494,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambition 2.0 TDI 140 CV S tronic DPF",
+            "name": "Ambition 2.0 TDI 140 CV S tronic DPF",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambition/a3-sportback-ambition-20-tdi-140-cv-s-tronic-dpf/datos",
@@ -8747,7 +8748,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambition 2.0 TDI 140 CV S tronic DPF",
+            "name": "Ambition 2.0 TDI 140 CV S tronic DPF",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambition/a3-sportback-ambition-20-tdi-140-cv-s-tronic-dpf2/datos",
@@ -9003,7 +9004,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambition 2.0 TDI 140 CV quattro DPF",
+            "name": "Ambition 2.0 TDI 140 CV quattro DPF",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambition/a3-sportback-ambition-20-tdi-140-cv-quattro-dpf2/datos",
@@ -9255,7 +9256,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambiente 1.8 TFSI quattro",
+            "name": "Ambiente 1.8 TFSI quattro",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambiente/a3-sportback-ambiente-18-tfsi-quattro/datos",
@@ -9506,7 +9507,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambiente 2.0 TFSI",
+            "name": "Ambiente 2.0 TFSI",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambiente/a3-sportback-ambiente-20-tfsi/datos",
@@ -9757,7 +9758,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambition 1.8 TFSI quattro",
+            "name": "Ambition 1.8 TFSI quattro",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambition/a3-sportback-ambition-18-tfsi-quattro/datos",
@@ -10009,7 +10010,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambition 2.0 TFSI",
+            "name": "Ambition 2.0 TFSI",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambition/a3-sportback-ambition-20-tfsi/datos",
@@ -10261,7 +10262,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambiente 2.0 TDI 170 CV S tronic DPF",
+            "name": "Ambiente 2.0 TDI 170 CV S tronic DPF",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambiente/a3-sportback-ambiente-20-tdi-170-cv-s-tronic-dpf/datos",
@@ -10511,7 +10512,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambiente 2.0 TDI 170 CV quattro DPF",
+            "name": "Ambiente 2.0 TDI 170 CV quattro DPF",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambiente/a3-sportback-ambiente-20-tdi-170-cv-quattro-dpf/datos",
@@ -10599,7 +10600,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambition 2.0 TDI 170 CV S tronic DPF",
+            "name": "Ambition 2.0 TDI 170 CV S tronic DPF",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambition/a3-sportback-ambition-20-tdi-170-cv-s-tronic-dpf/datos",
@@ -10685,7 +10686,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambition 2.0 TDI 170 CV quattro DPF",
+            "name": "Ambition 2.0 TDI 170 CV quattro DPF",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambition/a3-sportback-ambition-20-tdi-170-cv-quattro-dpf/datos",
@@ -10938,7 +10939,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambition 2.0 TFSI S tronic",
+            "name": "Ambition 2.0 TFSI S tronic",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambition/a3-sportback-ambition-20-tfsi-s-tronic/datos",
@@ -11191,7 +11192,7 @@
             ]
         },
         {
-            "name": "A3 Sportback Ambition 2.0 TFSI quattro S tronic",
+            "name": "Ambition 2.0 TFSI quattro S tronic",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambition/a3-sportback-ambition-20-tfsi-quattro-s-tronic/datos",
@@ -11684,7 +11685,7 @@
             ]
         },
         {
-            "name": "A3 Sportback 3.2 V6 quattro S tronic Ambition",
+            "name": "3.2 V6 quattro S tronic Ambition",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/a3/2008/sportback/ambition/a3-sportback-32-v6-quattro-s-tronic-ambition/datos",

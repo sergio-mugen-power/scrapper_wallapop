@@ -1,11 +1,12 @@
 {
+    "brand": "Renault",
     "name": "Latitude",
     "year": "2011",
     "url": "https://www.km77.com/coches/renault/latitude/2011/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Latitude Expression 2.0 16V 140",
+            "name": "Expression 2.0 16V 140",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/latitude/2011/estandar/expression/latitude-expression-20-16v-140-eco2/datos",
@@ -183,7 +184,7 @@
             ]
         },
         {
-            "name": "Latitude Expression 2.0 16V 140",
+            "name": "Expression 2.0 16V 140",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/latitude/2011/estandar/expression/latitude-expression-20-16v-140/datos",
@@ -361,7 +362,7 @@
             ]
         },
         {
-            "name": "Latitude Privilege 2.0 16V 140",
+            "name": "Privilege 2.0 16V 140",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/renault/latitude/2011/estandar/privilege/latitude-privilege-20-16v-140-eco2/datos",
@@ -548,7 +549,7 @@
             ]
         },
         {
-            "name": "Latitude Expression dCi 150",
+            "name": "Expression dCi 150",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/latitude/2011/estandar/expression/latitude-expression-dci-150-fap-eco2/datos",
@@ -729,7 +730,7 @@
             ]
         },
         {
-            "name": "Latitude Expression dCi 150",
+            "name": "Expression dCi 150",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/latitude/2011/estandar/expression/latitude-expression-dci-150/datos",
@@ -911,7 +912,7 @@
             ]
         },
         {
-            "name": "Latitude Privilege dCi 150",
+            "name": "Privilege dCi 150",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/latitude/2011/estandar/privilege/latitude-privilege-dci-150-fap-eco2/datos",
@@ -1101,7 +1102,7 @@
             ]
         },
         {
-            "name": "Latitude Privilege dCi 175",
+            "name": "Privilege dCi 175",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/renault/latitude/2011/estandar/privilege/latitude-privilege-dci-175-fap/datos",
@@ -1291,7 +1292,7 @@
             ]
         },
         {
-            "name": "Latitude Privilege dCi 150",
+            "name": "Privilege dCi 150",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/renault/latitude/2011/estandar/privilege/latitude-privilege-dci-150/datos",
@@ -1479,7 +1480,7 @@
             ]
         },
         {
-            "name": "Latitude Privilege dCi 175 Aut.",
+            "name": "Privilege dCi 175 Aut.",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/latitude/2011/estandar/privilege/latitude-privilege-dci-175-fap-aut/datos",
@@ -1669,7 +1670,7 @@
             ]
         },
         {
-            "name": "Latitude Privilege dCi 175 Aut.",
+            "name": "Privilege dCi 175 Aut.",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/renault/latitude/2011/estandar/privilege/latitude-privilege-dci-175-aut/datos",
@@ -1857,7 +1858,7 @@
             ]
         },
         {
-            "name": "Latitude Initiale dCi 175",
+            "name": "Initiale dCi 175",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/latitude/2011/estandar/initiale/latitude-initiale-dci-175-fap/datos",
@@ -2050,7 +2051,7 @@
             ]
         },
         {
-            "name": "Latitude Initiale dCi 175",
+            "name": "Initiale dCi 175",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/latitude/2011/estandar/initiale/latitude-initiale-dci-175/datos",
@@ -2243,7 +2244,7 @@
             ]
         },
         {
-            "name": "Latitude Initiale V6 dCi 240 Aut.",
+            "name": "Initiale V6 dCi 240 Aut.",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/latitude/2011/estandar/initiale/latitude-initiale-v6-dci-240-fap-aut/datos",
@@ -2437,7 +2438,7 @@
             ]
         },
         {
-            "name": "Latitude Initiale V6 dCi 240 Aut.",
+            "name": "Initiale V6 dCi 240 Aut.",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/latitude/2011/estandar/initiale/latitude-initiale-v6-dci-240-aut/datos",

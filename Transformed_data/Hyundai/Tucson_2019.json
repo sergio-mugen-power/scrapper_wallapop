@@ -1,11 +1,12 @@
 {
+    "brand": "Hyundai",
     "name": "Tucson",
     "year": "2019",
     "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar",
     "price": "Desde 33.325 €",
     "versions": [
         {
-            "name": "Tucson 1.6 GDI 97 kW (131 CV) 4x2 Essence",
+            "name": "1.6 GDI 97 kW (131 CV) 4x2 Essence",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/essence/tucson-16-gdi-97-kw-131-cv-4x2-essence/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 GDI 97 kW (131 CV) 4x2 Essence",
+            "name": "1.6 GDI 97 kW (131 CV) 4x2 Essence",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/essence/tucson-16-gdi-97-kw-131-cv-4x2-essence2/datos",
@@ -397,7 +398,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 GDI 97 kW (131 CV) 4x2 Klass BE",
+            "name": "1.6 GDI 97 kW (131 CV) 4x2 Klass BE",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/klass/tucson-16-gdi-97-kw-131-cv-4x2-klass-be/datos",
@@ -597,7 +598,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 CRDi 85 kW (116 CV) 4x2 Essence",
+            "name": "1.6 CRDi 85 kW (116 CV) 4x2 Essence",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/essence/tucson-16-crdi-85-kw-116-cv-4x2-essence/datos",
@@ -790,7 +791,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 GDI 97 kW (131 CV) 4x2 SLE",
+            "name": "1.6 GDI 97 kW (131 CV) 4x2 SLE",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/sle/tucson-16-gdi-97-kw-131-cv-4x2-sle/datos",
@@ -997,7 +998,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 CRDi 85 kW (116 CV) 4x2 Essence",
+            "name": "1.6 CRDi 85 kW (116 CV) 4x2 Essence",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/essence/tucson-16-crdi-85-kw-116-cv-4x2-essence2/datos",
@@ -1193,7 +1194,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 GDI 97 kW (131 CV) 4x2 Klass",
+            "name": "1.6 GDI 97 kW (131 CV) 4x2 Klass",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/klass/tucson-16-gdi-97-kw-131-cv-4x2-klass/datos",
@@ -1394,7 +1395,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 GDI 97 kW (131 CV) 4x2 Edición Especial",
+            "name": "1.6 GDI 97 kW (131 CV) 4x2 Edición Especial",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/edicion-especial/tucson-16-gdi-97-kw-131-cv-4x2-edicion-especial/datos",
@@ -1597,7 +1598,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 GDI 97 kW (131 CV) 4x2 SLE",
+            "name": "1.6 GDI 97 kW (131 CV) 4x2 SLE",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/edicion-especial/tucson-16-gdi-97-kw-131-cv-4x2-edicion-especial2/datos",
@@ -1800,7 +1801,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 T-GDI 130 kW (177 CV) 4x2 Klass",
+            "name": "1.6 T-GDI 130 kW (177 CV) 4x2 Klass",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/klass/tucson-16-t-gdi-130-kw-177-cv-4x2-klass/datos",
@@ -2003,7 +2004,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 CRDi 85 kW (116 CV) 48V 4x2 Klass",
+            "name": "1.6 CRDi 85 kW (116 CV) 48V 4x2 Klass",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/klass/tucson-16-crdi-85-kw-116-cv-48v-4x2-klass/datos",
@@ -2217,7 +2218,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 CRDi 85 kW (116 CV) 48V 4x2 Klass",
+            "name": "1.6 CRDi 85 kW (116 CV) 48V 4x2 Klass",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/klass/tucson-16-crdi-85-kw-116-cv-48v-4x2-klass2/datos",
@@ -2430,7 +2431,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 CRDi 85 kW (116 CV) 4x2 Klass",
+            "name": "1.6 CRDi 85 kW (116 CV) 4x2 Klass",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/klass/tucson-16-crdi-85-kw-116-cv-4x2-klass/datos",
@@ -2631,7 +2632,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 CRDi 85 kW (116 CV) 4x2 SLE",
+            "name": "1.6 CRDi 85 kW (116 CV) 4x2 SLE",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/sle/tucson-16-crdi-85-kw-116-cv-4x2-sle/datos",
@@ -2836,7 +2837,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 CRDi 85 kW (116 CV) 48V 4x2 Edición Especial",
+            "name": "1.6 CRDi 85 kW (116 CV) 48V 4x2 Edición Especial",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/edicion-especial/tucson-16-crdi-85-kw-116-cv-48v-4x2-edicion-especial/datos",
@@ -3053,7 +3054,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 GDI 97 kW (131 CV) 4x2 Tecno",
+            "name": "1.6 GDI 97 kW (131 CV) 4x2 Tecno",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/tecno/tucson-16-gdi-97-kw-131-cv-4x2-tecno3/datos",
@@ -3279,7 +3280,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 CRDi 85 kW (116 CV) 48V 4x2 SLE",
+            "name": "1.6 CRDi 85 kW (116 CV) 48V 4x2 SLE",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/sle/tucson-16-crdi-85-kw-116-cv-48v-4x2-sle/datos",
@@ -3497,7 +3498,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 CRDi 85 kW (116 CV) 4x2 SLE",
+            "name": "1.6 CRDi 85 kW (116 CV) 4x2 SLE",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/edicion-especial/tucson-16-crdi-85-kw-116-cv-4x2-edicion-especial/datos",
@@ -3701,7 +3702,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 GDI 97 kW (131 CV) 4x2 Tecno",
+            "name": "1.6 GDI 97 kW (131 CV) 4x2 Tecno",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/tecno/tucson-16-gdi-97-kw-131-cv-4x2-tecno2/datos",
@@ -3927,7 +3928,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 GDI 97 kW (131 CV) 4x2 Tecno",
+            "name": "1.6 GDI 97 kW (131 CV) 4x2 Tecno",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/tecno/tucson-16-gdi-97-kw-131-cv-4x2-tecno/datos",
@@ -4149,7 +4150,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 GDI 97 kW (131 CV) 4x2 N Line Lite",
+            "name": "1.6 GDI 97 kW (131 CV) 4x2 N Line Lite",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/n-line-lite/tucson-16-gdi-97-kw-131-cv-4x2-n-line-lite/datos",
@@ -4377,7 +4378,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 CRDi 85 kW (116 CV) 48V 4x2 SLE",
+            "name": "1.6 CRDi 85 kW (116 CV) 48V 4x2 SLE",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/edicion-especial/tucson-16-crdi-85-kw-116-cv-48v-4x2-edicion-especial2/datos",
@@ -4594,7 +4595,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 CRDi 85 kW (116 CV) 48V 4x2 Tecno",
+            "name": "1.6 CRDi 85 kW (116 CV) 48V 4x2 Tecno",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/tecno/tucson-16-crdi-85-kw-116-cv-48v-4x2-tecno2/datos",
@@ -4835,7 +4836,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 CRDi 85 kW (116 CV) 48V 4x2 N Line Lite",
+            "name": "1.6 CRDi 85 kW (116 CV) 48V 4x2 N Line Lite",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/n-line-lite/tucson-16-crdi-85-kw-116-cv-48v-4x2-n-line-lite/datos",
@@ -5076,7 +5077,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 CRDi 85 kW (116 CV) 48V 4x2 Tecno",
+            "name": "1.6 CRDi 85 kW (116 CV) 48V 4x2 Tecno",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/tecno/tucson-16-crdi-85-kw-116-cv-48v-4x2-tecno4/datos",
@@ -5317,7 +5318,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 CRDi 85 kW (116 CV) 48V 4x2 Tecno",
+            "name": "1.6 CRDi 85 kW (116 CV) 48V 4x2 Tecno",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/tecno/tucson-16-crdi-85-kw-116-cv-48v-4x2-tecno/datos",
@@ -5552,7 +5553,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 CRDi 85 kW (116 CV) 4x2 Tecno",
+            "name": "1.6 CRDi 85 kW (116 CV) 4x2 Tecno",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/tecno/tucson-16-crdi-85-kw-116-cv-4x2-tecno/datos",
@@ -5774,7 +5775,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 T-GDI 130 kW (177 CV) 4x2 Tecno",
+            "name": "1.6 T-GDI 130 kW (177 CV) 4x2 Tecno",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/tecno/tucson-16-t-gdi-130-kw-177-cv-4x2-tecno/datos",
@@ -6000,7 +6001,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 T-GDI 130 kW (177 CV) 4x2 N Line",
+            "name": "1.6 T-GDI 130 kW (177 CV) 4x2 N Line",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/n-line/tucson-16-t-gdi-130-kw-177-cv-4x2-n-line2/datos",
@@ -6221,7 +6222,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 T-GDI 130 kW (177 CV) 4x2 N Line",
+            "name": "1.6 T-GDI 130 kW (177 CV) 4x2 N Line",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/n-line/tucson-16-t-gdi-130-kw-177-cv-4x2-n-line/datos",
@@ -6440,7 +6441,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 CRDi 85 kW (116 CV) 48V 4x2 N Line Lite",
+            "name": "1.6 CRDi 85 kW (116 CV) 48V 4x2 N Line Lite",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/n-line-lite/tucson-16-crdi-85-kw-116-cv-48v-4x2-n-line-lite2/datos",
@@ -6680,7 +6681,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 T-GDI 130 kW (177 CV) 4x2 DCT Tecno",
+            "name": "1.6 T-GDI 130 kW (177 CV) 4x2 DCT Tecno",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/tecno/tucson-16-t-gdi-130-kw-177-cv-4x2-dct-tecno/datos",
@@ -6903,7 +6904,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 CRDi 100 kW (136 CV) 4x2 DCT Tecno",
+            "name": "1.6 CRDi 100 kW (136 CV) 4x2 DCT Tecno",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/tecno/tucson-16-crdi-100-kw-136-cv-4x2-dct-tecno/datos",
@@ -7127,7 +7128,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 T-GDI 130 kW (177 CV) 4x2 DCT N Line",
+            "name": "1.6 T-GDI 130 kW (177 CV) 4x2 DCT N Line",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/n-line/tucson-16-t-gdi-130-kw-177-cv-4x2-dct-n-line/datos",
@@ -7348,7 +7349,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 T-GDI 130 kW (177 CV) 4x2 N Line X",
+            "name": "1.6 T-GDI 130 kW (177 CV) 4x2 N Line X",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/n-line-x/tucson-16-t-gdi-130-kw-177-cv-4x2-n-line-x2/datos",
@@ -7574,7 +7575,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 T-GDI 130 kW (177 CV) 4x2 N Line X",
+            "name": "1.6 T-GDI 130 kW (177 CV) 4x2 N Line X",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/n-line-x/tucson-16-t-gdi-130-kw-177-cv-4x2-n-line-x/datos",
@@ -7799,7 +7800,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 CRDi 100 kW (136 CV) 48V 4x2 N Line",
+            "name": "1.6 CRDi 100 kW (136 CV) 48V 4x2 N Line",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/n-line/tucson-16-crdi-100-kw-136-cv-48v-4x2-n-line/datos",
@@ -8033,7 +8034,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 CRDi 100 kW (136 CV) 48V 4x2 N Line X",
+            "name": "1.6 CRDi 100 kW (136 CV) 48V 4x2 N Line X",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/n-line-x/tucson-16-crdi-100-kw-136-cv-48v-4x2-n-line-x/datos",
@@ -8274,7 +8275,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 T-GDI 130 kW (177 CV) 4x4 DCT Tecno",
+            "name": "1.6 T-GDI 130 kW (177 CV) 4x4 DCT Tecno",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/tecno/tucson-16-t-gdi-130-kw-177-cv-4x4-dct-tecno/datos",
@@ -8498,7 +8499,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 T-GDI 130 kW (177 CV) 4x4 DCT Tecno",
+            "name": "1.6 T-GDI 130 kW (177 CV) 4x4 DCT Tecno",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/tecno/tucson-16-t-gdi-130-kw-177-cv-4x4-dct-tecno2/datos",
@@ -8722,7 +8723,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 T-GDI 130 kW (177 CV) 4x4 DCT N Line",
+            "name": "1.6 T-GDI 130 kW (177 CV) 4x4 DCT N Line",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/n-line/tucson-16-t-gdi-130-kw-177-cv-4x4-dct-n-line/datos",
@@ -8942,7 +8943,7 @@
             ]
         },
         {
-            "name": "Tucson 2.0 CRDi 136 kW (185 CV) 48V 4x4 AT Edición Especial",
+            "name": "2.0 CRDi 136 kW (185 CV) 48V 4x4 AT Edición Especial",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/edicion-especial/tucson-20-crdi-136-kw-185-cv-48v-4x4-at-edicion-especial/datos",
@@ -9159,7 +9160,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 T-GDI 130 kW (177 CV) 4x2 DCT N Line X",
+            "name": "1.6 T-GDI 130 kW (177 CV) 4x2 DCT N Line X",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/n-line-x/tucson-16-t-gdi-130-kw-177-cv-4x2-dct-n-line-x/datos",
@@ -9385,7 +9386,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 CRDi 100 kW (136 CV) 48V 4x2 DCT N Line",
+            "name": "1.6 CRDi 100 kW (136 CV) 48V 4x2 DCT N Line",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/n-line/tucson-16-crdi-100-kw-136-cv-48v-4x2-dct-n-line/datos",
@@ -9619,7 +9620,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 CRDi 100 kW (136 CV) 48V 4x2 DCT N Line X",
+            "name": "1.6 CRDi 100 kW (136 CV) 48V 4x2 DCT N Line X",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/n-line-x/tucson-16-crdi-100-kw-136-cv-48v-4x2-dct-n-line-x/datos",
@@ -9861,7 +9862,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 CRDi 100 kW (136 CV) 4x2 DCT Style",
+            "name": "1.6 CRDi 100 kW (136 CV) 4x2 DCT Style",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/style/tucson-16-crdi-100-kw-136-cv-4x2-dct-style/datos",
@@ -10093,7 +10094,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 CRDi 100 kW (136 CV) 48V 4x2 DCT Style",
+            "name": "1.6 CRDi 100 kW (136 CV) 48V 4x2 DCT Style",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/style/tucson-16-crdi-100-kw-136-cv-48v-4x2-dct-style2/datos",
@@ -10339,7 +10340,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 CRDi 100 kW (136 CV) 48V 4x2 DCT Style",
+            "name": "1.6 CRDi 100 kW (136 CV) 48V 4x2 DCT Style",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/style/tucson-16-crdi-100-kw-136-cv-48v-4x2-dct-style/datos",
@@ -10584,7 +10585,7 @@
             ]
         },
         {
-            "name": "Tucson 2.0 CRDi 136 kW (185 CV) 48V 4x4 AT Tecno",
+            "name": "2.0 CRDi 136 kW (185 CV) 48V 4x4 AT Tecno",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/tecno/tucson-20-crdi-136-kw-185-cv-48v-4x4-at-tecno/datos",
@@ -10823,7 +10824,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 T-GDI 130 kW (177 CV) 4x4 DCT N Line X",
+            "name": "1.6 T-GDI 130 kW (177 CV) 4x4 DCT N Line X",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/n-line-x/tucson-16-t-gdi-130-kw-177-cv-4x4-dct-n-line-x/datos",
@@ -11049,7 +11050,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 T-GDI 130 kW (177 CV) 4x4 DCT Style",
+            "name": "1.6 T-GDI 130 kW (177 CV) 4x4 DCT Style",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/style/tucson-16-t-gdi-130-kw-177-cv-4x4-dct-style/datos",
@@ -11283,7 +11284,7 @@
             ]
         },
         {
-            "name": "Tucson 2.0 CRDi 136 kW (185 CV) 48V 4x4 AT N Line",
+            "name": "2.0 CRDi 136 kW (185 CV) 48V 4x4 AT N Line",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/n-line/tucson-20-crdi-136-kw-185-cv-48v-4x4-at-n-line/datos",
@@ -11520,7 +11521,7 @@
             ]
         },
         {
-            "name": "Tucson 2.0 CRDi 136 kW (185 CV) 48V 4x4 AT N Line X",
+            "name": "2.0 CRDi 136 kW (185 CV) 48V 4x4 AT N Line X",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/n-line-x/tucson-20-crdi-136-kw-185-cv-48v-4x4-at-n-line-x/datos",
@@ -11763,7 +11764,7 @@
             ]
         },
         {
-            "name": "Tucson 1.6 CRDi 85 kW (116 CV) 4x2 Style",
+            "name": "1.6 CRDi 85 kW (116 CV) 4x2 Style",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/style/tucson-16-crdi-85-kw-116-cv-4x2-style/datos",
@@ -11995,7 +11996,7 @@
             ]
         },
         {
-            "name": "Tucson 2.0 CRDi 136 kW (185 CV) 48V 4x4 AT Style",
+            "name": "2.0 CRDi 136 kW (185 CV) 48V 4x4 AT Style",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/style/tucson-20-crdi-136-kw-185-cv-48v-4x4-at-style/datos",
@@ -12242,7 +12243,7 @@
             ]
         },
         {
-            "name": "Tucson 2.0 CRDi 136 kW (185 CV) 48V 4x4 AT Style",
+            "name": "2.0 CRDi 136 kW (185 CV) 48V 4x4 AT Style",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/hyundai/tucson/2019/estandar/style/tucson-20-crdi-136-kw-185-cv-48v-4x4-at-style2/datos",

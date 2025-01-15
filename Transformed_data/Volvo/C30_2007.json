@@ -1,11 +1,12 @@
 {
+    "brand": "Volvo",
     "name": "C30",
     "year": "2007",
     "url": "https://www.km77.com/coches/volvo/c30/2007/estandar",
     "price": "",
     "versions": [
         {
-            "name": "C30 1.6",
+            "name": "1.6",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/estandar/c30-16/datos",
@@ -16,7 +17,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 1.6 Kinetic",
+            "name": "1.6 Kinetic",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/kinetic/c30-16-kinetic/datos",
@@ -27,7 +28,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 1.6i 16v Kinetic",
+            "name": "1.6i 16v Kinetic",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/kinetic/c30-16i-16v-kinetic/datos",
@@ -38,7 +39,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 1.8F Kinetic",
+            "name": "1.8F Kinetic",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/kinetic/c30-18f-kinetic/datos",
@@ -49,7 +50,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 1.6 Momentum",
+            "name": "1.6 Momentum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/momentum/c30-16-momentum/datos",
@@ -60,7 +61,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 1.6D DRIVe Kinetic",
+            "name": "1.6D DRIVe Kinetic",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/kinetic/c30-16d-drive-kinetic/datos",
@@ -71,7 +72,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 1.6D DRIVe Kinetic Start/Stop",
+            "name": "1.6D DRIVe Kinetic Start/Stop",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/kinetic/c30-16d-drive-kinetic-startstop/datos",
@@ -82,7 +83,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 1.6D",
+            "name": "1.6D",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/estandar/c30-16d/datos",
@@ -93,7 +94,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.0D Kinetic",
+            "name": "2.0D Kinetic",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/kinetic/c30-20d-kinetic2/datos",
@@ -104,7 +105,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 1.8i 16v Kinetic",
+            "name": "1.8i 16v Kinetic",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/kinetic/c30-18i-16v-kinetic/datos",
@@ -115,7 +116,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.0 Kinetic",
+            "name": "2.0 Kinetic",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/kinetic/c30-20-kinetic/datos",
@@ -126,7 +127,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 1.8F Momentum",
+            "name": "1.8F Momentum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/momentum/c30-18f-momentum/datos",
@@ -137,7 +138,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 1.6i 16v Momentum",
+            "name": "1.6i 16v Momentum",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/momentum/c30-16i-16v-momentum/datos",
@@ -148,7 +149,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 1.8 Flexifuel Kinetic",
+            "name": "1.8 Flexifuel Kinetic",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/kinetic/c30-18-flexifuel-kinetic/datos",
@@ -159,7 +160,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 1.6D DRIVe Momentum",
+            "name": "1.6D DRIVe Momentum",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/momentum/c30-16d-drive-momentum/datos",
@@ -170,7 +171,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 1.6D Kinetic",
+            "name": "1.6D Kinetic",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/kinetic/c30-16d-kinetic2/datos",
@@ -181,7 +182,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 1.6D DRIVe Momentum Start/Stop",
+            "name": "1.6D DRIVe Momentum Start/Stop",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/momentum/c30-16d-drive-momentum-startstop/datos",
@@ -192,7 +193,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 1.6d Kinetic",
+            "name": "1.6d Kinetic",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/kinetic/c30-16d-kinetic/datos",
@@ -203,7 +204,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.0D Momentum",
+            "name": "2.0D Momentum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/momentum/c30-20d-momentum2/datos",
@@ -214,7 +215,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.0i 16v Kinetic",
+            "name": "2.0i 16v Kinetic",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/kinetic/c30-20i-16v-kinetic/datos",
@@ -225,7 +226,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.0D Kinetic Powershift",
+            "name": "2.0D Kinetic Powershift",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/kinetic/c30-20d-kinetic-powershift/datos",
@@ -236,7 +237,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.0 Momentum",
+            "name": "2.0 Momentum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/momentum/c30-20-momentum/datos",
@@ -247,7 +248,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 1.8i 16v Momentum",
+            "name": "1.8i 16v Momentum",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/momentum/c30-18i-16v-momentum/datos",
@@ -258,7 +259,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.0d Kinetic",
+            "name": "2.0d Kinetic",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/kinetic/c30-20d-kinetic/datos",
@@ -269,7 +270,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 1.8F R-Design",
+            "name": "1.8F R-Design",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/r-design/c30-18f-r-design/datos",
@@ -280,7 +281,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 1.6D Momentum",
+            "name": "1.6D Momentum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/momentum/c30-16d-momentum2/datos",
@@ -291,7 +292,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.4i Kinetic",
+            "name": "2.4i Kinetic",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/kinetic/c30-24i-kinetic/datos",
@@ -302,7 +303,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 1.8 Flexifuel Momentum",
+            "name": "1.8 Flexifuel Momentum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/momentum/c30-18-flexifuel-momentum/datos",
@@ -313,7 +314,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 1.6i 16v Summum",
+            "name": "1.6i 16v Summum",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/summum/c30-16i-16v-summum/datos",
@@ -324,7 +325,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 1.8F Summum",
+            "name": "1.8F Summum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/summum/c30-18f-summum/datos",
@@ -335,7 +336,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 1.6d Momentum",
+            "name": "1.6d Momentum",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/momentum/c30-16d-momentum/datos",
@@ -346,7 +347,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.4i 20v Kinetic",
+            "name": "2.4i 20v Kinetic",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/kinetic/c30-24i-20v-kinetic/datos",
@@ -357,7 +358,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.0D Momentum Powershift",
+            "name": "2.0D Momentum Powershift",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/momentum/c30-20d-momentum-powershift/datos",
@@ -368,7 +369,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.0D R-Design",
+            "name": "2.0D R-Design",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/r-design/c30-20d-r-design/datos",
@@ -379,7 +380,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.0i 16v Momentum",
+            "name": "2.0i 16v Momentum",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/momentum/c30-20i-16v-momentum/datos",
@@ -390,7 +391,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.0D Summum",
+            "name": "2.0D Summum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/summum/c30-20d-summum2/datos",
@@ -401,7 +402,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.0d Momentum",
+            "name": "2.0d Momentum",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/momentum/c30-20d-momentum/datos",
@@ -412,7 +413,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.4i Momentum",
+            "name": "2.4i Momentum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/momentum/c30-24i-momentum/datos",
@@ -423,7 +424,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.0 Summum",
+            "name": "2.0 Summum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/summum/c30-20-summum/datos",
@@ -434,7 +435,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.4i Kinetic Aut.",
+            "name": "2.4i Kinetic Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/kinetic/c30-24i-kinetic-aut/datos",
@@ -445,7 +446,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 1.8i 16v Summum",
+            "name": "1.8i 16v Summum",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/summum/c30-18i-16v-summum/datos",
@@ -456,7 +457,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.4i 20v Kinetic Aut.",
+            "name": "2.4i 20v Kinetic Aut.",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/kinetic/c30-24i-20v-kinetic-aut/datos",
@@ -467,7 +468,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 1.8 Flexifuel Summum",
+            "name": "1.8 Flexifuel Summum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/summum/c30-18-flexifuel-summum/datos",
@@ -478,7 +479,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 1.6d Summum",
+            "name": "1.6d Summum",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/summum/c30-16d-summum/datos",
@@ -489,7 +490,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.4i 20v Momentum",
+            "name": "2.4i 20v Momentum",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/momentum/c30-24i-20v-momentum/datos",
@@ -500,7 +501,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 D5 Momentum",
+            "name": "D5 Momentum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/momentum/c30-d5-momentum/datos",
@@ -511,7 +512,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.0D R-Design Powershift",
+            "name": "2.0D R-Design Powershift",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/r-design/c30-20d-r-design-powershift/datos",
@@ -522,7 +523,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.0D Summum Powershift",
+            "name": "2.0D Summum Powershift",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/summum/c30-20d-summum-powershift/datos",
@@ -533,7 +534,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.0i 16v Summum",
+            "name": "2.0i 16v Summum",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/summum/c30-20i-16v-summum/datos",
@@ -544,7 +545,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.4i Momentum Aut.",
+            "name": "2.4i Momentum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/momentum/c30-24i-momentum-aut/datos",
@@ -555,7 +556,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.0d Summum",
+            "name": "2.0d Summum",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/summum/c30-20d-summum/datos",
@@ -566,7 +567,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 D5 Kinetic Aut.",
+            "name": "D5 Kinetic Aut.",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/kinetic/c30-d5-kinetic-aut/datos",
@@ -577,7 +578,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.4i Summum",
+            "name": "2.4i Summum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/summum/c30-24i-summum/datos",
@@ -588,7 +589,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.4i 20v Momentum Aut.",
+            "name": "2.4i 20v Momentum Aut.",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/momentum/c30-24i-20v-momentum-aut/datos",
@@ -599,7 +600,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 D5 Momentum Aut.",
+            "name": "D5 Momentum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/momentum/c30-d5-momentum-aut2/datos",
@@ -610,7 +611,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 T5 Momentum",
+            "name": "T5 Momentum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/momentum/c30-t5-momentum/datos",
@@ -621,7 +622,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 T5 Summum",
+            "name": "T5 Summum",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/summum/c30-t5-summum2/datos",
@@ -632,7 +633,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 D5 R-Design",
+            "name": "D5 R-Design",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/r-design/c30-d5-r-design/datos",
@@ -643,7 +644,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.4i 20v Summum",
+            "name": "2.4i 20v Summum",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/summum/c30-24i-20v-summum/datos",
@@ -654,7 +655,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 D5 Summum",
+            "name": "D5 Summum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/summum/c30-d5-summum/datos",
@@ -665,7 +666,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.5 T5 Momentum",
+            "name": "2.5 T5 Momentum",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/momentum/c30-25-t5-momentum/datos",
@@ -676,7 +677,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.4i Summum Aut.",
+            "name": "2.4i Summum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/summum/c30-24i-summum-aut/datos",
@@ -687,7 +688,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 D5 Momentum Aut.",
+            "name": "D5 Momentum Aut.",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/momentum/c30-d5-momentum-aut/datos",
@@ -698,7 +699,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 D5 R-Design Aut.",
+            "name": "D5 R-Design Aut.",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/r-design/c30-d5-r-design-aut/datos",
@@ -709,7 +710,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 T5 Momentum Aut.",
+            "name": "T5 Momentum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/momentum/c30-t5-momentum-aut/datos",
@@ -720,7 +721,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 T5 Summum Aut.",
+            "name": "T5 Summum Aut.",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/summum/c30-t5-summum-aut2/datos",
@@ -731,7 +732,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.4i 20v Summum Aut.",
+            "name": "2.4i 20v Summum Aut.",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/summum/c30-24i-20v-summum-aut/datos",
@@ -742,7 +743,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 D5 Summum Aut.",
+            "name": "D5 Summum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/summum/c30-d5-summum-aut2/datos",
@@ -753,7 +754,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 T5 Summum",
+            "name": "T5 Summum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/summum/c30-t5-summum/datos",
@@ -764,7 +765,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.5 T5 Momentum Aut.",
+            "name": "2.5 T5 Momentum Aut.",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/momentum/c30-25-t5-momentum-aut/datos",
@@ -775,7 +776,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.5 T5 Summum",
+            "name": "2.5 T5 Summum",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/summum/c30-25-t5-summum/datos",
@@ -786,7 +787,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 D5 Summum Aut.",
+            "name": "D5 Summum Aut.",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/summum/c30-d5-summum-aut/datos",
@@ -797,7 +798,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 T5 Summum Aut.",
+            "name": "T5 Summum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/summum/c30-t5-summum-aut/datos",
@@ -808,7 +809,7 @@
             "maletero": "251"
         },
         {
-            "name": "C30 2.5 T5 Summum Aut.",
+            "name": "2.5 T5 Summum Aut.",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/c30/2007/estandar/summum/c30-25-t5-summum-aut/datos",

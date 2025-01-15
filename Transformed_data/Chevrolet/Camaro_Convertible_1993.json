@@ -1,11 +1,12 @@
 {
+    "brand": "Chevrolet",
     "name": "Camaro Convertible",
     "year": "1993",
     "url": "https://www.km77.com/coches/chevrolet/camaro/1993/convertible",
     "price": "",
     "versions": [
         {
-            "name": "Camaro Convertible",
+            "name": "",
             "start_year": "1998",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/chevrolet/camaro/1993/convertible/estandar/camaro-convertible/datos",
@@ -135,7 +136,7 @@
             ]
         },
         {
-            "name": "Camaro Convertible Aut.",
+            "name": "Aut.",
             "start_year": "1998",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/chevrolet/camaro/1993/convertible/estandar/camaro-convertible-aut/datos",

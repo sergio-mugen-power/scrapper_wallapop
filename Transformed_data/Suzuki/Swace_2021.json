@@ -1,11 +1,12 @@
 {
+    "brand": "Suzuki",
     "name": "Swace",
     "year": "2021",
     "url": "https://www.km77.com/coches/suzuki/swace/2021/estandar",
     "price": "Desde 28.041 €",
     "versions": [
         {
-            "name": "Swace 1.8 Hybrid GLE",
+            "name": "1.8 Hybrid GLE",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/suzuki/swace/2021/estandar/estandar/swace-18-hybrid/datos",
@@ -36,7 +37,7 @@
             ]
         },
         {
-            "name": "Swace 1.8 Hybrid GLX",
+            "name": "1.8 Hybrid GLX",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/suzuki/swace/2021/estandar/estandar/swace-18-hybrid-glx/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Porsche",
     "name": "Cayenne",
     "year": "2018",
     "url": "https://www.km77.com/coches/porsche/cayenne/2018/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Cayenne",
+            "name": "",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/porsche/cayenne/2018/estandar/estandar/cayenne/datos",
@@ -34,7 +35,7 @@
             ]
         },
         {
-            "name": "Cayenne",
+            "name": "",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/porsche/cayenne/2018/estandar/estandar/cayenne2/datos",
@@ -63,7 +64,7 @@
             ]
         },
         {
-            "name": "Cayenne E-Hybrid",
+            "name": "E-Hybrid",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/porsche/cayenne/2018/estandar/e-hybrid/cayenne-e-hybrid/datos",
@@ -95,7 +96,7 @@
             ]
         },
         {
-            "name": "Cayenne E-Hybrid",
+            "name": "E-Hybrid",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/porsche/cayenne/2018/estandar/e-hybrid/cayenne-e-hybrid2/datos",
@@ -127,7 +128,7 @@
             ]
         },
         {
-            "name": "Cayenne",
+            "name": "",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/porsche/cayenne/2018/estandar/estandar/cayenne3/datos",
@@ -156,7 +157,7 @@
             ]
         },
         {
-            "name": "Cayenne E-Hybrid",
+            "name": "E-Hybrid",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/porsche/cayenne/2018/estandar/e-hybrid/cayenne-e-hybrid3/datos",
@@ -188,7 +189,7 @@
             ]
         },
         {
-            "name": "Cayenne Platinum Edition",
+            "name": "Platinum Edition",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/porsche/cayenne/2018/estandar/estandar/cayenne-platinum-edition/datos",
@@ -217,7 +218,7 @@
             ]
         },
         {
-            "name": "Cayenne S",
+            "name": "S",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/porsche/cayenne/2018/estandar/s/cayenne-s/datos",
@@ -246,7 +247,7 @@
             ]
         },
         {
-            "name": "Cayenne S",
+            "name": "S",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/porsche/cayenne/2018/estandar/s/cayenne-s2/datos",
@@ -275,7 +276,7 @@
             ]
         },
         {
-            "name": "Cayenne S",
+            "name": "S",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/porsche/cayenne/2018/estandar/s/cayenne-s3/datos",
@@ -304,7 +305,7 @@
             ]
         },
         {
-            "name": "Cayenne E-Hybrid Platinum Edition",
+            "name": "E-Hybrid Platinum Edition",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/porsche/cayenne/2018/estandar/e-hybrid/cayenne-e-hybrid-platinum-edition/datos",
@@ -336,7 +337,7 @@
             ]
         },
         {
-            "name": "Cayenne S",
+            "name": "S",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/porsche/cayenne/2018/estandar/estandar/cayenne-s4/datos",
@@ -365,7 +366,7 @@
             ]
         },
         {
-            "name": "Cayenne S Platinum Edition",
+            "name": "S Platinum Edition",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/porsche/cayenne/2018/estandar/estandar/cayenne-s-platinum-edition/datos",
@@ -394,7 +395,7 @@
             ]
         },
         {
-            "name": "Cayenne GTS",
+            "name": "GTS",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/porsche/cayenne/2018/estandar/gts/cayenne-gts2/datos",
@@ -423,7 +424,7 @@
             ]
         },
         {
-            "name": "Cayenne Turbo",
+            "name": "Turbo",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/porsche/cayenne/2018/estandar/turbo/cayenne-turbo/datos",
@@ -452,7 +453,7 @@
             ]
         },
         {
-            "name": "Cayenne Turbo",
+            "name": "Turbo",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/porsche/cayenne/2018/estandar/turbo/cayenne-turbo2/datos",
@@ -481,7 +482,7 @@
             ]
         },
         {
-            "name": "Cayenne Turbo",
+            "name": "Turbo",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/porsche/cayenne/2018/estandar/turbo/cayenne-turbo3/datos",
@@ -510,7 +511,7 @@
             ]
         },
         {
-            "name": "Cayenne Turbo S E-Hybrid",
+            "name": "Turbo S E-Hybrid",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/porsche/cayenne/2018/estandar/turbo-s-e-hybrid/cayenne-turbo-s-e-hybrid/datos",
@@ -542,7 +543,7 @@
             ]
         },
         {
-            "name": "Cayenne Turbo S E-Hybrid",
+            "name": "Turbo S E-Hybrid",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/porsche/cayenne/2018/estandar/turbo-s-e-hybrid/cayenne-turbo-s-e-hybrid2/datos",

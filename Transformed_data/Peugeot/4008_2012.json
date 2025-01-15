@@ -1,11 +1,12 @@
 {
+    "brand": "Peugeot",
     "name": "4008",
     "year": "2012",
     "url": "https://www.km77.com/coches/peugeot/4008/2012/estandar",
     "price": "",
     "versions": [
         {
-            "name": "4008 Crossway 4x4 1.8 HDi 150",
+            "name": "Crossway 4x4 1.8 HDi 150",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/4008/2012/estandar/crossway/4008-crossway-4x4-18-hdi-150/datos",
@@ -209,7 +210,7 @@
             ]
         },
         {
-            "name": "4008 Allure 4x4 1.8 HDi 150",
+            "name": "Allure 4x4 1.8 HDi 150",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/peugeot/4008/2012/estandar/allure/4008-allure-hdi-150-4wd/datos",
@@ -417,7 +418,7 @@
             ]
         },
         {
-            "name": "4008 Allure 4x4 1.6 HDi 115",
+            "name": "Allure 4x4 1.6 HDi 115",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/peugeot/4008/2012/estandar/allure/4008-allure-4x4-16-hdi-115/datos",
@@ -629,7 +630,7 @@
             ]
         },
         {
-            "name": "4008 Allure HDi 150 4WD",
+            "name": "Allure HDi 150 4WD",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/4008/2012/estandar/allure/4008-hdi-150-4wd-allure/datos",

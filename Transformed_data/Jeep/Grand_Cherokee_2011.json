@@ -1,11 +1,12 @@
 {
+    "brand": "Jeep",
     "name": "Grand Cherokee",
     "year": "2011",
     "url": "https://www.km77.com/coches/jeep/grand-cherokee/2011/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Grand Cherokee 3.0 V6 CRD Legend Class 190 CV",
+            "name": "3.0 V6 CRD Legend Class 190 CV",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2011/estandar/legend-class/grand-cherokee-30-v6-crd-legend-class-190-cv/datos",
@@ -220,7 +221,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee 3.0 V6 CRD Laredo 190 CV",
+            "name": "3.0 V6 CRD Laredo 190 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2011/estandar/laredo/grand-cherokee-30-v6-diesel-190-cv/datos",
@@ -427,7 +428,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee 3.0 V6 CRD Laredo 190 CV",
+            "name": "3.0 V6 CRD Laredo 190 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2011/estandar/laredo/grand-cherokee-30-v6-crd-laredo-190-cv/datos",
@@ -637,7 +638,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee 3.0 V6 CRD Limited 190 CV",
+            "name": "3.0 V6 CRD Limited 190 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2011/estandar/limited/grand-cherokee-30-v6-crd-limited-190-cv/datos",
@@ -860,7 +861,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee 3.0 V6 CRD Limited 190 CV",
+            "name": "3.0 V6 CRD Limited 190 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2011/estandar/limited/grand-cherokee-30-v6-crd-limited-190-cv2/datos",
@@ -1086,7 +1087,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee 3.0 V6 CRD Limited 241 CV",
+            "name": "3.0 V6 CRD Limited 241 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2011/estandar/limited/grand-cherokee-30-v6-diesel-241-cv/datos",
@@ -1309,7 +1310,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee 3.0 V6 CRD Limited 241 CV",
+            "name": "3.0 V6 CRD Limited 241 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2011/estandar/limited/grand-cherokee-30-v6-crd-limited-241-cv/datos",
@@ -1535,7 +1536,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee 3.6 V6 Overland",
+            "name": "3.6 V6 Overland",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2011/estandar/overland/grand-cherokee-36-v6-overland/datos",
@@ -1744,7 +1745,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee 3.0 V6 CRD Overland 241 CV",
+            "name": "3.0 V6 CRD Overland 241 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2011/estandar/overland/grand-cherokee-30-v6-crd-overland-241-cv/datos",
@@ -1973,7 +1974,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee 3.0 V6 CRD Overland 241 CV",
+            "name": "3.0 V6 CRD Overland 241 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2011/estandar/overland/grand-cherokee-30-v6-crd-overland-241-cv2/datos",
@@ -2204,7 +2205,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee 5.7 V8 HEMI Overland",
+            "name": "5.7 V8 HEMI Overland",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2011/estandar/overland/grand-cherokee-57-v8-overland/datos",
@@ -2415,7 +2416,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee 6.4 V8 HEMI SRT8",
+            "name": "6.4 V8 HEMI SRT8",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2011/estandar/srt8/grand-cherokee-57-v8-hemi-overland/datos",

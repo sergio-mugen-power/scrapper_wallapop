@@ -1,11 +1,12 @@
 {
+    "brand": "Morgan",
     "name": "Aero SuperSports",
     "year": "2012",
     "url": "https://www.km77.com/coches/morgan/aero/2012/supersports",
     "price": "",
     "versions": [
         {
-            "name": "Aero SuperSports",
+            "name": "",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/morgan/aero/2012/supersports/supersports/aero-supersports-manual/datos",
@@ -172,7 +173,7 @@
             ]
         },
         {
-            "name": "Aero SuperSports Aut.",
+            "name": "Aut.",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/morgan/aero/2012/supersports/supersports/aero-supersports-aut/datos",
@@ -339,7 +340,7 @@
             ]
         },
         {
-            "name": "Aero SuperSports",
+            "name": "",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/morgan/aero/2012/supersports/supersports/aero-supersports/datos",
@@ -506,7 +507,7 @@
             ]
         },
         {
-            "name": "Aero SuperSports Aut.",
+            "name": "Aut.",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/morgan/aero/2012/supersports/supersports/aero-supersports-aut2/datos",

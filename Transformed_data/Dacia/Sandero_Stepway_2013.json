@@ -1,11 +1,12 @@
 {
+    "brand": "Dacia",
     "name": "Sandero Stepway",
     "year": "2013",
     "url": "https://www.km77.com/coches/dacia/sandero/2013/stepway",
     "price": "Desde 9.990 €",
     "versions": [
         {
-            "name": "Sandero Stepway TCe 90",
+            "name": "TCe 90",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/stepway/stepway/sandero-stepway-tce-90/datos",
@@ -161,7 +162,7 @@
             ]
         },
         {
-            "name": "Sandero Stepway TCE 90",
+            "name": "TCE 90",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/stepway/stepway/sandero-stepway-tce-902/datos",
@@ -318,7 +319,7 @@
             ]
         },
         {
-            "name": "Sandero Stepway dCi 90",
+            "name": "dCi 90",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/stepway/stepway/sandero-stepway-dci-90/datos",
@@ -475,7 +476,7 @@
             ]
         },
         {
-            "name": "Sandero Stepway dCi 90",
+            "name": "dCi 90",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/dacia/sandero/2013/stepway/stepway/sandero-stepway-dci-902/datos",

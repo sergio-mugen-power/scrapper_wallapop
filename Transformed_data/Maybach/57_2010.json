@@ -1,11 +1,12 @@
 {
+    "brand": "Maybach",
     "name": "57",
     "year": "2010",
     "url": "https://www.km77.com/coches/maybach/57/2010/estandar",
     "price": "",
     "versions": [
         {
-            "name": "57",
+            "name": "",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/maybach/57/2010/estandar/estandar/57/datos",
@@ -16,7 +17,7 @@
             "maletero": "605"
         },
         {
-            "name": "57 S",
+            "name": "S",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/maybach/57/2010/estandar/s/57-s/datos",

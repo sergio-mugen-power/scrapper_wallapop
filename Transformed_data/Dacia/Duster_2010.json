@@ -1,11 +1,12 @@
 {
+    "brand": "Dacia",
     "name": "Duster",
     "year": "2010",
     "url": "https://www.km77.com/coches/dacia/duster/2010/estandar",
     "price": "Desde 19.290 €",
     "versions": [
         {
-            "name": "Duster Base 1.6 105 4x2",
+            "name": "Base 1.6 105 4x2",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/base/duster-base-16-105-4x2/datos",
@@ -147,7 +148,7 @@
             ]
         },
         {
-            "name": "Duster Base 1.6 105 CV 4x2",
+            "name": "Base 1.6 105 CV 4x2",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/base/duster-base-16-105-cv-4x22/datos",
@@ -280,7 +281,7 @@
             ]
         },
         {
-            "name": "Duster Base 1.6 105 CV 4x2",
+            "name": "Base 1.6 105 CV 4x2",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/base/duster-base-16-105-cv-4x2/datos",
@@ -413,7 +414,7 @@
             ]
         },
         {
-            "name": "Duster Base 1.6 110 CV 4x2",
+            "name": "Base 1.6 110 CV 4x2",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/base/duster-base-16-110-cv-4x2/datos",
@@ -539,7 +540,7 @@
             ]
         },
         {
-            "name": "Duster Base 1.6 110 CV 4x2",
+            "name": "Base 1.6 110 CV 4x2",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/base/duster-base-16-110-cv-4x22/datos",
@@ -671,7 +672,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance 2013 1.6 105 4x2",
+            "name": "Ambiance 2013 1.6 105 4x2",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance-2013/duster-ambiance-16-105-4x2/datos",
@@ -831,7 +832,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance 1.6 110 CV 4x2",
+            "name": "Ambiance 1.6 110 CV 4x2",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance/duster-ambiance-16-110-cv-4x2/datos",
@@ -978,7 +979,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance 1.6 105 CV 4x2",
+            "name": "Ambiance 1.6 105 CV 4x2",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance/duster-ambiance-16-105-cv-4x2/datos",
@@ -1130,7 +1131,7 @@
             ]
         },
         {
-            "name": "Duster Base 1.6 105 4x4",
+            "name": "Base 1.6 105 4x4",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/base/duster-base-16-105-4x4/datos",
@@ -1275,7 +1276,7 @@
             ]
         },
         {
-            "name": "Duster Base 1.6 105 CV 4x4",
+            "name": "Base 1.6 105 CV 4x4",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/base/duster-base-16-105-cv-4x42/datos",
@@ -1411,7 +1412,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance 1.6 110 CV 4x2",
+            "name": "Ambiance 1.6 110 CV 4x2",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance/duster-ambiance-16-110-cv-4x22/datos",
@@ -1558,7 +1559,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance 1.6 105 CV 4x2",
+            "name": "Ambiance 1.6 105 CV 4x2",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance/duster-ambiance-16-105-cv-4x22/datos",
@@ -1710,7 +1711,7 @@
             ]
         },
         {
-            "name": "Duster Laureate 2013 1.6 105 4x2",
+            "name": "Laureate 2013 1.6 105 4x2",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate-2013/duster-laureate-16-105-4x2/datos",
@@ -1885,7 +1886,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance 2013 1.6 105 4x2 GLP",
+            "name": "Ambiance 2013 1.6 105 4x2 GLP",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance-2013/duster-ambiance-16-105-4x2-glp/datos",
@@ -2042,7 +2043,7 @@
             ]
         },
         {
-            "name": "Duster Base 1.6 105 CV 4x4",
+            "name": "Base 1.6 105 CV 4x4",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/base/duster-base-16-105-cv-4x4/datos",
@@ -2178,7 +2179,7 @@
             ]
         },
         {
-            "name": "Duster Base 1.6 110 CV 4x4",
+            "name": "Base 1.6 110 CV 4x4",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/base/duster-base-16-110-cv-4x4/datos",
@@ -2307,7 +2308,7 @@
             ]
         },
         {
-            "name": "Duster Base 1.6 110 CV 4x4",
+            "name": "Base 1.6 110 CV 4x4",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/base/duster-base-16-110-cv-4x42/datos",
@@ -2442,7 +2443,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance dCi 85 CV 4x2",
+            "name": "Ambiance dCi 85 CV 4x2",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance/duster-ambiance-dci-85-cv-4x2/datos",
@@ -2587,7 +2588,7 @@
             ]
         },
         {
-            "name": "Duster Laureate 1.6 110 CV 4x2",
+            "name": "Laureate 1.6 110 CV 4x2",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate/duster-laureate-16-110-cv-4x2/datos",
@@ -2747,7 +2748,7 @@
             ]
         },
         {
-            "name": "Duster Laureate 1.6 105 CV 4x2",
+            "name": "Laureate 1.6 105 CV 4x2",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate/duster-laureate-16-105-cv-4x2/datos",
@@ -2911,7 +2912,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance 2013 dCi 90 4x2",
+            "name": "Ambiance 2013 dCi 90 4x2",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance-2013/duster-ambiance-dci-90-4x2/datos",
@@ -3070,7 +3071,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance dCi 85 CV 4x2",
+            "name": "Ambiance dCi 85 CV 4x2",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance/duster-ambiance-dci-85-cv-4x22/datos",
@@ -3215,7 +3216,7 @@
             ]
         },
         {
-            "name": "Duster Laureate 1.6 110 CV 4x2",
+            "name": "Laureate 1.6 110 CV 4x2",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate/duster-laureate-16-110-cv-4x22/datos",
@@ -3375,7 +3376,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance dCi 90 CV 4x2",
+            "name": "Ambiance dCi 90 CV 4x2",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance/duster-ambiance-dci-90-cv-4x2/datos",
@@ -3526,7 +3527,7 @@
             ]
         },
         {
-            "name": "Duster Laureate 1.6 105 CV 4x2",
+            "name": "Laureate 1.6 105 CV 4x2",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate/duster-laureate-16-105-cv-4x22/datos",
@@ -3690,7 +3691,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance 2013 1.6 105 4x4",
+            "name": "Ambiance 2013 1.6 105 4x4",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance-2013/duster-ambiance-16-105-4x4/datos",
@@ -3851,7 +3852,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance 1.6 105 CV 4x2 GLP",
+            "name": "Ambiance 1.6 105 CV 4x2 GLP",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance/duster-ambiance-16-105-cv-4x2-glp/datos",
@@ -4002,7 +4003,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance 1.6 110 CV 4x4",
+            "name": "Ambiance 1.6 110 CV 4x4",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance/duster-ambiance-16-110-cv-4x4/datos",
@@ -4150,7 +4151,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance dCi 110 CV 4x2",
+            "name": "Ambiance dCi 110 CV 4x2",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance/duster-ambiance-dci-110-cv-4x2/datos",
@@ -4297,7 +4298,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance 2013 dCi 110 4x2",
+            "name": "Ambiance 2013 dCi 110 4x2",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance-2013/duster-ambiance-dci-110-4x2/datos",
@@ -4456,7 +4457,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance dCi 90 CV 4x2",
+            "name": "Ambiance dCi 90 CV 4x2",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance/duster-ambiance-dci-90-cv-4x22/datos",
@@ -4608,7 +4609,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance 1.6 110 CV 4x4",
+            "name": "Ambiance 1.6 110 CV 4x4",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance/duster-ambiance-16-110-cv-4x42/datos",
@@ -4756,7 +4757,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance dCi 110 CV 4x2",
+            "name": "Ambiance dCi 110 CV 4x2",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance/duster-ambiance-dci-110-cv-4x23/datos",
@@ -4908,7 +4909,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance dCi 110 CV 4x2",
+            "name": "Ambiance dCi 110 CV 4x2",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance/duster-ambiance-dci-110-cv-4x22/datos",
@@ -5060,7 +5061,7 @@
             ]
         },
         {
-            "name": "Duster Laureate 2013 1.6 105 4x2 GLP",
+            "name": "Laureate 2013 1.6 105 4x2 GLP",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate-2013/duster-laureate-16-105-4x2-glp/datos",
@@ -5234,7 +5235,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance 1.6 105 CV 4x2 GLP",
+            "name": "Ambiance 1.6 105 CV 4x2 GLP",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance/duster-ambiance-16-105-cv-4x2-glp2/datos",
@@ -5385,7 +5386,7 @@
             ]
         },
         {
-            "name": "Duster Adventure dCi 90 4x2",
+            "name": "Adventure dCi 90 4x2",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/adventure/duster-adventure-dci-90-4x2/datos",
@@ -5552,7 +5553,7 @@
             ]
         },
         {
-            "name": "Duster Laureate dCi 85 CV 4x2",
+            "name": "Laureate dCi 85 CV 4x2",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate/duster-laureate-dci-85-cv-4x2/datos",
@@ -5710,7 +5711,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance 1.6 105 CV 4x4",
+            "name": "Ambiance 1.6 105 CV 4x4",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance/duster-ambiance-16-105-cv-4x4/datos",
@@ -5863,7 +5864,7 @@
             ]
         },
         {
-            "name": "Duster Laureate 2013 dCi 90 4x2",
+            "name": "Laureate 2013 dCi 90 4x2",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate-2013/duster-laureate-dci-90-4x2/datos",
@@ -6037,7 +6038,7 @@
             ]
         },
         {
-            "name": "Duster Laureate dCi 85 CV 4x2",
+            "name": "Laureate dCi 85 CV 4x2",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate/duster-laureate-dci-85-cv-4x22/datos",
@@ -6197,7 +6198,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance dCi 110 CV 4x2",
+            "name": "Ambiance dCi 110 CV 4x2",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance/duster-ambiance-dci-110-cv-4x24/datos",
@@ -6351,7 +6352,7 @@
             ]
         },
         {
-            "name": "Duster Laureate dCi 90 CV 4x2",
+            "name": "Laureate dCi 90 CV 4x2",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate/duster-laureate-dci-90-cv-4x2/datos",
@@ -6515,7 +6516,7 @@
             ]
         },
         {
-            "name": "Duster Adventure dCi 110 4x2",
+            "name": "Adventure dCi 110 4x2",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/adventure/duster-adventure-dci-110-4x2/datos",
@@ -6682,7 +6683,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance 1.6 105 CV 4x4",
+            "name": "Ambiance 1.6 105 CV 4x4",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance/duster-ambiance-16-105-cv-4x42/datos",
@@ -6835,7 +6836,7 @@
             ]
         },
         {
-            "name": "Duster Laureate 2013 1.6 105 4x4",
+            "name": "Laureate 2013 1.6 105 4x4",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate-2013/duster-laureate-16-105-4x4/datos",
@@ -7011,7 +7012,7 @@
             ]
         },
         {
-            "name": "Duster Laureate 1.6 105 CV 4x2 GLP",
+            "name": "Laureate 1.6 105 CV 4x2 GLP",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate/duster-laureate-16-105-cv-4x2-glp/datos",
@@ -7174,7 +7175,7 @@
             ]
         },
         {
-            "name": "Duster Laureate 1.6 110 CV 4x4",
+            "name": "Laureate 1.6 110 CV 4x4",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate/duster-laureate-16-110-cv-4x4/datos",
@@ -7335,7 +7336,7 @@
             ]
         },
         {
-            "name": "Duster Laureate dCi 110 CV 4x2",
+            "name": "Laureate dCi 110 CV 4x2",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate/duster-laureate-dci-110-cv-4x2/datos",
@@ -7497,7 +7498,7 @@
             ]
         },
         {
-            "name": "Duster Laureate 2013 dCi 110 4x2",
+            "name": "Laureate 2013 dCi 110 4x2",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate-2013/duster-laureate-dci-110-4x2/datos",
@@ -7673,7 +7674,7 @@
             ]
         },
         {
-            "name": "Duster Laureate dCi 90 CV 4x2",
+            "name": "Laureate dCi 90 CV 4x2",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate/duster-laureate-dci-90-cv-4x23/datos",
@@ -7838,7 +7839,7 @@
             ]
         },
         {
-            "name": "Duster Laureate 1.6 110 CV 4x4",
+            "name": "Laureate 1.6 110 CV 4x4",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate/duster-laureate-16-110-cv-4x42/datos",
@@ -7999,7 +8000,7 @@
             ]
         },
         {
-            "name": "Duster Laureate dCi 110 CV 4x2",
+            "name": "Laureate dCi 110 CV 4x2",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate/duster-laureate-dci-110-cv-4x23/datos",
@@ -8164,7 +8165,7 @@
             ]
         },
         {
-            "name": "Duster Laureate dCi 110 CV 4x2",
+            "name": "Laureate dCi 110 CV 4x2",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate/duster-laureate-dci-110-cv-4x22/datos",
@@ -8329,7 +8330,7 @@
             ]
         },
         {
-            "name": "Duster Laureate 1.6 105 CV 4x2 GLP",
+            "name": "Laureate 1.6 105 CV 4x2 GLP",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate/duster-laureate-16-105-cv-4x2-glp2/datos",
@@ -8492,7 +8493,7 @@
             ]
         },
         {
-            "name": "Duster Laureate 1.6 105 CV 4x4",
+            "name": "Laureate 1.6 105 CV 4x4",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate/duster-laureate-16-105-cv-4x4/datos",
@@ -8657,7 +8658,7 @@
             ]
         },
         {
-            "name": "Duster Laureate dCi 110 CV 4x2",
+            "name": "Laureate dCi 110 CV 4x2",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate/duster-laureate-dci-110-cv-4x24/datos",
@@ -8822,7 +8823,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance dCi 110 CV 4x4",
+            "name": "Ambiance dCi 110 CV 4x4",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance/duster-ambiance-dci-110-cv-4x4/datos",
@@ -8972,7 +8973,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance 2013 dCi 110 4x4",
+            "name": "Ambiance 2013 dCi 110 4x4",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance-2013/duster-ambiance-dci-110-4x4/datos",
@@ -9134,7 +9135,7 @@
             ]
         },
         {
-            "name": "Duster Laureate 1.6 105 CV 4x4",
+            "name": "Laureate 1.6 105 CV 4x4",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate/duster-laureate-16-105-cv-4x42/datos",
@@ -9299,7 +9300,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance dCi 110 CV 4x4",
+            "name": "Ambiance dCi 110 CV 4x4",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance/duster-ambiance-dci-110-cv-4x43/datos",
@@ -9454,7 +9455,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance dCi 110 CV 4x4",
+            "name": "Ambiance dCi 110 CV 4x4",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance/duster-ambiance-dci-110-cv-4x42/datos",
@@ -9609,7 +9610,7 @@
             ]
         },
         {
-            "name": "Duster Adventure dCi 110 4x4",
+            "name": "Adventure dCi 110 4x4",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/adventure/duster-adventure-dci-110-4x4/datos",
@@ -9777,7 +9778,7 @@
             ]
         },
         {
-            "name": "Duster Laureate dCi 110 CV 4x4",
+            "name": "Laureate dCi 110 CV 4x4",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate/duster-laureate-dci-110-cv-4x4/datos",
@@ -9940,7 +9941,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance dCi 110 CV 4x4",
+            "name": "Ambiance dCi 110 CV 4x4",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/ambiance/duster-ambiance-dci-110-cv-4x44/datos",
@@ -10095,7 +10096,7 @@
             ]
         },
         {
-            "name": "Duster Laureate 2013 dCi 110 4x4",
+            "name": "Laureate 2013 dCi 110 4x4",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate-2013/duster-laureate-dci-110-4x4/datos",
@@ -10272,7 +10273,7 @@
             ]
         },
         {
-            "name": "Duster Laureate dCi 110 CV 4x4",
+            "name": "Laureate dCi 110 CV 4x4",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate/duster-laureate-dci-110-cv-4x43/datos",
@@ -10438,7 +10439,7 @@
             ]
         },
         {
-            "name": "Duster Laureate dCi 110 CV 4x4",
+            "name": "Laureate dCi 110 CV 4x4",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate/duster-laureate-dci-110-cv-4x42/datos",
@@ -10604,7 +10605,7 @@
             ]
         },
         {
-            "name": "Duster Laureate dCi 110 CV 4x4",
+            "name": "Laureate dCi 110 CV 4x4",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/dacia/duster/2010/estandar/laureate/duster-laureate-dci-110-cv-4x44/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Hyundai",
     "name": "Matrix",
     "year": "2002",
     "url": "https://www.km77.com/coches/hyundai/matrix/2002/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Matrix 1.6 GLS",
+            "name": "1.6 GLS",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/hyundai/matrix/2002/estandar/gls/matrix-16-gls/datos",
@@ -175,7 +176,7 @@
             ]
         },
         {
-            "name": "Matrix 1.5 CRDi GLS",
+            "name": "1.5 CRDi GLS",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/hyundai/matrix/2002/estandar/gls/matrix-15-crdi-gls/datos",
@@ -345,7 +346,7 @@
             ]
         },
         {
-            "name": "Matrix 1.6 GLS Full",
+            "name": "1.6 GLS Full",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/hyundai/matrix/2002/estandar/gls-full/matrix-16-gls-full/datos",
@@ -518,7 +519,7 @@
             ]
         },
         {
-            "name": "Matrix 1.5 CRDi GLS Full",
+            "name": "1.5 CRDi GLS Full",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/hyundai/matrix/2002/estandar/gls-full/matrix-15-crdi-gls-full/datos",
@@ -691,7 +692,7 @@
             ]
         },
         {
-            "name": "Matrix 1.6 GLS Full Aut.",
+            "name": "1.6 GLS Full Aut.",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/hyundai/matrix/2002/estandar/gls-full/matrix-16-gls-full-aut/datos",
@@ -862,7 +863,7 @@
             ]
         },
         {
-            "name": "Matrix 1.8 GLS Full",
+            "name": "1.8 GLS Full",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/hyundai/matrix/2002/estandar/gls-full/matrix-18-gls-full/datos",

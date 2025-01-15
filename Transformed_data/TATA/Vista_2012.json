@@ -1,11 +1,12 @@
 {
+    "brand": "TATA",
     "name": "Vista",
     "year": "2012",
     "url": "https://www.km77.com/coches/tata/vista/2012/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Vista 1.4 75 CV",
+            "name": "1.4 75 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/tata/vista/2012/estandar/estandar/vista-14-75-cv2/datos",
@@ -172,7 +173,7 @@
             ]
         },
         {
-            "name": "Vista 1.4 75 CV LS",
+            "name": "1.4 75 CV LS",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/tata/vista/2012/estandar/ls/vista-14-75-cv-ls/datos",
@@ -339,7 +340,7 @@
             ]
         },
         {
-            "name": "Vista 1.4 75 CV LX",
+            "name": "1.4 75 CV LX",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/tata/vista/2012/estandar/lx/vista-14-75-cv-lx/datos",
@@ -508,7 +509,7 @@
             ]
         },
         {
-            "name": "Vista 1.4 75 CV",
+            "name": "1.4 75 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/tata/vista/2012/estandar/estandar/vista-14-75-cv/datos",
@@ -675,7 +676,7 @@
             ]
         },
         {
-            "name": "Vista Diesel 95 CV LS",
+            "name": "Diesel 95 CV LS",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/tata/vista/2012/estandar/ls/vista-diesel-95-cv-ls/datos",
@@ -844,7 +845,7 @@
             ]
         },
         {
-            "name": "Vista Diesel 95 CV LX",
+            "name": "Diesel 95 CV LX",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/tata/vista/2012/estandar/lx/vista-diesel-95-cv-lx/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "A1 Sportback",
     "year": "2015",
     "url": "https://www.km77.com/coches/audi/a1/2015/sportback",
     "price": "",
     "versions": [
         {
-            "name": "A1 Sportback 1.0 TFSI 70 KW (95 CV) Attraction",
+            "name": "1.0 TFSI 70 KW (95 CV) Attraction",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/attraction/a1-sportback-10-tfsi-95-cv-attraction2/datos",
@@ -16,7 +17,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.4 TDI ultra 90 CV Attraction",
+            "name": "1.4 TDI ultra 90 CV Attraction",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/attraction/a1-sportback-14-tdi-ultra-90-cv-attraction/datos",
@@ -27,7 +28,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.4 TDI 90 CV Attraction",
+            "name": "1.4 TDI 90 CV Attraction",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/attraction/a1-sportback-14-tdi-90-cv-attraction/datos",
@@ -38,7 +39,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.4 TDI 66 kW (90 CV) Attraction",
+            "name": "1.4 TDI 66 kW (90 CV) Attraction",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/attraction/a1-sportback-14-tdi-66-kw-90-cv-attraction/datos",
@@ -49,7 +50,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.0 TFSI 70 KW (95 CV) Attraction S tronic 7 vel.",
+            "name": "1.0 TFSI 70 KW (95 CV) Attraction S tronic 7 vel.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/attraction/a1-sportback-10-tfsi-95-cv-attraction-s-tronic/datos",
@@ -60,7 +61,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.6 TDI 116 CV Attraction",
+            "name": "1.6 TDI 116 CV Attraction",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/attraction/a1-sportback-16-tdi-116-cv-attraction/datos",
@@ -71,7 +72,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.0 TFSI 70 kW (95 CV) Design",
+            "name": "1.0 TFSI 70 kW (95 CV) Design",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/design/a1-sportback-10-tfsi-95-cv-design/datos",
@@ -82,7 +83,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.4 TFSI 92 kW (125 CV) Attraction",
+            "name": "1.4 TFSI 92 kW (125 CV) Attraction",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/attraction/a1-sportback-2015/datos",
@@ -93,7 +94,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.6 TDI 116 CV Attraction",
+            "name": "1.6 TDI 116 CV Attraction",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/attraction/a1-sportback-16-tdi-116-cv-attraction2/datos",
@@ -104,7 +105,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.4 TDI ultra 90 CV Attraction S tronic 7 vel.",
+            "name": "1.4 TDI ultra 90 CV Attraction S tronic 7 vel.",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/attraction/a1-sportback-14-tdi-ultra-90-cv-attraction-s-tronic-7-vel/datos",
@@ -115,7 +116,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.4 TDI 90 CV Attraction S tronic 7 vel.",
+            "name": "1.4 TDI 90 CV Attraction S tronic 7 vel.",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/attraction/a1-sportback-14-tdi-90-cv-attraction-s-tronic-7-vel/datos",
@@ -126,7 +127,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.6 TDI 85 kW (116 CV) Attraction",
+            "name": "1.6 TDI 85 kW (116 CV) Attraction",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/attraction/a1-sportback-16-tdi-85-kw-116-cv-attraction/datos",
@@ -137,7 +138,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.4 TDI ultra 90 CV Design",
+            "name": "1.4 TDI ultra 90 CV Design",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/design/a1-sportback-14-tdi-ultra-90-cv-design/datos",
@@ -148,7 +149,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.4 TFSI CoD 150 CV Attraction",
+            "name": "1.4 TFSI CoD 150 CV Attraction",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/attraction/a1-sportback-14-tfsi-cod-150-cv-attraction/datos",
@@ -159,7 +160,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.4 TDI 66 kW (90 CV) Attraction S tronic 7 vel.",
+            "name": "1.4 TDI 66 kW (90 CV) Attraction S tronic 7 vel.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/attraction/a1-sportback-14-tdi-66-kw-90-cv-attraction-s-tronic-7-vel/datos",
@@ -170,7 +171,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.4 TDI 90 CV Design",
+            "name": "1.4 TDI 90 CV Design",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/design/a1-sportback-14-tdi-90-cv-design/datos",
@@ -181,7 +182,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.4 TDI 66 kW (90 CV) Design",
+            "name": "1.4 TDI 66 kW (90 CV) Design",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/design/a1-sportback-14-tdi-66-kw-90-cv-design/datos",
@@ -192,7 +193,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.6 TDI 116 CV Attraction S tronic 7 vel.",
+            "name": "1.6 TDI 116 CV Attraction S tronic 7 vel.",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/attraction/a1-sportback-16-tdi-116-cv-attraction-s-tronic-7-vel/datos",
@@ -203,7 +204,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.0 TFSI 70 KW (95 CV) Design S tronic 7 vel.",
+            "name": "1.0 TFSI 70 KW (95 CV) Design S tronic 7 vel.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/design/a1-sportback-10-tfsi-95-cv-design-s-tronic/datos",
@@ -214,7 +215,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.4 TFSI 92 kW (125 CV) Attraction S tronic 7 vel.",
+            "name": "1.4 TFSI 92 kW (125 CV) Attraction S tronic 7 vel.",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/attraction/a1-sportback-14-tfsi-125-cv-attraction-s-tronic-7-vel/datos",
@@ -225,7 +226,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.6 TDI 116 CV Design",
+            "name": "1.6 TDI 116 CV Design",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/design/a1-sportback-16-tdi-116-cv-design/datos",
@@ -236,7 +237,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.4 TFSI 92 kW (125 CV) Design",
+            "name": "1.4 TFSI 92 kW (125 CV) Design",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/design/a1-sportback-14-tfsi-125-cv-design/datos",
@@ -247,7 +248,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.6 TDI 116 CV Design",
+            "name": "1.6 TDI 116 CV Design",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/design/a1-sportback-16-tdi-116-cv-design2/datos",
@@ -258,7 +259,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.6 TDI 85 kW (116 CV) Attraction S tronic 7 vel.",
+            "name": "1.6 TDI 85 kW (116 CV) Attraction S tronic 7 vel.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/attraction/a1-sportback-16-tdi-116-cv-attraction-s-tronic-7-vel2/datos",
@@ -269,7 +270,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.4 TDI ultra 90 CV Design S tronic 7 vel.",
+            "name": "1.4 TDI ultra 90 CV Design S tronic 7 vel.",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/design/a1-sportback-14-tdi-ultra-90-cv-design-s-tronic-7-vel/datos",
@@ -280,7 +281,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.4 TFSI CoD 150 CV Attraction S tronic 7 vel.",
+            "name": "1.4 TFSI CoD 150 CV Attraction S tronic 7 vel.",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/attraction/a1-sportback-14-tfsi-cod-150-cv-attraction-s-tronic-7-vel/datos",
@@ -291,7 +292,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.4 TDI 90 CV Design S tronic 7 vel.",
+            "name": "1.4 TDI 90 CV Design S tronic 7 vel.",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/design/a1-sportback-14-tdi-90-cv-design-s-tronic-7-vel/datos",
@@ -302,7 +303,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.6 TDI 85 kW (116 CV) Design",
+            "name": "1.6 TDI 85 kW (116 CV) Design",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/design/a1-sportback-16-tdi-85-kw-116-cv-design/datos",
@@ -313,7 +314,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.4 TFSI CoD 150 CV Design",
+            "name": "1.4 TFSI CoD 150 CV Design",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/design/a1-sportback-14-tfsi-cod-150-cv-design/datos",
@@ -324,7 +325,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.4 TDI 66 kW (90 CV) Design S tronic 7 vel.",
+            "name": "1.4 TDI 66 kW (90 CV) Design S tronic 7 vel.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/design/a1-sportback-14-tdi-66-kw-90-cv-design-s-tronic-7-vel/datos",
@@ -335,7 +336,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.6 TDI 116 CV Design S tronic 7 vel.",
+            "name": "1.6 TDI 116 CV Design S tronic 7 vel.",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/design/a1-sportback-16-tdi-116-cv-design-s-tronic-7-vel/datos",
@@ -346,7 +347,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.4 TFSI 92 kW (125 CV) Design S tronic 7 vel.",
+            "name": "1.4 TFSI 92 kW (125 CV) Design S tronic 7 vel.",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/design/a1-sportback-14-tfsi-125-cv-design-s-tronic-7-vel/datos",
@@ -357,7 +358,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.6 TDI 85 kW (116 CV) Design S tronic 7 vel.",
+            "name": "1.6 TDI 85 kW (116 CV) Design S tronic 7 vel.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/design/a1-sportback-16-tdi-116-cv-design-s-tronic-7-vel2/datos",
@@ -368,7 +369,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.4 TFSI CoD 150 CV Design S tronic 7 vel.",
+            "name": "1.4 TFSI CoD 150 CV Design S tronic 7 vel.",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/design/a1-sportback-14-tfsi-cod-150-cv-design-s-tronic-7-vel/datos",
@@ -379,7 +380,7 @@
             "maletero": "270"
         },
         {
-            "name": "A1 Sportback 1.8 TFSI 141 kW (192 CV) S tronic 7 vel.",
+            "name": "1.8 TFSI 141 kW (192 CV) S tronic 7 vel.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/a1/2015/sportback/estandar/a1-sportback-18-tfsi-192-cv-s-tronic-7-vel/datos",

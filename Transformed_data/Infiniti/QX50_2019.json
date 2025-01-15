@@ -1,11 +1,12 @@
 {
+    "brand": "Infiniti",
     "name": "QX50",
     "year": "2019",
     "url": "https://www.km77.com/coches/infiniti/qx50/2019/estandar",
     "price": "",
     "versions": [
         {
-            "name": "QX50 2.0 VC-Turbo AWD",
+            "name": "2.0 VC-Turbo AWD",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/infiniti/qx50/2019/estandar/estandar/qx50-20-vc-turbo-awd/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "QX50 2.0 VC-Turbo FWD",
+            "name": "2.0 VC-Turbo FWD",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/infiniti/qx50/2019/estandar/estandar/qx50-20-vc-turbo-fwd/datos",

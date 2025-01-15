@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "R8 Spyder",
     "year": "2016",
     "url": "https://www.km77.com/coches/audi/r8/2016/spyder",
     "price": "",
     "versions": [
         {
-            "name": "R8 Spyder 5.2 FSI V10 397 kW (540 CV) RWS S tronic",
+            "name": "5.2 FSI V10 397 kW (540 CV) RWS S tronic",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/r8/2016/spyder/rws/r8-spyder-v10-rws/datos",
@@ -233,7 +234,7 @@
             ]
         },
         {
-            "name": "R8 Spyder 5.2 FSI V10 397 kW (540 CV) quattro S tronic",
+            "name": "5.2 FSI V10 397 kW (540 CV) quattro S tronic",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/r8/2016/spyder/estandar/r8-spyder-v10/datos",
@@ -465,7 +466,7 @@
             ]
         },
         {
-            "name": "R8 Spyder 5.2 FSI V10 plus 449 kW (610 CV) quattro S tronic 7 vel.",
+            "name": "5.2 FSI V10 plus 449 kW (610 CV) quattro S tronic 7 vel.",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/r8/2016/spyder/estandar/r8-spyder-52-fsi-v10-plus-449-kw-610-cv-quattro-s-tronic-7-vel/datos",

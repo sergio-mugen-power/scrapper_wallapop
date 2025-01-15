@@ -1,11 +1,12 @@
 {
+    "brand": "Peugeot",
     "name": "5008",
     "year": "2021",
     "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar",
     "price": "Desde 38.660 €",
     "versions": [
         {
-            "name": "5008 Active PureTech 130 S&S",
+            "name": "Active PureTech 130 S&S",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-puretech-130-ss/datos",
@@ -200,7 +201,7 @@
             ]
         },
         {
-            "name": "5008 Active BlueHDi 130 S&S",
+            "name": "Active BlueHDi 130 S&S",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-bluehdi-130-ss/datos",
@@ -396,7 +397,7 @@
             ]
         },
         {
-            "name": "5008 Active Pack PureTech 130",
+            "name": "Active Pack PureTech 130",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-active-pack-puretech-130-ss/datos",
@@ -622,7 +623,7 @@
             ]
         },
         {
-            "name": "5008 Active Pack BlueHDi 130 S&S",
+            "name": "Active Pack BlueHDi 130 S&S",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-active-pack-bluehdi-130-ss/datos",
@@ -829,7 +830,7 @@
             ]
         },
         {
-            "name": "5008 Allure PureTech 130 S&S",
+            "name": "Allure PureTech 130 S&S",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-allure-puretech-130-ss/datos",
@@ -1043,7 +1044,7 @@
             ]
         },
         {
-            "name": "5008 Allure Pack PureTech 130",
+            "name": "Allure Pack PureTech 130",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-allure-pack-puretech-130-ss/datos",
@@ -1281,7 +1282,7 @@
             ]
         },
         {
-            "name": "5008 Allure BlueHDi 130 S&S",
+            "name": "Allure BlueHDi 130 S&S",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-allure-bluehdi-130-ss/datos",
@@ -1496,7 +1497,7 @@
             ]
         },
         {
-            "name": "5008 Active Pack BlueHDi 130 EAT8",
+            "name": "Active Pack BlueHDi 130 EAT8",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-bluehdi-130-ss-eat8/datos",
@@ -1725,7 +1726,7 @@
             ]
         },
         {
-            "name": "5008 Allure PureTech 130 S&S EAT8",
+            "name": "Allure PureTech 130 S&S EAT8",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-allure-puretech-130-ss-eat8/datos",
@@ -1939,7 +1940,7 @@
             ]
         },
         {
-            "name": "5008 GT BlueHDi 130 S&S",
+            "name": "GT BlueHDi 130 S&S",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-gt-bluehdi-130-ss/datos",
@@ -2177,7 +2178,7 @@
             ]
         },
         {
-            "name": "5008 Allure Pack BlueHDi 130 S&S",
+            "name": "Allure Pack BlueHDi 130 S&S",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-allure-pack-bluehdi-130-ss/datos",
@@ -2394,7 +2395,7 @@
             ]
         },
         {
-            "name": "5008 Active Pack Hybrid 136 e-DCS6",
+            "name": "Active Pack Hybrid 136 e-DCS6",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-active-pack-hybrid-136-e-dcs6/datos",
@@ -2635,7 +2636,7 @@
             ]
         },
         {
-            "name": "5008 GT PureTech 130",
+            "name": "GT PureTech 130",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-gt-puretech-130-ss/datos",
@@ -2888,7 +2889,7 @@
             ]
         },
         {
-            "name": "5008 Active Pack PureTech 130 EAT8",
+            "name": "Active Pack PureTech 130 EAT8",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-puretech-130-ss-eat8/datos",
@@ -3115,7 +3116,7 @@
             ]
         },
         {
-            "name": "5008 Allure BlueHDi 130 S&S EAT8",
+            "name": "Allure BlueHDi 130 S&S EAT8",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-allure-bluehdi-130-ss-eat8/datos",
@@ -3330,7 +3331,7 @@
             ]
         },
         {
-            "name": "5008 Allure Pack BlueHDi 130 EAT8",
+            "name": "Allure Pack BlueHDi 130 EAT8",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-allure-pack-bluehdi-130-ss-eat8/datos",
@@ -3575,7 +3576,7 @@
             ]
         },
         {
-            "name": "5008 Allure Pack Hybrid 136 e-DCS6",
+            "name": "Allure Pack Hybrid 136 e-DCS6",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-hybrid-136-e-dcs6/datos",
@@ -3833,7 +3834,7 @@
             ]
         },
         {
-            "name": "5008 GT PureTech 180 S&S EAT8",
+            "name": "GT PureTech 180 S&S EAT8",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-puretech-180-ss-eat8/datos",
@@ -4072,7 +4073,7 @@
             ]
         },
         {
-            "name": "5008 Allure Pack PureTech 130 EAT8",
+            "name": "Allure Pack PureTech 130 EAT8",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-allure-pack-puretech-130-ss-eat8/datos",
@@ -4314,7 +4315,7 @@
             ]
         },
         {
-            "name": "5008 GT Pack PureTech 130 S&S EAT8",
+            "name": "GT Pack PureTech 130 S&S EAT8",
             "start_year": "2022",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-gt-pack-puretech-130-ss-eat8/datos",
@@ -4554,7 +4555,7 @@
             ]
         },
         {
-            "name": "5008 Allure Pack BlueHDi 180 S&S EAT8",
+            "name": "Allure Pack BlueHDi 180 S&S EAT8",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-bluehdi-180-ss-eat8/datos",
@@ -4770,7 +4771,7 @@
             ]
         },
         {
-            "name": "5008 GT BlueHDi 130 EAT8",
+            "name": "GT BlueHDi 130 EAT8",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-gt-bluehdi-130-ss-eat8/datos",
@@ -5030,7 +5031,7 @@
             ]
         },
         {
-            "name": "5008 GT Hybrid 136 e-DCS6",
+            "name": "GT Hybrid 136 e-DCS6",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-gt-hybrid-136-e-dcs6/datos",
@@ -5301,7 +5302,7 @@
             ]
         },
         {
-            "name": "5008 GT PureTech 180 S&S EAT8",
+            "name": "GT PureTech 180 S&S EAT8",
             "start_year": "2022",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-gt-puretech-180-ss-eat8/datos",
@@ -5537,7 +5538,7 @@
             ]
         },
         {
-            "name": "5008 GT Pack BlueHDi 130 S&S EAT8",
+            "name": "GT Pack BlueHDi 130 S&S EAT8",
             "start_year": "2022",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-gt-pack-bluehdi-130-ss-eat8/datos",
@@ -5778,7 +5779,7 @@
             ]
         },
         {
-            "name": "5008 GT PureTech 130 EAT8",
+            "name": "GT PureTech 130 EAT8",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-gt-puretech-130-ss-eat8/datos",
@@ -6036,7 +6037,7 @@
             ]
         },
         {
-            "name": "5008 GT Pack PureTech 180 S&S EAT8",
+            "name": "GT Pack PureTech 180 S&S EAT8",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-gt-pack-puretech-180-ss-eat8/datos",
@@ -6274,7 +6275,7 @@
             ]
         },
         {
-            "name": "5008 GT BlueHDi 180 S&S EAT8",
+            "name": "GT BlueHDi 180 S&S EAT8",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-gt-bluehdi-180-ss-eat8/datos",
@@ -6510,7 +6511,7 @@
             ]
         },
         {
-            "name": "5008 GT Pack PureTech 180 S&S EAT8",
+            "name": "GT Pack PureTech 180 S&S EAT8",
             "start_year": "2022",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-gt-pack-puretech-180-ss-eat82/datos",
@@ -6750,7 +6751,7 @@
             ]
         },
         {
-            "name": "5008 GT Pack BlueHDi 180 S&S EAT8",
+            "name": "GT Pack BlueHDi 180 S&S EAT8",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/5008/2021/estandar/estandar/5008-gt-pack-bluehdi-180-ss-eat8/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "LYNK&CO",
     "name": "01",
     "year": "2017",
     "url": "https://www.km77.com/coches/lynk-co/01/2017/estandar",
     "price": "Desde 40.995 €",
     "versions": [
         {
-            "name": "01 Híbrido eléctrico",
+            "name": "Híbrido eléctrico",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/lynk-co/01/2017/estandar/hev/01-hibrido-electrico/datos",
@@ -16,7 +17,7 @@
             "maletero": "466"
         },
         {
-            "name": "01 Híbrido enchufable",
+            "name": "Híbrido enchufable",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/lynk-co/01/2017/estandar/phev/01-hibrido-enchufable/datos",
@@ -27,7 +28,7 @@
             "maletero": "466"
         },
         {
-            "name": "01 Híbrido enchufable",
+            "name": "Híbrido enchufable",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/lynk-co/01/2017/estandar/phev/01-hibrido-enchufable2/datos",

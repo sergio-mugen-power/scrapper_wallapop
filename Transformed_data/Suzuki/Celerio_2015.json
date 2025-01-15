@@ -1,11 +1,12 @@
 {
+    "brand": "Suzuki",
     "name": "Celerio",
     "year": "2015",
     "url": "https://www.km77.com/coches/suzuki/celerio/2015/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Celerio 1.0 GA",
+            "name": "1.0 GA",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/suzuki/celerio/2015/estandar/ga/celerio-10-ga/datos",
@@ -92,7 +93,7 @@
             ]
         },
         {
-            "name": "Celerio 1.0 GA",
+            "name": "1.0 GA",
             "start_year": "2014",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/suzuki/celerio/2015/estandar/ga/celerio-2014/datos",
@@ -180,7 +181,7 @@
             ]
         },
         {
-            "name": "Celerio 1.0 GL",
+            "name": "1.0 GL",
             "start_year": "2014",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/suzuki/celerio/2015/estandar/gl/celerio-10-gl/datos",
@@ -268,7 +269,7 @@
             ]
         },
         {
-            "name": "Celerio 1.0 GL",
+            "name": "1.0 GL",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/suzuki/celerio/2015/estandar/gl/celerio-10-gl2/datos",
@@ -355,7 +356,7 @@
             ]
         },
         {
-            "name": "Celerio 1.0 GLX",
+            "name": "1.0 GLX",
             "start_year": "2014",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/suzuki/celerio/2015/estandar/glx/celerio-10-glx/datos",
@@ -444,7 +445,7 @@
             ]
         },
         {
-            "name": "Celerio 1.0 GLX",
+            "name": "1.0 GLX",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/suzuki/celerio/2015/estandar/glx/celerio-10-glx2/datos",
@@ -532,7 +533,7 @@
             ]
         },
         {
-            "name": "Celerio 1.0 GLX AGS",
+            "name": "1.0 GLX AGS",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/suzuki/celerio/2015/estandar/glx/celerio-10-glx-ags/datos",

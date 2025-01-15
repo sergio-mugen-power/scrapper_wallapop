@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "XM",
     "year": "2023",
     "url": "https://www.km77.com/coches/bmw/xm/2023/estandar",
     "price": "Desde 129.700 €",
     "versions": [
         {
-            "name": "XM 50e\n(02/2024 - )",
+            "name": "50e\n(02/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/bmw/xm/2023/estandar/estandar/xm-50e/datos",
@@ -291,7 +292,7 @@
             ]
         },
         {
-            "name": "XM\n(08/2023 - )",
+            "name": "(08/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/bmw/xm/2023/estandar/estandar/xm2/datos",
@@ -582,7 +583,7 @@
             ]
         },
         {
-            "name": "XM Label Red\n(08/2023 - )",
+            "name": "Label Red\n(08/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/bmw/xm/2023/estandar/label-red/xm-label-red/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Volvo",
     "name": "V90 Cross Country",
     "year": "2020",
     "url": "https://www.km77.com/coches/volvo/v90/2020/cross-country",
     "price": "Desde 52.450 €",
     "versions": [
         {
-            "name": "V90 Cross Country D4 AWD",
+            "name": "D4 AWD",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volvo/v90/2020/cross-country/estandar/v90-cross-country-d4-awd/datos",
@@ -25,7 +26,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country D4 AWD Aut.",
+            "name": "D4 AWD Aut.",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volvo/v90/2020/cross-country/estandar/v90-cross-country-d4-awd-aut/datos",
@@ -45,7 +46,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country Pro B4 Diesel AWD",
+            "name": "Pro B4 Diesel AWD",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volvo/v90/2020/cross-country/estandar/v90-cross-country-b4-diesel-awd/datos",
@@ -67,7 +68,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country D5 AWD Aut.",
+            "name": "D5 AWD Aut.",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volvo/v90/2020/cross-country/estandar/v90-cross-country-d5-awd-aut/datos",
@@ -87,7 +88,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country Pro B5 Diesel AWD",
+            "name": "Pro B5 Diesel AWD",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volvo/v90/2020/cross-country/estandar/v90-cross-country-b5-diesel-awd/datos",
@@ -109,7 +110,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country B4 Diesel AWD Core",
+            "name": "B4 Diesel AWD Core",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volvo/v90/2020/cross-country/estandar/v90-cross-country-b4-diesel-awd-core/datos",
@@ -131,7 +132,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country B4 Diesel AWD Plus",
+            "name": "B4 Diesel AWD Plus",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volvo/v90/2020/cross-country/estandar/v90-cross-country-b4-diesel-awd-plus/datos",
@@ -153,7 +154,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country B6 AWD Aut.",
+            "name": "B6 AWD Aut.",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volvo/v90/2020/cross-country/estandar/v90-cross-country-b6-awd-aut/datos",
@@ -175,7 +176,7 @@
             ]
         },
         {
-            "name": "V90 Cross Country B4 Diesel AWD Ultimate",
+            "name": "B4 Diesel AWD Ultimate",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volvo/v90/2020/cross-country/estandar/v90-cross-country-b4-diesel-awd-ultimate/datos",

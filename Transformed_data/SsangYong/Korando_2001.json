@@ -1,11 +1,12 @@
 {
+    "brand": "SsangYong",
     "name": "Korando",
     "year": "2001",
     "url": "https://www.km77.com/coches/ssangyong/korando/2001/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Korando Kj 2.3 TDI",
+            "name": "Kj 2.3 TDI",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/ssangyong/korando/2001/estandar/estandar/korando-kj-23-tdi/datos",
@@ -90,7 +91,7 @@
             ]
         },
         {
-            "name": "Korando Kj 2.3 TDI Lux",
+            "name": "Kj 2.3 TDI Lux",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/ssangyong/korando/2001/estandar/lux/korando-kj-23-tdi-lux/datos",
@@ -175,7 +176,7 @@
             ]
         },
         {
-            "name": "Korando Kj 2.3 TDI Grand Lux",
+            "name": "Kj 2.3 TDI Grand Lux",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/ssangyong/korando/2001/estandar/grand-lux/korando-kj-23-tdi-grand-lux/datos",
@@ -260,7 +261,7 @@
             ]
         },
         {
-            "name": "Korando KJ 2.9 TDI Lux",
+            "name": "KJ 2.9 TDI Lux",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/ssangyong/korando/2001/estandar/lux/korando-kj-29-tdi-lux/datos",
@@ -345,7 +346,7 @@
             ]
         },
         {
-            "name": "Korando Kj 2.9 TDI Grand Lux",
+            "name": "Kj 2.9 TDI Grand Lux",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/ssangyong/korando/2001/estandar/grand-lux/korando-kj-29-tdi-grand-lux/datos",
@@ -430,7 +431,7 @@
             ]
         },
         {
-            "name": "Korando KJ 2.9 TDI SVX",
+            "name": "KJ 2.9 TDI SVX",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/ssangyong/korando/2001/estandar/svx/korando-kj-29-tdi-svx/datos",

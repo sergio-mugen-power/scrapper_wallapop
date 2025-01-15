@@ -1,11 +1,12 @@
 {
+    "brand": "Dacia",
     "name": "Dokker",
     "year": "2013",
     "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Dokker Base 1.6 75 kW (101 CV)",
+            "name": "Base 1.6 75 kW (101 CV)",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/base/dokker-base-16-100/datos",
@@ -139,7 +140,7 @@
             ]
         },
         {
-            "name": "Dokker Access 1.6 75 kW (100 CV)",
+            "name": "Access 1.6 75 kW (100 CV)",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/access/dokker-access-16-75-kw-100-cv/datos",
@@ -273,7 +274,7 @@
             ]
         },
         {
-            "name": "Dokker Ambiance 1.6 75 kW (101 CV)",
+            "name": "Ambiance 1.6 75 kW (101 CV)",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/ambiance/dokker-ambiance-16-100/datos",
@@ -446,7 +447,7 @@
             ]
         },
         {
-            "name": "Dokker Essential 1.6 75 kW (100 CV)",
+            "name": "Essential 1.6 75 kW (100 CV)",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/essential/dokker-essential-16-75-kw-100-cv/datos",
@@ -617,7 +618,7 @@
             ]
         },
         {
-            "name": "Dokker Ambiance 1.6 72 kW (97 CV) GLP",
+            "name": "Ambiance 1.6 72 kW (97 CV) GLP",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/ambiance/dokker-ambiance-16-100-glp2/datos",
@@ -790,7 +791,7 @@
             ]
         },
         {
-            "name": "Dokker Base 1.6 85",
+            "name": "Base 1.6 85",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/base/dokker-base-16-85/datos",
@@ -925,7 +926,7 @@
             ]
         },
         {
-            "name": "Dokker Ambiance dCi 55 kW (75 CV)",
+            "name": "Ambiance dCi 55 kW (75 CV)",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/ambiance/dokker-ambiance-dci-752/datos",
@@ -1099,7 +1100,7 @@
             ]
         },
         {
-            "name": "Dokker Stepway 1.6 75 kW (100 CV)",
+            "name": "Stepway 1.6 75 kW (100 CV)",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/stepway/dokker-stepway-16-75-kw-100-cv/datos",
@@ -1279,7 +1280,7 @@
             ]
         },
         {
-            "name": "Dokker Essential 1.6 75 kW (100 CV) GLP",
+            "name": "Essential 1.6 75 kW (100 CV) GLP",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/essential/dokker-essential-16-75-kw-100-cv-glp/datos",
@@ -1452,7 +1453,7 @@
             ]
         },
         {
-            "name": "Dokker Access TCE 75 kW (100 CV) GPF",
+            "name": "Access TCE 75 kW (100 CV) GPF",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/access/dokker-access-tce-75-kw-100-cv-gpf/datos",
@@ -1590,7 +1591,7 @@
             ]
         },
         {
-            "name": "Dokker Ambiance dCi 66 kW (90 CV)",
+            "name": "Ambiance dCi 66 kW (90 CV)",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/ambiance/dokker-ambiance-dci-902/datos",
@@ -1764,7 +1765,7 @@
             ]
         },
         {
-            "name": "Dokker Stepway dCi 55 kW (75 CV)",
+            "name": "Stepway dCi 55 kW (75 CV)",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/stepway/dokker-stepway-dci-75/datos",
@@ -1944,7 +1945,7 @@
             ]
         },
         {
-            "name": "Dokker Essential Blue dCi 55 kW (75 CV)",
+            "name": "Essential Blue dCi 55 kW (75 CV)",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/essential/dokker-essential-blue-dci-55-kw-75-cv/datos",
@@ -2116,7 +2117,7 @@
             ]
         },
         {
-            "name": "Dokker Ambiance 1.6 85",
+            "name": "Ambiance 1.6 85",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/ambiance/dokker-ambiance-16-85/datos",
@@ -2287,7 +2288,7 @@
             ]
         },
         {
-            "name": "Dokker Nomada 1.6 75 kW (101 CV)",
+            "name": "Nomada 1.6 75 kW (101 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/nomada/dokker-nomada-16-75-kw-101-cv/datos",
@@ -2471,7 +2472,7 @@
             ]
         },
         {
-            "name": "Dokker Essential TCE 75 kW (100 CV) GPF",
+            "name": "Essential TCE 75 kW (100 CV) GPF",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/essential/dokker-essential-tce-75-kw-100-cv-gpf/datos",
@@ -2645,7 +2646,7 @@
             ]
         },
         {
-            "name": "Dokker Stepway dCi 66 kW (90 CV)",
+            "name": "Stepway dCi 66 kW (90 CV)",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/stepway/dokker-stepway-dci-90/datos",
@@ -2825,7 +2826,7 @@
             ]
         },
         {
-            "name": "Dokker Ambiance 1.6 100 GLP",
+            "name": "Ambiance 1.6 100 GLP",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/ambiance/dokker-ambiance-16-100-glp/datos",
@@ -2995,7 +2996,7 @@
             ]
         },
         {
-            "name": "Dokker Ambiance 1.6 85 GLP",
+            "name": "Ambiance 1.6 85 GLP",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/ambiance/dokker-ambiance-16-85-glp/datos",
@@ -3164,7 +3165,7 @@
             ]
         },
         {
-            "name": "Dokker Essential TCE 96 kW (130 CV) GPF",
+            "name": "Essential TCE 96 kW (130 CV) GPF",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/essential/dokker-essential-tce-96-kw-130-cv-gpf/datos",
@@ -3341,7 +3342,7 @@
             ]
         },
         {
-            "name": "Dokker Ambiance dCi 75",
+            "name": "Ambiance dCi 75",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/ambiance/dokker-ambiance-dci-75/datos",
@@ -3512,7 +3513,7 @@
             ]
         },
         {
-            "name": "Dokker Eficacia dCi 75",
+            "name": "Eficacia dCi 75",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/eficacia/dokker-sl-eficacia-dci-75/datos",
@@ -3676,7 +3677,7 @@
             ]
         },
         {
-            "name": "Dokker Stepway Blue dCi 70 kW (95 CV)",
+            "name": "Stepway Blue dCi 70 kW (95 CV)",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/stepway/dokker-stepway-blue-dci-70-kw-95-cv/datos",
@@ -3855,7 +3856,7 @@
             ]
         },
         {
-            "name": "Dokker Essential Blue dCi 70 kW (95 CV)",
+            "name": "Essential Blue dCi 70 kW (95 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/essential/dokker-essential-dci-70-kw-95-cv/datos",
@@ -4030,7 +4031,7 @@
             ]
         },
         {
-            "name": "Dokker Stepway Essential TCE 96 kW (130 CV) GPF",
+            "name": "Stepway Essential TCE 96 kW (130 CV) GPF",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/essential/dokker-stepway-essential-tce-96-kw-130-cv-gpf/datos",
@@ -4207,7 +4208,7 @@
             ]
         },
         {
-            "name": "Dokker SL 2019 1.6 75 kW (100 CV) GLP",
+            "name": "SL 2019 1.6 75 kW (100 CV) GLP",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/sl-2019/dokker-sl-2019-16-75-kw-100-cv-glp/datos",
@@ -4389,7 +4390,7 @@
             ]
         },
         {
-            "name": "Dokker SL 2019 TCE 96 kW (130 CV) GPF",
+            "name": "SL 2019 TCE 96 kW (130 CV) GPF",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/sl-2019/dokker-sl-2019-tce-96-kw-130-cv-gpf/datos",
@@ -4571,7 +4572,7 @@
             ]
         },
         {
-            "name": "Dokker Essential Blue dCi 70 kW (95 CV)",
+            "name": "Essential Blue dCi 70 kW (95 CV)",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/essential/dokker-essential-blue-dci-70-kw-95-cv/datos",
@@ -4748,7 +4749,7 @@
             ]
         },
         {
-            "name": "Dokker Ambiance dCi 90",
+            "name": "Ambiance dCi 90",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/ambiance/dokker-ambiance-dci-90/datos",
@@ -4919,7 +4920,7 @@
             ]
         },
         {
-            "name": "Dokker Eficacia dCi 90",
+            "name": "Eficacia dCi 90",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/eficacia/dokker-sl-eficacia-dci-90/datos",
@@ -5083,7 +5084,7 @@
             ]
         },
         {
-            "name": "Dokker Trotamundos dCi 66 kW (90 CV)",
+            "name": "Trotamundos dCi 66 kW (90 CV)",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/trotamundos/dokker-trotamundos-dci-66-kw-90-cv/datos",
@@ -5263,7 +5264,7 @@
             ]
         },
         {
-            "name": "Dokker Nomada dCi 66 kW (90 CV)",
+            "name": "Nomada dCi 66 kW (90 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/nomada/dokker-nomada-dci-66-kw-90-cv/datos",
@@ -5448,7 +5449,7 @@
             ]
         },
         {
-            "name": "Dokker Xplore TCe 96 kW (130 CV) GPF",
+            "name": "Xplore TCe 96 kW (130 CV) GPF",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/xplore/dokker-xplore-tce-96-kw-130-cv-gpf/datos",
@@ -5631,7 +5632,7 @@
             ]
         },
         {
-            "name": "Dokker Stepway 1.5 dCi 75 CV",
+            "name": "Stepway 1.5 dCi 75 CV",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/stepway/dokker-stepway-15-dci-75-cv/datos",
@@ -5807,7 +5808,7 @@
             ]
         },
         {
-            "name": "Dokker Stepway Essential Blue dCi 70 kW (95 CV) GPF",
+            "name": "Stepway Essential Blue dCi 70 kW (95 CV) GPF",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/essential/dokker-stepway-essential-blue-dci-70-kw-95-cv-gpf/datos",
@@ -5984,7 +5985,7 @@
             ]
         },
         {
-            "name": "Dokker Access TCE 75 kW (100 CV) GPF",
+            "name": "Access TCE 75 kW (100 CV) GPF",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/access/dokker-access-tce-75-kw-100-cv-gpf2/datos",
@@ -6130,7 +6131,7 @@
             ]
         },
         {
-            "name": "Dokker Stepway 1.5 dCi 90 CV",
+            "name": "Stepway 1.5 dCi 90 CV",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/stepway/dokker-stepway-15-dci-90-cv/datos",
@@ -6306,7 +6307,7 @@
             ]
         },
         {
-            "name": "Dokker SL 2019 Blue dCi 66 kW (90 CV)",
+            "name": "SL 2019 Blue dCi 66 kW (90 CV)",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/sl-2019/dokker-sl-2019-blue-dci-66-kw-90-cv/datos",
@@ -6488,7 +6489,7 @@
             ]
         },
         {
-            "name": "Dokker SL 2019 Blue dCi 70 kW (95 CV)",
+            "name": "SL 2019 Blue dCi 70 kW (95 CV)",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/sl-2019/dokker-sl-2019-blue-dci-70-kw-95-cv/datos",
@@ -6670,7 +6671,7 @@
             ]
         },
         {
-            "name": "Dokker Xplore Blue dCi 70 kW (95 CV)",
+            "name": "Xplore Blue dCi 70 kW (95 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/xplore/dokker-xplore-blue-dci-70-kw-95-cv/datos",
@@ -6854,7 +6855,7 @@
             ]
         },
         {
-            "name": "Dokker Essential TCE 75 kW (100 CV) GPF",
+            "name": "Essential TCE 75 kW (100 CV) GPF",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/essential/dokker-essential-tce-75-kw-100-cv-gpf2/datos",
@@ -7033,7 +7034,7 @@
             ]
         },
         {
-            "name": "Dokker AudCi 90",
+            "name": "AudCi 90",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/audacia/dokker-audacia-dci-90/datos",
@@ -7207,7 +7208,7 @@
             ]
         },
         {
-            "name": "Dokker Essential TCE 96 kW (130 CV) GPF",
+            "name": "Essential TCE 96 kW (130 CV) GPF",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/essential/dokker-essential-tce-96-kw-130-cv-gpf2/datos",
@@ -7388,7 +7389,7 @@
             ]
         },
         {
-            "name": "Dokker Stepway Essential TCE 75 kW (100 CV) GPF",
+            "name": "Stepway Essential TCE 75 kW (100 CV) GPF",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/essential/dokker-stepway-essential-tce-75-kw-100-cv-gpf/datos",
@@ -7566,7 +7567,7 @@
             ]
         },
         {
-            "name": "Dokker Essential 1.6 80 kW (110 CV) ECO-G",
+            "name": "Essential 1.6 80 kW (110 CV) ECO-G",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/essential/dokker-essential-16-80-kw-110-cv-glp/datos",
@@ -7748,7 +7749,7 @@
             ]
         },
         {
-            "name": "Dokker Stepway Essential TCE 96 kW (130 CV) GPF",
+            "name": "Stepway Essential TCE 96 kW (130 CV) GPF",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/essential/dokker-stepway-essential-tce-96-kw-130-cv-gpf2/datos",
@@ -7928,7 +7929,7 @@
             ]
         },
         {
-            "name": "Dokker Stepway Essential Blue dCi 70 kW (95 CV)",
+            "name": "Stepway Essential Blue dCi 70 kW (95 CV)",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/essential/dokker-stepway-essential-blue-dci-70-kw-95-cv-gpf2/datos",
@@ -8108,7 +8109,7 @@
             ]
         },
         {
-            "name": "Dokker Stepway Comfort Blue dCi 70 kW (95 CV)",
+            "name": "Stepway Comfort Blue dCi 70 kW (95 CV)",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/stepway/dokker-stepway-comfort-blue-dci-70-kw-95-cv/datos",
@@ -8288,7 +8289,7 @@
             ]
         },
         {
-            "name": "Dokker Essential Blue dCi 70 kW (95 CV)",
+            "name": "Essential Blue dCi 70 kW (95 CV)",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/dacia/dokker/2013/estandar/essential/dokker-essential-blue-dci-70-kw-95-cv2/datos",

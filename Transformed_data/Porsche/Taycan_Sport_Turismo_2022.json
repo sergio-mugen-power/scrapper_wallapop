@@ -1,11 +1,12 @@
 {
+    "brand": "Porsche",
     "name": "Taycan Sport Turismo",
     "year": "2022",
     "url": "https://www.km77.com/coches/porsche/taycan/2022/sport-turismo",
     "price": "Desde 105.682 €",
     "versions": [
         {
-            "name": "Taycan Sport Turismo batería Performance",
+            "name": "batería Performance",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/porsche/taycan/2022/sport-turismo/estandar/taycan-sport-turismo-bateria-performance/datos",
@@ -35,7 +36,7 @@
             ]
         },
         {
-            "name": "Taycan Sport Turismo batería Performance Plus",
+            "name": "batería Performance Plus",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/porsche/taycan/2022/sport-turismo/estandar/taycan-sport-turismo-bateria-performance-plus/datos",

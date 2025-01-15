@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Golf Variant",
     "year": "2021",
     "url": "https://www.km77.com/coches/volkswagen/golf/2021/variant",
     "price": "",
     "versions": [
         {
-            "name": "Golf Variant 1.0 TSI 81 kW (110 CV)",
+            "name": "1.0 TSI 81 kW (110 CV)",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volkswagen/golf/2021/variant/estandar/golf-variant-10-tsi-81-kw-110-cv/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Golf Variant 2.0 TDI 85 kW (115 CV)",
+            "name": "2.0 TDI 85 kW (115 CV)",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volkswagen/golf/2021/variant/estandar/golf-variant-20-tdi-85-kw-115-cv/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Golf Variant 2.0 TDI 85 kW (115 CV)",
+            "name": "2.0 TDI 85 kW (115 CV)",
             "start_year": "2022",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volkswagen/golf/2021/variant/estandar/golf-variant-20-tdi-85-kw-115-cv2/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Golf Variant Life 1.0 TSI 81 kW (110 CV)",
+            "name": "Life 1.0 TSI 81 kW (110 CV)",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/golf/2021/variant/estandar/golf-variant-life-10-tsi-81-kw-110-cv/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "Golf Variant Life 2.0 TDI 85 kW (115 CV)",
+            "name": "Life 2.0 TDI 85 kW (115 CV)",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volkswagen/golf/2021/variant/estandar/golf-variant-life-20-tdi-85-kw-115-cv/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Golf Variant 2.0 TDI 85 kW (115 CV) DSG 7 vel.",
+            "name": "2.0 TDI 85 kW (115 CV) DSG 7 vel.",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volkswagen/golf/2021/variant/estandar/golf-variant-20-tdi-85-kw-115-cv-dsg-7-vel/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "Golf Variant Life 1.5 TSI 96 kW (130 CV)",
+            "name": "Life 1.5 TSI 96 kW (130 CV)",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/golf/2021/variant/estandar/golf-variant-life-15-tsi-96-kw-130-cv/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "Golf Variant Life 1.0 eTSI 81 kW (110 CV) DSG 7 vel.",
+            "name": "Life 1.0 eTSI 81 kW (110 CV) DSG 7 vel.",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/golf/2021/variant/estandar/golf-variant-life-10-etsi-81-kw-110-cv-dsg-7-vel/datos",
@@ -231,7 +232,7 @@
             ]
         },
         {
-            "name": "Golf Variant Life 2.0 TDI 85 kW (115 CV)",
+            "name": "Life 2.0 TDI 85 kW (115 CV)",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/golf/2021/variant/estandar/golf-variant-life-20-tdi-85-kw-115-cv2/datos",
@@ -259,7 +260,7 @@
             ]
         },
         {
-            "name": "Golf Variant Life 1.5 TSI 110 kW (150 CV)",
+            "name": "Life 1.5 TSI 110 kW (150 CV)",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/volkswagen/golf/2021/variant/estandar/golf-variant-life-15-tsi-110-kw-150-cv/datos",
@@ -287,7 +288,7 @@
             ]
         },
         {
-            "name": "Golf Variant Life 1.5 eTSI 96 kW (130 CV) DSG 7 vel.",
+            "name": "Life 1.5 eTSI 96 kW (130 CV) DSG 7 vel.",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/golf/2021/variant/estandar/golf-variant-life-15-etsi-96-kw-130-cv-dsg-7-vel/datos",
@@ -317,7 +318,7 @@
             ]
         },
         {
-            "name": "Golf Variant Life 2.0 TDI 85 kW (115 CV) DSG 7 vel.",
+            "name": "Life 2.0 TDI 85 kW (115 CV) DSG 7 vel.",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/golf/2021/variant/estandar/golf-variant-life-20-tdi-85-kw-115-cv-dsg-7-vel/datos",
@@ -345,7 +346,7 @@
             ]
         },
         {
-            "name": "Golf Variant Life 1.5 eTSI 110 kW (150 CV) DSG 7 vel.",
+            "name": "Life 1.5 eTSI 110 kW (150 CV) DSG 7 vel.",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/volkswagen/golf/2021/variant/estandar/golf-variant-life-15-etsi-110-kw-150-cv-dsg-7-vel/datos",
@@ -375,7 +376,7 @@
             ]
         },
         {
-            "name": "Golf Variant R-Line 1.5 TSI 96 kW (130 CV)",
+            "name": "R-Line 1.5 TSI 96 kW (130 CV)",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/golf/2021/variant/estandar/golf-variant-r-line-15-tsi-96-kw-130-cv/datos",
@@ -403,7 +404,7 @@
             ]
         },
         {
-            "name": "Golf Variant R-Line 1.5 TSI 110 kW (150 CV)",
+            "name": "R-Line 1.5 TSI 110 kW (150 CV)",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/golf/2021/variant/estandar/golf-variant-r-line-15-tsi-110-kw-150-cv/datos",
@@ -431,7 +432,7 @@
             ]
         },
         {
-            "name": "Golf Variant R-Line 1.5 eTSI 96 kW (130 CV) DSG 7 vel.",
+            "name": "R-Line 1.5 eTSI 96 kW (130 CV) DSG 7 vel.",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/golf/2021/variant/estandar/golf-variant-r-line-15-etsi-96-kw-130-cv-dsg-7-vel/datos",
@@ -461,7 +462,7 @@
             ]
         },
         {
-            "name": "Golf Variant R-Line 1.5 eTSI 110 kW (150 CV) DSG 7 vel.",
+            "name": "R-Line 1.5 eTSI 110 kW (150 CV) DSG 7 vel.",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/golf/2021/variant/estandar/golf-variant-r-line-15-etsi-110-kw-150-cv-dsg-7-vel/datos",
@@ -491,7 +492,7 @@
             ]
         },
         {
-            "name": "Golf Variant R-Line 2.0 TDI 110 kW (150 CV) DSG 7 vel.",
+            "name": "R-Line 2.0 TDI 110 kW (150 CV) DSG 7 vel.",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/golf/2021/variant/estandar/golf-variant-r-line-20-tdi-110-kw-150-cv-dsg-7-vel/datos",
@@ -519,7 +520,7 @@
             ]
         },
         {
-            "name": "Golf Variant R 2.0 TSI 235 kW (320 CV) DSG 7 vel. 4Motion",
+            "name": "R 2.0 TSI 235 kW (320 CV) DSG 7 vel. 4Motion",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/golf/2021/variant/r/golf-variant-r-20-tsi-235-kw-320-cv-dsg-7-vel/datos",

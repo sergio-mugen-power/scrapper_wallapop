@@ -1,11 +1,12 @@
 {
+    "brand": "Maserati",
     "name": "Quattroporte",
     "year": "2013",
     "url": "https://www.km77.com/coches/maserati/quattroporte/2013/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Quattroporte Diesel",
+            "name": "Diesel",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2013/estandar/estandar/quattroporte-diesel/datos",
@@ -223,7 +224,7 @@
             ]
         },
         {
-            "name": "Quattroporte S",
+            "name": "S",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2013/estandar/s/quattroporte-v6-twin-turbo/datos",
@@ -436,7 +437,7 @@
             ]
         },
         {
-            "name": "Quattroporte S",
+            "name": "S",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2013/estandar/s/quattroporte-s/datos",
@@ -652,7 +653,7 @@
             ]
         },
         {
-            "name": "Quattroporte GTS",
+            "name": "GTS",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2013/estandar/gts/quattroporte-gts/datos",
@@ -870,7 +871,7 @@
             ]
         },
         {
-            "name": "Quattroporte S Q4",
+            "name": "S Q4",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2013/estandar/s/quattroporte-v6-twin-turbo-awd/datos",
@@ -1088,7 +1089,7 @@
             ]
         },
         {
-            "name": "Quattroporte GTS",
+            "name": "GTS",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/maserati/quattroporte/2013/estandar/gts/quattroporte-v8-twin-turbo/datos",

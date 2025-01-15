@@ -1,11 +1,12 @@
 {
+    "brand": "Lexus",
     "name": "IS",
     "year": "2009",
     "url": "https://www.km77.com/coches/lexus/is/2009/estandar",
     "price": "",
     "versions": [
         {
-            "name": "IS 220d Premium (cambio 2,4)",
+            "name": "220d Premium (cambio 2,4)",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lexus/is/2009/estandar/premium/is-220d-premium-cambio-24/datos",
@@ -184,7 +185,7 @@
             ]
         },
         {
-            "name": "IS 220d Premium (cambio 2,4)",
+            "name": "220d Premium (cambio 2,4)",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lexus/is/2009/estandar/premium/is-220d-premium-cambio-242/datos",
@@ -364,7 +365,7 @@
             ]
         },
         {
-            "name": "IS 220d Premium (cambio 2,9)",
+            "name": "220d Premium (cambio 2,9)",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lexus/is/2009/estandar/premium/is-220d-premium-cambio-29/datos",
@@ -543,7 +544,7 @@
             ]
         },
         {
-            "name": "IS 220d Premium (cambio 2,9)",
+            "name": "220d Premium (cambio 2,9)",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lexus/is/2009/estandar/premium/is-220d-premium-cambio-292/datos",
@@ -723,7 +724,7 @@
             ]
         },
         {
-            "name": "IS 220d Luxury (cambio 2,4)",
+            "name": "220d Luxury (cambio 2,4)",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lexus/is/2009/estandar/luxury/is-220d-luxury-cambio-24/datos",
@@ -903,7 +904,7 @@
             ]
         },
         {
-            "name": "IS 220d Luxury (cambio 2,4)",
+            "name": "220d Luxury (cambio 2,4)",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lexus/is/2009/estandar/luxury/is-220d-luxury-cambio-242/datos",
@@ -1085,7 +1086,7 @@
             ]
         },
         {
-            "name": "IS 220d Luxury (cambio 2,9)",
+            "name": "220d Luxury (cambio 2,9)",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lexus/is/2009/estandar/luxury/is-220d-luxury-cambio-29/datos",
@@ -1265,7 +1266,7 @@
             ]
         },
         {
-            "name": "IS 220d Luxury (cambio 2,9)",
+            "name": "220d Luxury (cambio 2,9)",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lexus/is/2009/estandar/luxury/is-220d-luxury-cambio-292/datos",
@@ -1447,7 +1448,7 @@
             ]
         },
         {
-            "name": "IS 220d Sport (cambio 2,9)",
+            "name": "220d Sport (cambio 2,9)",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lexus/is/2009/estandar/sport/is-220d-sport-cambio-29/datos",
@@ -1643,7 +1644,7 @@
             ]
         },
         {
-            "name": "IS 220d Sport (cambio 2,9)",
+            "name": "220d Sport (cambio 2,9)",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lexus/is/2009/estandar/sport/is-220d-sport-cambio-292/datos",
@@ -1846,7 +1847,7 @@
             ]
         },
         {
-            "name": "IS 250 Premium Aut.",
+            "name": "250 Premium Aut.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lexus/is/2009/estandar/premium/is-250-premium-aut/datos",
@@ -2024,7 +2025,7 @@
             ]
         },
         {
-            "name": "IS 250 Premium Aut.",
+            "name": "250 Premium Aut.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lexus/is/2009/estandar/premium/is-250-premium-aut2/datos",
@@ -2203,7 +2204,7 @@
             ]
         },
         {
-            "name": "IS 250 Luxury Aut.",
+            "name": "250 Luxury Aut.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lexus/is/2009/estandar/luxury/is-250-luxury-aut/datos",
@@ -2383,7 +2384,7 @@
             ]
         },
         {
-            "name": "IS 250 Luxury Aut.",
+            "name": "250 Luxury Aut.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lexus/is/2009/estandar/luxury/is-250-luxury-aut2/datos",
@@ -2564,7 +2565,7 @@
             ]
         },
         {
-            "name": "IS 250 Sport Aut.",
+            "name": "250 Sport Aut.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lexus/is/2009/estandar/sport/is-250-sport-aut/datos",
@@ -2762,7 +2763,7 @@
             ]
         },
         {
-            "name": "IS 250 Sport Aut.",
+            "name": "250 Sport Aut.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lexus/is/2009/estandar/sport/is-250-sport-aut2/datos",
@@ -2968,7 +2969,7 @@
             ]
         },
         {
-            "name": "IS 220d President (cambio 2,9)",
+            "name": "220d President (cambio 2,9)",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lexus/is/2009/estandar/president/is-220d-president-cambio-29/datos",
@@ -3162,7 +3163,7 @@
             ]
         },
         {
-            "name": "IS 220d President (cambio 2,9)",
+            "name": "220d President (cambio 2,9)",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lexus/is/2009/estandar/president/is-220d-president-cambio-292/datos",
@@ -3357,7 +3358,7 @@
             ]
         },
         {
-            "name": "IS 250 President Aut.",
+            "name": "250 President Aut.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lexus/is/2009/estandar/president/is-250-president-aut/datos",
@@ -3555,7 +3556,7 @@
             ]
         },
         {
-            "name": "IS 250 President Aut.",
+            "name": "250 President Aut.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lexus/is/2009/estandar/president/is-250-president-aut2/datos",

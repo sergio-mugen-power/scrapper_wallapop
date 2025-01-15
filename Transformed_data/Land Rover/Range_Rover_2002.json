@@ -1,11 +1,12 @@
 {
+    "brand": "Land Rover",
     "name": "Range Rover",
     "year": "2002",
     "url": "https://www.km77.com/coches/land-rover/range-rover/2002/estandar",
     "price": "Desde 140.950 €",
     "versions": [
         {
-            "name": "Range Rover 3.0 Td6 SE",
+            "name": "3.0 Td6 SE",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2002/estandar/se/range-rover-30-td6-se/datos",
@@ -203,7 +204,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.0 Td6 HSE",
+            "name": "3.0 Td6 HSE",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2002/estandar/hse/range-rover-30-td6-hse/datos",
@@ -400,7 +401,7 @@
             ]
         },
         {
-            "name": "Range Rover 4.4 V8 SE",
+            "name": "4.4 V8 SE",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2002/estandar/se/range-rover-44-v8-se/datos",
@@ -598,7 +599,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.0 Td6 Vogue",
+            "name": "3.0 Td6 Vogue",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2002/estandar/vogue/range-rover-30-td6-vogue/datos",
@@ -795,7 +796,7 @@
             ]
         },
         {
-            "name": "Range Rover 4.4 V8 HSE",
+            "name": "4.4 V8 HSE",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2002/estandar/hse/range-rover-44-v8-hse/datos",
@@ -992,7 +993,7 @@
             ]
         },
         {
-            "name": "Range Rover 4.4 V8 Vogue",
+            "name": "4.4 V8 Vogue",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2002/estandar/vogue/range-rover-44-v8-vogue/datos",
@@ -1189,7 +1190,7 @@
             ]
         },
         {
-            "name": "Range Rover 4.2 V8 Supercharged",
+            "name": "4.2 V8 Supercharged",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2002/estandar/estandar/range-rover-42-v8-supercharged/datos",

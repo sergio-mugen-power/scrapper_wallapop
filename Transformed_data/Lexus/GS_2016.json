@@ -1,11 +1,12 @@
 {
+    "brand": "Lexus",
     "name": "GS",
     "year": "2016",
     "url": "https://www.km77.com/coches/lexus/gs/2016/estandar",
     "price": "",
     "versions": [
         {
-            "name": "GS 300h Eco",
+            "name": "300h Eco",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/lexus/gs/2016/estandar/eco/gs-300h-eco/datos",
@@ -218,7 +219,7 @@
             ]
         },
         {
-            "name": "GS 300h Corporate",
+            "name": "300h Corporate",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/lexus/gs/2016/estandar/corporate/gs-300h-corporate/datos",
@@ -430,7 +431,7 @@
             ]
         },
         {
-            "name": "GS 300h Edition",
+            "name": "300h Edition",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/lexus/gs/2016/estandar/edition/gs-300h-edition/datos",
@@ -651,7 +652,7 @@
             ]
         },
         {
-            "name": "GS 300h Executive",
+            "name": "300h Executive",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/lexus/gs/2016/estandar/executive/gs-300h-executive/datos",
@@ -876,7 +877,7 @@
             ]
         },
         {
-            "name": "GS 300h F SPORT",
+            "name": "300h F SPORT",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/lexus/gs/2016/estandar/f-sport/gs-300h-f-sport/datos",
@@ -1103,7 +1104,7 @@
             ]
         },
         {
-            "name": "GS 300h Luxury",
+            "name": "300h Luxury",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/lexus/gs/2016/estandar/luxury/gs-300h-f-sport2/datos",
@@ -1333,7 +1334,7 @@
             ]
         },
         {
-            "name": "GS 450h Executive",
+            "name": "450h Executive",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/lexus/gs/2016/estandar/executive/gs-450h-executive/datos",
@@ -1558,7 +1559,7 @@
             ]
         },
         {
-            "name": "GS 450h F SPORT",
+            "name": "450h F SPORT",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/lexus/gs/2016/estandar/f-sport/gs-450h-f-sport/datos",
@@ -1783,7 +1784,7 @@
             ]
         },
         {
-            "name": "GS 450h Luxury",
+            "name": "450h Luxury",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/lexus/gs/2016/estandar/luxury/gs-450h-luxury/datos",
@@ -2011,7 +2012,7 @@
             ]
         },
         {
-            "name": "GS F Executive",
+            "name": "F Executive",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/lexus/gs/2016/estandar/executive/gs-f-executive/datos",
@@ -2203,7 +2204,7 @@
             ]
         },
         {
-            "name": "GS F Luxury",
+            "name": "F Luxury",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/lexus/gs/2016/estandar/luxury/gs-f-luxury/datos",

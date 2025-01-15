@@ -1,11 +1,12 @@
 {
+    "brand": "Hyundai",
     "name": "i10",
     "year": "2017",
     "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar",
     "price": "Desde 17.190 €",
     "versions": [
         {
-            "name": "i10 1.0 MPI 49 kW (66 CV) Go!",
+            "name": "1.0 MPI 49 kW (66 CV) Go!",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/go/i10-10-mpi-49-kw-66-cv-go/datos",
@@ -183,7 +184,7 @@
             ]
         },
         {
-            "name": "i10 1.0 MPI 49 kW (66 CV) Klass",
+            "name": "1.0 MPI 49 kW (66 CV) Klass",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/klass/i10-10-mpi-66-cv-klass/datos",
@@ -358,7 +359,7 @@
             ]
         },
         {
-            "name": "i10 1.0 MPI 49 kW (66 CV) Go!",
+            "name": "1.0 MPI 49 kW (66 CV) Go!",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/go/i10-10-mpi-49-kw-66-cv-go2/datos",
@@ -538,7 +539,7 @@
             ]
         },
         {
-            "name": "i10 1.0 MPI 49 kW (66 CV) Klass",
+            "name": "1.0 MPI 49 kW (66 CV) Klass",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/klass/i10-10-mpi-49-kw-66-cv-klass/datos",
@@ -718,7 +719,7 @@
             ]
         },
         {
-            "name": "i10 1.0 MPI 49 kW (66 CV) Tecno",
+            "name": "1.0 MPI 49 kW (66 CV) Tecno",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/tecno/i10-10-mpi-66-cv-tecno/datos",
@@ -901,7 +902,7 @@
             ]
         },
         {
-            "name": "i10 1.2 MPI 64 kW (87 CV) Tecno",
+            "name": "1.2 MPI 64 kW (87 CV) Tecno",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/tecno/i10-12-mpi-87-cv-tecno/datos",
@@ -1087,7 +1088,7 @@
             ]
         },
         {
-            "name": "i10 1.0 49 kW (67 CV) AutoGas",
+            "name": "1.0 49 kW (67 CV) AutoGas",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/eco-edition/i10-10-glp-49-kw-66-cv-eco-edition/datos",
@@ -1262,7 +1263,7 @@
             ]
         },
         {
-            "name": "i10 1.0 MPI 49 kW (66 CV) Tecno",
+            "name": "1.0 MPI 49 kW (66 CV) Tecno",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/tecno/i10-10-mpi-49-kw-66-cv-tecno/datos",
@@ -1450,7 +1451,7 @@
             ]
         },
         {
-            "name": "i10 1.0 MPI 66 CV Tecno Plus",
+            "name": "1.0 MPI 66 CV Tecno Plus",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/tecno-plus/i10-10-mpi-66-cv-tecno-plus/datos",
@@ -1625,7 +1626,7 @@
             ]
         },
         {
-            "name": "i10 1.0 MPI 49 kW (66 CV) AT Klass",
+            "name": "1.0 MPI 49 kW (66 CV) AT Klass",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/klass/i10-10-mpi-49-kw-66-cv-at-klass/datos",
@@ -1803,7 +1804,7 @@
             ]
         },
         {
-            "name": "i10 1.0 MPI 49 kW (66 CV) AT Go!",
+            "name": "1.0 MPI 49 kW (66 CV) AT Go!",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/go/i10-10-mpi-49-kw-66-cv-at-go/datos",
@@ -1981,7 +1982,7 @@
             ]
         },
         {
-            "name": "i10 1.2 MPI 64 kW (87 CV) Go! Plus",
+            "name": "1.2 MPI 64 kW (87 CV) Go! Plus",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/go-plus/i10-12-mpi-64-kw-87-cv-go-plus/datos",
@@ -2170,7 +2171,7 @@
             ]
         },
         {
-            "name": "i10 1.2 MPI 64 kW (87 CV) Link",
+            "name": "1.2 MPI 64 kW (87 CV) Link",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/link/i10-12-mpi-64-kw-87-cv-link/datos",
@@ -2354,7 +2355,7 @@
             ]
         },
         {
-            "name": "i10 1.2 MPI 87 CV Tecno Plus",
+            "name": "1.2 MPI 87 CV Tecno Plus",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/tecno-plus/i10-12-mpi-87-cv-tecno-plus/datos",
@@ -2529,7 +2530,7 @@
             ]
         },
         {
-            "name": "i10 1.2 MPI 64 kW (87 CV) Tecno Aut.",
+            "name": "1.2 MPI 64 kW (87 CV) Tecno Aut.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/tecno/i10-12-mpi-87-cv-tecno-aut/datos",
@@ -2704,7 +2705,7 @@
             ]
         },
         {
-            "name": "i10 1.2 MPI 64 kW (87 CV) Go! Plus",
+            "name": "1.2 MPI 64 kW (87 CV) Go! Plus",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/go-plus/i10-12-mpi-64-kw-87-cv-go-plus2/datos",
@@ -2893,7 +2894,7 @@
             ]
         },
         {
-            "name": "i10 1.2 MPI 64 kW (87 CV) Tecno",
+            "name": "1.2 MPI 64 kW (87 CV) Tecno",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/tecno/i10-12-mpi-64-kw-87-cv-tecno/datos",
@@ -3081,7 +3082,7 @@
             ]
         },
         {
-            "name": "i10 1.2 MPI 64 kW (87 CV) Tecno Edition",
+            "name": "1.2 MPI 64 kW (87 CV) Tecno Edition",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/tecno-edition/i10-12-mpi-64-kw-87-cv-tecno-edition2/datos",
@@ -3270,7 +3271,7 @@
             ]
         },
         {
-            "name": "i10 1.2 MPI 64 kW (87 CV) AT Link",
+            "name": "1.2 MPI 64 kW (87 CV) AT Link",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/link/i10-12-mpi-64-kw-87-cv-aut-link/datos",
@@ -3451,7 +3452,7 @@
             ]
         },
         {
-            "name": "i10 1.2 MPI 87 CV Tecno Plus Aut.",
+            "name": "1.2 MPI 87 CV Tecno Plus Aut.",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/tecno-plus/i10-12-mpi-87-cv-tecno-plus-aut/datos",
@@ -3625,7 +3626,7 @@
             ]
         },
         {
-            "name": "i10 1.2 MPI 64 kW (87 CV) Style",
+            "name": "1.2 MPI 64 kW (87 CV) Style",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/style/i10-12-mpi-87-cv-style/datos",
@@ -3813,7 +3814,7 @@
             ]
         },
         {
-            "name": "i10 1.2 MPI 64 kW (87 CV) AT Go! Plus",
+            "name": "1.2 MPI 64 kW (87 CV) AT Go! Plus",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/go-plus/i10-12-mpi-64-kw-87-cv-at-go-plus/datos",
@@ -4000,7 +4001,7 @@
             ]
         },
         {
-            "name": "i10 1.2 MPI 64 kW (87 CV) AT Tecno",
+            "name": "1.2 MPI 64 kW (87 CV) AT Tecno",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/tecno/i10-12-mpi-64-kw-87-cv-at-tecno/datos",
@@ -4188,7 +4189,7 @@
             ]
         },
         {
-            "name": "i10 1.2 MPI 64 kW (87 CV) AT Tecno Edition",
+            "name": "1.2 MPI 64 kW (87 CV) AT Tecno Edition",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/tecno-edition/i10-12-mpi-64-kw-87-cv-at-tecno-edition2/datos",
@@ -4377,7 +4378,7 @@
             ]
         },
         {
-            "name": "i10 1.2 MPI 64 kW (87 CV) Style",
+            "name": "1.2 MPI 64 kW (87 CV) Style",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/style/i10-12-mpi-64-kw-87-cv-style/datos",
@@ -4568,7 +4569,7 @@
             ]
         },
         {
-            "name": "i10 1.2 MPI 64 kW (87 CV) Style Aut.",
+            "name": "1.2 MPI 64 kW (87 CV) Style Aut.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/style/i10-12-mpi-87-cv-style-aut/datos",
@@ -4752,7 +4753,7 @@
             ]
         },
         {
-            "name": "i10 1.2 MPI 64 kW (87 CV) AT Style",
+            "name": "1.2 MPI 64 kW (87 CV) AT Style",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/i10/2017/estandar/style/i10-12-mpi-64-kw-87-cv-at-style/datos",

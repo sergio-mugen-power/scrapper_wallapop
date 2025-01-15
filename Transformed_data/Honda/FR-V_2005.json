@@ -1,11 +1,12 @@
 {
+    "brand": "Honda",
     "name": "FR-V",
     "year": "2005",
     "url": "https://www.km77.com/coches/honda/fr-v/2005/estandar",
     "price": "",
     "versions": [
         {
-            "name": "FR-V 1.7",
+            "name": "1.7",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/honda/fr-v/2005/estandar/estandar/fr-v-17/datos",
@@ -180,7 +181,7 @@
             ]
         },
         {
-            "name": "FR-V 2.0 Comfort",
+            "name": "2.0 Comfort",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/honda/fr-v/2005/estandar/comfort/fr-v-20-comfort/datos",
@@ -357,7 +358,7 @@
             ]
         },
         {
-            "name": "FR-V 2.2 i-CTDi Comfort",
+            "name": "2.2 i-CTDi Comfort",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/honda/fr-v/2005/estandar/comfort/fr-v-22-i-ctdi-comfort/datos",
@@ -534,7 +535,7 @@
             ]
         },
         {
-            "name": "FR-V 2.0 Executive",
+            "name": "2.0 Executive",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/honda/fr-v/2005/estandar/executive/fr-v-20-executive/datos",
@@ -717,7 +718,7 @@
             ]
         },
         {
-            "name": "FR-V 2.2 i-CTDi Executive",
+            "name": "2.2 i-CTDi Executive",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/honda/fr-v/2005/estandar/executive/fr-v-22-i-ctdi-executive/datos",

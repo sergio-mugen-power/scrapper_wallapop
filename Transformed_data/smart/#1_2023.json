@@ -1,11 +1,12 @@
 {
+    "brand": "smart",
     "name": "#1",
     "year": "2023",
     "url": "https://www.km77.com/coches/smart/1/2023/estandar",
     "price": "Desde 38.400 €",
     "versions": [
         {
-            "name": "#1 Pro (01/2024 - )",
+            "name": "Pro (01/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/smart/1/2023/estandar/estandar/1-pro2/datos",
@@ -16,7 +17,7 @@
             "maletero": "288"
         },
         {
-            "name": "#1 Pro+ (09/2022 - )",
+            "name": "Pro+ (09/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/smart/1/2023/estandar/estandar/1-pro/datos",
@@ -27,7 +28,7 @@
             "maletero": "288"
         },
         {
-            "name": "#1 Premium (09/2022 - )",
+            "name": "Premium (09/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/smart/1/2023/estandar/estandar/1-premium/datos",
@@ -38,7 +39,7 @@
             "maletero": "288"
         },
         {
-            "name": "#1 Launch Edition (09/2022 - )",
+            "name": "Launch Edition (09/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/smart/1/2023/estandar/estandar/1-launch-edition/datos",
@@ -49,7 +50,7 @@
             "maletero": "288"
         },
         {
-            "name": "#1 Pulse (09/2023 - )",
+            "name": "Pulse (09/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/smart/1/2023/estandar/estandar/1-pulse/datos",
@@ -60,7 +61,7 @@
             "maletero": "288"
         },
         {
-            "name": "#1 BRABUS (09/2022 - )",
+            "name": "BRABUS (09/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/smart/1/2023/estandar/brabus/1-brabus/datos",

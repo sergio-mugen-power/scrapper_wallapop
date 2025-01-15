@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "X5",
     "year": "2013",
     "url": "https://www.km77.com/coches/bmw/x5/2013/estandar",
     "price": "",
     "versions": [
         {
-            "name": "X5 sDrive25d",
+            "name": "sDrive25d",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/estandar/x5-sdrive25d/datos",
@@ -329,7 +330,7 @@
             ]
         },
         {
-            "name": "X5 sDrive25d",
+            "name": "sDrive25d",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/estandar/x5-sdrive25d2/datos",
@@ -649,7 +650,7 @@
             ]
         },
         {
-            "name": "X5 sDrive25d 7 plazas",
+            "name": "sDrive25d 7 plazas",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/estandar/x5-sdrive25d-7-plazas/datos",
@@ -974,7 +975,7 @@
             ]
         },
         {
-            "name": "X5 xDrive25d",
+            "name": "xDrive25d",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/estandar/x5-xdrive25d/datos",
@@ -1299,7 +1300,7 @@
             ]
         },
         {
-            "name": "X5 sDrive25d 7 plazas",
+            "name": "sDrive25d 7 plazas",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/estandar/x5-sdrive25d-7-plazas2/datos",
@@ -1618,7 +1619,7 @@
             ]
         },
         {
-            "name": "X5 xDrive25d 7 plazas",
+            "name": "xDrive25d 7 plazas",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/estandar/x5-xdrive25d-7-plazas/datos",
@@ -1944,7 +1945,7 @@
             ]
         },
         {
-            "name": "X5 xDrive25d",
+            "name": "xDrive25d",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/estandar/x5-xdrive25d2/datos",
@@ -2264,7 +2265,7 @@
             ]
         },
         {
-            "name": "X5 xDrive30d",
+            "name": "xDrive30d",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/estandar/x5-xdrive30d/datos",
@@ -2591,7 +2592,7 @@
             ]
         },
         {
-            "name": "X5 xDrive25d 7 plazas",
+            "name": "xDrive25d 7 plazas",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/estandar/x5-xdrive25d-7-plazas2/datos",
@@ -2910,7 +2911,7 @@
             ]
         },
         {
-            "name": "X5 xDrive30d 7 plazas",
+            "name": "xDrive30d 7 plazas",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/estandar/x5-xdrive30d-7-plazas/datos",
@@ -3236,7 +3237,7 @@
             ]
         },
         {
-            "name": "X5 xDrive35i",
+            "name": "xDrive35i",
             "start_year": "2013",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/estandar/x5-xdrive35i/datos",
@@ -3556,7 +3557,7 @@
             ]
         },
         {
-            "name": "X5 xDrive30d",
+            "name": "xDrive30d",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/estandar/x5-xdrive30d2/datos",
@@ -3876,7 +3877,7 @@
             ]
         },
         {
-            "name": "X5 xDrive40d",
+            "name": "xDrive40d",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/estandar/x5-xdrive40d/datos",
@@ -4203,7 +4204,7 @@
             ]
         },
         {
-            "name": "X5 xDrive35i 7 plazas",
+            "name": "xDrive35i 7 plazas",
             "start_year": "2013",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/estandar/x5-xdrive35i-7-plazas/datos",
@@ -4523,7 +4524,7 @@
             ]
         },
         {
-            "name": "X5 xDrive30d 7 plazas",
+            "name": "xDrive30d 7 plazas",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/estandar/x5-xdrive30d-7-plazas2/datos",
@@ -4843,7 +4844,7 @@
             ]
         },
         {
-            "name": "X5 xDrive40d 7 plazas",
+            "name": "xDrive40d 7 plazas",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/estandar/x5-xdrive40d-7-plazas/datos",
@@ -5171,7 +5172,7 @@
             ]
         },
         {
-            "name": "X5 xDrive40d",
+            "name": "xDrive40d",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/estandar/x5-xdrive40d2/datos",
@@ -5491,7 +5492,7 @@
             ]
         },
         {
-            "name": "X5 xDrive40e iPerformance",
+            "name": "xDrive40e iPerformance",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/iperformance/x5-xdrive40e/datos",
@@ -5825,7 +5826,7 @@
             ]
         },
         {
-            "name": "X5 xDrive40d 7 plazas",
+            "name": "xDrive40d 7 plazas",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/estandar/x5-xdrive40d-7-plazas2/datos",
@@ -6145,7 +6146,7 @@
             ]
         },
         {
-            "name": "X5 xDrive50i",
+            "name": "xDrive50i",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/estandar/x5-xdrive50i/datos",
@@ -6469,7 +6470,7 @@
             ]
         },
         {
-            "name": "X5 xDrive50i 7 plazas",
+            "name": "xDrive50i 7 plazas",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/estandar/x5-xdrive50i-7-plazas/datos",
@@ -6792,7 +6793,7 @@
             ]
         },
         {
-            "name": "X5 xDrive50i",
+            "name": "xDrive50i",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/estandar/x5-xdrive50i2/datos",
@@ -7112,7 +7113,7 @@
             ]
         },
         {
-            "name": "X5 M50d",
+            "name": "M50d",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/estandar/x5-m50d/datos",
@@ -7420,7 +7421,7 @@
             ]
         },
         {
-            "name": "X5 xDrive50i 7 plazas",
+            "name": "xDrive50i 7 plazas",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/estandar/x5-xdrive50i-7-plazas2/datos",
@@ -7740,7 +7741,7 @@
             ]
         },
         {
-            "name": "X5 M50d",
+            "name": "M50d",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/m-performance/x5-m50d2/datos",
@@ -8061,7 +8062,7 @@
             ]
         },
         {
-            "name": "X5 M50d 7 plazas",
+            "name": "M50d 7 plazas",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/m-performance/x5-m50d-7-plazas2/datos",
@@ -8380,7 +8381,7 @@
             ]
         },
         {
-            "name": "X5 M50d 7 plazas",
+            "name": "M50d 7 plazas",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/estandar/x5-m50d-7-plazas/datos",
@@ -8687,7 +8688,7 @@
             ]
         },
         {
-            "name": "X5 M",
+            "name": "M",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x5/2013/estandar/x5-m/x5-m/datos",

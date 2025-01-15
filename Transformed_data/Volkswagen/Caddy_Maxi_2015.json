@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Caddy Maxi",
     "year": "2015",
     "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi",
     "price": "Desde 22.102 €",
     "versions": [
         {
-            "name": "Caddy Maxi Beach 1.4 TSI BMT 125 CV",
+            "name": "Beach 1.4 TSI BMT 125 CV",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/beach/caddy-maxi-beach-14-tsi-bmt-125-cv/datos",
@@ -239,7 +240,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Trendline 1.4 TSI BMT 125 CV",
+            "name": "Trendline 1.4 TSI BMT 125 CV",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/trendline/caddy-maxi-14-tsi-bmt-125-cv/datos",
@@ -471,7 +472,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Trendline 2.0 TDI BMT 102 CV",
+            "name": "Trendline 2.0 TDI BMT 102 CV",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/trendline/caddy-maxi-20-tdi-bmt-102-cv/datos",
@@ -704,7 +705,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Trendline 1.0 TSI BMT 75 kW (102 CV)",
+            "name": "Trendline 1.0 TSI BMT 75 kW (102 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/trendline/caddy-maxi-trendline-10-tsi-bmt-75-kw-102-cv/datos",
@@ -965,7 +966,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Trendline 1.4 TGI BMT 110 CV",
+            "name": "Trendline 1.4 TGI BMT 110 CV",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/trendline/caddy-maxi-14-tgi-bmt-110-cv/datos",
@@ -1196,7 +1197,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Trendline 1.4 TSI BMT 96 kW (130 CV)",
+            "name": "Trendline 1.4 TSI BMT 96 kW (130 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/trendline/caddy-maxi-trendline-14-tsi-bmt-96-kw-130-cv/datos",
@@ -1456,7 +1457,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Trendline 2.0 TDI BMT 75 kW (102 CV)",
+            "name": "Trendline 2.0 TDI BMT 75 kW (102 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/trendline/caddy-maxi-trendline-20-tdi-bmt-75-kw-102-cv/datos",
@@ -1705,7 +1706,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Outdoor 1.0 TSI BMT 75 kW (102 CV)",
+            "name": "Outdoor 1.0 TSI BMT 75 kW (102 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/outdoor/caddy-maxi-outdoor-10-tsi-bmt-75-kw-102-cv/datos",
@@ -1959,7 +1960,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Trendline 2.0 TDI BMT 102 CV DSG 6 vel.",
+            "name": "Trendline 2.0 TDI BMT 102 CV DSG 6 vel.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/trendline/caddy-maxi-20-tdi-bmt-102-cv-dsg-6-vel/datos",
@@ -2192,7 +2193,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Trendline 1.4 TGI BMT 81 kW (110 CV)",
+            "name": "Trendline 1.4 TGI BMT 81 kW (110 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/trendline/caddy-maxi-trendline-14-tgi-bmt-81-kw-110-cv/datos",
@@ -2439,7 +2440,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Trendline 2.0 TDI BMT 75 kW (102 CV)",
+            "name": "Trendline 2.0 TDI BMT 75 kW (102 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/trendline/caddy-maxi-trendline-20-tdi-bmt-75-kw-102-cv2/datos",
@@ -2697,7 +2698,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Outdoor 2.0 TDI BMT 102 CV",
+            "name": "Outdoor 2.0 TDI BMT 102 CV",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/outdoor/caddy-maxi-outdoor-20-tdi-bmt-102-cv/datos",
@@ -2930,7 +2931,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Outdoor 1.4 TSI BMT 96 KW (130 CV)",
+            "name": "Outdoor 1.4 TSI BMT 96 KW (130 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/outdoor/caddy-maxi-outdoor-14-tsi-bmt-96-kw-130-cv/datos",
@@ -3183,7 +3184,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Outdoor 2.0 TDI BMT 75 kW (102 CV)",
+            "name": "Outdoor 2.0 TDI BMT 75 kW (102 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/outdoor/caddy-maxi-outdoor-20-tdi-bmt-75-kw-102-cv/datos",
@@ -3425,7 +3426,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Trendline 2.0 TDI BMT 150 CV",
+            "name": "Trendline 2.0 TDI BMT 150 CV",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/trendline/caddy-maxi-trendline-20-tdi-bmt-150-cv/datos",
@@ -3659,7 +3660,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Trendline 2.0 TDI BMT 75 kW (102 CV) DSG 6 vel.",
+            "name": "Trendline 2.0 TDI BMT 75 kW (102 CV) DSG 6 vel.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/trendline/caddy-maxi-trendline-20-tdi-bmt-75-kw-102-cv-dsg-6-vel/datos",
@@ -3908,7 +3909,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Beach 2.0 TDI BMT 102 CV",
+            "name": "Beach 2.0 TDI BMT 102 CV",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/beach/caddy-maxi-beach-20-tdi-bmt-102-cv/datos",
@@ -4143,7 +4144,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Outdoor 2.0 TDI BMT 75 kW (102 CV)",
+            "name": "Outdoor 2.0 TDI BMT 75 kW (102 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/outdoor/caddy-maxi-outdoor-20-tdi-bmt-75-kw-102-cv2/datos",
@@ -4395,7 +4396,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Trendline 2.0 TDI BMT 122 CV 4MOTION",
+            "name": "Trendline 2.0 TDI BMT 122 CV 4MOTION",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/trendline/caddy-maxi-20-tdi-bmt-122-cv-4motion/datos",
@@ -4629,7 +4630,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Trendline 1.4 TSI BMT 92 KW (125 CV)",
+            "name": "Trendline 1.4 TSI BMT 92 KW (125 CV)",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/trendline/caddy-maxi-trendline-14-tsi-bmt-92-kw-125-cv/datos",
@@ -4876,7 +4877,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Trendline 2.0 TDI BMT 110 kW (150 CV)",
+            "name": "Trendline 2.0 TDI BMT 110 kW (150 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/trendline/caddy-maxi-trendline-20-tdi-bmt-110-kw-150-cv/datos",
@@ -5126,7 +5127,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Outdoor 2.0 TDI BMT 102 CV DSG 6 vel.",
+            "name": "Outdoor 2.0 TDI BMT 102 CV DSG 6 vel.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/outdoor/caddy-maxi-outdoor-20-tdi-bmt-102-cv-dsg-6-vel/datos",
@@ -5359,7 +5360,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Beach 2.0 TDI BMT 75 kW (102 CV)",
+            "name": "Beach 2.0 TDI BMT 75 kW (102 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/beach/caddy-maxi-beach-20-tdi-bmt-75-kw-102-cv/datos",
@@ -5606,7 +5607,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Outdoor 2.0 TDI BMT 75 kW (102 CV) DSG 6 vel.",
+            "name": "Outdoor 2.0 TDI BMT 75 kW (102 CV) DSG 6 vel.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/outdoor/caddy-maxi-outdoor-20-tdi-bmt-75-kw-102-cv-dsg-6-vel/datos",
@@ -5848,7 +5849,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Trendline 1.4 TGI BMT 81 kW (110 CV) DSG 6 vel.",
+            "name": "Trendline 1.4 TGI BMT 81 kW (110 CV) DSG 6 vel.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/trendline/caddy-maxi-trendline-14-tgi-bmt-81-kw-110-cv-dsg-6-vel/datos",
@@ -6095,7 +6096,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Trendline 2.0 TDI BMT 90 kW (122 CV) 4MOTION",
+            "name": "Trendline 2.0 TDI BMT 90 kW (122 CV) 4MOTION",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/trendline/caddy-maxi-trendline-20-tdi-bmt-90-kw-122-cv-4motion/datos",
@@ -6345,7 +6346,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Beach 2.0 TDI BMT 150 CV",
+            "name": "Beach 2.0 TDI BMT 150 CV",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/beach/caddy-maxi-beach-20-tdi-bmt-150-cv/datos",
@@ -6581,7 +6582,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Trendline 2.0 TDI BMT 150 CV DSG 6 vel.",
+            "name": "Trendline 2.0 TDI BMT 150 CV DSG 6 vel.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/trendline/caddy-maxi-trendline-20-tdi-bmt-150-cv-dsg-6-vel/datos",
@@ -6815,7 +6816,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Beach 2.0 TDI BMT 102 CV DSG 6 vel.",
+            "name": "Beach 2.0 TDI BMT 102 CV DSG 6 vel.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/beach/caddy-maxi-beach-20-tdi-bmt-102-cv-dsg-6-vel/datos",
@@ -7050,7 +7051,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Comfortline 2.0 TDI BMT 150 CV",
+            "name": "Comfortline 2.0 TDI BMT 150 CV",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/comfortline/caddy-maxi-20-tdi-bmt-150-cv/datos",
@@ -7288,7 +7289,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Outdoor 2.0 TDI BMT 150 CV",
+            "name": "Outdoor 2.0 TDI BMT 150 CV",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/outdoor/caddy-maxi-outdoor-20-tdi-bmt-150-cv/datos",
@@ -7522,7 +7523,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Outdoor 2.0 TDI BMT 110 kW (150 CV)",
+            "name": "Outdoor 2.0 TDI BMT 110 kW (150 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/outdoor/caddy-maxi-outdoor-20-tdi-bmt-110-kw-150-cv/datos",
@@ -7765,7 +7766,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Beach 2.0 TDI BMT 75 kW (102 CV)",
+            "name": "Beach 2.0 TDI BMT 75 kW (102 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/beach/caddy-maxi-beach-20-tdi-bmt-75-kw-102-cv2/datos",
@@ -8019,7 +8020,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Outdoor 1.4 TSI BMT 92 KW (125 CV)",
+            "name": "Outdoor 1.4 TSI BMT 92 KW (125 CV)",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/outdoor/caddy-maxi-outdoor-14-tsi-bmt-92-kw-125-cv/datos",
@@ -8260,7 +8261,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Outdoor 2.0 TDI BMT 122 CV 4MOTION",
+            "name": "Outdoor 2.0 TDI BMT 122 CV 4MOTION",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/outdoor/caddy-maxi-outdoor-20-tdi-bmt-122-cv-4motion/datos",
@@ -8493,7 +8494,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Beach 2.0 TDI BMT 150 CV DSG 6 vel.",
+            "name": "Beach 2.0 TDI BMT 150 CV DSG 6 vel.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/beach/caddy-maxi-beach-20-tdi-bmt-150-cv-dsg-6-vel/datos",
@@ -8729,7 +8730,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Outdoor 2.0 TDI BMT 90 kW (122 CV) 4MOTION",
+            "name": "Outdoor 2.0 TDI BMT 90 kW (122 CV) 4MOTION",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/outdoor/caddy-maxi-outdoor-20-tdi-bmt-90-kw-122-cv-4motion/datos",
@@ -8972,7 +8973,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Comfortline 2.0 TDI BMT 110 kW (150 CV)",
+            "name": "Comfortline 2.0 TDI BMT 110 kW (150 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/comfortline/caddy-maxi-comfortline-20-tdi-bmt-110-kw-150-cv/datos",
@@ -9220,7 +9221,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Beach 2.0 TDI BMT 75 kW (102 CV) DSG 6 vel.",
+            "name": "Beach 2.0 TDI BMT 75 kW (102 CV) DSG 6 vel.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/beach/caddy-maxi-beach-20-tdi-bmt-75-kw-102-cv-dsg-6-vel/datos",
@@ -9467,7 +9468,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Comfortline 2.0 TDI BMT 150 CV DSG 6 vel.",
+            "name": "Comfortline 2.0 TDI BMT 150 CV DSG 6 vel.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/comfortline/caddy-maxi-comfortline-20-tdi-bmt-150-cv-dsg-6-vel/datos",
@@ -9705,7 +9706,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Trendline 2.0 TDI BMT 75 kW (102 CV)",
+            "name": "Trendline 2.0 TDI BMT 75 kW (102 CV)",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/trendline/caddy-maxi-trendline-20-tdi-bmt-75-kw-102-cv3/datos",
@@ -9965,7 +9966,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Outdoor 2.0 TDI BMT 150 CV DSG 6 vel.",
+            "name": "Outdoor 2.0 TDI BMT 150 CV DSG 6 vel.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/outdoor/caddy-maxi-outdoor-20-tdi-bmt-150-cv-dsg-6-vel/datos",
@@ -10199,7 +10200,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Beach 1.4 TSI BMT 92 kW (125 CV)",
+            "name": "Beach 1.4 TSI BMT 92 kW (125 CV)",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/beach/caddy-maxi-beach-14-tsi-bmt-92-kw-125-cv/datos",
@@ -10444,7 +10445,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Beach 2.0 TDI BMT 110 kW (150 CV)",
+            "name": "Beach 2.0 TDI BMT 110 kW (150 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/beach/caddy-maxi-beach-20-tdi-bmt-110-kw-150-cv/datos",
@@ -10692,7 +10693,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Comfortline 2.0 TDI BMT 110 kW (150 CV) DSG 6 vel.",
+            "name": "Comfortline 2.0 TDI BMT 110 kW (150 CV) DSG 6 vel.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/comfortline/caddy-maxi-comfortline-20-tdi-bmt-110-kw-150-cv-dsg-6-vel/datos",
@@ -10940,7 +10941,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Outdoor 2.0 TDI BMT 75 kW (102 CV)",
+            "name": "Outdoor 2.0 TDI BMT 75 kW (102 CV)",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/outdoor/caddy-maxi-outdoor-20-tdi-bmt-75-kw-102-cv3/datos",
@@ -11196,7 +11197,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Trendline 1.4 TSI BMT 96 kW (130 CV) DSG 7 vel.",
+            "name": "Trendline 1.4 TSI BMT 96 kW (130 CV) DSG 7 vel.",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/trendline/caddy-maxi-trendline-14-tsi-bmt-96-kw-130-cv-dsg-7-vel/datos",
@@ -11462,7 +11463,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Trendline 1.4 TGI BMT 81 kW (110 CV)",
+            "name": "Trendline 1.4 TGI BMT 81 kW (110 CV)",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/trendline/caddy-maxi-trendline-14-tgi-bmt-81-kw-110-cv2/datos",
@@ -11724,7 +11725,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Trendline 2.0 TDI BMT 75 kW (102 CV) DSG 6 vel.",
+            "name": "Trendline 2.0 TDI BMT 75 kW (102 CV) DSG 6 vel.",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/trendline/caddy-maxi-trendline-20-tdi-bmt-75-kw-102-cv-dsg-6-vel2/datos",
@@ -11987,7 +11988,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Beach 2.0 TDI BMT 110 kW (150 CV) DSG 6 vel.",
+            "name": "Beach 2.0 TDI BMT 110 kW (150 CV) DSG 6 vel.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/beach/caddy-maxi-beach-20-tdi-bmt-110-kw-150-cv-dsg-6-vel/datos",
@@ -12235,7 +12236,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Beach 1.0 TSI BMT 75 kW (102 CV)",
+            "name": "Beach 1.0 TSI BMT 75 kW (102 CV)",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/beach/caddy-maxi-beach-10-tsi-bmt-75-kw-102-cv/datos",
@@ -12489,7 +12490,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Comfortline 2.0 TDI BMT 150 CV 4MOTION DSG 6 vel.",
+            "name": "Comfortline 2.0 TDI BMT 150 CV 4MOTION DSG 6 vel.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/comfortline/caddy-maxi-comfortline-20-tdi-bmt-150-cv-4motion-dsg-6-vel/datos",
@@ -12727,7 +12728,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Outdoor 1.4 TSI BMT 96 KW (130 CV) DSG 7 vel.",
+            "name": "Outdoor 1.4 TSI BMT 96 KW (130 CV) DSG 7 vel.",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/outdoor/caddy-maxi-outdoor-14-tsi-bmt-96-kw-130-cv-dsg-7-vel/datos",
@@ -12985,7 +12986,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Trendline 2.0 TDI BMT 110 kW (150 CV)",
+            "name": "Trendline 2.0 TDI BMT 110 kW (150 CV)",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/trendline/caddy-maxi-trendline-20-tdi-bmt-110-kw-150-cv2/datos",
@@ -13247,7 +13248,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Beach 1.4 TSI BMT 96 kW (130 CV)",
+            "name": "Beach 1.4 TSI BMT 96 kW (130 CV)",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/beach/caddy-maxi-beach-14-tsi-bmt-96-kw-130-cv/datos",
@@ -13501,7 +13502,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Outdoor 2.0 TDI BMT 75 kW (102 CV) DSG 6 vel.",
+            "name": "Outdoor 2.0 TDI BMT 75 kW (102 CV) DSG 6 vel.",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/outdoor/caddy-maxi-outdoor-20-tdi-bmt-75-kw-102-cv-dsg-6-vel2/datos",
@@ -13758,7 +13759,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Beach 2.0 TDI BMT 75 kW (102 CV)",
+            "name": "Beach 2.0 TDI BMT 75 kW (102 CV)",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/beach/caddy-maxi-beach-20-tdi-bmt-75-kw-102-cv3/datos",
@@ -14013,7 +14014,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Outdoor 2.0 TDI BMT 110 kW (150 CV)",
+            "name": "Outdoor 2.0 TDI BMT 110 kW (150 CV)",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/outdoor/caddy-maxi-outdoor-20-tdi-bmt-110-kw-150-cv2/datos",
@@ -14272,7 +14273,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Trendline 2.0 TDI BMT 90 kW (122 CV) 4MOTION",
+            "name": "Trendline 2.0 TDI BMT 90 kW (122 CV) 4MOTION",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/trendline/caddy-maxi-trendline-20-tdi-bmt-90-kw-122-cv-4motion2/datos",
@@ -14535,7 +14536,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Beach 1.4 TSI BMT 96 kW (130 CV) DSG 7 vel.",
+            "name": "Beach 1.4 TSI BMT 96 kW (130 CV) DSG 7 vel.",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/beach/caddy-maxi-beach-14-tsi-bmt-96-kw-130-cv-dsg-7-vel/datos",
@@ -14792,7 +14793,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Trendline 2.0 TDI BMT 110 kW (150 CV) DSG 6 vel.",
+            "name": "Trendline 2.0 TDI BMT 110 kW (150 CV) DSG 6 vel.",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/trendline/caddy-maxi-trendline-20-tdi-bmt-110-kw-150-cv-dsg-6-vel/datos",
@@ -15057,7 +15058,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Comfortline 2.0 TDI BMT 110 kW (150 CV)",
+            "name": "Comfortline 2.0 TDI BMT 110 kW (150 CV)",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/comfortline/caddy-maxi-comfortline-20-tdi-bmt-110-kw-150-cv2/datos",
@@ -15319,7 +15320,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Beach 2.0 TDI BMT 75 kW (102 CV) DSG 6 vel.",
+            "name": "Beach 2.0 TDI BMT 75 kW (102 CV) DSG 6 vel.",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/beach/caddy-maxi-beach-20-tdi-bmt-75-kw-102-cv-dsg-6-vel2/datos",
@@ -15575,7 +15576,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Outdoor 2.0 TDI BMT 110 kW (150 CV) DSG 6 vel.",
+            "name": "Outdoor 2.0 TDI BMT 110 kW (150 CV) DSG 6 vel.",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/outdoor/caddy-maxi-outdoor-20-tdi-bmt-110-kw-150-cv-dsg-6-vel/datos",
@@ -15834,7 +15835,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Outdoor 2.0 TDI BMT 90 kW (122 CV) 4MOTION",
+            "name": "Outdoor 2.0 TDI BMT 90 kW (122 CV) 4MOTION",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/outdoor/caddy-maxi-outdoor-20-tdi-bmt-90-kw-122-cv-4motion2/datos",
@@ -16091,7 +16092,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Beach 2.0 TDI BMT 110 kW (150 CV)",
+            "name": "Beach 2.0 TDI BMT 110 kW (150 CV)",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/beach/caddy-maxi-beach-20-tdi-bmt-110-kw-150-cv2/datos",
@@ -16348,7 +16349,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Comfortline 2.0 TDI BMT 110 kW (150 CV) DSG 6 vel.",
+            "name": "Comfortline 2.0 TDI BMT 110 kW (150 CV) DSG 6 vel.",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/comfortline/caddy-maxi-comfortline-20-tdi-bmt-110-kw-150-cv-dsg-6-vel2/datos",
@@ -16613,7 +16614,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Beach 2.0 TDI BMT 110 kW (150 CV) DSG 6 vel.",
+            "name": "Beach 2.0 TDI BMT 110 kW (150 CV) DSG 6 vel.",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/beach/caddy-maxi-beach-20-tdi-bmt-110-kw-150-cv-dsg-6-vel2/datos",
@@ -16873,7 +16874,7 @@
             ]
         },
         {
-            "name": "Caddy Maxi Comfortline 2.0 TDI BMT 110 kW (150 CV) 4MOTION DSG 6 vel.",
+            "name": "Comfortline 2.0 TDI BMT 110 kW (150 CV) 4MOTION DSG 6 vel.",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/caddy/2015/maxi/comfortline/caddy-maxi-comfortline-20-tdi-bmt-110-kw-150-cv-4motion-dsg-6-vel/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Subaru",
     "name": "Outback",
     "year": "2013",
     "url": "https://www.km77.com/coches/subaru/outback/2013/estandar",
     "price": "Desde 40.400 €",
     "versions": [
         {
-            "name": "Outback 2.0 TD Sport",
+            "name": "2.0 TD Sport",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/subaru/outback/2013/estandar/sport/outback-20-boxer-diesel-sport/datos",
@@ -203,7 +204,7 @@
             ]
         },
         {
-            "name": "Outback 2.0 TD Executive",
+            "name": "2.0 TD Executive",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/subaru/outback/2013/estandar/executive/outback-20-boxer-diesel-executive/datos",
@@ -402,7 +403,7 @@
             ]
         },
         {
-            "name": "Outback 2.0 TD Lineartronic Executive",
+            "name": "2.0 TD Lineartronic Executive",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/subaru/outback/2013/estandar/executive/outback-20-boxer-diesel-executive-lineartronic/datos",
@@ -601,7 +602,7 @@
             ]
         },
         {
-            "name": "Outback 2.5i Lineartronic Executive",
+            "name": "2.5i Lineartronic Executive",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/subaru/outback/2013/estandar/executive/outback-25i-executive-lineartronic/datos",
@@ -799,7 +800,7 @@
             ]
         },
         {
-            "name": "Outback 2.0 TD Executive Plus",
+            "name": "2.0 TD Executive Plus",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/subaru/outback/2013/estandar/executive-plus/outback-20-boxer-diesel-executive-plus/datos",
@@ -998,7 +999,7 @@
             ]
         },
         {
-            "name": "Outback 2.0 TD Lineartronic Executive Plus",
+            "name": "2.0 TD Lineartronic Executive Plus",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/subaru/outback/2013/estandar/executive-plus/outback-20-boxer-diesel-executive-plus-lineartronic/datos",
@@ -1197,7 +1198,7 @@
             ]
         },
         {
-            "name": "Outback 2.5i Lineartronic Executive Plus",
+            "name": "2.5i Lineartronic Executive Plus",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/subaru/outback/2013/estandar/executive-plus/outback-25i-executive-plus-lineartronic/datos",

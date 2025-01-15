@@ -1,11 +1,12 @@
 {
+    "brand": "Ferrari",
     "name": "Superamerica",
     "year": "2005",
     "url": "https://www.km77.com/coches/ferrari/superamerica/2005/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Superamerica",
+            "name": "",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ferrari/superamerica/2005/estandar/estandar/superamerica/datos",
@@ -163,7 +164,7 @@
             ]
         },
         {
-            "name": "Superamerica F1",
+            "name": "F1",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ferrari/superamerica/2005/estandar/estandar/superamerica-f1/datos",

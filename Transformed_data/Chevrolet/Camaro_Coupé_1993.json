@@ -1,11 +1,12 @@
 {
+    "brand": "Chevrolet",
     "name": "Camaro Coupé",
     "year": "1993",
     "url": "https://www.km77.com/coches/chevrolet/camaro/1993/coupe",
     "price": "",
     "versions": [
         {
-            "name": "Camaro Coupé",
+            "name": "",
             "start_year": "1998",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/chevrolet/camaro/1993/coupe/estandar/camaro-coupe/datos",
@@ -136,7 +137,7 @@
             ]
         },
         {
-            "name": "Camaro Coupé Aut.",
+            "name": "Aut.",
             "start_year": "1998",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/chevrolet/camaro/1993/coupe/estandar/camaro-coupe-aut/datos",
@@ -267,7 +268,7 @@
             ]
         },
         {
-            "name": "Camaro Coupé Z28",
+            "name": "Z28",
             "start_year": "1998",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/chevrolet/camaro/1993/coupe/z28/camaro-coupe-z28/datos",
@@ -398,7 +399,7 @@
             ]
         },
         {
-            "name": "Camaro Coupé Z28 Aut.",
+            "name": "Z28 Aut.",
             "start_year": "1998",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/chevrolet/camaro/1993/coupe/z28/camaro-coupe-z28-aut/datos",

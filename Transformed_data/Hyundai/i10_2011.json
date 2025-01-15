@@ -1,11 +1,12 @@
 {
+    "brand": "Hyundai",
     "name": "i10",
     "year": "2011",
     "url": "https://www.km77.com/coches/hyundai/i10/2011/estandar",
     "price": "Desde 17.190 €",
     "versions": [
         {
-            "name": "i10 1.1 Classic",
+            "name": "1.1 Classic",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/hyundai/i10/2011/estandar/classic/i10-11-classic/datos",
@@ -163,7 +164,7 @@
             ]
         },
         {
-            "name": "i10 1.1 Classic",
+            "name": "1.1 Classic",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/hyundai/i10/2011/estandar/classic/i10-11-classic2/datos",
@@ -322,7 +323,7 @@
             ]
         },
         {
-            "name": "i10 1.2 Comfort",
+            "name": "1.2 Comfort",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/hyundai/i10/2011/estandar/comfort/i10-12-confort/datos",
@@ -486,7 +487,7 @@
             ]
         },
         {
-            "name": "i10 1.1 Comfort",
+            "name": "1.1 Comfort",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/hyundai/i10/2011/estandar/comfort/i10-11-comfort/datos",
@@ -651,7 +652,7 @@
             ]
         },
         {
-            "name": "i10 1.2 Comfort",
+            "name": "1.2 Comfort",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/hyundai/i10/2011/estandar/comfort/i10-12-comfort/datos",
@@ -816,7 +817,7 @@
             ]
         },
         {
-            "name": "i10 1.2 Comfort Aut.",
+            "name": "1.2 Comfort Aut.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/hyundai/i10/2011/estandar/comfort/i10-12-confort-aut/datos",
@@ -981,7 +982,7 @@
             ]
         },
         {
-            "name": "i10 1.2 Comfort Aut.",
+            "name": "1.2 Comfort Aut.",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/hyundai/i10/2011/estandar/comfort/i10-12-comfort-aut/datos",

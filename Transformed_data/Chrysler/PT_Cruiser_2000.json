@@ -1,11 +1,12 @@
 {
+    "brand": "Chrysler",
     "name": "PT Cruiser",
     "year": "2000",
     "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2000/estandar",
     "price": "",
     "versions": [
         {
-            "name": "PT Cruiser Classic 1.6",
+            "name": "Classic 1.6",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2000/estandar/estandar/pt-cruiser-classic-16/datos",
@@ -140,7 +141,7 @@
             ]
         },
         {
-            "name": "PT Cruiser Classic 2.2 CRD",
+            "name": "Classic 2.2 CRD",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2000/estandar/estandar/pt-cruiser-classic-22-crd/datos",
@@ -273,7 +274,7 @@
             ]
         },
         {
-            "name": "PT Cruiser Touring 1.6",
+            "name": "Touring 1.6",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2000/estandar/estandar/pt-cruiser-touring-16/datos",
@@ -419,7 +420,7 @@
             ]
         },
         {
-            "name": "PT Cruiser Classic 2.0",
+            "name": "Classic 2.0",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2000/estandar/estandar/pt-cruiser-classic-20/datos",
@@ -549,7 +550,7 @@
             ]
         },
         {
-            "name": "PT Cruiser Touring 2.2 CRD",
+            "name": "Touring 2.2 CRD",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2000/estandar/estandar/pt-cruiser-touring-22-crd/datos",
@@ -694,7 +695,7 @@
             ]
         },
         {
-            "name": "PT Cruiser Classic 2.0 Aut.",
+            "name": "Classic 2.0 Aut.",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2000/estandar/estandar/pt-cruiser-classic-20-aut/datos",
@@ -824,7 +825,7 @@
             ]
         },
         {
-            "name": "PT Cruiser Touring 2.4",
+            "name": "Touring 2.4",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2000/estandar/estandar/pt-cruiser-touring-24/datos",
@@ -971,7 +972,7 @@
             ]
         },
         {
-            "name": "PT Cruiser Touring 2.0 Aut.",
+            "name": "Touring 2.0 Aut.",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2000/estandar/estandar/pt-cruiser-touring-20-aut/datos",
@@ -1108,7 +1109,7 @@
             ]
         },
         {
-            "name": "PT Cruiser Touring 2.4 Aut.",
+            "name": "Touring 2.4 Aut.",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2000/estandar/estandar/pt-cruiser-touring-24-aut/datos",
@@ -1254,7 +1255,7 @@
             ]
         },
         {
-            "name": "PT Cruiser Limited 2.4",
+            "name": "Limited 2.4",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2000/estandar/estandar/pt-cruiser-limited-24/datos",
@@ -1402,7 +1403,7 @@
             ]
         },
         {
-            "name": "PT Cruiser Limited 2.0 serie Custo",
+            "name": "Limited 2.0 serie Custo",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2000/estandar/estandar/pt-cruiser-limited-20-serie-custo/datos",
@@ -1541,7 +1542,7 @@
             ]
         },
         {
-            "name": "PT Cruiser Touring 2.0",
+            "name": "Touring 2.0",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2000/estandar/estandar/pt-cruiser-touring-20/datos",
@@ -1688,7 +1689,7 @@
             ]
         },
         {
-            "name": "PT Cruiser Limited 2.2 CRD",
+            "name": "Limited 2.2 CRD",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2000/estandar/estandar/pt-cruiser-limited-22-crd/datos",
@@ -1836,7 +1837,7 @@
             ]
         },
         {
-            "name": "PT Cruiser Limited 2.4 Aut.",
+            "name": "Limited 2.4 Aut.",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2000/estandar/estandar/pt-cruiser-limited-24-aut/datos",
@@ -1983,7 +1984,7 @@
             ]
         },
         {
-            "name": "PT Cruiser Limited 2.0",
+            "name": "Limited 2.0",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2000/estandar/estandar/pt-cruiser-limited-20/datos",
@@ -2132,7 +2133,7 @@
             ]
         },
         {
-            "name": "PT Cruiser Limited 2.0 Aut. serie Custo",
+            "name": "Limited 2.0 Aut. serie Custo",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2000/estandar/estandar/pt-cruiser-limited-20-aut-serie-custo/datos",
@@ -2271,7 +2272,7 @@
             ]
         },
         {
-            "name": "PT Cruiser Limited 2.0 Aut.",
+            "name": "Limited 2.0 Aut.",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2000/estandar/estandar/pt-cruiser-limited-20-aut/datos",
@@ -2420,7 +2421,7 @@
             ]
         },
         {
-            "name": "PT Cruiser GT 2.4 Turbo",
+            "name": "GT 2.4 Turbo",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2000/estandar/estandar/pt-cruiser-gt-24-turbo/datos",

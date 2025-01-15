@@ -1,11 +1,12 @@
 {
+    "brand": "Porsche",
     "name": "Cayman",
     "year": "2009",
     "url": "https://www.km77.com/coches/porsche/cayman/2009/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Cayman",
+            "name": "",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/porsche/cayman/2009/estandar/estandar/cayman/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Cayman",
+            "name": "",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/cayman/2009/estandar/estandar/cayman2/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Cayman",
+            "name": "",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/cayman/2009/estandar/estandar/cayman3/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Cayman PDK",
+            "name": "PDK",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/porsche/cayman/2009/estandar/estandar/cayman-pdk/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "Cayman PDK",
+            "name": "PDK",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/cayman/2009/estandar/estandar/cayman-pdk2/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Cayman PDK",
+            "name": "PDK",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/cayman/2009/estandar/estandar/cayman-pdk3/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "Cayman S",
+            "name": "S",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/porsche/cayman/2009/estandar/s/cayman-s/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "Cayman S",
+            "name": "S",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/cayman/2009/estandar/s/cayman-s2/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "Cayman S PDK",
+            "name": "S PDK",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/porsche/cayman/2009/estandar/s/cayman-s-pdk/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "Cayman S",
+            "name": "S",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/cayman/2009/estandar/s/cayman-s3/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "Cayman S PDK",
+            "name": "S PDK",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/cayman/2009/estandar/s/cayman-s-pdk2/datos",
@@ -313,7 +314,7 @@
             ]
         },
         {
-            "name": "Cayman S PDK",
+            "name": "S PDK",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/cayman/2009/estandar/s/cayman-s-pdk3/datos",
@@ -341,7 +342,7 @@
             ]
         },
         {
-            "name": "Cayman S Black Edition",
+            "name": "S Black Edition",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/cayman/2009/estandar/s-black-edition/cayman-s-black-edition/datos",
@@ -369,7 +370,7 @@
             ]
         },
         {
-            "name": "Cayman S Black Edition PDK",
+            "name": "S Black Edition PDK",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/cayman/2009/estandar/s-black-edition/cayman-s-black-edition-pdk/datos",
@@ -397,7 +398,7 @@
             ]
         },
         {
-            "name": "Cayman R",
+            "name": "R",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/cayman/2009/estandar/r/cayman-r/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "Cayman R",
+            "name": "R",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/cayman/2009/estandar/r/cayman-r2/datos",
@@ -453,7 +454,7 @@
             ]
         },
         {
-            "name": "Cayman R PDK",
+            "name": "R PDK",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/cayman/2009/estandar/r/cayman-r-pdk/datos",
@@ -481,7 +482,7 @@
             ]
         },
         {
-            "name": "Cayman R PDK",
+            "name": "R PDK",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/porsche/cayman/2009/estandar/r/cayman-r-pdk2/datos",
