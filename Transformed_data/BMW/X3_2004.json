@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "X3",
     "year": "2004",
     "url": "https://www.km77.com/coches/bmw/x3/2004/estandar",
     "price": "Desde 63.100 €",
     "versions": [
         {
-            "name": "X3 2.0d",
+            "name": "2.0d",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/bmw/x3/2004/estandar/estandar/x3-20d/datos",
@@ -244,7 +245,7 @@
             ]
         },
         {
-            "name": "X3 2.0i",
+            "name": "2.0i",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/bmw/x3/2004/estandar/estandar/x3-20i/datos",
@@ -481,7 +482,7 @@
             ]
         },
         {
-            "name": "X3 2.5i",
+            "name": "2.5i",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/bmw/x3/2004/estandar/estandar/x3-25i/datos",
@@ -719,7 +720,7 @@
             ]
         },
         {
-            "name": "X3 3.0i",
+            "name": "3.0i",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/bmw/x3/2004/estandar/estandar/x3-30i/datos",
@@ -954,7 +955,7 @@
             ]
         },
         {
-            "name": "X3 2.5i Aut.",
+            "name": "2.5i Aut.",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/bmw/x3/2004/estandar/estandar/x3-25i-aut/datos",
@@ -1192,7 +1193,7 @@
             ]
         },
         {
-            "name": "X3 3.0d",
+            "name": "3.0d",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/bmw/x3/2004/estandar/estandar/x3-30d/datos",
@@ -1423,7 +1424,7 @@
             ]
         },
         {
-            "name": "X3 3.0d",
+            "name": "3.0d",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/bmw/x3/2004/estandar/estandar/x3-30d2/datos",
@@ -1660,7 +1661,7 @@
             ]
         },
         {
-            "name": "X3 3.0i Aut.",
+            "name": "3.0i Aut.",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/bmw/x3/2004/estandar/estandar/x3-30i-aut/datos",
@@ -1897,7 +1898,7 @@
             ]
         },
         {
-            "name": "X3 3.0d Aut.",
+            "name": "3.0d Aut.",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/bmw/x3/2004/estandar/estandar/x3-30d-aut/datos",
@@ -2128,7 +2129,7 @@
             ]
         },
         {
-            "name": "X3 3.0d Aut.",
+            "name": "3.0d Aut.",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/bmw/x3/2004/estandar/estandar/x3-30d-aut2/datos",

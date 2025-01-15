@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "A5 Cabrio",
     "year": "2009",
     "url": "https://www.km77.com/coches/audi/a5/2009/cabrio",
     "price": "Desde 53.310 €",
     "versions": [
         {
-            "name": "A5 Cabrio 1.8 TFSI",
+            "name": "1.8 TFSI",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a5/2009/cabrio/estandar/a5-cabrio-18-tfsi/datos",
@@ -262,7 +263,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 1.8 TFSI",
+            "name": "1.8 TFSI",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/audi/a5/2009/cabrio/estandar/a5-cabrio-18-tfsi2/datos",
@@ -515,7 +516,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 1.8 TFSI multitronic",
+            "name": "1.8 TFSI multitronic",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a5/2009/cabrio/estandar/a5-cabrio-18-tfsi-multitronic/datos",
@@ -773,7 +774,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 2.0 TDI DPF",
+            "name": "2.0 TDI DPF",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a5/2009/cabrio/estandar/a5-cabrio-20-tdi-dpf/datos",
@@ -1030,7 +1031,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 1.8 TFSI multitronic",
+            "name": "1.8 TFSI multitronic",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/audi/a5/2009/cabrio/estandar/a5-cabrio-18-tfsi-multitronic2/datos",
@@ -1285,7 +1286,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 2.0 TDI DPF",
+            "name": "2.0 TDI DPF",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/audi/a5/2009/cabrio/estandar/a5-cabrio-20-tdi-dpf2/datos",
@@ -1537,7 +1538,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 2.0 TFSI 180 CV multitronic",
+            "name": "2.0 TFSI 180 CV multitronic",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a5/2009/cabrio/estandar/a5-cabrio-20-tfsi-180-cv-multitronic/datos",
@@ -1795,7 +1796,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 2.0 TFSI 211 CV",
+            "name": "2.0 TFSI 211 CV",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a5/2009/cabrio/estandar/a5-cabrio-20-tfsi-211-cv/datos",
@@ -2051,7 +2052,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 2.0 TFSI 180 CV multitronic",
+            "name": "2.0 TFSI 180 CV multitronic",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/audi/a5/2009/cabrio/estandar/a5-cabrio-20-tfsi-180-cv-multitronic2/datos",
@@ -2306,7 +2307,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 2.0 TFSI 211 CV",
+            "name": "2.0 TFSI 211 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/audi/a5/2009/cabrio/estandar/a5-cabrio-20-tfsi-211-cv2/datos",
@@ -2557,7 +2558,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 2.7 TDI DPF",
+            "name": "2.7 TDI DPF",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a5/2009/cabrio/estandar/a5-cabrio-27-tdi-dpf/datos",
@@ -2814,7 +2815,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 2.7 TDI DPF",
+            "name": "2.7 TDI DPF",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/audi/a5/2009/cabrio/estandar/a5-cabrio-27-tdi-dpf2/datos",
@@ -3066,7 +3067,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 2.0 TFSI 211 CV multitronic",
+            "name": "2.0 TFSI 211 CV multitronic",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a5/2009/cabrio/estandar/a5-cabrio-20-tfsi-211-cv-multitronic/datos",
@@ -3323,7 +3324,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 2.0 TFSI 211 CV multitronic",
+            "name": "2.0 TFSI 211 CV multitronic",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/audi/a5/2009/cabrio/estandar/a5-cabrio-20-tfsi-211-cv-multitronic2/datos",
@@ -3578,7 +3579,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 2.7 TDI multitronic DPF",
+            "name": "2.7 TDI multitronic DPF",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a5/2009/cabrio/estandar/a5-cabrio-27-tdi-multitronic-dpf/datos",
@@ -3836,7 +3837,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 2.7 TDI multitronic DPF",
+            "name": "2.7 TDI multitronic DPF",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/audi/a5/2009/cabrio/estandar/a5-cabrio-27-tdi-multitronic-dpf2/datos",
@@ -4092,7 +4093,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 2.0 TFSI 211 CV quattro S tronic",
+            "name": "2.0 TFSI 211 CV quattro S tronic",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a5/2009/cabrio/estandar/a5-cabrio-20-tfsi-211-cv-quattro-s-tronic/datos",
@@ -4351,7 +4352,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 2.0 TFSI 211 CV quattro S tronic",
+            "name": "2.0 TFSI 211 CV quattro S tronic",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/audi/a5/2009/cabrio/estandar/a5-cabrio-20-tfsi-211-cv-quattro-s-tronic2/datos",
@@ -4606,7 +4607,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 3.2 FSI multitronic",
+            "name": "3.2 FSI multitronic",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a5/2009/cabrio/estandar/a5-cabrio-32-fsi-multitronic/datos",
@@ -4863,7 +4864,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 3.2 FSI multitronic",
+            "name": "3.2 FSI multitronic",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/audi/a5/2009/cabrio/estandar/a5-cabrio-32-fsi-multitronic2/datos",
@@ -5119,7 +5120,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 3.0 TDI quattro S tronic DPF",
+            "name": "3.0 TDI quattro S tronic DPF",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a5/2009/cabrio/estandar/a5-cabrio-30-tdi-quattro-s-tronic-dpf/datos",
@@ -5379,7 +5380,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 3.0 TDI quattro S tronic DPF",
+            "name": "3.0 TDI quattro S tronic DPF",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/audi/a5/2009/cabrio/estandar/a5-cabrio-30-tdi-quattro-s-tronic-dpf2/datos",
@@ -5636,7 +5637,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 3.2 FSI quattro S tronic",
+            "name": "3.2 FSI quattro S tronic",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/audi/a5/2009/cabrio/estandar/a5-cabrio-32-fsi-quattro-s-tronic/datos",
@@ -5895,7 +5896,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 3.2 FSI quattro S tronic",
+            "name": "3.2 FSI quattro S tronic",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/audi/a5/2009/cabrio/estandar/a5-cabrio-32-fsi-quattro-s-tronic2/datos",

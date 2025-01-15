@@ -1,11 +1,12 @@
 {
+    "brand": "Lexus",
     "name": "CT",
     "year": "2014",
     "url": "https://www.km77.com/coches/lexus/ct/2014/estandar",
     "price": "",
     "versions": [
         {
-            "name": "CT 200h ECO",
+            "name": "200h ECO",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/lexus/ct/2014/estandar/eco/ct-200h-eco2/datos",
@@ -16,7 +17,7 @@
             "maletero": "275"
         },
         {
-            "name": "CT 200h ECO",
+            "name": "200h ECO",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/lexus/ct/2014/estandar/eco/ct-200h-eco/datos",
@@ -27,7 +28,7 @@
             "maletero": "275"
         },
         {
-            "name": "CT 200h Executive",
+            "name": "200h Executive",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/lexus/ct/2014/estandar/executive/ct-200h-executive2/datos",
@@ -38,7 +39,7 @@
             "maletero": "275"
         },
         {
-            "name": "CT 200h Executive",
+            "name": "200h Executive",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/lexus/ct/2014/estandar/executive/ct-200h-executive/datos",
@@ -49,7 +50,7 @@
             "maletero": "275"
         },
         {
-            "name": "CT 200h Business",
+            "name": "200h Business",
             "start_year": "2017",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/lexus/ct/2014/estandar/business/ct-200h-business/datos",
@@ -60,7 +61,7 @@
             "maletero": "275"
         },
         {
-            "name": "CT 200h Sport Edition",
+            "name": "200h Sport Edition",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/lexus/ct/2014/estandar/sport-edition/ct-200h-sport-edition/datos",
@@ -71,7 +72,7 @@
             "maletero": "275"
         },
         {
-            "name": "CT 200h Executive Tecno",
+            "name": "200h Executive Tecno",
             "start_year": "2017",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/lexus/ct/2014/estandar/executive-tecno/ct-200h-executive-tecno/datos",
@@ -82,7 +83,7 @@
             "maletero": "275"
         },
         {
-            "name": "CT 200h Sport Edition",
+            "name": "200h Sport Edition",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/lexus/ct/2014/estandar/sport-edition/ct-200h-sport-edition2/datos",
@@ -93,7 +94,7 @@
             "maletero": "275"
         },
         {
-            "name": "CT 200h F SPORT",
+            "name": "200h F SPORT",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/lexus/ct/2014/estandar/f-sport/ct-200h-f-sport/datos",
@@ -104,7 +105,7 @@
             "maletero": "275"
         },
         {
-            "name": "CT 200h F SPORT",
+            "name": "200h F SPORT",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/lexus/ct/2014/estandar/f-sport/ct-200h-f-sport2/datos",
@@ -115,7 +116,7 @@
             "maletero": "275"
         },
         {
-            "name": "CT 200h Luxury",
+            "name": "200h Luxury",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/lexus/ct/2014/estandar/luxury/ct-200h-luxury/datos",
@@ -126,7 +127,7 @@
             "maletero": "275"
         },
         {
-            "name": "CT 200h Luxury",
+            "name": "200h Luxury",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/lexus/ct/2014/estandar/luxury/ct-200h-luxury2/datos",

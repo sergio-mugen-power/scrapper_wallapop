@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Passat Alltrack",
     "year": "2016",
     "url": "https://www.km77.com/coches/volkswagen/passat/2016/alltrack",
     "price": "Desde 41.200 €",
     "versions": [
         {
-            "name": "Passat Alltrack 2.0 TDI BMT 150 CV 4Motion",
+            "name": "2.0 TDI BMT 150 CV 4Motion",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/passat/2016/alltrack/alltrack/passat-alltrack-20-tdi-150-cv-4motion/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Passat Alltrack 2.0 TDI BMT 190 CV 4Motion DSG 6 vel.",
+            "name": "2.0 TDI BMT 190 CV 4Motion DSG 6 vel.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/passat/2016/alltrack/alltrack/passat-alltrack-20-tdi-150-cv-4motion-bmt-dsg-6-vel/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Passat Alltrack 2.0 TSI BMT 162 kW (220 CV) 4Motion DSG 7 vel.",
+            "name": "2.0 TSI BMT 162 kW (220 CV) 4Motion DSG 7 vel.",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/passat/2016/alltrack/alltrack/passat-alltrack-20-tsi-220-cv-4motion-bmt-dsg-7-vel/datos",
@@ -90,7 +91,7 @@
             ]
         },
         {
-            "name": "Passat Alltrack 2.0 TDI BMT 140 kW (190 CV) 4Motion DSG 7 vel.",
+            "name": "2.0 TDI BMT 140 kW (190 CV) 4Motion DSG 7 vel.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/passat/2016/alltrack/alltrack/passat-alltrack-20-tdi-bmt-140-kw-190-cv-4motion-dsg-7-vel/datos",
@@ -119,7 +120,7 @@
             ]
         },
         {
-            "name": "Passat Alltrack 2.0 TSI 220 CV 4Motion BMT DSG 7 vel.",
+            "name": "2.0 TSI 220 CV 4Motion BMT DSG 7 vel.",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volkswagen/passat/2016/alltrack/alltrack/passat-alltrack/datos",
@@ -147,7 +148,7 @@
             ]
         },
         {
-            "name": "Passat Alltrack 2.0 TSI 200 kW (272 CV) 4Motion DSG 7 vel.",
+            "name": "2.0 TSI 200 kW (272 CV) 4Motion DSG 7 vel.",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/passat/2016/alltrack/alltrack/passat-alltrack-20-tsi-200-kw-272-cv-4motion-dsg-7-vel/datos",
@@ -176,7 +177,7 @@
             ]
         },
         {
-            "name": "Passat Alltrack 2.0 TDI BiT BMT 176 kW (240 CV) 4Motion DSG 7 vel.",
+            "name": "2.0 TDI BiT BMT 176 kW (240 CV) 4Motion DSG 7 vel.",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/passat/2016/alltrack/alltrack/passat-alltrack-20-tdi-240-cv-4motion-bmt-dsg-7-vel/datos",
@@ -205,7 +206,7 @@
             ]
         },
         {
-            "name": "Passat Alltrack 2.0 TDI 240 CV 4Motion BMT DSG 7 vel.",
+            "name": "2.0 TDI 240 CV 4Motion BMT DSG 7 vel.",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volkswagen/passat/2016/alltrack/alltrack/passat-alltrack-20-tdi-239-cv-4motion-bmt-dsg-7-vel/datos",

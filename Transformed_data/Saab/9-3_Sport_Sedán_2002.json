@@ -1,11 +1,12 @@
 {
+    "brand": "Saab",
     "name": "9-3 Sport Sedán",
     "year": "2002",
     "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan",
     "price": "",
     "versions": [
         {
-            "name": "9-3 Sport Sedán 1.8i (122 CV) Linear",
+            "name": "1.8i (122 CV) Linear",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/linear/9-3-sport-sedan-18i-122-cv-linear/datos",
@@ -16,7 +17,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.8i (122 CV) Linear Sport",
+            "name": "1.8i (122 CV) Linear Sport",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/linear-sport/9-3-sport-sedan-18i-122-cv-linear-sport/datos",
@@ -27,7 +28,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.9 TiD (120 CV) Linear",
+            "name": "1.9 TiD (120 CV) Linear",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/linear/9-3-sport-sedan-19-tid-120-cv-linear/datos",
@@ -38,7 +39,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.9 TiD 120 CV FP Linear",
+            "name": "1.9 TiD 120 CV FP Linear",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/linear/9-3-sport-sedan-19-tid-120-cv-fp-linear/datos",
@@ -49,7 +50,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.9 TiD (120 CV) Linear Sport",
+            "name": "1.9 TiD (120 CV) Linear Sport",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/linear-sport/9-3-sport-sedan-19-tid-120-cv-linear-sport/datos",
@@ -60,7 +61,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.8i (122 CV) Linear Sport",
+            "name": "1.8i (122 CV) Linear Sport",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/linear-sport/9-3-sport-sedan-18i-122-cv-linear-sport2/datos",
@@ -71,7 +72,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.8i (122 CV) Vector",
+            "name": "1.8i (122 CV) Vector",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector/9-3-sport-sedan-18i-122-cv-vector/datos",
@@ -82,7 +83,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 2.2 TiD Linear",
+            "name": "2.2 TiD Linear",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/linear/9-3-sport-sedan-22-tid-linear/datos",
@@ -93,7 +94,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 2.2 TiD Linear 6 vel.",
+            "name": "2.2 TiD Linear 6 vel.",
             "start_year": "2003",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/linear/9-3-sport-sedan-22-tid-linear-6-vel/datos",
@@ -104,7 +105,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.8i Arc",
+            "name": "1.8i Arc",
             "start_year": "2003",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/arc/9-3-sport-sedan-18i-arc/datos",
@@ -115,7 +116,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.8t Ecopower (150 CV) Linear",
+            "name": "1.8t Ecopower (150 CV) Linear",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/linear/9-3-sport-sedan-18t-ecopower-150-cv-linear/datos",
@@ -126,7 +127,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.8t Ecopower (150 CV) Linear Sport",
+            "name": "1.8t Ecopower (150 CV) Linear Sport",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/linear-sport/9-3-sport-sedan-18t-ecopower-150-cv-linear-sport/datos",
@@ -137,7 +138,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.9 TiD (120 CV) Vector",
+            "name": "1.9 TiD (120 CV) Vector",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector/9-3-sport-sedan-19-tid-120-cv-vector/datos",
@@ -148,7 +149,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.9 TiD 150 CV FP Linear",
+            "name": "1.9 TiD 150 CV FP Linear",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/linear/9-3-sport-sedan-19-tid-150-cv-fp-linear/datos",
@@ -159,7 +160,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.9 TiD (120 CV) Linear Sport",
+            "name": "1.9 TiD (120 CV) Linear Sport",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/linear-sport/9-3-sport-sedan-19-tid-120-cv-linear-sport2/datos",
@@ -170,7 +171,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.9 TiD (150 CV) Linear",
+            "name": "1.9 TiD (150 CV) Linear",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/linear/9-3-sport-sedan-19-tid-150-cv-linear/datos",
@@ -181,7 +182,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.8t Ecopower (150 CV) Linear Sport",
+            "name": "1.8t Ecopower (150 CV) Linear Sport",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/linear-sport/9-3-sport-sedan-18t-ecopower-150-cv-linear-sport2/datos",
@@ -192,7 +193,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.9 TiD (150 CV) Linear Sport",
+            "name": "1.9 TiD (150 CV) Linear Sport",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/linear-sport/9-3-sport-sedan-19-tid-150-cv-linear-sport/datos",
@@ -203,7 +204,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.8t Ecopower (150 CV) Linear Aut.",
+            "name": "1.8t Ecopower (150 CV) Linear Aut.",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/linear/9-3-sport-sedan-18t-ecopower-150-cv-linear-aut/datos",
@@ -214,7 +215,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.8t Ecopower Arc",
+            "name": "1.8t Ecopower Arc",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/arc/9-3-sport-sedan-18t-ecopower-arc/datos",
@@ -225,7 +226,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 2.2 TiD Arc",
+            "name": "2.2 TiD Arc",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/arc/9-3-sport-sedan-22-tid-arc/datos",
@@ -236,7 +237,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.9 TiD (150 CV) Linear Sport",
+            "name": "1.9 TiD (150 CV) Linear Sport",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/linear-sport/9-3-sport-sedan-19-tid-150-cv-linear-sport2/datos",
@@ -247,7 +248,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 2.2 TiD Vector",
+            "name": "2.2 TiD Vector",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector/9-3-sport-sedan-22-tid-vector/datos",
@@ -258,7 +259,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 2.2 TiD Arc 6 vel.",
+            "name": "2.2 TiD Arc 6 vel.",
             "start_year": "2003",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/arc/9-3-sport-sedan-22-tid-arc-6-vel/datos",
@@ -269,7 +270,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.9 TiD 120 CV FP Vector",
+            "name": "1.9 TiD 120 CV FP Vector",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector/9-3-sport-sedan-19-tid-120-cv-fp-vector/datos",
@@ -280,7 +281,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.8t Ecopower (150 CV) Linear Sport Aut.",
+            "name": "1.8t Ecopower (150 CV) Linear Sport Aut.",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/linear-sport/9-3-sport-sedan-18t-ecopower-150-cv-linear-sport-aut/datos",
@@ -291,7 +292,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.9 TiD 150 CV Linear Aut.",
+            "name": "1.9 TiD 150 CV Linear Aut.",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/linear/9-3-sport-sedan-19-tid-150-cv-linear-aut/datos",
@@ -302,7 +303,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 2.0t Ecopower (175 CV) Linear",
+            "name": "2.0t Ecopower (175 CV) Linear",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/linear/9-3-sport-sedan-20t-ecopower-175-cv-linear/datos",
@@ -313,7 +314,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 2.2 TiD Vector 6 vel.",
+            "name": "2.2 TiD Vector 6 vel.",
             "start_year": "2003",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector/9-3-sport-sedan-22-tid-vector-6-vel/datos",
@@ -324,7 +325,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.9 TiD 150 CV FP Linear Aut.",
+            "name": "1.9 TiD 150 CV FP Linear Aut.",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/linear/9-3-sport-sedan-19-tid-150-cv-fp-linear-aut/datos",
@@ -335,7 +336,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.8t Ecopower (150 CV) Linear Sport Aut.",
+            "name": "1.8t Ecopower (150 CV) Linear Sport Aut.",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/linear-sport/9-3-sport-sedan-18t-ecopower-150-cv-linear-sport-aut2/datos",
@@ -346,7 +347,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.9 TiD (150 CV) FP Linear Sport Aut.",
+            "name": "1.9 TiD (150 CV) FP Linear Sport Aut.",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/linear-sport/9-3-sport-sedan-19-tid-150-cv-fp-linear-sport-aut/datos",
@@ -357,7 +358,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.8t Ecopower (150 CV) Vector",
+            "name": "1.8t Ecopower (150 CV) Vector",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector/9-3-sport-sedan-18t-ecopower-150-cv-vector/datos",
@@ -368,7 +369,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.8t Ecopower Arc Aut.",
+            "name": "1.8t Ecopower Arc Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/arc/9-3-sport-sedan-18t-ecopower-arc-aut/datos",
@@ -379,7 +380,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.9 TiD (150 CV) Linear Sport Aut.",
+            "name": "1.9 TiD (150 CV) Linear Sport Aut.",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/linear-sport/9-3-sport-sedan-19-tid-150-cv-linear-sport-aut/datos",
@@ -390,7 +391,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.8t Ecopower (150 CV) Vector",
+            "name": "1.8t Ecopower (150 CV) Vector",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector/9-3-sport-sedan-18t-ecopower-150-cv-vector2/datos",
@@ -401,7 +402,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 2.0t Ecopower (175 CV) Linear Aut.",
+            "name": "2.0t Ecopower (175 CV) Linear Aut.",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/linear/9-3-sport-sedan-20t-ecopower-175-cv-linear-aut/datos",
@@ -412,7 +413,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 2.0t Ecopower Arc",
+            "name": "2.0t Ecopower Arc",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/arc/9-3-sport-sedan-20t-ecopower-arc/datos",
@@ -423,7 +424,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.9 TiD (150 CV) Vector",
+            "name": "1.9 TiD (150 CV) Vector",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector/9-3-sport-sedan-19-tid-150-cv-vector/datos",
@@ -434,7 +435,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.9 TiD (150 CV) FP Vector",
+            "name": "1.9 TiD (150 CV) FP Vector",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector/9-3-sport-sedan-19-tid-150-cv-fp-vector/datos",
@@ -445,7 +446,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.9 TiD (150 CV) Vector",
+            "name": "1.9 TiD (150 CV) Vector",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector/9-3-sport-sedan-19-tid-150-cv-vector2/datos",
@@ -456,7 +457,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.8t Ecopower (150 CV) Vector Aut.",
+            "name": "1.8t Ecopower (150 CV) Vector Aut.",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector/9-3-sport-sedan-18t-ecopower-150-cv-vector-aut/datos",
@@ -467,7 +468,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.9 TiD 150 CV Vector Aut.",
+            "name": "1.9 TiD 150 CV Vector Aut.",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector/9-3-sport-sedan-19-tid-150-cv-vector-aut/datos",
@@ -478,7 +479,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.9 TiD (150 CV) FP Vector Sport",
+            "name": "1.9 TiD (150 CV) FP Vector Sport",
             "start_year": "2005",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector-sport/9-3-sport-sedan-19-tid-150-cv-fp-vector-sport/datos",
@@ -489,7 +490,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.8t Ecopower (150 CV) Vector Aut.",
+            "name": "1.8t Ecopower (150 CV) Vector Aut.",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector/9-3-sport-sedan-18t-ecopower-150-cv-vector-aut2/datos",
@@ -500,7 +501,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.9 TiD (150 CV) FP Vector Aut.",
+            "name": "1.9 TiD (150 CV) FP Vector Aut.",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector/9-3-sport-sedan-19-tid-150-cv-fp-vector-aut/datos",
@@ -511,7 +512,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 2.0t Ecopower (175 CV) Vector",
+            "name": "2.0t Ecopower (175 CV) Vector",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector/9-3-sport-sedan-20t-ecopower-175-cv-vector/datos",
@@ -522,7 +523,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.9 TiD (150 CV) Vector Sport",
+            "name": "1.9 TiD (150 CV) Vector Sport",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector-sport/9-3-sport-sedan-19-tid-150-cv-vector-sport/datos",
@@ -533,7 +534,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 2.0t Ecopower Arc Aut.",
+            "name": "2.0t Ecopower Arc Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/arc/9-3-sport-sedan-20t-ecopower-arc-aut/datos",
@@ -544,7 +545,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.9 TiD (150 CV) Vector Aut.",
+            "name": "1.9 TiD (150 CV) Vector Aut.",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector/9-3-sport-sedan-19-tid-150-cv-vector-aut2/datos",
@@ -555,7 +556,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 2.0t Ecopower (175 CV) Vector",
+            "name": "2.0t Ecopower (175 CV) Vector",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector/9-3-sport-sedan-20t-ecopower-175-cv-vector2/datos",
@@ -566,7 +567,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 2.0T Ecopower (210 CV) Vector 5 vel.",
+            "name": "2.0T Ecopower (210 CV) Vector 5 vel.",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector/9-3-sport-sedan-20t-ecopower-210-cv-vector-5-vel/datos",
@@ -577,7 +578,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.9 TiD (150 CV) FP Vector Sport Aut.",
+            "name": "1.9 TiD (150 CV) FP Vector Sport Aut.",
             "start_year": "2005",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector-sport/9-3-sport-sedan-19-tid-150-cv-fp-vector-sport-aut/datos",
@@ -588,7 +589,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 2.0T Ecopower (210 CV) Vector 6 vel.",
+            "name": "2.0T Ecopower (210 CV) Vector 6 vel.",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector/9-3-sport-sedan-20t-ecopower-210-cv-vector-6-vel/datos",
@@ -599,7 +600,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 1.9 TiD (150 CV) Vector Sport Aut.",
+            "name": "1.9 TiD (150 CV) Vector Sport Aut.",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector-sport/9-3-sport-sedan-19-tid-150-cv-vector-sport-aut/datos",
@@ -610,7 +611,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 2.0t Ecopower (175 CV) Vector Aut.",
+            "name": "2.0t Ecopower (175 CV) Vector Aut.",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector/9-3-sport-sedan-20t-ecopower-175-cv-vector-aut/datos",
@@ -621,7 +622,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 2.0T Ecopower (210 CV) Vector",
+            "name": "2.0T Ecopower (210 CV) Vector",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector/9-3-sport-sedan-20t-ecopower-210-cv-vector/datos",
@@ -632,7 +633,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 2.0t Ecopower (175 CV) Vector Aut.",
+            "name": "2.0t Ecopower (175 CV) Vector Aut.",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector/9-3-sport-sedan-20t-ecopower-175-cv-vector-aut2/datos",
@@ -643,7 +644,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 2.0T Ecopower (210 CV) Vector Aut.",
+            "name": "2.0T Ecopower (210 CV) Vector Aut.",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector/9-3-sport-sedan-20t-ecopower-210-cv-vector-aut/datos",
@@ -654,7 +655,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 2.0T Ecopower (210 CV) Vector Sport",
+            "name": "2.0T Ecopower (210 CV) Vector Sport",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector-sport/9-3-sport-sedan-20t-ecopower-210-cv-vector-sport/datos",
@@ -665,7 +666,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 2.0T Aero 6 vel.",
+            "name": "2.0T Aero 6 vel.",
             "start_year": "2003",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/aero/9-3-sport-sedan-20t-aero-6-vel/datos",
@@ -676,7 +677,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 2.0T Aero (210 CV) 5 vel.",
+            "name": "2.0T Aero (210 CV) 5 vel.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/aero/9-3-sport-sedan-20t-aero-210-cv-5-vel/datos",
@@ -687,7 +688,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 2.0T Aero (210 CV) 6 vel.",
+            "name": "2.0T Aero (210 CV) 6 vel.",
             "start_year": "2005",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/aero/9-3-sport-sedan-20t-aero-210-cv-6-vel/datos",
@@ -698,7 +699,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 2.0T Ecopower (210 CV) Vector Aut.",
+            "name": "2.0T Ecopower (210 CV) Vector Aut.",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector/9-3-sport-sedan-20t-ecopower-210-cv-vector-aut2/datos",
@@ -709,7 +710,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 2.0T Ecopower (210 CV) Vector Sport Aut.",
+            "name": "2.0T Ecopower (210 CV) Vector Sport Aut.",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/vector-sport/9-3-sport-sedan-20t-ecopower-210-cv-vector-sport-aut/datos",
@@ -720,7 +721,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán 2.0T Aero (210 CV) Aut.",
+            "name": "2.0T Aero (210 CV) Aut.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/aero/9-3-sport-sedan-20t-aero-210-cv-aut/datos",
@@ -731,7 +732,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán V6 2.8T Ecopower (250 CV) Aero",
+            "name": "V6 2.8T Ecopower (250 CV) Aero",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/aero/9-3-sport-sedan-v6-28t-ecopower-250-cv-aero/datos",
@@ -742,7 +743,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán V6 2.8T Ecopower (250 CV) Aero",
+            "name": "V6 2.8T Ecopower (250 CV) Aero",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/aero/9-3-sport-sedan-v6-28t-ecopower-250-cv-aero2/datos",
@@ -753,7 +754,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán V6 2.8T Ecopower (250 CV) Aero Aut.",
+            "name": "V6 2.8T Ecopower (250 CV) Aero Aut.",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/aero/9-3-sport-sedan-v6-28t-ecopower-250-cv-aero-aut/datos",
@@ -764,7 +765,7 @@
             "maletero": "425"
         },
         {
-            "name": "9-3 Sport Sedán V6 2.8T Ecopower (250 CV) Aero Aut.",
+            "name": "V6 2.8T Ecopower (250 CV) Aero Aut.",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/saab/9-3/2002/sport-sedan/aero/9-3-sport-sedan-v6-28t-ecopower-250-cv-aero-aut2/datos",

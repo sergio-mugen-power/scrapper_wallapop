@@ -1,11 +1,12 @@
 {
+    "brand": "Nissan",
     "name": "Qashqai",
     "year": "2017",
     "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar",
     "price": "Desde 27.400 €",
     "versions": [
         {
-            "name": "Qashqai 1.2 DIG-T 85 kW (115 CV) Visia",
+            "name": "1.2 DIG-T 85 kW (115 CV) Visia",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/visia/qashqai-12-dig-t-85-kw-115-cv-visia/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.2 DIG-T 85 kW (115 CV) Acenta",
+            "name": "1.2 DIG-T 85 kW (115 CV) Acenta",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/acenta/qashqai-12-dig-t-85-kw-115-cv-acenta/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.5 dCi 81 kW (110 CV) Visia",
+            "name": "1.5 dCi 81 kW (110 CV) Visia",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/visia/qashqai-15-dci-81-kw-110-cv-visia/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.2 DIG-T 85 KW (115 CV) XTronic Visia",
+            "name": "1.2 DIG-T 85 KW (115 CV) XTronic Visia",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/visia/qashqai-12-dig-t-85-kw-115-cv-xtronic-visia/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.6 DIG-T 120 kW (163 CV) Visia",
+            "name": "1.6 DIG-T 120 kW (163 CV) Visia",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/visia/qashqai-16-dig-t-120-kw-163-cv-visia/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Qashqai Visia DIG-T 103 kW (140 CV) E6D",
+            "name": "Visia DIG-T 103 kW (140 CV) E6D",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/visia/qashqai-visia-dig-t-103-kw-140-cv/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "Qashqai Visia DIG-T 117 kW (160 CV)",
+            "name": "Visia DIG-T 117 kW (160 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/visia/qashqai-visia-dig-t-117-kw-160-cv/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.5 dCi 81 kW (110 CV) Acenta",
+            "name": "1.5 dCi 81 kW (110 CV) Acenta",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/acenta/qashqai-15-dci-81-kw-110-cv-acenta/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.2 DIG-T 85 KW (115 CV) XTronic Acenta",
+            "name": "1.2 DIG-T 85 KW (115 CV) XTronic Acenta",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/acenta/qashqai-12-dig-t-85-kw-115-cv-xtronic-acenta/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.6 DIG-T 120 kW (163 CV) Acenta",
+            "name": "1.6 DIG-T 120 kW (163 CV) Acenta",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/acenta/qashqai-16-dig-t-120-kw-163-cv-acenta/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "Qashqai Visia 1.6 dCi 96 kW (130 CV)",
+            "name": "Visia 1.6 dCi 96 kW (130 CV)",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/visia/qashqai-16-dci-96-kw-130-cv-visia/datos",
@@ -313,7 +314,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.2 DIG-T 85 kW (115 CV) N-Connecta",
+            "name": "1.2 DIG-T 85 kW (115 CV) N-Connecta",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-connecta/qashqai-12-dig-t-85-kw-115-cv-n-connecta/datos",
@@ -341,7 +342,7 @@
             ]
         },
         {
-            "name": "Qashqai Visia dCi 85 kW (115 CV)",
+            "name": "Visia dCi 85 kW (115 CV)",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/visia/qashqai-visia-dci-85-kw-115-cv/datos",
@@ -369,7 +370,7 @@
             ]
         },
         {
-            "name": "Qashqai Acenta DIG-T 103 kW (140 CV)",
+            "name": "Acenta DIG-T 103 kW (140 CV)",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/acenta/qashqai-acenta-dig-t-103-kw-140-cv/datos",
@@ -397,7 +398,7 @@
             ]
         },
         {
-            "name": "Qashqai Acenta DIG-T 103 kW (140 CV) E6D-F",
+            "name": "Acenta DIG-T 103 kW (140 CV) E6D-F",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/acenta/qashqai-acenta-dig-t-103-kw-140-cv-e6d-f/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "Qashqai Acenta DIG-T 117 kW (160 CV)",
+            "name": "Acenta DIG-T 117 kW (160 CV)",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/acenta/qashqai-acenta-dig-t-117-kw-160-cv/datos",
@@ -453,7 +454,7 @@
             ]
         },
         {
-            "name": "Qashqai Acenta 1.6 dCi 96 kW (130 CV)",
+            "name": "Acenta 1.6 dCi 96 kW (130 CV)",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/acenta/qashqai-16-dci-96-kw-130-cv-acenta/datos",
@@ -481,7 +482,7 @@
             ]
         },
         {
-            "name": "Qashqai Visia 1.6 dCi 96 kW (130 CV) Xtronic",
+            "name": "Visia 1.6 dCi 96 kW (130 CV) Xtronic",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/visia/qashqai-16-dci-96-kw-130-cv-xtronic-visia/datos",
@@ -509,7 +510,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.5 dCi 81 kW (110 CV) N-Connecta",
+            "name": "1.5 dCi 81 kW (110 CV) N-Connecta",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-connecta/qashqai-15-dci-81-kw-110-cv-n-connecta/datos",
@@ -537,7 +538,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.2 DIG-T 85 KW (115 CV) XTronic N-Connecta",
+            "name": "1.2 DIG-T 85 KW (115 CV) XTronic N-Connecta",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-connecta/qashqai-12-dig-t-85-kw-115-cv-xtronic-n-connecta/datos",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.6 DIG-T 120 kW (163 CV) N-Connecta",
+            "name": "1.6 DIG-T 120 kW (163 CV) N-Connecta",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-connecta/qashqai-16-dig-t-120-kw-163-cv-n-connecta/datos",
@@ -593,7 +594,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Connecta DIG-T 103 kW (140 CV)",
+            "name": "N-Connecta DIG-T 103 kW (140 CV)",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-connecta/qashqai-n-connecta-dig-t-103-kw-140-cv/datos",
@@ -621,7 +622,7 @@
             ]
         },
         {
-            "name": "Qashqai Visia 1.6 dCi 96 kW (130 CV) 4x4",
+            "name": "Visia 1.6 dCi 96 kW (130 CV) 4x4",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/visia/qashqai-16-dci-96-kw-130-cv-4x4-visia/datos",
@@ -649,7 +650,7 @@
             ]
         },
         {
-            "name": "Qashqai Acenta dCi 85 kW (115 CV)",
+            "name": "Acenta dCi 85 kW (115 CV)",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/acenta/qashqai-acenta-dci-85-kw-115-cv/datos",
@@ -677,7 +678,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.2 DIG-T 85 kW (115 CV) Tekna",
+            "name": "1.2 DIG-T 85 kW (115 CV) Tekna",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/tekna/qashqai-12-dig-t-85-kw-115-cv-tekna/datos",
@@ -705,7 +706,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Connecta dCi 85 kW (115 CV)",
+            "name": "N-Connecta dCi 85 kW (115 CV)",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-connecta/qashqai-n-connecta-dci-85-kw-115-cv/datos",
@@ -733,7 +734,7 @@
             ]
         },
         {
-            "name": "Qashqai Acenta 1.6 dCi 96 kW (130 CV) Xtronic",
+            "name": "Acenta 1.6 dCi 96 kW (130 CV) Xtronic",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/acenta/qashqai-16-dci-96-kw-130-cv-xtronic-acenta/datos",
@@ -761,7 +762,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Motion DIG-T 103 kW (140 CV)",
+            "name": "N-Motion DIG-T 103 kW (140 CV)",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-motion/qashqai-n-motion-dig-t-103-kw-140-cv/datos",
@@ -789,7 +790,7 @@
             ]
         },
         {
-            "name": "Qashqai Acenta dCi 110 kW (150 CV)",
+            "name": "Acenta dCi 110 kW (150 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/acenta/qashqai-acenta-dci-110-kw-150-cv-4x2/datos",
@@ -817,7 +818,7 @@
             ]
         },
         {
-            "name": "Qashqai Visia dCi 110 kW (150 CV) 4x4",
+            "name": "Visia dCi 110 kW (150 CV) 4x4",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/visia/qashqai-visia-dci-110-kw-150-cv-4x4/datos",
@@ -845,7 +846,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Connecta DIG-T 117 kW (160 CV)",
+            "name": "N-Connecta DIG-T 117 kW (160 CV)",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-connecta/qashqai-n-connecta-dig-t-117-kw-160-cv/datos",
@@ -873,7 +874,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Connecta 1.6 dCi 96 kW (130 CV)",
+            "name": "N-Connecta 1.6 dCi 96 kW (130 CV)",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-connecta/qashqai-16-dci-96-kw-130-cv-n-connecta/datos",
@@ -901,7 +902,7 @@
             ]
         },
         {
-            "name": "Qashqai Acenta DIG-T 117 kW (160 CV) DCT",
+            "name": "Acenta DIG-T 117 kW (160 CV) DCT",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/acenta/qashqai-acenta-dig-t-117-kw-160-cv-dct/datos",
@@ -929,7 +930,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Connecta DIG-T 103 kW (140 CV)",
+            "name": "N-Connecta DIG-T 103 kW (140 CV)",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-connecta/qashqai-n-connecta-dig-t-103-kw-140-cv2/datos",
@@ -957,7 +958,7 @@
             ]
         },
         {
-            "name": "Qashqai Acenta 1.6 dCi 96 kW (130 CV) 4x4",
+            "name": "Acenta 1.6 dCi 96 kW (130 CV) 4x4",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/acenta/qashqai-16-dci-96-kw-130-cv-4x4-acenta/datos",
@@ -985,7 +986,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Connecta DIG-T 117 kW (160 CV)",
+            "name": "N-Connecta DIG-T 117 kW (160 CV)",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-connecta/qashqai-n-connecta-dig-t-117-kw-160-cv2/datos",
@@ -1013,7 +1014,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Motion dCi 85 kW (115 CV)",
+            "name": "N-Motion dCi 85 kW (115 CV)",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-motion/qashqai-n-motion-dci-85-kw-115-cv/datos",
@@ -1041,7 +1042,7 @@
             ]
         },
         {
-            "name": "Qashqai Q-Line DIG-T 103 kW (140 CV)",
+            "name": "Q-Line DIG-T 103 kW (140 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/q-line/qashqai-q-line-dig-t-103-kw-140-cv/datos",
@@ -1069,7 +1070,7 @@
             ]
         },
         {
-            "name": "Qashqai Acenta DIG-T 117 kW (160 CV) DCT E6D-F",
+            "name": "Acenta DIG-T 117 kW (160 CV) DCT E6D-F",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/acenta/qashqai-acenta-dig-t-117-kw-160-cv-dct-e6d-f/datos",
@@ -1097,7 +1098,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.5 dCi 81 kW (110 CV) Tekna",
+            "name": "1.5 dCi 81 kW (110 CV) Tekna",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/tekna/qashqai-15-dci-81-kw-110-cv-tekna/datos",
@@ -1125,7 +1126,7 @@
             ]
         },
         {
-            "name": "Qashqai Acenta dCi 85 kW (115 CV) DCT",
+            "name": "Acenta dCi 85 kW (115 CV) DCT",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/acenta/qashqai-acenta-dci-85-kw-115-cv-dct/datos",
@@ -1153,7 +1154,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.2 DIG-T 85 KW (115 CV) XTronic Tekna",
+            "name": "1.2 DIG-T 85 KW (115 CV) XTronic Tekna",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/tekna/qashqai-12-dig-t-85-kw-115-cv-xtronic-tekna/datos",
@@ -1181,7 +1182,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.6 DIG-T 120 kW (163 CV) Tekna",
+            "name": "1.6 DIG-T 120 kW (163 CV) Tekna",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/tekna/qashqai-16-dig-t-120-kw-163-cv-tekna/datos",
@@ -1209,7 +1210,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Connecta DIG-T 103 kW (140 CV) E6D-F",
+            "name": "N-Connecta DIG-T 103 kW (140 CV) E6D-F",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-connecta/qashqai-n-connecta-dig-t-103-kw-140-cv-e6d-f/datos",
@@ -1237,7 +1238,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Connecta dCi 85 kW (115 CV) DCT",
+            "name": "N-Connecta dCi 85 kW (115 CV) DCT",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-connecta/qashqai-n-connecta-dci-85-kw-115-cv-dct2/datos",
@@ -1265,7 +1266,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.2 DIG-T 85 kW (115 CV) Tekna+",
+            "name": "1.2 DIG-T 85 kW (115 CV) Tekna+",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/teknaplus/qashqai-12-dig-t-85-kw-115-cv-tekna2/datos",
@@ -1293,7 +1294,7 @@
             ]
         },
         {
-            "name": "Qashqai Tekna DIG-T 103 kW (140 CV)",
+            "name": "Tekna DIG-T 103 kW (140 CV)",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/tekna/qashqai-tekna-dig-t-103-kw-140-cv/datos",
@@ -1321,7 +1322,7 @@
             ]
         },
         {
-            "name": "Qashqai Q-Line dCi 85 kW (115 CV)",
+            "name": "Q-Line dCi 85 kW (115 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/q-line/qashqai-q-line-dci-85-kw-115-cv/datos",
@@ -1349,7 +1350,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Connecta DIG-T 117 kW (160 CV) DCT",
+            "name": "N-Connecta DIG-T 117 kW (160 CV) DCT",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-connecta/qashqai-n-connecta-dig-t-117-kw-160-cv-dct/datos",
@@ -1377,7 +1378,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Connecta 1.6 dCi 96 kW (130 CV) Xtronic",
+            "name": "N-Connecta 1.6 dCi 96 kW (130 CV) Xtronic",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-connecta/qashqai-16-dci-96-kw-130-cv-xtronic-n-connecta/datos",
@@ -1405,7 +1406,7 @@
             ]
         },
         {
-            "name": "Qashqai Q-Line DIG-T 117 kW (160 CV)",
+            "name": "Q-Line DIG-T 117 kW (160 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/q-line/qashqai-q-line-dig-t-117-kw-160-cv/datos",
@@ -1433,7 +1434,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Connecta dCi 110 kW (150 CV)",
+            "name": "N-Connecta dCi 110 kW (150 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-connecta/qashqai-n-connecta-dci-110-kw-150-cv/datos",
@@ -1461,7 +1462,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Tec DIG-T 103 kW (140 CV)",
+            "name": "N-Tec DIG-T 103 kW (140 CV)",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-tec/qashqai-n-tec-dig-t-103-kw-140-cv/datos",
@@ -1489,7 +1490,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Connecta dCi 85 kW (115 CV)",
+            "name": "N-Connecta dCi 85 kW (115 CV)",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-connecta/qashqai-n-connecta-dci-85-kw-115-cv2/datos",
@@ -1517,7 +1518,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Motion dCi 85 kW (115 CV) DCT",
+            "name": "N-Motion dCi 85 kW (115 CV) DCT",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-motion/qashqai-n-motion-dci-85-kw-115-cv-dct/datos",
@@ -1545,7 +1546,7 @@
             ]
         },
         {
-            "name": "Qashqai Tekna dCi 85 kW (115 CV)",
+            "name": "Tekna dCi 85 kW (115 CV)",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/tekna/qashqai-tekna-dci-85-kw-115-cv/datos",
@@ -1573,7 +1574,7 @@
             ]
         },
         {
-            "name": "Qashqai Acenta dCi 110 kW (150 CV) 4x4",
+            "name": "Acenta dCi 110 kW (150 CV) 4x4",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/acenta/qashqai-acenta-dci-110-kw-150-cv-4x4/datos",
@@ -1601,7 +1602,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Connecta 1.6 dCi 96 kW (130 CV) 4x4",
+            "name": "N-Connecta 1.6 dCi 96 kW (130 CV) 4x4",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-connecta/qashqai-16-dci-96-kw-130-cv-4x4-n-connecta/datos",
@@ -1629,7 +1630,7 @@
             ]
         },
         {
-            "name": "Qashqai Tekna DIG-T 117 kW (160 CV)",
+            "name": "Tekna DIG-T 117 kW (160 CV)",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/tekna/qashqai-tekna-dig-t-117-kw-160-cv/datos",
@@ -1657,7 +1658,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Motion DIG-T 117 kW (160 CV) DCT",
+            "name": "N-Motion DIG-T 117 kW (160 CV) DCT",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-motion/qashqai-n-motion-dig-t-117-kw-160-cv-dct/datos",
@@ -1685,7 +1686,7 @@
             ]
         },
         {
-            "name": "Qashqai Tekna 1.6 dCi 96 kW (130 CV)",
+            "name": "Tekna 1.6 dCi 96 kW (130 CV)",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/tekna/qashqai-16-dci-96-kw-130-cv-tekna/datos",
@@ -1713,7 +1714,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.5 dCi 81 kW (110 CV) Tekna+",
+            "name": "1.5 dCi 81 kW (110 CV) Tekna+",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/teknaplus/qashqai-15-dci-81-kw-110-cv-tekna2/datos",
@@ -1741,7 +1742,7 @@
             ]
         },
         {
-            "name": "Qashqai Tekna+ DIG-T 103 kW (140 CV)",
+            "name": "Tekna+ DIG-T 103 kW (140 CV)",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/teknaplus/qashqai-tekna-dig-t-103-kw-140-cv2/datos",
@@ -1769,7 +1770,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.2 DIG-T 85 KW (115 CV) XTronic Tekna+",
+            "name": "1.2 DIG-T 85 KW (115 CV) XTronic Tekna+",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/teknaplus/qashqai-12-dig-t-85-kw-115-cv-xtronic-tekna2/datos",
@@ -1797,7 +1798,7 @@
             ]
         },
         {
-            "name": "Qashqai 1.6 DIG-T 120 kW (163 CV) Tekna+",
+            "name": "1.6 DIG-T 120 kW (163 CV) Tekna+",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/teknaplus/qashqai-16-dig-t-120-kw-163-cv-tekna2/datos",
@@ -1825,7 +1826,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Motion dCi 110 kW (150 CV)",
+            "name": "N-Motion dCi 110 kW (150 CV)",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-motion/qashqai-n-motion-dci-110-kw-150-cv2/datos",
@@ -1853,7 +1854,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Connecta DIG-T 117 kW (160 CV) DCT",
+            "name": "N-Connecta DIG-T 117 kW (160 CV) DCT",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-connecta/qashqai-n-connecta-dig-t-117-kw-160-cv-dct2/datos",
@@ -1881,7 +1882,7 @@
             ]
         },
         {
-            "name": "Qashqai Q-Line dCi 85 kW (115 CV) DCT",
+            "name": "Q-Line dCi 85 kW (115 CV) DCT",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/q-line/qashqai-q-line-dci-85-kw-115-cv-dct/datos",
@@ -1909,7 +1910,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Tec DIG-T 117 kW (160 CV)",
+            "name": "N-Tec DIG-T 117 kW (160 CV)",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-tec/qashqai-n-tec-dig-t-117-kw-160-cv/datos",
@@ -1937,7 +1938,7 @@
             ]
         },
         {
-            "name": "Qashqai Acenta dCi 110 kW (150 CV) 4x4 CVT",
+            "name": "Acenta dCi 110 kW (150 CV) 4x4 CVT",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/acenta/qashqai-acenta-dci-110-kw-150-cv-4x4-xtronic/datos",
@@ -1965,7 +1966,7 @@
             ]
         },
         {
-            "name": "Qashqai Q-Line dCi 110 kW (150 CV)",
+            "name": "Q-Line dCi 110 kW (150 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/q-line/qashqai-q-line-dci-110-kw-150-cv/datos",
@@ -1993,7 +1994,7 @@
             ]
         },
         {
-            "name": "Qashqai Q-Line DIG-T 117 kW (160 CV) DCT",
+            "name": "Q-Line DIG-T 117 kW (160 CV) DCT",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/q-line/qashqai-q-line-dig-t-117-kw-160-cv-dct/datos",
@@ -2021,7 +2022,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Connecta dCi 85 kW (115 CV) DCT",
+            "name": "N-Connecta dCi 85 kW (115 CV) DCT",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-connecta/qashqai-n-connecta-dci-85-kw-115-cv-dct3/datos",
@@ -2049,7 +2050,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Connecta DIG-T 117 kW (160 CV) DCT E6D-F",
+            "name": "N-Connecta DIG-T 117 kW (160 CV) DCT E6D-F",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-connecta/qashqai-n-connecta-dig-t-117-kw-160-cv-dct-e6d-f/datos",
@@ -2077,7 +2078,7 @@
             ]
         },
         {
-            "name": "Qashqai Tekna dCi 85 kW (115 CV) DCT",
+            "name": "Tekna dCi 85 kW (115 CV) DCT",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/tekna/qashqai-tekna-dci-85-kw-115-cv-dct/datos",
@@ -2105,7 +2106,7 @@
             ]
         },
         {
-            "name": "Qashqai Tekna dCi 110 kW (150 CV)",
+            "name": "Tekna dCi 110 kW (150 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/tekna/qashqai-tekna-dci-110-kw-150-cv/datos",
@@ -2133,7 +2134,7 @@
             ]
         },
         {
-            "name": "Qashqai Tekna+ dCi 85 kW (115 CV)",
+            "name": "Tekna+ dCi 85 kW (115 CV)",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/teknaplus/qashqai-tekna-dci-85-kw-115-cv2/datos",
@@ -2161,7 +2162,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Connecta dCi 110 kW (150 CV) 4x4",
+            "name": "N-Connecta dCi 110 kW (150 CV) 4x4",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-connecta/qashqai-n-connecta-dci-110-kw-150-cv-4x4/datos",
@@ -2189,7 +2190,7 @@
             ]
         },
         {
-            "name": "Qashqai Tekna DIG-T 117 kW (160 CV) DCT",
+            "name": "Tekna DIG-T 117 kW (160 CV) DCT",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/tekna/qashqai-tekna-dig-t-117-kw-160-cv-dct/datos",
@@ -2217,7 +2218,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Tec dCi 85 kW (115 CV)",
+            "name": "N-Tec dCi 85 kW (115 CV)",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-tec/qashqai-n-tec-dci-85-kw-115-cv/datos",
@@ -2245,7 +2246,7 @@
             ]
         },
         {
-            "name": "Qashqai Tekna 1.6 dCi 96 kW (130 CV) Xtronic",
+            "name": "Tekna 1.6 dCi 96 kW (130 CV) Xtronic",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/tekna/qashqai-16-dci-96-kw-130-cv-xtronic-tekna/datos",
@@ -2273,7 +2274,7 @@
             ]
         },
         {
-            "name": "Qashqai Tekna+ 1.6 dCi 96 kW (130 CV)",
+            "name": "Tekna+ 1.6 dCi 96 kW (130 CV)",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/teknaplus/qashqai-16-dci-96-kw-130-cv-tekna2/datos",
@@ -2301,7 +2302,7 @@
             ]
         },
         {
-            "name": "Qashqai Tekna+ DIG-T 117 kW (160 CV)",
+            "name": "Tekna+ DIG-T 117 kW (160 CV)",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/teknaplus/qashqai-tekna-dig-t-117-kw-160-cv2/datos",
@@ -2329,7 +2330,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Tec dCi 110 kW (150 CV)",
+            "name": "N-Tec dCi 110 kW (150 CV)",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-tec/qashqai-n-tec-dci-110-kw-150-cv/datos",
@@ -2357,7 +2358,7 @@
             ]
         },
         {
-            "name": "Qashqai Tekna 1.6 dCi 96 kW (130 CV) 4x4",
+            "name": "Tekna 1.6 dCi 96 kW (130 CV) 4x4",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/tekna/qashqai-16-dci-96-kw-130-cv-4x4-tekna/datos",
@@ -2385,7 +2386,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Tec DIG-T 117 kW (160 CV) DCT",
+            "name": "N-Tec DIG-T 117 kW (160 CV) DCT",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-tec/qashqai-n-tec-dig-t-117-kw-160-cv-dct/datos",
@@ -2413,7 +2414,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Connecta dCi 110 kW (150 CV) 4x4 CVT",
+            "name": "N-Connecta dCi 110 kW (150 CV) 4x4 CVT",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-connecta/qashqai-n-connecta-dci-110-kw-150-cv-4x4-xtronic/datos",
@@ -2441,7 +2442,7 @@
             ]
         },
         {
-            "name": "Qashqai Q-Line dCi 110 kW (150 CV) 4x4",
+            "name": "Q-Line dCi 110 kW (150 CV) 4x4",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/q-line/qashqai-q-line-dci-110-kw-150-cv-4x4/datos",
@@ -2469,7 +2470,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Tec dCi 85 kW (115 CV) DCT",
+            "name": "N-Tec dCi 85 kW (115 CV) DCT",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-tec/qashqai-n-tec-dci-85-kw-115-cv-dct/datos",
@@ -2497,7 +2498,7 @@
             ]
         },
         {
-            "name": "Qashqai Tekna+ dCi 85 kW (115 CV) DCT",
+            "name": "Tekna+ dCi 85 kW (115 CV) DCT",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/teknaplus/qashqai-tekna-dci-85-kw-115-cv-dct2/datos",
@@ -2525,7 +2526,7 @@
             ]
         },
         {
-            "name": "Qashqai Tekna+ dCi 110 kW (150 CV)",
+            "name": "Tekna+ dCi 110 kW (150 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/teknaplus/qashqai-tekna-dci-110-kw-150-cv2/datos",
@@ -2553,7 +2554,7 @@
             ]
         },
         {
-            "name": "Qashqai Tekna+ 1.6 dCi 96 kW (130 CV) Xtronic",
+            "name": "Tekna+ 1.6 dCi 96 kW (130 CV) Xtronic",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/teknaplus/qashqai-16-dci-96-kw-130-cv-xtronic-tekna2/datos",
@@ -2581,7 +2582,7 @@
             ]
         },
         {
-            "name": "Qashqai Tekna dCi 110 kW (150 CV) 4x4",
+            "name": "Tekna dCi 110 kW (150 CV) 4x4",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/tekna/qashqai-tekna-dci-110-kw-150-cv-4x4/datos",
@@ -2609,7 +2610,7 @@
             ]
         },
         {
-            "name": "Qashqai Tekna+ DIG-T 117 kW (160 CV) DCT",
+            "name": "Tekna+ DIG-T 117 kW (160 CV) DCT",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/teknaplus/qashqai-tekna-dig-t-117-kw-160-cv-dct2/datos",
@@ -2637,7 +2638,7 @@
             ]
         },
         {
-            "name": "Qashqai Tekna+ 1.6 dCi 96 kW (130 CV) 4x4",
+            "name": "Tekna+ 1.6 dCi 96 kW (130 CV) 4x4",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/teknaplus/qashqai-16-dci-96-kw-130-cv-4x4-tekna2/datos",
@@ -2665,7 +2666,7 @@
             ]
         },
         {
-            "name": "Qashqai Q-Line dCi 110 kW (150 CV) 4x4 CVT",
+            "name": "Q-Line dCi 110 kW (150 CV) 4x4 CVT",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/q-line/qashqai-q-line-dci-110-kw-150-cv-4x4-xtronic/datos",
@@ -2693,7 +2694,7 @@
             ]
         },
         {
-            "name": "Qashqai N-Tec dCi 110 kW (150 CV) 4x4",
+            "name": "N-Tec dCi 110 kW (150 CV) 4x4",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/n-tec/qashqai-n-tec-dci-110-kw-150-cv-4x4/datos",
@@ -2721,7 +2722,7 @@
             ]
         },
         {
-            "name": "Qashqai Tekna dCi 110 kW (150 CV) 4x4 CVT",
+            "name": "Tekna dCi 110 kW (150 CV) 4x4 CVT",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/tekna/qashqai-tekna-dci-110-kw-150-cv-4x4-xtronic/datos",
@@ -2749,7 +2750,7 @@
             ]
         },
         {
-            "name": "Qashqai Tekna+ dCi 110 kW (150 CV) 4x4",
+            "name": "Tekna+ dCi 110 kW (150 CV) 4x4",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/teknaplus/qashqai-tekna-dci-110-kw-150-cv-4x42/datos",
@@ -2777,7 +2778,7 @@
             ]
         },
         {
-            "name": "Qashqai Tekna+ dCi 110 kW (150 CV) 4x4 CVT",
+            "name": "Tekna+ dCi 110 kW (150 CV) 4x4 CVT",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/qashqai/2017/estandar/teknaplus/qashqai-tekna-dci-110-kw-150-cv-4x4-xtronic2/datos",

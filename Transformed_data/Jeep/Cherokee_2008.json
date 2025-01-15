@@ -1,11 +1,12 @@
 {
+    "brand": "Jeep",
     "name": "Cherokee",
     "year": "2008",
     "url": "https://www.km77.com/coches/jeep/cherokee/2008/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Cherokee 2.8 CRD Sport",
+            "name": "2.8 CRD Sport",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/jeep/cherokee/2008/estandar/sport/cherokee-28-crd-sport/datos",
@@ -196,7 +197,7 @@
             ]
         },
         {
-            "name": "Cherokee Sport 2.8 CRD",
+            "name": "Sport 2.8 CRD",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/jeep/cherokee/2008/estandar/sport/cherokee-sport-28-crd/datos",
@@ -382,7 +383,7 @@
             ]
         },
         {
-            "name": "Cherokee Limited 2.8 CRD",
+            "name": "Limited 2.8 CRD",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/jeep/cherokee/2008/estandar/limited/cherokee-limited-28-crd/datos",
@@ -574,7 +575,7 @@
             ]
         },
         {
-            "name": "Cherokee 2.8 CRD Limited",
+            "name": "2.8 CRD Limited",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/jeep/cherokee/2008/estandar/limited/cherokee-28-crd-limited/datos",
@@ -776,7 +777,7 @@
             ]
         },
         {
-            "name": "Cherokee Limited 2.8 CRD Aut.",
+            "name": "Limited 2.8 CRD Aut.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/jeep/cherokee/2008/estandar/limited/cherokee-limited-28-crd-aut/datos",

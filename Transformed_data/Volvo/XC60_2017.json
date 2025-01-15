@@ -1,11 +1,12 @@
 {
+    "brand": "Volvo",
     "name": "XC60",
     "year": "2017",
     "url": "https://www.km77.com/coches/volvo/xc60/2017/estandar",
     "price": "",
     "versions": [
         {
-            "name": "XC60 Essential B5 AWD (01/2024 - )",
+            "name": "Essential B5 AWD (01/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/xc60/2017/estandar/estandar/xc60-essential-b5-awd/datos",
@@ -28,7 +29,7 @@
             ]
         },
         {
-            "name": "XC60 Core B5 AWD (01/2024 - )",
+            "name": "Core B5 AWD (01/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/xc60/2017/estandar/estandar/xc60-core-b5-awd/datos",
@@ -51,7 +52,7 @@
             ]
         },
         {
-            "name": "XC60 Plus B5 AWD (01/2024 - )",
+            "name": "Plus B5 AWD (01/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/xc60/2017/estandar/estandar/xc60-plus-b5-awd/datos",
@@ -74,7 +75,7 @@
             ]
         },
         {
-            "name": "XC60 Core PHEV T6 eAWD (06/2022 - )",
+            "name": "Core PHEV T6 eAWD (06/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/xc60/2017/estandar/recharge/xc60-recharge-t6-core-eawd/datos",
@@ -98,7 +99,7 @@
             ]
         },
         {
-            "name": "XC60 Ultra B5 AWD (01/2024 - )",
+            "name": "Ultra B5 AWD (01/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/xc60/2017/estandar/estandar/xc60-ultra-b5-awd/datos",
@@ -121,7 +122,7 @@
             ]
         },
         {
-            "name": "XC60 Plus PHEV T6 eAWD (06/2022 - )",
+            "name": "Plus PHEV T6 eAWD (06/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/xc60/2017/estandar/recharge/xc60-recharge-t6-plus-eawd/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "XC60 Ultra PHEV T6 eAWD (01/2024 - )",
+            "name": "Ultra PHEV T6 eAWD (01/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/xc60/2017/estandar/recharge/xc60-ultra-recharge-phev-t6-eawd/datos",
@@ -169,7 +170,7 @@
             ]
         },
         {
-            "name": "XC60 Polestar Engineered PHEV T8 eAWD (02/2023 - )",
+            "name": "Polestar Engineered PHEV T8 eAWD (02/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/xc60/2017/estandar/recharge/xc60-recharge-t8-polestar-engineered-eawd/datos",

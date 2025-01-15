@@ -1,11 +1,12 @@
 {
+    "brand": "Opel",
     "name": "Mokka",
     "year": "2025",
     "url": "https://www.km77.com/coches/opel/mokka/2025/estandar",
     "price": "Desde 23.850 €",
     "versions": [
         {
-            "name": "Mokka 1.2 Turbo 136 CV Edition (10/2024 - )",
+            "name": "1.2 Turbo 136 CV Edition (10/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/opel/mokka/2025/estandar/estandar/mokka-12-turbo-136-cv-edition/datos",
@@ -25,7 +26,7 @@
             ]
         },
         {
-            "name": "Mokka 1.2 Turbo 136 CV GS (10/2024 - )",
+            "name": "1.2 Turbo 136 CV GS (10/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/opel/mokka/2025/estandar/estandar/mokka-12-turbo-136-cv-gs/datos",
@@ -45,7 +46,7 @@
             ]
         },
         {
-            "name": "Mokka Hybrid 136 CV Edition (10/2024 - )",
+            "name": "Hybrid 136 CV Edition (10/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/opel/mokka/2025/estandar/estandar/mokka-hybrid-136-cv-edition/datos",
@@ -67,7 +68,7 @@
             ]
         },
         {
-            "name": "Mokka Hybrid 136 CV GS (10/2024 - )",
+            "name": "Hybrid 136 CV GS (10/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/opel/mokka/2025/estandar/estandar/mokka-hybrid-136-cv-gs/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Mokka Electric 115 kW (156 CV) Edition (10/2024 - )",
+            "name": "Electric 115 kW (156 CV) Edition (10/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/opel/mokka/2025/estandar/electric/mokka-electrico-115-kw-156-cv-edition/datos",
@@ -111,7 +112,7 @@
             ]
         },
         {
-            "name": "Mokka Electric 115 kW (156 CV) GS (10/2024 - )",
+            "name": "Electric 115 kW (156 CV) GS (10/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/opel/mokka/2025/estandar/electric/mokka-electrico-115-kw-156-cv-gs/datos",

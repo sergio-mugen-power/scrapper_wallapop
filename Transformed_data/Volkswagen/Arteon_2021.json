@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Arteon",
     "year": "2021",
     "url": "https://www.km77.com/coches/volkswagen/arteon/2021/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Arteon 1.5 TSI 110 kW (150 CV)",
+            "name": "1.5 TSI 110 kW (150 CV)",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/arteon/2021/estandar/estandar/arteon-15-tsi-110-kw-150-cv/datos",
@@ -232,7 +233,7 @@
             ]
         },
         {
-            "name": "Arteon 2.0 TDI 110 kW (150 CV)",
+            "name": "2.0 TDI 110 kW (150 CV)",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/arteon/2021/estandar/estandar/arteon-20-tdi-110-kw-150-cv/datos",
@@ -462,7 +463,7 @@
             ]
         },
         {
-            "name": "Arteon R-Line 1.5 TSI 110 kW (150 CV)",
+            "name": "R-Line 1.5 TSI 110 kW (150 CV)",
             "start_year": "2021",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/volkswagen/arteon/2021/estandar/estandar/arteon-r-line-15-tsi-110-kw-150-cv/datos",
@@ -726,7 +727,7 @@
             ]
         },
         {
-            "name": "Arteon R-Line 2.0 TDI 110 kW (150 CV)",
+            "name": "R-Line 2.0 TDI 110 kW (150 CV)",
             "start_year": "2021",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/volkswagen/arteon/2021/estandar/estandar/arteon-r-line-20-tdi-110-kw-150-cv/datos",
@@ -993,7 +994,7 @@
             ]
         },
         {
-            "name": "Arteon Elegance 1.5 TSI 110 kW (150 CV)",
+            "name": "Elegance 1.5 TSI 110 kW (150 CV)",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/arteon/2021/estandar/estandar/arteon-elegance-15-tsi-110-kw-150-cv/datos",
@@ -1261,7 +1262,7 @@
             ]
         },
         {
-            "name": "Arteon Elegance 2.0 TDI 110 kW (150 CV)",
+            "name": "Elegance 2.0 TDI 110 kW (150 CV)",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/arteon/2021/estandar/estandar/arteon-elegance-20-tdi-110-kw-150-cv/datos",
@@ -1532,7 +1533,7 @@
             ]
         },
         {
-            "name": "Arteon Elegance 2.0 TSI 140 kW (190 CV) DSG 7 vel.",
+            "name": "Elegance 2.0 TSI 140 kW (190 CV) DSG 7 vel.",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/volkswagen/arteon/2021/estandar/estandar/arteon-elegance-20-tsi-140-kw-190-cv-dsg-7-vel/datos",
@@ -1800,7 +1801,7 @@
             ]
         },
         {
-            "name": "Arteon Elegance 2.0 TDI 110 kW (150 CV) DSG 7 vel.",
+            "name": "Elegance 2.0 TDI 110 kW (150 CV) DSG 7 vel.",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/arteon/2021/estandar/estandar/arteon-elegance-20-tdi-110-kw-150-cv-dsg-7-vel/datos",
@@ -2074,7 +2075,7 @@
             ]
         },
         {
-            "name": "Arteon R-Line 2.0 TDI 110 kW (150 CV) DSG 7 vel.",
+            "name": "R-Line 2.0 TDI 110 kW (150 CV) DSG 7 vel.",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/arteon/2021/estandar/estandar/arteon-r-line-20-tdi-110-kw-150-cv-dsg-7-vel/datos",
@@ -2349,7 +2350,7 @@
             ]
         },
         {
-            "name": "Arteon Elegance 2.0 TDI 147 kW (200 CV) DSG 7 vel.",
+            "name": "Elegance 2.0 TDI 147 kW (200 CV) DSG 7 vel.",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/volkswagen/arteon/2021/estandar/estandar/arteon-elegance-20-tdi-110-kw-150-cv-dsg-7-vel3/datos",
@@ -2617,7 +2618,7 @@
             ]
         },
         {
-            "name": "Arteon R-Line 2.0 TSI 140 kW (190 CV) DSG 7 vel.",
+            "name": "R-Line 2.0 TSI 140 kW (190 CV) DSG 7 vel.",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/arteon/2021/estandar/estandar/arteon-r-line-20-tsi-140-kw-190-cv-dsg-7-vel/datos",
@@ -2892,7 +2893,7 @@
             ]
         },
         {
-            "name": "Arteon eHybrid Elegance 1.4 TSI 160 kW (218 CV) DSG 6 vel.",
+            "name": "eHybrid Elegance 1.4 TSI 160 kW (218 CV) DSG 6 vel.",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/arteon/2021/estandar/ehybrid/arteon-ehybrid-elegance-14-tsi-160-kw-218-cv-dsg-6-vel/datos",
@@ -3180,7 +3181,7 @@
             ]
         },
         {
-            "name": "Arteon eHybrid R-Line 1.4 TSI 160 kW (218 CV) DSG 6 vel.",
+            "name": "eHybrid R-Line 1.4 TSI 160 kW (218 CV) DSG 6 vel.",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/arteon/2021/estandar/ehybrid/arteon-ehybrid-r-line-14-tsi-160-kw-218-cv-dsg-6-vel/datos",
@@ -3471,7 +3472,7 @@
             ]
         },
         {
-            "name": "Arteon R-Line 2.0 TDI 147 kW (200 CV) DSG 7 vel.",
+            "name": "R-Line 2.0 TDI 147 kW (200 CV) DSG 7 vel.",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/arteon/2021/estandar/estandar/arteon-r-line-20-tdi-147-kw-200-cv-dsg-7-vel/datos",
@@ -3746,7 +3747,7 @@
             ]
         },
         {
-            "name": "Arteon R 2.0 TSI 235 kW (320 CV) DSG 7 vel.",
+            "name": "R 2.0 TSI 235 kW (320 CV) DSG 7 vel.",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/arteon/2021/estandar/r/arteon-r-20-tsi-235-kw-320-cv-dsg-7-vel/datos",

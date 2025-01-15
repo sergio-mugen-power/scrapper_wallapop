@@ -1,11 +1,12 @@
 {
+    "brand": "KIA",
     "name": "Joice",
     "year": "2000",
     "url": "https://www.km77.com/coches/kia/joice/2000/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Joice 2.0 DOHC LS",
+            "name": "2.0 DOHC LS",
             "start_year": "1999",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/kia/joice/2000/estandar/ls/joice-20-dohc-ls/datos",
@@ -134,7 +135,7 @@
             ]
         },
         {
-            "name": "Joice 2.0 DOHC LS 7 plazas",
+            "name": "2.0 DOHC LS 7 plazas",
             "start_year": "2002",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/kia/joice/2000/estandar/ls/joice-20-dohc-ls-7-plazas/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Alfa Romeo",
     "name": "146",
     "year": "1996",
     "url": "https://www.km77.com/coches/alfa-romeo/146/1996/estandar",
     "price": "",
     "versions": [
         {
-            "name": "146 1.4 TS",
+            "name": "1.4 TS",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/alfa-romeo/146/1996/estandar/estandar/146-14-ts/datos",
@@ -140,7 +141,7 @@
             ]
         },
         {
-            "name": "146 1.6 TS",
+            "name": "1.6 TS",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/alfa-romeo/146/1996/estandar/estandar/146-16-ts/datos",
@@ -276,7 +277,7 @@
             ]
         },
         {
-            "name": "146 2.0 JTD",
+            "name": "2.0 JTD",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/alfa-romeo/146/1996/estandar/estandar/146-20-jtd/datos",
@@ -411,7 +412,7 @@
             ]
         },
         {
-            "name": "146 2.0 TI",
+            "name": "2.0 TI",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/alfa-romeo/146/1996/estandar/estandar/146-20-ti/datos",

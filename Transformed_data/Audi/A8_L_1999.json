@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "A8 L",
     "year": "1999",
     "url": "https://www.km77.com/coches/audi/a8/1999/l",
     "price": "Desde 115.850 €",
     "versions": [
         {
-            "name": "A8 L 4.2 quattro tiptronic 5 vel.",
+            "name": "4.2 quattro tiptronic 5 vel.",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/audi/a8/1999/l/estandar/a8-l-42-quattro-tiptronic-5-vel/datos",
@@ -152,7 +153,7 @@
             ]
         },
         {
-            "name": "A8 L 6.0 quattro tiptronic 5 vel.",
+            "name": "6.0 quattro tiptronic 5 vel.",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/audi/a8/1999/l/estandar/a8-l-60-quattro-tiptronic-5-vel/datos",

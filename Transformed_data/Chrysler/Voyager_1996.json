@@ -1,11 +1,12 @@
 {
+    "brand": "Chrysler",
     "name": "Voyager",
     "year": "1996",
     "url": "https://www.km77.com/coches/chrysler/voyager/1996/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Voyager SE 2.0",
+            "name": "SE 2.0",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/chrysler/voyager/1996/estandar/estandar/voyager-se-20/datos",
@@ -125,7 +126,7 @@
             ]
         },
         {
-            "name": "Voyager SE 2.4",
+            "name": "SE 2.4",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/chrysler/voyager/1996/estandar/estandar/voyager-se-24/datos",
@@ -246,7 +247,7 @@
             ]
         },
         {
-            "name": "Voyager SE 2.4 Aut.",
+            "name": "SE 2.4 Aut.",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/chrysler/voyager/1996/estandar/estandar/voyager-se-24-aut/datos",
@@ -367,7 +368,7 @@
             ]
         },
         {
-            "name": "Voyager SE 2.5 TD",
+            "name": "SE 2.5 TD",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/chrysler/voyager/1996/estandar/estandar/voyager-se-25-td/datos",
@@ -488,7 +489,7 @@
             ]
         },
         {
-            "name": "Voyager LE 2.4",
+            "name": "LE 2.4",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/chrysler/voyager/1996/estandar/estandar/voyager-le-24/datos",
@@ -618,7 +619,7 @@
             ]
         },
         {
-            "name": "Voyager LE 3.3",
+            "name": "LE 3.3",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/chrysler/voyager/1996/estandar/estandar/voyager-le-33/datos",
@@ -748,7 +749,7 @@
             ]
         },
         {
-            "name": "Voyager LE 2.5 TD",
+            "name": "LE 2.5 TD",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/chrysler/voyager/1996/estandar/estandar/voyager-le-25-td/datos",
@@ -878,7 +879,7 @@
             ]
         },
         {
-            "name": "Voyager LE 3.8 AWD",
+            "name": "LE 3.8 AWD",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/chrysler/voyager/1996/estandar/estandar/voyager-le-38-awd/datos",

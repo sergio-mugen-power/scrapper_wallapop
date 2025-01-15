@@ -1,11 +1,12 @@
 {
+    "brand": "Honda",
     "name": "CR-V",
     "year": "2002",
     "url": "https://www.km77.com/coches/honda/cr-v/2002/estandar",
     "price": "Desde 48.145 €",
     "versions": [
         {
-            "name": "CR-V 2.0 i-VTEC LS",
+            "name": "2.0 i-VTEC LS",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/honda/cr-v/2002/estandar/ls/cr-v-20-i-vtec-ls/datos",
@@ -181,7 +182,7 @@
             ]
         },
         {
-            "name": "CR-V 2.0 i-VTEC ES",
+            "name": "2.0 i-VTEC ES",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/honda/cr-v/2002/estandar/es/cr-v-20-i-vtec-es/datos",
@@ -363,7 +364,7 @@
             ]
         },
         {
-            "name": "CR-V 2.0 i-VTEC ES Aut.",
+            "name": "2.0 i-VTEC ES Aut.",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/honda/cr-v/2002/estandar/es/cr-v-20-i-vtec-es-aut/datos",
@@ -546,7 +547,7 @@
             ]
         },
         {
-            "name": "CR-V 2.0 i-VTEC EX",
+            "name": "2.0 i-VTEC EX",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/honda/cr-v/2002/estandar/ex/cr-v-20-i-vtec-ex/datos",
@@ -727,7 +728,7 @@
             ]
         },
         {
-            "name": "CR-V 2.0 i-VTEC EX Aut.",
+            "name": "2.0 i-VTEC EX Aut.",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/honda/cr-v/2002/estandar/ex/cr-v-20-i-vtec-ex-aut/datos",

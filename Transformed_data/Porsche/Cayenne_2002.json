@@ -1,11 +1,12 @@
 {
+    "brand": "Porsche",
     "name": "Cayenne",
     "year": "2002",
     "url": "https://www.km77.com/coches/porsche/cayenne/2002/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Cayenne",
+            "name": "",
             "start_year": "2003",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/porsche/cayenne/2002/estandar/estandar/cayenne/datos",
@@ -34,7 +35,7 @@
             ]
         },
         {
-            "name": "Cayenne Tiptronic",
+            "name": "Tiptronic",
             "start_year": "2003",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/porsche/cayenne/2002/estandar/estandar/cayenne-tiptronic/datos",
@@ -63,7 +64,7 @@
             ]
         },
         {
-            "name": "Cayenne S",
+            "name": "S",
             "start_year": "2002",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/porsche/cayenne/2002/estandar/s/cayenne-s/datos",
@@ -92,7 +93,7 @@
             ]
         },
         {
-            "name": "Cayenne S Tiptronic",
+            "name": "S Tiptronic",
             "start_year": "2003",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/porsche/cayenne/2002/estandar/s/cayenne-s-tiptronic/datos",
@@ -121,7 +122,7 @@
             ]
         },
         {
-            "name": "Cayenne Turbo",
+            "name": "Turbo",
             "start_year": "2002",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/porsche/cayenne/2002/estandar/turbo/cayenne-turbo/datos",
@@ -150,7 +151,7 @@
             ]
         },
         {
-            "name": "Cayenne Turbo S",
+            "name": "Turbo S",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/porsche/cayenne/2002/estandar/turbo-s/cayenne-turbo-s/datos",

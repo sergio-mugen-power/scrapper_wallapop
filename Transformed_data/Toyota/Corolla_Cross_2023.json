@@ -1,11 +1,12 @@
 {
+    "brand": "Toyota",
     "name": "Corolla Cross",
     "year": "2023",
     "url": "https://www.km77.com/coches/toyota/corolla-cross/2023/estandar",
     "price": "Desde 37.800 €",
     "versions": [
         {
-            "name": "Corolla Cross Style 1.8 Hybrid\n(06/2023 - )",
+            "name": "Style 1.8 Hybrid\n(06/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/toyota/corolla-cross/2023/estandar/estandar/corolla-cross-style-18-hybrid/datos",
@@ -246,7 +247,7 @@
             ]
         },
         {
-            "name": "Corolla Cross Style Plus 2.0 Hybrid\n(06/2023 - )",
+            "name": "Style Plus 2.0 Hybrid\n(06/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/toyota/corolla-cross/2023/estandar/estandar/corolla-cross-style-plus-20-hybrid/datos",

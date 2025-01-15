@@ -1,11 +1,12 @@
 {
+    "brand": "Alfa Romeo",
     "name": "MiTo",
     "year": "2013",
     "url": "https://www.km77.com/coches/alfa-romeo/mito/2013/estandar",
     "price": "",
     "versions": [
         {
-            "name": "MiTo 1.4 70 CV MiTo",
+            "name": "1.4 70 CV",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2013/estandar/mito/mito-14-70-cv-mito/datos",
@@ -208,7 +209,7 @@
             ]
         },
         {
-            "name": "MiTo 1.3 JTDm 85 CV S&S MiTo",
+            "name": "1.3 JTDm 85 CV S&S",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2013/estandar/mito/mito-13-85-cv-jtdm-mito/datos",
@@ -413,7 +414,7 @@
             ]
         },
         {
-            "name": "MiTo 1.3 JTDm 85 CV S&S SBK",
+            "name": "1.3 JTDm 85 CV S&S SBK",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2013/estandar/sbk/mito-13-85-cv-jtdm-sbk/datos",
@@ -616,7 +617,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 78 CV S&S Distinctive",
+            "name": "1.4 78 CV S&S Distinctive",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2013/estandar/distinctive/mito-14-78-cv-distinctive/datos",
@@ -825,7 +826,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 78 CV S&S Junior",
+            "name": "1.4 78 CV S&S Junior",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2013/estandar/junior/mito-14-78-cv-ss-junior/datos",
@@ -1027,7 +1028,7 @@
             ]
         },
         {
-            "name": "MiTo 0.9 105 CV TwinAir S&S Distinctive",
+            "name": "0.9 105 CV TwinAir S&S Distinctive",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2013/estandar/distinctive/mito-09-105-cv-twinair-ss-distinctive/datos",
@@ -1244,7 +1245,7 @@
             ]
         },
         {
-            "name": "MiTo 1.3 JTDm 85 CV S&S Distinctive",
+            "name": "1.3 JTDm 85 CV S&S Distinctive",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2013/estandar/distinctive/mito-13-85-cv-jtdm-distinctive/datos",
@@ -1462,7 +1463,7 @@
             ]
         },
         {
-            "name": "MiTo 0.9 105 CV TwinAir S&S Junior",
+            "name": "0.9 105 CV TwinAir S&S Junior",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2013/estandar/junior/mito-09-105-cv-twinair-ss-junior/datos",
@@ -1660,7 +1661,7 @@
             ]
         },
         {
-            "name": "MiTo 1.3 JTDm 85 CV S&S Junior",
+            "name": "1.3 JTDm 85 CV S&S Junior",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2013/estandar/junior/mito-13-jtdm-85-cv-ss-mito/datos",
@@ -1859,7 +1860,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 78 CV S&S Racer",
+            "name": "1.4 78 CV S&S Racer",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2013/estandar/racer/mito-14-78-cv-ss-racer/datos",
@@ -2064,7 +2065,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 170 CV S&S MultiAir Quadrifoglio Verde",
+            "name": "1.4 170 CV S&S MultiAir Quadrifoglio Verde",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2013/estandar/quadrifoglio-verde/mito-14-170-cv-multiair-quadrifoglio-verde/datos",
@@ -2271,7 +2272,7 @@
             ]
         },
         {
-            "name": "MiTo 1.6 JTDm 120 CV S&S Distinctive",
+            "name": "1.6 JTDm 120 CV S&S Distinctive",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2013/estandar/distinctive/mito-16-120-cv-jtdm-distinctive/datos",
@@ -2489,7 +2490,7 @@
             ]
         },
         {
-            "name": "MiTo 1.3 JTDm 85 CV S&S Racer",
+            "name": "1.3 JTDm 85 CV S&S Racer",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2013/estandar/racer/mito-13-jtdm-85-cv-ss-racer/datos",
@@ -2693,7 +2694,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 TB MultiAir 140 CV TCT Distinctive",
+            "name": "1.4 TB MultiAir 140 CV TCT Distinctive",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2013/estandar/distinctive/mito-14-tb-multiair-140-cv-tct-distinctive/datos",
@@ -2899,7 +2900,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 TB MultiAir 140 CV TCT Junior",
+            "name": "1.4 TB MultiAir 140 CV TCT Junior",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2013/estandar/junior/mito-14-tb-multiair-140-cv-tct-junior/datos",
@@ -3098,7 +3099,7 @@
             ]
         },
         {
-            "name": "MiTo 1.6 JTDm 120 CV S&S Racer",
+            "name": "1.6 JTDm 120 CV S&S Racer",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2013/estandar/racer/mito-16-jtdm-120-cv-ss-racer/datos",
@@ -3302,7 +3303,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 TB MultiAir 140 CV TCT Racer",
+            "name": "1.4 TB MultiAir 140 CV TCT Racer",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2013/estandar/racer/mito-14-tb-multiair-140-cv-tct-racer/datos",
@@ -3504,7 +3505,7 @@
             ]
         },
         {
-            "name": "MiTo 1.4 TB MultiAir 170 CV TCT Quadrifoglio Verde",
+            "name": "1.4 TB MultiAir 170 CV TCT Quadrifoglio Verde",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/alfa-romeo/mito/2013/estandar/quadrifoglio-verde/mito-14-multiair-170cv-quadrifoglio-verde/datos",

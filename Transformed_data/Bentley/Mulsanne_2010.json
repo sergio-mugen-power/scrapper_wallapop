@@ -1,11 +1,12 @@
 {
+    "brand": "Bentley",
     "name": "Mulsanne",
     "year": "2010",
     "url": "https://www.km77.com/coches/bentley/mulsanne/2010/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Mulsanne",
+            "name": "",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bentley/mulsanne/2010/estandar/estandar/mulsanne2/datos",
@@ -219,7 +220,7 @@
             ]
         },
         {
-            "name": "Mulsanne",
+            "name": "",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bentley/mulsanne/2010/estandar/estandar/mulsanne3/datos",
@@ -494,7 +495,7 @@
             ]
         },
         {
-            "name": "Mulsanne",
+            "name": "",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/bentley/mulsanne/2010/estandar/estandar/mulsanne4/datos",
@@ -786,7 +787,7 @@
             ]
         },
         {
-            "name": "Mulsanne",
+            "name": "",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/bentley/mulsanne/2010/estandar/estandar/mulsanne5/datos",
@@ -1043,7 +1044,7 @@
             ]
         },
         {
-            "name": "Mulsanne Speed",
+            "name": "Speed",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/bentley/mulsanne/2010/estandar/speed/mulsanne-speed/datos",

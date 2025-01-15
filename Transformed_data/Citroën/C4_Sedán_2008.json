@@ -1,11 +1,12 @@
 {
+    "brand": "Citroën",
     "name": "C4 Sedán",
     "year": "2008",
     "url": "https://www.km77.com/coches/citroen/c4/2008/sedan",
     "price": "Desde 22.750 €",
     "versions": [
         {
-            "name": "C4 Sedán LX Plus 1.6i 16v",
+            "name": "LX Plus 1.6i 16v",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/citroen/c4/2008/sedan/lx-plus/c4-sedan-lx-plus-16i-16v/datos",
@@ -143,7 +144,7 @@
             ]
         },
         {
-            "name": "C4 Sedán LX Plus HDi 110 FAP",
+            "name": "LX Plus HDi 110 FAP",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/citroen/c4/2008/sedan/lx-plus/c4-sedan-lx-plus-hdi-110-fap/datos",
@@ -284,7 +285,7 @@
             ]
         },
         {
-            "name": "C4 Sedán Collection 1.6i 16v",
+            "name": "Collection 1.6i 16v",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/citroen/c4/2008/sedan/collection/c4-sedan-collection-16i-16v/datos",
@@ -438,7 +439,7 @@
             ]
         },
         {
-            "name": "C4 Sedán Collection HDi 110 FAP",
+            "name": "Collection HDi 110 FAP",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/citroen/c4/2008/sedan/collection/c4-sedan-collection-hdi-110-fap/datos",
@@ -597,7 +598,7 @@
             ]
         },
         {
-            "name": "C4 Sedán Collection HDi 110 FAP Airdream",
+            "name": "Collection HDi 110 FAP Airdream",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/citroen/c4/2008/sedan/collection/c4-sedan-collection-hdi-110-fap-airdream/datos",
@@ -753,7 +754,7 @@
             ]
         },
         {
-            "name": "C4 Sedán Exclusive HDi 110 FAP",
+            "name": "Exclusive HDi 110 FAP",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/citroen/c4/2008/sedan/exclusive/c4-sedan-exclusive-hdi-110-fap/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Nissan",
     "name": "Juke",
     "year": "2020",
     "url": "https://www.km77.com/coches/nissan/juke/2020/estandar",
     "price": "Desde 22.375 €",
     "versions": [
         {
-            "name": "Juke Visia DIG-T 86 kW (117 CV)",
+            "name": "Visia DIG-T 86 kW (117 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/visia/juke-visia-10-turbo/datos",
@@ -196,7 +197,7 @@
             ]
         },
         {
-            "name": "Juke Visia 1.0 DIG-T 84 kW (114 CV)",
+            "name": "Visia 1.0 DIG-T 84 kW (114 CV)",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/estandar/juke-visia-dig-t-84-kw-114-cv/datos",
@@ -387,7 +388,7 @@
             ]
         },
         {
-            "name": "Juke Acenta DIG-T 86 kW (117 CV)",
+            "name": "Acenta DIG-T 86 kW (117 CV)",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/acenta/juke-acenta-10-turbo/datos",
@@ -592,7 +593,7 @@
             ]
         },
         {
-            "name": "Juke N-Connecta DIG-T 86 kW (117 CV)",
+            "name": "N-Connecta DIG-T 86 kW (117 CV)",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/n-connecta/juke-n-connecta-10-turbo/datos",
@@ -816,7 +817,7 @@
             ]
         },
         {
-            "name": "Juke Acenta DIG-T 86 kW (117 CV) DCT7",
+            "name": "Acenta DIG-T 86 kW (117 CV) DCT7",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/acenta/juke-acenta-10-turbo-dct7/datos",
@@ -1022,7 +1023,7 @@
             ]
         },
         {
-            "name": "Juke N-Connecta DIG-T 86 kW (117 CV) DCT7",
+            "name": "N-Connecta DIG-T 86 kW (117 CV) DCT7",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/n-connecta/juke-n-connecta-10-turbo-dct7/datos",
@@ -1247,7 +1248,7 @@
             ]
         },
         {
-            "name": "Juke Tekna DIG-T 86 kW (117 CV)",
+            "name": "Tekna DIG-T 86 kW (117 CV)",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/tekna/juke-tekna-10-turbo/datos",
@@ -1472,7 +1473,7 @@
             ]
         },
         {
-            "name": "Juke Enigma 1.0 DIG-T 84 kW (114 CV)",
+            "name": "Enigma 1.0 DIG-T 84 kW (114 CV)",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/estandar/juke-enigma-10-dig-t-84-kw-114-cv/datos",
@@ -1678,7 +1679,7 @@
             ]
         },
         {
-            "name": "Juke DIG-T 84 kW (114 CV) Acenta",
+            "name": "DIG-T 84 kW (114 CV) Acenta",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/estandar/juke-acenta-dig-t-84-kw-114-cv/datos",
@@ -1880,7 +1881,7 @@
             ]
         },
         {
-            "name": "Juke N-Design DIG-T 86 kW (117 CV)",
+            "name": "N-Design DIG-T 86 kW (117 CV)",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/n-design/juke-n-design-10-turbo/datos",
@@ -2109,7 +2110,7 @@
             ]
         },
         {
-            "name": "Juke Kiiro 1.0 DIG-T 84 kW (114 CV)",
+            "name": "Kiiro 1.0 DIG-T 84 kW (114 CV)",
             "start_year": "2022",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/estandar/juke-kiiro-10-dig-t-84-kw-114-cv/datos",
@@ -2324,7 +2325,7 @@
             ]
         },
         {
-            "name": "Juke DIG-T 84 kW (114 CV) N-Connecta",
+            "name": "DIG-T 84 kW (114 CV) N-Connecta",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/estandar/juke-n-connecta-10-dig-t-84-kw-114-cv/datos",
@@ -2537,7 +2538,7 @@
             ]
         },
         {
-            "name": "Juke Tekna DIG-T 86 kW (117 CV) DCT7",
+            "name": "Tekna DIG-T 86 kW (117 CV) DCT7",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/tekna/juke-tekna-10-turbo-dct7/datos",
@@ -2764,7 +2765,7 @@
             ]
         },
         {
-            "name": "Juke Enigma DIG-T 84 kW (114 CV) DCT",
+            "name": "Enigma DIG-T 84 kW (114 CV) DCT",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/estandar/juke-enigma-dig-t-84-kw-114-cv-dct/datos",
@@ -2971,7 +2972,7 @@
             ]
         },
         {
-            "name": "Juke N-Design DIG-T 86 kW (117 CV) DCT7",
+            "name": "N-Design DIG-T 86 kW (117 CV) DCT7",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/n-design/juke-n-design-10-turbo-dct7/datos",
@@ -3202,7 +3203,7 @@
             ]
         },
         {
-            "name": "Juke DIG-T 84 kW (114 CV) DCT Acenta",
+            "name": "DIG-T 84 kW (114 CV) DCT Acenta",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/estandar/juke-acenta-dig-t-84-kw-114-cv-dct/datos",
@@ -3405,7 +3406,7 @@
             ]
         },
         {
-            "name": "Juke DIG-T 84 kW (114 CV) N-Design",
+            "name": "DIG-T 84 kW (114 CV) N-Design",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/estandar/juke-n-design-10-dig-t-84-kw-114-cv/datos",
@@ -3618,7 +3619,7 @@
             ]
         },
         {
-            "name": "Juke Kiiro DIG-T 84 kW (114 CV) DCT",
+            "name": "Kiiro DIG-T 84 kW (114 CV) DCT",
             "start_year": "2022",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/estandar/juke-kiiro-dig-t-84-kw-114-cv-dct/datos",
@@ -3834,7 +3835,7 @@
             ]
         },
         {
-            "name": "Juke DIG-T 84 kW (114 CV) DCT N-Connecta",
+            "name": "DIG-T 84 kW (114 CV) DCT N-Connecta",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/estandar/juke-n-connecta-dig-t-84-kw-114-cv-dct/datos",
@@ -4048,7 +4049,7 @@
             ]
         },
         {
-            "name": "Juke Premiere Edition DIG-T 86 kW (117 CV) DCT7",
+            "name": "Premiere Edition DIG-T 86 kW (117 CV) DCT7",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/premiere-edition/juke-premiere-edition-10-turbo-dct7/datos",
@@ -4274,7 +4275,7 @@
             ]
         },
         {
-            "name": "Juke DIG-T 84 kW (114 CV) Tekna",
+            "name": "DIG-T 84 kW (114 CV) Tekna",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/estandar/juke-tekna-10-dig-t-84-kw-114-cv/datos",
@@ -4498,7 +4499,7 @@
             ]
         },
         {
-            "name": "Juke DIG-T 84 kW (114 CV) DCT N-Design",
+            "name": "DIG-T 84 kW (114 CV) DCT N-Design",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/estandar/juke-n-design-dig-t-84-kw-114-cv-dct/datos",
@@ -4712,7 +4713,7 @@
             ]
         },
         {
-            "name": "Juke DIG-T 84 kW (114 CV) DCT Tekna",
+            "name": "DIG-T 84 kW (114 CV) DCT Tekna",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/estandar/juke-tekna-dig-t-84-kw-114-cv-dct/datos",
@@ -4938,7 +4939,7 @@
             ]
         },
         {
-            "name": "Juke 1.6 Hybrid 105 kW (145 CV) N-Connecta",
+            "name": "1.6 Hybrid 105 kW (145 CV) N-Connecta",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/hybrid/juke-hybrid/datos",
@@ -5176,7 +5177,7 @@
             ]
         },
         {
-            "name": "Juke 1.6 Hybrid 105 kW (145 CV) Premiere Edition",
+            "name": "1.6 Hybrid 105 kW (145 CV) Premiere Edition",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/hybrid/juke-16-hybrid-105-kw-145-cv-premiere-edition/datos",
@@ -5415,7 +5416,7 @@
             ]
         },
         {
-            "name": "Juke 1.6 Hybrid 105 kW (145 CV) N-Design",
+            "name": "1.6 Hybrid 105 kW (145 CV) N-Design",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/hybrid/juke-16-hybrid-105-kw-145-cv-n-design/datos",
@@ -5652,7 +5653,7 @@
             ]
         },
         {
-            "name": "Juke 1.6 Hybrid 105 kW (145 CV) Tekna",
+            "name": "1.6 Hybrid 105 kW (145 CV) Tekna",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/nissan/juke/2020/estandar/hybrid/juke-16-hybrid-105-kw-145-cv-tekna/datos",

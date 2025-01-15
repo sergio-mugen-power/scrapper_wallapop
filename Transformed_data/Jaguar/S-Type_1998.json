@@ -1,11 +1,12 @@
 {
+    "brand": "Jaguar",
     "name": "S-Type",
     "year": "1998",
     "url": "https://www.km77.com/coches/jaguar/s-type/1998/estandar",
     "price": "",
     "versions": [
         {
-            "name": "S-Type 2.5 V6",
+            "name": "2.5 V6",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/jaguar/s-type/1998/estandar/estandar/s-type-25-v6/datos",
@@ -160,7 +161,7 @@
             ]
         },
         {
-            "name": "S-Type 3.0 V6",
+            "name": "3.0 V6",
             "start_year": "1998",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/jaguar/s-type/1998/estandar/estandar/s-type-30-v6/datos",
@@ -309,7 +310,7 @@
             ]
         },
         {
-            "name": "S-Type 2.5 V6 Aut.",
+            "name": "2.5 V6 Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/jaguar/s-type/1998/estandar/estandar/s-type-25-v6-aut/datos",
@@ -464,7 +465,7 @@
             ]
         },
         {
-            "name": "S-Type 3.0 V6 Aut.",
+            "name": "3.0 V6 Aut.",
             "start_year": "1998",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/jaguar/s-type/1998/estandar/estandar/s-type-30-v6-aut/datos",
@@ -614,7 +615,7 @@
             ]
         },
         {
-            "name": "S-Type 2.5 V6 Sport",
+            "name": "2.5 V6 Sport",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/jaguar/s-type/1998/estandar/sport/s-type-25-v6-sport/datos",
@@ -767,7 +768,7 @@
             ]
         },
         {
-            "name": "S-Type 2.5 V6 Executive",
+            "name": "2.5 V6 Executive",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/jaguar/s-type/1998/estandar/executive/s-type-25-v6-executive/datos",
@@ -922,7 +923,7 @@
             ]
         },
         {
-            "name": "S-Type 3.0 Sport V6",
+            "name": "3.0 Sport V6",
             "start_year": "1998",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/jaguar/s-type/1998/estandar/sport/s-type-30-sport-v6/datos",
@@ -1071,7 +1072,7 @@
             ]
         },
         {
-            "name": "S-Type 3.0 Executive V6",
+            "name": "3.0 Executive V6",
             "start_year": "1998",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/jaguar/s-type/1998/estandar/executive/s-type-30-executive-v6/datos",
@@ -1222,7 +1223,7 @@
             ]
         },
         {
-            "name": "S-Type 2.5 V6 Sport Aut.",
+            "name": "2.5 V6 Sport Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/jaguar/s-type/1998/estandar/sport/s-type-25-v6-sport-aut/datos",
@@ -1377,7 +1378,7 @@
             ]
         },
         {
-            "name": "S-Type 3.0 V6 Sport",
+            "name": "3.0 V6 Sport",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/jaguar/s-type/1998/estandar/sport/s-type-30-v6-sport/datos",
@@ -1530,7 +1531,7 @@
             ]
         },
         {
-            "name": "S-Type 3.0 Sport V6 Aut.",
+            "name": "3.0 Sport V6 Aut.",
             "start_year": "1998",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/jaguar/s-type/1998/estandar/sport/s-type-30-sport-v6-aut/datos",
@@ -1681,7 +1682,7 @@
             ]
         },
         {
-            "name": "S-Type 3.0 V6 Executive",
+            "name": "3.0 V6 Executive",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/jaguar/s-type/1998/estandar/executive/s-type-30-v6-executive/datos",
@@ -1836,7 +1837,7 @@
             ]
         },
         {
-            "name": "S-Type 3.0 V6 Sport Aut.",
+            "name": "3.0 V6 Sport Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/jaguar/s-type/1998/estandar/sport/s-type-30-v6-sport-aut/datos",
@@ -1991,7 +1992,7 @@
             ]
         },
         {
-            "name": "S-Type 4.0 V8",
+            "name": "4.0 V8",
             "start_year": "1998",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/jaguar/s-type/1998/estandar/estandar/s-type-40-v8/datos",
@@ -2142,7 +2143,7 @@
             ]
         },
         {
-            "name": "S-Type 4.2 V8 Executive",
+            "name": "4.2 V8 Executive",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/jaguar/s-type/1998/estandar/executive/s-type-42-v8-executive/datos",
@@ -2297,7 +2298,7 @@
             ]
         },
         {
-            "name": "S-Type 4.0 Sport V8",
+            "name": "4.0 Sport V8",
             "start_year": "1998",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/jaguar/s-type/1998/estandar/sport/s-type-40-sport-v8/datos",
@@ -2448,7 +2449,7 @@
             ]
         },
         {
-            "name": "S-Type R V8",
+            "name": "R V8",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/jaguar/s-type/1998/estandar/r/s-type-r-v8/datos",

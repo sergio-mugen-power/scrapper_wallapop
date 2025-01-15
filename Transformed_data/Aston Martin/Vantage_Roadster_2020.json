@@ -1,11 +1,12 @@
 {
+    "brand": "Aston Martin",
     "name": "Vantage Roadster",
     "year": "2020",
     "url": "https://www.km77.com/coches/aston-martin/vantage/2020/roadster",
     "price": "",
     "versions": [
         {
-            "name": "V8 Vantage Roadster (02/2020 - )",
+            "name": "V8  (02/2020 - )",
             "start_year": "2020",
             "end_year": "",
             "url": "https://www.km77.com/coches/aston-martin/vantage/2020/roadster/estandar/vantage-roadster/datos",
@@ -93,7 +94,7 @@
             ]
         },
         {
-            "name": "V12 Vantage Roadster ( - )",
+            "name": "V12  ( - )",
             "start_year": "Desconocido",
             "end_year": "Desconocido",
             "url": "https://www.km77.com/coches/aston-martin/vantage/2020/roadster/v12/v12-vantage-roadster/datos",

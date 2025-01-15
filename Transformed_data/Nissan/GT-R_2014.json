@@ -1,11 +1,12 @@
 {
+    "brand": "Nissan",
     "name": "GT-R",
     "year": "2014",
     "url": "https://www.km77.com/coches/nissan/gt-r/2014/estandar",
     "price": "",
     "versions": [
         {
-            "name": "GT-R 3.8 V6 550 CV Premium Edition",
+            "name": "3.8 V6 550 CV Premium Edition",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/gt-r/2014/estandar/premium-edition/gt-r-2014/datos",
@@ -188,7 +189,7 @@
             ]
         },
         {
-            "name": "GT-R 3.8 V6 550 CV Black Edition",
+            "name": "3.8 V6 550 CV Black Edition",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/nissan/gt-r/2014/estandar/black-edition/gt-r-38-v6-550-cv-black-edition/datos",
@@ -374,7 +375,7 @@
             ]
         },
         {
-            "name": "GT-R 3.8 V6 550 CV Track Edition (enginereed by NISMO)",
+            "name": "3.8 V6 550 CV Track Edition (enginereed by NISMO)",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/nissan/gt-r/2014/estandar/track-edition/gt-r-38-v6-550-cv-track-edition-enginereed-by-nismo/datos",
@@ -562,7 +563,7 @@
             ]
         },
         {
-            "name": "GT-R 3.8 V6 600 CV NISMO",
+            "name": "3.8 V6 600 CV NISMO",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/nissan/gt-r/2014/estandar/nismo/gt-r-nismo-2014/datos",

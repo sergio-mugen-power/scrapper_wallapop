@@ -1,11 +1,12 @@
 {
+    "brand": "Honda",
     "name": "Jazz",
     "year": "2020",
     "url": "https://www.km77.com/coches/honda/jazz/2020/estandar",
     "price": "Desde 27.750 €",
     "versions": [
         {
-            "name": "Jazz 1.5 i-MMD Comfort",
+            "name": "1.5 i-MMD Comfort",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/honda/jazz/2020/estandar/comfort/jazz-15-i-mmd-comfort/datos",
@@ -238,7 +239,7 @@
             ]
         },
         {
-            "name": "Jazz 1.5 i-MMD Elegance",
+            "name": "1.5 i-MMD Elegance",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/honda/jazz/2020/estandar/elegance/jazz-15-i-mmd-elegance/datos",
@@ -476,7 +477,7 @@
             ]
         },
         {
-            "name": "Jazz 1.5 i-MMD Executive",
+            "name": "1.5 i-MMD Executive",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/honda/jazz/2020/estandar/executive/jazz-15-i-mmd-executive/datos",

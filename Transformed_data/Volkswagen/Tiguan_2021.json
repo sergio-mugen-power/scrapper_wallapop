@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Tiguan",
     "year": "2021",
     "url": "https://www.km77.com/coches/volkswagen/tiguan/2021/estandar",
     "price": "Desde 36.285 €",
     "versions": [
         {
-            "name": "Tiguan 1.5 TSI 96 kW (130 CV)",
+            "name": "1.5 TSI 96 kW (130 CV)",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2021/estandar/estandar/tiguan/datos",
@@ -25,7 +26,7 @@
             ]
         },
         {
-            "name": "Tiguan 2.0 TDI 90 kW (122 CV)",
+            "name": "2.0 TDI 90 kW (122 CV)",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2021/estandar/estandar/tiguan-20-tdi-90-kw-122-cv/datos",
@@ -45,7 +46,7 @@
             ]
         },
         {
-            "name": "Tiguan Life 1.5 TSI 96 kW (130 CV)",
+            "name": "Life 1.5 TSI 96 kW (130 CV)",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2021/estandar/estandar/tiguan-life-15-tsi-96-kw-130-cv/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "Tiguan Life 1.5 TSI 110 kW (150 CV)",
+            "name": "Life 1.5 TSI 110 kW (150 CV)",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2021/estandar/estandar/tiguan-15-tsi-150-cv/datos",
@@ -86,7 +87,7 @@
             ]
         },
         {
-            "name": "Tiguan Life 2.0 TDI 110 kW (150 CV)",
+            "name": "Life 2.0 TDI 110 kW (150 CV)",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2021/estandar/estandar/tiguan-life-20-tdi-110-kw-150-cv/datos",
@@ -107,7 +108,7 @@
             ]
         },
         {
-            "name": "Tiguan Life 1.5 TSI 96 kW (130 CV)",
+            "name": "Life 1.5 TSI 96 kW (130 CV)",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2021/estandar/estandar/tiguan-life-15-tsi-96-kw-130-cv2/datos",
@@ -128,7 +129,7 @@
             ]
         },
         {
-            "name": "Tiguan Life 1.5 TSI 110 kW (150 CV) DSG 7 vel.",
+            "name": "Life 1.5 TSI 110 kW (150 CV) DSG 7 vel.",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2021/estandar/estandar/tiguan-15-tsi-150-cv-dsg/datos",
@@ -149,7 +150,7 @@
             ]
         },
         {
-            "name": "Tiguan Urban Sport 1.5 TSI 96 kW (130 CV)",
+            "name": "Urban Sport 1.5 TSI 96 kW (130 CV)",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2021/estandar/estandar/tiguan-urban-sport-15-tsi-96-kw-130-cv/datos",
@@ -170,7 +171,7 @@
             ]
         },
         {
-            "name": "Tiguan Life 2.0 TDI 90 kW (122 CV)",
+            "name": "Life 2.0 TDI 90 kW (122 CV)",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2021/estandar/estandar/tiguan-life-20-tdi-90-kw-122-cv/datos",
@@ -191,7 +192,7 @@
             ]
         },
         {
-            "name": "Tiguan Urban Sport 1.5 TSI 110 kW (150 CV)",
+            "name": "Urban Sport 1.5 TSI 110 kW (150 CV)",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2021/estandar/estandar/tiguan-urban-sport-15-tsi-110-kw-150-cv/datos",
@@ -212,7 +213,7 @@
             ]
         },
         {
-            "name": "Tiguan Life 2.0 TDI 110 kW (150 CV) DSG 7 vel.",
+            "name": "Life 2.0 TDI 110 kW (150 CV) DSG 7 vel.",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2021/estandar/estandar/tiguan-life-20-tdi-110-kw-150-cv-dsg/datos",
@@ -233,7 +234,7 @@
             ]
         },
         {
-            "name": "Tiguan Urban Sport 2.0 TDI 90 kW (122 CV)",
+            "name": "Urban Sport 2.0 TDI 90 kW (122 CV)",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2021/estandar/estandar/tiguan-urban-sport-20-tdi-90-kw-122-cv/datos",
@@ -254,7 +255,7 @@
             ]
         },
         {
-            "name": "Tiguan Urban Sport 2.0 TDI 110 kW (150 CV)",
+            "name": "Urban Sport 2.0 TDI 110 kW (150 CV)",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2021/estandar/estandar/tiguan-urban-sport-20-tdi-110-kw-150-cv/datos",
@@ -275,7 +276,7 @@
             ]
         },
         {
-            "name": "Tiguan Urban Sport 1.5 TSI 110 kW (150 CV) DSG 7 vel.",
+            "name": "Urban Sport 1.5 TSI 110 kW (150 CV) DSG 7 vel.",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2021/estandar/estandar/tiguan-urban-sport-15-tsi-110-kw-150-cv-dsg-7-vel/datos",
@@ -296,7 +297,7 @@
             ]
         },
         {
-            "name": "Tiguan R-Line 2.0 TDI 110 kW (150 CV)",
+            "name": "R-Line 2.0 TDI 110 kW (150 CV)",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2021/estandar/estandar/tiguan-r-line-20-tdi-110-kw-150-cv/datos",
@@ -317,7 +318,7 @@
             ]
         },
         {
-            "name": "Tiguan Urban Sport 2.0 TDI 110 kW (150 CV) DSG 7 vel.",
+            "name": "Urban Sport 2.0 TDI 110 kW (150 CV) DSG 7 vel.",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2021/estandar/estandar/tiguan-urban-sport-20-tdi-110-kw-150-cv-dsg-7-vel/datos",
@@ -338,7 +339,7 @@
             ]
         },
         {
-            "name": "Tiguan eHybrid Life 1.4 TSI 180 kW (245 CV) DSG 6 vel.",
+            "name": "eHybrid Life 1.4 TSI 180 kW (245 CV) DSG 6 vel.",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2021/estandar/ehybrid/tiguan-ehybrid/datos",
@@ -362,7 +363,7 @@
             ]
         },
         {
-            "name": "Tiguan R-Line 2.0 TDI 110 kW (150 CV) DSG 7 vel.",
+            "name": "R-Line 2.0 TDI 110 kW (150 CV) DSG 7 vel.",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2021/estandar/estandar/tiguan-r-line-20-tdi-110-kw-150-cv-dsg/datos",
@@ -383,7 +384,7 @@
             ]
         },
         {
-            "name": "Tiguan R-Line 1.5 TSI 110 kW (150 CV) DSG 7 vel.",
+            "name": "R-Line 1.5 TSI 110 kW (150 CV) DSG 7 vel.",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2021/estandar/estandar/tiguan-r-line-15-tsi-110-kw-150-cv-dsg/datos",
@@ -404,7 +405,7 @@
             ]
         },
         {
-            "name": "Tiguan R-Line 2.0 TDI 110 kW (150 CV) 4Motion DSG 7 vel.",
+            "name": "R-Line 2.0 TDI 110 kW (150 CV) 4Motion DSG 7 vel.",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2021/estandar/estandar/tiguan-20-tdi-150-cv-4motion-dsg/datos",
@@ -424,7 +425,7 @@
             ]
         },
         {
-            "name": "Tiguan eHybrid R-Line 1.4 TSI 180 kW (245 CV) DSG 6 vel.",
+            "name": "eHybrid R-Line 1.4 TSI 180 kW (245 CV) DSG 6 vel.",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2021/estandar/ehybrid/tiguan-ehybrid-r-line-14-tsi-180-kw-245-cv-dsg-6-vel/datos",
@@ -448,7 +449,7 @@
             ]
         },
         {
-            "name": "Tiguan R-Line 2.0 TDI 110 kW (150 CV) 4Motion DSG 7 vel.",
+            "name": "R-Line 2.0 TDI 110 kW (150 CV) 4Motion DSG 7 vel.",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2021/estandar/estandar/tiguan-r-line-20-tdi-110-kw-150-cv-4motion-dsg-7-vel/datos",
@@ -469,7 +470,7 @@
             ]
         },
         {
-            "name": "Tiguan R-Line 2.0 TDI 147 kW (200 CV) 4Motion DSG 7 vel.",
+            "name": "R-Line 2.0 TDI 147 kW (200 CV) 4Motion DSG 7 vel.",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2021/estandar/estandar/tiguan-r-line-20-tdi-147-kw-200-cv-4motion-dsg/datos",
@@ -490,7 +491,7 @@
             ]
         },
         {
-            "name": "Tiguan R-Line 2.0 TSI 140 kW (190 CV) 4Motion DSG 7 vel.",
+            "name": "R-Line 2.0 TSI 140 kW (190 CV) 4Motion DSG 7 vel.",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2021/estandar/estandar/tiguan-r-line-20-tsi-140-kw-190-cv-4motion-dsg-7-vel/datos",
@@ -511,7 +512,7 @@
             ]
         },
         {
-            "name": "Tiguan R 2.0 TSI 235 kW (320 CV) 4Motion DSG 7 vel.",
+            "name": "R 2.0 TSI 235 kW (320 CV) 4Motion DSG 7 vel.",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2021/estandar/r/tiguan-r/datos",

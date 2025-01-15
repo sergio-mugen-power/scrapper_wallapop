@@ -1,11 +1,12 @@
 {
+    "brand": "Volvo",
     "name": "V60 Cross Country",
     "year": "2019",
     "url": "https://www.km77.com/coches/volvo/v60/2019/cross-country",
     "price": "",
     "versions": [
         {
-            "name": "V60 Cross Country B4 Diesel AWD",
+            "name": "B4 Diesel AWD",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volvo/v60/2019/cross-country/estandar/v60-cross-country-b4-diesel-awd/datos",
@@ -27,7 +28,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country D4 AWD",
+            "name": "D4 AWD",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volvo/v60/2019/cross-country/estandar/v60-cross-country-d4-awd3/datos",
@@ -47,7 +48,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country B5 Gasolina AWD",
+            "name": "B5 Gasolina AWD",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volvo/v60/2019/cross-country/estandar/v60-cross-country-b5-gasolina-awd/datos",
@@ -69,7 +70,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country T5 AWD",
+            "name": "T5 AWD",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volvo/v60/2019/cross-country/estandar/v60-cross-country-t5-awd/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country Pro B4 Diesel AWD",
+            "name": "Pro B4 Diesel AWD",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volvo/v60/2019/cross-country/estandar/v60-cross-country-pro-b4-diesel-awd/datos",
@@ -111,7 +112,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country D4 AWD Pro",
+            "name": "D4 AWD Pro",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volvo/v60/2019/cross-country/pro/v60-cross-country-d4-awd-pro/datos",
@@ -131,7 +132,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country D4 AWD Pro",
+            "name": "D4 AWD Pro",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volvo/v60/2019/cross-country/pro/v60-cross-country-d4-awd-pro2/datos",
@@ -151,7 +152,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country T5 AWD Pro",
+            "name": "T5 AWD Pro",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volvo/v60/2019/cross-country/pro/v60-cross-country-t5-awd-pro2/datos",
@@ -171,7 +172,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country T5 AWD Pro",
+            "name": "T5 AWD Pro",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volvo/v60/2019/cross-country/pro/v60-cross-country-t5-awd-pro/datos",
@@ -191,7 +192,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country Core B4 Diesel AWD",
+            "name": "Core B4 Diesel AWD",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volvo/v60/2019/cross-country/estandar/v60-cross-country-core-b4-diesel-awd/datos",
@@ -213,7 +214,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country Pro B5 Gasolina AWD",
+            "name": "Pro B5 Gasolina AWD",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volvo/v60/2019/cross-country/estandar/v60-cross-country-b5-gasolina-awd-pro/datos",
@@ -235,7 +236,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country Plus B4 Diesel AWD",
+            "name": "Plus B4 Diesel AWD",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volvo/v60/2019/cross-country/estandar/v60-cross-country-plus-b4-diesel-awd/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country Core B5 Gasolina AWD",
+            "name": "Core B5 Gasolina AWD",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volvo/v60/2019/cross-country/estandar/v60-cross-country-core-b5-gasolina-awd/datos",
@@ -279,7 +280,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country Plus B5 Gasolina AWD",
+            "name": "Plus B5 Gasolina AWD",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volvo/v60/2019/cross-country/estandar/v60-cross-country-plus-b5-gasolina-awd/datos",
@@ -301,7 +302,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country Ultimate B4 Diesel AWD",
+            "name": "Ultimate B4 Diesel AWD",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volvo/v60/2019/cross-country/estandar/v60-cross-country-ultimate-b4-diesel-awd/datos",
@@ -323,7 +324,7 @@
             ]
         },
         {
-            "name": "V60 Cross Country Ultimate B5 Gasolina AWD",
+            "name": "Ultimate B5 Gasolina AWD",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volvo/v60/2019/cross-country/estandar/v60-cross-country-ultimate-b5-gasolina-awd2/datos",

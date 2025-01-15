@@ -1,11 +1,12 @@
 {
+    "brand": "Ford",
     "name": "Mondeo Wagon",
     "year": "2005",
     "url": "https://www.km77.com/coches/ford/mondeo/2005/wagon",
     "price": "",
     "versions": [
         {
-            "name": "Mondeo Wagon Futura X 2.0 TDCi 115cv 6 vel.",
+            "name": "Futura X 2.0 TDCi 115cv 6 vel.",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/mondeo/2005/wagon/futura-x/mondeo-wagon-futura-x-20-tdci-115cv-6-vel/datos",
@@ -174,7 +175,7 @@
             ]
         },
         {
-            "name": "Mondeo Wagon Trend 2.0i 16V 145cv 5 vel.",
+            "name": "Trend 2.0i 16V 145cv 5 vel.",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/mondeo/2005/wagon/trend/mondeo-wagon-trend-20i-16v-145cv-5-vel/datos",
@@ -341,7 +342,7 @@
             ]
         },
         {
-            "name": "Mondeo Wagon Ghia 2.0i 16V 145cv 5 vel.",
+            "name": "Ghia 2.0i 16V 145cv 5 vel.",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/mondeo/2005/wagon/ghia/mondeo-wagon-ghia-20i-16v-145cv-5-vel/datos",
@@ -508,7 +509,7 @@
             ]
         },
         {
-            "name": "Mondeo Wagon Futura X 2.0 TDCi 130cv 6 vel.",
+            "name": "Futura X 2.0 TDCi 130cv 6 vel.",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/mondeo/2005/wagon/futura-x/mondeo-wagon-futura-x-20-tdci-130cv-6-vel/datos",
@@ -677,7 +678,7 @@
             ]
         },
         {
-            "name": "Mondeo Wagon Trend 2.0 TDCi 115cv 6 vel.",
+            "name": "Trend 2.0 TDCi 115cv 6 vel.",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/mondeo/2005/wagon/trend/mondeo-wagon-trend-20-tdci-115cv-6-vel/datos",
@@ -844,7 +845,7 @@
             ]
         },
         {
-            "name": "Mondeo Wagon Trend 2.0 TDCi 130cv 6 vel.",
+            "name": "Trend 2.0 TDCi 130cv 6 vel.",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/mondeo/2005/wagon/trend/mondeo-wagon-trend-20-tdci-130cv-6-vel/datos",
@@ -1011,7 +1012,7 @@
             ]
         },
         {
-            "name": "Mondeo Wagon Ghia 2.0 TDCi 130cv 6 vel.",
+            "name": "Ghia 2.0 TDCi 130cv 6 vel.",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/mondeo/2005/wagon/ghia/mondeo-wagon-ghia-20-tdci-130cv-6-vel/datos",
@@ -1178,7 +1179,7 @@
             ]
         },
         {
-            "name": "Mondeo Wagon Titanium 2.0 TDCi 130cv 6 vel.",
+            "name": "Titanium 2.0 TDCi 130cv 6 vel.",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/mondeo/2005/wagon/titanium/mondeo-wagon-titanium-20-tdci-130cv-6-vel/datos",
@@ -1348,7 +1349,7 @@
             ]
         },
         {
-            "name": "Mondeo Wagon Trend 2.2 TDCi 155cv 6 vel.",
+            "name": "Trend 2.2 TDCi 155cv 6 vel.",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/mondeo/2005/wagon/trend/mondeo-wagon-trend-22-tdci-155cv-6-vel/datos",
@@ -1515,7 +1516,7 @@
             ]
         },
         {
-            "name": "Mondeo Wagon Titanium 2.2 TDCi 155cv 6 vel.",
+            "name": "Titanium 2.2 TDCi 155cv 6 vel.",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/mondeo/2005/wagon/titanium/mondeo-wagon-titanium-22-tdci-155cv-6-vel/datos",
@@ -1685,7 +1686,7 @@
             ]
         },
         {
-            "name": "Mondeo Wagon Ghia 2.2 TDCi 155cv 6 vel.",
+            "name": "Ghia 2.2 TDCi 155cv 6 vel.",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/mondeo/2005/wagon/ghia/mondeo-wagon-ghia-22-tdci-155cv-6-vel/datos",
@@ -1850,7 +1851,7 @@
             ]
         },
         {
-            "name": "Mondeo Wagon Ghia X 2.0 TDCi 130cv 6 vel.",
+            "name": "Ghia X 2.0 TDCi 130cv 6 vel.",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/mondeo/2005/wagon/ghia-x/mondeo-wagon-ghia-x-20-tdci-130cv-6-vel/datos",
@@ -2020,7 +2021,7 @@
             ]
         },
         {
-            "name": "Mondeo Wagon Titanium X 2.0 TDCi 130cv 6 vel.",
+            "name": "Titanium X 2.0 TDCi 130cv 6 vel.",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/mondeo/2005/wagon/titanium-x/mondeo-wagon-titanium-x-20-tdci-130cv-6-vel/datos",
@@ -2191,7 +2192,7 @@
             ]
         },
         {
-            "name": "Mondeo Wagon Ghia 3.0i V6 204cv 6 vel.",
+            "name": "Ghia 3.0i V6 204cv 6 vel.",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/mondeo/2005/wagon/ghia/mondeo-wagon-ghia-30i-v6-204cv-6-vel/datos",
@@ -2356,7 +2357,7 @@
             ]
         },
         {
-            "name": "Mondeo Wagon Titanium X 2.2 TDCi 155cv 6 vel.",
+            "name": "Titanium X 2.2 TDCi 155cv 6 vel.",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/mondeo/2005/wagon/titanium-x/mondeo-wagon-titanium-x-22-tdci-155cv-6-vel/datos",
@@ -2529,7 +2530,7 @@
             ]
         },
         {
-            "name": "Mondeo Wagon Ghia X 2.2 TDCi 155cv 6 vel.",
+            "name": "Ghia X 2.2 TDCi 155cv 6 vel.",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/mondeo/2005/wagon/ghia-x/mondeo-wagon-ghia-x-22-tdci-155cv-6-vel/datos",
@@ -2699,7 +2700,7 @@
             ]
         },
         {
-            "name": "Mondeo Wagon Ghia X 3.0i V6 204cv 6 vel.",
+            "name": "Ghia X 3.0i V6 204cv 6 vel.",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/mondeo/2005/wagon/ghia-x/mondeo-wagon-ghia-x-30i-v6-204cv-6-vel/datos",
@@ -2869,7 +2870,7 @@
             ]
         },
         {
-            "name": "Mondeo Wagon Ghia X 2.0 TDCi 130cv 5Tronic 5 vel.",
+            "name": "Ghia X 2.0 TDCi 130cv 5Tronic 5 vel.",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/mondeo/2005/wagon/ghia-x/mondeo-wagon-ghia-x-20-tdci-130cv-5tronic-5-vel/datos",
@@ -3038,7 +3039,7 @@
             ]
         },
         {
-            "name": "Mondeo Wagon ST 220 3.0i V6 226cv 6 vel.",
+            "name": "ST 220 3.0i V6 226cv 6 vel.",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/mondeo/2005/wagon/st/mondeo-wagon-st-220-30i-v6-226cv-6-vel/datos",

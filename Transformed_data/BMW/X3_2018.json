@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "X3",
     "year": "2018",
     "url": "https://www.km77.com/coches/bmw/x3/2018/estandar",
     "price": "Desde 63.100 €",
     "versions": [
         {
-            "name": "X3 sDrive18d",
+            "name": "sDrive18d",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/estandar/x3-sdrive18d/datos",
@@ -320,7 +321,7 @@
             ]
         },
         {
-            "name": "X3 sDrive18d Aut.",
+            "name": "sDrive18d Aut.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/estandar/x3-sdrive18d-aut/datos",
@@ -651,7 +652,7 @@
             ]
         },
         {
-            "name": "X3 sDrive18d Aut.",
+            "name": "sDrive18d Aut.",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/estandar/x3-sdrive18d-aut2/datos",
@@ -978,7 +979,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20i",
+            "name": "xDrive20i",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/estandar/x3-xdrive20i/datos",
@@ -1296,7 +1297,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20i",
+            "name": "xDrive20i",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/estandar/x3-xdrive20i2/datos",
@@ -1623,7 +1624,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20d",
+            "name": "xDrive20d",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/estandar/x3-xdrive20d/datos",
@@ -1942,7 +1943,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20d",
+            "name": "xDrive20d",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/estandar/x3-xdrive20d2/datos",
@@ -2264,7 +2265,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20i",
+            "name": "xDrive20i",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/estandar/x3-xdrive20i3/datos",
@@ -2582,7 +2583,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20d",
+            "name": "xDrive20d",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/estandar/x3-xdrive20d3/datos",
@@ -2910,7 +2911,7 @@
             ]
         },
         {
-            "name": "X3 xDrive25d",
+            "name": "xDrive25d",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/estandar/x3-xdrive25d2/datos",
@@ -3237,7 +3238,7 @@
             ]
         },
         {
-            "name": "X3 xDrive30i",
+            "name": "xDrive30i",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/estandar/x3-xdrive30i/datos",
@@ -3555,7 +3556,7 @@
             ]
         },
         {
-            "name": "X3 xDrive30i",
+            "name": "xDrive30i",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/estandar/x3-xdrive30i2/datos",
@@ -3882,7 +3883,7 @@
             ]
         },
         {
-            "name": "X3 xDrive30i",
+            "name": "xDrive30i",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/estandar/x3-xdrive30i3/datos",
@@ -4200,7 +4201,7 @@
             ]
         },
         {
-            "name": "X3 xDrive30d",
+            "name": "xDrive30d",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/estandar/x3-xdrive30d/datos",
@@ -4519,7 +4520,7 @@
             ]
         },
         {
-            "name": "X3 xDrive30d",
+            "name": "xDrive30d",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/estandar/x3-xdrive30d2/datos",
@@ -4856,7 +4857,7 @@
             ]
         },
         {
-            "name": "X3 xDrive30d",
+            "name": "xDrive30d",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/estandar/x3-xdrive30d3/datos",
@@ -5184,7 +5185,7 @@
             ]
         },
         {
-            "name": "X3 xDrive30e",
+            "name": "xDrive30e",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/e/x3-xdrive30e/datos",
@@ -5509,7 +5510,7 @@
             ]
         },
         {
-            "name": "X3 M40i",
+            "name": "M40i",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/m-performance/x3-m40i/datos",
@@ -5810,7 +5811,7 @@
             ]
         },
         {
-            "name": "X3 M40d",
+            "name": "M40d",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/m-performance/x3-m40d/datos",
@@ -6119,7 +6120,7 @@
             ]
         },
         {
-            "name": "X3 M40d",
+            "name": "M40d",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/m-performance/x3-m40d2/datos",
@@ -6438,7 +6439,7 @@
             ]
         },
         {
-            "name": "X3 M40d",
+            "name": "M40d",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/m-performance/x3-m40d3/datos",
@@ -6768,7 +6769,7 @@
             ]
         },
         {
-            "name": "X3 M40i",
+            "name": "M40i",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/m-performance/x3-m40i2/datos",
@@ -7084,7 +7085,7 @@
             ]
         },
         {
-            "name": "X3 M40i",
+            "name": "M40i",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/m-performance/x3-m40i3/datos",
@@ -7401,7 +7402,7 @@
             ]
         },
         {
-            "name": "X3 M",
+            "name": "M",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/m/x3-m2/datos",
@@ -7712,7 +7713,7 @@
             ]
         },
         {
-            "name": "X3 M",
+            "name": "M",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/m/x3-m/datos",
@@ -8021,7 +8022,7 @@
             ]
         },
         {
-            "name": "X3 M Competition",
+            "name": "M Competition",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/m-competition/x3-m-competition3/datos",
@@ -8325,7 +8326,7 @@
             ]
         },
         {
-            "name": "X3 M Competition",
+            "name": "M Competition",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x3/2018/estandar/m-competition/x3-m-competition/datos",

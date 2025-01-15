@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "T-Cross",
     "year": "2024",
     "url": "https://www.km77.com/coches/volkswagen/t-cross/2024/estandar",
     "price": "Desde 22.930 €",
     "versions": [
         {
-            "name": "T-Cross 1.0 TSI 95 CV (12/2023 - )",
+            "name": "1.0 TSI 95 CV (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-cross/2024/estandar/estandar/t-cross-10-tsi-95-cv/datos",
@@ -26,7 +27,7 @@
             ]
         },
         {
-            "name": "T-Cross Más 1.0 TSI 95 CV (01/2024 - )",
+            "name": "Más 1.0 TSI 95 CV (01/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-cross/2024/estandar/estandar/t-cross-mas-10-tsi-95-cv/datos",
@@ -47,7 +48,7 @@
             ]
         },
         {
-            "name": "T-Cross Más 1.0 TSI 115 CV (01/2024 - )",
+            "name": "Más 1.0 TSI 115 CV (01/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-cross/2024/estandar/estandar/t-cross-mas-10-tsi-115-cv/datos",
@@ -68,7 +69,7 @@
             ]
         },
         {
-            "name": "T-Cross Más 1.0 TSI 115 CV DSG (01/2024 - )",
+            "name": "Más 1.0 TSI 115 CV DSG (01/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-cross/2024/estandar/estandar/t-cross-mas-10-tsi-115-cv-dsg/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "T-Cross R-Line 1.0 TSI 115 CV (12/2023 - )",
+            "name": "R-Line 1.0 TSI 115 CV (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-cross/2024/estandar/estandar/t-cross-r-line-10-tsi-115-cv/datos",
@@ -110,7 +111,7 @@
             ]
         },
         {
-            "name": "T-Cross R-Line 1.0 TSI 115 CV DSG (12/2023 - )",
+            "name": "R-Line 1.0 TSI 115 CV DSG (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-cross/2024/estandar/estandar/t-cross-r-line-10-tsi-115-cv-dsg/datos",
@@ -131,7 +132,7 @@
             ]
         },
         {
-            "name": "T-Cross R-Line 1.5 TSI 150 CV DSG (12/2023 - )",
+            "name": "R-Line 1.5 TSI 150 CV DSG (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-cross/2024/estandar/estandar/t-cross-15-tsi-150-cv-dsg/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Suzuki",
     "name": "S-Cross",
     "year": "2014",
     "url": "https://www.km77.com/coches/suzuki/s-cross/2014/estandar",
     "price": "Desde 26.795 €",
     "versions": [
         {
-            "name": "S-Cross 1.6 VVT GL 2WD",
+            "name": "1.6 VVT GL 2WD",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/suzuki/s-cross/2014/estandar/gl/sx4-s-cross-16-vvt-gl-2wd/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "S-Cross 1.6 DDiS GL 2WD",
+            "name": "1.6 DDiS GL 2WD",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/suzuki/s-cross/2014/estandar/gl/sx4-s-cross-16-ddis-gl-2wd/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "S-Cross 1.6 VVT GLE 2WD",
+            "name": "1.6 VVT GLE 2WD",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/suzuki/s-cross/2014/estandar/gle/sx4-s-cross-16-vvt-gle-2wd/datos",
@@ -90,7 +91,7 @@
             ]
         },
         {
-            "name": "S-Cross 1.6 DDiS GLE 2WD",
+            "name": "1.6 DDiS GLE 2WD",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/suzuki/s-cross/2014/estandar/gle/sx4-s-cross-16-ddis-gle-2wd2/datos",
@@ -119,7 +120,7 @@
             ]
         },
         {
-            "name": "S-Cross 1.6 VVT GLX 2WD",
+            "name": "1.6 VVT GLX 2WD",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/suzuki/s-cross/2014/estandar/glx/s-cross-16-vvt-glx-2wd/datos",
@@ -148,7 +149,7 @@
             ]
         },
         {
-            "name": "S-Cross 1.6 VVT GLE 4WD",
+            "name": "1.6 VVT GLE 4WD",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/suzuki/s-cross/2014/estandar/gle/sx4-s-cross-16-vvt-gle-4wd/datos",
@@ -177,7 +178,7 @@
             ]
         },
         {
-            "name": "S-Cross 1.6 DDiS GLX 2WD",
+            "name": "1.6 DDiS GLX 2WD",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/suzuki/s-cross/2014/estandar/glx/sx4-s-cross-16-ddis-gle-2wd/datos",
@@ -206,7 +207,7 @@
             ]
         },
         {
-            "name": "S-Cross 1.6 VVT GLX 4WD",
+            "name": "1.6 VVT GLX 4WD",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/suzuki/s-cross/2014/estandar/glx/s-cross-16-vvt-glx-4wd/datos",
@@ -235,7 +236,7 @@
             ]
         },
         {
-            "name": "S-Cross 1.6 VVT GLX-EL CVT 2WD",
+            "name": "1.6 VVT GLX-EL CVT 2WD",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/suzuki/s-cross/2014/estandar/glx-el/sx4-s-cross-16-vvt-glx-el-cvt-2wd/datos",
@@ -264,7 +265,7 @@
             ]
         },
         {
-            "name": "S-Cross 1.6 VVT GLX-EL 2WD",
+            "name": "1.6 VVT GLX-EL 2WD",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/suzuki/s-cross/2014/estandar/glx-el/sx4-s-cross-16-vvt-glx-el-2wd/datos",
@@ -293,7 +294,7 @@
             ]
         },
         {
-            "name": "S-Cross 1.6 VVT GLX-EL S&S 4WD",
+            "name": "1.6 VVT GLX-EL S&S 4WD",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/suzuki/s-cross/2014/estandar/glx-el/sx4-s-cross-16-vvt-glx-el-ss-4wd/datos",
@@ -322,7 +323,7 @@
             ]
         },
         {
-            "name": "S-Cross 1.6 DDiS GLX 4WD",
+            "name": "1.6 DDiS GLX 4WD",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/suzuki/s-cross/2014/estandar/glx/sx4-s-cross-16-ddis-glx-4wd/datos",
@@ -351,7 +352,7 @@
             ]
         },
         {
-            "name": "S-Cross 1.6 DDiS GLE 4WD",
+            "name": "1.6 DDiS GLE 4WD",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/suzuki/s-cross/2014/estandar/gle/sx4-s-cross-16-ddis-gle-4wd/datos",
@@ -380,7 +381,7 @@
             ]
         },
         {
-            "name": "S-Cross 1.6 VVT GLX-EL CVT 4WD",
+            "name": "1.6 VVT GLX-EL CVT 4WD",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/suzuki/s-cross/2014/estandar/glx-el/sx4-s-cross-16-vvt-glx-el-cvt-4wd/datos",
@@ -409,7 +410,7 @@
             ]
         },
         {
-            "name": "S-Cross 1.6 DDiS GLX-EL 2WD",
+            "name": "1.6 DDiS GLX-EL 2WD",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/suzuki/s-cross/2014/estandar/glx-el/sx4-s-cross-16-ddis-glx-el-2wd/datos",
@@ -438,7 +439,7 @@
             ]
         },
         {
-            "name": "S-Cross 1.6 DDiS GLX-EL S&S 4WD",
+            "name": "1.6 DDiS GLX-EL S&S 4WD",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/suzuki/s-cross/2014/estandar/glx-el/sx4-s-cross-16-ddis-glx-el-ss-4wd/datos",
@@ -467,7 +468,7 @@
             ]
         },
         {
-            "name": "S-Cross 1.6 DDiS GLX-EL S&S 2WD",
+            "name": "1.6 DDiS GLX-EL S&S 2WD",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/suzuki/s-cross/2014/estandar/glx-el/sx4-s-cross-16-ddis-glx-el-ss-2wd/datos",
@@ -496,7 +497,7 @@
             ]
         },
         {
-            "name": "S-Cross 1.6 VVT GLX-EL 4WD",
+            "name": "1.6 VVT GLX-EL 4WD",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/suzuki/s-cross/2014/estandar/glx-el/sx4-s-cross-16-vvt-glx-el-4wd/datos",
@@ -525,7 +526,7 @@
             ]
         },
         {
-            "name": "S-Cross 1.6 DDiS GLX-EL 4WD",
+            "name": "1.6 DDiS GLX-EL 4WD",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/suzuki/s-cross/2014/estandar/glx-el/sx4-s-cross-16-ddis-glx-el-4wd/datos",

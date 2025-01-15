@@ -1,11 +1,12 @@
 {
+    "brand": "Rolls-Royce",
     "name": "Ghost",
     "year": "2010",
     "url": "https://www.km77.com/coches/rolls-royce/ghost/2010/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Ghost",
+            "name": "",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/rolls-royce/ghost/2010/estandar/estandar/ghost/datos",
@@ -151,7 +152,7 @@
             ]
         },
         {
-            "name": "Ghost",
+            "name": "",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/rolls-royce/ghost/2010/estandar/estandar/ghost2/datos",
@@ -300,7 +301,7 @@
             ]
         },
         {
-            "name": "Ghost",
+            "name": "",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/rolls-royce/ghost/2010/estandar/estandar/ghost3/datos",
@@ -516,7 +517,7 @@
             ]
         },
         {
-            "name": "Ghost V-Specification",
+            "name": "V-Specification",
             "start_year": "2014",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/rolls-royce/ghost/2010/estandar/v-specification/ghost-v-specification/datos",

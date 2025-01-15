@@ -1,11 +1,12 @@
 {
+    "brand": "Volvo",
     "name": "V70",
     "year": "2000",
     "url": "https://www.km77.com/coches/volvo/v70/2000/estandar",
     "price": "",
     "versions": [
         {
-            "name": "V70 2.4 140 CV",
+            "name": "2.4 140 CV",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/estandar/v70-24-140-cv/datos",
@@ -25,7 +26,7 @@
             ]
         },
         {
-            "name": "V70 Optima Aut.",
+            "name": "Optima Aut.",
             "start_year": "1996",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/optima/v70-optima-aut/datos",
@@ -45,7 +46,7 @@
             ]
         },
         {
-            "name": "V70 2.4 140 CV Aut.",
+            "name": "2.4 140 CV Aut.",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/estandar/v70-24-140-cv-aut/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "V70 Optima 2.4 20V",
+            "name": "Optima 2.4 20V",
             "start_year": "1996",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/optima/v70-optima-24-20v/datos",
@@ -85,7 +86,7 @@
             ]
         },
         {
-            "name": "V70 2.4 140 CV Optima",
+            "name": "2.4 140 CV Optima",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/optima/v70-24-140-cv-optima/datos",
@@ -105,7 +106,7 @@
             ]
         },
         {
-            "name": "V70 140 CV Kinetic",
+            "name": "140 CV Kinetic",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/kinetic/v70-140-cv-kinetic/datos",
@@ -125,7 +126,7 @@
             ]
         },
         {
-            "name": "V70 2.4 170 CV",
+            "name": "2.4 170 CV",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/estandar/v70-24-170-cv/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "V70 2.4D",
+            "name": "2.4D",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/estandar/v70-24d/datos",
@@ -165,7 +166,7 @@
             ]
         },
         {
-            "name": "V70 Optima 2.4 20V Aut.",
+            "name": "Optima 2.4 20V Aut.",
             "start_year": "1996",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/optima/v70-optima-24-20v-aut/datos",
@@ -185,7 +186,7 @@
             ]
         },
         {
-            "name": "V70 2.4 140 CV Optima Aut.",
+            "name": "2.4 140 CV Optima Aut.",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/optima/v70-24-140-cv-optima-aut/datos",
@@ -205,7 +206,7 @@
             ]
         },
         {
-            "name": "V70 Optima 2.5D",
+            "name": "Optima 2.5D",
             "start_year": "1996",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/optima/v70-optima-25d/datos",
@@ -225,7 +226,7 @@
             ]
         },
         {
-            "name": "V70 140 CV Kinetic Aut.",
+            "name": "140 CV Kinetic Aut.",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/kinetic/v70-140-cv-kinetic-aut/datos",
@@ -245,7 +246,7 @@
             ]
         },
         {
-            "name": "V70 2.5D",
+            "name": "2.5D",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/estandar/v70-25d/datos",
@@ -265,7 +266,7 @@
             ]
         },
         {
-            "name": "V70 2.4 170 CV Aut.",
+            "name": "2.4 170 CV Aut.",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/estandar/v70-24-170-cv-aut/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "V70 2.4D Aut.",
+            "name": "2.4D Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/estandar/v70-24d-aut/datos",
@@ -305,7 +306,7 @@
             ]
         },
         {
-            "name": "V70 140 CV Momentum",
+            "name": "140 CV Momentum",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/momentum/v70-140-cv-momentum/datos",
@@ -325,7 +326,7 @@
             ]
         },
         {
-            "name": "V70 Optima 2.5D Aut.",
+            "name": "Optima 2.5D Aut.",
             "start_year": "1996",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/optima/v70-optima-25d-aut/datos",
@@ -345,7 +346,7 @@
             ]
         },
         {
-            "name": "V70 Optima 2.5T",
+            "name": "Optima 2.5T",
             "start_year": "1996",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/optima/v70-optima-25t/datos",
@@ -365,7 +366,7 @@
             ]
         },
         {
-            "name": "V70 D5",
+            "name": "D5",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/estandar/v70-d5/datos",
@@ -385,7 +386,7 @@
             ]
         },
         {
-            "name": "V70 2.4D Kinetic",
+            "name": "2.4D Kinetic",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/kinetic/v70-24d-kinetic/datos",
@@ -405,7 +406,7 @@
             ]
         },
         {
-            "name": "V70 2.4D Optima",
+            "name": "2.4D Optima",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/optima/v70-24d-optima/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "V70 2.4 170 CV Optima",
+            "name": "2.4 170 CV Optima",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/optima/v70-24-170-cv-optima/datos",
@@ -445,7 +446,7 @@
             ]
         },
         {
-            "name": "V70 140 CV Momentum Aut.",
+            "name": "140 CV Momentum Aut.",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/momentum/v70-140-cv-momentum-aut/datos",
@@ -465,7 +466,7 @@
             ]
         },
         {
-            "name": "V70 2.4T",
+            "name": "2.4T",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/estandar/v70-24t/datos",
@@ -485,7 +486,7 @@
             ]
         },
         {
-            "name": "V70 Optima 2.5T Aut.",
+            "name": "Optima 2.5T Aut.",
             "start_year": "1996",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/optima/v70-optima-25t-aut/datos",
@@ -505,7 +506,7 @@
             ]
         },
         {
-            "name": "V70 2.4 170 CV Kinetic",
+            "name": "2.4 170 CV Kinetic",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/kinetic/v70-24-170-cv-kinetic/datos",
@@ -525,7 +526,7 @@
             ]
         },
         {
-            "name": "V70 D5 Aut.",
+            "name": "D5 Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/estandar/v70-d5-aut/datos",
@@ -545,7 +546,7 @@
             ]
         },
         {
-            "name": "V70 2.5D Optima",
+            "name": "2.5D Optima",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/optima/v70-25d-optima/datos",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "name": "V70 126 CV Kinetic",
+            "name": "126 CV Kinetic",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/kinetic/v70-126-cv-kinetic/datos",
@@ -585,7 +586,7 @@
             ]
         },
         {
-            "name": "V70 2.4 170 CV Momentum",
+            "name": "2.4 170 CV Momentum",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/momentum/v70-24-170-cv-momentum/datos",
@@ -605,7 +606,7 @@
             ]
         },
         {
-            "name": "V70 2.4D Optima Aut.",
+            "name": "2.4D Optima Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/optima/v70-24d-optima-aut/datos",
@@ -625,7 +626,7 @@
             ]
         },
         {
-            "name": "V70 2.4 170 CV Optima Aut.",
+            "name": "2.4 170 CV Optima Aut.",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/optima/v70-24-170-cv-optima-aut/datos",
@@ -645,7 +646,7 @@
             ]
         },
         {
-            "name": "V70 2.4T Aut.",
+            "name": "2.4T Aut.",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/estandar/v70-24t-aut/datos",
@@ -665,7 +666,7 @@
             ]
         },
         {
-            "name": "V70 2.4D Momentum",
+            "name": "2.4D Momentum",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/momentum/v70-24d-momentum/datos",
@@ -685,7 +686,7 @@
             ]
         },
         {
-            "name": "V70 2.4 170 CV Kinetic Aut.",
+            "name": "2.4 170 CV Kinetic Aut.",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/kinetic/v70-24-170-cv-kinetic-aut/datos",
@@ -705,7 +706,7 @@
             ]
         },
         {
-            "name": "V70 D5 Optima",
+            "name": "D5 Optima",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/optima/v70-d5-optima/datos",
@@ -725,7 +726,7 @@
             ]
         },
         {
-            "name": "V70 130 CV Kinetic Aut.",
+            "name": "130 CV Kinetic Aut.",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/kinetic/v70-130-cv-kinetic-aut/datos",
@@ -745,7 +746,7 @@
             ]
         },
         {
-            "name": "V70 2.4 170 CV Momentum Aut.",
+            "name": "2.4 170 CV Momentum Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/momentum/v70-24-170-cv-momentum-aut/datos",
@@ -765,7 +766,7 @@
             ]
         },
         {
-            "name": "V70 D5 Kinetic",
+            "name": "D5 Kinetic",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/kinetic/v70-d5-kinetic/datos",
@@ -785,7 +786,7 @@
             ]
         },
         {
-            "name": "V70 Optima AWD",
+            "name": "Optima AWD",
             "start_year": "1996",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/optima/v70-optima-awd/datos",
@@ -805,7 +806,7 @@
             ]
         },
         {
-            "name": "V70 2.4T Optima",
+            "name": "2.4T Optima",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/optima/v70-24t-optima/datos",
@@ -825,7 +826,7 @@
             ]
         },
         {
-            "name": "V70 126 CV Momentum",
+            "name": "126 CV Momentum",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/momentum/v70-126-cv-momentum/datos",
@@ -845,7 +846,7 @@
             ]
         },
         {
-            "name": "V70 140 CV Summum",
+            "name": "140 CV Summum",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/summum/v70-140-cv-summum/datos",
@@ -865,7 +866,7 @@
             ]
         },
         {
-            "name": "V70 AWD",
+            "name": "AWD",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/estandar/v70-awd/datos",
@@ -885,7 +886,7 @@
             ]
         },
         {
-            "name": "V70 D5 Optima Aut.",
+            "name": "D5 Optima Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/optima/v70-d5-optima-aut/datos",
@@ -905,7 +906,7 @@
             ]
         },
         {
-            "name": "V70 2.4D Kinetic",
+            "name": "2.4D Kinetic",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/kinetic/v70-24d-kinetic2/datos",
@@ -925,7 +926,7 @@
             ]
         },
         {
-            "name": "V70 2.5T Kinetic",
+            "name": "2.5T Kinetic",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/kinetic/v70-25t-kinetic/datos",
@@ -945,7 +946,7 @@
             ]
         },
         {
-            "name": "V70 Optima AWD Aut.",
+            "name": "Optima AWD Aut.",
             "start_year": "1996",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/optima/v70-optima-awd-aut/datos",
@@ -965,7 +966,7 @@
             ]
         },
         {
-            "name": "V70 2.4D Momentum",
+            "name": "2.4D Momentum",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/momentum/v70-24d-momentum2/datos",
@@ -985,7 +986,7 @@
             ]
         },
         {
-            "name": "V70 XC",
+            "name": "XC",
             "start_year": "1996",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/estandar/v70-xc/datos",
@@ -1005,7 +1006,7 @@
             ]
         },
         {
-            "name": "V70 2.4T Optima Aut.",
+            "name": "2.4T Optima Aut.",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/optima/v70-24t-optima-aut/datos",
@@ -1025,7 +1026,7 @@
             ]
         },
         {
-            "name": "V70 130 CV Momentum Aut.",
+            "name": "130 CV Momentum Aut.",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/momentum/v70-130-cv-momentum-aut/datos",
@@ -1045,7 +1046,7 @@
             ]
         },
         {
-            "name": "V70 2.5T Momentum",
+            "name": "2.5T Momentum",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/momentum/v70-25t-momentum/datos",
@@ -1065,7 +1066,7 @@
             ]
         },
         {
-            "name": "V70 140 CV Summum Aut.",
+            "name": "140 CV Summum Aut.",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/summum/v70-140-cv-summum-aut/datos",
@@ -1085,7 +1086,7 @@
             ]
         },
         {
-            "name": "V70 D5 Momentum",
+            "name": "D5 Momentum",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/momentum/v70-d5-momentum/datos",
@@ -1105,7 +1106,7 @@
             ]
         },
         {
-            "name": "V70 2.4 170 CV Summum",
+            "name": "2.4 170 CV Summum",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/summum/v70-24-170-cv-summum/datos",
@@ -1125,7 +1126,7 @@
             ]
         },
         {
-            "name": "V70 T5",
+            "name": "T5",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/estandar/v70-t5/datos",
@@ -1145,7 +1146,7 @@
             ]
         },
         {
-            "name": "V70 XC Aut.",
+            "name": "XC Aut.",
             "start_year": "1996",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/estandar/v70-xc-aut/datos",
@@ -1165,7 +1166,7 @@
             ]
         },
         {
-            "name": "V70 2.4D Kinetic Aut.",
+            "name": "2.4D Kinetic Aut.",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/kinetic/v70-24d-kinetic-aut/datos",
@@ -1185,7 +1186,7 @@
             ]
         },
         {
-            "name": "V70 D5 Kinetic",
+            "name": "D5 Kinetic",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/kinetic/v70-d5-kinetic2/datos",
@@ -1205,7 +1206,7 @@
             ]
         },
         {
-            "name": "V70 2.4D Summum",
+            "name": "2.4D Summum",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/summum/v70-24d-summum/datos",
@@ -1225,7 +1226,7 @@
             ]
         },
         {
-            "name": "V70 2.5T Kinetic Aut.",
+            "name": "2.5T Kinetic Aut.",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/kinetic/v70-25t-kinetic-aut/datos",
@@ -1245,7 +1246,7 @@
             ]
         },
         {
-            "name": "V70 AWD Optima",
+            "name": "AWD Optima",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/optima/v70-awd-optima/datos",
@@ -1265,7 +1266,7 @@
             ]
         },
         {
-            "name": "V70 2.4D Momentum Aut.",
+            "name": "2.4D Momentum Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/momentum/v70-24d-momentum-aut/datos",
@@ -1285,7 +1286,7 @@
             ]
         },
         {
-            "name": "V70 D5 Momentum",
+            "name": "D5 Momentum",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/momentum/v70-d5-momentum2/datos",
@@ -1305,7 +1306,7 @@
             ]
         },
         {
-            "name": "V70 2.5T Momentum Aut.",
+            "name": "2.5T Momentum Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/momentum/v70-25t-momentum-aut/datos",
@@ -1325,7 +1326,7 @@
             ]
         },
         {
-            "name": "V70 Cross Country",
+            "name": "Cross Country",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/estandar/v70-cross-country/datos",
@@ -1345,7 +1346,7 @@
             ]
         },
         {
-            "name": "V70 2.4 170 CV Summum Aut.",
+            "name": "2.4 170 CV Summum Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/summum/v70-24-170-cv-summum-aut/datos",
@@ -1365,7 +1366,7 @@
             ]
         },
         {
-            "name": "V70 T5 Aut.",
+            "name": "T5 Aut.",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/estandar/v70-t5-aut/datos",
@@ -1385,7 +1386,7 @@
             ]
         },
         {
-            "name": "V70 T5 Optima",
+            "name": "T5 Optima",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/optima/v70-t5-optima/datos",
@@ -1405,7 +1406,7 @@
             ]
         },
         {
-            "name": "V70 AWD Optima Aut.",
+            "name": "AWD Optima Aut.",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/optima/v70-awd-optima-aut/datos",
@@ -1425,7 +1426,7 @@
             ]
         },
         {
-            "name": "V70 126 CV Summum",
+            "name": "126 CV Summum",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/summum/v70-126-cv-summum/datos",
@@ -1445,7 +1446,7 @@
             ]
         },
         {
-            "name": "V70 D5 Kinetic Aut.",
+            "name": "D5 Kinetic Aut.",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/kinetic/v70-d5-kinetic-aut/datos",
@@ -1465,7 +1466,7 @@
             ]
         },
         {
-            "name": "V70 Cross Country Aut.",
+            "name": "Cross Country Aut.",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/estandar/v70-cross-country-aut/datos",
@@ -1485,7 +1486,7 @@
             ]
         },
         {
-            "name": "V70 T5 Optima Aut.",
+            "name": "T5 Optima Aut.",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/optima/v70-t5-optima-aut/datos",
@@ -1505,7 +1506,7 @@
             ]
         },
         {
-            "name": "V70 D5 Momentum Aut.",
+            "name": "D5 Momentum Aut.",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/momentum/v70-d5-momentum-aut/datos",
@@ -1525,7 +1526,7 @@
             ]
         },
         {
-            "name": "V70 2.4D Summum",
+            "name": "2.4D Summum",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/summum/v70-24d-summum2/datos",
@@ -1545,7 +1546,7 @@
             ]
         },
         {
-            "name": "V70 D5 Summum",
+            "name": "D5 Summum",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/summum/v70-d5-summum/datos",
@@ -1565,7 +1566,7 @@
             ]
         },
         {
-            "name": "V70 130 CV Summum Aut.",
+            "name": "130 CV Summum Aut.",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/summum/v70-130-cv-summum-aut/datos",
@@ -1585,7 +1586,7 @@
             ]
         },
         {
-            "name": "V70 2.5T Summum",
+            "name": "2.5T Summum",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/summum/v70-25t-summum/datos",
@@ -1605,7 +1606,7 @@
             ]
         },
         {
-            "name": "V70 T5 Momentum",
+            "name": "T5 Momentum",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/momentum/v70-t5-momentum/datos",
@@ -1625,7 +1626,7 @@
             ]
         },
         {
-            "name": "V70 2.4D Summum Aut.",
+            "name": "2.4D Summum Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/summum/v70-24d-summum-aut/datos",
@@ -1645,7 +1646,7 @@
             ]
         },
         {
-            "name": "V70 D5 Summum",
+            "name": "D5 Summum",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/summum/v70-d5-summum2/datos",
@@ -1665,7 +1666,7 @@
             ]
         },
         {
-            "name": "V70 2.5T Summum Aut.",
+            "name": "2.5T Summum Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/summum/v70-25t-summum-aut/datos",
@@ -1685,7 +1686,7 @@
             ]
         },
         {
-            "name": "V70 R AWD Aut.",
+            "name": "R AWD Aut.",
             "start_year": "1996",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/r/v70-r-awd-aut/datos",
@@ -1705,7 +1706,7 @@
             ]
         },
         {
-            "name": "V70 T5 Momentum Aut.",
+            "name": "T5 Momentum Aut.",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/momentum/v70-t5-momentum-aut/datos",
@@ -1725,7 +1726,7 @@
             ]
         },
         {
-            "name": "V70 D5 Summum Aut.",
+            "name": "D5 Summum Aut.",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/summum/v70-d5-summum-aut/datos",
@@ -1745,7 +1746,7 @@
             ]
         },
         {
-            "name": "V70 T5 Summum",
+            "name": "T5 Summum",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/summum/v70-t5-summum/datos",
@@ -1765,7 +1766,7 @@
             ]
         },
         {
-            "name": "V70 T5 Summum Aut.",
+            "name": "T5 Summum Aut.",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/summum/v70-t5-summum-aut/datos",
@@ -1785,7 +1786,7 @@
             ]
         },
         {
-            "name": "V70 R AWD",
+            "name": "R AWD",
             "start_year": "2004",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/r/v70-r-awd/datos",
@@ -1805,7 +1806,7 @@
             ]
         },
         {
-            "name": "V70 R",
+            "name": "R",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/r/v70-r/datos",
@@ -1825,7 +1826,7 @@
             ]
         },
         {
-            "name": "V70 R AWD Aut.",
+            "name": "R AWD Aut.",
             "start_year": "2004",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/v70/2000/estandar/r/v70-r-awd-aut2/datos",

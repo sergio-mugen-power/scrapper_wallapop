@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Amarok Cabina Simple",
     "year": "2011",
     "url": "https://www.km77.com/coches/volkswagen/amarok/2011/cabina-simple",
     "price": "Desde 48.040 €",
     "versions": [
         {
-            "name": "Amarok Cabina Simple 2.0 TDI 140 CV BMT 4x2",
+            "name": "2.0 TDI 140 CV BMT 4x2",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volkswagen/amarok/2011/cabina-simple/estandar/amarok-cabina-simple-20-tdi-140-cv-bmt-4x2/datos",
@@ -16,7 +17,7 @@
             "maletero": "-"
         },
         {
-            "name": "Amarok Cabina Simple 2.0 TDI 140 CV 4Motion Conectable",
+            "name": "2.0 TDI 140 CV 4Motion Conectable",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volkswagen/amarok/2011/cabina-simple/estandar/amarok-cabina-simple-20-tdi-140-cv-4motion-conectable/datos",
@@ -27,7 +28,7 @@
             "maletero": "-"
         },
         {
-            "name": "Amarok Cabina Simple 2.0 TDI 180 CV 4Motion Conectable",
+            "name": "2.0 TDI 180 CV 4Motion Conectable",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volkswagen/amarok/2011/cabina-simple/estandar/amarok-cabina-simple-20-tdi-180-cv-4motion-conectable/datos",

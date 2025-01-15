@@ -1,11 +1,12 @@
 {
+    "brand": "KIA",
     "name": "Sorento",
     "year": "2002",
     "url": "https://www.km77.com/coches/kia/sorento/2002/estandar",
     "price": "Desde 45.725 €",
     "versions": [
         {
-            "name": "Sorento 2.4 DOHC EX",
+            "name": "2.4 DOHC EX",
             "start_year": "2003",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/kia/sorento/2002/estandar/ex/sorento-24-dohc-ex/datos",
@@ -104,7 +105,7 @@
             ]
         },
         {
-            "name": "Sorento 2.4 DOHC",
+            "name": "2.4 DOHC",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/kia/sorento/2002/estandar/estandar/sorento-24-dohc/datos",
@@ -262,7 +263,7 @@
             ]
         },
         {
-            "name": "Sorento 2.5 CRDI EX1",
+            "name": "2.5 CRDI EX1",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/kia/sorento/2002/estandar/ex1/sorento-25-crdi-ex1/datos",
@@ -418,7 +419,7 @@
             ]
         },
         {
-            "name": "Sorento 2.5 CRDI EX2",
+            "name": "2.5 CRDI EX2",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/kia/sorento/2002/estandar/ex2/sorento-25-crdi-ex2/datos",
@@ -576,7 +577,7 @@
             ]
         },
         {
-            "name": "Sorento 2.5 CRDI EX1 Aut.",
+            "name": "2.5 CRDI EX1 Aut.",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/kia/sorento/2002/estandar/ex1/sorento-25-crdi-ex1-aut/datos",
@@ -732,7 +733,7 @@
             ]
         },
         {
-            "name": "Sorento 3.5 V6 EX",
+            "name": "3.5 V6 EX",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/kia/sorento/2002/estandar/ex/sorento-35-v6-ex/datos",
@@ -890,7 +891,7 @@
             ]
         },
         {
-            "name": "Sorento 2.5 CRDI EX2 Aut.",
+            "name": "2.5 CRDI EX2 Aut.",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/kia/sorento/2002/estandar/ex2/sorento-25-crdi-ex2-aut/datos",

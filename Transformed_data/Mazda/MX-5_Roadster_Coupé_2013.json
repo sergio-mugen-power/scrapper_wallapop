@@ -1,11 +1,12 @@
 {
+    "brand": "Mazda",
     "name": "MX-5 Roadster Coupé",
     "year": "2013",
     "url": "https://www.km77.com/coches/mazda/mx-5/2013/roadster-coupe",
     "price": "Desde 23.320 €",
     "versions": [
         {
-            "name": "MX-5 Roadster Coupé 1.8 Style",
+            "name": "1.8 Style",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/mazda/mx-5/2013/roadster-coupe/style/mx-5-roadster-coupe-18-style/datos",
@@ -181,7 +182,7 @@
             ]
         },
         {
-            "name": "MX-5 Roadster Coupé 1.8 Sakura",
+            "name": "1.8 Sakura",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/mazda/mx-5/2013/roadster-coupe/sakura/mx-5-roadster-coupe-18-sakura/datos",
@@ -360,7 +361,7 @@
             ]
         },
         {
-            "name": "MX-5 Roadster Coupé 2.0 Sakura",
+            "name": "2.0 Sakura",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/mazda/mx-5/2013/roadster-coupe/sakura/mx-5-roadster-coupe-20-sakura/datos",
@@ -539,7 +540,7 @@
             ]
         },
         {
-            "name": "MX-5 Roadster Coupé 2.0 Luxury",
+            "name": "2.0 Luxury",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/mazda/mx-5/2013/roadster-coupe/luxury/mx-5-roadster-coupe-20-luxury/datos",
@@ -720,7 +721,7 @@
             ]
         },
         {
-            "name": "MX-5 Roadster Coupé 2.0 Sportive Aut.",
+            "name": "2.0 Sportive Aut.",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/mazda/mx-5/2013/roadster-coupe/sportive/mx-5-roadster-coupe-20-sportive-aut/datos",

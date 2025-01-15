@@ -1,11 +1,12 @@
 {
+    "brand": "Lexus",
     "name": "LS",
     "year": "2018",
     "url": "https://www.km77.com/coches/lexus/ls/2018/estandar",
     "price": "Desde 118.300 €",
     "versions": [
         {
-            "name": "LS 500h Business",
+            "name": "500h Business",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/lexus/ls/2018/estandar/business/ls-500h-business3/datos",
@@ -239,7 +240,7 @@
             ]
         },
         {
-            "name": "LS 500h Business",
+            "name": "500h Business",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/lexus/ls/2018/estandar/business/ls-500h-business/datos",
@@ -459,7 +460,7 @@
             ]
         },
         {
-            "name": "LS 500h Business AWD",
+            "name": "500h Business AWD",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/lexus/ls/2018/estandar/business/ls-500h-business2/datos",
@@ -693,7 +694,7 @@
             ]
         },
         {
-            "name": "LS 500h F SPORT",
+            "name": "500h F SPORT",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/lexus/ls/2018/estandar/f-sport/ls-500h-f-sport2/datos",
@@ -935,7 +936,7 @@
             ]
         },
         {
-            "name": "LS 500h Executive",
+            "name": "500h Executive",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/lexus/ls/2018/estandar/executive/ls-500h-executive2/datos",
@@ -1175,7 +1176,7 @@
             ]
         },
         {
-            "name": "LS 500h F SPORT AWD",
+            "name": "500h F SPORT AWD",
             "start_year": "2017",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/lexus/ls/2018/estandar/f-sport/ls-500h-f-sport/datos",
@@ -1418,7 +1419,7 @@
             ]
         },
         {
-            "name": "LS 500h Executive AWD",
+            "name": "500h Executive AWD",
             "start_year": "2017",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/lexus/ls/2018/estandar/executive/ls-500h-executive/datos",
@@ -1659,7 +1660,7 @@
             ]
         },
         {
-            "name": "LS 500h Luxury",
+            "name": "500h Luxury",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/lexus/ls/2018/estandar/luxury/ls-500h-luxury2/datos",
@@ -1907,7 +1908,7 @@
             ]
         },
         {
-            "name": "LS 500h Luxury AWD",
+            "name": "500h Luxury AWD",
             "start_year": "2017",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/lexus/ls/2018/estandar/luxury/ls-500h-luxury/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Toyota",
     "name": "C-HR",
     "year": "2017",
     "url": "https://www.km77.com/coches/toyota/c-hr/2017/estandar",
     "price": "Desde 31.750 €",
     "versions": [
         {
-            "name": "C-HR Hybrid Active",
+            "name": "Hybrid Active",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/toyota/c-hr/2017/estandar/active/c-hr-hybrid-active/datos",
@@ -219,7 +220,7 @@
             ]
         },
         {
-            "name": "C-HR Hybrid Active",
+            "name": "Hybrid Active",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/toyota/c-hr/2017/estandar/active/c-hr-hybrid-active2/datos",
@@ -433,7 +434,7 @@
             ]
         },
         {
-            "name": "C-HR Hybrid Advance",
+            "name": "Hybrid Advance",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/toyota/c-hr/2017/estandar/advance/c-hr-hybrid-advance/datos",
@@ -660,7 +661,7 @@
             ]
         },
         {
-            "name": "C-HR Hybrid Advance",
+            "name": "Hybrid Advance",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/toyota/c-hr/2017/estandar/advance/c-hr-hybrid-advance2/datos",
@@ -891,7 +892,7 @@
             ]
         },
         {
-            "name": "C-HR Hybrid Style Plus",
+            "name": "Hybrid Style Plus",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/toyota/c-hr/2017/estandar/style-plus/c-hr-hybrid-style-plus2/datos",
@@ -1121,7 +1122,7 @@
             ]
         },
         {
-            "name": "C-HR Hybrid Style Plus",
+            "name": "Hybrid Style Plus",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/toyota/c-hr/2017/estandar/style-plus/c-hr-hybrid-style-plus/datos",
@@ -1346,7 +1347,7 @@
             ]
         },
         {
-            "name": "C-HR Launch Edition 1.8 Hybrid",
+            "name": "Launch Edition 1.8 Hybrid",
             "start_year": "2016",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/toyota/c-hr/2017/estandar/launch-edition/c-hr-18-hybrid/datos",
@@ -1557,7 +1558,7 @@
             ]
         },
         {
-            "name": "C-HR Hybrid Dynamic Plus",
+            "name": "Hybrid Dynamic Plus",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/toyota/c-hr/2017/estandar/dynamic-plus/c-hr-hybrid-dynamic-plus2/datos",
@@ -1786,7 +1787,7 @@
             ]
         },
         {
-            "name": "C-HR Hybrid Dynamic Plus",
+            "name": "Hybrid Dynamic Plus",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/toyota/c-hr/2017/estandar/dynamic-plus/c-hr-hybrid-dynamic-plus/datos",
@@ -2010,7 +2011,7 @@
             ]
         },
         {
-            "name": "C-HR Hybrid Limited Edition",
+            "name": "Hybrid Limited Edition",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/toyota/c-hr/2017/estandar/limited-edition/c-hr-hybrid-limited-edition/datos",

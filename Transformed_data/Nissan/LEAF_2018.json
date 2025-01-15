@@ -1,11 +1,12 @@
 {
+    "brand": "Nissan",
     "name": "LEAF",
     "year": "2018",
     "url": "https://www.km77.com/coches/nissan/leaf/2018/estandar",
     "price": "",
     "versions": [
         {
-            "name": "LEAF 2.ZERO",
+            "name": "2.ZERO",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/leaf/2018/estandar/2zero/leaf-2zero/datos",
@@ -204,7 +205,7 @@
             ]
         },
         {
-            "name": "LEAF 40 kWh Visia",
+            "name": "40 kWh Visia",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/leaf/2018/estandar/visia/leaf-40-kwh-visia/datos",
@@ -402,7 +403,7 @@
             ]
         },
         {
-            "name": "LEAF 40 kWh Acenta",
+            "name": "40 kWh Acenta",
             "start_year": "2017",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/nissan/leaf/2018/estandar/acenta/leaf-40-kwh-acenta/datos",
@@ -620,7 +621,7 @@
             ]
         },
         {
-            "name": "LEAF 40 kWh N-Connecta",
+            "name": "40 kWh N-Connecta",
             "start_year": "2017",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/nissan/leaf/2018/estandar/n-connecta/leaf-40-kwh-n-connecta/datos",
@@ -846,7 +847,7 @@
             ]
         },
         {
-            "name": "LEAF 40 kWh Acenta Access",
+            "name": "40 kWh Acenta Access",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/leaf/2018/estandar/estandar/leaf-40-kwh-acenta-access/datos",
@@ -1054,7 +1055,7 @@
             ]
         },
         {
-            "name": "LEAF 40 kWh 10th Anniversary",
+            "name": "40 kWh 10th Anniversary",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/leaf/2018/estandar/estandar/leaf-40-kwh-10th-anniversary/datos",
@@ -1264,7 +1265,7 @@
             ]
         },
         {
-            "name": "LEAF 40 kWh Tekna",
+            "name": "40 kWh Tekna",
             "start_year": "2017",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/nissan/leaf/2018/estandar/tekna/leaf-40-kwh-tekna/datos",
@@ -1496,7 +1497,7 @@
             ]
         },
         {
-            "name": "LEAF 62 kWh e+ Acenta",
+            "name": "62 kWh e+ Acenta",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/nissan/leaf/2018/estandar/estandar/leaf-62-kwh-e-acenta/datos",
@@ -1711,7 +1712,7 @@
             ]
         },
         {
-            "name": "LEAF 62 kWh e+ N-Connecta",
+            "name": "62 kWh e+ N-Connecta",
             "start_year": "2019",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/nissan/leaf/2018/estandar/n-connecta/leaf-62-kwh-e-n-connecta/datos",
@@ -1937,7 +1938,7 @@
             ]
         },
         {
-            "name": "LEAF 62 kWh e+ Tekna",
+            "name": "62 kWh e+ Tekna",
             "start_year": "2019",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/nissan/leaf/2018/estandar/tekna/leaf-62-kwh-e-tekna/datos",
@@ -2170,7 +2171,7 @@
             ]
         },
         {
-            "name": "LEAF 62 kWh e+ 10th Anniversary",
+            "name": "62 kWh e+ 10th Anniversary",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/nissan/leaf/2018/estandar/estandar/leaf-62-kwh-e-10th-anniversary/datos",
@@ -2388,7 +2389,7 @@
             ]
         },
         {
-            "name": "LEAF E+ 3.ZERO",
+            "name": "E+ 3.ZERO",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/nissan/leaf/2018/estandar/3zero/leaf-3zero-e-edicion-limitada/datos",

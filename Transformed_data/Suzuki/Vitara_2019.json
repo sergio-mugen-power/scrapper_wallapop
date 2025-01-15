@@ -1,11 +1,12 @@
 {
+    "brand": "Suzuki",
     "name": "Vitara",
     "year": "2019",
     "url": "https://www.km77.com/coches/suzuki/vitara/2019/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Vitara 1.0 VVT GL",
+            "name": "1.0 VVT GL",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/suzuki/vitara/2019/estandar/gl/vitara-10-vvt-gl/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Vitara 1.0 VVT GLE",
+            "name": "1.0 VVT GLE",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/suzuki/vitara/2019/estandar/gle/vitara-10-vvt-gle/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Vitara 1.0 VVT GLE Aut.",
+            "name": "1.0 VVT GLE Aut.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/suzuki/vitara/2019/estandar/gle/vitara-10-vvt-gle-aut/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Vitara 1.4 VVT GLE",
+            "name": "1.4 VVT GLE",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/suzuki/vitara/2019/estandar/gle/vitara-14-vvt-gle/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "Vitara 1.0 VVT 4x4 GLE",
+            "name": "1.0 VVT 4x4 GLE",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/suzuki/vitara/2019/estandar/gle/vitara-10-vvt-4x4-gle/datos",
@@ -146,7 +147,7 @@
             ]
         },
         {
-            "name": "Vitara 1.0 VVT 4x4 GLE Aut.",
+            "name": "1.0 VVT 4x4 GLE Aut.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/suzuki/vitara/2019/estandar/gle/vitara-10-vvt-4x4-gle-aut/datos",
@@ -175,7 +176,7 @@
             ]
         },
         {
-            "name": "Vitara 1.4 VVT GLX",
+            "name": "1.4 VVT GLX",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/suzuki/vitara/2019/estandar/glx/vitara-14-vvt-glx/datos",
@@ -203,7 +204,7 @@
             ]
         },
         {
-            "name": "Vitara 1.4 VVT Toro",
+            "name": "1.4 VVT Toro",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/suzuki/vitara/2019/estandar/toro/vitara-14-vvt-toro/datos",
@@ -231,7 +232,7 @@
             ]
         },
         {
-            "name": "Vitara 1.4 VVT 4x4 GLX",
+            "name": "1.4 VVT 4x4 GLX",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/suzuki/vitara/2019/estandar/glx/vitara-14-vvt-4x4-glx/datos",
@@ -260,7 +261,7 @@
             ]
         },
         {
-            "name": "Vitara 1.4 VVT GLX Aut.",
+            "name": "1.4 VVT GLX Aut.",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/suzuki/vitara/2019/estandar/glx/vitara-14-vvt-glx-aut/datos",
@@ -288,7 +289,7 @@
             ]
         },
         {
-            "name": "Vitara 1.4 VVT 4x4 GLX Aut.",
+            "name": "1.4 VVT 4x4 GLX Aut.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/suzuki/vitara/2019/estandar/glx/vitara-14-vvt-4x4-glx-aut/datos",

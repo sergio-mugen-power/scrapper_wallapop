@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Golf Cabrio",
     "year": "1997",
     "url": "https://www.km77.com/coches/volkswagen/golf/1997/cabrio",
     "price": "",
     "versions": [
         {
-            "name": "Golf Cabrio Highline 1.6 100 CV",
+            "name": "Highline 1.6 100 CV",
             "start_year": "1998",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/cabrio/highline/golf-cabrio-highline-16-100-cv/datos",
@@ -32,7 +33,7 @@
             ]
         },
         {
-            "name": "Golf Cabrio Highline 1.6 100 CV Aut.",
+            "name": "Highline 1.6 100 CV Aut.",
             "start_year": "1998",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/cabrio/highline/golf-cabrio-highline-16-100-cv-aut/datos",
@@ -59,7 +60,7 @@
             ]
         },
         {
-            "name": "Golf Cabrio Highline 1.9 TDI 90 CV",
+            "name": "Highline 1.9 TDI 90 CV",
             "start_year": "1998",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/cabrio/highline/golf-cabrio-highline-19-tdi-90-cv/datos",
@@ -86,7 +87,7 @@
             ]
         },
         {
-            "name": "Golf Cabrio Highline 2.0 115 CV",
+            "name": "Highline 2.0 115 CV",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/cabrio/highline/golf-cabrio-highline-20-115-cv/datos",
@@ -113,7 +114,7 @@
             ]
         },
         {
-            "name": "Golf Cabrio Highline 2.0 115 CV Automático",
+            "name": "Highline 2.0 115 CV Automático",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/cabrio/highline/golf-cabrio-highline-20-115-cv-automatico/datos",
@@ -140,7 +141,7 @@
             ]
         },
         {
-            "name": "Golf Cabrio Highline 1.9 TDI 110 CV",
+            "name": "Highline 1.9 TDI 110 CV",
             "start_year": "1998",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/cabrio/highline/golf-cabrio-highline-19-tdi-110-cv/datos",
@@ -167,7 +168,7 @@
             ]
         },
         {
-            "name": "Golf Cabrio 2.0 115 CV Edición Especial",
+            "name": "2.0 115 CV Edición Especial",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/cabrio/edicion-especial/golf-cabrio-20-115-cv-edicion-especial/datos",

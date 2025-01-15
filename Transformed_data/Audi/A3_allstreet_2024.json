@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "A3 allstreet",
     "year": "2024",
     "url": "https://www.km77.com/coches/audi/a3/2024/allstreet",
     "price": "Desde 33.890 €",
     "versions": [
         {
-            "name": "A3 allstreet 35 TFSI MHEV S tronic (03/2024 - )",
+            "name": "35 TFSI MHEV S tronic (03/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/audi/a3/2024/allstreet/estandar/a3-allstreet-35-tfsi-mhev-s-tronic-110-kw-150-cv/datos",
@@ -297,7 +298,7 @@
             ]
         },
         {
-            "name": "A3 allstreet 35 TDI S tronic (03/2024 - )",
+            "name": "35 TDI S tronic (03/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/audi/a3/2024/allstreet/estandar/a3-allstreet-35-tdi-s-tronic-110-kw-150-cv/datos",
@@ -582,7 +583,7 @@
             ]
         },
         {
-            "name": "A3 allstreet 40 TFSIe (11/2024 - )",
+            "name": "40 TFSIe (11/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/audi/a3/2024/allstreet/phev/a3-allstreet-40-tfsie/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Toyota",
     "name": "Hilux Doble Cabina",
     "year": "2002",
     "url": "https://www.km77.com/coches/toyota/hilux/2002/doble-cabina",
     "price": "Desde 33.606 €",
     "versions": [
         {
-            "name": "Hilux Doble Cabina Standard",
+            "name": "Standard",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/toyota/hilux/2002/doble-cabina/estandar/hilux-doble-cabina-standard/datos",
@@ -156,7 +157,7 @@
             ]
         },
         {
-            "name": "Hilux Doble Cabina SR",
+            "name": "SR",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/toyota/hilux/2002/doble-cabina/sr/hilux-doble-cabina-sr/datos",

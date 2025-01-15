@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "T-Roc",
     "year": "2022",
     "url": "https://www.km77.com/coches/volkswagen/t-roc/2022/estandar",
     "price": "Desde 27.640 €",
     "versions": [
         {
-            "name": "T-Roc 1.0 TSI 85 kW (115 CV) (04/2024 - )",
+            "name": "1.0 TSI 85 kW (115 CV) (04/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-roc/2022/estandar/estandar/t-roc-10-tsi-85-kw-115-cv/datos",
@@ -26,7 +27,7 @@
             ]
         },
         {
-            "name": "T-Roc Más 1.0 TSI 85 kW (115 CV) (04/2024 - )",
+            "name": "Más 1.0 TSI 85 kW (115 CV) (04/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-roc/2022/estandar/estandar/t-roc-mas-10-tsi-85-kw-115-cv/datos",
@@ -47,7 +48,7 @@
             ]
         },
         {
-            "name": "T-Roc 1.5 TSI 110 kW (150 CV) DSG (12/2024 - )",
+            "name": "1.5 TSI 110 kW (150 CV) DSG (12/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-roc/2022/estandar/estandar/t-roc-15-tsi-110-kw-150-cv-dsg2/datos",
@@ -68,7 +69,7 @@
             ]
         },
         {
-            "name": "T-Roc Dark Line 1.0 TSI 85 kW (115 CV) (12/2024 - )",
+            "name": "Dark Line 1.0 TSI 85 kW (115 CV) (12/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-roc/2022/estandar/estandar/t-roc-dark-line-10-tsi-85-kw-115-cv/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "T-Roc 2.0 TDI 85 kW (115 CV) (12/2024 - )",
+            "name": "2.0 TDI 85 kW (115 CV) (12/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-roc/2022/estandar/estandar/t-roc-20-tdi-85-kw-115-cv3/datos",
@@ -110,7 +111,7 @@
             ]
         },
         {
-            "name": "T-Roc Más 1.5 TSI 110 kW (150 CV) DSG (01/2024 - )",
+            "name": "Más 1.5 TSI 110 kW (150 CV) DSG (01/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-roc/2022/estandar/estandar/t-roc-mas-15-tsi-110-kw-150-cv-dsg/datos",
@@ -131,7 +132,7 @@
             ]
         },
         {
-            "name": "T-Roc R-Line 1.0 TSI 85 kW (115 CV) (12/2024 - )",
+            "name": "R-Line 1.0 TSI 85 kW (115 CV) (12/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-roc/2022/estandar/estandar/t-roc-r-line-10-tsi-85-kw-115-cv/datos",
@@ -152,7 +153,7 @@
             ]
         },
         {
-            "name": "T-Roc Más 2.0 TDI 85 kW (115 CV) (12/2024 - )",
+            "name": "Más 2.0 TDI 85 kW (115 CV) (12/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-roc/2022/estandar/estandar/t-roc-mas-20-tdi-85-kw-115-cv/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "T-Roc Dark Line 1.5 TSI 110 kW (150 CV) DSG (12/2024 - )",
+            "name": "Dark Line 1.5 TSI 110 kW (150 CV) DSG (12/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-roc/2022/estandar/estandar/t-roc-dark-line-15-tsi-110-kw-150-cv-dsg/datos",
@@ -194,7 +195,7 @@
             ]
         },
         {
-            "name": "T-Roc 2.0 TDI 110 kW (150 CV) DSG (12/2024 - )",
+            "name": "2.0 TDI 110 kW (150 CV) DSG (12/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-roc/2022/estandar/estandar/t-roc-20-tdi-110-kw-150-cv-dsg2/datos",
@@ -215,7 +216,7 @@
             ]
         },
         {
-            "name": "T-Roc Dark Line 2.0 TDI 85 kW (115 CV) (12/2024 - )",
+            "name": "Dark Line 2.0 TDI 85 kW (115 CV) (12/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-roc/2022/estandar/estandar/t-roc-dark-line-20-tdi-85-kw-115-cv/datos",
@@ -236,7 +237,7 @@
             ]
         },
         {
-            "name": "T-Roc R-Line 1.5 TSI 110 kW (150 CV) DSG (12/2021 - )",
+            "name": "R-Line 1.5 TSI 110 kW (150 CV) DSG (12/2021 - )",
             "start_year": "2021",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-roc/2022/estandar/estandar/t-roc-r-line-15-tsi-110-kw-150-cv-dsg/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "T-Roc R-Line 2.0 TDI 85 kW (115 CV) (12/2024 - )",
+            "name": "R-Line 2.0 TDI 85 kW (115 CV) (12/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-roc/2022/estandar/estandar/t-roc-r-line-20-tdi-85-kw-115-cv/datos",
@@ -278,7 +279,7 @@
             ]
         },
         {
-            "name": "T-Roc Más 2.0 TDI 110 kW (150 CV) DSG (01/2024 - )",
+            "name": "Más 2.0 TDI 110 kW (150 CV) DSG (01/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-roc/2022/estandar/estandar/t-roc-mas-20-tdi-110-kw-150-cv-dsg/datos",
@@ -299,7 +300,7 @@
             ]
         },
         {
-            "name": "T-Roc Dark Line 2.0 TDI 110 kW (150 CV) DSG (12/2024 - )",
+            "name": "Dark Line 2.0 TDI 110 kW (150 CV) DSG (12/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-roc/2022/estandar/estandar/t-roc-dark-line-20-tdi-110-kw-150-cv-dsg/datos",
@@ -320,7 +321,7 @@
             ]
         },
         {
-            "name": "T-Roc Dark Line 2.0 TDI 4Motion 110 kW (150 CV) DSG (12/2024 - )",
+            "name": "Dark Line 2.0 TDI 4Motion 110 kW (150 CV) DSG (12/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-roc/2022/estandar/estandar/t-roc-dark-line-20-tdi-4motion-110-kw-150-cv-dsg/datos",
@@ -341,7 +342,7 @@
             ]
         },
         {
-            "name": "T-Roc R-Line 2.0 TDI 110 kW (150 CV) DSG (12/2021 - )",
+            "name": "R-Line 2.0 TDI 110 kW (150 CV) DSG (12/2021 - )",
             "start_year": "2021",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-roc/2022/estandar/estandar/t-roc-r-line-20-tdi-110-kw-150-cv-dsg/datos",
@@ -362,7 +363,7 @@
             ]
         },
         {
-            "name": "T-Roc R-Line 2.0 TDI 4Motion 110 kW (150 CV) DSG (12/2024 - )",
+            "name": "R-Line 2.0 TDI 4Motion 110 kW (150 CV) DSG (12/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-roc/2022/estandar/estandar/t-roc-20-tdi-110-kw-150-cv-4motion-dsg/datos",
@@ -383,7 +384,7 @@
             ]
         },
         {
-            "name": "T-Roc R 2.0 TSI 4Motion 221 kW (300 CV) DSG (02/2022 - )",
+            "name": "R 2.0 TSI 4Motion 221 kW (300 CV) DSG (02/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-roc/2022/estandar/r/t-roc-r/datos",
@@ -404,7 +405,7 @@
             ]
         },
         {
-            "name": "T-Roc R Carbon Mate 2.0 TSI 4Motion 221 kW (300 CV) DSG (12/2024 - )",
+            "name": "R Carbon Mate 2.0 TSI 4Motion 221 kW (300 CV) DSG (12/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/t-roc/2022/estandar/r/t-roc-r-carbon-mate-20-tsi-4motion-221-kw-300-cv-dsg/datos",

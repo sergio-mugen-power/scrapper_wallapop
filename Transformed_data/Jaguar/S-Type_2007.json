@@ -1,11 +1,12 @@
 {
+    "brand": "Jaguar",
     "name": "S-Type",
     "year": "2007",
     "url": "https://www.km77.com/coches/jaguar/s-type/2007/estandar",
     "price": "",
     "versions": [
         {
-            "name": "S-Type 2.7D V6 Classic",
+            "name": "2.7D V6 Classic",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/jaguar/s-type/2007/estandar/classic/s-type-27d-v6-classic/datos",
@@ -202,7 +203,7 @@
             ]
         },
         {
-            "name": "S-Type 2.7D V6 Classic Aut.",
+            "name": "2.7D V6 Classic Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/jaguar/s-type/2007/estandar/classic/s-type-27d-v6-classic-aut/datos",
@@ -399,7 +400,7 @@
             ]
         },
         {
-            "name": "S-Type 2.7D V6 Executive",
+            "name": "2.7D V6 Executive",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/jaguar/s-type/2007/estandar/executive/s-type-27d-v6-executive/datos",
@@ -602,7 +603,7 @@
             ]
         },
         {
-            "name": "S-Type 3.0 V6 Executive",
+            "name": "3.0 V6 Executive",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/jaguar/s-type/2007/estandar/executive/s-type-30-v6-executive/datos",
@@ -804,7 +805,7 @@
             ]
         },
         {
-            "name": "S-Type 4.2 V8 Executive",
+            "name": "4.2 V8 Executive",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/jaguar/s-type/2007/estandar/executive/s-type-42-v8-executive/datos",

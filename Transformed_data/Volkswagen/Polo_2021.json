@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Polo",
     "year": "2021",
     "url": "https://www.km77.com/coches/volkswagen/polo/2021/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Polo Match 1.0 TSI 70 kW (95 CV) (10/2024 - )",
+            "name": "Match 1.0 TSI 70 kW (95 CV) (10/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/polo/2021/estandar/estandar/polo-match-10-tsi-70-kw-95-cv/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Polo Más 1.0 TSI 70 kW (95 CV) (02/2024 - )",
+            "name": "Más 1.0 TSI 70 kW (95 CV) (02/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/polo/2021/estandar/estandar/polo-mas-10-tsi-70-kw-95-cv/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Polo R-Line 1.0 TSI 70 kW (95 CV) (06/2021 - )",
+            "name": "R-Line 1.0 TSI 70 kW (95 CV) (06/2021 - )",
             "start_year": "2021",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/polo/2021/estandar/estandar/polo-r-line-10-tsi-70-kw-95-cv/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Polo Más 1.0 TSI 70 kW (95 CV) DSG 7 vel. (02/2024 - )",
+            "name": "Más 1.0 TSI 70 kW (95 CV) DSG 7 vel. (02/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/polo/2021/estandar/estandar/polo-mas-10-tsi-70-kw-95-cv-dsg-7-vel/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "Polo R-Line 1.0 TSI 85 kW (115 CV) DSG 7 vel. (02/2024 - )",
+            "name": "R-Line 1.0 TSI 85 kW (115 CV) DSG 7 vel. (02/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/polo/2021/estandar/estandar/polo-r-line-10-tsi-85-kw-115-cv-dsg-7-vel/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Polo GTI 2.0 TSI 152 kW (207 CV) DSG (06/2022 - )",
+            "name": "GTI 2.0 TSI 152 kW (207 CV) DSG (06/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/polo/2021/estandar/gti/polo-gti/datos",

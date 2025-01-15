@@ -1,11 +1,12 @@
 {
+    "brand": "Mercedes-Benz",
     "name": "GLC",
     "year": "2016",
     "url": "https://www.km77.com/coches/mercedes/clase-glc/2016/estandar",
     "price": "Desde 60.978 €",
     "versions": [
         {
-            "name": "GLC 220 d 4MATIC",
+            "name": "220 d 4MATIC",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mercedes/clase-glc/2016/estandar/estandar/glc-220-d-4matic/datos",
@@ -337,7 +338,7 @@
             ]
         },
         {
-            "name": "GLC 220 d 4MATIC",
+            "name": "220 d 4MATIC",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/mercedes/clase-glc/2016/estandar/estandar/glc-220-d-4matic2/datos",
@@ -658,7 +659,7 @@
             ]
         },
         {
-            "name": "GLC 250 4MATIC",
+            "name": "250 4MATIC",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mercedes/clase-glc/2016/estandar/estandar/glc-250-4matic/datos",
@@ -989,7 +990,7 @@
             ]
         },
         {
-            "name": "GLC 250 d 4MATIC",
+            "name": "250 d 4MATIC",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mercedes/clase-glc/2016/estandar/estandar/glc-250-d-4matic/datos",
@@ -1321,7 +1322,7 @@
             ]
         },
         {
-            "name": "GLC 250 4MATIC",
+            "name": "250 4MATIC",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/mercedes/clase-glc/2016/estandar/estandar/glc-250-4matic2/datos",
@@ -1642,7 +1643,7 @@
             ]
         },
         {
-            "name": "GLC 250 d 4MATIC",
+            "name": "250 d 4MATIC",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/mercedes/clase-glc/2016/estandar/estandar/glc-250-d-4matic2/datos",
@@ -1963,7 +1964,7 @@
             ]
         },
         {
-            "name": "GLC 350 e 4MATIC",
+            "name": "350 e 4MATIC",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/mercedes/clase-glc/2016/estandar/e/glc-350-e-4matic/datos",
@@ -2304,7 +2305,7 @@
             ]
         },
         {
-            "name": "GLC 350 d 4MATIC",
+            "name": "350 d 4MATIC",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mercedes/clase-glc/2016/estandar/estandar/glc-350-d-4matic/datos",
@@ -2635,7 +2636,7 @@
             ]
         },
         {
-            "name": "GLC 350 d 4MATIC",
+            "name": "350 d 4MATIC",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/mercedes/clase-glc/2016/estandar/estandar/glc-350-d-4matic2/datos",
@@ -2955,7 +2956,7 @@
             ]
         },
         {
-            "name": "Mercedes-AMG GLC 43 4MATIC",
+            "name": "Mercedes-AMG  43 4MATIC",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mercedes/clase-glc/2016/estandar/amg/amg-glc-43-4matic/datos",
@@ -3262,7 +3263,7 @@
             ]
         },
         {
-            "name": "Mercedes-AMG GLC 43 4MATIC",
+            "name": "Mercedes-AMG  43 4MATIC",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/mercedes/clase-glc/2016/estandar/amg/amg-glc-43-4matic2/datos",
@@ -3579,7 +3580,7 @@
             ]
         },
         {
-            "name": "Mercedes-AMG GLC 63 4MATIC+",
+            "name": "Mercedes-AMG  63 4MATIC+",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/mercedes/clase-glc/2016/estandar/amg/amg-glc-63-4matic2/datos",
@@ -3896,7 +3897,7 @@
             ]
         },
         {
-            "name": "Mercedes-AMG GLC 63 4MATIC+",
+            "name": "Mercedes-AMG  63 4MATIC+",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mercedes/clase-glc/2016/estandar/amg/amg-glc-63-4matic/datos",
@@ -4210,7 +4211,7 @@
             ]
         },
         {
-            "name": "Mercedes-AMG GLC 63 S 4MATIC+",
+            "name": "Mercedes-AMG  63 S 4MATIC+",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mercedes/clase-glc/2016/estandar/amg/amg-glc-63-s-4matic/datos",
@@ -4528,7 +4529,7 @@
             ]
         },
         {
-            "name": "Mercedes-AMG GLC 63 S 4MATIC+",
+            "name": "Mercedes-AMG  63 S 4MATIC+",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/mercedes/clase-glc/2016/estandar/amg/amg-glc-63-s-4matic2/datos",

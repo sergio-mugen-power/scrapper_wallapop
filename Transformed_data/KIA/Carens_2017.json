@@ -1,11 +1,12 @@
 {
+    "brand": "KIA",
     "name": "Carens",
     "year": "2017",
     "url": "https://www.km77.com/coches/kia/carens/2017/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Carens 1.6 GDi 99 kW (135 CV) Basic 5 plazas",
+            "name": "1.6 GDi 99 kW (135 CV) Basic 5 plazas",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/carens/2017/estandar/basic/carens-16-gdi-99-kw-135-cv-basic-5-plazas/datos",
@@ -16,7 +17,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.6 GDi 99 kW (135 CV) Concept 5 plazas",
+            "name": "1.6 GDi 99 kW (135 CV) Concept 5 plazas",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/carens/2017/estandar/concept/carens-16-gdi-99-kw-135-cv-concept-5-plazas/datos",
@@ -27,7 +28,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.6 GDi 99 kW (135 CV) Concept 7 plazas",
+            "name": "1.6 GDi 99 kW (135 CV) Concept 7 plazas",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/carens/2017/estandar/concept/carens-16-gdi-99-kw-135-cv-concept-7-plazas/datos",
@@ -38,7 +39,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 85 kW (115 CV) Concept Eco-Dynamics 5 plazas",
+            "name": "1.7 CRDi VGT 85 kW (115 CV) Concept Eco-Dynamics 5 plazas",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/carens/2017/estandar/concept/carens-17-crdi-vgt-85-kw-115-cv-concept-eco-dynamics-5-plazas/datos",
@@ -49,7 +50,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 85 kW (115 CV) Basic Eco-Dynamics 5 plazas",
+            "name": "1.7 CRDi VGT 85 kW (115 CV) Basic Eco-Dynamics 5 plazas",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/carens/2017/estandar/basic/carens-17-crdi-vgt-85-kw-115-cv-basic-eco-dynamics-5-plazas/datos",
@@ -60,7 +61,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.6 GDi 99 kW (135 CV) Drive 5 plazas",
+            "name": "1.6 GDi 99 kW (135 CV) Drive 5 plazas",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/carens/2017/estandar/drive/carens-16-gdi-99-kw-135-cv-drive-5-plazas/datos",
@@ -71,7 +72,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 85 kW (115 CV) Concept Eco-Dynamics 7 plazas",
+            "name": "1.7 CRDi VGT 85 kW (115 CV) Concept Eco-Dynamics 7 plazas",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/carens/2017/estandar/concept/carens-17-crdi-vgt-85-kw-115-cv-concept-eco-dynamics-7-plazas/datos",
@@ -82,7 +83,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.6 GDi 99 kW (135 CV) Drive 7 plazas",
+            "name": "1.6 GDi 99 kW (135 CV) Drive 7 plazas",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/carens/2017/estandar/drive/carens-16-gdi-99-kw-135-cv-drive-7-plazas/datos",
@@ -93,7 +94,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 85 kW (115 CV) Drive Eco-Dynamics 5 plazas",
+            "name": "1.7 CRDi VGT 85 kW (115 CV) Drive Eco-Dynamics 5 plazas",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/carens/2017/estandar/drive/carens-17-crdi-vgt-85-kw-115-cv-drive-eco-dynamics-5-plazas/datos",
@@ -104,7 +105,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 104 kW (141 CV) Drive DCT 7 plazas",
+            "name": "1.7 CRDi VGT 104 kW (141 CV) Drive DCT 7 plazas",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/carens/2017/estandar/drive/carens-17-crdi-vgt-104-kw-141-cv-drive-dct-7-plazas/datos",
@@ -115,7 +116,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 85 kW (115 CV) Drive Eco-Dynamics 7 plazas",
+            "name": "1.7 CRDi VGT 85 kW (115 CV) Drive Eco-Dynamics 7 plazas",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/carens/2017/estandar/drive/carens-17-crdi-vgt-85-kw-115-cv-drive-eco-dynamics-7-plazas/datos",
@@ -126,7 +127,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 104 kW (141 CV) Drive Eco-Dynamics 5 plazas",
+            "name": "1.7 CRDi VGT 104 kW (141 CV) Drive Eco-Dynamics 5 plazas",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/carens/2017/estandar/drive/carens-17-crdi-vgt-104-kw-141-cv-drive-5-plazas/datos",
@@ -137,7 +138,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 104 kW (141 CV) Drive Eco-Dynamics 7 plazas",
+            "name": "1.7 CRDi VGT 104 kW (141 CV) Drive Eco-Dynamics 7 plazas",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/carens/2017/estandar/drive/carens-17-crdi-vgt-104-kw-141-cv-drive-7-plazas/datos",
@@ -148,7 +149,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 104 kW (141 CV) Drive DCT 5 plazas",
+            "name": "1.7 CRDi VGT 104 kW (141 CV) Drive DCT 5 plazas",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/carens/2017/estandar/drive/carens-17-crdi-vgt-104-kw-141-cv-drive-dct-5-plazas/datos",
@@ -159,7 +160,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 104 kW (141 CV) Emotion Eco-Dynamics 7 plazas",
+            "name": "1.7 CRDi VGT 104 kW (141 CV) Emotion Eco-Dynamics 7 plazas",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/carens/2017/estandar/emotion/carens-17-crdi-vgt-104-kw-141-cv-emotion-eco-dynamics-7-plazas/datos",
@@ -170,7 +171,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 104 kW (141 CV) Emotion DCT 7 plazas",
+            "name": "1.7 CRDi VGT 104 kW (141 CV) Emotion DCT 7 plazas",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/carens/2017/estandar/emotion/carens-17-crdi-vgt-104-kw-141-cv-emotion-dct-7-plazas/datos",

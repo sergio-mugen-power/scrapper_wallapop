@@ -1,11 +1,12 @@
 {
+    "brand": "Opel",
     "name": "Signum",
     "year": "2003",
     "url": "https://www.km77.com/coches/opel/signum/2003/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Signum Design 1.8 16V",
+            "name": "Design 1.8 16V",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/signum/2003/estandar/design/signum-design-18-16v/datos",
@@ -25,7 +26,7 @@
             ]
         },
         {
-            "name": "Signum Design 1.9 CDTI 8V",
+            "name": "Design 1.9 CDTI 8V",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/signum/2003/estandar/design/signum-design-19-cdti-8v/datos",
@@ -45,7 +46,7 @@
             ]
         },
         {
-            "name": "Signum Design 2.2 DIG 16V",
+            "name": "Design 2.2 DIG 16V",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/signum/2003/estandar/design/signum-design-22-dig-16v/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "Signum Design 1.9 CDTI 16V",
+            "name": "Design 1.9 CDTI 16V",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/signum/2003/estandar/design/signum-design-19-cdti-16v/datos",
@@ -85,7 +86,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 1.8 16V",
+            "name": "Cosmo 1.8 16V",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/signum/2003/estandar/cosmo/signum-cosmo-18-16v/datos",
@@ -105,7 +106,7 @@
             ]
         },
         {
-            "name": "Signum Design 2.0 Turbo 16V",
+            "name": "Design 2.0 Turbo 16V",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/signum/2003/estandar/design/signum-design-20-turbo-16v/datos",
@@ -125,7 +126,7 @@
             ]
         },
         {
-            "name": "Signum Design 2.2 DIG 16V Active Select",
+            "name": "Design 2.2 DIG 16V Active Select",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/signum/2003/estandar/design/signum-design-22-dig-16v-active-select/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 1.9 CDTI 8V",
+            "name": "Cosmo 1.9 CDTI 8V",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/signum/2003/estandar/cosmo/signum-cosmo-19-cdti-8v/datos",
@@ -165,7 +166,7 @@
             ]
         },
         {
-            "name": "Signum Design 1.9 CDTI 16V Active Select",
+            "name": "Design 1.9 CDTI 16V Active Select",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/signum/2003/estandar/design/signum-design-19-cdti-16v-active-select/datos",
@@ -185,7 +186,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 2.2 DIG 16V",
+            "name": "Cosmo 2.2 DIG 16V",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/signum/2003/estandar/cosmo/signum-cosmo-22-dig-16v/datos",
@@ -205,7 +206,7 @@
             ]
         },
         {
-            "name": "Signum Design 3.2 V6 24V",
+            "name": "Design 3.2 V6 24V",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/signum/2003/estandar/design/signum-design-32-v6-24v/datos",
@@ -225,7 +226,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 1.9 CDTI 16V",
+            "name": "Cosmo 1.9 CDTI 16V",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/signum/2003/estandar/cosmo/signum-cosmo-19-cdti-16v/datos",
@@ -245,7 +246,7 @@
             ]
         },
         {
-            "name": "Signum Design 1.8 16V Aut.",
+            "name": "Design 1.8 16V Aut.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/signum/2003/estandar/design/signum-design-18-16v-aut/datos",
@@ -265,7 +266,7 @@
             ]
         },
         {
-            "name": "Signum Design 3.0 V6 CDTI 24V",
+            "name": "Design 3.0 V6 CDTI 24V",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/signum/2003/estandar/design/signum-design-30-v6-cdti-24v/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 2.0 Turbo 16V",
+            "name": "Cosmo 2.0 Turbo 16V",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/signum/2003/estandar/cosmo/signum-cosmo-20-turbo-16v/datos",
@@ -305,7 +306,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 2.2 DIG 16V Active Select",
+            "name": "Cosmo 2.2 DIG 16V Active Select",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/signum/2003/estandar/cosmo/signum-cosmo-22-dig-16v-active-select/datos",
@@ -325,7 +326,7 @@
             ]
         },
         {
-            "name": "Signum 2.2 DTI 16V",
+            "name": "2.2 DTI 16V",
             "start_year": "2003",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/opel/signum/2003/estandar/estandar/signum-22-dti-16v/datos",
@@ -345,7 +346,7 @@
             ]
         },
         {
-            "name": "Signum Design 3.2 V6 24V Active Select",
+            "name": "Design 3.2 V6 24V Active Select",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/signum/2003/estandar/design/signum-design-32-v6-24v-active-select/datos",
@@ -365,7 +366,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 1.9 CDTI 16V Active Select",
+            "name": "Cosmo 1.9 CDTI 16V Active Select",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/signum/2003/estandar/cosmo/signum-cosmo-19-cdti-16v-active-select/datos",
@@ -385,7 +386,7 @@
             ]
         },
         {
-            "name": "Signum Design 3.0 V6 CDTI 24V Active Select",
+            "name": "Design 3.0 V6 CDTI 24V Active Select",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/signum/2003/estandar/design/signum-design-30-v6-cdti-24v-active-select/datos",
@@ -405,7 +406,7 @@
             ]
         },
         {
-            "name": "Signum 2.2 DTI 16V Active Select",
+            "name": "2.2 DTI 16V Active Select",
             "start_year": "2003",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/opel/signum/2003/estandar/estandar/signum-22-dti-16v-active-select/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 3.2 V6 24V",
+            "name": "Cosmo 3.2 V6 24V",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/signum/2003/estandar/cosmo/signum-cosmo-32-v6-24v/datos",
@@ -445,7 +446,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 1.8 16V Aut.",
+            "name": "Cosmo 1.8 16V Aut.",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/signum/2003/estandar/cosmo/signum-cosmo-18-16v-aut/datos",
@@ -465,7 +466,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 3.0 V6 CDTI 24V",
+            "name": "Cosmo 3.0 V6 CDTI 24V",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/signum/2003/estandar/cosmo/signum-cosmo-30-v6-cdti-24v/datos",
@@ -485,7 +486,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 3.2 V6 24V Active Select",
+            "name": "Cosmo 3.2 V6 24V Active Select",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/signum/2003/estandar/cosmo/signum-cosmo-32-v6-24v-active-select/datos",
@@ -505,7 +506,7 @@
             ]
         },
         {
-            "name": "Signum Cosmo 3.0 V6 CDTI 24V Active Select",
+            "name": "Cosmo 3.0 V6 CDTI 24V Active Select",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/opel/signum/2003/estandar/cosmo/signum-cosmo-30-v6-cdti-24v-active-select/datos",

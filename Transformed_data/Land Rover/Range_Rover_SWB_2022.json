@@ -1,11 +1,12 @@
 {
+    "brand": "Land Rover",
     "name": "Range Rover SWB",
     "year": "2022",
     "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb",
     "price": "Desde 140.950 €",
     "versions": [
         {
-            "name": "Range Rover SWB P440e PHEV SE",
+            "name": "P440e PHEV SE",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/phev/range-rover-swb-p440e-phev/datos",
@@ -337,7 +338,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB P460e PHEV SE",
+            "name": "P460e PHEV SE",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/phev/range-rover-swb-p460e-phev-se/datos",
@@ -670,7 +671,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB D350 MHEV SE",
+            "name": "D350 MHEV SE",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/estandar/range-rover-swb-d350/datos",
@@ -987,7 +988,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB P440e PHEV HSE",
+            "name": "P440e PHEV HSE",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/phev/range-rover-swb-p440e-phev-hse/datos",
@@ -1318,7 +1319,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB D300 MHEV SE",
+            "name": "D300 MHEV SE",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/estandar/range-rover-swb-d300/datos",
@@ -1645,7 +1646,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB P460e PHEV HSE",
+            "name": "P460e PHEV HSE",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/phev/range-rover-swb-p460e-phev-hse/datos",
@@ -1976,7 +1977,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB P530 SE",
+            "name": "P530 SE",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/estandar/range-rover-swb-p530/datos",
@@ -2280,7 +2281,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB P510e PHEV HSE",
+            "name": "P510e PHEV HSE",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/phev/range-rover-swb-p510e-phev-hse/datos",
@@ -2611,7 +2612,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB D300 MHEV HSE",
+            "name": "D300 MHEV HSE",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/estandar/range-rover-swb-d300-mhev-hse/datos",
@@ -2936,7 +2937,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB P550e PHEV HSE",
+            "name": "P550e PHEV HSE",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/phev/range-rover-swb-p550e-phev-hse/datos",
@@ -3267,7 +3268,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB P440e PHEV Autobiography",
+            "name": "P440e PHEV Autobiography",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/phev/range-rover-swb-p440e-phev-autobiography/datos",
@@ -3593,7 +3594,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB D350 MHEV HSE",
+            "name": "D350 MHEV HSE",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/estandar/range-rover-swb-d350-mhev-hse/datos",
@@ -3916,7 +3917,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB P460e PHEV Autobiography",
+            "name": "P460e PHEV Autobiography",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/phev/range-rover-swb-p460e-phev-autobiography/datos",
@@ -4239,7 +4240,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB P530 HSE",
+            "name": "P530 HSE",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/estandar/range-rover-swb-p530-hse/datos",
@@ -4543,7 +4544,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB P440e PHEV First Edition",
+            "name": "P440e PHEV First Edition",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/phev/range-rover-swb-p440e-phev-first-edition/datos",
@@ -4852,7 +4853,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB P510e PHEV Autobiography",
+            "name": "P510e PHEV Autobiography",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/phev/range-rover-swb-p510e-phev-autobiography/datos",
@@ -5178,7 +5179,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB P510e PHEV First Edition",
+            "name": "P510e PHEV First Edition",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/phev/range-rover-swb-p510e-phev-first-edition/datos",
@@ -5487,7 +5488,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB P550e PHEV Autobiography",
+            "name": "P550e PHEV Autobiography",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/phev/range-rover-swb-p550e-phev-autobiography/datos",
@@ -5812,7 +5813,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB D300 MHEV Autobiography",
+            "name": "D300 MHEV Autobiography",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/estandar/range-rover-swb-d300-mhev-autobiography/datos",
@@ -6131,7 +6132,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB D350 MHEV Autobiography",
+            "name": "D350 MHEV Autobiography",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/estandar/range-rover-swb-d350-mhev-autobiography/datos",
@@ -6448,7 +6449,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB D350 MHEV First Edition",
+            "name": "D350 MHEV First Edition",
             "start_year": "2021",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/estandar/range-rover-swb-d350-mhev-first-edition/datos",
@@ -6749,7 +6750,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB P530 Autobiography",
+            "name": "P530 Autobiography",
             "start_year": "2021",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/estandar/range-rover-swb-p530-autobiography/datos",
@@ -7048,7 +7049,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB P530 MHEV Autobiography",
+            "name": "P530 MHEV Autobiography",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/estandar/range-rover-swb-p530-mhev-autobiography/datos",
@@ -7361,7 +7362,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB P530 First Edition",
+            "name": "P530 First Edition",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/estandar/range-rover-swb-p530-first-edition/datos",
@@ -7644,7 +7645,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB P510e PHEV SV",
+            "name": "P510e PHEV SV",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/phev/range-rover-swb-p510e-phev-sv/datos",
@@ -7966,7 +7967,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB P550e PHEV SV",
+            "name": "P550e PHEV SV",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/phev/range-rover-swb-p550e-phev-sv/datos",
@@ -8288,7 +8289,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB D350 MHEV SV",
+            "name": "D350 MHEV SV",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/estandar/range-rover-swb-d350-mhev-sv/datos",
@@ -8608,7 +8609,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB P530 SV",
+            "name": "P530 SV",
             "start_year": "2021",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/estandar/range-rover-swb-p530-sv/datos",
@@ -8915,7 +8916,7 @@
             ]
         },
         {
-            "name": "Range Rover SWB P615 MHEV SV",
+            "name": "P615 MHEV SV",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2022/swb/estandar/range-rover-swb-p615-sv/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Maserati",
     "name": "Coupé",
     "year": "2002",
     "url": "https://www.km77.com/coches/maserati/coupe/2002/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Coupé GT",
+            "name": "GT",
             "start_year": "2002",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/maserati/coupe/2002/estandar/gt/coupe-gt/datos",
@@ -198,7 +199,7 @@
             ]
         },
         {
-            "name": "Coupé Cambiocorsa",
+            "name": "Cambiocorsa",
             "start_year": "2002",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/maserati/coupe/2002/estandar/cambiocorsa/coupe-cambiocorsa/datos",

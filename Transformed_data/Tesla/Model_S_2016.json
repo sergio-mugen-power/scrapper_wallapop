@@ -1,11 +1,12 @@
 {
+    "brand": "Tesla",
     "name": "Model S",
     "year": "2016",
     "url": "https://www.km77.com/coches/tesla/model-s/2016/estandar",
     "price": "Desde 89.990 €",
     "versions": [
         {
-            "name": "Model S 60",
+            "name": "60",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/tesla/model-s/2016/estandar/estandar/model-s-60/datos",
@@ -214,7 +215,7 @@
             ]
         },
         {
-            "name": "Model S Autonomía",
+            "name": "Autonomía",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/tesla/model-s/2016/estandar/estandar/model-s-autonomia-estandar/datos",
@@ -436,7 +437,7 @@
             ]
         },
         {
-            "name": "Model S Gran autonomía",
+            "name": "Gran autonomía",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/tesla/model-s/2016/estandar/estandar/model-s-gran-autonomia/datos",
@@ -662,7 +663,7 @@
             ]
         },
         {
-            "name": "Model S 70",
+            "name": "70",
             "start_year": "2016",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/tesla/model-s/2016/estandar/estandar/model-s-70/datos",
@@ -869,7 +870,7 @@
             ]
         },
         {
-            "name": "Model S Gran autonomía plus",
+            "name": "Gran autonomía plus",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/tesla/model-s/2016/estandar/estandar/model-s-gran-autonomia-plus/datos",
@@ -1111,7 +1112,7 @@
             ]
         },
         {
-            "name": "Model S 60D",
+            "name": "60D",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/tesla/model-s/2016/estandar/estandar/model-s-60d/datos",
@@ -1331,7 +1332,7 @@
             ]
         },
         {
-            "name": "Model S 75",
+            "name": "75",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/tesla/model-s/2016/estandar/estandar/model-s-75/datos",
@@ -1540,7 +1541,7 @@
             ]
         },
         {
-            "name": "Model S 75D",
+            "name": "75D",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/tesla/model-s/2016/estandar/estandar/model-s-75d/datos",
@@ -1757,7 +1758,7 @@
             ]
         },
         {
-            "name": "Model S 70D",
+            "name": "70D",
             "start_year": "2016",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/tesla/model-s/2016/estandar/estandar/model-s-70d/datos",
@@ -1975,7 +1976,7 @@
             ]
         },
         {
-            "name": "Model S Performance",
+            "name": "Performance",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/tesla/model-s/2016/estandar/estandar/model-s-performance/datos",
@@ -2202,7 +2203,7 @@
             ]
         },
         {
-            "name": "Model S Performance",
+            "name": "Performance",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/tesla/model-s/2016/estandar/estandar/model-s-performance2/datos",
@@ -2443,7 +2444,7 @@
             ]
         },
         {
-            "name": "Model S 90D",
+            "name": "90D",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/tesla/model-s/2016/estandar/estandar/model-s-90d2/datos",
@@ -2663,7 +2664,7 @@
             ]
         },
         {
-            "name": "Model S 90D",
+            "name": "90D",
             "start_year": "2016",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/tesla/model-s/2016/estandar/estandar/model-s-90d/datos",
@@ -2881,7 +2882,7 @@
             ]
         },
         {
-            "name": "Model S 100D",
+            "name": "100D",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/tesla/model-s/2016/estandar/estandar/model-s-100d/datos",
@@ -3105,7 +3106,7 @@
             ]
         },
         {
-            "name": "Model S P90D",
+            "name": "P90D",
             "start_year": "2016",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/tesla/model-s/2016/estandar/estandar/model-s-p90d/datos",
@@ -3328,7 +3329,7 @@
             ]
         },
         {
-            "name": "Model S P100D",
+            "name": "P100D",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/tesla/model-s/2016/estandar/estandar/model-s-p100d/datos",

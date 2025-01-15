@@ -1,11 +1,12 @@
 {
+    "brand": "Hyundai",
     "name": "Lantra",
     "year": "1998",
     "url": "https://www.km77.com/coches/hyundai/lantra/1998/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Lantra 1.6 GLS",
+            "name": "1.6 GLS",
             "start_year": "2000",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/hyundai/lantra/1998/estandar/estandar/lantra-16-gls/datos",
@@ -126,7 +127,7 @@
             ]
         },
         {
-            "name": "Lantra GLS D",
+            "name": "GLS D",
             "start_year": "2000",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/hyundai/lantra/1998/estandar/estandar/lantra-gls-d/datos",
@@ -247,7 +248,7 @@
             ]
         },
         {
-            "name": "Lantra 2.0 GLS",
+            "name": "2.0 GLS",
             "start_year": "2000",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/hyundai/lantra/1998/estandar/estandar/lantra-20-gls/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Mitsubishi",
     "name": "Outlander",
     "year": "2016",
     "url": "https://www.km77.com/coches/mitsubishi/outlander/2016/estandar",
     "price": "Desde 48.200 €",
     "versions": [
         {
-            "name": "Outlander Motion 2WD 200 MPI CVT 5 plazas",
+            "name": "Motion 2WD 200 MPI CVT 5 plazas",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mitsubishi/outlander/2016/estandar/motion/outlander-2wd-motion-200-mpi-cvt-5-plazas/datos",
@@ -204,7 +205,7 @@
             ]
         },
         {
-            "name": "Outlander Motion 2WD 200 MPI CVT 7 plazas",
+            "name": "Motion 2WD 200 MPI CVT 7 plazas",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mitsubishi/outlander/2016/estandar/motion/outlander-motion-2wd-200-mpi-cvt-7-plazas/datos",
@@ -405,7 +406,7 @@
             ]
         },
         {
-            "name": "Outlander Motion 2WD 220 DI-D 5 plazas",
+            "name": "Motion 2WD 220 DI-D 5 plazas",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mitsubishi/outlander/2016/estandar/motion/outlander-2016/datos",
@@ -602,7 +603,7 @@
             ]
         },
         {
-            "name": "Outlander Motion 2WD 220 DI-D 7 plazas",
+            "name": "Motion 2WD 220 DI-D 7 plazas",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mitsubishi/outlander/2016/estandar/motion/outlander-220-di-d-2wd-7-plazas/datos",
@@ -800,7 +801,7 @@
             ]
         },
         {
-            "name": "Outlander Motion 4WD 220 DI-D 7 plazas",
+            "name": "Motion 4WD 220 DI-D 7 plazas",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mitsubishi/outlander/2016/estandar/motion/outlander-220-di-d-4wd-7-plazas/datos",
@@ -1001,7 +1002,7 @@
             ]
         },
         {
-            "name": "Outlander Motion 4WD 220 DI-D 6AT 7 plazas",
+            "name": "Motion 4WD 220 DI-D 6AT 7 plazas",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mitsubishi/outlander/2016/estandar/motion/outlander-220-di-d-4wd-6at-7-plazas/datos",
@@ -1205,7 +1206,7 @@
             ]
         },
         {
-            "name": "Outlander Kaiteki 4WD 220 DI-D 6AT 7 plazas",
+            "name": "Kaiteki 4WD 220 DI-D 6AT 7 plazas",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mitsubishi/outlander/2016/estandar/kaiteki/outlander-kaiteki-220-di-d-4wd-6at-7-plazas/datos",
@@ -1416,7 +1417,7 @@
             ]
         },
         {
-            "name": "Outlander PHEV Kaiteki 4WD",
+            "name": "PHEV Kaiteki 4WD",
             "start_year": "2016",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/mitsubishi/outlander/2016/estandar/kaiteki/outlander-phev/datos",
@@ -1669,7 +1670,7 @@
             ]
         },
         {
-            "name": "Outlander PHEV Kaiteki 4WD",
+            "name": "PHEV Kaiteki 4WD",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mitsubishi/outlander/2016/estandar/kaiteki/outlander-phev-kaiteki-4wd/datos",

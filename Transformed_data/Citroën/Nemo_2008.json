@@ -1,11 +1,12 @@
 {
+    "brand": "Citroën",
     "name": "Nemo",
     "year": "2008",
     "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Nemo Combi 1.4i X",
+            "name": "Combi 1.4i X",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/x/nemo-combi-14i-x/datos",
@@ -134,7 +135,7 @@
             ]
         },
         {
-            "name": "Nemo Combi 1.4i X",
+            "name": "Combi 1.4i X",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/x/nemo-combi-14i-x2/datos",
@@ -264,7 +265,7 @@
             ]
         },
         {
-            "name": "Nemo Multispace 1.4i Attraction",
+            "name": "Multispace 1.4i Attraction",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/attraction/nemo-multispace-14i-attraction/datos",
@@ -403,7 +404,7 @@
             ]
         },
         {
-            "name": "Nemo Combi 1.4i SX Plus",
+            "name": "Combi 1.4i SX Plus",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/sx-plus/nemo-combi-14i-sx-plus2/datos",
@@ -547,7 +548,7 @@
             ]
         },
         {
-            "name": "Nemo Combi HDi 70 X",
+            "name": "Combi HDi 70 X",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/x/nemo-combi-hdi-70-x/datos",
@@ -678,7 +679,7 @@
             ]
         },
         {
-            "name": "Nemo Combi HDi 70 X",
+            "name": "Combi HDi 70 X",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/x/nemo-combi-hdi-70-x3/datos",
@@ -807,7 +808,7 @@
             ]
         },
         {
-            "name": "Nemo Multispace 1.4i Seduction",
+            "name": "Multispace 1.4i Seduction",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/seduction/nemo-multispace-14i-seduction/datos",
@@ -956,7 +957,7 @@
             ]
         },
         {
-            "name": "Nemo Combi 1.4i SX Plus",
+            "name": "Combi 1.4i SX Plus",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/sx-plus/nemo-combi-14i-sx-plus/datos",
@@ -1099,7 +1100,7 @@
             ]
         },
         {
-            "name": "Nemo Multispace 1.4i Attraction",
+            "name": "Multispace 1.4i Attraction",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/attraction/nemo-multispace-14i-attraction2/datos",
@@ -1238,7 +1239,7 @@
             ]
         },
         {
-            "name": "Nemo Combi HDi 70 X",
+            "name": "Combi HDi 70 X",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/x/nemo-combi-hdi-70-x2/datos",
@@ -1367,7 +1368,7 @@
             ]
         },
         {
-            "name": "Nemo Combi HDi 75 X",
+            "name": "Combi HDi 75 X",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/x/nemo-combi-hdi-75-x/datos",
@@ -1496,7 +1497,7 @@
             ]
         },
         {
-            "name": "Nemo Multispace HDi 75 Attraction",
+            "name": "Multispace HDi 75 Attraction",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/attraction/nemo-multispace-hdi-75-attraction/datos",
@@ -1637,7 +1638,7 @@
             ]
         },
         {
-            "name": "Nemo Multispace 1.4i Seduction",
+            "name": "Multispace 1.4i Seduction",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/seduction/nemo-multispace-14i-seduction2/datos",
@@ -1786,7 +1787,7 @@
             ]
         },
         {
-            "name": "Nemo Combi HDi 70 SX Plus",
+            "name": "Combi HDi 70 SX Plus",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/sx-plus/nemo-combi-hdi-70-sx-plus2/datos",
@@ -1929,7 +1930,7 @@
             ]
         },
         {
-            "name": "Nemo Combi HDi 75 SX Plus",
+            "name": "Combi HDi 75 SX Plus",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/sx-plus/nemo-combi-hdi-75-sx-plus/datos",
@@ -2073,7 +2074,7 @@
             ]
         },
         {
-            "name": "Nemo Multispace HDi 75 Seduction",
+            "name": "Multispace HDi 75 Seduction",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/seduction/nemo-multispace-hdi-75-seduction/datos",
@@ -2224,7 +2225,7 @@
             ]
         },
         {
-            "name": "Nemo Combi HDi 70 SX Plus",
+            "name": "Combi HDi 70 SX Plus",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/sx-plus/nemo-combi-hdi-70-sx-plus/datos",
@@ -2367,7 +2368,7 @@
             ]
         },
         {
-            "name": "Nemo Multispace HDi 75 Attraction",
+            "name": "Multispace HDi 75 Attraction",
             "start_year": "2012",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/x/nemo-multispace-hdi-75-attraction2/datos",
@@ -2511,7 +2512,7 @@
             ]
         },
         {
-            "name": "Nemo Combi HDi 70 XTR",
+            "name": "Combi HDi 70 XTR",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/xtr/nemo-combi-hdi-70-xtr/datos",
@@ -2661,7 +2662,7 @@
             ]
         },
         {
-            "name": "Nemo Multispace HDi 80 Attraction",
+            "name": "Multispace HDi 80 Attraction",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/attraction/nemo-multispace-hdi-80-attraction/datos",
@@ -2805,7 +2806,7 @@
             ]
         },
         {
-            "name": "Nemo Combi 1.4i XTR",
+            "name": "Combi 1.4i XTR",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/xtr/nemo-combi-14i-xtr/datos",
@@ -2953,7 +2954,7 @@
             ]
         },
         {
-            "name": "Nemo Combi HDi 75 XTR Plus",
+            "name": "Combi HDi 75 XTR Plus",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/xtr-plus/nemo-combi-hdi-75-xtr-plus/datos",
@@ -3109,7 +3110,7 @@
             ]
         },
         {
-            "name": "Nemo Multispace HDi 75 XTR Plus",
+            "name": "Multispace HDi 75 XTR Plus",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/xtr-plus/nemo-multispace-hdi-75-xtr-plus/datos",
@@ -3267,7 +3268,7 @@
             ]
         },
         {
-            "name": "Nemo Combi 1.4i SX",
+            "name": "Combi 1.4i SX",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/sx/nemo-combi-14i-sx/datos",
@@ -3409,7 +3410,7 @@
             ]
         },
         {
-            "name": "Nemo Multispace HDi 80 Seduction",
+            "name": "Multispace HDi 80 Seduction",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/seduction/nemo-multispace-hdi-80-seduction/datos",
@@ -3562,7 +3563,7 @@
             ]
         },
         {
-            "name": "Nemo Multispace HDi 75 Seduction",
+            "name": "Multispace HDi 75 Seduction",
             "start_year": "2012",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/seduction/nemo-multispace-hdi-75-seduction2/datos",
@@ -3713,7 +3714,7 @@
             ]
         },
         {
-            "name": "Nemo Combi HDi 75 XTR",
+            "name": "Combi HDi 75 XTR",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/xtr/nemo-combi-hdi-75-xtr/datos",
@@ -3866,7 +3867,7 @@
             ]
         },
         {
-            "name": "Nemo Multispace HDi 75 XTR Plus",
+            "name": "Multispace HDi 75 XTR Plus",
             "start_year": "2012",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/xtr-plus/nemo-multispace-hdi-75-xtr-plus2/datos",
@@ -4027,7 +4028,7 @@
             ]
         },
         {
-            "name": "Nemo Combi HDi 70 SX",
+            "name": "Combi HDi 70 SX",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/sx/nemo-combi-hdi-70-sx/datos",
@@ -4172,7 +4173,7 @@
             ]
         },
         {
-            "name": "Nemo Multispace HDi 80 XTR Plus",
+            "name": "Multispace HDi 80 XTR Plus",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/citroen/nemo/2008/estandar/xtr-plus/nemo-multispace-hdi-80-xtr-plus/datos",

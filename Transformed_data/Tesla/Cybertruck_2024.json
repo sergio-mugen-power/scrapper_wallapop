@@ -1,11 +1,12 @@
 {
+    "brand": "Tesla",
     "name": "Cybertruck",
     "year": "2024",
     "url": "https://www.km77.com/coches/tesla/cybertruck/2024/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Cybertruck All-Wheel Drive ( - )",
+            "name": "All-Wheel Drive ( - )",
             "start_year": "Desconocido",
             "end_year": "Desconocido",
             "url": "https://www.km77.com/coches/tesla/cybertruck/2024/estandar/estandar/cybertruck-all-wheel-drive/datos",
@@ -16,7 +17,7 @@
             "maletero": "-"
         },
         {
-            "name": "Cybertruck Cyberbeast ( - )",
+            "name": "Cyberbeast ( - )",
             "start_year": "Desconocido",
             "end_year": "Desconocido",
             "url": "https://www.km77.com/coches/tesla/cybertruck/2024/estandar/estandar/cybertruck-cyberbeast/datos",
@@ -27,7 +28,7 @@
             "maletero": "-"
         },
         {
-            "name": "Cybertruck Rear-Wheel Drive ( - )",
+            "name": "Rear-Wheel Drive ( - )",
             "start_year": "Desconocido",
             "end_year": "Desconocido",
             "url": "https://www.km77.com/coches/tesla/cybertruck/2024/estandar/estandar/cybertruck-rear-wheel-drive/datos",

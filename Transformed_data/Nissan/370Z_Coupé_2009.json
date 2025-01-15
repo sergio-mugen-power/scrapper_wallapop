@@ -1,11 +1,12 @@
 {
+    "brand": "Nissan",
     "name": "370Z Coupé",
     "year": "2009",
     "url": "https://www.km77.com/coches/nissan/370z/2009/coupe",
     "price": "",
     "versions": [
         {
-            "name": "370Z Coupé",
+            "name": "",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/370z/2009/coupe/estandar/370z/datos",
@@ -190,7 +191,7 @@
             ]
         },
         {
-            "name": "370Z Coupé",
+            "name": "",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/370z/2009/coupe/estandar/370z-coupe/datos",
@@ -378,7 +379,7 @@
             ]
         },
         {
-            "name": "370Z Coupé GT",
+            "name": "GT",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/370z/2009/coupe/gt/370z-gt/datos",
@@ -571,7 +572,7 @@
             ]
         },
         {
-            "name": "370Z Coupé GT",
+            "name": "GT",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/370z/2009/coupe/gt/370z-coupe-gt/datos",
@@ -766,7 +767,7 @@
             ]
         },
         {
-            "name": "370Z Coupé GT Aut.",
+            "name": "GT Aut.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/370z/2009/coupe/gt/370z-coupe-gt-aut/datos",
@@ -964,7 +965,7 @@
             ]
         },
         {
-            "name": "370Z Coupé GT Aut.",
+            "name": "GT Aut.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/370z/2009/coupe/gt/370z-gt-aut/datos",

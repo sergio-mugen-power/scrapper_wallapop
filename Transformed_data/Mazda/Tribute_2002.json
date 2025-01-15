@@ -1,11 +1,12 @@
 {
+    "brand": "Mazda",
     "name": "Tribute",
     "year": "2002",
     "url": "https://www.km77.com/coches/mazda/tribute/2002/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Tribute Exclusive 2.0 16V 4x2",
+            "name": "Exclusive 2.0 16V 4x2",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/mazda/tribute/2002/estandar/exclusive/tribute-exclusive-20-16v-4x2/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "Tribute Touring 2.0 16V 4x4",
+            "name": "Touring 2.0 16V 4x4",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/mazda/tribute/2002/estandar/touring/tribute-touring-20-16v-4x4/datos",
@@ -312,7 +313,7 @@
             ]
         },
         {
-            "name": "Tribute Active 2.0 16V 4x4",
+            "name": "Active 2.0 16V 4x4",
             "start_year": "2003",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/mazda/tribute/2002/estandar/active/tribute-active-20-16v-4x4/datos",
@@ -486,7 +487,7 @@
             ]
         },
         {
-            "name": "Tribute Touring 3.0 V6 24v",
+            "name": "Touring 3.0 V6 24v",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/mazda/tribute/2002/estandar/touring/tribute-touring-30-v6-24v/datos",
@@ -630,7 +631,7 @@
             ]
         },
         {
-            "name": "Tribute Sportive 3.0 V6 24v",
+            "name": "Sportive 3.0 V6 24v",
             "start_year": "2003",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/mazda/tribute/2002/estandar/sportive/tribute-sportive-30-v6-24v/datos",

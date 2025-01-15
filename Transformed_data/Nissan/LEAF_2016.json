@@ -1,11 +1,12 @@
 {
+    "brand": "Nissan",
     "name": "LEAF",
     "year": "2016",
     "url": "https://www.km77.com/coches/nissan/leaf/2016/estandar",
     "price": "",
     "versions": [
         {
-            "name": "LEAF 24 kWh Visia",
+            "name": "24 kWh Visia",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/leaf/2016/estandar/visia/leaf-2016/datos",
@@ -175,7 +176,7 @@
             ]
         },
         {
-            "name": "LEAF 30 kWh Visia",
+            "name": "30 kWh Visia",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/leaf/2016/estandar/acenta/leaf-30-kwh-visia/datos",
@@ -347,7 +348,7 @@
             ]
         },
         {
-            "name": "LEAF 24 kWh Visia+",
+            "name": "24 kWh Visia+",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/nissan/leaf/2016/estandar/visiaplus/leaf-24-kwh-visia/datos",
@@ -523,7 +524,7 @@
             ]
         },
         {
-            "name": "LEAF 30 kWh Visia+",
+            "name": "30 kWh Visia+",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/leaf/2016/estandar/acenta/leaf-30-kwh-visia2/datos",
@@ -699,7 +700,7 @@
             ]
         },
         {
-            "name": "LEAF 24 kWh Acenta",
+            "name": "24 kWh Acenta",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/nissan/leaf/2016/estandar/acenta/leaf-24-kwh-acenta/datos",
@@ -878,7 +879,7 @@
             ]
         },
         {
-            "name": "LEAF 30 kWh Acenta",
+            "name": "30 kWh Acenta",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/leaf/2016/estandar/acenta/leaf-30-kwh-acenta/datos",
@@ -1060,7 +1061,7 @@
             ]
         },
         {
-            "name": "LEAF 24 kWh Tekna",
+            "name": "24 kWh Tekna",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/nissan/leaf/2016/estandar/tekna/leaf-24-kwh-tekna/datos",
@@ -1246,7 +1247,7 @@
             ]
         },
         {
-            "name": "LEAF 30 kWh Tekna",
+            "name": "30 kWh Tekna",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/nissan/leaf/2016/estandar/tekna/leaf-30-kwh-tekna/datos",

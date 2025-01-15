@@ -1,11 +1,12 @@
 {
+    "brand": "Jeep",
     "name": "Grand Cherokee",
     "year": "2008",
     "url": "https://www.km77.com/coches/jeep/grand-cherokee/2008/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Grand Cherokee Laredo 3.0 V6 CRD",
+            "name": "Laredo 3.0 V6 CRD",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2008/estandar/laredo/grand-cherokee-laredo-30-v6-crd/datos",
@@ -186,7 +187,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee 3.0 V6 CRD Laredo",
+            "name": "3.0 V6 CRD Laredo",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2008/estandar/laredo/grand-cherokee-30-v6-crd-laredo/datos",
@@ -369,7 +370,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee 3.0 V6 CRD Limited",
+            "name": "3.0 V6 CRD Limited",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2008/estandar/limited/grand-cherokee-30-v6-crd-limited/datos",
@@ -568,7 +569,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee Limited 3.0 V6 CRD",
+            "name": "Limited 3.0 V6 CRD",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2008/estandar/limited/grand-cherokee-limited-30-v6-crd/datos",
@@ -763,7 +764,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee 3.0 V6 CRD Overland",
+            "name": "3.0 V6 CRD Overland",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2008/estandar/overland/grand-cherokee-30-v6-crd-overland/datos",
@@ -963,7 +964,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee Overland 3.0 V6 CRD",
+            "name": "Overland 3.0 V6 CRD",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2008/estandar/overland/grand-cherokee-overland-30-v6-crd/datos",
@@ -1164,7 +1165,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee 6.1 V8 Hemi SRT8",
+            "name": "6.1 V8 Hemi SRT8",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2008/estandar/srt8/grand-cherokee-61-v8-hemi-srt8/datos",
@@ -1360,7 +1361,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee SRT8 6.1 V8 Hemi",
+            "name": "SRT8 6.1 V8 Hemi",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2008/estandar/srt8/grand-cherokee-srt8-61-v8-hemi/datos",

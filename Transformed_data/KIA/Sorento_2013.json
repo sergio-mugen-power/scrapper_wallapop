@@ -1,11 +1,12 @@
 {
+    "brand": "KIA",
     "name": "Sorento",
     "year": "2013",
     "url": "https://www.km77.com/coches/kia/sorento/2013/estandar",
     "price": "Desde 45.725 €",
     "versions": [
         {
-            "name": "Sorento 2.0 CRDi 150 CV Concept 4x2 7 plazas",
+            "name": "2.0 CRDi 150 CV Concept 4x2 7 plazas",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/kia/sorento/2013/estandar/concept/sorento-2013/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "Sorento 2.2 CRDi 197 CV Drive 4x2 7 plazas",
+            "name": "2.2 CRDi 197 CV Drive 4x2 7 plazas",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/kia/sorento/2013/estandar/drive/sorento-22-crdi-drive-4x2-7-plazas/datos",
@@ -348,7 +349,7 @@
             ]
         },
         {
-            "name": "Sorento 2.2 CRDi 197 CV Emotion 4x4 7 plazas",
+            "name": "2.2 CRDi 197 CV Emotion 4x4 7 plazas",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/kia/sorento/2013/estandar/emotion/sorento-22-crdi-emotion-4x4-7-plazas/datos",
@@ -531,7 +532,7 @@
             ]
         },
         {
-            "name": "Sorento 2.2 CRDi 197 CV Emotion Aut. 4x4 7 plazas",
+            "name": "2.2 CRDi 197 CV Emotion Aut. 4x4 7 plazas",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/kia/sorento/2013/estandar/emotion/sorento-22-crdi-emotion-aut-4x4-7-plazas/datos",

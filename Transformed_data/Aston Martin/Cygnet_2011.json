@@ -1,11 +1,12 @@
 {
+    "brand": "Aston Martin",
     "name": "Cygnet",
     "year": "2011",
     "url": "https://www.km77.com/coches/aston-martin/cygnet/2011/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Cygnet",
+            "name": "",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/aston-martin/cygnet/2011/estandar/estandar/cygnet-133-dual-vvt-i/datos",
@@ -16,7 +17,7 @@
             "maletero": "-"
         },
         {
-            "name": "Cygnet",
+            "name": "",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/aston-martin/cygnet/2011/estandar/estandar/cygnet/datos",
@@ -27,7 +28,7 @@
             "maletero": "-"
         },
         {
-            "name": "Cygnet CVT",
+            "name": "CVT",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/aston-martin/cygnet/2011/estandar/estandar/cygnet-133-dual-vvt-i-multidrive/datos",
@@ -38,7 +39,7 @@
             "maletero": "-"
         },
         {
-            "name": "Cygnet CVT",
+            "name": "CVT",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/aston-martin/cygnet/2011/estandar/estandar/cygnet-cvt/datos",

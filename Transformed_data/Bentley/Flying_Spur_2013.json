@@ -1,11 +1,12 @@
 {
+    "brand": "Bentley",
     "name": "Flying Spur",
     "year": "2013",
     "url": "https://www.km77.com/coches/bentley/flying-spur/2013/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Flying Spur V8",
+            "name": "V8",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bentley/flying-spur/2013/estandar/estandar/flying-spur-v8/datos",
@@ -269,7 +270,7 @@
             ]
         },
         {
-            "name": "Flying Spur V8 S",
+            "name": "V8 S",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bentley/flying-spur/2013/estandar/s/flying-spur-v8-s/datos",
@@ -539,7 +540,7 @@
             ]
         },
         {
-            "name": "Flying Spur W12",
+            "name": "W12",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/bentley/flying-spur/2013/estandar/estandar/flying-spur/datos",
@@ -802,7 +803,7 @@
             ]
         },
         {
-            "name": "Flying Spur W12",
+            "name": "W12",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bentley/flying-spur/2013/estandar/estandar/flying-spur-w12/datos",
@@ -1067,7 +1068,7 @@
             ]
         },
         {
-            "name": "Flying Spur W12 S",
+            "name": "W12 S",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bentley/flying-spur/2013/estandar/s/flying-spur-w12-s/datos",

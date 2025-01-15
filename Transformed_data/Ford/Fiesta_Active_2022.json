@@ -1,11 +1,12 @@
 {
+    "brand": "Ford",
     "name": "Fiesta Active",
     "year": "2022",
     "url": "https://www.km77.com/coches/ford/fiesta/2022/active",
     "price": "",
     "versions": [
         {
-            "name": "Fiesta Active 1.0 EcoBoost MHEV 92 kW (125 CV)",
+            "name": "1.0 EcoBoost MHEV 92 kW (125 CV)",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/ford/fiesta/2022/active/estandar/fiesta-active-10-ecoboost-mhev-92-kw-125-cv/datos",
@@ -118,7 +119,7 @@
             ]
         },
         {
-            "name": "Fiesta Active X 1.0 EcoBoost MHEV 92 kW (125 CV)",
+            "name": "X 1.0 EcoBoost MHEV 92 kW (125 CV)",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/ford/fiesta/2022/active/estandar/fiesta-active-x-10-ecoboost-mhev-92-kw-125-cv/datos",

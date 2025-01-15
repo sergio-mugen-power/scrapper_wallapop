@@ -1,11 +1,12 @@
 {
+    "brand": "Hyundai",
     "name": "Coupe",
     "year": "2005",
     "url": "https://www.km77.com/coches/hyundai/coupe/2005/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Coupe 1.6",
+            "name": "1.6",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/hyundai/coupe/2005/estandar/estandar/coupe-16/datos",
@@ -168,7 +169,7 @@
             ]
         },
         {
-            "name": "Coupe 2.0 Full CVVT",
+            "name": "2.0 Full CVVT",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/hyundai/coupe/2005/estandar/full/coupe-20-full-cvvt/datos",
@@ -332,7 +333,7 @@
             ]
         },
         {
-            "name": "Coupe 2.7 Full",
+            "name": "2.7 Full",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/hyundai/coupe/2005/estandar/full/coupe-27-full/datos",

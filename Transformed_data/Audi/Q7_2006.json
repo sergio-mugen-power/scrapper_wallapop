@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "Q7",
     "year": "2006",
     "url": "https://www.km77.com/coches/audi/q7/2006/estandar",
     "price": "Desde 80.570 €",
     "versions": [
         {
-            "name": "Q7 3.6 FSI quattro",
+            "name": "3.6 FSI quattro",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/q7/2006/estandar/estandar/q7-36-fsi-quattro/datos",
@@ -306,7 +307,7 @@
             ]
         },
         {
-            "name": "Q7 3.0 TDI 233 CV quattro tiptronic 6 vel.",
+            "name": "3.0 TDI 233 CV quattro tiptronic 6 vel.",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/audi/q7/2006/estandar/estandar/q7-30-tdi-233-cv-quattro-tiptronic-6-vel/datos",
@@ -615,7 +616,7 @@
             ]
         },
         {
-            "name": "Q7 3.6 FSI quattro",
+            "name": "3.6 FSI quattro",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/q7/2006/estandar/estandar/q7-36-fsi-quattro2/datos",
@@ -920,7 +921,7 @@
             ]
         },
         {
-            "name": "Q7 3.0 TDI quattro tiptronic DPF",
+            "name": "3.0 TDI quattro tiptronic DPF",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/q7/2006/estandar/estandar/q7-30-tdi-quattro-tiptronic-dpf/datos",
@@ -1229,7 +1230,7 @@
             ]
         },
         {
-            "name": "Q7 3.6 FSI quattro tiptronic",
+            "name": "3.6 FSI quattro tiptronic",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/q7/2006/estandar/estandar/q7-36-fsi-quattro-tiptronic/datos",
@@ -1537,7 +1538,7 @@
             ]
         },
         {
-            "name": "Q7 3.0 TDI quattro tiptronic DPF",
+            "name": "3.0 TDI quattro tiptronic DPF",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/q7/2006/estandar/estandar/q7-30-tdi-quattro-tiptronic-dpf2/datos",
@@ -1848,7 +1849,7 @@
             ]
         },
         {
-            "name": "Q7 3.6 FSI quattro tiptronic",
+            "name": "3.6 FSI quattro tiptronic",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/q7/2006/estandar/estandar/q7-36-fsi-quattro-tiptronic2/datos",
@@ -2158,7 +2159,7 @@
             ]
         },
         {
-            "name": "Q7 4.2 FSI quattro tiptronic",
+            "name": "4.2 FSI quattro tiptronic",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/q7/2006/estandar/estandar/q7-42-fsi-quattro-tiptronic/datos",
@@ -2461,7 +2462,7 @@
             ]
         },
         {
-            "name": "Q7 4.2 FSI quattro tiptronic",
+            "name": "4.2 FSI quattro tiptronic",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/q7/2006/estandar/estandar/q7-42-fsi-quattro-tiptronic2/datos",
@@ -2765,7 +2766,7 @@
             ]
         },
         {
-            "name": "Q7 4.2 TDI quattro tiptronic DPF",
+            "name": "4.2 TDI quattro tiptronic DPF",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/audi/q7/2006/estandar/estandar/q7-42-tdi-quattro-tiptronic-dpf/datos",
@@ -3070,7 +3071,7 @@
             ]
         },
         {
-            "name": "Q7 4.2 TDI quattro tiptronic DPF",
+            "name": "4.2 TDI quattro tiptronic DPF",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/q7/2006/estandar/estandar/q7-42-tdi-quattro-tiptronic-dpf2/datos",
@@ -3376,7 +3377,7 @@
             ]
         },
         {
-            "name": "Q7 6.0 TDI quattro tiptronic DPF",
+            "name": "6.0 TDI quattro tiptronic DPF",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/audi/q7/2006/estandar/60-tdi/q7-60-tdi-quattro-tiptronic-dpf/datos",

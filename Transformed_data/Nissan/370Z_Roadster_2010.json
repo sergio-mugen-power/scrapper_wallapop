@@ -1,11 +1,12 @@
 {
+    "brand": "Nissan",
     "name": "370Z Roadster",
     "year": "2010",
     "url": "https://www.km77.com/coches/nissan/370z/2010/roadster",
     "price": "",
     "versions": [
         {
-            "name": "370Z Roadster GT",
+            "name": "GT",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/370z/2010/roadster/gt/370z-roadster-gt/datos",
@@ -202,7 +203,7 @@
             ]
         },
         {
-            "name": "370Z Roadster GT",
+            "name": "GT",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/370z/2010/roadster/gt/370z-roadster-gt2/datos",
@@ -401,7 +402,7 @@
             ]
         },
         {
-            "name": "370Z Roadster GT Aut.",
+            "name": "GT Aut.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/nissan/370z/2010/roadster/gt/370z-roadster-gt-aut/datos",
@@ -595,7 +596,7 @@
             ]
         },
         {
-            "name": "370Z Roadster GT Aut.",
+            "name": "GT Aut.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/nissan/370z/2010/roadster/gt/370z-roadster-gt-aut2/datos",
@@ -795,7 +796,7 @@
             ]
         },
         {
-            "name": "370Z Roadster Pack",
+            "name": "Pack",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/370z/2010/roadster/pack/370z-roadster-pack/datos",
@@ -989,7 +990,7 @@
             ]
         },
         {
-            "name": "370Z Roadster Pack",
+            "name": "Pack",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/nissan/370z/2010/roadster/pack/370z-roadster-pack2/datos",
@@ -1181,7 +1182,7 @@
             ]
         },
         {
-            "name": "370Z Roadster Pack Aut.",
+            "name": "Pack Aut.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/370z/2010/roadster/pack/370z-roadster-pack-aut/datos",
@@ -1375,7 +1376,7 @@
             ]
         },
         {
-            "name": "370Z Roadster Pack",
+            "name": "Pack",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/nissan/370z/2010/roadster/pack/370z-roadster-pack3/datos",
@@ -1564,7 +1565,7 @@
             ]
         },
         {
-            "name": "370Z Roadster Pack",
+            "name": "Pack",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/370z/2010/roadster/pack/370z-roadster-pack4/datos",
@@ -1758,7 +1759,7 @@
             ]
         },
         {
-            "name": "370Z Roadster Pack Aut.",
+            "name": "Pack Aut.",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/nissan/370z/2010/roadster/pack/370z-roadster-pack-aut2/datos",
@@ -1951,7 +1952,7 @@
             ]
         },
         {
-            "name": "370Z Roadster Pack Aut.",
+            "name": "Pack Aut.",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/nissan/370z/2010/roadster/pack/370z-roadster-pack-aut3/datos",
@@ -2143,7 +2144,7 @@
             ]
         },
         {
-            "name": "370Z Roadster Pack Aut.",
+            "name": "Pack Aut.",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/370z/2010/roadster/pack/370z-roadster-pack-aut4/datos",

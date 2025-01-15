@@ -1,11 +1,12 @@
 {
+    "brand": "Hyundai",
     "name": "Santa Fe",
     "year": "2011",
     "url": "https://www.km77.com/coches/hyundai/santa-fe/2011/estandar",
     "price": "Desde 58.020 €",
     "versions": [
         {
-            "name": "Santa Fe 2.2 CRDI Confort",
+            "name": "2.2 CRDI Confort",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2011/estandar/confort/santa-fe-22-crdi-confort/datos",
@@ -193,7 +194,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.2 CRDI Style",
+            "name": "2.2 CRDI Style",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2011/estandar/style/santa-fe-22-crdi-style/datos",
@@ -388,7 +389,7 @@
             ]
         },
         {
-            "name": "Santa Fe 2.2 CRDI Style Aut.",
+            "name": "2.2 CRDI Style Aut.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/hyundai/santa-fe/2011/estandar/style/santa-fe-22-crdi-style-aut/datos",

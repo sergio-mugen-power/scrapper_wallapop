@@ -1,11 +1,12 @@
 {
+    "brand": "Peugeot",
     "name": "206 Coupé Cabrio",
     "year": "2001",
     "url": "https://www.km77.com/coches/peugeot/206/2001/coupe-cabrio",
     "price": "",
     "versions": [
         {
-            "name": "206 Coupé Cabrio Quiksilver 1.6",
+            "name": "Quiksilver 1.6",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/peugeot/206/2001/coupe-cabrio/quiksilver/206-coupe-cabrio-quiksilver-16/datos",
@@ -190,7 +191,7 @@
             ]
         },
         {
-            "name": "206 Coupé Cabrio 1.6",
+            "name": "1.6",
             "start_year": "2000",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/peugeot/206/2001/coupe-cabrio/xr/206-coupe-cabrio-16/datos",
@@ -374,7 +375,7 @@
             ]
         },
         {
-            "name": "206 Coupé Cabrio 1.6 Aut.",
+            "name": "1.6 Aut.",
             "start_year": "2000",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/peugeot/206/2001/coupe-cabrio/xr/206-coupe-cabrio-16-aut/datos",
@@ -558,7 +559,7 @@
             ]
         },
         {
-            "name": "206 Coupé Cabrio Quiksilver 1.6 Aut.",
+            "name": "Quiksilver 1.6 Aut.",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/peugeot/206/2001/coupe-cabrio/quiksilver/206-coupe-cabrio-quiksilver-16-aut/datos",
@@ -743,7 +744,7 @@
             ]
         },
         {
-            "name": "206 Coupé Cabrio 2.0",
+            "name": "2.0",
             "start_year": "2000",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/peugeot/206/2001/coupe-cabrio/xr/206-coupe-cabrio-20/datos",
@@ -929,7 +930,7 @@
             ]
         },
         {
-            "name": "206 Coupé Cabrio 1.6 HDi 110 FAP",
+            "name": "1.6 HDi 110 FAP",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/peugeot/206/2001/coupe-cabrio/xr/206-coupe-cabrio-16-hdi-110-fap/datos",

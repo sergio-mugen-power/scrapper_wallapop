@@ -1,11 +1,12 @@
 {
+    "brand": "Land Rover",
     "name": "Range Rover",
     "year": "2011",
     "url": "https://www.km77.com/coches/land-rover/range-rover/2011/estandar",
     "price": "Desde 140.950 €",
     "versions": [
         {
-            "name": "Range Rover 4.4 TDV8 HSE",
+            "name": "4.4 TDV8 HSE",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2011/estandar/hse/range-rover-44-tdv8-hse/datos",
@@ -245,7 +246,7 @@
             ]
         },
         {
-            "name": "Range Rover 4.4 TDV8 Vogue",
+            "name": "4.4 TDV8 Vogue",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2011/estandar/vogue/range-rover-44-tdv8-vogue/datos",
@@ -491,7 +492,7 @@
             ]
         },
         {
-            "name": "Range Rover 4.4 TDV8 Vogue",
+            "name": "4.4 TDV8 Vogue",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2011/estandar/vogue/range-rover-44-tdv8-vogue3/datos",
@@ -729,7 +730,7 @@
             ]
         },
         {
-            "name": "Range Rover 4.4 TDV8 Vogue+",
+            "name": "4.4 TDV8 Vogue+",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2011/estandar/vogueplus/range-rover-44-tdv8-vogue2/datos",
@@ -981,7 +982,7 @@
             ]
         },
         {
-            "name": "Range Rover 5.0 V8 Supercharged",
+            "name": "5.0 V8 Supercharged",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2011/estandar/estandar/range-rover-50-v8-supercharged/datos",
@@ -1227,7 +1228,7 @@
             ]
         },
         {
-            "name": "Range Rover 4.4 TDV8 Autobiography",
+            "name": "4.4 TDV8 Autobiography",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2011/estandar/autobiography/range-rover-44-tdv8-autobiography/datos",
@@ -1482,7 +1483,7 @@
             ]
         },
         {
-            "name": "Range Rover 5.0 V8 Supercharged Autobiography",
+            "name": "5.0 V8 Supercharged Autobiography",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2011/estandar/autobiography/range-rover-50-v8-supercharged-autobiography/datos",

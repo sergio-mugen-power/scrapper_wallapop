@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Sharan",
     "year": "2015",
     "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Sharan Edition 2.0 TDI 115 CV BMT 5 plazas",
+            "name": "Edition 2.0 TDI 115 CV BMT 5 plazas",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/edition/sharan-20-tdi-bmt-115-cv/datos",
@@ -25,7 +26,7 @@
             ]
         },
         {
-            "name": "Sharan Edition 2.0 TDI 115 CV BMT 7 plazas",
+            "name": "Edition 2.0 TDI 115 CV BMT 7 plazas",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/edition/sharan-edition-20-tdi-115-cv-bmt-7-plazas/datos",
@@ -45,7 +46,7 @@
             ]
         },
         {
-            "name": "Sharan Edition 2.0 TDI 150 CV BMT 5 plazas",
+            "name": "Edition 2.0 TDI 150 CV BMT 5 plazas",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/edition/sharan-20-tdi-bmt-150-cv/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "Sharan Edition 2.0 TDI 150 CV BMT 7 plazas",
+            "name": "Edition 2.0 TDI 150 CV BMT 7 plazas",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/edition/sharan-edition-20-tdi-150-cv-bmt-7-plazas/datos",
@@ -85,7 +86,7 @@
             ]
         },
         {
-            "name": "Sharan Edition 1.4 TSI 110 kW (150 CV) BMT 5 plazas",
+            "name": "Edition 1.4 TSI 110 kW (150 CV) BMT 5 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/edition/sharan-edition-14-tsi-110-kw-150-cv-bmt-5-plazas/datos",
@@ -105,7 +106,7 @@
             ]
         },
         {
-            "name": "Sharan Edition 1.4 TSI 110 kW (150 CV) BMT 7 plazas",
+            "name": "Edition 1.4 TSI 110 kW (150 CV) BMT 7 plazas",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/edition/sharan-edition-14-tsi-110-kw-150-cv-bmt-7-plazas/datos",
@@ -125,7 +126,7 @@
             ]
         },
         {
-            "name": "Sharan Edition 2.0 TDI 150 CV BMT DSG 5 plazas",
+            "name": "Edition 2.0 TDI 150 CV BMT DSG 5 plazas",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/edition/sharan-20-tdi-bmt-150-cv-dsg/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Sharan Edition 2.0 TDI 85 kW (115 CV) BMT 5 plazas",
+            "name": "Edition 2.0 TDI 85 kW (115 CV) BMT 5 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/edition/sharan-edition-20-tdi-85-kw-115-cv-bmt-5-plazas/datos",
@@ -165,7 +166,7 @@
             ]
         },
         {
-            "name": "Sharan Edition 2.0 TDI 85 kW (115 CV) BMT 7 plazas",
+            "name": "Edition 2.0 TDI 85 kW (115 CV) BMT 7 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/edition/sharan-edition-20-tdi-85-kw-115-cv-bmt-7-plazas/datos",
@@ -185,7 +186,7 @@
             ]
         },
         {
-            "name": "Sharan Edition 2.0 TDI 150 CV BMT DSG 7 plazas",
+            "name": "Edition 2.0 TDI 150 CV BMT DSG 7 plazas",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/edition/sharan-edition-20-tdi-150-cv-bmt-dsg-7-plazas/datos",
@@ -205,7 +206,7 @@
             ]
         },
         {
-            "name": "Sharan Edition 2.0 TDI 110 kW (150 CV) BMT 5 plazas",
+            "name": "Edition 2.0 TDI 110 kW (150 CV) BMT 5 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/edition/sharan-edition-20-tdi-110-kw-150-cv-bmt-5-plazas/datos",
@@ -225,7 +226,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 1.4 TSI 110 kW (150 CV) BMT 7 plazas",
+            "name": "Advance 1.4 TSI 110 kW (150 CV) BMT 7 plazas",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/advance/sharan-advance-14-tsi-110-kw-150-cv-bmt-7-plazas3/datos",
@@ -245,7 +246,7 @@
             ]
         },
         {
-            "name": "Sharan Edition 2.0 TDI 110 kW (150 CV) BMT 7 plazas",
+            "name": "Edition 2.0 TDI 110 kW (150 CV) BMT 7 plazas",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/edition/sharan-edition-20-tdi-110-kw-150-cv-bmt-7-plazas/datos",
@@ -265,7 +266,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 2.0 TDI 150 CV BMT 7 plazas",
+            "name": "Advance 2.0 TDI 150 CV BMT 7 plazas",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/advance/sharan-advance-20-tdi-150-cv-bmt/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 1.4 TSI 110 kW (150 CV) BMT DSG 7 plazas",
+            "name": "Advance 1.4 TSI 110 kW (150 CV) BMT DSG 7 plazas",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/advance/sharan-advance-14-tsi-110-kw-150-cv-bmt-dsg-7-plazas/datos",
@@ -305,7 +306,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 2.0 TDI 184 CV BMT 7 plazas",
+            "name": "Advance 2.0 TDI 184 CV BMT 7 plazas",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/advance/sharan-20-tdi-bmt-184-cv/datos",
@@ -325,7 +326,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 2.0 TDI 150 CV BMT 4Motion 7 plazas",
+            "name": "Advance 2.0 TDI 150 CV BMT 4Motion 7 plazas",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/advance/sharan-20-tdi-bmt-150-cv-4motion/datos",
@@ -345,7 +346,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 1.4 TSI 110 kW (150 CV) BMT 7 plazas",
+            "name": "Advance 1.4 TSI 110 kW (150 CV) BMT 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/advance/sharan-advance-14-tsi-110-kw-150-cv-bmt-7-plazas2/datos",
@@ -365,7 +366,7 @@
             ]
         },
         {
-            "name": "Sharan Ocean 2.0 TDI 150 CV BMT 7 plazas",
+            "name": "Ocean 2.0 TDI 150 CV BMT 7 plazas",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/ocean/sharan-ocean-20-tdi-150-cv-bmt/datos",
@@ -385,7 +386,7 @@
             ]
         },
         {
-            "name": "Sharan Edition 2.0 TDI 110 kW (150 CV) BMT DSG 5 plazas",
+            "name": "Edition 2.0 TDI 110 kW (150 CV) BMT DSG 5 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/edition/sharan-edition-20-tdi-110-kw-150-cv-bmt-dsg-5-plazas/datos",
@@ -405,7 +406,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 1.4 TSI 110 kW (150 CV) BMT 7 plazas",
+            "name": "Advance 1.4 TSI 110 kW (150 CV) BMT 7 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/advance/sharan-advance-14-tsi-110-kw-150-cv-bmt-7-plazas/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "Sharan Sport 1.4 TSI 110 kW (150 CV) BMT 7 plazas",
+            "name": "Sport 1.4 TSI 110 kW (150 CV) BMT 7 plazas",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/sport/sharan-sport-14-tsi-110-kw-150-cv-bmt-7-plazas2/datos",
@@ -445,7 +446,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 2.0 TDI 150 CV BMT DSG 7 plazas",
+            "name": "Advance 2.0 TDI 150 CV BMT DSG 7 plazas",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/advance/sharan-advance-20-tdi-150-cv-bmt-dsg/datos",
@@ -465,7 +466,7 @@
             ]
         },
         {
-            "name": "Sharan Edition 2.0 TDI 110 kW (150 CV) BMT DSG 7 plazas",
+            "name": "Edition 2.0 TDI 110 kW (150 CV) BMT DSG 7 plazas",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/edition/sharan-edition-20-tdi-110-kw-150-cv-bmt-dsg-7-plazas2/datos",
@@ -485,7 +486,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 2.0 TDI 184 CV BMT DSG 7 plazas",
+            "name": "Advance 2.0 TDI 184 CV BMT DSG 7 plazas",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/advance/sharan-20-tdi-bmt-184-cv-dsg/datos",
@@ -505,7 +506,7 @@
             ]
         },
         {
-            "name": "Sharan Sport 1.4 TSI 110 kW (150 CV) BMT DSG 7 plazas",
+            "name": "Sport 1.4 TSI 110 kW (150 CV) BMT DSG 7 plazas",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/sport/sharan-sport-14-tsi-110-kw-150-cv-bmt-dsg-7-plazas/datos",
@@ -525,7 +526,7 @@
             ]
         },
         {
-            "name": "Sharan Sport 2.0 TDI 150 CV BMT 7 plazas",
+            "name": "Sport 2.0 TDI 150 CV BMT 7 plazas",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/sport/sharan-sport-20-tdi-150-cv-bmt/datos",
@@ -545,7 +546,7 @@
             ]
         },
         {
-            "name": "Sharan Ocean 2.0 TDI 150 CV BMT DSG 7 plazas",
+            "name": "Ocean 2.0 TDI 150 CV BMT DSG 7 plazas",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/ocean/sharan-ocean-20-tdi-150-cv-bmt-dsg/datos",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "name": "Sharan Sport 2.0 TDI 184 CV BMT 7 plazas",
+            "name": "Sport 2.0 TDI 184 CV BMT 7 plazas",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/sport/sharan-sport-20-tdi-184-cv-bmt/datos",
@@ -585,7 +586,7 @@
             ]
         },
         {
-            "name": "Sharan Sport 2.0 TDI 150 CV BMT 4Motion 7 plazas",
+            "name": "Sport 2.0 TDI 150 CV BMT 4Motion 7 plazas",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/sport/sharan-sport-20-tdi-150-cv-bmt-4motion/datos",
@@ -605,7 +606,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 2.0 TDI 110 kW (150 CV) BMT 7 plazas",
+            "name": "Advance 2.0 TDI 110 kW (150 CV) BMT 7 plazas",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/advance/sharan-advance-20-tdi-110-kw-150-cv-bmt-7-plazas/datos",
@@ -625,7 +626,7 @@
             ]
         },
         {
-            "name": "Sharan Sport 1.4 TSI 110 kW (150 CV) BMT 7 plazas",
+            "name": "Sport 1.4 TSI 110 kW (150 CV) BMT 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/sport/sharan-sport-14-tsi-110-kw-150-cv-bmt-7-plazas/datos",
@@ -645,7 +646,7 @@
             ]
         },
         {
-            "name": "Sharan Sport 2.0 TDI 150 CV BMT DSG 7 plazas",
+            "name": "Sport 2.0 TDI 150 CV BMT DSG 7 plazas",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/sport/sharan-sport-20-tdi-150-cv-bmt-dsg/datos",
@@ -665,7 +666,7 @@
             ]
         },
         {
-            "name": "Sharan Sport 2.0 TDI 184 CV BMT DSG 7 plazas",
+            "name": "Sport 2.0 TDI 184 CV BMT DSG 7 plazas",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/sport/sharan-sport-20-tdi-184-cv-bmt-dsg/datos",
@@ -685,7 +686,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 2.0 TDI 110 kW (150 CV) BMT 4Motion 7 plazas",
+            "name": "Advance 2.0 TDI 110 kW (150 CV) BMT 4Motion 7 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/advance/sharan-advance-20-tdi-110-kw-150-cv-bmt-4motion-7-plazas/datos",
@@ -705,7 +706,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 2.0 TDI 110 kW (150 CV) BMT DSG 7 plazas",
+            "name": "Advance 2.0 TDI 110 kW (150 CV) BMT DSG 7 plazas",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/advance/sharan-advance-20-tdi-110-kw-150-cv-bmt-dsg-7-plazas/datos",
@@ -725,7 +726,7 @@
             ]
         },
         {
-            "name": "Sharan Sport 2.0 TSI 220 CV BMT 7 plazas",
+            "name": "Sport 2.0 TSI 220 CV BMT 7 plazas",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/sport/sharan-sport-20-tsi-220-cv-bmt-4motion-7-plazas/datos",
@@ -745,7 +746,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 2.0 TDI 130 kW (177 CV) BMT DSG 7 plazas",
+            "name": "Advance 2.0 TDI 130 kW (177 CV) BMT DSG 7 plazas",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/advance/sharan-advance-20-tdi-130-kw-177-cv-bmt-dsg-7-plazas/datos",
@@ -765,7 +766,7 @@
             ]
         },
         {
-            "name": "Sharan 1Million 1.4 TSI 110 kW (150 CV) BMT DSG 7 plazas",
+            "name": "1Million 1.4 TSI 110 kW (150 CV) BMT DSG 7 plazas",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/1million/sharan-1million-14-tsi-110-kw-150-cv-bmt-dsg-7-plazas2/datos",
@@ -785,7 +786,7 @@
             ]
         },
         {
-            "name": "Sharan Sport 2.0 TDI 110 kW (150 CV) BMT 7 plazas",
+            "name": "Sport 2.0 TDI 110 kW (150 CV) BMT 7 plazas",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/sport/sharan-sport-20-tdi-110-kw-150-cv-bmt-7-plazas/datos",
@@ -805,7 +806,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 2.0 TDI 110 kW (150 CV) BMT 7 plazas",
+            "name": "Advance 2.0 TDI 110 kW (150 CV) BMT 7 plazas",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/advance/sharan-advance-20-tdi-110-kw-150-cv-bmt-7-plazas2/datos",
@@ -825,7 +826,7 @@
             ]
         },
         {
-            "name": "Sharan 1Million 1.4 TSI 110 kW (150 CV) BMT DSG 7 plazas",
+            "name": "1Million 1.4 TSI 110 kW (150 CV) BMT DSG 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/1million/sharan-1million-14-tsi-110-kw-150-cv-bmt-dsg-7-plazas/datos",
@@ -845,7 +846,7 @@
             ]
         },
         {
-            "name": "Sharan Sport 2.0 TDI 110 kW (150 CV) BMT DSG 7 plazas",
+            "name": "Sport 2.0 TDI 110 kW (150 CV) BMT DSG 7 plazas",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/sport/sharan-sport-20-tdi-110-kw-150-cv-bmt-dsg-7-plazas/datos",
@@ -865,7 +866,7 @@
             ]
         },
         {
-            "name": "Sharan Sport 2.0 TDI 130 kW (177 CV) BMT DSG 7 plazas",
+            "name": "Sport 2.0 TDI 130 kW (177 CV) BMT DSG 7 plazas",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/sport/sharan-sport-20-tdi-130-kw-177-cv-bmt-dsg-7-plazas/datos",
@@ -885,7 +886,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 2.0 TDI 110 kW (150 CV) BMT DSG 7 plazas",
+            "name": "Advance 2.0 TDI 110 kW (150 CV) BMT DSG 7 plazas",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/advance/sharan-advance-20-tdi-110-kw-150-cv-bmt-dsg-7-plazas2/datos",
@@ -905,7 +906,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 2.0 TDI 130 kW (177 CV) BMT DSG 7 plazas",
+            "name": "Advance 2.0 TDI 130 kW (177 CV) BMT DSG 7 plazas",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/advance/sharan-advance-20-tdi-130-kw-177-cv-bmt-dsg-7-plazas2/datos",
@@ -925,7 +926,7 @@
             ]
         },
         {
-            "name": "Sharan Sport 2.0 TDI 110 kW (150 CV) BMT 7 plazas",
+            "name": "Sport 2.0 TDI 110 kW (150 CV) BMT 7 plazas",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/sport/sharan-sport-20-tdi-110-kw-150-cv-bmt-7-plazas2/datos",
@@ -945,7 +946,7 @@
             ]
         },
         {
-            "name": "Sharan 1Million 2.0 TDI 130 kW (177 CV) BMT DSG 7 plazas",
+            "name": "1Million 2.0 TDI 130 kW (177 CV) BMT DSG 7 plazas",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/1million/sharan-1million-20-tdi-130-kw-177-cv-bmt-dsg-7-plazas/datos",
@@ -965,7 +966,7 @@
             ]
         },
         {
-            "name": "Sharan Sport 2.0 TDI 110 kW (150 CV) BMT DSG 7 plazas",
+            "name": "Sport 2.0 TDI 110 kW (150 CV) BMT DSG 7 plazas",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/sport/sharan-sport-20-tdi-110-kw-150-cv-bmt-dsg-7-plazas2/datos",
@@ -985,7 +986,7 @@
             ]
         },
         {
-            "name": "Sharan Sport 2.0 TDI 130 kW (177 CV) BMT DSG 7 plazas",
+            "name": "Sport 2.0 TDI 130 kW (177 CV) BMT DSG 7 plazas",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/sport/sharan-sport-20-tdi-130-kw-177-cv-bmt-dsg-7-plazas2/datos",
@@ -1005,7 +1006,7 @@
             ]
         },
         {
-            "name": "Sharan Sport 2.0 TDI 130 kW (177 CV) BMT 4Motion DSG 7 plazas",
+            "name": "Sport 2.0 TDI 130 kW (177 CV) BMT 4Motion DSG 7 plazas",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/sport/sharan-sport-20-tdi-130-kw-177-cv-bmt-4motion-dsg-7-plazas/datos",
@@ -1025,7 +1026,7 @@
             ]
         },
         {
-            "name": "Sharan 1Million 2.0 TDI 130 kW (177 CV) BMT DSG 7 plazas",
+            "name": "1Million 2.0 TDI 130 kW (177 CV) BMT DSG 7 plazas",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/1million/sharan-1million-20-tdi-130-kw-177-cv-bmt-dsg-7-plazas2/datos",
@@ -1045,7 +1046,7 @@
             ]
         },
         {
-            "name": "Sharan 1Million 2.0 TDI 130 kW (177 CV) BMT 4Motion DSG 7 plazas",
+            "name": "1Million 2.0 TDI 130 kW (177 CV) BMT 4Motion DSG 7 plazas",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2015/estandar/1million/sharan-1million-20-tdi-130-kw-177-cv-bmt-4motion-dsg-7-plazas/datos",

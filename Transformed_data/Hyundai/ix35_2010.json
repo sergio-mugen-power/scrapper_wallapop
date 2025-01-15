@@ -1,11 +1,12 @@
 {
+    "brand": "Hyundai",
     "name": "ix35",
     "year": "2010",
     "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar",
     "price": "",
     "versions": [
         {
-            "name": "ix35 1.6 GDi 4X2 Classic",
+            "name": "1.6 GDi 4X2 Classic",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/classic/ix35-4x2-16-gdi-classic/datos",
@@ -193,7 +194,7 @@
             ]
         },
         {
-            "name": "ix35 1.6 GDi 4X2 Classic",
+            "name": "1.6 GDi 4X2 Classic",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/classic/ix35-16-gdi-4x2-classic/datos",
@@ -381,7 +382,7 @@
             ]
         },
         {
-            "name": "ix35 1.6 GDi 4X2 Stadt",
+            "name": "1.6 GDi 4X2 Stadt",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/stadt/ix35-16-gdi-4x2-stadt/datos",
@@ -572,7 +573,7 @@
             ]
         },
         {
-            "name": "ix35 1.7 CRDi 115 CV 4X2 Classic",
+            "name": "1.7 CRDi 115 CV 4X2 Classic",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/classic/ix35-17-crdi-115-cv-4x2-classic/datos",
@@ -761,7 +762,7 @@
             ]
         },
         {
-            "name": "ix35 1.7 CRDi 115 CV 4X2 Classic",
+            "name": "1.7 CRDi 115 CV 4X2 Classic",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/classic/ix35-4x2-17-crdi-115-cv-classic2/datos",
@@ -950,7 +951,7 @@
             ]
         },
         {
-            "name": "ix35 4x2 1.7 CRDi 115 CV Classic",
+            "name": "4x2 1.7 CRDi 115 CV Classic",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/classic/ix35-4x2-17-crdi-115-cv-classic/datos",
@@ -1327,7 +1328,7 @@
             ]
         },
         {
-            "name": "ix35 1.7 CRDi 115 CV 4X2 Stadt",
+            "name": "1.7 CRDi 115 CV 4X2 Stadt",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/stadt/ix35-17-crdi-115-cv-4x2-stadt/datos",
@@ -1519,7 +1520,7 @@
             ]
         },
         {
-            "name": "ix35 2.0 4x2 Classic",
+            "name": "2.0 4x2 Classic",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/classic/ix35-4x2-20-classic/datos",
@@ -1707,7 +1708,7 @@
             ]
         },
         {
-            "name": "ix35 1.7 CRDi 115 CV 4X2 Comfort",
+            "name": "1.7 CRDi 115 CV 4X2 Comfort",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/comfort/ix35-4x2-17-crdi-115-cv-comfort2/datos",
@@ -1901,7 +1902,7 @@
             ]
         },
         {
-            "name": "ix35 4x2 1.7 CRDi 115 CV Comfort",
+            "name": "4x2 1.7 CRDi 115 CV Comfort",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/comfort/ix35-4x2-17-crdi-115-cv-comfort/datos",
@@ -2095,7 +2096,7 @@
             ]
         },
         {
-            "name": "ix35 1.6 GDi 4X2 Tecno",
+            "name": "1.6 GDi 4X2 Tecno",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/tecno/ix35-16-gdi-4x2-tecno/datos",
@@ -2292,7 +2293,7 @@
             ]
         },
         {
-            "name": "ix35 1.7 CRDi 115 CV 4X2 Comfort",
+            "name": "1.7 CRDi 115 CV 4X2 Comfort",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/comfort/ix35-17-crdi-115-cv-4x2-comfort/datos",
@@ -2675,7 +2676,7 @@
             ]
         },
         {
-            "name": "ix35 1.6 GDi 4X2 SLE",
+            "name": "1.6 GDi 4X2 SLE",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/sle/ix35-16-gdi-4x2-sle/datos",
@@ -2874,7 +2875,7 @@
             ]
         },
         {
-            "name": "ix35 2.0 CRDi 136 CV 4X2 Classic",
+            "name": "2.0 CRDi 136 CV 4X2 Classic",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/classic/ix35-4x2-20-crdi-136-cv-classic/datos",
@@ -3063,7 +3064,7 @@
             ]
         },
         {
-            "name": "ix35 1.7 CRDi 115 CV 4X2 Tecno",
+            "name": "1.7 CRDi 115 CV 4X2 Tecno",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/tecno/ix35-17-crdi-115-cv-4x2-tecno/datos",
@@ -3261,7 +3262,7 @@
             ]
         },
         {
-            "name": "ix35 2.0 CRDi 136 CV 4X2 Comfort",
+            "name": "2.0 CRDi 136 CV 4X2 Comfort",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/comfort/ix35-4x2-20-crdi-136-cv-comfort/datos",
@@ -3649,7 +3650,7 @@
             ]
         },
         {
-            "name": "ix35 1.7 CRDi 115 CV 4X2 SLE",
+            "name": "1.7 CRDi 115 CV 4X2 SLE",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/sle/ix35-17-crdi-115-cv-4x2-sle/datos",
@@ -3849,7 +3850,7 @@
             ]
         },
         {
-            "name": "ix35 2.0 CRDi 136 CV 4X2 Comfort",
+            "name": "2.0 CRDi 136 CV 4X2 Comfort",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/comfort/ix35-20-crdi-136-cv-4x2-comfort/datos",
@@ -4042,7 +4043,7 @@
             ]
         },
         {
-            "name": "ix35 2.0 CRDi 136 CV 4X2 Tecno",
+            "name": "2.0 CRDi 136 CV 4X2 Tecno",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/tecno/ix35-20-crdi-136-cv-4x2-tecno/datos",
@@ -4240,7 +4241,7 @@
             ]
         },
         {
-            "name": "ix35 4x4 2.0 Comfort",
+            "name": "4x4 2.0 Comfort",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/comfort/ix35-4x4-20-comfort/datos",
@@ -4628,7 +4629,7 @@
             ]
         },
         {
-            "name": "ix35 2.0 CRDi 136 CV 4X4 Comfort",
+            "name": "2.0 CRDi 136 CV 4X4 Comfort",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/comfort/ix35-4x4-20-crdi-136-cv-comfort/datos",
@@ -4823,7 +4824,7 @@
             ]
         },
         {
-            "name": "ix35 2.0 CRDi 136 CV 4X2 SLE",
+            "name": "2.0 CRDi 136 CV 4X2 SLE",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/sle/ix35-20-crdi-136-cv-4x2-sle/datos",
@@ -5023,7 +5024,7 @@
             ]
         },
         {
-            "name": "ix35 2.0 CRDi 136 CV 4X4 Tecno",
+            "name": "2.0 CRDi 136 CV 4X4 Tecno",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/tecno/ix35-20-crdi-136-cv-4x4-tecno/datos",
@@ -5415,7 +5416,7 @@
             ]
         },
         {
-            "name": "ix35 2.0 CRDi 136 CV 4X4 SLE",
+            "name": "2.0 CRDi 136 CV 4X4 SLE",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/sle/ix35-20-crdi-136-cv-4x4-sle/datos",
@@ -5616,7 +5617,7 @@
             ]
         },
         {
-            "name": "ix35 2.0 4x4 Comfort Aut.",
+            "name": "2.0 4x4 Comfort Aut.",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/comfort/ix35-4x4-20-gls-comfort-aut2/datos",
@@ -6009,7 +6010,7 @@
             ]
         },
         {
-            "name": "ix35 2.0 CRDi 136 CV 4X4 Style",
+            "name": "2.0 CRDi 136 CV 4X4 Style",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/style/ix35-4x4-20-crdi-136-cv-style/datos",
@@ -6208,7 +6209,7 @@
             ]
         },
         {
-            "name": "ix35 2.0 CRDi 184 CV 4X4 Style",
+            "name": "2.0 CRDi 184 CV 4X4 Style",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/style/ix35-20-crdi-184-cv-4x4-style/datos",
@@ -6606,7 +6607,7 @@
             ]
         },
         {
-            "name": "ix35 2.0 CRDi 184 CV 4X4 Style",
+            "name": "2.0 CRDi 184 CV 4X4 Style",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/style/ix35-4x4-20-crdi-184-cv-style/datos",
@@ -7004,7 +7005,7 @@
             ]
         },
         {
-            "name": "ix35 2.0 CRDi 136 CV 4X4 Style S",
+            "name": "2.0 CRDi 136 CV 4X4 Style S",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/style-s/ix35-20-crdi-136-cv-4x4-style-s/datos",
@@ -7206,7 +7207,7 @@
             ]
         },
         {
-            "name": "ix35 2.0 CRDi 184 CV 4X4 Style Aut.",
+            "name": "2.0 CRDi 184 CV 4X4 Style Aut.",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/style/ix35-20-crdi-184-cv-4x4-style-aut/datos",
@@ -7404,7 +7405,7 @@
             ]
         },
         {
-            "name": "ix35 2.0 CRDi 184 CV 4X4 Style Aut.",
+            "name": "2.0 CRDi 184 CV 4X4 Style Aut.",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/style/ix35-4x4-20-crdi-184-cv-style-aut/datos",
@@ -7800,7 +7801,7 @@
             ]
         },
         {
-            "name": "ix35 2.0 CRDi 184 CV 4X4 Style S Aut.",
+            "name": "2.0 CRDi 184 CV 4X4 Style S Aut.",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/hyundai/ix35/2010/estandar/style-s/ix35-20-crdi-184-cv-4x4-style-s-aut/datos",

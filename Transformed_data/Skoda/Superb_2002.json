@@ -1,11 +1,12 @@
 {
+    "brand": "Skoda",
     "name": "Superb",
     "year": "2002",
     "url": "https://www.km77.com/coches/skoda/superb/2002/estandar",
     "price": "Desde 42.700 €",
     "versions": [
         {
-            "name": "Superb 1.9 TDI 101 CV Classic",
+            "name": "1.9 TDI 101 CV Classic",
             "start_year": "2005",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/skoda/superb/2002/estandar/classic/superb-19-tdi-101-cv-classic/datos",
@@ -94,7 +95,7 @@
             ]
         },
         {
-            "name": "Superb 1.9 TDI 105 CV Classic",
+            "name": "1.9 TDI 105 CV Classic",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/skoda/superb/2002/estandar/classic/superb-19-tdi-105-cv-classic/datos",
@@ -183,7 +184,7 @@
             ]
         },
         {
-            "name": "Superb 1.9 TDI 101 CV Comfort",
+            "name": "1.9 TDI 101 CV Comfort",
             "start_year": "2005",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/skoda/superb/2002/estandar/comfort/superb-19-tdi-101-cv-comfort/datos",
@@ -272,7 +273,7 @@
             ]
         },
         {
-            "name": "Superb 1.9 TDI 105 CV Confort",
+            "name": "1.9 TDI 105 CV Confort",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/skoda/superb/2002/estandar/comfort/superb-19-tdi-105-cv-confort/datos",
@@ -361,7 +362,7 @@
             ]
         },
         {
-            "name": "Superb 1.9 TDI 131 CV Classic",
+            "name": "1.9 TDI 131 CV Classic",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/skoda/superb/2002/estandar/classic/superb-19-tdi-131-cv-classic/datos",
@@ -450,7 +451,7 @@
             ]
         },
         {
-            "name": "Superb 1.8T Comfort",
+            "name": "1.8T Comfort",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/skoda/superb/2002/estandar/comfort/superb-18t-comfort/datos",
@@ -540,7 +541,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV Classic",
+            "name": "2.0 TDI 140 CV Classic",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/skoda/superb/2002/estandar/classic/superb-20-tdi-140-cv-classic/datos",
@@ -629,7 +630,7 @@
             ]
         },
         {
-            "name": "Superb 1.9 TDI 131 CV Comfort",
+            "name": "1.9 TDI 131 CV Comfort",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/skoda/superb/2002/estandar/comfort/superb-19-tdi-131-cv-comfort/datos",
@@ -718,7 +719,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV Confort",
+            "name": "2.0 TDI 140 CV Confort",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/skoda/superb/2002/estandar/comfort/superb-20-tdi-140-cv-confort/datos",
@@ -807,7 +808,7 @@
             ]
         },
         {
-            "name": "Superb 1.8T Elegance",
+            "name": "1.8T Elegance",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/skoda/superb/2002/estandar/elegance/superb-18t-elegance/datos",
@@ -897,7 +898,7 @@
             ]
         },
         {
-            "name": "Superb 1.9 TDI 131 CV Elegance",
+            "name": "1.9 TDI 131 CV Elegance",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/skoda/superb/2002/estandar/elegance/superb-19-tdi-131-cv-elegance/datos",
@@ -986,7 +987,7 @@
             ]
         },
         {
-            "name": "Superb 2.0 TDI 140 CV Elegance",
+            "name": "2.0 TDI 140 CV Elegance",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/skoda/superb/2002/estandar/elegance/superb-20-tdi-140-cv-elegance/datos",
@@ -1075,7 +1076,7 @@
             ]
         },
         {
-            "name": "Superb 2.5 TDI V6 Comfort",
+            "name": "2.5 TDI V6 Comfort",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/skoda/superb/2002/estandar/comfort/superb-25-tdi-v6-comfort/datos",
@@ -1165,7 +1166,7 @@
             ]
         },
         {
-            "name": "Superb Comfort 2.5 TDI V6",
+            "name": "Comfort 2.5 TDI V6",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/skoda/superb/2002/estandar/comfort/superb-comfort-25-tdi-v6/datos",
@@ -1254,7 +1255,7 @@
             ]
         },
         {
-            "name": "Superb 2.8 V6 Elegance",
+            "name": "2.8 V6 Elegance",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/skoda/superb/2002/estandar/elegance/superb-28-v6-elegance/datos",
@@ -1344,7 +1345,7 @@
             ]
         },
         {
-            "name": "Superb 1.9 TDI 131 CV Tiptronic Elegance",
+            "name": "1.9 TDI 131 CV Tiptronic Elegance",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/skoda/superb/2002/estandar/elegance/superb-19-tdi-131-cv-tiptronic-elegance/datos",
@@ -1432,7 +1433,7 @@
             ]
         },
         {
-            "name": "Superb 2.8 V6 Tiptronic Elegance",
+            "name": "2.8 V6 Tiptronic Elegance",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/skoda/superb/2002/estandar/elegance/superb-28-v6-tiptronic-elegance/datos",
@@ -1522,7 +1523,7 @@
             ]
         },
         {
-            "name": "Superb 2.5 TDI V6 Elegance",
+            "name": "2.5 TDI V6 Elegance",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/skoda/superb/2002/estandar/elegance/superb-25-tdi-v6-elegance/datos",
@@ -1612,7 +1613,7 @@
             ]
         },
         {
-            "name": "Superb Elegance 2.5 TDI V6",
+            "name": "Elegance 2.5 TDI V6",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/skoda/superb/2002/estandar/elegance/superb-elegance-25-tdi-v6/datos",
@@ -1701,7 +1702,7 @@
             ]
         },
         {
-            "name": "Superb 2.5 TDI V6 Tiptronic Elegance",
+            "name": "2.5 TDI V6 Tiptronic Elegance",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/skoda/superb/2002/estandar/elegance/superb-25-tdi-v6-tiptronic-elegance/datos",
@@ -1791,7 +1792,7 @@
             ]
         },
         {
-            "name": "Superb Elegance 2.5 TDI V6 Tiptronic",
+            "name": "Elegance 2.5 TDI V6 Tiptronic",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/skoda/superb/2002/estandar/elegance/superb-elegance-25-tdi-v6-tiptronic/datos",

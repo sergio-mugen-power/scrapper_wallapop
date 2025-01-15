@@ -1,11 +1,12 @@
 {
+    "brand": "Alfa Romeo",
     "name": "GTV",
     "year": "1998",
     "url": "https://www.km77.com/coches/alfa-romeo/gtv/1998/estandar",
     "price": "",
     "versions": [
         {
-            "name": "GTV 1.8",
+            "name": "1.8",
             "start_year": "1998",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/alfa-romeo/gtv/1998/estandar/lujo/gtv-18/datos",
@@ -136,7 +137,7 @@
             ]
         },
         {
-            "name": "GTV 2.0 Medio",
+            "name": "2.0 Medio",
             "start_year": "1998",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/alfa-romeo/gtv/1998/estandar/medio/gtv-20-medio/datos",
@@ -268,7 +269,7 @@
             ]
         },
         {
-            "name": "GTV 2.0 TS",
+            "name": "2.0 TS",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/alfa-romeo/gtv/1998/estandar/lujo/gtv-20-ts/datos",
@@ -403,7 +404,7 @@
             ]
         },
         {
-            "name": "GTV 2.0 TS Elegante",
+            "name": "2.0 TS Elegante",
             "start_year": "2003",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/alfa-romeo/gtv/1998/estandar/elegante/gtv-20-ts-elegante/datos",
@@ -533,7 +534,7 @@
             ]
         },
         {
-            "name": "GTV 3.0 V6 24v Lujo",
+            "name": "3.0 V6 24v Lujo",
             "start_year": "1998",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/alfa-romeo/gtv/1998/estandar/lujo/gtv-30-v6-24v-lujo/datos",
@@ -667,7 +668,7 @@
             ]
         },
         {
-            "name": "GTV 3.0 V6 24v",
+            "name": "3.0 V6 24v",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/alfa-romeo/gtv/1998/estandar/lujo/gtv-30-v6-24v/datos",
@@ -803,7 +804,7 @@
             ]
         },
         {
-            "name": "GTV 3.0 V6 Cup",
+            "name": "3.0 V6 Cup",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/alfa-romeo/gtv/1998/estandar/cup/gtv-30-v6-cup/datos",

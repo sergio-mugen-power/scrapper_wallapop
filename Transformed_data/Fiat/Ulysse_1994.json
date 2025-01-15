@@ -1,11 +1,12 @@
 {
+    "brand": "Fiat",
     "name": "Ulysse",
     "year": "1994",
     "url": "https://www.km77.com/coches/fiat/ulysse/1994/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Ulysse 2.0 S 5P",
+            "name": "2.0 S 5P",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/fiat/ulysse/1994/estandar/estandar/ulysse-20-s-5p/datos",
@@ -88,7 +89,7 @@
             ]
         },
         {
-            "name": "Ulysse 2.0 16v S",
+            "name": "2.0 16v S",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/fiat/ulysse/1994/estandar/s/ulysse-20-16v-s/datos",
@@ -99,7 +100,7 @@
             "maletero": "341"
         },
         {
-            "name": "Ulysse 1.9 TD S",
+            "name": "1.9 TD S",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/fiat/ulysse/1994/estandar/s/ulysse-19-td-s/datos",
@@ -110,7 +111,7 @@
             "maletero": "341"
         },
         {
-            "name": "Ulysse 2.0 16v EL 5P",
+            "name": "2.0 16v EL 5P",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/fiat/ulysse/1994/estandar/el/ulysse-20-16v-el-5p/datos",
@@ -194,7 +195,7 @@
             ]
         },
         {
-            "name": "Ulysse 2.0 JTD S",
+            "name": "2.0 JTD S",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/fiat/ulysse/1994/estandar/s/ulysse-20-jtd-s/datos",
@@ -317,7 +318,7 @@
             ]
         },
         {
-            "name": "Ulysse 2.0 JTD EL",
+            "name": "2.0 JTD EL",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/fiat/ulysse/1994/estandar/el/ulysse-20-jtd-el/datos",
@@ -446,7 +447,7 @@
             ]
         },
         {
-            "name": "Ulysse 2.0 JTD EL",
+            "name": "2.0 JTD EL",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/fiat/ulysse/1994/estandar/el/ulysse-20-jtd-el2/datos",
@@ -575,7 +576,7 @@
             ]
         },
         {
-            "name": "Ulysse 2.1 TD EL",
+            "name": "2.1 TD EL",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/fiat/ulysse/1994/estandar/el/ulysse-21-td-el/datos",

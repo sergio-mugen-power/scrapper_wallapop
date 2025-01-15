@@ -1,11 +1,12 @@
 {
+    "brand": "Honda",
     "name": "CR-V",
     "year": "1996",
     "url": "https://www.km77.com/coches/honda/cr-v/1996/estandar",
     "price": "Desde 48.145 €",
     "versions": [
         {
-            "name": "CR-V 2.0i DOHC 4x4",
+            "name": "2.0i DOHC 4x4",
             "start_year": "1997",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/honda/cr-v/1996/estandar/estandar/cr-v-20i-dohc-4x4/datos",
@@ -139,7 +140,7 @@
             ]
         },
         {
-            "name": "CR-V 2.0i DOHC 4x4 Aut.",
+            "name": "2.0i DOHC 4x4 Aut.",
             "start_year": "1997",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/honda/cr-v/1996/estandar/estandar/cr-v-20i-dohc-4x4-aut/datos",
@@ -273,7 +274,7 @@
             ]
         },
         {
-            "name": "CR-V 2.0i DOHC 4x4 Luxury",
+            "name": "2.0i DOHC 4x4 Luxury",
             "start_year": "1997",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/honda/cr-v/1996/estandar/luxury/cr-v-20i-dohc-4x4-luxury/datos",

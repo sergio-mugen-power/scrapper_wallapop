@@ -1,11 +1,12 @@
 {
+    "brand": "Bentley",
     "name": "Arnage",
     "year": "2007",
     "url": "https://www.km77.com/coches/bentley/arnage/2007/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Arnage R",
+            "name": "R",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bentley/arnage/2007/estandar/r/arnage-r/datos",
@@ -16,7 +17,7 @@
             "maletero": "374"
         },
         {
-            "name": "Arnage R",
+            "name": "R",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/bentley/arnage/2007/estandar/r/arnage-r2/datos",
@@ -27,7 +28,7 @@
             "maletero": "374"
         },
         {
-            "name": "Arnage T",
+            "name": "T",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bentley/arnage/2007/estandar/t/arnage-t/datos",
@@ -38,7 +39,7 @@
             "maletero": "374"
         },
         {
-            "name": "Arnage T",
+            "name": "T",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/bentley/arnage/2007/estandar/t/arnage-t2/datos",

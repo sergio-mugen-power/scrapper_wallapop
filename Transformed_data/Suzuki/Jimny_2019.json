@@ -1,11 +1,12 @@
 {
+    "brand": "Suzuki",
     "name": "Jimny",
     "year": "2019",
     "url": "https://www.km77.com/coches/suzuki/jimny/2019/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Jimny 1.5 JX",
+            "name": "1.5 JX",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/suzuki/jimny/2019/estandar/jx/jimny-15-jx/datos",
@@ -99,7 +100,7 @@
             ]
         },
         {
-            "name": "Jimny 1.5 JLX Aut.",
+            "name": "1.5 JLX Aut.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/suzuki/jimny/2019/estandar/jlx/jimny-15-jlx-aut/datos",
@@ -193,7 +194,7 @@
             ]
         },
         {
-            "name": "Jimny 1.5 JLX",
+            "name": "1.5 JLX",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/suzuki/jimny/2019/estandar/jlx/jimny-15-jlx/datos",
@@ -287,7 +288,7 @@
             ]
         },
         {
-            "name": "Jimny 1.5 Mode 3",
+            "name": "1.5 Mode 3",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/suzuki/jimny/2019/estandar/mode-3/jimny-15-mode-3/datos",
@@ -381,7 +382,7 @@
             ]
         },
         {
-            "name": "Jimny 1.5 Mode 3 Aut.",
+            "name": "1.5 Mode 3 Aut.",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/suzuki/jimny/2019/estandar/mode-3/jimny-15-mode-3-aut/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Touareg",
     "year": "2018",
     "url": "https://www.km77.com/coches/volkswagen/touareg/2018/estandar",
     "price": "Desde 70.860 €",
     "versions": [
         {
-            "name": "Touareg Pure 3.0 V6 TDI 170 kW (231 CV) 4MOTION Tiptronic 8 vel.",
+            "name": "Pure 3.0 V6 TDI 170 kW (231 CV) 4MOTION Tiptronic 8 vel.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2018/estandar/pure/touareg-pure-30-v6-tdi-170-kw-231-cv-4motion-tiptronic-8-vel/datos",
@@ -26,7 +27,7 @@
             ]
         },
         {
-            "name": "Touareg Premium 3.0 V6 TDI 170 kW (231 CV) 4MOTION Tiptronic 8 vel.",
+            "name": "Premium 3.0 V6 TDI 170 kW (231 CV) 4MOTION Tiptronic 8 vel.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2018/estandar/premium/touareg-premium-30-v6-tdi-170-kw-231-cv-4motion-tiptronic-8-vel/datos",
@@ -47,7 +48,7 @@
             ]
         },
         {
-            "name": "Touareg Pure 3.0 V6 TDI 170 kW (231 CV) 4MOTION Tiptronic 8 vel.",
+            "name": "Pure 3.0 V6 TDI 170 kW (231 CV) 4MOTION Tiptronic 8 vel.",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2018/estandar/estandar/touareg-pure-30-v6-tdi-170-kw-231-cv-4motion-tiptronic-8-vel2/datos",
@@ -68,7 +69,7 @@
             ]
         },
         {
-            "name": "Touareg Premium 3.0 V6 TDI 210 kW (286 CV) 4MOTION Tiptronic 8 vel.",
+            "name": "Premium 3.0 V6 TDI 210 kW (286 CV) 4MOTION Tiptronic 8 vel.",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2018/estandar/premium/touareg-premium-30-v6-tdi-210-kw-286-cv-4motion-tiptronic-8-vel/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Touareg Premium 3.0 V6 TDI 210 kW (286 CV) 4MOTION Tiptronic 8 vel.",
+            "name": "Premium 3.0 V6 TDI 210 kW (286 CV) 4MOTION Tiptronic 8 vel.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2018/estandar/premium/touareg-premium-30-v6-tdi-210-kw-286-cv-4motion-tiptronic-8-vel2/datos",
@@ -110,7 +111,7 @@
             ]
         },
         {
-            "name": "Touareg Premium 3.0 V6 TDI 170 kW (231 CV) 4MOTION Tiptronic 8 vel.",
+            "name": "Premium 3.0 V6 TDI 170 kW (231 CV) 4MOTION Tiptronic 8 vel.",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2018/estandar/estandar/touareg-premium-30-v6-tdi-170-kw-231-cv-4motion-tiptronic-8-vel2/datos",
@@ -131,7 +132,7 @@
             ]
         },
         {
-            "name": "Touareg R-Line 3.0 V6 TDI 170 kW (231 CV) 4MOTION Tiptronic 8 vel.",
+            "name": "R-Line 3.0 V6 TDI 170 kW (231 CV) 4MOTION Tiptronic 8 vel.",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2018/estandar/r-line/touareg-r-line-30-v6-tdi-170-kw-231-cv-4motion-tiptronic-8-vel/datos",
@@ -152,7 +153,7 @@
             ]
         },
         {
-            "name": "Touareg R-Line 3.0 V6 TDI 210 kW (286 CV) 4MOTION Tiptronic 8 vel.",
+            "name": "R-Line 3.0 V6 TDI 210 kW (286 CV) 4MOTION Tiptronic 8 vel.",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2018/estandar/r-line/touareg-r-line-30-v6-tdi-210-kw-286-cv-4motion-tiptronic-8-vel/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "Touareg Premium 3.0 V6 TDI 210 kW (286 CV) 4MOTION Tiptronic 8 vel.",
+            "name": "Premium 3.0 V6 TDI 210 kW (286 CV) 4MOTION Tiptronic 8 vel.",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2018/estandar/estandar/touareg-premium-30-v6-tdi-210-kw-286-cv-4motion-tiptronic-8-vel3/datos",
@@ -194,7 +195,7 @@
             ]
         },
         {
-            "name": "Touareg R-Line 3.0 V6 TDI 210 kW (286 CV) 4MOTION Tiptronic 8 vel.",
+            "name": "R-Line 3.0 V6 TDI 210 kW (286 CV) 4MOTION Tiptronic 8 vel.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2018/estandar/r-line/touareg-r-line-30-v6-tdi-210-kw-286-cv-4motion-tiptronic-8-vel2/datos",
@@ -215,7 +216,7 @@
             ]
         },
         {
-            "name": "Touareg R-Line 3.0 V6 TDI 170 kW (231 CV) 4MOTION Tiptronic 8 vel.",
+            "name": "R-Line 3.0 V6 TDI 170 kW (231 CV) 4MOTION Tiptronic 8 vel.",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2018/estandar/estandar/touareg-r-line-30-v6-tdi-170-kw-231-cv-4motion-tiptronic-8-vel2/datos",
@@ -236,7 +237,7 @@
             ]
         },
         {
-            "name": "Touareg eHybrid Atmosphere 3.0 V6 TSI 4MOTION 280 kW (381 CV) Tiptronic 8 vel.",
+            "name": "eHybrid Atmosphere 3.0 V6 TSI 4MOTION 280 kW (381 CV) Tiptronic 8 vel.",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2018/estandar/ehybrid/touareg-ehybrid-atmosphere/datos",
@@ -260,7 +261,7 @@
             ]
         },
         {
-            "name": "Touareg eHybrid Elegance 3.0 V6 TSI 4MOTION 280 kW (381 CV) Tiptronic 8 vel.",
+            "name": "eHybrid Elegance 3.0 V6 TSI 4MOTION 280 kW (381 CV) Tiptronic 8 vel.",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2018/estandar/ehybrid/touareg-ehybrid-elegance/datos",
@@ -284,7 +285,7 @@
             ]
         },
         {
-            "name": "Touareg R-Line 3.0 V6 TSI 250 kW (340 CV) 4MOTION Tiptronic 8 vel.",
+            "name": "R-Line 3.0 V6 TSI 250 kW (340 CV) 4MOTION Tiptronic 8 vel.",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2018/estandar/r-line/touareg-r-line-30-v6-tsi-250-kw-340-cv-4motion-tiptronic-8-vel/datos",
@@ -305,7 +306,7 @@
             ]
         },
         {
-            "name": "Touareg R-Line 3.0 V6 TDI 210 kW (286 CV) 4MOTION Tiptronic 8 vel.",
+            "name": "R-Line 3.0 V6 TDI 210 kW (286 CV) 4MOTION Tiptronic 8 vel.",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2018/estandar/estandar/touareg-r-line-30-v6-tdi-210-kw-286-cv-4motion-tiptronic-8-vel3/datos",
@@ -326,7 +327,7 @@
             ]
         },
         {
-            "name": "Touareg R 3.0 V6 TSI 4MOTION 340 kW (462 CV) Tiptronic 8 vel.",
+            "name": "R 3.0 V6 TSI 4MOTION 340 kW (462 CV) Tiptronic 8 vel.",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2018/estandar/ehybrid/touareg-r-ehybrid/datos",
@@ -350,7 +351,7 @@
             ]
         },
         {
-            "name": "Touareg R-Line 4.0 V8 TDI 310 kW (420 CV) 4MOTION Tiptronic 8 vel.",
+            "name": "R-Line 4.0 V8 TDI 310 kW (420 CV) 4MOTION Tiptronic 8 vel.",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2018/estandar/r-line/touareg-r-line-40-v8-tdi-310-kw-420-cv-4motion-tiptronic-8-vel/datos",

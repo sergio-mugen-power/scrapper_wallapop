@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "Q7",
     "year": "2020",
     "url": "https://www.km77.com/coches/audi/q7/2020/estandar",
     "price": "Desde 80.570 €",
     "versions": [
         {
-            "name": "Q7 45 TDI quattro tiptronic 5 plazas",
+            "name": "45 TDI quattro tiptronic 5 plazas",
             "start_year": "2019",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/audi/q7/2020/estandar/estandar/q7-45-tdi-quattro-tiptronic-5-plazas/datos",
@@ -342,7 +343,7 @@
             ]
         },
         {
-            "name": "Q7 45 TDI quattro tiptronic 7 plazas",
+            "name": "45 TDI quattro tiptronic 7 plazas",
             "start_year": "2019",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/audi/q7/2020/estandar/estandar/q7-45-tdi-quattro-tiptronic-7-plazas/datos",
@@ -679,7 +680,7 @@
             ]
         },
         {
-            "name": "Q7 50 TDI quattro tiptronic 5 plazas",
+            "name": "50 TDI quattro tiptronic 5 plazas",
             "start_year": "2019",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/audi/q7/2020/estandar/estandar/q7-50-tdi-quattro-tiptronic-5-plazas/datos",
@@ -1016,7 +1017,7 @@
             ]
         },
         {
-            "name": "Q7 55 TFSIe quattro",
+            "name": "55 TFSIe quattro",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/audi/q7/2020/estandar/e/q7-55-tfsi-e-quattro/datos",
@@ -1347,7 +1348,7 @@
             ]
         },
         {
-            "name": "Q7 50 TDI quattro tiptronic 7 plazas",
+            "name": "50 TDI quattro tiptronic 7 plazas",
             "start_year": "2019",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/audi/q7/2020/estandar/estandar/q7-50-tdi-quattro-tiptronic-7-plazas/datos",
@@ -1684,7 +1685,7 @@
             ]
         },
         {
-            "name": "Q7 60 TFSIe quattro",
+            "name": "60 TFSIe quattro",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/audi/q7/2020/estandar/e/q7-60-tfsi-e-quattro/datos",
@@ -2012,7 +2013,7 @@
             ]
         },
         {
-            "name": "Q7 60 TFSIe quattro S line",
+            "name": "60 TFSIe quattro S line",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/audi/q7/2020/estandar/e/q7-60-tfsie-quattro-competition/datos",
@@ -2334,7 +2335,7 @@
             ]
         },
         {
-            "name": "Q7 60 TFSIe quattro S line",
+            "name": "60 TFSIe quattro S line",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/audi/q7/2020/estandar/e/q7-60-tfsie-quattro-competition2/datos",
@@ -2651,7 +2652,7 @@
             ]
         },
         {
-            "name": "SQ7 TDI quattro tiptronic 320 kW (435 CV) 5 plazas",
+            "name": "S TDI quattro tiptronic 320 kW (435 CV) 5 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/audi/q7/2020/estandar/sq7/sq7-tdi-quattro-tiptronic-320-kw-435-cv/datos",
@@ -3003,7 +3004,7 @@
             ]
         },
         {
-            "name": "SQ7 TDI quattro tiptronic 320 kW (435 CV) 7 plazas",
+            "name": "S TDI quattro tiptronic 320 kW (435 CV) 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/audi/q7/2020/estandar/sq7/sq7-tdi-quattro-tiptronic-320-kw-435-cv-7-plazas/datos",
@@ -3355,7 +3356,7 @@
             ]
         },
         {
-            "name": "SQ7 TFSI quattro tiptronic 5 plazas",
+            "name": "S TFSI quattro tiptronic 5 plazas",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/audi/q7/2020/estandar/sq7/sq7-40-tfsi/datos",
@@ -3666,7 +3667,7 @@
             ]
         },
         {
-            "name": "SQ7 TFSI quattro tiptronic 7 plazas",
+            "name": "S TFSI quattro tiptronic 7 plazas",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/audi/q7/2020/estandar/sq7/sq7-tfsi-quattro-tiptronic-373-kw-507-cv-7-plazas/datos",

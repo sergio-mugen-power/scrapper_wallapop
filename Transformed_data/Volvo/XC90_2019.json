@@ -1,11 +1,12 @@
 {
+    "brand": "Volvo",
     "name": "XC90",
     "year": "2019",
     "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar",
     "price": "Desde 81.200 €",
     "versions": [
         {
-            "name": "XC90 B5 Diesel AWD Momentum 5 asientos",
+            "name": "B5 Diesel AWD Momentum 5 asientos",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/momentum/xc90-b5-awd-momentum-5-asientos/datos",
@@ -28,7 +29,7 @@
             ]
         },
         {
-            "name": "XC90 B5 Diesel Momentum Pro AWD",
+            "name": "B5 Diesel Momentum Pro AWD",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/estandar/xc90-b5-diesel-awd-momentum-pro/datos",
@@ -51,7 +52,7 @@
             ]
         },
         {
-            "name": "XC90 B5 Diesel AWD Momentum 7 asientos",
+            "name": "B5 Diesel AWD Momentum 7 asientos",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/momentum/xc90-b5-awd-momentum-7-asientos/datos",
@@ -74,7 +75,7 @@
             ]
         },
         {
-            "name": "XC90 T5 AWD Momentum 7 asientos",
+            "name": "T5 AWD Momentum 7 asientos",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/momentum/xc90-t5-awd-momentum-7-asientos/datos",
@@ -94,7 +95,7 @@
             ]
         },
         {
-            "name": "XC90 B5 Diesel AWD Business Plus 7 asientos",
+            "name": "B5 Diesel AWD Business Plus 7 asientos",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/business-plus/xc90-b5-awd-business-plus-7-asientos/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "XC90 B5 Gasolina AWD Momentum 7 asientos",
+            "name": "B5 Gasolina AWD Momentum 7 asientos",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/momentum/xc90-b5-gasolina-awd-momentum-7-asientos/datos",
@@ -140,7 +141,7 @@
             ]
         },
         {
-            "name": "XC90 T5 AWD Business Plus 7 asientos",
+            "name": "T5 AWD Business Plus 7 asientos",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/business-plus/xc90-t5-awd-business-plus-7-asientos/datos",
@@ -160,7 +161,7 @@
             ]
         },
         {
-            "name": "XC90 B5 Gasolina AWD Business Plus 7 asientos",
+            "name": "B5 Gasolina AWD Business Plus 7 asientos",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/business-plus/xc90-b5-gasolina-awd-business-plus-7-asientos/datos",
@@ -183,7 +184,7 @@
             ]
         },
         {
-            "name": "XC90 B5 Diesel Inscription AWD",
+            "name": "B5 Diesel Inscription AWD",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/estandar/xc90-b5-diesel-awd-inscription/datos",
@@ -206,7 +207,7 @@
             ]
         },
         {
-            "name": "XC90 B5 Diesel R-Design AWD",
+            "name": "B5 Diesel R-Design AWD",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/estandar/xc90-b5-diesel-awd-r-design/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "XC90 B5 Diesel AWD R-Design 7 asientos",
+            "name": "B5 Diesel AWD R-Design 7 asientos",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/r-design/xc90-b5-awd-r-design-7-asientos/datos",
@@ -251,7 +252,7 @@
             ]
         },
         {
-            "name": "XC90 B5 Diesel AWD Inscription 7 asientos",
+            "name": "B5 Diesel AWD Inscription 7 asientos",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/inscription/xc90-b5-awd-inscription-7-asientos/datos",
@@ -274,7 +275,7 @@
             ]
         },
         {
-            "name": "XC90 T5 AWD Inscription 7 asientos",
+            "name": "T5 AWD Inscription 7 asientos",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/inscription/xc90-t5-awd-inscription-7-asientos/datos",
@@ -294,7 +295,7 @@
             ]
         },
         {
-            "name": "XC90 T5 AWD R-Design 7 asientos",
+            "name": "T5 AWD R-Design 7 asientos",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/r-design/xc90-t5-awd-r-design-7-asientos/datos",
@@ -314,7 +315,7 @@
             ]
         },
         {
-            "name": "XC90 B5 Gasolina AWD Inscription 7 asientos",
+            "name": "B5 Gasolina AWD Inscription 7 asientos",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/inscription/xc90-b5-gasolina-awd-inscription-7-asientos/datos",
@@ -337,7 +338,7 @@
             ]
         },
         {
-            "name": "XC90 B5 Gasolina AWD R-Design 7 asientos",
+            "name": "B5 Gasolina AWD R-Design 7 asientos",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/r-design/xc90-b5-gasolina-awd-r-design-7-asientos/datos",
@@ -360,7 +361,7 @@
             ]
         },
         {
-            "name": "XC90 B5 Diesel Core AWD",
+            "name": "B5 Diesel Core AWD",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/estandar/xc90-b5-diesel-core-awd/datos",
@@ -383,7 +384,7 @@
             ]
         },
         {
-            "name": "XC90 B5 Core AWD",
+            "name": "B5 Core AWD",
             "start_year": "2024",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/estandar/xc90-b5-core-awd/datos",
@@ -406,7 +407,7 @@
             ]
         },
         {
-            "name": "XC90 T8 Twin AWD Momentum 7 asientos",
+            "name": "T8 Twin AWD Momentum 7 asientos",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/momentum/xc90-t8-twen-awd-momentum-7-asientos/datos",
@@ -430,7 +431,7 @@
             ]
         },
         {
-            "name": "XC90 T8 Twin AWD Business Plus 7 asientos",
+            "name": "T8 Twin AWD Business Plus 7 asientos",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/business-plus/xc90-t8-twen-awd-business-plus-7-asientos/datos",
@@ -454,7 +455,7 @@
             ]
         },
         {
-            "name": "XC90 T8 Twin AWD Recharge Inscription Expression",
+            "name": "T8 Twin AWD Recharge Inscription Expression",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/recharge/xc90-t8-twin-awd-recharge-inscription-expression/datos",
@@ -478,7 +479,7 @@
             ]
         },
         {
-            "name": "XC90 Recharge T8 Inscription Expression eAWD",
+            "name": "Recharge T8 Inscription Expression eAWD",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/recharge/xc90-recharge-t8-inscription-expression-eawd/datos",
@@ -502,7 +503,7 @@
             ]
         },
         {
-            "name": "XC90 B5 Plus AWD",
+            "name": "B5 Plus AWD",
             "start_year": "2024",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/estandar/xc90-b5-plus-awd/datos",
@@ -525,7 +526,7 @@
             ]
         },
         {
-            "name": "XC90 B5 Diesel Plus AWD",
+            "name": "B5 Diesel Plus AWD",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/estandar/xc90-b5-diesel-plus-awd/datos",
@@ -548,7 +549,7 @@
             ]
         },
         {
-            "name": "XC90 T8 Twin AWD Recharge Inscription",
+            "name": "T8 Twin AWD Recharge Inscription",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/recharge/xc90-t8-twin-awd-recharge-inscription/datos",
@@ -572,7 +573,7 @@
             ]
         },
         {
-            "name": "XC90 T8 Twin AWD R-Design 7 asientos",
+            "name": "T8 Twin AWD R-Design 7 asientos",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/r-design/xc90-t8-twen-awd-r-design-7-asientos/datos",
@@ -596,7 +597,7 @@
             ]
         },
         {
-            "name": "XC90 T8 Twin AWD Recharge R-Design",
+            "name": "T8 Twin AWD Recharge R-Design",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/recharge/xc90-t8-twin-awd-recharge-r-design/datos",
@@ -620,7 +621,7 @@
             ]
         },
         {
-            "name": "XC90 Recharge T8 Inscription eAWD",
+            "name": "Recharge T8 Inscription eAWD",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/recharge/xc90-recharge-t8-inscription-eawd/datos",
@@ -644,7 +645,7 @@
             ]
         },
         {
-            "name": "XC90 Recharge T8 R-Design eAWD",
+            "name": "Recharge T8 R-Design eAWD",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/recharge/xc90-recharge-t8-r-design-eawd/datos",
@@ -668,7 +669,7 @@
             ]
         },
         {
-            "name": "XC90 T8 Twin AWD Inscription 7 asientos",
+            "name": "T8 Twin AWD Inscription 7 asientos",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/inscription/xc90-t8-twen-awd-inscription-7-asientos/datos",
@@ -692,7 +693,7 @@
             ]
         },
         {
-            "name": "XC90 Recharge T8 Core eAWD",
+            "name": "Recharge T8 Core eAWD",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/recharge/xc90-recharge-t8-core-eawd/datos",
@@ -716,7 +717,7 @@
             ]
         },
         {
-            "name": "XC90 B5 Ultra AWD",
+            "name": "B5 Ultra AWD",
             "start_year": "2024",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/estandar/xc90-b5-ultra-awd/datos",
@@ -739,7 +740,7 @@
             ]
         },
         {
-            "name": "XC90 B5 Diesel Ultimate AWD",
+            "name": "B5 Diesel Ultimate AWD",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/estandar/xc90-b5-diesel-ultimate-awd/datos",
@@ -762,7 +763,7 @@
             ]
         },
         {
-            "name": "XC90 Recharge T8 Plus eAWD",
+            "name": "Recharge T8 Plus eAWD",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/recharge/xc90-recharge-t8-plus-eawd/datos",
@@ -786,7 +787,7 @@
             ]
         },
         {
-            "name": "XC90 Recharge T8 Ultimate eAWD",
+            "name": "Recharge T8 Ultimate eAWD",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/recharge/xc90-recharge-t8-ultimate-eawd/datos",
@@ -810,7 +811,7 @@
             ]
         },
         {
-            "name": "XC90 Recharge T8 Ultra eAWD",
+            "name": "Recharge T8 Ultra eAWD",
             "start_year": "2024",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volvo/xc90/2019/estandar/recharge/xc90-recharge-t8-ultra-eawd/datos",

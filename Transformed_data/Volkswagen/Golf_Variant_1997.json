@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Golf Variant",
     "year": "1997",
     "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant",
     "price": "",
     "versions": [
         {
-            "name": "Golf Variant 1.6 Conceptline",
+            "name": "1.6 Conceptline",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/conceptline/golf-variant-16-conceptline/datos",
@@ -32,7 +33,7 @@
             ]
         },
         {
-            "name": "Golf Variant 1.6 Conceptline Aut.",
+            "name": "1.6 Conceptline Aut.",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/conceptline/golf-variant-16-conceptline-aut/datos",
@@ -59,7 +60,7 @@
             ]
         },
         {
-            "name": "Golf Variant 1.6 Highline",
+            "name": "1.6 Highline",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/highline/golf-variant-16-highline/datos",
@@ -86,7 +87,7 @@
             ]
         },
         {
-            "name": "Golf Variant 1.6 Conceptline",
+            "name": "1.6 Conceptline",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/conceptline/golf-variant-16-conceptline2/datos",
@@ -114,7 +115,7 @@
             ]
         },
         {
-            "name": "Golf Variant Spirit 1.6",
+            "name": "Spirit 1.6",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/spirit/golf-variant-spirit-16/datos",
@@ -142,7 +143,7 @@
             ]
         },
         {
-            "name": "Golf Variant 1.9 TDI 90 CV Conceptline",
+            "name": "1.9 TDI 90 CV Conceptline",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/conceptline/golf-variant-19-tdi-90-cv-conceptline/datos",
@@ -169,7 +170,7 @@
             ]
         },
         {
-            "name": "Golf Variant 1.6 Highline Aut.",
+            "name": "1.6 Highline Aut.",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/highline/golf-variant-16-highline-aut/datos",
@@ -196,7 +197,7 @@
             ]
         },
         {
-            "name": "Golf Variant 1.6 Conceptline Aut.",
+            "name": "1.6 Conceptline Aut.",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/conceptline/golf-variant-16-conceptline-aut2/datos",
@@ -224,7 +225,7 @@
             ]
         },
         {
-            "name": "Golf Variant Spirit 1.6 Aut.",
+            "name": "Spirit 1.6 Aut.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/spirit/golf-variant-spirit-16-aut/datos",
@@ -252,7 +253,7 @@
             ]
         },
         {
-            "name": "Golf Variant 1.9 TDI 90 CV Conceptline",
+            "name": "1.9 TDI 90 CV Conceptline",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/conceptline/golf-variant-19-tdi-90-cv-conceptline2/datos",
@@ -280,7 +281,7 @@
             ]
         },
         {
-            "name": "Golf Variant 1.6 Highline",
+            "name": "1.6 Highline",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/highline/golf-variant-16-highline2/datos",
@@ -308,7 +309,7 @@
             ]
         },
         {
-            "name": "Golf Variant Soul 1.6",
+            "name": "Soul 1.6",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/soul/golf-variant-soul-16/datos",
@@ -336,7 +337,7 @@
             ]
         },
         {
-            "name": "Golf Variant Spirit 1.9 TDI 100 CV",
+            "name": "Spirit 1.9 TDI 100 CV",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/spirit/golf-variant-spirit-19-tdi-100-cv/datos",
@@ -364,7 +365,7 @@
             ]
         },
         {
-            "name": "Golf Variant 1.9 TDI Highline",
+            "name": "1.9 TDI Highline",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/highline/golf-variant-19-tdi-highline/datos",
@@ -391,7 +392,7 @@
             ]
         },
         {
-            "name": "Golf Variant 1.6 Highline Aut.",
+            "name": "1.6 Highline Aut.",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/highline/golf-variant-16-highline-aut2/datos",
@@ -419,7 +420,7 @@
             ]
         },
         {
-            "name": "Golf Variant 1.9 TDI 100 CV Conceptline",
+            "name": "1.9 TDI 100 CV Conceptline",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/conceptline/golf-variant-19-tdi-100-cv-conceptline/datos",
@@ -447,7 +448,7 @@
             ]
         },
         {
-            "name": "Golf Variant 1.9 TDI 100 CV Advance",
+            "name": "1.9 TDI 100 CV Advance",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/advance/golf-variant-19-tdi-100-cv-advance/datos",
@@ -475,7 +476,7 @@
             ]
         },
         {
-            "name": "Golf Variant Soul 1.6 Aut.",
+            "name": "Soul 1.6 Aut.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/soul/golf-variant-soul-16-aut/datos",
@@ -503,7 +504,7 @@
             ]
         },
         {
-            "name": "Golf Variant 2.3 V5 Highline",
+            "name": "2.3 V5 Highline",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/highline/golf-variant-23-v5-highline/datos",
@@ -530,7 +531,7 @@
             ]
         },
         {
-            "name": "Golf Variant Highline 1.9 TDI 115 CV 6 vel.",
+            "name": "Highline 1.9 TDI 115 CV 6 vel.",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/highline/golf-variant-highline-19-tdi-115-cv-6-vel/datos",
@@ -550,7 +551,7 @@
             ]
         },
         {
-            "name": "Golf Variant Spirit 1.9 TDI 100 CV 4Motion (6 vel.)",
+            "name": "Spirit 1.9 TDI 100 CV 4Motion (6 vel.)",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/spirit/golf-variant-spirit-19-tdi-100-cv-4motion-6-vel/datos",
@@ -561,7 +562,7 @@
             "maletero": "460"
         },
         {
-            "name": "Golf Variant Soul 1.9 TDI 100 CV",
+            "name": "Soul 1.9 TDI 100 CV",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/soul/golf-variant-soul-19-tdi-100-cv/datos",
@@ -572,7 +573,7 @@
             "maletero": "460"
         },
         {
-            "name": "Golf Variant Soul 1.9 TDI 110 CV",
+            "name": "Soul 1.9 TDI 110 CV",
             "start_year": "2003",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/soul/golf-variant-soul-19-tdi-110-cv/datos",
@@ -583,7 +584,7 @@
             "maletero": "460"
         },
         {
-            "name": "Golf Variant 1.9 TDI 130 CV Advance",
+            "name": "1.9 TDI 130 CV Advance",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/advance/golf-variant-19-tdi-130-cv-advance/datos",
@@ -594,7 +595,7 @@
             "maletero": "460"
         },
         {
-            "name": "Golf Variant Highline 1.9 TDI 115 CV Tiptronic",
+            "name": "Highline 1.9 TDI 115 CV Tiptronic",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/highline/golf-variant-highline-19-tdi-115-cv-tiptronic/datos",
@@ -605,7 +606,7 @@
             "maletero": "460"
         },
         {
-            "name": "Golf Variant 1.8 Turbo Highline",
+            "name": "1.8 Turbo Highline",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/highline/golf-variant-18-turbo-highline/datos",
@@ -625,7 +626,7 @@
             ]
         },
         {
-            "name": "Golf Variant 1.9 TDI 130 CV Highline 6 vel.",
+            "name": "1.9 TDI 130 CV Highline 6 vel.",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/highline/golf-variant-19-tdi-130-cv-highline-6-vel/datos",
@@ -636,7 +637,7 @@
             "maletero": "460"
         },
         {
-            "name": "Golf Variant Highline 1.9 TDI 115 CV 4Motion 6 vel.",
+            "name": "Highline 1.9 TDI 115 CV 4Motion 6 vel.",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/highline/golf-variant-highline-19-tdi-115-cv-4motion-6-vel/datos",
@@ -647,7 +648,7 @@
             "maletero": "460"
         },
         {
-            "name": "Golf Variant Soul 1.8 Turbo 150 CV",
+            "name": "Soul 1.8 Turbo 150 CV",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/soul/golf-variant-soul-18-turbo-150-cv/datos",
@@ -658,7 +659,7 @@
             "maletero": "460"
         },
         {
-            "name": "Golf Variant Soul 1.9 TDI 130 CV (6 vel.)",
+            "name": "Soul 1.9 TDI 130 CV (6 vel.)",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/soul/golf-variant-soul-19-tdi-130-cv-6-vel/datos",
@@ -669,7 +670,7 @@
             "maletero": "460"
         },
         {
-            "name": "Golf Variant Soul 1.9 TDI 100 CV 4Motion (6 vel.)",
+            "name": "Soul 1.9 TDI 100 CV 4Motion (6 vel.)",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/soul/golf-variant-soul-19-tdi-100-cv-4motion-6-vel/datos",
@@ -689,7 +690,7 @@
             ]
         },
         {
-            "name": "Golf Variant 1.9 TDI 130 CV Highline Tiptronic",
+            "name": "1.9 TDI 130 CV Highline Tiptronic",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/highline/golf-variant-19-tdi-130-cv-highline-tiptronic/datos",
@@ -717,7 +718,7 @@
             ]
         },
         {
-            "name": "Golf Variant 1.9 TDI 130 CV Highline 4Motion",
+            "name": "1.9 TDI 130 CV Highline 4Motion",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/highline/golf-variant-19-tdi-130-cv-highline-4motion/datos",
@@ -745,7 +746,7 @@
             ]
         },
         {
-            "name": "Golf Variant Soul 1.9 TDI 130 CV tiptronic (5 vel.)",
+            "name": "Soul 1.9 TDI 130 CV tiptronic (5 vel.)",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/soul/golf-variant-soul-19-tdi-130-cv-tiptronic-5-vel/datos",
@@ -773,7 +774,7 @@
             ]
         },
         {
-            "name": "Golf Variant Soul 1.9 TDI 130 CV 4Motion (6 vel.)",
+            "name": "Soul 1.9 TDI 130 CV 4Motion (6 vel.)",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/soul/golf-variant-soul-19-tdi-130-cv-4motion-6-vel/datos",
@@ -801,7 +802,7 @@
             ]
         },
         {
-            "name": "Golf Variant 2.3 V5 170 CV Highline 4Motion",
+            "name": "2.3 V5 170 CV Highline 4Motion",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/golf/1997/variant/highline/golf-variant-23-v5-170-cv-highline-4motion/datos",

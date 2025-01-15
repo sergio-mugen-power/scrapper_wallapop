@@ -1,11 +1,12 @@
 {
+    "brand": "Bentley",
     "name": "Arnage",
     "year": "1998",
     "url": "https://www.km77.com/coches/bentley/arnage/1998/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Arnage Red Label",
+            "name": "Red Label",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/bentley/arnage/1998/estandar/red-label/arnage-red-label/datos",
@@ -16,7 +17,7 @@
             "maletero": "374"
         },
         {
-            "name": "Arnage R",
+            "name": "R",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/bentley/arnage/1998/estandar/r/arnage-r/datos",
@@ -27,7 +28,7 @@
             "maletero": "374"
         },
         {
-            "name": "Arnage T",
+            "name": "T",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/bentley/arnage/1998/estandar/t/arnage-t2/datos",
@@ -38,7 +39,7 @@
             "maletero": "374"
         },
         {
-            "name": "Arnage R",
+            "name": "R",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/bentley/arnage/1998/estandar/r/arnage-r2/datos",
@@ -49,7 +50,7 @@
             "maletero": "374"
         },
         {
-            "name": "Arnage T",
+            "name": "T",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/bentley/arnage/1998/estandar/t/arnage-t3/datos",

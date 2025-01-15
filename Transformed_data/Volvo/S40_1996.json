@@ -1,11 +1,12 @@
 {
+    "brand": "Volvo",
     "name": "S40",
     "year": "1996",
     "url": "https://www.km77.com/coches/volvo/s40/1996/estandar",
     "price": "",
     "versions": [
         {
-            "name": "S40 1.6",
+            "name": "1.6",
             "start_year": "1995",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/estandar/s40-16/datos",
@@ -95,7 +96,7 @@
             ]
         },
         {
-            "name": "S40 Evolution 1.6",
+            "name": "Evolution 1.6",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/evolution/s40-evolution-16/datos",
@@ -188,7 +189,7 @@
             ]
         },
         {
-            "name": "S40 Evolution Premium 1.6",
+            "name": "Evolution Premium 1.6",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/evolution-premium/s40-evolution-premium-16/datos",
@@ -281,7 +282,7 @@
             ]
         },
         {
-            "name": "S40 1.8",
+            "name": "1.8",
             "start_year": "1995",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/estandar/s40-18/datos",
@@ -371,7 +372,7 @@
             ]
         },
         {
-            "name": "S40 Evolution 1.8",
+            "name": "Evolution 1.8",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/evolution/s40-evolution-18/datos",
@@ -461,7 +462,7 @@
             ]
         },
         {
-            "name": "S40 Evolution Sport 1.6",
+            "name": "Evolution Sport 1.6",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/evolution-sport/s40-evolution-sport-16/datos",
@@ -554,7 +555,7 @@
             ]
         },
         {
-            "name": "S40 1.9D",
+            "name": "1.9D",
             "start_year": "1995",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/estandar/s40-19d/datos",
@@ -642,7 +643,7 @@
             ]
         },
         {
-            "name": "S40 1.9D (102cv)",
+            "name": "1.9D (102cv)",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/estandar/s40-19d-102cv2/datos",
@@ -732,7 +733,7 @@
             ]
         },
         {
-            "name": "S40 1.9D (102cv)",
+            "name": "1.9D (102cv)",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/estandar/s40-19d-102cv/datos",
@@ -822,7 +823,7 @@
             ]
         },
         {
-            "name": "S40 1.8 Aut.",
+            "name": "1.8 Aut.",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/estandar/s40-18-aut/datos",
@@ -912,7 +913,7 @@
             ]
         },
         {
-            "name": "S40 Evolution 1.8 Aut.",
+            "name": "Evolution 1.8 Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/evolution/s40-evolution-18-aut/datos",
@@ -1005,7 +1006,7 @@
             ]
         },
         {
-            "name": "S40 Evolution Premium 1.8",
+            "name": "Evolution Premium 1.8",
             "start_year": "2002",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/evolution-premium/s40-evolution-premium-18/datos",
@@ -1098,7 +1099,7 @@
             ]
         },
         {
-            "name": "S40 1.9D+ (115cv)",
+            "name": "1.9D+ (115cv)",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/estandar/s40-19d-115cv/datos",
@@ -1188,7 +1189,7 @@
             ]
         },
         {
-            "name": "S40 Evolution 1.9D (115cv)",
+            "name": "Evolution 1.9D (115cv)",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/evolution/s40-evolution-19d-115cv/datos",
@@ -1281,7 +1282,7 @@
             ]
         },
         {
-            "name": "S40 2.0",
+            "name": "2.0",
             "start_year": "1995",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/estandar/s40-20/datos",
@@ -1369,7 +1370,7 @@
             ]
         },
         {
-            "name": "S40 Evolution Sport 1.8",
+            "name": "Evolution Sport 1.8",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/evolution-sport/s40-evolution-sport-18/datos",
@@ -1462,7 +1463,7 @@
             ]
         },
         {
-            "name": "S40 Evolution Premium 1.8 Aut.",
+            "name": "Evolution Premium 1.8 Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/evolution-premium/s40-evolution-premium-18-aut/datos",
@@ -1555,7 +1556,7 @@
             ]
         },
         {
-            "name": "S40 1.8i",
+            "name": "1.8i",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/estandar/s40-18i2/datos",
@@ -1645,7 +1646,7 @@
             ]
         },
         {
-            "name": "S40 2.0 Aut.",
+            "name": "2.0 Aut.",
             "start_year": "1995",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/estandar/s40-20-aut/datos",
@@ -1733,7 +1734,7 @@
             ]
         },
         {
-            "name": "S40 Evolution Premium 1.9D (115cv)",
+            "name": "Evolution Premium 1.9D (115cv)",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/evolution-premium/s40-evolution-premium-19d-115cv/datos",
@@ -1826,7 +1827,7 @@
             ]
         },
         {
-            "name": "S40 1.9D Premium",
+            "name": "1.9D Premium",
             "start_year": "2002",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/premium/s40-19d-premium/datos",
@@ -1916,7 +1917,7 @@
             ]
         },
         {
-            "name": "S40 2.0T",
+            "name": "2.0T",
             "start_year": "1995",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/estandar/s40-20t/datos",
@@ -2004,7 +2005,7 @@
             ]
         },
         {
-            "name": "S40 Evolution Sport 1.8 Aut.",
+            "name": "Evolution Sport 1.8 Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/evolution-sport/s40-evolution-sport-18-aut/datos",
@@ -2097,7 +2098,7 @@
             ]
         },
         {
-            "name": "S40 1.8i",
+            "name": "1.8i",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/estandar/s40-18i3/datos",
@@ -2187,7 +2188,7 @@
             ]
         },
         {
-            "name": "S40 1.8i",
+            "name": "1.8i",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/estandar/s40-18i/datos",
@@ -2277,7 +2278,7 @@
             ]
         },
         {
-            "name": "S40 Evolution Sport 1.9D (115cv)",
+            "name": "Evolution Sport 1.9D (115cv)",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/evolution-sport/s40-evolution-sport-19d-115cv/datos",
@@ -2370,7 +2371,7 @@
             ]
         },
         {
-            "name": "S40 1.9D Sport",
+            "name": "1.9D Sport",
             "start_year": "2002",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/sport/s40-19d-sport/datos",
@@ -2460,7 +2461,7 @@
             ]
         },
         {
-            "name": "S40 2.0T",
+            "name": "2.0T",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/estandar/s40-20t3/datos",
@@ -2550,7 +2551,7 @@
             ]
         },
         {
-            "name": "S40 2.0T",
+            "name": "2.0T",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/estandar/s40-20t2/datos",
@@ -2640,7 +2641,7 @@
             ]
         },
         {
-            "name": "S40 1.8i Premium",
+            "name": "1.8i Premium",
             "start_year": "2002",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/premium/s40-18i-premium/datos",
@@ -2730,7 +2731,7 @@
             ]
         },
         {
-            "name": "S40 2.0T Aut.",
+            "name": "2.0T Aut.",
             "start_year": "1995",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/estandar/s40-20t-aut/datos",
@@ -2818,7 +2819,7 @@
             ]
         },
         {
-            "name": "S40 1.8i Sport",
+            "name": "1.8i Sport",
             "start_year": "2002",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/sport/s40-18i-sport/datos",
@@ -2908,7 +2909,7 @@
             ]
         },
         {
-            "name": "S40 2.0T Aut.",
+            "name": "2.0T Aut.",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/estandar/s40-20t-aut3/datos",
@@ -2998,7 +2999,7 @@
             ]
         },
         {
-            "name": "S40 2.0T Aut.",
+            "name": "2.0T Aut.",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/estandar/s40-20t-aut2/datos",
@@ -3088,7 +3089,7 @@
             ]
         },
         {
-            "name": "S40 2.0T Premium",
+            "name": "2.0T Premium",
             "start_year": "2002",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/premium/s40-20t-premium/datos",
@@ -3178,7 +3179,7 @@
             ]
         },
         {
-            "name": "S40 2.0T Sport",
+            "name": "2.0T Sport",
             "start_year": "2002",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/sport/s40-20t-sport/datos",
@@ -3268,7 +3269,7 @@
             ]
         },
         {
-            "name": "S40 T4",
+            "name": "T4",
             "start_year": "1995",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/estandar/s40-t4/datos",
@@ -3356,7 +3357,7 @@
             ]
         },
         {
-            "name": "S40 T4",
+            "name": "T4",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/estandar/s40-t42/datos",
@@ -3446,7 +3447,7 @@
             ]
         },
         {
-            "name": "S40 2.0T Premium Aut.",
+            "name": "2.0T Premium Aut.",
             "start_year": "2002",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/premium/s40-20t-premium-aut/datos",
@@ -3536,7 +3537,7 @@
             ]
         },
         {
-            "name": "S40 2.0T Sport Aut.",
+            "name": "2.0T Sport Aut.",
             "start_year": "2002",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/sport/s40-20t-sport-aut/datos",
@@ -3626,7 +3627,7 @@
             ]
         },
         {
-            "name": "S40 T4 Aut.",
+            "name": "T4 Aut.",
             "start_year": "1995",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/estandar/s40-t4-aut/datos",
@@ -3714,7 +3715,7 @@
             ]
         },
         {
-            "name": "S40 T4 Aut.",
+            "name": "T4 Aut.",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/volvo/s40/1996/estandar/estandar/s40-t4-aut2/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Opel",
     "name": "Zafira",
     "year": "2017",
     "url": "https://www.km77.com/coches/opel/zafira/2017/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Zafira Expression 1.4 Turbo 88 kW (120 CV) Start&Stop 5 plazas",
+            "name": "Expression 1.4 Turbo 88 kW (120 CV) Start&Stop 5 plazas",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/expression/zafira-14-turbo-120-cv-startstop/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Zafira Expression 1.6 CDTI 88 kW (120 CV) Start&Stop 5 plazas",
+            "name": "Expression 1.6 CDTI 88 kW (120 CV) Start&Stop 5 plazas",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/expression/zafira-expression-16-cdti-120-cv-startstop-5-plazas/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Zafira Expression 1.6 CDTI 88 kW (120 CV) Start&Stop 7 plazas",
+            "name": "Expression 1.6 CDTI 88 kW (120 CV) Start&Stop 7 plazas",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/expression/zafira-expression-16-cdti-120-cv-startstop-7-plazas/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Zafira Edition 1.6 Turbo 100 kW (136 CV) Start&Stop 5 plazas",
+            "name": "Edition 1.6 Turbo 100 kW (136 CV) Start&Stop 5 plazas",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/edition/zafira-edition-16-turbo-100-kw-136-cv-startstop-7-plazas/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "Zafira Selective 1.4 Turbo 103 kW (140 CV) Start&Stop 5 plazas",
+            "name": "Selective 1.4 Turbo 103 kW (140 CV) Start&Stop 5 plazas",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/selective/zafira-14-turbo-140-cv-startstop-5-plazas/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Zafira Selective 1.4 Turbo 103 kW (140 CV) Start&Stop 7 plazas",
+            "name": "Selective 1.4 Turbo 103 kW (140 CV) Start&Stop 7 plazas",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/selective/zafira-14-turbo-140-cv-startstop-7-plazas/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "Zafira 120 Aniversario 1.6 Turbo 100 kW (136 CV) Start&Stop 7 plazas",
+            "name": "120 Aniversario 1.6 Turbo 100 kW (136 CV) Start&Stop 7 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/120-aniversario/zafira-120-aniversario-16-turbo-100-kw-136-cv-startstop-7-plazas/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "Zafira Family 1.4 Turbo 103 kW (140 CV) Start&Stop 5 plazas",
+            "name": "Family 1.4 Turbo 103 kW (140 CV) Start&Stop 5 plazas",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/family/zafira-family-14-turbo-103-kw-140-cv-startstop-5-plazas/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "Zafira Selective 1.6 CDTI 88 kW (120 CV) Start&Stop 5 plazas",
+            "name": "Selective 1.6 CDTI 88 kW (120 CV) Start&Stop 5 plazas",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/selective/zafira-selective-16-cdti-120-cv-startstop-5-plazas/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "Zafira Family 1.4 Turbo 103 kW (140 CV) Start&Stop 7 plazas",
+            "name": "Family 1.4 Turbo 103 kW (140 CV) Start&Stop 7 plazas",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/family/zafira-family-14-turbo-103-kw-140-cv-startstop-7-plazas/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "Zafira Selective 1.4 Turbo GLP 103 kW (140 CV) 5 plazas",
+            "name": "Selective 1.4 Turbo GLP 103 kW (140 CV) 5 plazas",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/selective/zafira-14-glp-140-cv-5-plazas/datos",
@@ -313,7 +314,7 @@
             ]
         },
         {
-            "name": "Zafira Selective 1.6 CDTI 88 kW (120 CV) Start&Stop 7 plazas",
+            "name": "Selective 1.6 CDTI 88 kW (120 CV) Start&Stop 7 plazas",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/selective/zafira-selective-16-cdti-120-cv-startstop-7-plazas/datos",
@@ -341,7 +342,7 @@
             ]
         },
         {
-            "name": "Zafira Selective 1.6 CDTI 99 kW (134 CV) Start&Stop 5 plazas",
+            "name": "Selective 1.6 CDTI 99 kW (134 CV) Start&Stop 5 plazas",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/selective/zafira-selective-16-cdti-134-cv-startstop-5-plazas/datos",
@@ -369,7 +370,7 @@
             ]
         },
         {
-            "name": "Zafira Selective 1.4 Turbo GLP 103 kW (140 CV) 7 plazas",
+            "name": "Selective 1.4 Turbo GLP 103 kW (140 CV) 7 plazas",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/selective/zafira-14-glp-140-cv-7-plazas/datos",
@@ -397,7 +398,7 @@
             ]
         },
         {
-            "name": "Zafira Selective 1.6 CDTI 99 kW (134 CV) Start&Stop 7 plazas",
+            "name": "Selective 1.6 CDTI 99 kW (134 CV) Start&Stop 7 plazas",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/selective/zafira-selective-16-cdti-134-cv-startstop-7-plazas/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "Zafira Selective 1.6 Turbo 100 kW (136 CV) Start&Stop 7 plazas",
+            "name": "Selective 1.6 Turbo 100 kW (136 CV) Start&Stop 7 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/selective/zafira-selective-16-turbo-100-kw-136-cv-startstop-7-plazas/datos",
@@ -453,7 +454,7 @@
             ]
         },
         {
-            "name": "Zafira Family 1.6 CDTI 99 kW (134 CV) Start&Stop 5 plazas",
+            "name": "Family 1.6 CDTI 99 kW (134 CV) Start&Stop 5 plazas",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/family/zafira-family-16-cdti-99-kw-134-cv-startstop-5-plazas/datos",
@@ -481,7 +482,7 @@
             ]
         },
         {
-            "name": "Zafira Innovation 1.6 Turbo 100 kW (136 CV) Start&Stop 7 plazas",
+            "name": "Innovation 1.6 Turbo 100 kW (136 CV) Start&Stop 7 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/innovation/zafira-innovation-16-turbo-100-kw-136-cv-startstop-7-plazas/datos",
@@ -509,7 +510,7 @@
             ]
         },
         {
-            "name": "Zafira Family 1.6 CDTI 99 kW (134 CV) Start&Stop 7 plazas",
+            "name": "Family 1.6 CDTI 99 kW (134 CV) Start&Stop 7 plazas",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/family/zafira-family-16-cdti-99-kw-134-cv-startstop-7-plazas/datos",
@@ -537,7 +538,7 @@
             ]
         },
         {
-            "name": "Zafira Excellence 1.4 Turbo 103 kW (140 CV) Start&Stop 5 plazas",
+            "name": "Excellence 1.4 Turbo 103 kW (140 CV) Start&Stop 5 plazas",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/excellence/zafira-excellence-14-turbo-140-cv-startstop-5-plazas/datos",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "name": "Zafira Innovation 1.6 CDTI 100 kW (136 CV) Start&Stop 7 plazas",
+            "name": "Innovation 1.6 CDTI 100 kW (136 CV) Start&Stop 7 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/innovation/zafira-innovation-16-cdti-100-kw-136-cv-startstop-7-plazas/datos",
@@ -593,7 +594,7 @@
             ]
         },
         {
-            "name": "Zafira Excellence 1.4 Turbo 103 kW (140 CV) Start&Stop 7 plazas",
+            "name": "Excellence 1.4 Turbo 103 kW (140 CV) Start&Stop 7 plazas",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/excellence/zafira-excellence-14-turbo-140-cv-startstop-7-plazas/datos",
@@ -621,7 +622,7 @@
             ]
         },
         {
-            "name": "Zafira Innovation 1.6 Turbo 100 kW (136 CV) Start&Stop 7 plazas Aut.",
+            "name": "Innovation 1.6 Turbo 100 kW (136 CV) Start&Stop 7 plazas Aut.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/innovation/zafira-innovation-16-turbo-100-kw-136-cv-startstop-7-plazas-aut/datos",
@@ -649,7 +650,7 @@
             ]
         },
         {
-            "name": "Zafira Selective 2.0 CDTI 170 CV Start&Stop 5 plazas",
+            "name": "Selective 2.0 CDTI 170 CV Start&Stop 5 plazas",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/selective/zafira-20-cdti-170-cv-startstop-5-plazas/datos",
@@ -677,7 +678,7 @@
             ]
         },
         {
-            "name": "Zafira Innovation 2.0 CDTI 125 kW (170 CV) Start&Stop 7 plazas",
+            "name": "Innovation 2.0 CDTI 125 kW (170 CV) Start&Stop 7 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/innovation/zafira-innovation-20-cdti-125-kw-170-cv-startstop-7-plazas/datos",
@@ -705,7 +706,7 @@
             ]
         },
         {
-            "name": "Zafira Excellence 1.4 Turbo 103 kW (140 CV) 5 plazas Aut.",
+            "name": "Excellence 1.4 Turbo 103 kW (140 CV) 5 plazas Aut.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/excellence/zafira-14-turbo-140-cv-aut-5-plazas/datos",
@@ -733,7 +734,7 @@
             ]
         },
         {
-            "name": "Zafira Selective 2.0 CDTI 170 CV Start&Stop 7 plazas",
+            "name": "Selective 2.0 CDTI 170 CV Start&Stop 7 plazas",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/selective/zafira-20-cdti-170-cv-startstop-7-plazas/datos",
@@ -761,7 +762,7 @@
             ]
         },
         {
-            "name": "Zafira Excellence 1.4 Turbo 103 kW (140 CV) 7 plazas Aut.",
+            "name": "Excellence 1.4 Turbo 103 kW (140 CV) 7 plazas Aut.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/excellence/zafira-14-turbo-140-cv-aut-7-plazas/datos",
@@ -789,7 +790,7 @@
             ]
         },
         {
-            "name": "Zafira 120 Aniversario 1.6 CDTI 100 kW (136 CV) Start&Stop 7 plazas",
+            "name": "120 Aniversario 1.6 CDTI 100 kW (136 CV) Start&Stop 7 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/120-aniversario/zafira-120-aniversario-16-cdti-100-kw-136-cv-startstop-7-plazas/datos",
@@ -817,7 +818,7 @@
             ]
         },
         {
-            "name": "Zafira Excellence 1.6 CDTI 99 kW (134 CV) Start&Stop 5 plazas",
+            "name": "Excellence 1.6 CDTI 99 kW (134 CV) Start&Stop 5 plazas",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/excellence/zafira-excellence-16-cdti-134-cv-startstop-5-plazas/datos",
@@ -845,7 +846,7 @@
             ]
         },
         {
-            "name": "Zafira Excellence 1.6 CDTI 99 kW (134 CV) Start&Stop 7 plazas",
+            "name": "Excellence 1.6 CDTI 99 kW (134 CV) Start&Stop 7 plazas",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/excellence/zafira-excellence-16-cdti-134-cv-startstop-7-plazas/datos",
@@ -873,7 +874,7 @@
             ]
         },
         {
-            "name": "Zafira Expression 1.4 Turbo 88 kW (120 CV) Start&Stop 7 plazas",
+            "name": "Expression 1.4 Turbo 88 kW (120 CV) Start&Stop 7 plazas",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/expression/zafira-14-turbo-120-cv-startstop-7-plazas/datos",
@@ -901,7 +902,7 @@
             ]
         },
         {
-            "name": "Zafira Excellence 2.0 CDTI 125 kW (170 CV) Start&Stop 5 plazas",
+            "name": "Excellence 2.0 CDTI 125 kW (170 CV) Start&Stop 5 plazas",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/excellence/zafira-excellence-20-cdti-170-cv-startstop-5-plazas/datos",
@@ -929,7 +930,7 @@
             ]
         },
         {
-            "name": "Zafira Excellence 2.0 CDTI 125 kW (170 CV) Start&Stop 7 plazas",
+            "name": "Excellence 2.0 CDTI 125 kW (170 CV) Start&Stop 7 plazas",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/excellence/zafira-excellence-20-cdti-170-cv-startstop-7-plazas/datos",
@@ -957,7 +958,7 @@
             ]
         },
         {
-            "name": "Zafira Excellence 2.0 CDTI 125 kW (170 CV) 5 plazas Aut.",
+            "name": "Excellence 2.0 CDTI 125 kW (170 CV) 5 plazas Aut.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/excellence/zafira-20-cdti-170-cv-aut-5-plazas/datos",
@@ -985,7 +986,7 @@
             ]
         },
         {
-            "name": "Zafira Excellence 2.0 CDTI 125 kW (170 CV) 7 plazas Aut.",
+            "name": "Excellence 2.0 CDTI 125 kW (170 CV) 7 plazas Aut.",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/zafira/2017/estandar/excellence/zafira-20-cdti-170-cv-aut-7-plazas/datos",

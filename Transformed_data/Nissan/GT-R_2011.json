@@ -1,11 +1,12 @@
 {
+    "brand": "Nissan",
     "name": "GT-R",
     "year": "2011",
     "url": "https://www.km77.com/coches/nissan/gt-r/2011/estandar",
     "price": "",
     "versions": [
         {
-            "name": "GT-R Premium Edition",
+            "name": "Premium Edition",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/nissan/gt-r/2011/estandar/premium-edition/gt-r-premium-edition/datos",
@@ -184,7 +185,7 @@
             ]
         },
         {
-            "name": "GT-R Black Edition",
+            "name": "Black Edition",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/nissan/gt-r/2011/estandar/black-edition/gt-r-black-edition/datos",
@@ -364,7 +365,7 @@
             ]
         },
         {
-            "name": "GT-R Premium Edition",
+            "name": "Premium Edition",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/nissan/gt-r/2011/estandar/premium-edition/gt-r-premium-edition2/datos",
@@ -553,7 +554,7 @@
             ]
         },
         {
-            "name": "GT-R Black Edition",
+            "name": "Black Edition",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/nissan/gt-r/2011/estandar/black-edition/gt-r-black-edition2/datos",
@@ -743,7 +744,7 @@
             ]
         },
         {
-            "name": "GT-R Premium Edition",
+            "name": "Premium Edition",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/nissan/gt-r/2011/estandar/premium-edition/gt-r-premium-edition3/datos",
@@ -932,7 +933,7 @@
             ]
         },
         {
-            "name": "GT-R Black Edition",
+            "name": "Black Edition",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/nissan/gt-r/2011/estandar/black-edition/gt-r-black-edition3/datos",
@@ -1122,7 +1123,7 @@
             ]
         },
         {
-            "name": "GT-R 3.8 V6 550 CV Premium Edition",
+            "name": "3.8 V6 550 CV Premium Edition",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/nissan/gt-r/2011/estandar/premium-edition/gt-r-38-v6-550-cv-premium-edition/datos",
@@ -1312,7 +1313,7 @@
             ]
         },
         {
-            "name": "GT-R 3.8 V6 550 CV Black Edition",
+            "name": "3.8 V6 550 CV Black Edition",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/nissan/gt-r/2011/estandar/black-edition/gt-r-38-v6-550-cv-black-edition/datos",
@@ -1503,7 +1504,7 @@
             ]
         },
         {
-            "name": "GT-R Track Pack",
+            "name": "Track Pack",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/nissan/gt-r/2011/estandar/track-pack/gt-r-track-pack/datos",
@@ -1692,7 +1693,7 @@
             ]
         },
         {
-            "name": "GT-R 3.8 V6 550 CV Track Pack",
+            "name": "3.8 V6 550 CV Track Pack",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/nissan/gt-r/2011/estandar/track-pack/gt-r-38-v6-550-cv-track-pack/datos",

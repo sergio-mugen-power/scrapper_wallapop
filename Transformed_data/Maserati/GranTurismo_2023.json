@@ -1,11 +1,12 @@
 {
+    "brand": "Maserati",
     "name": "GranTurismo",
     "year": "2023",
     "url": "https://www.km77.com/coches/maserati/granturismo/2023/estandar",
     "price": "Desde 200.900 €",
     "versions": [
         {
-            "name": "GranTurismo Folgore (12/2023 - )",
+            "name": "Folgore (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/maserati/granturismo/2023/estandar/folgore/granturismo-folgore/datos",
@@ -266,7 +267,7 @@
             ]
         },
         {
-            "name": "GranTurismo Modena (01/2023 - )",
+            "name": "Modena (01/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/maserati/granturismo/2023/estandar/estandar/granturismo-modena/datos",
@@ -519,7 +520,7 @@
             ]
         },
         {
-            "name": "GranTurismo Trofeo (01/2023 - )",
+            "name": "Trofeo (01/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/maserati/granturismo/2023/estandar/estandar/granturismo-trofeo/datos",

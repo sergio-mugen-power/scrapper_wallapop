@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "X4",
     "year": "2018",
     "url": "https://www.km77.com/coches/bmw/x4/2018/estandar",
     "price": "Desde 60.600 €",
     "versions": [
         {
-            "name": "X4 xDrive20i",
+            "name": "xDrive20i",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/x4/2018/estandar/estandar/x4-xdrive20i/datos",
@@ -323,7 +324,7 @@
             ]
         },
         {
-            "name": "X4 xDrive20d",
+            "name": "xDrive20d",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x4/2018/estandar/estandar/x4-xdrive20d/datos",
@@ -641,7 +642,7 @@
             ]
         },
         {
-            "name": "X4 xDrive20i",
+            "name": "xDrive20i",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/bmw/x4/2018/estandar/estandar/x4-xdrive20i2/datos",
@@ -957,7 +958,7 @@
             ]
         },
         {
-            "name": "X4 xDrive20d",
+            "name": "xDrive20d",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/bmw/x4/2018/estandar/estandar/x4-xdrive20d2/datos",
@@ -1283,7 +1284,7 @@
             ]
         },
         {
-            "name": "X4 xDrive25d",
+            "name": "xDrive25d",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/x4/2018/estandar/estandar/x4-xdrive25d/datos",
@@ -1601,7 +1602,7 @@
             ]
         },
         {
-            "name": "X4 xDrive30i",
+            "name": "xDrive30i",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/x4/2018/estandar/estandar/x4-xdrive30i/datos",
@@ -1919,7 +1920,7 @@
             ]
         },
         {
-            "name": "X4 xDrive30i",
+            "name": "xDrive30i",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/bmw/x4/2018/estandar/estandar/x4-xdrive30i2/datos",
@@ -2235,7 +2236,7 @@
             ]
         },
         {
-            "name": "X4 xDrive30d",
+            "name": "xDrive30d",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x4/2018/estandar/estandar/x4-xdrive30d/datos",
@@ -2553,7 +2554,7 @@
             ]
         },
         {
-            "name": "X4 xDrive30d",
+            "name": "xDrive30d",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/bmw/x4/2018/estandar/estandar/x4-xdrive30d2/datos",
@@ -2879,7 +2880,7 @@
             ]
         },
         {
-            "name": "X4 M40i",
+            "name": "M40i",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/x4/2018/estandar/m-performance/x4-m40i/datos",
@@ -3182,7 +3183,7 @@
             ]
         },
         {
-            "name": "X4 M40d",
+            "name": "M40d",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/x4/2018/estandar/m-performance/x4-m40d/datos",
@@ -3486,7 +3487,7 @@
             ]
         },
         {
-            "name": "X4 M40d",
+            "name": "M40d",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x4/2018/estandar/m-performance/x4-m40d2/datos",
@@ -3798,7 +3799,7 @@
             ]
         },
         {
-            "name": "X4 M40d",
+            "name": "M40d",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/bmw/x4/2018/estandar/m-performance/x4-m40d3/datos",
@@ -4122,7 +4123,7 @@
             ]
         },
         {
-            "name": "X4 M40i",
+            "name": "M40i",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x4/2018/estandar/m-performance/x4-m40i2/datos",
@@ -4434,7 +4435,7 @@
             ]
         },
         {
-            "name": "X4 M40i",
+            "name": "M40i",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/bmw/x4/2018/estandar/m-performance/x4-m40i3/datos",
@@ -4748,7 +4749,7 @@
             ]
         },
         {
-            "name": "X4 M",
+            "name": "M",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/bmw/x4/2018/estandar/m/x4-m2/datos",
@@ -5056,7 +5057,7 @@
             ]
         },
         {
-            "name": "X4 M",
+            "name": "M",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x4/2018/estandar/m/x4-m/datos",
@@ -5362,7 +5363,7 @@
             ]
         },
         {
-            "name": "X4 M Competition",
+            "name": "M Competition",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/bmw/x4/2018/estandar/m-competition/x4-m-competition2/datos",
@@ -5664,7 +5665,7 @@
             ]
         },
         {
-            "name": "X4 M Competition",
+            "name": "M Competition",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x4/2018/estandar/m-competition/x4-m-competition/datos",

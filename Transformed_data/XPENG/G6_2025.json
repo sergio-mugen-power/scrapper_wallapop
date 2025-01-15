@@ -1,11 +1,12 @@
 {
+    "brand": "XPENG",
     "name": "G6",
     "year": "2025",
     "url": "https://www.km77.com/coches/xpeng/g6/2025/estandar",
     "price": "Desde 44.990 €",
     "versions": [
         {
-            "name": "G6 RWD Standard Range (09/2024 - )",
+            "name": "RWD Standard Range (09/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/xpeng/g6/2025/estandar/estandar/g6-rwd-standard-range/datos",
@@ -248,7 +249,7 @@
             ]
         },
         {
-            "name": "G6 RWD Long Range (09/2024 - )",
+            "name": "RWD Long Range (09/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/xpeng/g6/2025/estandar/estandar/g6-rwd-long-range/datos",
@@ -491,7 +492,7 @@
             ]
         },
         {
-            "name": "G6 AWD Performance (09/2024 - )",
+            "name": "AWD Performance (09/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/xpeng/g6/2025/estandar/estandar/g6-awd-performance/datos",

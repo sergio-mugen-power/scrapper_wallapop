@@ -1,11 +1,12 @@
 {
+    "brand": "Fiat",
     "name": "Coupé",
     "year": "1993",
     "url": "https://www.km77.com/coches/fiat/coupe/1993/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Coupé 1.8 16v",
+            "name": "1.8 16v",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/fiat/coupe/1993/estandar/estandar/coupe-18-16v/datos",
@@ -127,7 +128,7 @@
             ]
         },
         {
-            "name": "Coupé 2.0 TB 20v",
+            "name": "2.0 TB 20v",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/fiat/coupe/1993/estandar/estandar/coupe-20-tb-20v/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Porsche",
     "name": "Boxster",
     "year": "1997",
     "url": "https://www.km77.com/coches/porsche/boxster/1997/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Boxster",
+            "name": "",
             "start_year": "1996",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/porsche/boxster/1997/estandar/estandar/boxster/datos",
@@ -32,7 +33,7 @@
             ]
         },
         {
-            "name": "Boxster Tiptronic",
+            "name": "Tiptronic",
             "start_year": "1996",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/porsche/boxster/1997/estandar/estandar/boxster-tiptronic/datos",
@@ -59,7 +60,7 @@
             ]
         },
         {
-            "name": "Boxster S",
+            "name": "S",
             "start_year": "1996",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/porsche/boxster/1997/estandar/s/boxster-s/datos",
@@ -86,7 +87,7 @@
             ]
         },
         {
-            "name": "Boxster S Tiptronic",
+            "name": "S Tiptronic",
             "start_year": "1996",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/porsche/boxster/1997/estandar/s/boxster-s-tiptronic/datos",

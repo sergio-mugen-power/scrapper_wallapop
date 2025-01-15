@@ -1,11 +1,12 @@
 {
+    "brand": "Fiat",
     "name": "Punto Cabrio",
     "year": "1999",
     "url": "https://www.km77.com/coches/fiat/punto/1999/cabrio",
     "price": "",
     "versions": [
         {
-            "name": "Punto Cabrio 60",
+            "name": "60",
             "start_year": "1999",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/fiat/punto/1999/cabrio/estandar/punto-cabrio-60/datos",
@@ -120,7 +121,7 @@
             ]
         },
         {
-            "name": "Punto Cabrio 85 16v",
+            "name": "85 16v",
             "start_year": "1999",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/fiat/punto/1999/cabrio/estandar/punto-cabrio-85-16v/datos",

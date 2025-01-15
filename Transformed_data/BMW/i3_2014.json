@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "i3",
     "year": "2014",
     "url": "https://www.km77.com/coches/bmw/i3/2014/estandar",
     "price": "",
     "versions": [
         {
-            "name": "i3",
+            "name": "",
             "start_year": "2013",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/bmw/i3/2014/estandar/estandar/i3/datos",
@@ -259,7 +260,7 @@
             ]
         },
         {
-            "name": "i3 94 Ah",
+            "name": "94 Ah",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/bmw/i3/2014/estandar/estandar/i3-94-ah/datos",
@@ -512,7 +513,7 @@
             ]
         },
         {
-            "name": "i3 REX",
+            "name": "REX",
             "start_year": "2013",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/bmw/i3/2014/estandar/estandar/i3-range-extender/datos",
@@ -783,7 +784,7 @@
             ]
         },
         {
-            "name": "i3 REX 94 Ah",
+            "name": "REX 94 Ah",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/bmw/i3/2014/estandar/estandar/i3-94-ah-range-extender/datos",

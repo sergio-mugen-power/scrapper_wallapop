@@ -1,11 +1,12 @@
 {
+    "brand": "Nissan",
     "name": "Murano",
     "year": "2011",
     "url": "https://www.km77.com/coches/nissan/murano/2011/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Murano Acenta 2.5 dCi 190 CV Aut.",
+            "name": "Acenta 2.5 dCi 190 CV Aut.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/nissan/murano/2011/estandar/acenta/murano-acenta-25-dci-190-cv-aut/datos",
@@ -196,7 +197,7 @@
             ]
         },
         {
-            "name": "Murano Acenta 2.5 dCi 190 CV Aut.",
+            "name": "Acenta 2.5 dCi 190 CV Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/nissan/murano/2011/estandar/acenta/murano-25-dci-190-cv-acenta-aut/datos",
@@ -387,7 +388,7 @@
             ]
         },
         {
-            "name": "Murano Business Edition 2.5 dCi 190 CV",
+            "name": "Business Edition 2.5 dCi 190 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/nissan/murano/2011/estandar/business-edition/murano-business-edition-25-dci-190-cv/datos",
@@ -578,7 +579,7 @@
             ]
         },
         {
-            "name": "Murano Business Edition 2.5 dCi 190 CV",
+            "name": "Business Edition 2.5 dCi 190 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/nissan/murano/2011/estandar/business-edition/murano-business-edition-25-dci-190-cv2/datos",
@@ -769,7 +770,7 @@
             ]
         },
         {
-            "name": "Murano Tekna Sport 2.5 dCi 190 CV",
+            "name": "Tekna Sport 2.5 dCi 190 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/nissan/murano/2011/estandar/tekna-sport/murano-tekna-sport-25-dci-190-cv-aut/datos",
@@ -967,7 +968,7 @@
             ]
         },
         {
-            "name": "Murano Tekna Sport 2.5 dCi 190 CV Aut.",
+            "name": "Tekna Sport 2.5 dCi 190 CV Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/nissan/murano/2011/estandar/tekna-sport/murano-25-dci-190-cv-tekna-sport-aut/datos",
@@ -1168,7 +1169,7 @@
             ]
         },
         {
-            "name": "Murano 3.5 V6 256 CV S-CVT Tekna Sport",
+            "name": "3.5 V6 256 CV S-CVT Tekna Sport",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/nissan/murano/2011/estandar/tekna-sport/murano-35-v6-256-cv-s-cvt-tekna-sport/datos",
@@ -1359,7 +1360,7 @@
             ]
         },
         {
-            "name": "Murano Tekna Sport 3.5 V6 256 CV S-CVT",
+            "name": "Tekna Sport 3.5 V6 256 CV S-CVT",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/nissan/murano/2011/estandar/tekna-sport/murano-tekna-sport-35-v6-256-cv-s-cvt2/datos",
@@ -1559,7 +1560,7 @@
             ]
         },
         {
-            "name": "Murano Tekna Sport 3.5 V6 256 CV S-CVT",
+            "name": "Tekna Sport 3.5 V6 256 CV S-CVT",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/nissan/murano/2011/estandar/tekna-sport/murano-tekna-sport-35-v6-256-cv-s-cvt/datos",
@@ -1759,7 +1760,7 @@
             ]
         },
         {
-            "name": "Murano Tekna Sport 2.5 dCi 190 CV",
+            "name": "Tekna Sport 2.5 dCi 190 CV",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/nissan/murano/2011/estandar/tekna-sport/murano-tekna-sport-25-dci-190-cv/datos",
@@ -1957,7 +1958,7 @@
             ]
         },
         {
-            "name": "Murano Tekna Premium 2.5 dCi 190 CV",
+            "name": "Tekna Premium 2.5 dCi 190 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/nissan/murano/2011/estandar/tekna-premium/murano-tekna-premium-25-dci-190-cv-aut/datos",
@@ -2161,7 +2162,7 @@
             ]
         },
         {
-            "name": "Murano Tekna Premium 2.5 dCi 190 CV Aut.",
+            "name": "Tekna Premium 2.5 dCi 190 CV Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/nissan/murano/2011/estandar/tekna-premium/murano-25-dci-190-cv-tekna-premium-aut/datos",
@@ -2366,7 +2367,7 @@
             ]
         },
         {
-            "name": "Murano Tekna Premium 3.5 V6 S-CVT 256 CV",
+            "name": "Tekna Premium 3.5 V6 S-CVT 256 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/nissan/murano/2011/estandar/tekna-premium/murano-tekna-premium-35-v6-256-cv-s-cvt2/datos",
@@ -2570,7 +2571,7 @@
             ]
         },
         {
-            "name": "Murano 3.5 V6 256 CV S-CVT Tekna Premium",
+            "name": "3.5 V6 256 CV S-CVT Tekna Premium",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/nissan/murano/2011/estandar/tekna-premium/murano-35-v6-256-cv-s-cvt-tekna-premium/datos",
@@ -2766,7 +2767,7 @@
             ]
         },
         {
-            "name": "Murano Tekna Premium 3.5 V6 256 CV S-CVT",
+            "name": "Tekna Premium 3.5 V6 256 CV S-CVT",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/nissan/murano/2011/estandar/tekna-premium/murano-tekna-premium-35-v6-256-cv-s-cvt/datos",
@@ -2971,7 +2972,7 @@
             ]
         },
         {
-            "name": "Murano Tekna Premium 2.5 dCi 190 CV",
+            "name": "Tekna Premium 2.5 dCi 190 CV",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/murano/2011/estandar/tekna-premium/murano-tekna-premium-25-dci-190-cv/datos",
@@ -3175,7 +3176,7 @@
             ]
         },
         {
-            "name": "Murano Tekna Premium 3.5 V6 S-CVT 256 CV",
+            "name": "Tekna Premium 3.5 V6 S-CVT 256 CV",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/nissan/murano/2011/estandar/tekna-premium/murano-tekna-premium-35-v6-s-cvt-256-cv/datos",

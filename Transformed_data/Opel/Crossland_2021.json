@@ -1,11 +1,12 @@
 {
+    "brand": "Opel",
     "name": "Crossland",
     "year": "2021",
     "url": "https://www.km77.com/coches/opel/crossland/2021/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Crossland Edition 1.5 Diesel 81 kW (110 CV)",
+            "name": "Edition 1.5 Diesel 81 kW (110 CV)",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/crossland/2021/estandar/estandar/crossland-15-diesel-110-cv/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Crossland Edition 1.2 Turbo 81 kW (110 CV)",
+            "name": "Edition 1.2 Turbo 81 kW (110 CV)",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/opel/crossland/2021/estandar/estandar/crossland-12-turbo-110-cv/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Crossland GS Line 1.5 Diesel 81 kW (110 CV)",
+            "name": "GS Line 1.5 Diesel 81 kW (110 CV)",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/crossland/2021/estandar/estandar/crossland-gs-line-15-diesel-81-kw-110-cv/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Crossland Edition 1.5 Diesel 81 kW (110 CV)",
+            "name": "Edition 1.5 Diesel 81 kW (110 CV)",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/opel/crossland/2021/estandar/estandar/crossland-edition-15-diesel-81-kw-110-cv/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "Crossland GS 1.2 Turbo 81 kW (110 CV)",
+            "name": "GS 1.2 Turbo 81 kW (110 CV)",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/opel/crossland/2021/estandar/estandar/crossland-gs-12-turbo-81-kw-110-cv/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Crossland GS 1.5 Diesel 81 kW (110 CV)",
+            "name": "GS 1.5 Diesel 81 kW (110 CV)",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/opel/crossland/2021/estandar/estandar/crossland-gs-15-diesel-81-kw-110-cv/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "Crossland GS 1.2 Turbo 96 kW (130 CV) Aut.",
+            "name": "GS 1.2 Turbo 96 kW (130 CV) Aut.",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/opel/crossland/2021/estandar/estandar/crossland-gs-12-turbo-96-kw-130-cv-aut/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "Crossland Elegance 1.5 Diesel 81 kW (110 CV)",
+            "name": "Elegance 1.5 Diesel 81 kW (110 CV)",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/opel/crossland/2021/estandar/estandar/crossland-elegance-15-diesel-81-kw-110-cv/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "Crossland Business Elegance 1.5 Diesel 88 kW (120 CV) Aut.",
+            "name": "Business Elegance 1.5 Diesel 88 kW (120 CV) Aut.",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/crossland/2021/estandar/estandar/crossland-15-diesel-120-cv-at6/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "Crossland Elegance 1.2 Turbo 96 kW (130 CV) Aut.",
+            "name": "Elegance 1.2 Turbo 96 kW (130 CV) Aut.",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/opel/crossland/2021/estandar/estandar/crossland-elegance-12-turbo-96-kw-130-cv-aut/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "Crossland GS Line 1.2 Turbo 81 kW (110 CV)",
+            "name": "GS Line 1.2 Turbo 81 kW (110 CV)",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/opel/crossland/2021/estandar/estandar/crossland-gs-line-12-turbo-81-kw-110-cv/datos",
@@ -313,7 +314,7 @@
             ]
         },
         {
-            "name": "Crossland Ultimate 1.5 Diesel 88 kW (120 CV) Aut.",
+            "name": "Ultimate 1.5 Diesel 88 kW (120 CV) Aut.",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/crossland/2021/estandar/estandar/crossland-ultimate-15-diesel-88-kw-120-cv-aut/datos",
@@ -341,7 +342,7 @@
             ]
         },
         {
-            "name": "Crossland GS Line 1.2 Turbo 96 kW (130 CV)",
+            "name": "GS Line 1.2 Turbo 96 kW (130 CV)",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/opel/crossland/2021/estandar/estandar/crossland-12-turbo-130-cv/datos",
@@ -369,7 +370,7 @@
             ]
         },
         {
-            "name": "Crossland GS Line 1.5 Diesel 81 kW (110 CV)",
+            "name": "GS Line 1.5 Diesel 81 kW (110 CV)",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/opel/crossland/2021/estandar/estandar/crossland-gs-line-15-diesel-81-kw-110-cv2/datos",
@@ -397,7 +398,7 @@
             ]
         },
         {
-            "name": "Crossland Business Elegance 1.2 Turbo 96 kW (130 CV)",
+            "name": "Business Elegance 1.2 Turbo 96 kW (130 CV)",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/opel/crossland/2021/estandar/estandar/crossland-business-elegance-12-turbo-96-kw-130-cv/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "Crossland Ultimate 1.2 Turbo 96 kW (130 CV) Aut.",
+            "name": "Ultimate 1.2 Turbo 96 kW (130 CV) Aut.",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/crossland/2021/estandar/estandar/crossland-ultimate-12-turbo-96-kw-130-cv-aut/datos",
@@ -453,7 +454,7 @@
             ]
         },
         {
-            "name": "Crossland Business Elegance 1.2 Turbo 96 kW (130 CV) Aut.",
+            "name": "Business Elegance 1.2 Turbo 96 kW (130 CV) Aut.",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/opel/crossland/2021/estandar/estandar/crossland-12-turbo-130-cv-at6/datos",
@@ -481,7 +482,7 @@
             ]
         },
         {
-            "name": "Crossland Ultimate 1.5 Diesel 88 kW (120 CV) Aut.",
+            "name": "Ultimate 1.5 Diesel 88 kW (120 CV) Aut.",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/opel/crossland/2021/estandar/estandar/crossland-ultimate-15-diesel-88-kw-120-cv-aut2/datos",
@@ -509,7 +510,7 @@
             ]
         },
         {
-            "name": "Crossland Business Elegance 1.5 Diesel 88 kW (120 CV) Aut.",
+            "name": "Business Elegance 1.5 Diesel 88 kW (120 CV) Aut.",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/opel/crossland/2021/estandar/estandar/crossland-business-elegance-15-diesel-88-kw-120-cv-aut/datos",
@@ -537,7 +538,7 @@
             ]
         },
         {
-            "name": "Crossland Ultimate 1.2 Turbo 96 kW (130 CV) Aut.",
+            "name": "Ultimate 1.2 Turbo 96 kW (130 CV) Aut.",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/opel/crossland/2021/estandar/estandar/crossland-ultimate-12-turbo-96-kw-130-cv-aut2/datos",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "name": "Crossland Ultimate 1.5 Diesel 88 kW (120 CV) Aut.",
+            "name": "Ultimate 1.5 Diesel 88 kW (120 CV) Aut.",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/opel/crossland/2021/estandar/estandar/crossland-ultimate-15-diesel-88-kw-120-cv-aut3/datos",

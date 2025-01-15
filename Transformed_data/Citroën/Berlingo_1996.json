@@ -1,11 +1,12 @@
 {
+    "brand": "Citroën",
     "name": "Berlingo",
     "year": "1996",
     "url": "https://www.km77.com/coches/citroen/berlingo/1996/estandar",
     "price": "Desde 24.953 €",
     "versions": [
         {
-            "name": "Berlingo 1.1i Combi X",
+            "name": "1.1i Combi X",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/citroen/berlingo/1996/estandar/x/berlingo-11i-combi-x/datos",
@@ -121,7 +122,7 @@
             ]
         },
         {
-            "name": "Berlingo 1.4i Combi X",
+            "name": "1.4i Combi X",
             "start_year": "1999",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/citroen/berlingo/1996/estandar/x/berlingo-14i-combi-x/datos",
@@ -246,7 +247,7 @@
             ]
         },
         {
-            "name": "Berlingo 1.4i Multispace",
+            "name": "1.4i Multispace",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/citroen/berlingo/1996/estandar/multispace/berlingo-14i-multispace/datos",
@@ -369,7 +370,7 @@
             ]
         },
         {
-            "name": "Berlingo 1.8i Combi SX",
+            "name": "1.8i Combi SX",
             "start_year": "1999",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/citroen/berlingo/1996/estandar/sx/berlingo-18i-combi-sx/datos",
@@ -503,7 +504,7 @@
             ]
         },
         {
-            "name": "Berlingo 1.4i Combi SX",
+            "name": "1.4i Combi SX",
             "start_year": "1999",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/citroen/berlingo/1996/estandar/sx/berlingo-14i-combi-sx/datos",
@@ -636,7 +637,7 @@
             ]
         },
         {
-            "name": "Berlingo 1.4i Multispace Techo elec",
+            "name": "1.4i Multispace Techo elec",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/citroen/berlingo/1996/estandar/multispace-techo-electrico/berlingo-14i-multispace-techo-elec/datos",
@@ -759,7 +760,7 @@
             ]
         },
         {
-            "name": "Berlingo 1.9D Combi Cumbre",
+            "name": "1.9D Combi Cumbre",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/citroen/berlingo/1996/estandar/cumbre/berlingo-19d-combi-cumbre/datos",
@@ -876,7 +877,7 @@
             ]
         },
         {
-            "name": "Berlingo 1.4i Leader",
+            "name": "1.4i Leader",
             "start_year": "2002",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/citroen/berlingo/1996/estandar/leader/berlingo-14i-leader/datos",
@@ -1007,7 +1008,7 @@
             ]
         },
         {
-            "name": "Berlingo 1.9D Combi X",
+            "name": "1.9D Combi X",
             "start_year": "1999",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/citroen/berlingo/1996/estandar/x/berlingo-19d-combi-x/datos",
@@ -1131,7 +1132,7 @@
             ]
         },
         {
-            "name": "Berlingo 1.6i 16v Combi SX",
+            "name": "1.6i 16v Combi SX",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/citroen/berlingo/1996/estandar/sx/berlingo-16i-16v-combi-sx/datos",
@@ -1264,7 +1265,7 @@
             ]
         },
         {
-            "name": "Berlingo 1.9D Multispace",
+            "name": "1.9D Multispace",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/citroen/berlingo/1996/estandar/multispace/berlingo-19d-multispace/datos",
@@ -1388,7 +1389,7 @@
             ]
         },
         {
-            "name": "Berlingo 1.6i 16v Leader",
+            "name": "1.6i 16v Leader",
             "start_year": "2002",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/citroen/berlingo/1996/estandar/leader/berlingo-16i-16v-leader/datos",
@@ -1519,7 +1520,7 @@
             ]
         },
         {
-            "name": "Berlingo 1.9D Combi SX",
+            "name": "1.9D Combi SX",
             "start_year": "1999",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/citroen/berlingo/1996/estandar/sx/berlingo-19d-combi-sx/datos",
@@ -1652,7 +1653,7 @@
             ]
         },
         {
-            "name": "Berlingo 1.4i Combi SX Plus",
+            "name": "1.4i Combi SX Plus",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/citroen/berlingo/1996/estandar/sx-plus/berlingo-14i-combi-sx-plus/datos",
@@ -1782,7 +1783,7 @@
             ]
         },
         {
-            "name": "Berlingo 1.9D Leader",
+            "name": "1.9D Leader",
             "start_year": "2002",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/citroen/berlingo/1996/estandar/leader/berlingo-19d-leader/datos",
@@ -1913,7 +1914,7 @@
             ]
         },
         {
-            "name": "Berlingo 1.9D Multispace TE",
+            "name": "1.9D Multispace TE",
             "start_year": "1999",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/citroen/berlingo/1996/estandar/multispace/berlingo-19d-multispace-te/datos",
@@ -2047,7 +2048,7 @@
             ]
         },
         {
-            "name": "Berlingo 2.0 HDi Multivolumen",
+            "name": "2.0 HDi Multivolumen",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/citroen/berlingo/1996/estandar/multivolumen/berlingo-20-hdi-multivolumen/datos",
@@ -2171,7 +2172,7 @@
             ]
         },
         {
-            "name": "Berlingo 2.0 HDi Multispace",
+            "name": "2.0 HDi Multispace",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/citroen/berlingo/1996/estandar/multispace/berlingo-20-hdi-multispace/datos",
@@ -2296,7 +2297,7 @@
             ]
         },
         {
-            "name": "Berlingo 1.6i 16v Combi SX Plus",
+            "name": "1.6i 16v Combi SX Plus",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/citroen/berlingo/1996/estandar/sx-plus/berlingo-16i-16v-combi-sx-plus/datos",
@@ -2426,7 +2427,7 @@
             ]
         },
         {
-            "name": "Berlingo 2.0 HDi Combi SX",
+            "name": "2.0 HDi Combi SX",
             "start_year": "1999",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/citroen/berlingo/1996/estandar/sx/berlingo-20-hdi-combi-sx/datos",
@@ -2558,7 +2559,7 @@
             ]
         },
         {
-            "name": "Berlingo 2.0 HDi Multispace Techo eléctrico",
+            "name": "2.0 HDi Multispace Techo eléctrico",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/citroen/berlingo/1996/estandar/multispace-techo-electrico/berlingo-20-hdi-multispace-techo-electrico/datos",
@@ -2678,7 +2679,7 @@
             ]
         },
         {
-            "name": "Berlingo 1.9D Combi SX Plus",
+            "name": "1.9D Combi SX Plus",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/citroen/berlingo/1996/estandar/sx-plus/berlingo-19d-combi-sx-plus/datos",
@@ -2805,7 +2806,7 @@
             ]
         },
         {
-            "name": "Berlingo 2.0 HDi Leader",
+            "name": "2.0 HDi Leader",
             "start_year": "2002",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/citroen/berlingo/1996/estandar/leader/berlingo-20-hdi-leader/datos",
@@ -2933,7 +2934,7 @@
             ]
         },
         {
-            "name": "Berlingo 2.0 HDi Combi SX Plus",
+            "name": "2.0 HDi Combi SX Plus",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/citroen/berlingo/1996/estandar/sx-plus/berlingo-20-hdi-combi-sx-plus/datos",

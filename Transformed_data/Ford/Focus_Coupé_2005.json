@@ -1,11 +1,12 @@
 {
+    "brand": "Ford",
     "name": "Focus Coupé",
     "year": "2005",
     "url": "https://www.km77.com/coches/ford/focus/2005/coupe",
     "price": "Desde 25.144 €",
     "versions": [
         {
-            "name": "Focus Coupé Trend 1.6 100cv",
+            "name": "Trend 1.6 100cv",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/focus/2005/coupe/trend/focus-coupe-trend-16-100cv/datos",
@@ -176,7 +177,7 @@
             ]
         },
         {
-            "name": "Focus Coupé Trend 1.6 Ti-VCT 115cv",
+            "name": "Trend 1.6 Ti-VCT 115cv",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/focus/2005/coupe/trend/focus-coupe-trend-16-ti-vct-115cv/datos",
@@ -347,7 +348,7 @@
             ]
         },
         {
-            "name": "Focus Coupé Trend 1.6 100cv Aut.",
+            "name": "Trend 1.6 100cv Aut.",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/focus/2005/coupe/trend/focus-coupe-trend-16-100cv-aut/datos",
@@ -518,7 +519,7 @@
             ]
         },
         {
-            "name": "Focus Coupé Trend 1.6 TDCi 90cv",
+            "name": "Trend 1.6 TDCi 90cv",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/focus/2005/coupe/trend/focus-coupe-trend-16-tdci-90cv/datos",
@@ -689,7 +690,7 @@
             ]
         },
         {
-            "name": "Focus Coupé 1.6 Ti-VCT 115 CV Sport",
+            "name": "1.6 Ti-VCT 115 CV Sport",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/focus/2005/coupe/sport/focus-coupe-16-ti-vct-115-cv-sport/datos",
@@ -855,7 +856,7 @@
             ]
         },
         {
-            "name": "Focus Coupé Trend 1.8 TDCi 115cv",
+            "name": "Trend 1.8 TDCi 115cv",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/focus/2005/coupe/trend/focus-coupe-trend-18-tdci-115cv/datos",
@@ -1025,7 +1026,7 @@
             ]
         },
         {
-            "name": "Focus Coupé XR 1.6 Ti-VCT 115cv",
+            "name": "XR 1.6 Ti-VCT 115cv",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/focus/2005/coupe/xr/focus-coupe-xr-16-ti-vct-115cv/datos",
@@ -1512,7 +1513,7 @@
             ]
         },
         {
-            "name": "Focus Coupé Trend 1.6 TDCi 109cv CVT",
+            "name": "Trend 1.6 TDCi 109cv CVT",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/focus/2005/coupe/trend/focus-coupe-trend-16-tdci-109cv-cvt/datos",
@@ -1683,7 +1684,7 @@
             ]
         },
         {
-            "name": "Focus Coupé 1.8 TDCi 115 CV Sport",
+            "name": "1.8 TDCi 115 CV Sport",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/focus/2005/coupe/sport/focus-coupe-18-tdci-115-cv-sport/datos",
@@ -2012,7 +2013,7 @@
             ]
         },
         {
-            "name": "Focus Coupé 2.0 Duratec 145 CV Sport",
+            "name": "2.0 Duratec 145 CV Sport",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/focus/2005/coupe/sport/focus-coupe-20-duratec-145-cv-sport/datos",
@@ -2179,7 +2180,7 @@
             ]
         },
         {
-            "name": "Focus Coupé XR 1.8 TDCi 115cv",
+            "name": "XR 1.8 TDCi 115cv",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/focus/2005/coupe/xr/focus-coupe-xr-18-tdci-115cv/datos",
@@ -2356,7 +2357,7 @@
             ]
         },
         {
-            "name": "Focus Coupé S 2.0 TDCi 136cv",
+            "name": "S 2.0 TDCi 136cv",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/focus/2005/coupe/s/focus-coupe-s-20-tdci-136cv/datos",
@@ -2534,7 +2535,7 @@
             ]
         },
         {
-            "name": "Focus Coupé 2.0 TDCi 136 CV Sport",
+            "name": "2.0 TDCi 136 CV Sport",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/ford/focus/2005/coupe/sport/focus-coupe-20-tdci-136-cv-sport/datos",
@@ -2866,7 +2867,7 @@
             ]
         },
         {
-            "name": "Focus Coupé WRC-S 2.0 TDCi 136cv",
+            "name": "WRC-S 2.0 TDCi 136cv",
             "start_year": "2007",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/focus/2005/coupe/wrc-s/focus-coupe-wrc-s-20-tdci-136cv/datos",
@@ -3210,7 +3211,7 @@
             ]
         },
         {
-            "name": "Focus Coupé ST 2.5i",
+            "name": "ST 2.5i",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/focus/2005/coupe/st/focus-coupe-st-25i/datos",
@@ -3392,7 +3393,7 @@
             ]
         },
         {
-            "name": "Focus Coupé ST WRC 525 2.5i",
+            "name": "ST WRC 525 2.5i",
             "start_year": "2007",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ford/focus/2005/coupe/st-wrc/focus-coupe-st-wrc-525-25i/datos",

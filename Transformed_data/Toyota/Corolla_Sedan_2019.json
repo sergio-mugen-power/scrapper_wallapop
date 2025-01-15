@@ -1,11 +1,12 @@
 {
+    "brand": "Toyota",
     "name": "Corolla Sedan",
     "year": "2019",
     "url": "https://www.km77.com/coches/toyota/corolla/2019/sedan",
     "price": "",
     "versions": [
         {
-            "name": "Corolla Sedan 125H Active",
+            "name": "125H Active",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/toyota/corolla/2019/sedan/active/corolla-hybrid-sedan-125h-active/datos",
@@ -208,7 +209,7 @@
             ]
         },
         {
-            "name": "Corolla Sedan 125H Active Tech",
+            "name": "125H Active Tech",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/toyota/corolla/2019/sedan/active-tech/corolla-hybrid-sedan-125h-active-tech/datos",
@@ -416,7 +417,7 @@
             ]
         },
         {
-            "name": "Corolla Sedan 125H Feel!",
+            "name": "125H Feel!",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/toyota/corolla/2019/sedan/feel/corolla-hybrid-sedan-125h-feel/datos",
@@ -626,7 +627,7 @@
             ]
         },
         {
-            "name": "Corolla Sedan 125H Active Tech",
+            "name": "125H Active Tech",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/toyota/corolla/2019/sedan/estandar/corolla-sedan-125h-active-tech/datos",
@@ -858,7 +859,7 @@
             ]
         },
         {
-            "name": "Corolla Sedan 125H Style",
+            "name": "125H Style",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/toyota/corolla/2019/sedan/estandar/corolla-sedan-125h-style/datos",
@@ -1093,7 +1094,7 @@
             ]
         },
         {
-            "name": "Corolla Sedan 125H Advance",
+            "name": "125H Advance",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/toyota/corolla/2019/sedan/advance/corolla-hybrid-sedan-125h-advance/datos",
@@ -1314,7 +1315,7 @@
             ]
         },
         {
-            "name": "Corolla Sedan 125H Business Plus",
+            "name": "125H Business Plus",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/toyota/corolla/2019/sedan/business-plus/corolla-hybrid-sedan-125h-business-plus/datos",
@@ -1519,7 +1520,7 @@
             ]
         },
         {
-            "name": "Corolla Sedan 125H Advance",
+            "name": "125H Advance",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/toyota/corolla/2019/sedan/estandar/corolla-sedan-125h-advance/datos",
@@ -1763,7 +1764,7 @@
             ]
         },
         {
-            "name": "Corolla Sedan 125H Business Plus",
+            "name": "125H Business Plus",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/toyota/corolla/2019/sedan/estandar/corolla-sedan-125h-business-plus/datos",

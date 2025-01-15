@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "Cabrio",
     "year": "1997",
     "url": "https://www.km77.com/coches/audi/cabrio/1997/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Cabrio 2.6",
+            "name": "2.6",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/cabrio/1997/estandar/estandar/cabrio-26/datos",
@@ -141,7 +142,7 @@
             ]
         },
         {
-            "name": "Cabrio 2.6 automático 4 vel.",
+            "name": "2.6 automático 4 vel.",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/cabrio/1997/estandar/estandar/cabrio-26-automatico-4-vel/datos",
@@ -277,7 +278,7 @@
             ]
         },
         {
-            "name": "Cabrio 2.8",
+            "name": "2.8",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/cabrio/1997/estandar/estandar/cabrio-28/datos",
@@ -413,7 +414,7 @@
             ]
         },
         {
-            "name": "Cabrio 2.8 automático 4 vel.",
+            "name": "2.8 automático 4 vel.",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/cabrio/1997/estandar/estandar/cabrio-28-automatico-4-vel/datos",

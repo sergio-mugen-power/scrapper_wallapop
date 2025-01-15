@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "A5 Cabrio",
     "year": "2017",
     "url": "https://www.km77.com/coches/audi/a5/2017/cabrio",
     "price": "Desde 53.310 €",
     "versions": [
         {
-            "name": "A5 Cabrio 2.0 TFSI 140 kW (190 CV)",
+            "name": "2.0 TFSI 140 kW (190 CV)",
             "start_year": "2017",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/audi/a5/2017/cabrio/estandar/a5-cabrio-20-tfsi-140-kw-190-cv/datos",
@@ -296,7 +297,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 2.0 TFSI 140 kW (190 CV)",
+            "name": "2.0 TFSI 140 kW (190 CV)",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/audi/a5/2017/cabrio/estandar/a5-cabrio-20-tfsi-140-kw-190-cv2/datos",
@@ -587,7 +588,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 40 TFSI",
+            "name": "40 TFSI",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/audi/a5/2017/cabrio/estandar/a5-cabrio-40-tfsi/datos",
@@ -881,7 +882,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 2.0 TFSI 140 kW (190 CV) S tronic",
+            "name": "2.0 TFSI 140 kW (190 CV) S tronic",
             "start_year": "2017",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/audi/a5/2017/cabrio/estandar/a5-cabrio-20-tfsi-140-kw-190-cv-s-tronic/datos",
@@ -1175,7 +1176,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 2.0 TFSI 140 kW (190 CV) S tronic",
+            "name": "2.0 TFSI 140 kW (190 CV) S tronic",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/audi/a5/2017/cabrio/estandar/a5-cabrio-20-tfsi-140-kw-190-cv-s-tronic2/datos",
@@ -1470,7 +1471,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 40 TFSI S tronic 7 vel.",
+            "name": "40 TFSI S tronic 7 vel.",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/audi/a5/2017/cabrio/estandar/a5-cabrio-40-tfsi-s-tronic-7-vel/datos",
@@ -1767,7 +1768,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 2.0 TDI 140 kW (190 CV) S tronic",
+            "name": "2.0 TDI 140 kW (190 CV) S tronic",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/audi/a5/2017/cabrio/estandar/a5-cabrio-20-tdi-190-cv-s-tronic/datos",
@@ -2064,7 +2065,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 40 TDI S tronic 7 vel.",
+            "name": "40 TDI S tronic 7 vel.",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/audi/a5/2017/cabrio/estandar/a5-cabrio-40-tdi-s-tronic-7-vel/datos",
@@ -2363,7 +2364,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 40 TDI quattro S tronic 7 vel.",
+            "name": "40 TDI quattro S tronic 7 vel.",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/audi/a5/2017/cabrio/estandar/a5-cabrio-40-tdi-quattro-s-tronic-7-vel/datos",
@@ -2664,7 +2665,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 2.0 TFSI 185 kW (252 CV) quattro S tronic",
+            "name": "2.0 TFSI 185 kW (252 CV) quattro S tronic",
             "start_year": "2017",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/audi/a5/2017/cabrio/estandar/a5-cabrio-20-tfsi-185-kw-252-cv-quattro-s-tronic2/datos",
@@ -2959,7 +2960,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 2.0 TFSI 185 kW (252 CV) quattro-ultra S tronic",
+            "name": "2.0 TFSI 185 kW (252 CV) quattro-ultra S tronic",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/audi/a5/2017/cabrio/estandar/a5-cabrio-20-tfsi-185-kw-252-cv-quattro-ultra-s-tronic/datos",
@@ -3254,7 +3255,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 2.0 TDI 140 kW (190 CV) quattro S tronic",
+            "name": "2.0 TDI 140 kW (190 CV) quattro S tronic",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/audi/a5/2017/cabrio/estandar/a5-cabrio-20-tdi-140-kw-190-cv-quattro-s-tronic/datos",
@@ -3345,7 +3346,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 45 TFSI quattro-ultra S tronic 7 vel.",
+            "name": "45 TFSI quattro-ultra S tronic 7 vel.",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/audi/a5/2017/cabrio/estandar/a5-cabrio-45-tfsi-quattro-ultra-s-tronic-7-vel/datos",
@@ -3643,7 +3644,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 3.0 TDI 160 kW (218 CV) quattro S tronic",
+            "name": "3.0 TDI 160 kW (218 CV) quattro S tronic",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/audi/a5/2017/cabrio/estandar/a5-cabrio-30-tdi-160-kw-218-cv-quattro-s-tronic/datos",
@@ -3941,7 +3942,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 3.0 TDI 210 kW (286 CV) quattro tiptronic",
+            "name": "3.0 TDI 210 kW (286 CV) quattro tiptronic",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/audi/a5/2017/cabrio/estandar/a5-cabrio-30-tdi-210-kw-286-cv-quattro-tiptronic/datos",
@@ -4238,7 +4239,7 @@
             ]
         },
         {
-            "name": "A5 Cabrio 50 TDI quattro tiptronic 8 vel.",
+            "name": "50 TDI quattro tiptronic 8 vel.",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/audi/a5/2017/cabrio/estandar/a5-cabrio-50-tdi-quattro-tiptronic-8-vel/datos",

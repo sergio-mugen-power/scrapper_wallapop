@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Passat Variant",
     "year": "2001",
     "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant",
     "price": "Desde 41.200 €",
     "versions": [
         {
-            "name": "Passat Variant Edition Trend 1.9 TDI 100 CV",
+            "name": "Edition Trend 1.9 TDI 100 CV",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/edition-trend/passat-variant-edition-trend-19-tdi-100-cv/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Passat Variant Edition Trend 2.0 130 CV",
+            "name": "Edition Trend 2.0 130 CV",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/edition-trend/passat-variant-edition-trend-20-130-cv/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Passat Variant Edition 1.9 TDI 100 CV",
+            "name": "Edition 1.9 TDI 100 CV",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/edition/passat-variant-edition-19-tdi-100-cv/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Passat Variant Comfortline 2.0 115 CV",
+            "name": "Comfortline 2.0 115 CV",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/comfortline/passat-variant-comfortline-20-115-cv/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "Passat Variant Edition 2.0 130 CV",
+            "name": "Edition 2.0 130 CV",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/edition/passat-variant-edition-20-130-cv/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Passat Variant Edition Trend 1.9 TDI 130 CV",
+            "name": "Edition Trend 1.9 TDI 130 CV",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/edition-trend/passat-variant-edition-trend-19-tdi-130-cv/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "Passat Variant Comfortline 2.0 130 CV",
+            "name": "Comfortline 2.0 130 CV",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/comfortline/passat-variant-comfortline-20-130-cv/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "Passat Variant Edition 1.9 TDI 130 CV",
+            "name": "Edition 1.9 TDI 130 CV",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/edition/passat-variant-edition-19-tdi-130-cv/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "Passat Variant Comfortline 2.0 115 CV Aut.",
+            "name": "Comfortline 2.0 115 CV Aut.",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/comfortline/passat-variant-comfortline-20-115-cv-aut/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "Passat Variant Comfortline 1.8 Turbo 150 CV",
+            "name": "Comfortline 1.8 Turbo 150 CV",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/comfortline/passat-variant-comfortline-18-turbo-150-cv/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "Passat Variant Comfortline 1.9 TDI 130 CV",
+            "name": "Comfortline 1.9 TDI 130 CV",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/comfortline/passat-variant-comfortline-19-tdi-130-cv/datos",
@@ -313,7 +314,7 @@
             ]
         },
         {
-            "name": "Passat Variant Trendline 2.0 130 CV",
+            "name": "Trendline 2.0 130 CV",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/trendline/passat-variant-trendline-20-130-cv/datos",
@@ -341,7 +342,7 @@
             ]
         },
         {
-            "name": "Passat Variant Trendline 1.8 Turbo 150 CV",
+            "name": "Trendline 1.8 Turbo 150 CV",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/trendline/passat-variant-trendline-18-turbo-150-cv/datos",
@@ -369,7 +370,7 @@
             ]
         },
         {
-            "name": "Passat Variant Advance 2.0 130 CV",
+            "name": "Advance 2.0 130 CV",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/advance/passat-variant-advance-20-130-cv/datos",
@@ -397,7 +398,7 @@
             ]
         },
         {
-            "name": "Passat Variant Trendline 1.9 TDI 130 CV 6 vel.",
+            "name": "Trendline 1.9 TDI 130 CV 6 vel.",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/trendline/passat-variant-trendline-19-tdi-130-cv-6-vel/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "Passat Variant Advance 1.8 Turbo 150 CV",
+            "name": "Advance 1.8 Turbo 150 CV",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/advance/passat-variant-advance-18-turbo-150-cv/datos",
@@ -453,7 +454,7 @@
             ]
         },
         {
-            "name": "Passat Variant Advance 1.9 TDI 130 CV 6 vel.",
+            "name": "Advance 1.9 TDI 130 CV 6 vel.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/advance/passat-variant-advance-19-tdi-130-cv-6-vel/datos",
@@ -481,7 +482,7 @@
             ]
         },
         {
-            "name": "Passat Variant Trendline 2.3 V5 170 CV",
+            "name": "Trendline 2.3 V5 170 CV",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/trendline/passat-variant-trendline-23-v5-170-cv/datos",
@@ -509,7 +510,7 @@
             ]
         },
         {
-            "name": "Passat Variant Trendline 1.9 TDI 130 CV 4Motion",
+            "name": "Trendline 1.9 TDI 130 CV 4Motion",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/trendline/passat-variant-trendline-19-tdi-130-cv-4motion/datos",
@@ -537,7 +538,7 @@
             ]
         },
         {
-            "name": "Passat Variant Highline 2.0 130 CV",
+            "name": "Highline 2.0 130 CV",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/highline/passat-variant-highline-20-130-cv/datos",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "name": "Passat Variant Trendline 1.9 TDI 130 CV Tiptronic",
+            "name": "Trendline 1.9 TDI 130 CV Tiptronic",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/trendline/passat-variant-trendline-19-tdi-130-cv-tiptronic/datos",
@@ -593,7 +594,7 @@
             ]
         },
         {
-            "name": "Passat Variant Trendline 1.8 T 150 CV Tiptronic",
+            "name": "Trendline 1.8 T 150 CV Tiptronic",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/trendline/passat-variant-trendline-18-t-150-cv-tiptronic/datos",
@@ -621,7 +622,7 @@
             ]
         },
         {
-            "name": "Passat Variant Highline 1.8 Turbo 150 CV",
+            "name": "Highline 1.8 Turbo 150 CV",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/highline/passat-variant-highline-18-turbo-150-cv/datos",
@@ -649,7 +650,7 @@
             ]
         },
         {
-            "name": "Passat Variant Highline 2.3 V5 170 CV",
+            "name": "Highline 2.3 V5 170 CV",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/highline/passat-variant-highline-23-v5-170-cv/datos",
@@ -677,7 +678,7 @@
             ]
         },
         {
-            "name": "Passat Variant Advance 1.9 TDI 130 CV 4Motion",
+            "name": "Advance 1.9 TDI 130 CV 4Motion",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/advance/passat-variant-advance-19-tdi-130-cv-4motion/datos",
@@ -705,7 +706,7 @@
             ]
         },
         {
-            "name": "Passat Variant Highline 1.9 TDI 130 CV 6 vel.",
+            "name": "Highline 1.9 TDI 130 CV 6 vel.",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/highline/passat-variant-highline-19-tdi-130-cv-6-vel/datos",
@@ -733,7 +734,7 @@
             ]
         },
         {
-            "name": "Passat Variant Trendline 2.3 V5 170 CV 4Motion",
+            "name": "Trendline 2.3 V5 170 CV 4Motion",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/trendline/passat-variant-trendline-23-v5-170-cv-4motion/datos",
@@ -761,7 +762,7 @@
             ]
         },
         {
-            "name": "Passat Variant Advance 1.9 TDI 130 CV Tiptronic",
+            "name": "Advance 1.9 TDI 130 CV Tiptronic",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/advance/passat-variant-advance-19-tdi-130-cv-tiptronic/datos",
@@ -789,7 +790,7 @@
             ]
         },
         {
-            "name": "Passat Variant Advance 1.8 T 150 CV Tiptronic",
+            "name": "Advance 1.8 T 150 CV Tiptronic",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/advance/passat-variant-advance-18-t-150-cv-tiptronic/datos",
@@ -817,7 +818,7 @@
             ]
         },
         {
-            "name": "Passat Variant Trendline 2.3 V5 170 CV Tiptronic",
+            "name": "Trendline 2.3 V5 170 CV Tiptronic",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/trendline/passat-variant-trendline-23-v5-170-cv-tiptronic/datos",
@@ -845,7 +846,7 @@
             ]
         },
         {
-            "name": "Passat Variant Highline 2.3 V5 170 CV 4Motion",
+            "name": "Highline 2.3 V5 170 CV 4Motion",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/highline/passat-variant-highline-23-v5-170-cv-4motion/datos",
@@ -873,7 +874,7 @@
             ]
         },
         {
-            "name": "Passat Variant Highline 1.9 TDI 130 CV 4Motion",
+            "name": "Highline 1.9 TDI 130 CV 4Motion",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/highline/passat-variant-highline-19-tdi-130-cv-4motion/datos",
@@ -901,7 +902,7 @@
             ]
         },
         {
-            "name": "Passat Variant Highline 1.9 TDI 130 CV Tiptronic",
+            "name": "Highline 1.9 TDI 130 CV Tiptronic",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/highline/passat-variant-highline-19-tdi-130-cv-tiptronic/datos",
@@ -929,7 +930,7 @@
             ]
         },
         {
-            "name": "Passat Variant Highline 1.8 T 150 CV Tiptronic",
+            "name": "Highline 1.8 T 150 CV Tiptronic",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/highline/passat-variant-highline-18-t-150-cv-tiptronic/datos",
@@ -957,7 +958,7 @@
             ]
         },
         {
-            "name": "Passat Variant Highline 2.3 V5 170 CV Tiptronic",
+            "name": "Highline 2.3 V5 170 CV Tiptronic",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/highline/passat-variant-highline-23-v5-170-cv-tiptronic/datos",
@@ -1013,7 +1014,7 @@
             ]
         },
         {
-            "name": "Passat Variant Highline 2.8 V6 193 CV 4Motion",
+            "name": "Highline 2.8 V6 193 CV 4Motion",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/highline/passat-variant-highline-28-v6-193-cv-4motion/datos",
@@ -1041,7 +1042,7 @@
             ]
         },
         {
-            "name": "Passat Variant Highline 2.5 V6 TDI 150 CV",
+            "name": "Highline 2.5 V6 TDI 150 CV",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/highline/passat-variant-highline-25-v6-tdi-150-cv/datos",
@@ -1069,7 +1070,7 @@
             ]
         },
         {
-            "name": "Passat Variant Highline 2.8 V6 193 CV 4Motion Tiptronic",
+            "name": "Highline 2.8 V6 193 CV 4Motion Tiptronic",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/highline/passat-variant-highline-28-v6-193-cv-4motion-tiptronic/datos",
@@ -1097,7 +1098,7 @@
             ]
         },
         {
-            "name": "Passat Variant Highline 2.5 V6 TDI 150 CV 4Motion",
+            "name": "Highline 2.5 V6 TDI 150 CV 4Motion",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/highline/passat-variant-highline-25-v6-tdi-150-cv-4motion/datos",
@@ -1125,7 +1126,7 @@
             ]
         },
         {
-            "name": "Passat Variant Highline 2.5 V6 TDI 150 CV Tiptronic",
+            "name": "Highline 2.5 V6 TDI 150 CV Tiptronic",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/highline/passat-variant-highline-25-v6-tdi-150-cv-tiptronic/datos",
@@ -1153,7 +1154,7 @@
             ]
         },
         {
-            "name": "Passat Variant V6 2.5 TDI 163 CV 6 vel.",
+            "name": "V6 2.5 TDI 163 CV 6 vel.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/estandar/passat-variant-v6-25-tdi-163-cv-6-vel/datos",
@@ -1181,7 +1182,7 @@
             ]
         },
         {
-            "name": "Passat Variant Highline 2.5 V6 TDI 150 CV 4Motion Tiptronic",
+            "name": "Highline 2.5 V6 TDI 150 CV 4Motion Tiptronic",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/highline/passat-variant-highline-25-v6-tdi-150-cv-4motion-tiptronic/datos",
@@ -1209,7 +1210,7 @@
             ]
         },
         {
-            "name": "Passat Variant V6 2.5 TDI 163 CV Tiptronic",
+            "name": "V6 2.5 TDI 163 CV Tiptronic",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/estandar/passat-variant-v6-25-tdi-163-cv-tiptronic/datos",
@@ -1237,7 +1238,7 @@
             ]
         },
         {
-            "name": "Passat Variant V6 2.5 TDI 180 CV 4Motion",
+            "name": "V6 2.5 TDI 180 CV 4Motion",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/estandar/passat-variant-v6-25-tdi-180-cv-4motion/datos",
@@ -1265,7 +1266,7 @@
             ]
         },
         {
-            "name": "Passat Variant V6 2.5 TDI 180 CV 4Motion Tiptronic",
+            "name": "V6 2.5 TDI 180 CV 4Motion Tiptronic",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/estandar/passat-variant-v6-25-tdi-180-cv-4motion-tiptronic/datos",
@@ -1293,7 +1294,7 @@
             ]
         },
         {
-            "name": "Passat Variant W8 4Motion",
+            "name": "W8 4Motion",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/estandar/passat-variant-w8-4motion/datos",
@@ -1321,7 +1322,7 @@
             ]
         },
         {
-            "name": "Passat Variant W8 4Motion Tiptronic",
+            "name": "W8 4Motion Tiptronic",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/passat/2001/variant/estandar/passat-variant-w8-4motion-tiptronic/datos",

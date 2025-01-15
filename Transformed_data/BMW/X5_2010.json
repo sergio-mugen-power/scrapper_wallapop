@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "X5",
     "year": "2010",
     "url": "https://www.km77.com/coches/bmw/x5/2010/estandar",
     "price": "",
     "versions": [
         {
-            "name": "X5 xDrive30d",
+            "name": "xDrive30d",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x5/2010/estandar/estandar/x5-xdrive30d/datos",
@@ -297,7 +298,7 @@
             ]
         },
         {
-            "name": "X5 xDrive35i",
+            "name": "xDrive35i",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x5/2010/estandar/estandar/x5-xdrive35i/datos",
@@ -588,7 +589,7 @@
             ]
         },
         {
-            "name": "X5 xDrive30d",
+            "name": "xDrive30d",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x5/2010/estandar/estandar/x5-xdrive30d2/datos",
@@ -893,7 +894,7 @@
             ]
         },
         {
-            "name": "X5 xDrive35i",
+            "name": "xDrive35i",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x5/2010/estandar/estandar/x5-xdrive35i2/datos",
@@ -1197,7 +1198,7 @@
             ]
         },
         {
-            "name": "X5 xDrive30d",
+            "name": "xDrive30d",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/bmw/x5/2010/estandar/estandar/x5-xdrive30d3/datos",
@@ -1502,7 +1503,7 @@
             ]
         },
         {
-            "name": "X5 xDrive40d",
+            "name": "xDrive40d",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x5/2010/estandar/estandar/x5-xdrive40d/datos",
@@ -1794,7 +1795,7 @@
             ]
         },
         {
-            "name": "X5 xDrive35i",
+            "name": "xDrive35i",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/bmw/x5/2010/estandar/estandar/x5-xdrive35i3/datos",
@@ -2098,7 +2099,7 @@
             ]
         },
         {
-            "name": "X5 xDrive40d",
+            "name": "xDrive40d",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x5/2010/estandar/estandar/x5-xdrive40d2/datos",
@@ -2401,7 +2402,7 @@
             ]
         },
         {
-            "name": "X5 xDrive40d",
+            "name": "xDrive40d",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/bmw/x5/2010/estandar/estandar/x5-xdrive40d3/datos",
@@ -2704,7 +2705,7 @@
             ]
         },
         {
-            "name": "X5 xDrive50i",
+            "name": "xDrive50i",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x5/2010/estandar/estandar/x5-xdrive50i/datos",
@@ -2991,7 +2992,7 @@
             ]
         },
         {
-            "name": "X5 xDrive50i",
+            "name": "xDrive50i",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x5/2010/estandar/estandar/x5-xdrive50i2/datos",
@@ -3292,7 +3293,7 @@
             ]
         },
         {
-            "name": "X5 xDrive50i",
+            "name": "xDrive50i",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/bmw/x5/2010/estandar/estandar/x5-xdrive50i3/datos",
@@ -3593,7 +3594,7 @@
             ]
         },
         {
-            "name": "X5 M50d",
+            "name": "M50d",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x5/2010/estandar/estandar/x5-m50d/datos",
@@ -3884,7 +3885,7 @@
             ]
         },
         {
-            "name": "X5 M50d",
+            "name": "M50d",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/bmw/x5/2010/estandar/estandar/x5-m50d2/datos",

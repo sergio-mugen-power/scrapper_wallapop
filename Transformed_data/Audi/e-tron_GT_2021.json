@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "e-tron GT",
     "year": "2021",
     "url": "https://www.km77.com/coches/audi/e-tron-gt/2021/estandar",
     "price": "Desde 130.280 €",
     "versions": [
         {
-            "name": "e-tron GT 60 quattro",
+            "name": "60 quattro",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/audi/e-tron-gt/2021/estandar/estandar/e-tron-gt/datos",
@@ -314,7 +315,7 @@
             ]
         },
         {
-            "name": "RS e-tron GT",
+            "name": "RS",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/audi/e-tron-gt/2021/estandar/rs/rs-e-tron-gt/datos",

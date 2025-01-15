@@ -1,11 +1,12 @@
 {
+    "brand": "Jeep",
     "name": "Cherokee",
     "year": "2002",
     "url": "https://www.km77.com/coches/jeep/cherokee/2002/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Cherokee Base 2.4i",
+            "name": "Base 2.4i",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/jeep/cherokee/2002/estandar/base/cherokee-base-24i/datos",
@@ -138,7 +139,7 @@
             ]
         },
         {
-            "name": "Cherokee Sport 2.4i",
+            "name": "Sport 2.4i",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/jeep/cherokee/2002/estandar/sport/cherokee-sport-24i/datos",
@@ -273,7 +274,7 @@
             ]
         },
         {
-            "name": "Cherokee Sport 2.4i",
+            "name": "Sport 2.4i",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/jeep/cherokee/2002/estandar/sport/cherokee-sport-24i2/datos",
@@ -438,7 +439,7 @@
             ]
         },
         {
-            "name": "Cherokee Base 2.5 CRD",
+            "name": "Base 2.5 CRD",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/jeep/cherokee/2002/estandar/base/cherokee-base-25-crd/datos",
@@ -571,7 +572,7 @@
             ]
         },
         {
-            "name": "Cherokee Sport 2.5 CRD",
+            "name": "Sport 2.5 CRD",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/jeep/cherokee/2002/estandar/sport/cherokee-sport-25-crd/datos",
@@ -736,7 +737,7 @@
             ]
         },
         {
-            "name": "Cherokee Jamboree 2.5 CRD",
+            "name": "Jamboree 2.5 CRD",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/jeep/cherokee/2002/estandar/jamboree/cherokee-jamboree-25-crd/datos",
@@ -902,7 +903,7 @@
             ]
         },
         {
-            "name": "Cherokee Sport 2.5 CRD Extreme",
+            "name": "Sport 2.5 CRD Extreme",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/jeep/cherokee/2002/estandar/sport-extreme/cherokee-sport-25-crd-extreme/datos",
@@ -1071,7 +1072,7 @@
             ]
         },
         {
-            "name": "Cherokee Jamboree 2.5 CRD Extreme",
+            "name": "Jamboree 2.5 CRD Extreme",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/jeep/cherokee/2002/estandar/jamboree-extreme/cherokee-jamboree-25-crd-extreme/datos",
@@ -1241,7 +1242,7 @@
             ]
         },
         {
-            "name": "Cherokee Renegade 2.5 CRD",
+            "name": "Renegade 2.5 CRD",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/jeep/cherokee/2002/estandar/renegade/cherokee-renegade-25-crd/datos",
@@ -1411,7 +1412,7 @@
             ]
         },
         {
-            "name": "Cherokee Jamboree 2.8 CRD Aut.",
+            "name": "Jamboree 2.8 CRD Aut.",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/jeep/cherokee/2002/estandar/jamboree/cherokee-jamboree-28-crd-aut/datos",
@@ -1578,7 +1579,7 @@
             ]
         },
         {
-            "name": "Cherokee Limited 2.5 CRD",
+            "name": "Limited 2.5 CRD",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/jeep/cherokee/2002/estandar/limited/cherokee-limited-25-crd/datos",
@@ -1748,7 +1749,7 @@
             ]
         },
         {
-            "name": "Cherokee Limited 3.7 V6 Aut.",
+            "name": "Limited 3.7 V6 Aut.",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/jeep/cherokee/2002/estandar/limited/cherokee-limited-37-v6-aut/datos",
@@ -1918,7 +1919,7 @@
             ]
         },
         {
-            "name": "Cherokee Limited 2.8 CRD Aut.",
+            "name": "Limited 2.8 CRD Aut.",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/jeep/cherokee/2002/estandar/limited/cherokee-limited-28-crd-aut/datos",

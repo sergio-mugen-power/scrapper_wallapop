@@ -1,11 +1,12 @@
 {
+    "brand": "MG",
     "name": "ZS",
     "year": "2021",
     "url": "https://www.km77.com/coches/mg/zs/2021/estandar",
     "price": "Desde 22.490 €",
     "versions": [
         {
-            "name": "ZS EV Comfort",
+            "name": "EV Comfort",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/mg/zs/2021/estandar/ev/zs-ev/datos",
@@ -204,7 +205,7 @@
             ]
         },
         {
-            "name": "ZS EV Luxury",
+            "name": "EV Luxury",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/mg/zs/2021/estandar/ev/zs-ev-luxury/datos",

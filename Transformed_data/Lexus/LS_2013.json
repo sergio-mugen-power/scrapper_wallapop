@@ -1,11 +1,12 @@
 {
+    "brand": "Lexus",
     "name": "LS",
     "year": "2013",
     "url": "https://www.km77.com/coches/lexus/ls/2013/estandar",
     "price": "Desde 118.300 €",
     "versions": [
         {
-            "name": "LS 600h Hybrid",
+            "name": "600h Hybrid",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/lexus/ls/2013/estandar/estandar/ls-600h/datos",
@@ -195,7 +196,7 @@
             ]
         },
         {
-            "name": "LS 600h Hybrid",
+            "name": "600h Hybrid",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/lexus/ls/2013/estandar/estandar/ls-600h-hybrid/datos",
@@ -387,7 +388,7 @@
             ]
         },
         {
-            "name": "LS 600h Corporate",
+            "name": "600h Corporate",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/lexus/ls/2013/estandar/corporate/ls-600h-corporate/datos",
@@ -582,7 +583,7 @@
             ]
         },
         {
-            "name": "LS 600h F SPORT",
+            "name": "600h F SPORT",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/lexus/ls/2013/estandar/f-sport/ls-600h-f-sport/datos",
@@ -780,7 +781,7 @@
             ]
         },
         {
-            "name": "LS 600h F Sport",
+            "name": "600h F Sport",
             "start_year": "2013",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/lexus/ls/2013/estandar/f-sport/ls-600h-f-sport2/datos",
@@ -982,7 +983,7 @@
             ]
         },
         {
-            "name": "LS 600h Hybrid Drive",
+            "name": "600h Hybrid Drive",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/lexus/ls/2013/estandar/drive/ls-600h-hybrid-drive/datos",
@@ -1181,7 +1182,7 @@
             ]
         },
         {
-            "name": "LS 600h Hybrid Drive",
+            "name": "600h Hybrid Drive",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/lexus/ls/2013/estandar/drive/ls-600h-hybrid-drive2/datos",
@@ -1383,7 +1384,7 @@
             ]
         },
         {
-            "name": "LS 600h Executive",
+            "name": "600h Executive",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/lexus/ls/2013/estandar/executive/ls-600h-executive/datos",

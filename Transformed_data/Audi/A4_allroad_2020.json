@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "A4 allroad",
     "year": "2020",
     "url": "https://www.km77.com/coches/audi/a4/2020/allroad",
     "price": "",
     "versions": [
         {
-            "name": "A4 allroad 40 TDI quattro 140 kW (190 CV) S tronic",
+            "name": "40 TDI quattro 140 kW (190 CV) S tronic",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/audi/a4/2020/allroad/estandar/a4-allroad-40-tdi-quattro-140-kw-190-cv-s-tronic/datos",
@@ -315,7 +316,7 @@
             ]
         },
         {
-            "name": "A4 allroad 45 TFSI quattro-ultra 180 kW (245 CV) S tronic",
+            "name": "45 TFSI quattro-ultra 180 kW (245 CV) S tronic",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/audi/a4/2020/allroad/estandar/a4-allroad-quattro-45-tfsi-180-kw-245-cv-s-tronic/datos",
@@ -624,7 +625,7 @@
             ]
         },
         {
-            "name": "A4 allroad 40 TDI quattro-ultra 150 kW (204 CV) S tronic",
+            "name": "40 TDI quattro-ultra 150 kW (204 CV) S tronic",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/audi/a4/2020/allroad/estandar/a4-allroad-40-tdi-quattro-150-kw-204-cv-s-tronic/datos",
@@ -933,7 +934,7 @@
             ]
         },
         {
-            "name": "A4 allroad 45 TDI quattro 170 kW (231 CV) tiptronic",
+            "name": "45 TDI quattro 170 kW (231 CV) tiptronic",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/audi/a4/2020/allroad/estandar/a4-allroad-45-tdi-quattro-170-kw-231-cv-tiptronic/datos",
@@ -1243,7 +1244,7 @@
             ]
         },
         {
-            "name": "A4 allroad 45 TFSI quattro-ultra 195 kW (265 CV) S tronic",
+            "name": "45 TFSI quattro-ultra 195 kW (265 CV) S tronic",
             "start_year": "2020",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/audi/a4/2020/allroad/estandar/a4-allroad-45-tfsi-quattro-195-kw-265-cv-s-tronic/datos",
@@ -1551,7 +1552,7 @@
             ]
         },
         {
-            "name": "A4 allroad Heritage edition 40 TDI quattro-ultra 150 kW (204 CV) S tronic",
+            "name": "Heritage edition 40 TDI quattro-ultra 150 kW (204 CV) S tronic",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/audi/a4/2020/allroad/estandar/a4-allroad-heritage-edition-40-tdi-quattro-ultra-150-kw-204-cv-s-tronic/datos",

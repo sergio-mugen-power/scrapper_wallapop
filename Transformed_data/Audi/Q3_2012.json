@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "Q3",
     "year": "2012",
     "url": "https://www.km77.com/coches/audi/q3/2012/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Q3 1.4 TFSI 150 CV Advance",
+            "name": "1.4 TFSI 150 CV Advance",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/advance/q3-14-tfsi-150-cv-advance/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "Q3 1.4 TFSI 150 CV Attraction",
+            "name": "1.4 TFSI 150 CV Attraction",
             "start_year": "2014",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/attraction/q3-14-tfsi-150-cv-attraction/datos",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 140 CV Advance",
+            "name": "2.0 TDI 140 CV Advance",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/advance/q3-20-tdi-140-cv-advance/datos",
@@ -846,7 +847,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 140 CV Advance",
+            "name": "2.0 TDI 140 CV Advance",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/advance/q3-20-tdi-140-cv-advance2/datos",
@@ -1127,7 +1128,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 140 CV Attraction",
+            "name": "2.0 TDI 140 CV Attraction",
             "start_year": "2014",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/attraction/q3-20-tdi-140-cv-attraction/datos",
@@ -1408,7 +1409,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 140 CV quattro Advance",
+            "name": "2.0 TDI 140 CV quattro Advance",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/advance/q3-20-tdi-140-cv-quattro-advance/datos",
@@ -1684,7 +1685,7 @@
             ]
         },
         {
-            "name": "Q3 1.4 TFSI 150 CV S tronic Advance",
+            "name": "1.4 TFSI 150 CV S tronic Advance",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/advance/q3-14-tfsi-150-cv-s-tronic-7-vel-advance/datos",
@@ -1965,7 +1966,7 @@
             ]
         },
         {
-            "name": "Q3 1.4 TFSI 150 CV S tronic Attraction",
+            "name": "1.4 TFSI 150 CV S tronic Attraction",
             "start_year": "2014",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/attraction/q3-14-tfsi-150-cv-s-tronic-attraction/datos",
@@ -2246,7 +2247,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 140 CV quattro Advance",
+            "name": "2.0 TDI 140 CV quattro Advance",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/advance/q3-20-tdi-140-cv-quattro-advance2/datos",
@@ -2528,7 +2529,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 140 CV Ambiente",
+            "name": "2.0 TDI 140 CV Ambiente",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambiente/q3-20-tdi-140-cv-ambiente/datos",
@@ -2807,7 +2808,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 140 CV Ambition",
+            "name": "2.0 TDI 140 CV Ambition",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambition/q3-20-tdi-140-cv-ambition/datos",
@@ -3092,7 +3093,7 @@
             ]
         },
         {
-            "name": "Q3 1.4 TFSI 150 CV Ambiente",
+            "name": "1.4 TFSI 150 CV Ambiente",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambiente/q3-14-tfsi-150-cv-ambiente/datos",
@@ -3369,7 +3370,7 @@
             ]
         },
         {
-            "name": "Q3 1.4 TFSI 150 CV Ambition",
+            "name": "1.4 TFSI 150 CV Ambition",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambition/q3-14-tfsi-150-cv-ambition/datos",
@@ -3651,7 +3652,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 140 CV quattro Advance",
+            "name": "2.0 TDI 140 CV quattro Advance",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/advance/q3-20-tdi-140-cv-quattro-advance3/datos",
@@ -3933,7 +3934,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 140 CV quattro Advance",
+            "name": "2.0 TDI 140 CV quattro Advance",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/advance/q3-20-tdi-140-cv-quattro-advance4/datos",
@@ -4215,7 +4216,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TFSI 170 CV quattro Advance",
+            "name": "2.0 TFSI 170 CV quattro Advance",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/advance/q3-20-tfsi-170-cv-quattro-advance/datos",
@@ -4495,7 +4496,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 140 CV quattro Attraction",
+            "name": "2.0 TDI 140 CV quattro Attraction",
             "start_year": "2014",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/attraction/q3-20-tdi-140-cv-quattro-attraction/datos",
@@ -4777,7 +4778,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 140 CV Ambiente",
+            "name": "2.0 TDI 140 CV Ambiente",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambiente/q3-20-tdi-140-cv-ambiente2/datos",
@@ -5055,7 +5056,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 140 CV Ambition",
+            "name": "2.0 TDI 140 CV Ambition",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambition/q3-20-tdi-140-cv-ambition2/datos",
@@ -5338,7 +5339,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TFSI 170 CV quattro Advance",
+            "name": "2.0 TFSI 170 CV quattro Advance",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/advance/q3-20-tfsi-170-cv-quattro-advance2/datos",
@@ -5618,7 +5619,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 140 CV quattro Ambiente",
+            "name": "2.0 TDI 140 CV quattro Ambiente",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambiente/q3-20-tdi-140-cv-quattro-ambiente/datos",
@@ -5893,7 +5894,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 140 CV quattro Ambition",
+            "name": "2.0 TDI 140 CV quattro Ambition",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambition/q3-20-tdi-140-cv-quattro-ambition/datos",
@@ -6174,7 +6175,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TFSI 170 CV quattro Attraction",
+            "name": "2.0 TFSI 170 CV quattro Attraction",
             "start_year": "2014",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/attraction/q3-20-tfsi-170-cv-quattro-attraction/datos",
@@ -6454,7 +6455,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 140 CV quattro Ambiente",
+            "name": "2.0 TDI 140 CV quattro Ambiente",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambiente/q3-20-tdi-140-cv-quattro-ambiente2/datos",
@@ -6734,7 +6735,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 140 CV quattro Ambition",
+            "name": "2.0 TDI 140 CV quattro Ambition",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambition/q3-20-tdi-140-cv-quattro-ambition2/datos",
@@ -7020,7 +7021,7 @@
             ]
         },
         {
-            "name": "Q3 1.4 TFSI 150 CV S tronic Ambiente",
+            "name": "1.4 TFSI 150 CV S tronic Ambiente",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambiente/q3-14-tfsi-150-cv-s-tronic-7-vel-ambiente/datos",
@@ -7298,7 +7299,7 @@
             ]
         },
         {
-            "name": "Q3 1.4 TFSI 150 CV S tronic Ambition",
+            "name": "1.4 TFSI 150 CV S tronic Ambition",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambition/q3-14-tfsi-150-cv-s-tronic-7-vel-ambition/datos",
@@ -7581,7 +7582,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 140 CV quattro S tronic Advance",
+            "name": "2.0 TDI 140 CV quattro S tronic Advance",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/advance/q3-20-tdi-140-cv-quattro-s-tronic-advance/datos",
@@ -7864,7 +7865,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 140 CV quattro S tronic Attraction",
+            "name": "2.0 TDI 140 CV quattro S tronic Attraction",
             "start_year": "2014",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/attraction/q3-20-tdi-140-cv-quattro-s-tronic-attraction/datos",
@@ -8147,7 +8148,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 140 CV quattro Ambiente",
+            "name": "2.0 TDI 140 CV quattro Ambiente",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambiente/q3-20-tdi-140-cv-quattro-ambiente3/datos",
@@ -8427,7 +8428,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 140 CV quattro Ambition",
+            "name": "2.0 TDI 140 CV quattro Ambition",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambition/q3-20-tdi-140-cv-quattro-ambition3/datos",
@@ -8713,7 +8714,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 140 CV quattro Ambiente",
+            "name": "2.0 TDI 140 CV quattro Ambiente",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambiente/q3-20-tdi-140-cv-quattro-ambiente4/datos",
@@ -8992,7 +8993,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TFSI 170 CV quattro Ambiente",
+            "name": "2.0 TFSI 170 CV quattro Ambiente",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambiente/q3-20-tfsi-170-cv-quattro-ambiente/datos",
@@ -9271,7 +9272,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 140 CV quattro Ambition",
+            "name": "2.0 TDI 140 CV quattro Ambition",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambition/q3-20-tdi-140-cv-quattro-ambition4/datos",
@@ -9555,7 +9556,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TFSI 170 CV quattro Ambition",
+            "name": "2.0 TFSI 170 CV quattro Ambition",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambition/q3-20-tfsi-170-cv-quattro-ambition/datos",
@@ -9839,7 +9840,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TFSI 170 CV quattro S tronic Advance",
+            "name": "2.0 TFSI 170 CV quattro S tronic Advance",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/advance/q3-20-tfsi-170-cv-quattro-s-tronic-advance/datos",
@@ -10120,7 +10121,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 177 CV quattro S tronic Advance",
+            "name": "2.0 TDI 177 CV quattro S tronic Advance",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/advance/q3-20-tdi-177-cv-quattro-advance-s-tronic/datos",
@@ -10403,7 +10404,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TFSI 170 CV quattro S tronic Attraction",
+            "name": "2.0 TFSI 170 CV quattro S tronic Attraction",
             "start_year": "2014",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/attraction/q3-20-tfsi-170-cv-quattro-s-tronic-attraction/datos",
@@ -10684,7 +10685,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TFSI 170 CV quattro Ambiente",
+            "name": "2.0 TFSI 170 CV quattro Ambiente",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambiente/q3-20-tfsi-170-cv-quattro-ambiente2/datos",
@@ -10963,7 +10964,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TFSI 170 CV quattro Ambition",
+            "name": "2.0 TFSI 170 CV quattro Ambition",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambition/q3-20-tfsi-170-cv-quattro-ambition2/datos",
@@ -11247,7 +11248,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TFSI 170 CV quattro Ambiente",
+            "name": "2.0 TFSI 170 CV quattro Ambiente",
             "start_year": "2014",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambiente/q3-20-tfsi-170-cv-quattro-ambiente3/datos",
@@ -11525,7 +11526,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TFSI 170 CV quattro Ambition",
+            "name": "2.0 TFSI 170 CV quattro Ambition",
             "start_year": "2014",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambition/q3-20-tfsi-170-cv-quattro-ambition3/datos",
@@ -11807,7 +11808,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 177 CV quattro S tronic Advance",
+            "name": "2.0 TDI 177 CV quattro S tronic Advance",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/advance/q3-20-tdi-177-cv-quattro-s-tronic-advance/datos",
@@ -12090,7 +12091,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 177 CV quattro S tronic Attraction",
+            "name": "2.0 TDI 177 CV quattro S tronic Attraction",
             "start_year": "2014",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/attraction/q3-20-tdi-177-cv-quattro-s-tronic-attraction/datos",
@@ -12101,7 +12102,7 @@
             "maletero": "460"
         },
         {
-            "name": "Q3 2.0 TDI 140 CV quattro S tronic Ambiente",
+            "name": "2.0 TDI 140 CV quattro S tronic Ambiente",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambiente/q3-20-tdi-140-cv-quattro-s-tronic-ambiente/datos",
@@ -12112,7 +12113,7 @@
             "maletero": "460"
         },
         {
-            "name": "Q3 2.0 TDI 140 CV quattro S tronic Ambition",
+            "name": "2.0 TDI 140 CV quattro S tronic Ambition",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambition/q3-20-tdi-140-cv-quattro-s-tronic-ambition/datos",
@@ -12123,7 +12124,7 @@
             "maletero": "460"
         },
         {
-            "name": "Q3 2.0 TFSI 211 CV quattro S tronic Advance",
+            "name": "2.0 TFSI 211 CV quattro S tronic Advance",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/advance/q3-20-tfsi-211-cv-quattro-s-tronic-advance/datos",
@@ -12134,7 +12135,7 @@
             "maletero": "460"
         },
         {
-            "name": "Q3 2.0 TDI 177 CV quattro S tronic Ambiente",
+            "name": "2.0 TDI 177 CV quattro S tronic Ambiente",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambiente/q3-20-tdi-177-cv-quattro-ambiente-s-tronic/datos",
@@ -12415,7 +12416,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 177 CV quattro S tronic Ambition",
+            "name": "2.0 TDI 177 CV quattro S tronic Ambition",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambition/q3-20-tdi-177-cv-quattro-ambition-s-tronic/datos",
@@ -12702,7 +12703,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TFSI 170 CV quattro S tronic Ambiente",
+            "name": "2.0 TFSI 170 CV quattro S tronic Ambiente",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambiente/q3-20-tfsi-170-cv-quattro-s-tronic-ambiente/datos",
@@ -12981,7 +12982,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TFSI 170 CV quattro S tronic Ambition",
+            "name": "2.0 TFSI 170 CV quattro S tronic Ambition",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambition/q3-20-tfsi-170-cv-quattro-s-tronic-ambition/datos",
@@ -13264,7 +13265,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TFSI 211 CV quattro S tronic Advance",
+            "name": "2.0 TFSI 211 CV quattro S tronic Advance",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/advance/q3-20-tfsi-211-cv-quattro-s-tronic-advance2/datos",
@@ -13546,7 +13547,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TFSI 211 CV quattro S tronic Attraction",
+            "name": "2.0 TFSI 211 CV quattro S tronic Attraction",
             "start_year": "2014",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/attraction/q3-20-tfsi-211-cv-quattro-s-tronic-attraction/datos",
@@ -13828,7 +13829,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 177 CV quattro S tronic Ambiente",
+            "name": "2.0 TDI 177 CV quattro S tronic Ambiente",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambiente/q3-20-tdi-177-cv-quattro-s-tronic-ambiente/datos",
@@ -14108,7 +14109,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TDI 177 CV quattro S tronic Ambition",
+            "name": "2.0 TDI 177 CV quattro S tronic Ambition",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambition/q3-20-tdi-177-cv-quattro-s-tronic-ambition/datos",
@@ -14393,7 +14394,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TFSI 211 CV quattro S tronic Ambiente",
+            "name": "2.0 TFSI 211 CV quattro S tronic Ambiente",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambiente/q3-20-tfsi-211-cv-quattro-s-tronic-ambiente/datos",
@@ -14674,7 +14675,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TFSI 211 CV quattro S tronic Ambition",
+            "name": "2.0 TFSI 211 CV quattro S tronic Ambition",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambition/q3-20-tfsi-211-cv-quattro-s-tronic-ambition/datos",
@@ -14960,7 +14961,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TFSI 211 CV quattro S tronic Ambiente",
+            "name": "2.0 TFSI 211 CV quattro S tronic Ambiente",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambiente/q3-20-tfsi-211-cv-quattro-s-tronic-ambiente2/datos",
@@ -15240,7 +15241,7 @@
             ]
         },
         {
-            "name": "Q3 2.0 TFSI 211 CV quattro S tronic Ambition",
+            "name": "2.0 TFSI 211 CV quattro S tronic Ambition",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/ambition/q3-20-tfsi-211-cv-quattro-s-tronic-ambition2/datos",
@@ -15524,7 +15525,7 @@
             ]
         },
         {
-            "name": "RS Q3 2.5 TFSI quattro S tronic 310 CV",
+            "name": "RS  2.5 TFSI quattro S tronic 310 CV",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/audi/q3/2012/estandar/rs-q3/rs-q32/datos",

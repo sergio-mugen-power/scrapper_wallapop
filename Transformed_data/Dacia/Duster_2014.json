@@ -1,11 +1,12 @@
 {
+    "brand": "Dacia",
     "name": "Duster",
     "year": "2014",
     "url": "https://www.km77.com/coches/dacia/duster/2014/estandar",
     "price": "Desde 19.290 €",
     "versions": [
         {
-            "name": "Duster Base 1.6 84 kW (114 CV) 4x2",
+            "name": "Base 1.6 84 kW (114 CV) 4x2",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/base/duster-base-16-115/datos",
@@ -146,7 +147,7 @@
             ]
         },
         {
-            "name": "Duster Base 1.6 105",
+            "name": "Base 1.6 105",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/base/duster-base-16-105-4x2/datos",
@@ -284,7 +285,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance 1.6 84 kW (114 CV) 4x2",
+            "name": "Ambiance 1.6 84 kW (114 CV) 4x2",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/ambiance/duster-ambiance-16-115/datos",
@@ -444,7 +445,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance 1.6 105",
+            "name": "Ambiance 1.6 105",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/ambiance/duster-ambiance-16-105-4x2/datos",
@@ -599,7 +600,7 @@
             ]
         },
         {
-            "name": "Duster Base 1.6 105 4x4",
+            "name": "Base 1.6 105 4x4",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/base/duster-base-16-105-4x4/datos",
@@ -738,7 +739,7 @@
             ]
         },
         {
-            "name": "Duster Base 1.6 115 4x4",
+            "name": "Base 1.6 115 4x4",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/base/duster-base-16-115-4x4/datos",
@@ -880,7 +881,7 @@
             ]
         },
         {
-            "name": "Duster Eficacia 1.6 115 4x2",
+            "name": "Eficacia 1.6 115 4x2",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/eficacia/duster-sl-eficacia-16-115/datos",
@@ -1037,7 +1038,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance 1.6 84 kW (114 CV) 4x2 GLP",
+            "name": "Ambiance 1.6 84 kW (114 CV) 4x2 GLP",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/ambiance/duster-ambiance-16-115-glp/datos",
@@ -1192,7 +1193,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance 1.6 105 GLP",
+            "name": "Ambiance 1.6 105 GLP",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/ambiance/duster-ambiance-16-105-4x2-glp/datos",
@@ -1346,7 +1347,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance 1.6 110 GLP",
+            "name": "Ambiance 1.6 110 GLP",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/ambiance/duster-ambiance-16-110-glp/datos",
@@ -1500,7 +1501,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance TCE 92 kW (125 CV) 4x2",
+            "name": "Ambiance TCE 92 kW (125 CV) 4x2",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/ambiance/duster-ambiance-tce-125/datos",
@@ -1660,7 +1661,7 @@
             ]
         },
         {
-            "name": "Duster Eficacia 1.6 115 4x2 GLP",
+            "name": "Eficacia 1.6 115 4x2 GLP",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/eficacia/duster-eficacia-16-115-glp/datos",
@@ -1814,7 +1815,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance TCE 125",
+            "name": "Ambiance TCE 125",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/ambiance/duster-ambiance-tce-125-4x2/datos",
@@ -1969,7 +1970,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance dCi 66 kW (90 CV) 4x2",
+            "name": "Ambiance dCi 66 kW (90 CV) 4x2",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/ambiance/duster-ambiance-dci-902/datos",
@@ -2128,7 +2129,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance dCi 90",
+            "name": "Ambiance dCi 90",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/ambiance/duster-ambiance-dci-90/datos",
@@ -2283,7 +2284,7 @@
             ]
         },
         {
-            "name": "Duster Eficacia dCi 90 4x2",
+            "name": "Eficacia dCi 90 4x2",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/eficacia/duster-sl-eficacia-dci-90/datos",
@@ -2441,7 +2442,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance dCi 80 kW (109 CV) 4x2",
+            "name": "Ambiance dCi 80 kW (109 CV) 4x2",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/ambiance/duster-ambiance-dci-1102/datos",
@@ -2600,7 +2601,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance 1.6 105 4x4",
+            "name": "Ambiance 1.6 105 4x4",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/ambiance/duster-ambiance-16-105-4x4/datos",
@@ -2756,7 +2757,7 @@
             ]
         },
         {
-            "name": "Duster Laureate TCE 92 kW (125 CV) 4x2",
+            "name": "Laureate TCE 92 kW (125 CV) 4x2",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/laureate/duster-laureate-tce-125/datos",
@@ -2933,7 +2934,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance dCi 110",
+            "name": "Ambiance dCi 110",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/ambiance/duster-ambiance-dci-110/datos",
@@ -3088,7 +3089,7 @@
             ]
         },
         {
-            "name": "Duster Laureate TCE 125",
+            "name": "Laureate TCE 125",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/laureate/duster-laureate-tce-125-4x2/datos",
@@ -3260,7 +3261,7 @@
             ]
         },
         {
-            "name": "Duster Blackshadow TCE 92 kW (125 CV) 4x2",
+            "name": "Blackshadow TCE 92 kW (125 CV) 4x2",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/blackshadow/duster-blackshadow-tce-125/datos",
@@ -3435,7 +3436,7 @@
             ]
         },
         {
-            "name": "Duster Eficacia dCi 110 4x2",
+            "name": "Eficacia dCi 110 4x2",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/eficacia/duster-sl-eficacia-dci-110/datos",
@@ -3593,7 +3594,7 @@
             ]
         },
         {
-            "name": "Duster Laureate dCi 66 kW (90 CV) 4x2",
+            "name": "Laureate dCi 66 kW (90 CV) 4x2",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/laureate/duster-laureate-dci-902/datos",
@@ -3771,7 +3772,7 @@
             ]
         },
         {
-            "name": "Duster Laureate dCi 90",
+            "name": "Laureate dCi 90",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/laureate/duster-laureate-dci-90/datos",
@@ -3943,7 +3944,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance TCE 125 4x4",
+            "name": "Ambiance TCE 125 4x4",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/ambiance/duster-ambiance-tce-125-4x4/datos",
@@ -4102,7 +4103,7 @@
             ]
         },
         {
-            "name": "Duster Laureate dCi 80 kW (109 CV) 4x2",
+            "name": "Laureate dCi 80 kW (109 CV) 4x2",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/laureate/duster-laureate-dci-1102/datos",
@@ -4280,7 +4281,7 @@
             ]
         },
         {
-            "name": "Duster Trotamundos TCE 92 kW (125 CV) 4x2",
+            "name": "Trotamundos TCE 92 kW (125 CV) 4x2",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/trotamundos/duster-sl-trotamundos-tce-92-kw-125-cv-4x2/datos",
@@ -4455,7 +4456,7 @@
             ]
         },
         {
-            "name": "Duster Laureate 1.6 105 4x4",
+            "name": "Laureate 1.6 105 4x4",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/laureate/duster-laureate-16-105-4x4/datos",
@@ -4628,7 +4629,7 @@
             ]
         },
         {
-            "name": "Duster Eficacia TCE 125 4x4",
+            "name": "Eficacia TCE 125 4x4",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/eficacia/duster-sl-eficacia-tce-125-4x4/datos",
@@ -4785,7 +4786,7 @@
             ]
         },
         {
-            "name": "Duster Laureate dCi 110",
+            "name": "Laureate dCi 110",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/laureate/duster-laureate-dci-110/datos",
@@ -4957,7 +4958,7 @@
             ]
         },
         {
-            "name": "Duster Blackshadow dCi 80 kW (109 CV) 4x2",
+            "name": "Blackshadow dCi 80 kW (109 CV) 4x2",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/blackshadow/duster-blackshadow-dci-110/datos",
@@ -5133,7 +5134,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance dCi 80 kW (109 CV) 4x4",
+            "name": "Ambiance dCi 80 kW (109 CV) 4x4",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/ambiance/duster-ambiance-dci-110-4x42/datos",
@@ -5295,7 +5296,7 @@
             ]
         },
         {
-            "name": "Duster AudCi 110",
+            "name": "AudCi 110",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/audacia/duster-audacia-dci-110/datos",
@@ -5465,7 +5466,7 @@
             ]
         },
         {
-            "name": "Duster Urban Explorer dCi 110",
+            "name": "Urban Explorer dCi 110",
             "start_year": "2016",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/urban-explorer/duster-urban-explorer-dci-110/datos",
@@ -5636,7 +5637,7 @@
             ]
         },
         {
-            "name": "Duster Laureate TCE 92 kW (125 CV) 4x4",
+            "name": "Laureate TCE 92 kW (125 CV) 4x4",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/laureate/duster-laureate-tce-125-4x4/datos",
@@ -5814,7 +5815,7 @@
             ]
         },
         {
-            "name": "Duster Ambiance dCi 110 4x4",
+            "name": "Ambiance dCi 110 4x4",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/ambiance/duster-ambiance-dci-110-4x4/datos",
@@ -5970,7 +5971,7 @@
             ]
         },
         {
-            "name": "Duster Trotamundos dCi 80 kW (109 CV) 4x2",
+            "name": "Trotamundos dCi 80 kW (109 CV) 4x2",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/trotamundos/duster-sl-trotamundos-dci-80-kw-109-cv-4x2/datos",
@@ -6145,7 +6146,7 @@
             ]
         },
         {
-            "name": "Duster Eficacia dCi 110 4x4",
+            "name": "Eficacia dCi 110 4x4",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/eficacia/duster-ambiance-dci-110-4x43/datos",
@@ -6303,7 +6304,7 @@
             ]
         },
         {
-            "name": "Duster Laureate dCi 80 kW (109 CV) 4x2 EDC",
+            "name": "Laureate dCi 80 kW (109 CV) 4x2 EDC",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/laureate/duster-laureate-dci-80-kw-109-cv-4x2-edc/datos",
@@ -6479,7 +6480,7 @@
             ]
         },
         {
-            "name": "Duster Blackshadow dCi 80 kW (109 CV) 4x2 EDC",
+            "name": "Blackshadow dCi 80 kW (109 CV) 4x2 EDC",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/blackshadow/duster-blackshadow-dci-80-kw-109-cv-4x2-edc/datos",
@@ -6653,7 +6654,7 @@
             ]
         },
         {
-            "name": "Duster Laureate dCi 80 kW (109 CV) 4x4",
+            "name": "Laureate dCi 80 kW (109 CV) 4x4",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/laureate/duster-laureate-dci-110-4x42/datos",
@@ -6833,7 +6834,7 @@
             ]
         },
         {
-            "name": "Duster Laureate dCi 110 4x4",
+            "name": "Laureate dCi 110 4x4",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/laureate/duster-laureate-dci-110-4x4/datos",
@@ -7006,7 +7007,7 @@
             ]
         },
         {
-            "name": "Duster Blackshadow dCi 80 kW (109 CV) 4x4",
+            "name": "Blackshadow dCi 80 kW (109 CV) 4x4",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/blackshadow/duster-blackshadow-dci-110-4x4/datos",
@@ -7182,7 +7183,7 @@
             ]
         },
         {
-            "name": "Duster Trotamundos dCi 80 kW (109 CV) 4x2 EDC",
+            "name": "Trotamundos dCi 80 kW (109 CV) 4x2 EDC",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/trotamundos/duster-sl-trotamundos-dci-80-kw-109-cv-4x2-edc/datos",
@@ -7355,7 +7356,7 @@
             ]
         },
         {
-            "name": "Duster AudCi 110 4x4",
+            "name": "AudCi 110 4x4",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/audacia/duster-audacia-dci-110-4x4/datos",
@@ -7526,7 +7527,7 @@
             ]
         },
         {
-            "name": "Duster Urban Explorer dCi 110 4x4",
+            "name": "Urban Explorer dCi 110 4x4",
             "start_year": "2016",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/urban-explorer/duster-urban-explorer-dci-110-4x4/datos",
@@ -7696,7 +7697,7 @@
             ]
         },
         {
-            "name": "Duster Trotamundos dCi 80 kW (109 CV) 4x4",
+            "name": "Trotamundos dCi 80 kW (109 CV) 4x4",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/dacia/duster/2014/estandar/trotamundos/duster-sl-trotamundos-dci-80-kw-109-cv-4x4/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Peugeot",
     "name": "Traveller Standard",
     "year": "2016",
     "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard",
     "price": "Desde 39.029 €",
     "versions": [
         {
-            "name": "Traveller Standard Business 1.6 BlueHDi 115 S&S",
+            "name": "Business 1.6 BlueHDi 115 S&S",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/business/traveller-standard-business-16-bluehdi-115-ss/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Business 2.0 BlueHDi 150 S&S",
+            "name": "Business 2.0 BlueHDi 150 S&S",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/business/traveller-standard-business-20-bluehdi-150-ss/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Active 1.6 BlueHDi 115 S&S",
+            "name": "Active 1.6 BlueHDi 115 S&S",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/active/traveller-standard-16-bluehdi-115-ss/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Business BlueHDi 120 S&S",
+            "name": "Business BlueHDi 120 S&S",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/business/traveller-standard-business-bluehdi-120-ss/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Active 2.0 BlueHDi 150 S&S",
+            "name": "Active 2.0 BlueHDi 150 S&S",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/active/traveller-20-bluehdi-150-ss/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Business 2.0 BlueHDi 180 S&S EAT6",
+            "name": "Business 2.0 BlueHDi 180 S&S EAT6",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/business/traveller-standard-business-20-bluehdi-180-ss-eat6/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Business BlueHDi 150 S&S",
+            "name": "Business BlueHDi 150 S&S",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/business/traveller-standard-business-bluehdi-150-ss/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Business BlueHDi 120 S&S",
+            "name": "Business BlueHDi 120 S&S",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/business/traveller-standard-business-bluehdi-120-ss2/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Active 2.0 BlueHDi 180 S&S EAT6",
+            "name": "Active 2.0 BlueHDi 180 S&S EAT6",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/active/traveller-20-bluehdi-180-ss-eat6/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Business VIP 2.0 BlueHDi 150 S&S",
+            "name": "Business VIP 2.0 BlueHDi 150 S&S",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/business-vip/traveller-standard-business-vip-20-bluehdi-150-ss/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Business BlueHDi 150 S&S",
+            "name": "Business BlueHDi 150 S&S",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/business/traveller-standard-business-bluehdi-150-ss2/datos",
@@ -313,7 +314,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Allure 1.6 BlueHDi 115 S&S",
+            "name": "Allure 1.6 BlueHDi 115 S&S",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/allure/traveller-standard-allure-16-bluehdi-115-ss/datos",
@@ -341,7 +342,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Active BlueHDi 120 S&S",
+            "name": "Active BlueHDi 120 S&S",
             "start_year": "2018",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/active/traveller-standard-active-bluehdi-120-ss/datos",
@@ -369,7 +370,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Business BlueHDi 180 S&S EAT8",
+            "name": "Business BlueHDi 180 S&S EAT8",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/business/traveller-standard-business-bluehdi-180-ss-eat82/datos",
@@ -397,7 +398,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Business BlueHDi 180 S&S EAT8",
+            "name": "Business BlueHDi 180 S&S EAT8",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/business/traveller-standard-business-bluehdi-180-ss-eat8/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Allure 2.0 BlueHDi 150 S&S",
+            "name": "Allure 2.0 BlueHDi 150 S&S",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/allure/traveller-standard-allure-20-bluehdi-150-ss/datos",
@@ -453,7 +454,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Business VIP 2.0 BlueHDi 180 S&S EAT6",
+            "name": "Business VIP 2.0 BlueHDi 180 S&S EAT6",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/business-vip/traveller-standard-business-vip-20-bluehdi-180-ss-eat6/datos",
@@ -481,7 +482,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Active BlueHDi 150 S&S",
+            "name": "Active BlueHDi 150 S&S",
             "start_year": "2018",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/active/traveller-standard-active-bluehdi-150-ss/datos",
@@ -509,7 +510,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Active BlueHDi 180 S&S EAT8",
+            "name": "Active BlueHDi 180 S&S EAT8",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/active/traveller-standard-active-bluehdi-180-ss-eat8/datos",
@@ -537,7 +538,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Business BlueHDi 180 S&S EAT8",
+            "name": "Business BlueHDi 180 S&S EAT8",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/business/traveller-standard-business-bluehdi-180-ss-eat83/datos",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Allure BlueHDi 120 S&S",
+            "name": "Allure BlueHDi 120 S&S",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/allure/traveller-standard-allure-bluehdi-120-ss/datos",
@@ -593,7 +594,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Allure 2.0 BlueHDi 180 S&S EAT6",
+            "name": "Allure 2.0 BlueHDi 180 S&S EAT6",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/allure/traveller-standard-allure-20-bluehdi-180-ss-eat6/datos",
@@ -621,7 +622,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Active BlueHDi 180 S&S EAT8",
+            "name": "Active BlueHDi 180 S&S EAT8",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/active/traveller-standard-active-bluehdi-180-ss-eat82/datos",
@@ -649,7 +650,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Business VIP BlueHDi 150 S&S",
+            "name": "Business VIP BlueHDi 150 S&S",
             "start_year": "2018",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/business-vip/traveller-standard-business-vip-bluehdi-150-ss/datos",
@@ -677,7 +678,7 @@
             ]
         },
         {
-            "name": "e-Traveller Standard Eléctrico 50 kWh Business",
+            "name": "e- Eléctrico 50 kWh Business",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/e-traveller/e-traveller-standard-50-kwh/datos",
@@ -707,7 +708,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Business VIP BlueHDi 180 S&S EAT8",
+            "name": "Business VIP BlueHDi 180 S&S EAT8",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/business-vip/traveller-standard-business-vip-bluehdi-180-ss-eat8/datos",
@@ -735,7 +736,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Allure BlueHDi 180 S&S EAT8",
+            "name": "Allure BlueHDi 180 S&S EAT8",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/allure/traveller-standard-allure-bluehdi-180-ss-eat8/datos",
@@ -763,7 +764,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Allure BlueHDi 150 S&S",
+            "name": "Allure BlueHDi 150 S&S",
             "start_year": "2018",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/allure/traveller-standard-allure-bluehdi-150-ss/datos",
@@ -791,7 +792,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Business VIP BlueHDi 180 S&S EAT8",
+            "name": "Business VIP BlueHDi 180 S&S EAT8",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/business-vip/traveller-standard-business-vip-bluehdi-180-ss-eat82/datos",
@@ -819,7 +820,7 @@
             ]
         },
         {
-            "name": "e-Traveller Standard Eléctrico 75 kWh Business",
+            "name": "e- Eléctrico 75 kWh Business",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/e-traveller/e-traveller-standard-75-kwh/datos",
@@ -849,7 +850,7 @@
             ]
         },
         {
-            "name": "Traveller Standard Allure BlueHDi 180 S&S EAT8",
+            "name": "Allure BlueHDi 180 S&S EAT8",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/allure/traveller-standard-allure-bluehdi-180-ss-eat82/datos",
@@ -877,7 +878,7 @@
             ]
         },
         {
-            "name": "e-Traveller Standard Eléctrico 75 kWh Active",
+            "name": "e- Eléctrico 75 kWh Active",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/e-traveller/e-traveller-standard-75-kwh-active/datos",
@@ -907,7 +908,7 @@
             ]
         },
         {
-            "name": "e-Traveller Standard Eléctrico 75 kWh Allure",
+            "name": "e- Eléctrico 75 kWh Allure",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/e-traveller/e-traveller-standard-75-kwh-allure/datos",
@@ -937,7 +938,7 @@
             ]
         },
         {
-            "name": "e-Traveller Standard Eléctrico 50 kWh Business",
+            "name": "e- Eléctrico 50 kWh Business",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/e-traveller/e-traveller-standard-electrico-50-kwh-business/datos",
@@ -967,7 +968,7 @@
             ]
         },
         {
-            "name": "e-Traveller Standard Eléctrico 75 kWh Business",
+            "name": "e- Eléctrico 75 kWh Business",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/e-traveller/e-traveller-standard-electrico-75-kwh-business/datos",
@@ -997,7 +998,7 @@
             ]
         },
         {
-            "name": "e-Traveller Standard Eléctrico 50 kWh Business VIP",
+            "name": "e- Eléctrico 50 kWh Business VIP",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/e-traveller/e-traveller-standard-electrico-50-kwh-business-vip/datos",
@@ -1027,7 +1028,7 @@
             ]
         },
         {
-            "name": "e-Traveller Standard Eléctrico 75 kWh Business VIP",
+            "name": "e- Eléctrico 75 kWh Business VIP",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/peugeot/traveller/2016/standard/e-traveller/e-traveller-standard-electrico-75-kwh-business-vip/datos",

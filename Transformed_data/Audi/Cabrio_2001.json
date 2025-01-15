@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "Cabrio",
     "year": "2001",
     "url": "https://www.km77.com/coches/audi/cabrio/2001/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Cabrio 2.0",
+            "name": "2.0",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/cabrio/2001/estandar/estandar/cabrio-20/datos",
@@ -228,7 +229,7 @@
             ]
         },
         {
-            "name": "Cabrio 1.8 T",
+            "name": "1.8 T",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/cabrio/2001/estandar/estandar/cabrio-18-t/datos",
@@ -451,7 +452,7 @@
             ]
         },
         {
-            "name": "Cabrio 2.4",
+            "name": "2.4",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/audi/cabrio/2001/estandar/estandar/cabrio-24/datos",
@@ -595,7 +596,7 @@
             ]
         },
         {
-            "name": "Cabrio 2.4 manual 6 vel.",
+            "name": "2.4 manual 6 vel.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/cabrio/2001/estandar/estandar/cabrio-24-manual-6-vel/datos",
@@ -817,7 +818,7 @@
             ]
         },
         {
-            "name": "Cabrio 1.8 T multitronic 6 vel.",
+            "name": "1.8 T multitronic 6 vel.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/cabrio/2001/estandar/estandar/cabrio-18-t-multitronic-6-vel/datos",
@@ -1040,7 +1041,7 @@
             ]
         },
         {
-            "name": "Cabrio 1.8 T quattro",
+            "name": "1.8 T quattro",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/cabrio/2001/estandar/estandar/cabrio-18-t-quattro/datos",
@@ -1263,7 +1264,7 @@
             ]
         },
         {
-            "name": "Cabrio 2.5 TDI 6 vel.",
+            "name": "2.5 TDI 6 vel.",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/cabrio/2001/estandar/estandar/cabrio-25-tdi-6-vel/datos",
@@ -1481,7 +1482,7 @@
             ]
         },
         {
-            "name": "Cabrio 2.4 multitronic 6 vel.",
+            "name": "2.4 multitronic 6 vel.",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/cabrio/2001/estandar/estandar/cabrio-24-multitronic-6-vel/datos",
@@ -1703,7 +1704,7 @@
             ]
         },
         {
-            "name": "Cabrio 3.0",
+            "name": "3.0",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/audi/cabrio/2001/estandar/estandar/cabrio-30/datos",
@@ -1845,7 +1846,7 @@
             ]
         },
         {
-            "name": "Cabrio 2.5 TDI multitronic 6 vel.",
+            "name": "2.5 TDI multitronic 6 vel.",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/cabrio/2001/estandar/estandar/cabrio-25-tdi-multitronic-6-vel/datos",
@@ -2065,7 +2066,7 @@
             ]
         },
         {
-            "name": "Cabrio 3.0 manual 6 vel.",
+            "name": "3.0 manual 6 vel.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/cabrio/2001/estandar/estandar/cabrio-30-manual-6-vel/datos",
@@ -2285,7 +2286,7 @@
             ]
         },
         {
-            "name": "Cabrio 3.0 multitronic 6 vel.",
+            "name": "3.0 multitronic 6 vel.",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/cabrio/2001/estandar/estandar/cabrio-30-multitronic-6-vel/datos",
@@ -2505,7 +2506,7 @@
             ]
         },
         {
-            "name": "Cabrio 3.0 quattro 6 vel.",
+            "name": "3.0 quattro 6 vel.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/cabrio/2001/estandar/estandar/cabrio-30-quattro-6-vel/datos",
@@ -2725,7 +2726,7 @@
             ]
         },
         {
-            "name": "Cabrio 3.0 quattro tiptronic 5 vel.",
+            "name": "3.0 quattro tiptronic 5 vel.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/cabrio/2001/estandar/estandar/cabrio-30-quattro-tiptronic-5-vel/datos",
@@ -2945,7 +2946,7 @@
             ]
         },
         {
-            "name": "Cabrio S4 quattro 6 vel.",
+            "name": "S4 quattro 6 vel.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/cabrio/2001/estandar/s4/cabrio-s4-quattro-6-vel/datos",
@@ -3151,7 +3152,7 @@
             ]
         },
         {
-            "name": "Cabrio S4 quattro tiptronic 6 vel.",
+            "name": "S4 quattro tiptronic 6 vel.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/audi/cabrio/2001/estandar/s4/cabrio-s4-quattro-tiptronic-6-vel/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Porsche",
     "name": "Panamera",
     "year": "2017",
     "url": "https://www.km77.com/coches/porsche/panamera/2017/estandar",
     "price": "Desde 127.829 €",
     "versions": [
         {
-            "name": "Panamera",
+            "name": "",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/porsche/panamera/2017/estandar/estandar/panamera/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Panamera 4",
+            "name": "4",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/porsche/panamera/2017/estandar/4/panamera-4/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Panamera 4",
+            "name": "4",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/porsche/panamera/2017/estandar/4/panamera-42/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Panamera 4 E-Hybrid",
+            "name": "4 E-Hybrid",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/porsche/panamera/2017/estandar/4-e-hybrid/panamera-4-e-hybrid/datos",
@@ -120,7 +121,7 @@
             ]
         },
         {
-            "name": "Panamera 4 E-Hybrid",
+            "name": "4 E-Hybrid",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/porsche/panamera/2017/estandar/4-e-hybrid/panamera-4-e-hybrid2/datos",
@@ -151,7 +152,7 @@
             ]
         },
         {
-            "name": "Panamera 4 10 Years Edition",
+            "name": "4 10 Years Edition",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/porsche/panamera/2017/estandar/10-years-edition/panamera-4-10-years-edition/datos",
@@ -179,7 +180,7 @@
             ]
         },
         {
-            "name": "Panamera 4S",
+            "name": "4S",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/porsche/panamera/2017/estandar/4s/panamera-4s/datos",
@@ -207,7 +208,7 @@
             ]
         },
         {
-            "name": "Panamera 4S",
+            "name": "4S",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/porsche/panamera/2017/estandar/4s/panamera-2017/datos",
@@ -235,7 +236,7 @@
             ]
         },
         {
-            "name": "Panamera 4S",
+            "name": "4S",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/porsche/panamera/2017/estandar/4s/panamera-4s2/datos",
@@ -263,7 +264,7 @@
             ]
         },
         {
-            "name": "Panamera 4 E-Hybrid 10 Years Edition",
+            "name": "4 E-Hybrid 10 Years Edition",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/porsche/panamera/2017/estandar/10-years-edition/panamera-4-e-hybrid-10-years-edition/datos",
@@ -294,7 +295,7 @@
             ]
         },
         {
-            "name": "Panamera 4S Diesel",
+            "name": "4S Diesel",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/porsche/panamera/2017/estandar/4s/panamera-4s-diesel/datos",
@@ -322,7 +323,7 @@
             ]
         },
         {
-            "name": "Panamera 4S Diesel",
+            "name": "4S Diesel",
             "start_year": "2017",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/porsche/panamera/2017/estandar/4s/panamera-4s-diesel2/datos",
@@ -350,7 +351,7 @@
             ]
         },
         {
-            "name": "Panamera GTS",
+            "name": "GTS",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/porsche/panamera/2017/estandar/gts/panamera-gts/datos",
@@ -378,7 +379,7 @@
             ]
         },
         {
-            "name": "Panamera Turbo",
+            "name": "Turbo",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/porsche/panamera/2017/estandar/turbo/panamera-turbo/datos",
@@ -406,7 +407,7 @@
             ]
         },
         {
-            "name": "Panamera Turbo",
+            "name": "Turbo",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/porsche/panamera/2017/estandar/turbo/panamera-turbo2/datos",
@@ -434,7 +435,7 @@
             ]
         },
         {
-            "name": "Panamera Turbo S E-Hybrid",
+            "name": "Turbo S E-Hybrid",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/porsche/panamera/2017/estandar/turbo-s-e-hybrid/panamera-turbo-s-e-hybrid/datos",
@@ -465,7 +466,7 @@
             ]
         },
         {
-            "name": "Panamera Turbo S E-Hybrid",
+            "name": "Turbo S E-Hybrid",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/porsche/panamera/2017/estandar/turbo-s-e-hybrid/panamera-turbo-s-e-hybrid2/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Peugeot",
     "name": "508 RXH",
     "year": "2012",
     "url": "https://www.km77.com/coches/peugeot/508/2012/rxh",
     "price": "Desde 38.610 €",
     "versions": [
         {
-            "name": "508 RXH 2.0 HDi HYbrid4 200 CV",
+            "name": "2.0 HDi HYbrid4 200 CV",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/peugeot/508/2012/rxh/rxh/508-rxh-full-hybrid-diesel-200-cv2/datos",
@@ -36,7 +37,7 @@
             ]
         },
         {
-            "name": "508 RXH 2.0 HDi HYbrid4 200 CV",
+            "name": "2.0 HDi HYbrid4 200 CV",
             "start_year": "2014",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/peugeot/508/2012/rxh/rxh/508-rxh-20-hdi-hybrid4-200-cv/datos",
@@ -67,7 +68,7 @@
             ]
         },
         {
-            "name": "508 RXH Full HYbrid Diesel 200 CV",
+            "name": "Full HYbrid Diesel 200 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/508/2012/rxh/rxh/508-rxh-full-hybrid-diesel-200-cv/datos",
@@ -98,7 +99,7 @@
             ]
         },
         {
-            "name": "508 RXH HYbrid4 Limited Edition",
+            "name": "HYbrid4 Limited Edition",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/peugeot/508/2012/rxh/rxh/508-rxh-hybrid4-limited-edition/datos",

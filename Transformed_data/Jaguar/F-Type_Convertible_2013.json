@@ -1,11 +1,12 @@
 {
+    "brand": "Jaguar",
     "name": "F-Type Convertible",
     "year": "2013",
     "url": "https://www.km77.com/coches/jaguar/f-type/2013/convertible",
     "price": "",
     "versions": [
         {
-            "name": "F-Type Convertible 3.0 V6 S/C 340 CV Aut. 8 vel.",
+            "name": "3.0 V6 S/C 340 CV Aut. 8 vel.",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/jaguar/f-type/2013/convertible/estandar/f-type-convertible-30-v6-sc-340-cv-aut-8-vel-16my/datos",
@@ -264,7 +265,7 @@
             ]
         },
         {
-            "name": "F-Type Convertible 3.0 V6 S/C 340 CV",
+            "name": "3.0 V6 S/C 340 CV",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/jaguar/f-type/2013/convertible/estandar/f-type-convertible-30-v6-sc-340-cv-16my/datos",
@@ -521,7 +522,7 @@
             ]
         },
         {
-            "name": "F-Type Convertible V6 3.0 S/C",
+            "name": "V6 3.0 S/C",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/jaguar/f-type/2013/convertible/estandar/f-type/datos",
@@ -779,7 +780,7 @@
             ]
         },
         {
-            "name": "F-Type Convertible V6 3.0 S/C",
+            "name": "V6 3.0 S/C",
             "start_year": "2014",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/jaguar/f-type/2013/convertible/estandar/f-type-convertible-v6-30-sc/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Hyundai",
     "name": "Coupe",
     "year": "2002",
     "url": "https://www.km77.com/coches/hyundai/coupe/2002/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Coupe 1.6 16V FX",
+            "name": "1.6 16V FX",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/hyundai/coupe/2002/estandar/fx/coupe-16-16v-fx/datos",
@@ -166,7 +167,7 @@
             ]
         },
         {
-            "name": "Coupe 2.0 FX VVT",
+            "name": "2.0 FX VVT",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/hyundai/coupe/2002/estandar/fx/coupe-20-fx-vvt/datos",
@@ -331,7 +332,7 @@
             ]
         },
         {
-            "name": "Coupe 2.0 FX Full",
+            "name": "2.0 FX Full",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/hyundai/coupe/2002/estandar/fx-full/coupe-20-fx-full/datos",
@@ -495,7 +496,7 @@
             ]
         },
         {
-            "name": "Coupe 2.7 V6 FX Full",
+            "name": "2.7 V6 FX Full",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/hyundai/coupe/2002/estandar/fx-full/coupe-27-v6-fx-full/datos",

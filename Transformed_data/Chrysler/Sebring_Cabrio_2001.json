@@ -1,11 +1,12 @@
 {
+    "brand": "Chrysler",
     "name": "Sebring Cabrio",
     "year": "2001",
     "url": "https://www.km77.com/coches/chrysler/sebring/2001/cabrio",
     "price": "",
     "versions": [
         {
-            "name": "Sebring Cabrio LX 2.0",
+            "name": "LX 2.0",
             "start_year": "2001",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/chrysler/sebring/2001/cabrio/estandar/sebring-cabrio-lx-20/datos",
@@ -155,7 +156,7 @@
             ]
         },
         {
-            "name": "Sebring Cabrio LX 2.7 L",
+            "name": "LX 2.7 L",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/chrysler/sebring/2001/cabrio/estandar/sebring-cabrio-lx-27-l/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "Sebring Cabrio 2.7 V6 Limited",
+            "name": "2.7 V6 Limited",
             "start_year": "2001",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/chrysler/sebring/2001/cabrio/estandar/sebring-cabrio-27-v6-limited/datos",

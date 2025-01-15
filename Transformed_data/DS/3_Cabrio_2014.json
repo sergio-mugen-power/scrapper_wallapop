@@ -1,11 +1,12 @@
 {
+    "brand": "DS",
     "name": "3 Cabrio",
     "year": "2014",
     "url": "https://www.km77.com/coches/ds/ds-3/2014/cabrio",
     "price": "Desde 27.342 €",
     "versions": [
         {
-            "name": "3 Cabrio PureTech 82 Design",
+            "name": "PureTech 82 Design",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ds/ds-3/2014/cabrio/design/ds-3-cabrio-puretech-82-design/datos",
@@ -16,7 +17,7 @@
             "maletero": "245"
         },
         {
-            "name": "3 Cabrio PureTech 82 Desire",
+            "name": "PureTech 82 Desire",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ds/ds-3/2014/cabrio/desire/ds-3-cabrio-puretech-82-desire/datos",
@@ -27,7 +28,7 @@
             "maletero": "245"
         },
         {
-            "name": "3 Cabrio e-HDi 90 Desire",
+            "name": "e-HDi 90 Desire",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/ds/ds-3/2014/cabrio/desire/ds-3-cabrio-e-hdi-90-desire/datos",
@@ -38,7 +39,7 @@
             "maletero": "245"
         },
         {
-            "name": "3 Cabrio VTi 120 Style",
+            "name": "VTi 120 Style",
             "start_year": "2014",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/ds/ds-3/2014/cabrio/style/ds-3-cabrio-vti-120-style/datos",
@@ -49,7 +50,7 @@
             "maletero": "245"
         },
         {
-            "name": "3 Cabrio e-HDi 90 Style",
+            "name": "e-HDi 90 Style",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/ds/ds-3/2014/cabrio/style/ds-3-cabrio-e-hdi-90-style/datos",
@@ -60,7 +61,7 @@
             "maletero": "245"
         },
         {
-            "name": "3 Cabrio PureTech 110 S&S Style",
+            "name": "PureTech 110 S&S Style",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ds/ds-3/2014/cabrio/style/3-cabrio-puretech-110-ss-style/datos",
@@ -71,7 +72,7 @@
             "maletero": "245"
         },
         {
-            "name": "3 Cabrio BlueHDi 100 S&S Desire",
+            "name": "BlueHDi 100 S&S Desire",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ds/ds-3/2014/cabrio/desire/3-cabrio-bluehdi-100-ss-desire/datos",
@@ -82,7 +83,7 @@
             "maletero": "245"
         },
         {
-            "name": "3 Cabrio e-HDi 90 ETG6 Style",
+            "name": "e-HDi 90 ETG6 Style",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/ds/ds-3/2014/cabrio/style/ds-3-cabrio-e-hdi-90-etg6-style/datos",
@@ -93,7 +94,7 @@
             "maletero": "245"
         },
         {
-            "name": "3 Cabrio BlueHDi 100 S&S Style",
+            "name": "BlueHDi 100 S&S Style",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ds/ds-3/2014/cabrio/style/3-cabrio-bluehdi-100-ss-style/datos",
@@ -104,7 +105,7 @@
             "maletero": "245"
         },
         {
-            "name": "3 Cabrio THP 155 Sport",
+            "name": "THP 155 Sport",
             "start_year": "2014",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/ds/ds-3/2014/cabrio/sport/ds-3-cabrio-thp-155-sport/datos",
@@ -115,7 +116,7 @@
             "maletero": "245"
         },
         {
-            "name": "3 Cabrio THP 165 S&S Sport",
+            "name": "THP 165 S&S Sport",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ds/ds-3/2014/cabrio/sport/3-cabrio-thp-165-ss-sport/datos",
@@ -126,7 +127,7 @@
             "maletero": "245"
         },
         {
-            "name": "3 Cabrio BlueHDi 120 S&S Sport",
+            "name": "BlueHDi 120 S&S Sport",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ds/ds-3/2014/cabrio/sport/ds-3-cabrio-bluehdi-120-sport/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Land Rover",
     "name": "Range Rover",
     "year": "2018",
     "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar",
     "price": "Desde 140.950 €",
     "versions": [
         {
-            "name": "Range Rover 3.0 TDV6 190 kW (258 CV) HSE",
+            "name": "3.0 TDV6 190 kW (258 CV) HSE",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/hse/range-rover-30-tdv6-190-kw-258-cv-hse/datos",
@@ -307,7 +308,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.0 SDV6 202 kW (275 CV) HSE",
+            "name": "3.0 SDV6 202 kW (275 CV) HSE",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/hse/range-rover-30-sdv6-202-kw-275-cv-hse/datos",
@@ -607,7 +608,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.0 TDV6 190 kW (258 CV) Vogue",
+            "name": "3.0 TDV6 190 kW (258 CV) Vogue",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/vogue/range-rover-30-tdv6-190-kw-258-cv-vogue/datos",
@@ -919,7 +920,7 @@
             ]
         },
         {
-            "name": "Range Rover 2.0 Si4 PHEV 297 kW (404 CV) Vogue",
+            "name": "2.0 Si4 PHEV 297 kW (404 CV) Vogue",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/phev/range-rover-20-si4-phev-297-kw-404-cv-vogue/datos",
@@ -1240,7 +1241,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.0D I6 221 kW (300 CV) MHEV HSE",
+            "name": "3.0D I6 221 kW (300 CV) MHEV HSE",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/hse/range-rover-30d-i6-221-kw-300-cv-mhev-hse/datos",
@@ -1556,7 +1557,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.0 SDV6 202 kW (275 CV) Vogue",
+            "name": "3.0 SDV6 202 kW (275 CV) Vogue",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/vogue/range-rover-30-sdv6-202-kw-275-cv-vogue/datos",
@@ -1864,7 +1865,7 @@
             ]
         },
         {
-            "name": "Range Rover 2.0 I4 PHEV 297 kW (404 CV) Vogue",
+            "name": "2.0 I4 PHEV 297 kW (404 CV) Vogue",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/phev/range-rover-20-si4-phev-297-kw-404-cv-vogue2/datos",
@@ -2189,7 +2190,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.0 I6 MHEV 294 kW (400 CV) HSE",
+            "name": "3.0 I6 MHEV 294 kW (400 CV) HSE",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/hse/range-rover-30-i6-mhev-294-kw-400-cv-hse/datos",
@@ -2505,7 +2506,7 @@
             ]
         },
         {
-            "name": "Range Rover 2.0 I4 PHEV 297 kW (404 CV) Westminster",
+            "name": "2.0 I4 PHEV 297 kW (404 CV) Westminster",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/phev/range-rover-20-i4-phev-297-kw-404-cv-westminster/datos",
@@ -2827,7 +2828,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.0D I6 221 kW (300 CV) MHEV Vogue",
+            "name": "3.0D I6 221 kW (300 CV) MHEV Vogue",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/vogue/range-rover-30d-i6-221-kw-300-cv-mhev-vogue/datos",
@@ -3151,7 +3152,7 @@
             ]
         },
         {
-            "name": "Range Rover 2.0 I4 PHEV 297 kW (404 CV) Westminster Black",
+            "name": "2.0 I4 PHEV 297 kW (404 CV) Westminster Black",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/phev/range-rover-20-i4-phev-297-kw-404-cv-westminster-black/datos",
@@ -3467,7 +3468,7 @@
             ]
         },
         {
-            "name": "Range Rover 4.4 SDV8 250 kW (340 CV) Vogue",
+            "name": "4.4 SDV8 250 kW (340 CV) Vogue",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/vogue/range-rover-44-sdv8-250-kw-340-cv-vogue/datos",
@@ -3778,7 +3779,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.0 TDV6 190 kW (258 CV) Autobiography",
+            "name": "3.0 TDV6 190 kW (258 CV) Autobiography",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/autobiography/range-rover-30-tdv6-190-kw-258-cv-autobiography/datos",
@@ -4092,7 +4093,7 @@
             ]
         },
         {
-            "name": "Range Rover 2.0 Si4 PHEV 297 kW (404 CV) Autobiography",
+            "name": "2.0 Si4 PHEV 297 kW (404 CV) Autobiography",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/phev/range-rover-20-si4-phev-297-kw-404-cv-autobiography/datos",
@@ -4417,7 +4418,7 @@
             ]
         },
         {
-            "name": "Range Rover 4.4 SDV8 250 kW (340 CV) Vogue",
+            "name": "4.4 SDV8 250 kW (340 CV) Vogue",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/vogue/range-rover-44-sdv8-250-kw-340-cv-vogue2/datos",
@@ -4727,7 +4728,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.0 I6 MHEV 294 kW (400 CV) Vogue",
+            "name": "3.0 I6 MHEV 294 kW (400 CV) Vogue",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/vogue/range-rover-30-i6-mhev-294-kw-400-cv-vogue/datos",
@@ -5051,7 +5052,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.0D I6 258 kW (350 CV) MHEV Vogue",
+            "name": "3.0D I6 258 kW (350 CV) MHEV Vogue",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/vogue/range-rover-30d-i6-258-kw-350-cv-mhev-vogue/datos",
@@ -5374,7 +5375,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.0D I6 221 kW (300 CV) MHEV Westminster",
+            "name": "3.0D I6 221 kW (300 CV) MHEV Westminster",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/westminster/range-rover-30d-i6-221-kw-300-cv-mhev-westminster/datos",
@@ -5692,7 +5693,7 @@
             ]
         },
         {
-            "name": "Range Rover 5.0 V8 S/C 386 kW (525 CV) Vogue",
+            "name": "5.0 V8 S/C 386 kW (525 CV) Vogue",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/vogue/range-rover-50-v8-sc-386-kw-525-cv-vogue/datos",
@@ -6004,7 +6005,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.0 SDV6 202 kW (275 CV) Autobiography",
+            "name": "3.0 SDV6 202 kW (275 CV) Autobiography",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/autobiography/range-rover-30-sdv6-202-kw-275-cv-autobiography/datos",
@@ -6319,7 +6320,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.0D I6 221 kW (300 CV) MHEV Westminster Black",
+            "name": "3.0D I6 221 kW (300 CV) MHEV Westminster Black",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/westminster-black/range-rover-30d-i6-221-kw-300-cv-mhev-westminster-black/datos",
@@ -6629,7 +6630,7 @@
             ]
         },
         {
-            "name": "Range Rover 5.0 V8 S/C 386 kW (525 CV) Vogue",
+            "name": "5.0 V8 S/C 386 kW (525 CV) Vogue",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/vogue/range-rover-50-v8-sc-386-kw-525-cv-vogue2/datos",
@@ -6945,7 +6946,7 @@
             ]
         },
         {
-            "name": "Range Rover 2.0 I4 PHEV 297 kW (404 CV) Autobiography",
+            "name": "2.0 I4 PHEV 297 kW (404 CV) Autobiography",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/phev/range-rover-20-si4-phev-297-kw-404-cv-autobiography2/datos",
@@ -7272,7 +7273,7 @@
             ]
         },
         {
-            "name": "Range Rover 5.0 V8 S/C 386 kW (525 CV) Vogue",
+            "name": "5.0 V8 S/C 386 kW (525 CV) Vogue",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/vogue/range-rover-50-v8-sc-386-kw-525-cv-vogue3/datos",
@@ -7583,7 +7584,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.0 SDV6 202 kW (275 CV) Autobiography",
+            "name": "3.0 SDV6 202 kW (275 CV) Autobiography",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/autobiography/range-rover-30-sdv6-202-kw-275-cv-autobiography2/datos",
@@ -7892,7 +7893,7 @@
             ]
         },
         {
-            "name": "Range Rover 4.4 SDV8 250 kW (340 CV) Autobiography",
+            "name": "4.4 SDV8 250 kW (340 CV) Autobiography",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/autobiography/range-rover-44-sdv8-250-kw-340-cv-autobiography/datos",
@@ -8207,7 +8208,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.0D I6 221 kW (300 CV) MHEV Autobiography",
+            "name": "3.0D I6 221 kW (300 CV) MHEV Autobiography",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/autobiography/range-rover-30d-i6-221-kw-300-cv-mhev-autobiography/datos",
@@ -8532,7 +8533,7 @@
             ]
         },
         {
-            "name": "Range Rover 2.0 I4 PHEV 297 kW (404 CV) Fifty Anniversary",
+            "name": "2.0 I4 PHEV 297 kW (404 CV) Fifty Anniversary",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/phev/range-rover-20-i4-phev-297-kw-404-cv-fifty-anniversary/datos",
@@ -8842,7 +8843,7 @@
             ]
         },
         {
-            "name": "Range Rover 4.4 SDV8 250 kW (340 CV) Autobiography",
+            "name": "4.4 SDV8 250 kW (340 CV) Autobiography",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/autobiography/range-rover-44-sdv8-250-kw-340-cv-autobiography2/datos",
@@ -9153,7 +9154,7 @@
             ]
         },
         {
-            "name": "Range Rover 5.0 V8 S/C 386 kW (525 CV) Autobiography",
+            "name": "5.0 V8 S/C 386 kW (525 CV) Autobiography",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/autobiography/range-rover-50-v8-sc-386-kw-525-cv-autobiography/datos",
@@ -9467,7 +9468,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.0 I6 MHEV 294 kW (400 CV) Autobiography",
+            "name": "3.0 I6 MHEV 294 kW (400 CV) Autobiography",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/autobiography/range-rover-30-i6-mhev-294-kw-400-cv-autobiography/datos",
@@ -9792,7 +9793,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.0D I6 258 kW (350 CV) MHEV Autobiography",
+            "name": "3.0D I6 258 kW (350 CV) MHEV Autobiography",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/autobiography/range-rover-30d-i6-258-kw-350-cv-mhev-autobiography/datos",
@@ -10116,7 +10117,7 @@
             ]
         },
         {
-            "name": "Range Rover 5.0 V8 S/C 386 kW (525 CV) Autobiography",
+            "name": "5.0 V8 S/C 386 kW (525 CV) Autobiography",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/autobiography/range-rover-50-v8-sc-386-kw-525-cv-autobiography2/datos",
@@ -10433,7 +10434,7 @@
             ]
         },
         {
-            "name": "Range Rover 5.0 V8 S/C 386 kW (525 CV) Autobiography",
+            "name": "5.0 V8 S/C 386 kW (525 CV) Autobiography",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/autobiography/range-rover-50-v8-sc-386-kw-525-cv-autobiography3/datos",
@@ -10745,7 +10746,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.0D I6 258 kW (350 CV) MHEV Fifty Anniversary",
+            "name": "3.0D I6 258 kW (350 CV) MHEV Fifty Anniversary",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/fifty-anniversary/range-rover-30d-i6-258-kw-350-cv-mhev-fifty-anniversary/datos",
@@ -11047,7 +11048,7 @@
             ]
         },
         {
-            "name": "Range Rover 5.0 V8 S/C 386 kW (525 CV) Fifty Anniversary",
+            "name": "5.0 V8 S/C 386 kW (525 CV) Fifty Anniversary",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/fifty-anniversary/range-rover-50-v8-sc-386-kw-525-cv-fifty-anniversary/datos",
@@ -11337,7 +11338,7 @@
             ]
         },
         {
-            "name": "Range Rover 5.0 V8 S/C 416 kW (565 CV) SVAutobiography Dynamic",
+            "name": "5.0 V8 S/C 416 kW (565 CV) SVAutobiography Dynamic",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/svautobiography-dynamic/range-rover-50-v8-sc-386-kw-525-cv-svautobiography-dynamic/datos",
@@ -11628,7 +11629,7 @@
             ]
         },
         {
-            "name": "Range Rover 5.0 V8 S/C 416 kW (565 CV) SVAutobiography Dynamic",
+            "name": "5.0 V8 S/C 416 kW (565 CV) SVAutobiography Dynamic",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/svautobiography-dynamic/range-rover-50-v8-sc-416-kw-565-cv-svautobiography-dynamic/datos",
@@ -11923,7 +11924,7 @@
             ]
         },
         {
-            "name": "Range Rover 5.0 V8 S/C 416 kW (565 CV) SVAutobiography Dynamic",
+            "name": "5.0 V8 S/C 416 kW (565 CV) SVAutobiography Dynamic",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/svautobiography-dynamic/range-rover-50-v8-sc-416-kw-565-cv-svautobiography-dynamic2/datos",
@@ -12218,7 +12219,7 @@
             ]
         },
         {
-            "name": "Range Rover 5.0 V8 S/C 416 kW (565 CV) SVAutobiography Dynamic Stealth",
+            "name": "5.0 V8 S/C 416 kW (565 CV) SVAutobiography Dynamic Stealth",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2018/estandar/svautobiography-dynamic-stealth/range-rover-50-v8-sc-416-kw-565-cv-svautobiography-dynamic-stealth/datos",

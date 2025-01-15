@@ -1,11 +1,12 @@
 {
+    "brand": "Ford",
     "name": "B-MAX",
     "year": "2012",
     "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar",
     "price": "",
     "versions": [
         {
-            "name": "B-MAX Ambiente 1.4 Duratec 90 CV",
+            "name": "Ambiente 1.4 Duratec 90 CV",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/ambiente/b-max-trend-14-duratec-90-cv/datos",
@@ -16,7 +17,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Trend 1.0 Ecoboost 100 CV",
+            "name": "Trend 1.0 Ecoboost 100 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/trend/b-max-10-ecoboost-100-cv/datos",
@@ -27,7 +28,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Trend 1.0 Ecoboost 120 CV Auto-Start-Stop",
+            "name": "Trend 1.0 Ecoboost 120 CV Auto-Start-Stop",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/trend/b-max-trend-10-ecoboost-120-cv-auto-start-stop/datos",
@@ -38,7 +39,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Trend 1.5 TDCI 75 CV",
+            "name": "Trend 1.5 TDCI 75 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/trend/b-max-trend-15-tdci-75-cv/datos",
@@ -49,7 +50,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Trend 1.4 Duratec 90 CV",
+            "name": "Trend 1.4 Duratec 90 CV",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/trend/b-max-trend-14-duratec-90-cv2/datos",
@@ -60,7 +61,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Trend 1.0 Ecoboost 120 CV Auto-Start-Stop",
+            "name": "Trend 1.0 Ecoboost 120 CV Auto-Start-Stop",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/trend/b-max-10-ecoboost-120-cv/datos",
@@ -71,7 +72,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Trend 1.0 Ecoboost 125 CV Auto-Start-Stop",
+            "name": "Trend 1.0 Ecoboost 125 CV Auto-Start-Stop",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/trend/b-max-trend-10-ecoboost-125-cv-auto-start-stop/datos",
@@ -82,7 +83,7 @@
             "maletero": "-"
         },
         {
-            "name": "B-MAX Trend 1.5 TDCI 75 CV",
+            "name": "Trend 1.5 TDCI 75 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/trend/b-max-15-tdci-75-cv/datos",
@@ -93,7 +94,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Titanium 1.4 Duratec 90 CV",
+            "name": "Titanium 1.4 Duratec 90 CV",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/titanium/b-max-ambiente-14-duratec-90-cv/datos",
@@ -104,7 +105,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Titanium 1.0 Ecoboost 100 CV",
+            "name": "Titanium 1.0 Ecoboost 100 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/titanium/b-max-titanium-10-ecoboost-100-cv/datos",
@@ -115,7 +116,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Titanium 1.0 Ecoboost 100 CV",
+            "name": "Titanium 1.0 Ecoboost 100 CV",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/titanium/b-max-titanium-10-ecoboost-100-cv2/datos",
@@ -126,7 +127,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Trend 1.6 TDCI 95 CV",
+            "name": "Trend 1.6 TDCI 95 CV",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/trend/b-max-trend-16-tdci-95-cv/datos",
@@ -137,7 +138,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Trend 1.6 TDCI 95 CV",
+            "name": "Trend 1.6 TDCI 95 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/trend/b-max-16-tdci-95-cv/datos",
@@ -148,7 +149,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Trend 1.6 Ti-VCT 105 CV Powershift",
+            "name": "Trend 1.6 Ti-VCT 105 CV Powershift",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/trend/b-max-16-ti-vct-105-cv-powershift/datos",
@@ -159,7 +160,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Trend 1.0 Ecoboost 100 CV",
+            "name": "Trend 1.0 Ecoboost 100 CV",
             "start_year": "2012",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/trend/b-max-trend-10-ecoboost-100-cv/datos",
@@ -170,7 +171,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Trend 1.4 Autogas (GLP) 86 CV",
+            "name": "Trend 1.4 Autogas (GLP) 86 CV",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/trend/b-max-trend-14-duratec-86-cv-glp/datos",
@@ -181,7 +182,7 @@
             "maletero": "267"
         },
         {
-            "name": "B-MAX Titanium 1.0 Ecoboost 120 CV Auto-Start-Stop",
+            "name": "Titanium 1.0 Ecoboost 120 CV Auto-Start-Stop",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/titanium/b-max-titanium-10-ecoboost-120-cv-auto-start-stop/datos",
@@ -192,7 +193,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Titanium 1.5 TDCI 75 CV",
+            "name": "Titanium 1.5 TDCI 75 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/titanium/b-max-titanium-15-tdci-75-cv2/datos",
@@ -203,7 +204,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Titanium 1.0 Ecoboost 120 CV Auto-Start-Stop",
+            "name": "Titanium 1.0 Ecoboost 120 CV Auto-Start-Stop",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/titanium/b-max-titanium-10-ecoboost-120-cv/datos",
@@ -214,7 +215,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Titanium 1.5 TDCI 75 CV",
+            "name": "Titanium 1.5 TDCI 75 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/titanium/b-max-titanium-15-tdci-75-cv/datos",
@@ -225,7 +226,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Titanium 1.4 Autogas (GLP) 86 CV",
+            "name": "Titanium 1.4 Autogas (GLP) 86 CV",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/titanium/b-max-titanium-14-duratec-90-cv-glp/datos",
@@ -236,7 +237,7 @@
             "maletero": "267"
         },
         {
-            "name": "B-MAX Titanium 1.6 TDCI 95 CV",
+            "name": "Titanium 1.6 TDCI 95 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/titanium/b-max-titanium-16-tdci-95-cv/datos",
@@ -247,7 +248,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Titanium 1.6 TDCI 95 CV",
+            "name": "Titanium 1.6 TDCI 95 CV",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/titanium/b-max-titanium-16-tdci-95-cv2/datos",
@@ -258,7 +259,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Titanium 1.6 Ti-VCT 105 CV Powershift",
+            "name": "Titanium 1.6 Ti-VCT 105 CV Powershift",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/titanium/b-max-titaniium-16-ti-vct-105-cv-powershift/datos",
@@ -269,7 +270,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Trend 1.5 TDCI 95 CV",
+            "name": "Trend 1.5 TDCI 95 CV",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/trend/b-max-trend-15-tdci-95-cv/datos",
@@ -280,7 +281,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Trend 1.6 Ti-VCT 105 CV Powershift",
+            "name": "Trend 1.6 Ti-VCT 105 CV Powershift",
             "start_year": "2012",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/trend/b-max-trend-16-ti-vct-105-cv-powershift/datos",
@@ -291,7 +292,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Colourline 1.0 Ecoboost 125 CV Auto-Start-Stop",
+            "name": "Colourline 1.0 Ecoboost 125 CV Auto-Start-Stop",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/colourline/b-max-colourline-10-ecoboost-125-cv-auto-start-stop/datos",
@@ -302,7 +303,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Titanium 1.0 Ecoboost 125 CV Auto-Start-Stop",
+            "name": "Titanium 1.0 Ecoboost 125 CV Auto-Start-Stop",
             "start_year": "2013",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/titanium/b-max-titanium-10-ecoboost-125-cv-auto-start-stop/datos",
@@ -313,7 +314,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Titanium X 1.0 Ecoboost 120 CV Auto-Start-Stop",
+            "name": "Titanium X 1.0 Ecoboost 120 CV Auto-Start-Stop",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/titanium-x/b-max-titanium-x-10-ecoboost-120-cv-auto-start-stop/datos",
@@ -324,7 +325,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Titanium X 1.0 Ecoboost 120 CV Auto-Start-Stop",
+            "name": "Titanium X 1.0 Ecoboost 120 CV Auto-Start-Stop",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/titanium-x/b-max-titanium-x-10-ecoboost-120-cv/datos",
@@ -335,7 +336,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Titanium 1.0 Ecoboost 140 CV Auto-Start-Stop",
+            "name": "Titanium 1.0 Ecoboost 140 CV Auto-Start-Stop",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/titanium/b-max-titanium-10-ecoboost-140-cv-auto-start-stop/datos",
@@ -346,7 +347,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Colourline 1.5 TDCI 95 CV",
+            "name": "Colourline 1.5 TDCI 95 CV",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/colourline/b-max-colourline-15-tdci-95-cv/datos",
@@ -357,7 +358,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Colourline 1.6 Ti-VCT 105 CV Powershift",
+            "name": "Colourline 1.6 Ti-VCT 105 CV Powershift",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/colourline/b-max-colourline-16-ti-vct-105-cv-powershift/datos",
@@ -368,7 +369,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Titanium 1.5 TDCI 95 CV",
+            "name": "Titanium 1.5 TDCI 95 CV",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/titanium/b-max-titanium-15-tdci-95-cv/datos",
@@ -379,7 +380,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Titanium 1.6 Ti-VCT 105 CV Powershift",
+            "name": "Titanium 1.6 Ti-VCT 105 CV Powershift",
             "start_year": "2012",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/titanium/b-max-titanium-16-ti-vct-105-cv-powershift/datos",
@@ -390,7 +391,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Titanium X 1.0 Ecoboost 125 CV Auto-Start-Stop",
+            "name": "Titanium X 1.0 Ecoboost 125 CV Auto-Start-Stop",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/titanium-x/b-max-titanium-x-10-ecoboost-125-cv-auto-start-stop/datos",
@@ -401,7 +402,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Titanium X 1.6 TDCI 95 CV",
+            "name": "Titanium X 1.6 TDCI 95 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/titanium-x/b-max-titanium-x-16-tdci-95-cv/datos",
@@ -412,7 +413,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Titanium X 1.6 TDCI 95 CV",
+            "name": "Titanium X 1.6 TDCI 95 CV",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/titanium-x/b-max-titanium-x-16-tdci-95-cv2/datos",
@@ -423,7 +424,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Titanium X 1.6 Ti-VCT 105 CV Powershift",
+            "name": "Titanium X 1.6 Ti-VCT 105 CV Powershift",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/titanium-x/b-max-titaniium-16-ti-vct-105-cv-powershift2/datos",
@@ -434,7 +435,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Titanium X 1.5 TDCI 95 CV",
+            "name": "Titanium X 1.5 TDCI 95 CV",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/titanium/b-max-titanium-x-15-tdci-95-cv/datos",
@@ -445,7 +446,7 @@
             "maletero": "318"
         },
         {
-            "name": "B-MAX Titanium X 1.6 Ti-VCT 105 CV Powershift",
+            "name": "Titanium X 1.6 Ti-VCT 105 CV Powershift",
             "start_year": "2012",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ford/b-max2/2012/estandar/titanium/b-max-titanium-x-16-ti-vct-105-cv-powershift/datos",

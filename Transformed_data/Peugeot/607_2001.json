@@ -1,11 +1,12 @@
 {
+    "brand": "Peugeot",
     "name": "607",
     "year": "2001",
     "url": "https://www.km77.com/coches/peugeot/607/2001/estandar",
     "price": "",
     "versions": [
         {
-            "name": "607 2.0 HDi",
+            "name": "2.0 HDi",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/peugeot/607/2001/estandar/estandar/607-20-hdi/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "607 2.2i",
+            "name": "2.2i",
             "start_year": "2000",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/peugeot/607/2001/estandar/estandar/607-22i/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "607 2.2i Aut.",
+            "name": "2.2i Aut.",
             "start_year": "2000",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/peugeot/607/2001/estandar/estandar/607-22i-aut/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "607 2.2 HDi",
+            "name": "2.2 HDi",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/peugeot/607/2001/estandar/estandar/607-22-hdi2/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "607 2.2 HDi Aut.",
+            "name": "2.2 HDi Aut.",
             "start_year": "2000",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/peugeot/607/2001/estandar/estandar/607-22-hdi-aut/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "607 2.2 HDi",
+            "name": "2.2 HDi",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/peugeot/607/2001/estandar/estandar/607-22-hdi/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "607 2.2i Pack",
+            "name": "2.2i Pack",
             "start_year": "2000",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/peugeot/607/2001/estandar/pack/607-22i-pack/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "607 2.2i Pack Aut.",
+            "name": "2.2i Pack Aut.",
             "start_year": "2000",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/peugeot/607/2001/estandar/pack/607-22i-pack-aut/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "607 2.2 HDi Pack",
+            "name": "2.2 HDi Pack",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/peugeot/607/2001/estandar/pack/607-22-hdi-pack2/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "607 2.2 HDi Pack Aut.",
+            "name": "2.2 HDi Pack Aut.",
             "start_year": "2000",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/peugeot/607/2001/estandar/pack/607-22-hdi-pack-aut/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "607 2.2 HDi Pack",
+            "name": "2.2 HDi Pack",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/peugeot/607/2001/estandar/pack/607-22-hdi-pack/datos",
@@ -313,7 +314,7 @@
             ]
         },
         {
-            "name": "607 3.0 V6 Pack",
+            "name": "3.0 V6 Pack",
             "start_year": "2000",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/peugeot/607/2001/estandar/pack/607-30-v6-pack/datos",
@@ -341,7 +342,7 @@
             ]
         },
         {
-            "name": "607 3.0 V6 Pack Aut.",
+            "name": "3.0 V6 Pack Aut.",
             "start_year": "2000",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/peugeot/607/2001/estandar/pack/607-30-v6-pack-aut/datos",

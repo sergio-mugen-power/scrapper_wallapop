@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "New Beetle Cabriolet",
     "year": "2003",
     "url": "https://www.km77.com/coches/volkswagen/new-beetle/2003/cabriolet",
     "price": "",
     "versions": [
         {
-            "name": "New Beetle Cabriolet 1.6",
+            "name": "1.6",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/2003/cabriolet/estandar/new-beetle-cabriolet-16/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "New Beetle Cabriolet 1.9 TDI 100 CV",
+            "name": "1.9 TDI 100 CV",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/2003/cabriolet/estandar/new-beetle-cabriolet-19-tdi-100-cv/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "New Beetle Cabriolet 2.0",
+            "name": "2.0",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/2003/cabriolet/estandar/new-beetle-cabriolet-20/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "New Beetle Cabriolet 1.8 T 150 CV",
+            "name": "1.8 T 150 CV",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/2003/cabriolet/estandar/new-beetle-cabriolet-18-t-150-cv/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "New Beetle Cabriolet 2.0 Aut.",
+            "name": "2.0 Aut.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/2003/cabriolet/estandar/new-beetle-cabriolet-20-aut/datos",

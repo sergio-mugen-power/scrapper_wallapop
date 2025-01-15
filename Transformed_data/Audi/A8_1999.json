@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "A8",
     "year": "1999",
     "url": "https://www.km77.com/coches/audi/a8/1999/estandar",
     "price": "Desde 115.850 €",
     "versions": [
         {
-            "name": "A8 2.5 TDi 6v",
+            "name": "2.5 TDi 6v",
             "start_year": "2000",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/audi/a8/1999/estandar/estandar/a8-25-tdi-6v/datos",
@@ -146,7 +147,7 @@
             ]
         },
         {
-            "name": "A8 2.5 TDI 180CV manual 6 vel.",
+            "name": "2.5 TDI 180CV manual 6 vel.",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/audi/a8/1999/estandar/estandar/a8-25-tdi-180cv-manual-6-vel/datos",
@@ -294,7 +295,7 @@
             ]
         },
         {
-            "name": "A8 2.8",
+            "name": "2.8",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/audi/a8/1999/estandar/estandar/a8-28/datos",
@@ -441,7 +442,7 @@
             ]
         },
         {
-            "name": "A8 2.5 TDi tiptronic 5v",
+            "name": "2.5 TDi tiptronic 5v",
             "start_year": "2000",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/audi/a8/1999/estandar/estandar/a8-25-tdi-tiptronic-5v/datos",
@@ -582,7 +583,7 @@
             ]
         },
         {
-            "name": "A8 2.5 TDI 180CV tiptronic 5 vel.",
+            "name": "2.5 TDI 180CV tiptronic 5 vel.",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/audi/a8/1999/estandar/estandar/a8-25-tdi-180cv-tiptronic-5-vel/datos",
@@ -730,7 +731,7 @@
             ]
         },
         {
-            "name": "A8 2.8 tiptronic 5 vel.",
+            "name": "2.8 tiptronic 5 vel.",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/audi/a8/1999/estandar/estandar/a8-28-tiptronic-5-vel/datos",
@@ -883,7 +884,7 @@
             ]
         },
         {
-            "name": "A8 2.8 quattro",
+            "name": "2.8 quattro",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/audi/a8/1999/estandar/estandar/a8-28-quattro/datos",
@@ -1030,7 +1031,7 @@
             ]
         },
         {
-            "name": "A8 2.5 TDi quattro tiptronic 5v",
+            "name": "2.5 TDi quattro tiptronic 5v",
             "start_year": "2000",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/audi/a8/1999/estandar/estandar/a8-25-tdi-quattro-tiptronic-5v/datos",
@@ -1171,7 +1172,7 @@
             ]
         },
         {
-            "name": "A8 2.5 TDI 180CV quattro tiptronic 5 vel.",
+            "name": "2.5 TDI 180CV quattro tiptronic 5 vel.",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/audi/a8/1999/estandar/estandar/a8-25-tdi-180cv-quattro-tiptronic-5-vel/datos",
@@ -1319,7 +1320,7 @@
             ]
         },
         {
-            "name": "A8 2.8 quattro tiptronic 5 vel.",
+            "name": "2.8 quattro tiptronic 5 vel.",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/audi/a8/1999/estandar/estandar/a8-28-quattro-tiptronic-5-vel/datos",
@@ -1468,7 +1469,7 @@
             ]
         },
         {
-            "name": "A8 3.7 tiptronic 5 vel.",
+            "name": "3.7 tiptronic 5 vel.",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/audi/a8/1999/estandar/estandar/a8-37-tiptronic-5-vel/datos",
@@ -1616,7 +1617,7 @@
             ]
         },
         {
-            "name": "A8 3.7 quattro tiptronic 5 vel.",
+            "name": "3.7 quattro tiptronic 5 vel.",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/audi/a8/1999/estandar/estandar/a8-37-quattro-tiptronic-5-vel/datos",
@@ -1765,7 +1766,7 @@
             ]
         },
         {
-            "name": "A8 4.2 quattro tiptronic 5 vel.",
+            "name": "4.2 quattro tiptronic 5 vel.",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/audi/a8/1999/estandar/estandar/a8-42-quattro-tiptronic-5-vel/datos",
@@ -1914,7 +1915,7 @@
             ]
         },
         {
-            "name": "A8 3.3 TDI quattro tiptronic 5 vel.",
+            "name": "3.3 TDI quattro tiptronic 5 vel.",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/audi/a8/1999/estandar/estandar/a8-33-tdi-quattro-tiptronic-5-vel/datos",
@@ -2357,7 +2358,7 @@
             ]
         },
         {
-            "name": "A8 6.0 quattro tiptronic 5 vel.",
+            "name": "6.0 quattro tiptronic 5 vel.",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/audi/a8/1999/estandar/estandar/a8-60-quattro-tiptronic-5-vel/datos",

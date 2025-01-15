@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Sharan",
     "year": "2001",
     "url": "https://www.km77.com/coches/volkswagen/sharan/2001/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Sharan Conceptline 110 TDI",
+            "name": "Conceptline 110 TDI",
             "start_year": "2000",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2001/estandar/conceptline/sharan-conceptline-110-tdi/datos",
@@ -25,7 +26,7 @@
             ]
         },
         {
-            "name": "Sharan Conceptline 110 TDI Aut.",
+            "name": "Conceptline 110 TDI Aut.",
             "start_year": "2000",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2001/estandar/conceptline/sharan-conceptline-110-tdi-aut/datos",
@@ -45,7 +46,7 @@
             ]
         },
         {
-            "name": "Sharan Comfortline 150 T",
+            "name": "Comfortline 150 T",
             "start_year": "2000",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2001/estandar/comfortline/sharan-comfortline-150-t/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "Sharan Comfortline 110 TDI",
+            "name": "Comfortline 110 TDI",
             "start_year": "2000",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2001/estandar/comfortline/sharan-comfortline-110-tdi/datos",
@@ -85,7 +86,7 @@
             ]
         },
         {
-            "name": "Sharan Comfortline 110 TDI Aut.",
+            "name": "Comfortline 110 TDI Aut.",
             "start_year": "2000",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2001/estandar/comfortline/sharan-comfortline-110-tdi-aut/datos",
@@ -105,7 +106,7 @@
             ]
         },
         {
-            "name": "Sharan Comfortline VR6 174",
+            "name": "Comfortline VR6 174",
             "start_year": "2000",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2001/estandar/comfortline/sharan-comfortline-vr6-174/datos",

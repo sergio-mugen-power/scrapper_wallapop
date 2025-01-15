@@ -1,11 +1,12 @@
 {
+    "brand": "Mitsubishi",
     "name": "Outlander",
     "year": "2015",
     "url": "https://www.km77.com/coches/mitsubishi/outlander/2015/estandar",
     "price": "Desde 48.200 €",
     "versions": [
         {
-            "name": "Outlander 220 DI-D Motion 2WD",
+            "name": "220 DI-D Motion 2WD",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/mitsubishi/outlander/2015/estandar/motion/outlander-220-di-d-challenge-2wd/datos",
@@ -214,7 +215,7 @@
             ]
         },
         {
-            "name": "Outlander 220 DI-D Motion 4WD",
+            "name": "220 DI-D Motion 4WD",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/mitsubishi/outlander/2015/estandar/motion/outlander-2014/datos",
@@ -427,7 +428,7 @@
             ]
         },
         {
-            "name": "Outlander 220 DI-D Motion 6AT 4WD",
+            "name": "220 DI-D Motion 6AT 4WD",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/mitsubishi/outlander/2015/estandar/motion/outlander-220-di-d-motion-aut/datos",
@@ -640,7 +641,7 @@
             ]
         },
         {
-            "name": "Outlander PHEV Motion 4WD",
+            "name": "PHEV Motion 4WD",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/mitsubishi/outlander/2015/estandar/motion/outlander-phev-motion2/datos",
@@ -880,7 +881,7 @@
             ]
         },
         {
-            "name": "Outlander 220 DI-D Kaiteki 6AT 4WD",
+            "name": "220 DI-D Kaiteki 6AT 4WD",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/mitsubishi/outlander/2015/estandar/kaiteki/outlander-220-di-d-kaiteki-aut/datos",
@@ -1097,7 +1098,7 @@
             ]
         },
         {
-            "name": "Outlander PHEV Kaiteki 4WD",
+            "name": "PHEV Kaiteki 4WD",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/mitsubishi/outlander/2015/estandar/kaiteki/outlander-phev-kaiteki/datos",

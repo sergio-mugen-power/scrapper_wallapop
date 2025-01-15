@@ -1,11 +1,12 @@
 {
+    "brand": "Jeep",
     "name": "Grand Cherokee",
     "year": "2013",
     "url": "https://www.km77.com/coches/jeep/grand-cherokee/2013/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Grand Cherokee 3.0 V6 Diesel Laredo 190 CV",
+            "name": "3.0 V6 Diesel Laredo 190 CV",
             "start_year": "2013",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2013/estandar/laredo/grand-cherokee-30-v6-diesel-laredo-190-cv/datos",
@@ -209,7 +210,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee 3.0 V6 Diesel Limited 190 CV",
+            "name": "3.0 V6 Diesel Limited 190 CV",
             "start_year": "2013",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2013/estandar/limited/grand-cherokee-30-v6-diesel-limited-190-cv/datos",
@@ -424,7 +425,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee 3.0 V6 Diesel Limited 250 CV",
+            "name": "3.0 V6 Diesel Limited 250 CV",
             "start_year": "2013",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2013/estandar/limited/grand-cherokee-30-v6-diesel-limited-250-cv/datos",
@@ -639,7 +640,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee 3.6 V6 Overland",
+            "name": "3.6 V6 Overland",
             "start_year": "2013",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2013/estandar/overland/grand-cherokee-36-v6-overland-286-cv/datos",
@@ -862,7 +863,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee 3.0 V6 Diesel Overland 250 CV",
+            "name": "3.0 V6 Diesel Overland 250 CV",
             "start_year": "2013",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2013/estandar/overland/grand-cherokee-30-v6-diesel-overland-250-cv/datos",
@@ -1088,7 +1089,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee 3.0 V6 Diesel Summit 250 CV",
+            "name": "3.0 V6 Diesel Summit 250 CV",
             "start_year": "2013",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2013/estandar/summit/grand-cherokee-30-v6-diesel-summit-250-cv/datos",
@@ -1315,7 +1316,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee 3.0 V6 Diesel Summit Platinum 250 CV",
+            "name": "3.0 V6 Diesel Summit Platinum 250 CV",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2013/estandar/summit-platinum/grand-cherokee-30-v6-diesel-summit-platinum-250-cv/datos",
@@ -1542,7 +1543,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee 5.7 V8 HEMI Overland",
+            "name": "5.7 V8 HEMI Overland",
             "start_year": "2013",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2013/estandar/overland/grand-cherokee-57-hemi-overland-352-cv/datos",
@@ -1768,7 +1769,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee 6.4 V8 HEMI SRT8",
+            "name": "6.4 V8 HEMI SRT8",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2013/estandar/srt8/grand-cherokee-64-v8-hemi-srt8/datos",
@@ -1990,7 +1991,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee 6.4 V8 HEMI SRT8",
+            "name": "6.4 V8 HEMI SRT8",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/2013/estandar/srt8/grand-cherokee-64-v8-hemi-srt-468-cv/datos",

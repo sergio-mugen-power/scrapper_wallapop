@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "R8 Coupé",
     "year": "2013",
     "url": "https://www.km77.com/coches/audi/r8/2013/coupe",
     "price": "",
     "versions": [
         {
-            "name": "R8 Coupé 4.2 FSI quattro 430 CV",
+            "name": "4.2 FSI quattro 430 CV",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/audi/r8/2013/coupe/estandar/r8-42-fsi-quattro/datos",
@@ -241,7 +242,7 @@
             ]
         },
         {
-            "name": "R8 Coupé 4.2 FSI quattro 430 CV S tronic",
+            "name": "4.2 FSI quattro 430 CV S tronic",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/audi/r8/2013/coupe/estandar/r8-42-fsi-quattro-r-tronic/datos",
@@ -477,7 +478,7 @@
             ]
         },
         {
-            "name": "R8 Coupé 5.2 FSI V10 quattro 525 CV",
+            "name": "5.2 FSI V10 quattro 525 CV",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/audi/r8/2013/coupe/estandar/r8-52-fsi-quattro/datos",
@@ -709,7 +710,7 @@
             ]
         },
         {
-            "name": "R8 Coupé 5.2 FSI V10 quattro 525 CV S tronic",
+            "name": "5.2 FSI V10 quattro 525 CV S tronic",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/audi/r8/2013/coupe/estandar/r8-52-fsi-quattro-s-tronic/datos",
@@ -944,7 +945,7 @@
             ]
         },
         {
-            "name": "R8 Coupé 5.2 FSI V10 plus quattro 550 CV",
+            "name": "5.2 FSI V10 plus quattro 550 CV",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/audi/r8/2013/coupe/estandar/r8-52-fsi-plus-quattro/datos",
@@ -1164,7 +1165,7 @@
             ]
         },
         {
-            "name": "R8 Coupé 5.2 FSI V10 plus quattro 550 CV S tronic",
+            "name": "5.2 FSI V10 plus quattro 550 CV S tronic",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/audi/r8/2013/coupe/estandar/r8-52-fsi-plus-quattro-s-tronic/datos",

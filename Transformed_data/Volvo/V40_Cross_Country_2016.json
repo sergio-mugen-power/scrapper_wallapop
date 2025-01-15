@@ -1,11 +1,12 @@
 {
+    "brand": "Volvo",
     "name": "V40 Cross Country",
     "year": "2016",
     "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country",
     "price": "",
     "versions": [
         {
-            "name": "V40 Cross Country D2 Kinetic",
+            "name": "D2 Kinetic",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/kinetic/v40-cross-country-d2/datos",
@@ -25,7 +26,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D2",
+            "name": "D2",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/estandar/v40-cross-country-d22/datos",
@@ -45,7 +46,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D2",
+            "name": "D2",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/estandar/v40-cross-country-d23/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D2 Plus",
+            "name": "D2 Plus",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/plus/v40-cross-country-d2-plus2/datos",
@@ -85,7 +86,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country T3",
+            "name": "T3",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/estandar/v40-cross-country-t32/datos",
@@ -105,7 +106,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D2 Momentum",
+            "name": "D2 Momentum",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/momentum/v40-cross-country-d2-momentum/datos",
@@ -125,7 +126,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D3 Kinetic",
+            "name": "D3 Kinetic",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/kinetic/v40-cross-country-d3/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D2 Plus",
+            "name": "D2 Plus",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/plus/v40-cross-country-d2-plus/datos",
@@ -165,7 +166,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D2 Kinetic Aut.",
+            "name": "D2 Kinetic Aut.",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/kinetic/v40-cross-country-d2-aut/datos",
@@ -185,7 +186,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D3",
+            "name": "D3",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/estandar/v40-cross-country-d32/datos",
@@ -205,7 +206,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D3",
+            "name": "D3",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/estandar/v40-cross-country-d33/datos",
@@ -225,7 +226,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D2 Aut.",
+            "name": "D2 Aut.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/estandar/v40-cross-country-d2-aut2/datos",
@@ -245,7 +246,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D2 Aut.",
+            "name": "D2 Aut.",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/estandar/v40-cross-country-d2-aut3/datos",
@@ -265,7 +266,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country T3 Plus",
+            "name": "T3 Plus",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/plus/v40-cross-country-t3-plus/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D3 Momentum",
+            "name": "D3 Momentum",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/momentum/v40-cross-country-d3-momentum/datos",
@@ -305,7 +306,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country T3 Aut.",
+            "name": "T3 Aut.",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/estandar/v40-cross-country-t3-aut4/datos",
@@ -325,7 +326,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country T3 Aut.",
+            "name": "T3 Aut.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/estandar/v40-cross-country-t3-aut3/datos",
@@ -345,7 +346,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D2 Momentum Aut.",
+            "name": "D2 Momentum Aut.",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/momentum/v40-cross-country-d2-momentum-aut/datos",
@@ -365,7 +366,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D3 Plus",
+            "name": "D3 Plus",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/plus/v40-cross-country-d3-plus/datos",
@@ -385,7 +386,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D3 Kinetic Aut.",
+            "name": "D3 Kinetic Aut.",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/kinetic/v40-cross-country-d3-aut/datos",
@@ -405,7 +406,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D3 Plus",
+            "name": "D3 Plus",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/plus/v40-cross-country-d3-plus2/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D2 Plus Aut.",
+            "name": "D2 Plus Aut.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/plus/v40-cross-country-d2-plus-aut/datos",
@@ -445,7 +446,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D2 Plus Aut.",
+            "name": "D2 Plus Aut.",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/plus/v40-cross-country-d2-plus-aut2/datos",
@@ -465,7 +466,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D3 Aut.",
+            "name": "D3 Aut.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/estandar/v40-cross-country-d3-aut2/datos",
@@ -485,7 +486,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D3 Aut.",
+            "name": "D3 Aut.",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/estandar/v40-cross-country-d3-aut3/datos",
@@ -505,7 +506,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D2 Pro",
+            "name": "D2 Pro",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/pro/v40-cross-country-d2-pro/datos",
@@ -525,7 +526,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D2 Summum",
+            "name": "D2 Summum",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/summum/v40-cross-country-d2-summum/datos",
@@ -545,7 +546,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D2 Pro",
+            "name": "D2 Pro",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/pro/v40-cross-country-d2-pro2/datos",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country T3 Plus Aut.",
+            "name": "T3 Plus Aut.",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/plus/v40-cross-country-t3-plus-aut2/datos",
@@ -585,7 +586,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country T3 Plus Aut.",
+            "name": "T3 Plus Aut.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/plus/v40-cross-country-t3-plus-aut/datos",
@@ -605,7 +606,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D3 Momentum Aut.",
+            "name": "D3 Momentum Aut.",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/momentum/v40-cross-country-d3-momentum-aut/datos",
@@ -625,7 +626,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country T3 Pro",
+            "name": "T3 Pro",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/pro/v40-cross-country-t3-pro/datos",
@@ -645,7 +646,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D4 Momentum",
+            "name": "D4 Momentum",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/momentum/v40-cross-country-d4/datos",
@@ -665,7 +666,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country T3 Pro Aut.",
+            "name": "T3 Pro Aut.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/pro/v40-cross-country-t3-pro-aut2/datos",
@@ -685,7 +686,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D3 Plus Aut.",
+            "name": "D3 Plus Aut.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/plus/v40-cross-country-d3-plus-aut/datos",
@@ -705,7 +706,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D3 Plus Aut.",
+            "name": "D3 Plus Aut.",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/plus/v40-cross-country-d3-plus-aut2/datos",
@@ -725,7 +726,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D3 Summum",
+            "name": "D3 Summum",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/summum/v40-cross-country-d3-summum/datos",
@@ -745,7 +746,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D3 Pro",
+            "name": "D3 Pro",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/pro/v40-cross-country-d3-pro/datos",
@@ -765,7 +766,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D2 Pro Aut.",
+            "name": "D2 Pro Aut.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/pro/v40-cross-country-d2-pro-aut/datos",
@@ -785,7 +786,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D3 Pro",
+            "name": "D3 Pro",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/pro/v40-cross-country-d3-pro2/datos",
@@ -805,7 +806,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D2 Summum Aut.",
+            "name": "D2 Summum Aut.",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/summum/v40-cross-country-d2-summum-aut/datos",
@@ -825,7 +826,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D4 Plus",
+            "name": "D4 Plus",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/plus/v40-cross-country-d4-plus/datos",
@@ -845,7 +846,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D2 Pro Aut.",
+            "name": "D2 Pro Aut.",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/pro/v40-cross-country-d2-pro-aut2/datos",
@@ -865,7 +866,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country T3 Pro Aut.",
+            "name": "T3 Pro Aut.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/pro/v40-cross-country-t3-pro-aut/datos",
@@ -885,7 +886,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D4 Momentum Aut.",
+            "name": "D4 Momentum Aut.",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/momentum/v40-cross-country-d4-aut/datos",
@@ -905,7 +906,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D3 Summum Aut.",
+            "name": "D3 Summum Aut.",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/summum/v40-cross-country-d3-summum-aut/datos",
@@ -925,7 +926,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D3 Pro Aut.",
+            "name": "D3 Pro Aut.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/pro/v40-cross-country-d3-pro-aut/datos",
@@ -945,7 +946,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country T4 AWD Kinetic Aut.",
+            "name": "T4 AWD Kinetic Aut.",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/kinetic/v40-cross-country-t4-awd-aut/datos",
@@ -965,7 +966,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D3 Pro Aut.",
+            "name": "D3 Pro Aut.",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/pro/v40-cross-country-d3-pro-aut2/datos",
@@ -985,7 +986,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D4 Plus Aut.",
+            "name": "D4 Plus Aut.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/plus/v40-cross-country-d4-plus-aut/datos",
@@ -1005,7 +1006,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D4 Summum",
+            "name": "D4 Summum",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/summum/v40-cross-country-d4-summum/datos",
@@ -1025,7 +1026,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country T4 AWD Aut.",
+            "name": "T4 AWD Aut.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/estandar/v40-cross-country-t4-awd-aut2/datos",
@@ -1045,7 +1046,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D4 Pro",
+            "name": "D4 Pro",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/pro/v40-cross-country-d4-pro/datos",
@@ -1065,7 +1066,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country T4 AWD Momentum Aut.",
+            "name": "T4 AWD Momentum Aut.",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/momentum/v40-cross-country-t4-awd-momentum-aut/datos",
@@ -1085,7 +1086,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country T4 AWD Plus Aut.",
+            "name": "T4 AWD Plus Aut.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/plus/v40-cross-country-t4-awd-plus-aut/datos",
@@ -1105,7 +1106,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D4 Summum Aut.",
+            "name": "D4 Summum Aut.",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/summum/v40-cross-country-d4-summum-aut/datos",
@@ -1125,7 +1126,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country D4 Pro Aut.",
+            "name": "D4 Pro Aut.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/pro/v40-cross-country-d4-pro-aut/datos",
@@ -1145,7 +1146,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country T4 AWD Summum Aut.",
+            "name": "T4 AWD Summum Aut.",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/summum/v40-cross-country-t4-awd-summum-aut/datos",
@@ -1165,7 +1166,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country T4 AWD Pro Aut.",
+            "name": "T4 AWD Pro Aut.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/pro/v40-cross-country-t4-awd-pro-aut/datos",
@@ -1185,7 +1186,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country T5 AWD Summum Aut.",
+            "name": "T5 AWD Summum Aut.",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/summum/v40-cross-country-t5-awd-aut/datos",
@@ -1205,7 +1206,7 @@
             ]
         },
         {
-            "name": "V40 Cross Country T5 AWD Pro Aut.",
+            "name": "T5 AWD Pro Aut.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/v40/2016/cross-country/pro/v40-cross-country-t5-awd-pro-aut/datos",

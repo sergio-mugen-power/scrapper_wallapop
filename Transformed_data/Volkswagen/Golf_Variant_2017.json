@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Golf Variant",
     "year": "2017",
     "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant",
     "price": "",
     "versions": [
         {
-            "name": "Golf Variant Edition 1.0 TSI 81 kW (110 CV) BMT",
+            "name": "Edition 1.0 TSI 81 kW (110 CV) BMT",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/edition/golf-variant-edition-10-tsi-81-kw-110-cv-bmt/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Golf Variant Ready2Go 1.0 TSI 81 kW (110 CV) BMT",
+            "name": "Ready2Go 1.0 TSI 81 kW (110 CV) BMT",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/ready2go/golf-variant-ready2go-10-tsi-81-kw-110-cv-bmt/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Golf Variant Edition 1.0 TSI 85 kW (115 CV)",
+            "name": "Edition 1.0 TSI 85 kW (115 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/edition/golf-variant-edition-10-tsi-85-kw-115-cv/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.0 TSI 81 kW (110 CV) BMT",
+            "name": "Advance 1.0 TSI 81 kW (110 CV) BMT",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/advance/golf-variant-advance-10-tsi-81-kw-110-cv-bmt/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "Golf Variant Ready2Go 1.0 TSI 81 kW (110 CV)",
+            "name": "Ready2Go 1.0 TSI 81 kW (110 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/ready2go/golf-variant-ready2go-10-tsi-81-kw-110-cv/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.0 TSI 85 kW (115 CV)",
+            "name": "Advance 1.0 TSI 85 kW (115 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/advance/golf-variant-advance-10-tsi-85-kw-115-cv/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "Golf Variant Edition 1.6 TDI 85 kW (115 CV) BMT",
+            "name": "Edition 1.6 TDI 85 kW (115 CV) BMT",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/edition/golf-variant-edition-16-tdi-85-kw-115-cv-bmt/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "Golf Variant Ready2Go 1.6 TDI 85 kW (115 CV) BMT",
+            "name": "Ready2Go 1.6 TDI 85 kW (115 CV) BMT",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/ready2go/golf-variant-ready2go-16-tdi-85-kw-115-cv-bmt/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.4 TSI 92 kW (125 CV) BMT",
+            "name": "Advance 1.4 TSI 92 kW (125 CV) BMT",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/advance/golf-variant-advance-14-tsi-92-kw-125-cv-bmt/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.0 TSI 81 kW (110 CV) BMT DSG 7 vel.",
+            "name": "Advance 1.0 TSI 81 kW (110 CV) BMT DSG 7 vel.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/advance/golf-variant-advance-10-tsi-81-kw-110-cv-bmt-dsg-7-vel/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "Golf Variant Last Edition 1.5 TSI EVO BlueMotion 96 kW (130 CV)",
+            "name": "Last Edition 1.5 TSI EVO BlueMotion 96 kW (130 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/last-edition/golf-variant-last-edition-15-tsi-evo-bm-96-kw-130-cv/datos",
@@ -313,7 +314,7 @@
             ]
         },
         {
-            "name": "Golf Variant Ready2Go 1.4 TGI 81kW (110 CV)",
+            "name": "Ready2Go 1.4 TGI 81kW (110 CV)",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/ready2go/golf-variant-ready2go-14-tgi-81kw-110-cv/datos",
@@ -341,7 +342,7 @@
             ]
         },
         {
-            "name": "Golf Variant Edition 1.4 TGI 81kW (110 CV)",
+            "name": "Edition 1.4 TGI 81kW (110 CV)",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/edition/golf-variant-edition-14-tgi-81kw-110-cv3/datos",
@@ -369,7 +370,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.5 TSI EVO BlueMotion 96 kW (130 CV)",
+            "name": "Advance 1.5 TSI EVO BlueMotion 96 kW (130 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/advance/golf-variant-advance-15-tsi-evo-bluemotion-96-kw-130-cv/datos",
@@ -397,7 +398,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.0 TSI 85 kW (115 CV) DSG 7 vel.",
+            "name": "Advance 1.0 TSI 85 kW (115 CV) DSG 7 vel.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/advance/golf-variant-advance-10-tsi-85-kw-115-cv-dsg-7-vel/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.6 TDI 85 kW (115 CV) BMT",
+            "name": "Advance 1.6 TDI 85 kW (115 CV) BMT",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/advance/golf-variant-advance-16-tdi-85-kw-115-cv-bmt/datos",
@@ -453,7 +454,7 @@
             ]
         },
         {
-            "name": "Golf Variant Ready2Go 1.6 TDI 85 kW (115 CV)",
+            "name": "Ready2Go 1.6 TDI 85 kW (115 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/ready2go/golf-variant-ready2go-16-tdi-85-kw-115-cv/datos",
@@ -481,7 +482,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.5 TSI EVO 110 kW (150 CV)",
+            "name": "Advance 1.5 TSI EVO 110 kW (150 CV)",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/advance/golf-variant-advance-15-tsi-evo-110-kw-150-cv/datos",
@@ -509,7 +510,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.4 TSI 92 kW (125 CV) BMT DSG 7 vel.",
+            "name": "Advance 1.4 TSI 92 kW (125 CV) BMT DSG 7 vel.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/advance/golf-variant-advance-14-tsi-92-kw-125-cv-bmt-dsg-7-vel/datos",
@@ -537,7 +538,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.0 TSI 85 kW (115 CV)",
+            "name": "Sport 1.0 TSI 85 kW (115 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/sport/golf-variant-sport-10-tsi-85-kw-115-cv/datos",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.4 TGI 81kW (110 CV)",
+            "name": "Advance 1.4 TGI 81kW (110 CV)",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/advance/golf-variant-advance-14-tgi-81kw-110-cv/datos",
@@ -593,7 +594,7 @@
             ]
         },
         {
-            "name": "Golf Variant Last Edition 1.6 TDI 85 kW (115 CV)",
+            "name": "Last Edition 1.6 TDI 85 kW (115 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/last-edition/golf-variant-last-edition-16-tdi-85-kw-115-cv/datos",
@@ -621,7 +622,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.5 TSI EVO BM 96 kW (130 CV)",
+            "name": "Advance 1.5 TSI EVO BM 96 kW (130 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/advance/golf-variant-advance-15-tsi-evo-bluemotion-96-kw-130-cv2/datos",
@@ -649,7 +650,7 @@
             ]
         },
         {
-            "name": "Golf Variant Edition 1.6 TDI 85 kW (115 CV)",
+            "name": "Edition 1.6 TDI 85 kW (115 CV)",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/edition/golf-variant-edition-16-tdi-85-kw-115-cv/datos",
@@ -677,7 +678,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.5 TSI EVO BlueMotion 96 kW (130 CV) DSG 7 vel.",
+            "name": "Advance 1.5 TSI EVO BlueMotion 96 kW (130 CV) DSG 7 vel.",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/advance/golf-variant-advance-15-tsi-evo-bluemotion-96-kw-130-cv-dsg-7-vel/datos",
@@ -705,7 +706,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.5 TSI EVO 110 kW (150 CV)",
+            "name": "Advance 1.5 TSI EVO 110 kW (150 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/advance/golf-variant-advance-15-tsi-evo-110-kw-150-cv2/datos",
@@ -733,7 +734,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.5 TSI EVO BlueMotion 96 kW (130 CV) DSG 7 vel.",
+            "name": "Advance 1.5 TSI EVO BlueMotion 96 kW (130 CV) DSG 7 vel.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/advance/golf-variant-advance-15-tsi-evo-bluemotion-96-kw-130-cv-dsg-7-vel2/datos",
@@ -761,7 +762,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 2.0 TDI 110 kW (150 CV) BMT",
+            "name": "Advance 2.0 TDI 110 kW (150 CV) BMT",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/advance/golf-variant-advance-20-tdi-110-kw-150-cv-bmt/datos",
@@ -789,7 +790,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.4 TSI 92 kW (125 CV) BMT",
+            "name": "Sport 1.4 TSI 92 kW (125 CV) BMT",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/sport/golf-variant-sport-14-tsi-92-kw-125-cv-bmt/datos",
@@ -817,7 +818,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.6 TDI 85 kW (115 CV) BMT DSG 7 vel.",
+            "name": "Advance 1.6 TDI 85 kW (115 CV) BMT DSG 7 vel.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/advance/golf-variant-advance-16-tdi-85-kw-115-cv-bmt-dsg-7-vel/datos",
@@ -845,7 +846,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.5 TSI EVO 110 kW (150 CV) DSG 7 vel.",
+            "name": "Advance 1.5 TSI EVO 110 kW (150 CV) DSG 7 vel.",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/advance/golf-variant-advance-15-tsi-evo-110-kw-150-cv-dsg-7-vel/datos",
@@ -873,7 +874,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.5 TSI EVO 110 kW (150 CV)",
+            "name": "Advance 1.5 TSI EVO 110 kW (150 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/advance/golf-variant-advance-15-tsi-evo-110-kw-150-cv3/datos",
@@ -901,7 +902,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.4 TSI 92 kW (125 CV) BMT DSG 7 vel.",
+            "name": "Sport 1.4 TSI 92 kW (125 CV) BMT DSG 7 vel.",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/sport/golf-variant-sport-14-tsi-92-kw-125-cv-bmt-dsg-7-vel/datos",
@@ -929,7 +930,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.5 TSI EVO BlueMotion 96 kW (130 CV)",
+            "name": "Sport 1.5 TSI EVO BlueMotion 96 kW (130 CV)",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/sport/golf-variant-sport-15-tsi-evo-bluemotion-96-kw-130-cv/datos",
@@ -957,7 +958,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.6 TDI 85 kW (115 CV)",
+            "name": "Advance 1.6 TDI 85 kW (115 CV)",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/advance/golf-variant-advance-16-tdi-85-kw-115-cv/datos",
@@ -985,7 +986,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.0 TSI 85 kW (115 CV) DSG 7 vel.",
+            "name": "Sport 1.0 TSI 85 kW (115 CV) DSG 7 vel.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/sport/golf-variant-sport-10-tsi-85-kw-115-cv-dsg-7-vel/datos",
@@ -1013,7 +1014,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.6 TDI 85 kW (115 CV) BMT",
+            "name": "Sport 1.6 TDI 85 kW (115 CV) BMT",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/sport/golf-variant-sport-16-tdi-85-kw-115-cv-bmt/datos",
@@ -1041,7 +1042,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.6 TDI 85 kW (115 CV) DSG 7 vel.",
+            "name": "Advance 1.6 TDI 85 kW (115 CV) DSG 7 vel.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/advance/golf-variant-advance-16-tdi-85-kw-115-cv-dsg-7-vel/datos",
@@ -1069,7 +1070,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 2.0 TDI 110 kW (150 CV) BMT DSG 7 vel.",
+            "name": "Advance 2.0 TDI 110 kW (150 CV) BMT DSG 7 vel.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/advance/golf-variant-advance-20-tdi-110-kw-150-cv-bmt-dsg-6-vel/datos",
@@ -1097,7 +1098,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.5 TSI EVO 110 kW (150 CV) BMT",
+            "name": "Sport 1.5 TSI EVO 110 kW (150 CV) BMT",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/sport/golf-variant-sport-15-tsi-evo-110-kw-150-cv-bmt/datos",
@@ -1125,7 +1126,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 2.0 TDI 110 kW (150 CV)",
+            "name": "Advance 2.0 TDI 110 kW (150 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/advance/golf-variant-advance-20-tdi-110-kw-150-cv/datos",
@@ -1153,7 +1154,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.5 TSI EVO BM 96 kW (130 CV)",
+            "name": "Sport 1.5 TSI EVO BM 96 kW (130 CV)",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/sport/golf-variant-sport-15-tsi-evo-bluemotion-96-kw-130-cv2/datos",
@@ -1181,7 +1182,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.5 TSI EVO BlueMotion 96 kW (130 CV) DSG 7 vel.",
+            "name": "Sport 1.5 TSI EVO BlueMotion 96 kW (130 CV) DSG 7 vel.",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/sport/golf-variant-sport-15-tsi-evo-bluemotion-96-kw-130-cv-dsg-7-vel/datos",
@@ -1209,7 +1210,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 1.5 TSI EVO 110 kW (150 CV) DSG 7 vel.",
+            "name": "Advance 1.5 TSI EVO 110 kW (150 CV) DSG 7 vel.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/advance/golf-variant-advance-15-tsi-evo-110-kw-150-cv-dsg-7-vel2/datos",
@@ -1237,7 +1238,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.5 TSI EVO BlueMotion 96 kW (130 CV) DSG 7 vel.",
+            "name": "Sport 1.5 TSI EVO BlueMotion 96 kW (130 CV) DSG 7 vel.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/sport/golf-variant-sport-15-tsi-evo-bluemotion-96-kw-130-cv-dsg-7-vel2/datos",
@@ -1265,7 +1266,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 2.0 TDI 110 kW (150 CV) BMT",
+            "name": "Sport 2.0 TDI 110 kW (150 CV) BMT",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/sport/golf-variant-sport-20-tdi-110-kw-150-cv-bmt/datos",
@@ -1293,7 +1294,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.6 TDI 85 kW (115 CV) BMT DSG 7 vel.",
+            "name": "Sport 1.6 TDI 85 kW (115 CV) BMT DSG 7 vel.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/sport/golf-variant-sport-16-tdi-85-kw-115-cv-bmt-dsg-7-vel/datos",
@@ -1321,7 +1322,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.5 TSI EVO 110 kW (150 CV)",
+            "name": "Sport 1.5 TSI EVO 110 kW (150 CV)",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/sport/golf-variant-sport-15-tsi-evo-110-kw-150-cv/datos",
@@ -1349,7 +1350,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport R-Line 1.5 TSI EVO 110 kW (150 CV)",
+            "name": "Sport R-Line 1.5 TSI EVO 110 kW (150 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/sport-r-line/golf-variant-sport-r-line-15-tsi-evo-110-kw-150-cv/datos",
@@ -1377,7 +1378,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.6 TDI 85 kW (115 CV)",
+            "name": "Sport 1.6 TDI 85 kW (115 CV)",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/sport/golf-variant-sport-16-tdi-85-kw-115-cv/datos",
@@ -1405,7 +1406,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport R-Line 1.6 TDI 85 kW (115 CV)",
+            "name": "Sport R-Line 1.6 TDI 85 kW (115 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/sport-r-line/golf-variant-sport-r-line-16-tdi-85-kw-115-cv/datos",
@@ -1433,7 +1434,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.6 TDI 85 kW (115 CV) DSG 7 vel.",
+            "name": "Sport 1.6 TDI 85 kW (115 CV) DSG 7 vel.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/sport/golf-variant-sport-16-tdi-85-kw-115-cv-dsg-7-vel/datos",
@@ -1461,7 +1462,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.5 TSI EVO 110 kW (150 CV) BMT DSG 7 vel.",
+            "name": "Sport 1.5 TSI EVO 110 kW (150 CV) BMT DSG 7 vel.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/sport/golf-variant-sport-15-tsi-evo-110-kw-150-cv-bmt-dsg-7-vel/datos",
@@ -1489,7 +1490,7 @@
             ]
         },
         {
-            "name": "Golf Variant Advance 2.0 TDI 110 kW (150 CV) DSG 7 vel.",
+            "name": "Advance 2.0 TDI 110 kW (150 CV) DSG 7 vel.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/advance/golf-variant-advance-20-tdi-110-kw-150-cv-dsg-7-vel/datos",
@@ -1517,7 +1518,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 2.0 TDI 110 kW (150 CV) BMT DSG 7 vel.",
+            "name": "Sport 2.0 TDI 110 kW (150 CV) BMT DSG 7 vel.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/sport/golf-variant-sport-20-tdi-110-kw-150-cv-bmt-dsg-6-vel/datos",
@@ -1545,7 +1546,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 2.0 TDI 110 kW (150 CV)",
+            "name": "Sport 2.0 TDI 110 kW (150 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/sport/golf-variant-sport-20-tdi-110-kw-150-cv/datos",
@@ -1573,7 +1574,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport R-Line 2.0 TDI 110 kW (150 CV)",
+            "name": "Sport R-Line 2.0 TDI 110 kW (150 CV)",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/sport-r-line/golf-variant-sport-r-line-20-tdi-110-kw-150-cv/datos",
@@ -1601,7 +1602,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 1.5 TSI EVO 110 kW (150 CV) DSG 7 vel.",
+            "name": "Sport 1.5 TSI EVO 110 kW (150 CV) DSG 7 vel.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/sport/golf-variant-sport-15-tsi-evo-110-kw-150-cv-dsg-7-vel/datos",
@@ -1629,7 +1630,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport R-Line 1.5 TSI EVO 110 kW (150 CV) DSG 7 vel.",
+            "name": "Sport R-Line 1.5 TSI EVO 110 kW (150 CV) DSG 7 vel.",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/sport-r-line/golf-variant-sport-r-line-15-tsi-evo-110-kw-150-cv-dsg-7-vel/datos",
@@ -1657,7 +1658,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport 2.0 TDI 110 kW (150 CV) DSG 7 vel.",
+            "name": "Sport 2.0 TDI 110 kW (150 CV) DSG 7 vel.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/sport/golf-variant-sport-20-tdi-110-kw-150-cv-dsg-7-vel/datos",
@@ -1685,7 +1686,7 @@
             ]
         },
         {
-            "name": "Golf Variant Sport R-Line 2.0 TDI 110 kW (150 CV) DSG 7 vel.",
+            "name": "Sport R-Line 2.0 TDI 110 kW (150 CV) DSG 7 vel.",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/sport-r-line/golf-variant-sport-r-line-20-tdi-110-kw-150-cv-dsg-7-vel/datos",
@@ -1713,7 +1714,7 @@
             ]
         },
         {
-            "name": "Golf Variant GTD 2.0 TDI 135 kW (184 CV) BMT",
+            "name": "GTD 2.0 TDI 135 kW (184 CV) BMT",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/gtd/golf-variant-gtd-20-tdi-184-cv-bmt/datos",
@@ -1741,7 +1742,7 @@
             ]
         },
         {
-            "name": "Golf Variant GTD 2.0 TDI 135 kW (184 CV) BMT DSG 7 vel.",
+            "name": "GTD 2.0 TDI 135 kW (184 CV) BMT DSG 7 vel.",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/gtd/golf-variant-gtd-20-tdi-135-kw-184-cv-bmt-dsg-7-vel/datos",
@@ -1769,7 +1770,7 @@
             ]
         },
         {
-            "name": "Golf Variant GTD 2.0 TDI 135 kW (184 CV) BMT DSG 7 vel.",
+            "name": "GTD 2.0 TDI 135 kW (184 CV) BMT DSG 7 vel.",
             "start_year": "2017",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/gtd/golf-variant-gtd-20-tdi-184-cv-bmt-dsg-7-vel/datos",
@@ -1797,7 +1798,7 @@
             ]
         },
         {
-            "name": "Golf Variant GTD 2.0 TDI 135 kW (184 CV) DSG 7 vel.",
+            "name": "GTD 2.0 TDI 135 kW (184 CV) DSG 7 vel.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/gtd/golf-variant-gtd-20-tdi-135-kw-184-cv-dsg-7-vel2/datos",
@@ -1825,7 +1826,7 @@
             ]
         },
         {
-            "name": "Golf Variant R 2.0 TSI 228 kW (310 CV) 4MOTION DSG 7 vel.",
+            "name": "R 2.0 TSI 228 kW (310 CV) 4MOTION DSG 7 vel.",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/r/golf-variant-r-20-tsi-bmt-228-kw-310-cv-4motion-dsg-7-vel/datos",
@@ -1853,7 +1854,7 @@
             ]
         },
         {
-            "name": "Golf Variant R 2.0 TSI 221 kW (300 CV) 4MOTION DSG 7 vel.",
+            "name": "R 2.0 TSI 221 kW (300 CV) 4MOTION DSG 7 vel.",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/volkswagen/golf/2017/variant/r/golf-variant-r-20-tsi-221-kw-300-cv-4motion-dsg-7-vel/datos",

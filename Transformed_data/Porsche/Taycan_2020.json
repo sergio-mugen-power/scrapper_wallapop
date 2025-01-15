@@ -1,11 +1,12 @@
 {
+    "brand": "Porsche",
     "name": "Taycan",
     "year": "2020",
     "url": "https://www.km77.com/coches/porsche/taycan/2020/estandar",
     "price": "Desde 105.682 €",
     "versions": [
         {
-            "name": "Taycan batería Performance",
+            "name": "batería Performance",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/porsche/taycan/2020/estandar/estandar/taycan-bateria-performance/datos",
@@ -35,7 +36,7 @@
             ]
         },
         {
-            "name": "Taycan batería Performance Plus",
+            "name": "batería Performance Plus",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/porsche/taycan/2020/estandar/estandar/taycan-bateria-performance-plus/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "Taycan 4S batería Performance",
+            "name": "4S batería Performance",
             "start_year": "2019",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/porsche/taycan/2020/estandar/4s/taycan-4s/datos",
@@ -96,7 +97,7 @@
             ]
         },
         {
-            "name": "Taycan 4S batería Performance Plus",
+            "name": "4S batería Performance Plus",
             "start_year": "2019",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/porsche/taycan/2020/estandar/4s/taycan-4s-bateria-performance-plus/datos",
@@ -127,7 +128,7 @@
             ]
         },
         {
-            "name": "Taycan GTS",
+            "name": "GTS",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/porsche/taycan/2020/estandar/gts/taycan-gts/datos",
@@ -158,7 +159,7 @@
             ]
         },
         {
-            "name": "Taycan Turbo",
+            "name": "Turbo",
             "start_year": "2019",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/porsche/taycan/2020/estandar/turbo/taycan-turbo/datos",
@@ -189,7 +190,7 @@
             ]
         },
         {
-            "name": "Taycan Turbo S",
+            "name": "Turbo S",
             "start_year": "2019",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/porsche/taycan/2020/estandar/turbo-s/taycan-turbo-s/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Nissan",
     "name": "Qashqai",
     "year": "2007",
     "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar",
     "price": "Desde 27.400 €",
     "versions": [
         {
-            "name": "Qashqai 4x2 1.6 Acenta",
+            "name": "4x2 1.6 Acenta",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x2-16-acenta3/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 1.6 Visia",
+            "name": "4x2 1.6 Visia",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/visia/qashqai-4x2-16-visia3/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 1.6 Visia",
+            "name": "4x2 1.6 Visia",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/visia/qashqai-4x2-16-visia/datos",
@@ -88,7 +89,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 1.6 Visia",
+            "name": "4x2 1.6 Visia",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/visia/qashqai-4x2-16-visia4/datos",
@@ -116,7 +117,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0 Acenta",
+            "name": "4x2 2.0 Acenta",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x2-20-acenta3/datos",
@@ -144,7 +145,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 1.6 Acenta",
+            "name": "4x2 1.6 Acenta",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x2-16-acenta/datos",
@@ -171,7 +172,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 1.6 Acenta",
+            "name": "4x2 1.6 Acenta",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x2-16-acenta2/datos",
@@ -199,7 +200,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 1.6 Acenta",
+            "name": "4x2 1.6 Acenta",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x2-16-acenta4/datos",
@@ -227,7 +228,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0 Visia",
+            "name": "4x2 2.0 Visia",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/visia/qashqai-4x2-20-visia/datos",
@@ -255,7 +256,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0 Acenta CVT",
+            "name": "4x2 2.0 Acenta CVT",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x2-20-acenta-cvt3/datos",
@@ -283,7 +284,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 1.5 dCi Acenta",
+            "name": "4x2 1.5 dCi Acenta",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x2-15-dci-acenta/datos",
@@ -311,7 +312,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 1.5 dCi Visia Business",
+            "name": "4x2 1.5 dCi Visia Business",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/visia-business/qashqai-4x2-15-dci-visia-business/datos",
@@ -339,7 +340,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0 Acenta",
+            "name": "4x2 2.0 Acenta",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x2-20-acenta/datos",
@@ -366,7 +367,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0 Acenta",
+            "name": "4x2 2.0 Acenta",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x2-20-acenta2/datos",
@@ -394,7 +395,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 1.5dCi Visia",
+            "name": "4x2 1.5dCi Visia",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/visia/qashqai-4x2-15dci-visia/datos",
@@ -421,7 +422,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 1.5dCi Visia",
+            "name": "4x2 1.5dCi Visia",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/visia/qashqai-4x2-15dci-visia2/datos",
@@ -449,7 +450,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0 Tekna",
+            "name": "4x2 2.0 Tekna",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna/qashqai-4x2-20-tekna3/datos",
@@ -477,7 +478,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 1.6 Tekna Sport",
+            "name": "4x2 1.6 Tekna Sport",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna-sport/qashqai-4x2-16-tekna-sport/datos",
@@ -505,7 +506,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0 Acenta",
+            "name": "4x2 2.0 Acenta",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x2-20-acenta4/datos",
@@ -533,7 +534,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 1.5dCi Visia",
+            "name": "4x2 1.5dCi Visia",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/visia/qashqai-4x2-15dci-visia3/datos",
@@ -561,7 +562,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0 Visia CVT",
+            "name": "4x2 2.0 Visia CVT",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/visia/qashqai-4x2-20-visia-cvt/datos",
@@ -589,7 +590,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 1.5 dCi Acenta",
+            "name": "4x2 1.5 dCi Acenta",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x2-15-dci-acenta2/datos",
@@ -617,7 +618,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 1.5dCi Acenta",
+            "name": "4x2 1.5dCi Acenta",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x2-15dci-acenta/datos",
@@ -644,7 +645,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0 Acenta CVT",
+            "name": "4x2 2.0 Acenta CVT",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x2-20-acenta-cvt/datos",
@@ -671,7 +672,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0 Acenta CVT",
+            "name": "4x2 2.0 Acenta CVT",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x2-20-acenta-cvt2/datos",
@@ -699,7 +700,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 1.5dCi Acenta",
+            "name": "4x2 1.5dCi Acenta",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x2-15dci-acenta2/datos",
@@ -727,7 +728,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0 Tekna CVT",
+            "name": "4x2 2.0 Tekna CVT",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna/qashqai-4x2-20-tekna-cvt3/datos",
@@ -755,7 +756,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 1.5 dCi Tekna",
+            "name": "4x2 1.5 dCi Tekna",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna/qashqai-4x2-15-dci-tekna/datos",
@@ -783,7 +784,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0 dCi Acenta",
+            "name": "4x2 2.0 dCi Acenta",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x2-20-dci-acenta/datos",
@@ -811,7 +812,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0 Acenta CVT",
+            "name": "4x2 2.0 Acenta CVT",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x2-20-acenta-cvt4/datos",
@@ -839,7 +840,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 Acenta",
+            "name": "4x4 2.0 Acenta",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x4-20-acenta3/datos",
@@ -867,7 +868,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0 Tekna",
+            "name": "4x2 2.0 Tekna",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna/qashqai-4x2-20-tekna2/datos",
@@ -895,7 +896,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0 Tekna Sport",
+            "name": "4x2 2.0 Tekna Sport",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna-sport/qashqai-4x2-20-tekna-sport/datos",
@@ -923,7 +924,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 1.6 Tekna Premium",
+            "name": "4x2 1.6 Tekna Premium",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna-premium/qashqai-4x2-16-tekna-premium/datos",
@@ -951,7 +952,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0 dCi Visia Business",
+            "name": "4x2 2.0 dCi Visia Business",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/visia-business/qashqai-4x2-20-dci-visia-business/datos",
@@ -979,7 +980,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0 Tekna",
+            "name": "4x2 2.0 Tekna",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna/qashqai-4x2-20-tekna/datos",
@@ -1006,7 +1007,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 1.5 dCi Tekna Sport",
+            "name": "4x2 1.5 dCi Tekna Sport",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna-sport/qashqai-4x2-15-dci-tekna-sport/datos",
@@ -1034,7 +1035,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0 Tekna CVT",
+            "name": "4x2 2.0 Tekna CVT",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna/qashqai-4x2-20-tekna-cvt2/datos",
@@ -1062,7 +1063,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 Acenta CVT",
+            "name": "4x4 2.0 Acenta CVT",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x4-20-acenta-cvt3/datos",
@@ -1090,7 +1091,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0 dCi Acenta",
+            "name": "4x2 2.0 dCi Acenta",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x2-20-dci-acenta2/datos",
@@ -1118,7 +1119,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0 Tekna Sport CVT",
+            "name": "4x2 2.0 Tekna Sport CVT",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna-sport/qashqai-4x2-20-tekna-sport-cvt/datos",
@@ -1146,7 +1147,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 Acenta",
+            "name": "4x4 2.0 Acenta",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x4-20-acenta/datos",
@@ -1173,7 +1174,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 Acenta",
+            "name": "4x4 2.0 Acenta",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x4-20-acenta2/datos",
@@ -1201,7 +1202,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0dCi Acenta",
+            "name": "4x2 2.0dCi Acenta",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x2-20dci-acenta/datos",
@@ -1228,7 +1229,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 1.5dCi Tekna",
+            "name": "4x2 1.5dCi Tekna",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna/qashqai-4x2-15dci-tekna/datos",
@@ -1255,7 +1256,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0 Tekna CVT",
+            "name": "4x2 2.0 Tekna CVT",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna/qashqai-4x2-20-tekna-cvt/datos",
@@ -1282,7 +1283,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 1.5dCi Tekna",
+            "name": "4x2 1.5dCi Tekna",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna/qashqai-4x2-15dci-tekna2/datos",
@@ -1310,7 +1311,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0 dCi Tekna",
+            "name": "4x2 2.0 dCi Tekna",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna/qashqai-4x2-20-dci-tekna/datos",
@@ -1338,7 +1339,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0 Tekna Premium",
+            "name": "4x2 2.0 Tekna Premium",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna-premium/qashqai-4x2-20-tekna-premium/datos",
@@ -1366,7 +1367,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0dCi Acenta",
+            "name": "4x2 2.0dCi Acenta",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x2-20dci-acenta2/datos",
@@ -1394,7 +1395,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 Acenta",
+            "name": "4x4 2.0 Acenta",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x4-20-acenta4/datos",
@@ -1422,7 +1423,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 1.5 dCi Tekna Premium",
+            "name": "4x2 1.5 dCi Tekna Premium",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna-premium/qashqai-4x2-15-dci-tekna-premium/datos",
@@ -1450,7 +1451,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 Acenta CVT",
+            "name": "4x4 2.0 Acenta CVT",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x4-20-acenta-cvt/datos",
@@ -1477,7 +1478,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 Acenta CVT",
+            "name": "4x4 2.0 Acenta CVT",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x4-20-acenta-cvt2/datos",
@@ -1505,7 +1506,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0 dCi Tekna Sport",
+            "name": "4x2 2.0 dCi Tekna Sport",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna-sport/qashqai-4x2-20-dci-tekna-sport/datos",
@@ -1533,7 +1534,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0 Tekna Premium CVT",
+            "name": "4x2 2.0 Tekna Premium CVT",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna-premium/qashqai-4x2-20-tekna-premium-cvt/datos",
@@ -1561,7 +1562,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 dCi Acenta",
+            "name": "4x4 2.0 dCi Acenta",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x4-20-dci-acenta/datos",
@@ -1589,7 +1590,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 Acenta CVT",
+            "name": "4x4 2.0 Acenta CVT",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x4-20-acenta-cvt4/datos",
@@ -1617,7 +1618,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 Tekna Sport",
+            "name": "4x4 2.0 Tekna Sport",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna-sport/qashqai-4x4-20-tekna-sport/datos",
@@ -1645,7 +1646,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 dCi Visia Business",
+            "name": "4x4 2.0 dCi Visia Business",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/visia-business/qashqai-4x4-20-dci-visia-business/datos",
@@ -1673,7 +1674,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0dCi Tekna",
+            "name": "4x2 2.0dCi Tekna",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna/qashqai-4x2-20dci-tekna/datos",
@@ -1700,7 +1701,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0dCi Tekna",
+            "name": "4x2 2.0dCi Tekna",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna/qashqai-4x2-20dci-tekna2/datos",
@@ -1728,7 +1729,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0dCi Visia",
+            "name": "4x4 2.0dCi Visia",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/visia/qashqai-4x4-20dci-visia/datos",
@@ -1755,7 +1756,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0dCi Visia",
+            "name": "4x4 2.0dCi Visia",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/visia/qashqai-4x4-20dci-visia2/datos",
@@ -1783,7 +1784,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x2 2.0 dCi Tekna Premium",
+            "name": "4x2 2.0 dCi Tekna Premium",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna-premium/qashqai-4x2-20-dci-tekna-premium/datos",
@@ -1811,7 +1812,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 dCi Acenta Aut.",
+            "name": "4x4 2.0 dCi Acenta Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x4-20-dci-acenta-aut/datos",
@@ -1839,7 +1840,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 dCi Acenta",
+            "name": "4x4 2.0 dCi Acenta",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x4-20-dci-acenta2/datos",
@@ -1867,7 +1868,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 Tekna Sport CVT",
+            "name": "4x4 2.0 Tekna Sport CVT",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna-sport/qashqai-4x4-20-tekna-sport-cvt/datos",
@@ -1895,7 +1896,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 dCi Visia Business Aut.",
+            "name": "4x4 2.0 dCi Visia Business Aut.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/visia-business/qashqai-4x4-20-dci-visia-business-aut/datos",
@@ -1923,7 +1924,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0dCi Acenta",
+            "name": "4x4 2.0dCi Acenta",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x4-20dci-acenta/datos",
@@ -1950,7 +1951,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 dCi Tekna",
+            "name": "4x4 2.0 dCi Tekna",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna/qashqai-4x4-20-dci-tekna/datos",
@@ -1978,7 +1979,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 Tekna Premium",
+            "name": "4x4 2.0 Tekna Premium",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna-premium/qashqai-4x4-20-tekna-premium/datos",
@@ -2006,7 +2007,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0dCi Acenta",
+            "name": "4x4 2.0dCi Acenta",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x4-20dci-acenta2/datos",
@@ -2034,7 +2035,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 Tekna",
+            "name": "4x4 2.0 Tekna",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna/qashqai-4x4-20-tekna2/datos",
@@ -2062,7 +2063,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 dCi Acenta Aut.",
+            "name": "4x4 2.0 dCi Acenta Aut.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x4-20-dci-acenta-aut2/datos",
@@ -2090,7 +2091,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0dCi Acenta Aut.",
+            "name": "4x4 2.0dCi Acenta Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x4-20dci-acenta-aut/datos",
@@ -2117,7 +2118,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 dCi Tekna Sport",
+            "name": "4x4 2.0 dCi Tekna Sport",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna-sport/qashqai-4x4-20-dci-tekna-sport/datos",
@@ -2145,7 +2146,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 dCi Tekna Aut.",
+            "name": "4x4 2.0 dCi Tekna Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna/qashqai-4x4-20-dci-tekna-aut/datos",
@@ -2173,7 +2174,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 Tekna Premium CVT",
+            "name": "4x4 2.0 Tekna Premium CVT",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna-premium/qashqai-4x4-20-tekna-premium-cvt/datos",
@@ -2201,7 +2202,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0dCi Acenta Aut.",
+            "name": "4x4 2.0dCi Acenta Aut.",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/acenta/qashqai-4x4-20dci-acenta-aut2/datos",
@@ -2229,7 +2230,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 Tekna CVT",
+            "name": "4x4 2.0 Tekna CVT",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna/qashqai-4x4-20-tekna-cvt2/datos",
@@ -2257,7 +2258,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 Tekna",
+            "name": "4x4 2.0 Tekna",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna/qashqai-4x4-20-tekna/datos",
@@ -2285,7 +2286,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0dCi Tekna",
+            "name": "4x4 2.0dCi Tekna",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna/qashqai-4x4-20dci-tekna/datos",
@@ -2312,7 +2313,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0dCi Tekna",
+            "name": "4x4 2.0dCi Tekna",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna/qashqai-4x4-20dci-tekna2/datos",
@@ -2340,7 +2341,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 dCi Tekna Sport Aut.",
+            "name": "4x4 2.0 dCi Tekna Sport Aut.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna-sport/qashqai-4x4-20-dci-tekna-sport-aut/datos",
@@ -2368,7 +2369,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 dCi Tekna Premium",
+            "name": "4x4 2.0 dCi Tekna Premium",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna-premium/qashqai-4x4-20-dci-tekna-premium/datos",
@@ -2396,7 +2397,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 Tekna CVT",
+            "name": "4x4 2.0 Tekna CVT",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna/qashqai-4x4-20-tekna-cvt/datos",
@@ -2424,7 +2425,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0dCi Tekna Aut.",
+            "name": "4x4 2.0dCi Tekna Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna/qashqai-4x4-20dci-tekna-aut/datos",
@@ -2451,7 +2452,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0dCi Tekna Aut.",
+            "name": "4x4 2.0dCi Tekna Aut.",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna/qashqai-4x4-20dci-tekna-aut2/datos",
@@ -2479,7 +2480,7 @@
             ]
         },
         {
-            "name": "Qashqai 4x4 2.0 dCi Tekna Premium Aut.",
+            "name": "4x4 2.0 dCi Tekna Premium Aut.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/nissan/qashqai/2007/estandar/tekna-premium/qashqai-4x4-20-dci-tekna-premium-aut/datos",

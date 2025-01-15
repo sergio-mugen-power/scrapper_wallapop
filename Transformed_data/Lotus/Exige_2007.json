@@ -1,11 +1,12 @@
 {
+    "brand": "Lotus",
     "name": "Exige",
     "year": "2007",
     "url": "https://www.km77.com/coches/lotus/exige/2007/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Exige S",
+            "name": "S",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/lotus/exige/2007/estandar/s/exige-s/datos",
@@ -180,7 +181,7 @@
             ]
         },
         {
-            "name": "Exige S",
+            "name": "S",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lotus/exige/2007/estandar/s/exige-s2/datos",

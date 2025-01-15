@@ -1,11 +1,12 @@
 {
+    "brand": "Fiat",
     "name": "Multipla",
     "year": "2004",
     "url": "https://www.km77.com/coches/fiat/multipla/2004/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Multipla 1.6 Dynamic",
+            "name": "1.6 Dynamic",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/fiat/multipla/2004/estandar/dynamic/multipla-16-dynamic/datos",
@@ -164,7 +165,7 @@
             ]
         },
         {
-            "name": "Multipla Multijet 120 CV Dynamic",
+            "name": "Multijet 120 CV Dynamic",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/fiat/multipla/2004/estandar/dynamic/multipla-multijet-120-cv-dynamic/datos",
@@ -323,7 +324,7 @@
             ]
         },
         {
-            "name": "Multipla 1.6 Dynamic",
+            "name": "1.6 Dynamic",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/fiat/multipla/2004/estandar/dynamic/multipla-16-dynamic2/datos",
@@ -481,7 +482,7 @@
             ]
         },
         {
-            "name": "Multipla Multijet 120cv Dynamic",
+            "name": "Multijet 120cv Dynamic",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/fiat/multipla/2004/estandar/dynamic/multipla-multijet-120cv-dynamic/datos",
@@ -641,7 +642,7 @@
             ]
         },
         {
-            "name": "Multipla 1.9 JTD Dynamic",
+            "name": "1.9 JTD Dynamic",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/fiat/multipla/2004/estandar/dynamic/multipla-19-jtd-dynamic/datos",
@@ -800,7 +801,7 @@
             ]
         },
         {
-            "name": "Multipla 1.6 BiPower",
+            "name": "1.6 BiPower",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/fiat/multipla/2004/estandar/estandar/multipla-16-bipower/datos",
@@ -957,7 +958,7 @@
             ]
         },
         {
-            "name": "Multipla 1.6 Metano BiPower",
+            "name": "1.6 Metano BiPower",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/fiat/multipla/2004/estandar/estandar/multipla-16-metano-bipower/datos",

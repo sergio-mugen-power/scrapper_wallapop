@@ -1,11 +1,12 @@
 {
+    "brand": "Cadillac",
     "name": "Seville",
     "year": "1997",
     "url": "https://www.km77.com/coches/cadillac/seville/1997/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Seville SLS",
+            "name": "SLS",
             "start_year": "2000",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/cadillac/seville/1997/estandar/sls/seville-sls/datos",
@@ -139,7 +140,7 @@
             ]
         },
         {
-            "name": "Seville STS 4.6 V8",
+            "name": "STS 4.6 V8",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/cadillac/seville/1997/estandar/sts/seville-sts-46-v8/datos",
@@ -278,7 +279,7 @@
             ]
         },
         {
-            "name": "Seville STS 4.6 V8",
+            "name": "STS 4.6 V8",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/cadillac/seville/1997/estandar/sts/seville-sts-46-v82/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Hummer",
     "name": "H3",
     "year": "2005",
     "url": "https://www.km77.com/coches/hummer/h3/2005/estandar",
     "price": "",
     "versions": [
         {
-            "name": "H3 Base Package",
+            "name": "Base Package",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/hummer/h3/2005/estandar/base-package/h3-base-package/datos",
@@ -168,7 +169,7 @@
             ]
         },
         {
-            "name": "H3 Base Package Aut.",
+            "name": "Base Package Aut.",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/hummer/h3/2005/estandar/base-package/h3-base-package-aut/datos",
@@ -333,7 +334,7 @@
             ]
         },
         {
-            "name": "H3 Luxury Package",
+            "name": "Luxury Package",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/hummer/h3/2005/estandar/luxury-package/h3-luxury-package/datos",
@@ -504,7 +505,7 @@
             ]
         },
         {
-            "name": "H3 Luxury Package Aut.",
+            "name": "Luxury Package Aut.",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/hummer/h3/2005/estandar/luxury-package/h3-luxury-package-aut/datos",

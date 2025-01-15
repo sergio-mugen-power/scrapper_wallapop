@@ -1,11 +1,12 @@
 {
+    "brand": "Alfa Romeo",
     "name": "Spider",
     "year": "2003",
     "url": "https://www.km77.com/coches/alfa-romeo/spider/2003/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Spider 2.0 T.S.",
+            "name": "2.0 T.S.",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/alfa-romeo/spider/2003/estandar/estandar/spider-20-ts/datos",
@@ -157,7 +158,7 @@
             ]
         },
         {
-            "name": "Spider 2.0 JTS",
+            "name": "2.0 JTS",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/alfa-romeo/spider/2003/estandar/estandar/spider-20-jts/datos",
@@ -312,7 +313,7 @@
             ]
         },
         {
-            "name": "Spider 3.2 V6",
+            "name": "3.2 V6",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/alfa-romeo/spider/2003/estandar/estandar/spider-32-v6/datos",

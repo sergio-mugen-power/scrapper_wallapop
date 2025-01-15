@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "i7",
     "year": "2022",
     "url": "https://www.km77.com/coches/bmw/i7/2022/estandar",
     "price": "Desde 115.700 €",
     "versions": [
         {
-            "name": "i7 eDrive50 (05/2023 - )",
+            "name": "eDrive50 (05/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/bmw/i7/2022/estandar/estandar/i7-edrive50/datos",
@@ -288,7 +289,7 @@
             ]
         },
         {
-            "name": "i7 xDrive60 (04/2022 - )",
+            "name": "xDrive60 (04/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/bmw/i7/2022/estandar/estandar/i7-xdrive60/datos",
@@ -584,7 +585,7 @@
             ]
         },
         {
-            "name": "i7 M70 xDrive (05/2023 - )",
+            "name": "M70 xDrive (05/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/bmw/i7/2022/estandar/estandar/i7-m70-xdrive/datos",

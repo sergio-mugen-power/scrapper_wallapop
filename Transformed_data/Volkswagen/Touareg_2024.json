@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Touareg",
     "year": "2024",
     "url": "https://www.km77.com/coches/volkswagen/touareg/2024/estandar",
     "price": "Desde 70.860 €",
     "versions": [
         {
-            "name": "Touareg Elegance 3.0 V6 TDI 4Motion 170 kW (231 CV) (09/2023 - )",
+            "name": "Elegance 3.0 V6 TDI 4Motion 170 kW (231 CV) (09/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2024/estandar/estandar/touareg-v6-tdi-4motion-231-cv/datos",
@@ -26,7 +27,7 @@
             ]
         },
         {
-            "name": "Touareg eHybrid Elegance 3.0 V6 TSI 4Motion 280 kW (381 CV) (09/2023 - )",
+            "name": "eHybrid Elegance 3.0 V6 TSI 4Motion 280 kW (381 CV) (09/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2024/estandar/ehybrid/touareg-ehybrid-4motion-381-cv/datos",
@@ -50,7 +51,7 @@
             ]
         },
         {
-            "name": "Touareg R eHybrid 4Motion 340 kW (462 CV) (09/2023 - )",
+            "name": "R eHybrid 4Motion 340 kW (462 CV) (09/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2024/estandar/ehybrid/touareg-r-ehybrid-4motion-462-cv/datos",

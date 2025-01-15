@@ -1,11 +1,12 @@
 {
+    "brand": "Subaru",
     "name": "Forester",
     "year": "2001",
     "url": "https://www.km77.com/coches/subaru/forester/2001/estandar",
     "price": "Desde 40.400 €",
     "versions": [
         {
-            "name": "Forester 2.0 GLX AWD MY00",
+            "name": "2.0 GLX AWD MY00",
             "start_year": "1997",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/subaru/forester/2001/estandar/glx/forester-20-glx-awd-my00/datos",
@@ -130,7 +131,7 @@
             ]
         },
         {
-            "name": "Forester 2.0 GLX",
+            "name": "2.0 GLX",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/subaru/forester/2001/estandar/glx/forester-20-glx/datos",
@@ -258,7 +259,7 @@
             ]
         },
         {
-            "name": "Forester 2.0 GLX Aut.",
+            "name": "2.0 GLX Aut.",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/subaru/forester/2001/estandar/glx/forester-20-glx-aut/datos",
@@ -387,7 +388,7 @@
             ]
         },
         {
-            "name": "Forester 2.0 SLX",
+            "name": "2.0 SLX",
             "start_year": "1997",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/subaru/forester/2001/estandar/slx/forester-20-slx/datos",
@@ -517,7 +518,7 @@
             ]
         },
         {
-            "name": "Forester 2.0 SLX Aut.",
+            "name": "2.0 SLX Aut.",
             "start_year": "1997",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/subaru/forester/2001/estandar/slx/forester-20-slx-aut/datos",
@@ -647,7 +648,7 @@
             ]
         },
         {
-            "name": "Forester 2.0 Turbo",
+            "name": "2.0 Turbo",
             "start_year": "1997",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/subaru/forester/2001/estandar/turbo/forester-20-turbo/datos",
@@ -782,7 +783,7 @@
             ]
         },
         {
-            "name": "Forester 2.0 Turbo Aut.",
+            "name": "2.0 Turbo Aut.",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/subaru/forester/2001/estandar/turbo/forester-20-turbo-aut/datos",

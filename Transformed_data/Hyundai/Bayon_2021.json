@@ -1,11 +1,12 @@
 {
+    "brand": "Hyundai",
     "name": "Bayon",
     "year": "2021",
     "url": "https://www.km77.com/coches/hyundai/bayon/2021/estandar",
     "price": "Desde 23.455 €",
     "versions": [
         {
-            "name": "Bayon 1.0 T-GDi 100 CV Essence",
+            "name": "1.0 T-GDi 100 CV Essence",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/hyundai/bayon/2021/estandar/estandar/bayon-10-t-gdi-100-cv/datos",
@@ -206,7 +207,7 @@
             ]
         },
         {
-            "name": "Bayon 1.0 T-GDi 100 CV 48V Essence",
+            "name": "1.0 T-GDi 100 CV 48V Essence",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/hyundai/bayon/2021/estandar/estandar/bayon-10-t-gdi-100-cv-48v-essence/datos",
@@ -421,7 +422,7 @@
             ]
         },
         {
-            "name": "Bayon 1.2 MPi 84 CV Essence",
+            "name": "1.2 MPi 84 CV Essence",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/bayon/2021/estandar/estandar/bayon/datos",
@@ -620,7 +621,7 @@
             ]
         },
         {
-            "name": "Bayon 1.2 MPi 84 CV Klass",
+            "name": "1.2 MPi 84 CV Klass",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/bayon/2021/estandar/estandar/bayon-12-mpi-84-cv-klass/datos",
@@ -825,7 +826,7 @@
             ]
         },
         {
-            "name": "Bayon 1.0 T-GDi 100 CV Maxx",
+            "name": "1.0 T-GDi 100 CV Maxx",
             "start_year": "2021",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/hyundai/bayon/2021/estandar/estandar/bayon-10-t-gdi-100-cv-maxx/datos",
@@ -1031,7 +1032,7 @@
             ]
         },
         {
-            "name": "Bayon 1.2 MPi 84 CV Maxx",
+            "name": "1.2 MPi 84 CV Maxx",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/bayon/2021/estandar/estandar/bayon-12-mpi-84-cv-maxx/datos",
@@ -1236,7 +1237,7 @@
             ]
         },
         {
-            "name": "Bayon 1.0 T-GDi 100 CV 48V Klass",
+            "name": "1.0 T-GDi 100 CV 48V Klass",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/bayon/2021/estandar/estandar/bayon-10-t-gdi-100-cv-48v-klass/datos",
@@ -1456,7 +1457,7 @@
             ]
         },
         {
-            "name": "Bayon 1.0 T-GDi 100 CV Tecno",
+            "name": "1.0 T-GDi 100 CV Tecno",
             "start_year": "2021",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/hyundai/bayon/2021/estandar/estandar/bayon-10-t-gdi-100-cv-tecno/datos",
@@ -1675,7 +1676,7 @@
             ]
         },
         {
-            "name": "Bayon 1.0 T-GDi 100 CV 48V Maxx",
+            "name": "1.0 T-GDi 100 CV 48V Maxx",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/bayon/2021/estandar/estandar/bayon-10-t-gdi-100-cv-48v/datos",
@@ -1895,7 +1896,7 @@
             ]
         },
         {
-            "name": "Bayon 1.0 T-GDi 100 CV 48V 7DCT Maxx",
+            "name": "1.0 T-GDi 100 CV 48V 7DCT Maxx",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/bayon/2021/estandar/estandar/bayon-10-t-gdi-100-cv-48v-7dct/datos",
@@ -2115,7 +2116,7 @@
             ]
         },
         {
-            "name": "Bayon 1.0 T-GDi 100 CV 48V Tecno",
+            "name": "1.0 T-GDi 100 CV 48V Tecno",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/bayon/2021/estandar/estandar/bayon-10-t-gdi-100-cv-48v-tecno/datos",
@@ -2347,7 +2348,7 @@
             ]
         },
         {
-            "name": "Bayon 1.0 T-GDi 100 CV 48V 7DCT Tecno",
+            "name": "1.0 T-GDi 100 CV 48V 7DCT Tecno",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/bayon/2021/estandar/estandar/bayon-10-t-gdi-100-cv-48v-7dct-tecno/datos",
@@ -2579,7 +2580,7 @@
             ]
         },
         {
-            "name": "Bayon 1.0 T-GDi 120 CV 48V 7DCT Style",
+            "name": "1.0 T-GDi 120 CV 48V 7DCT Style",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/hyundai/bayon/2021/estandar/estandar/bayon-10-t-gdi-120-cv-48v-7dct/datos",

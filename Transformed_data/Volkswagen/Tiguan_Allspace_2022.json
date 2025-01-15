@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Tiguan Allspace",
     "year": "2022",
     "url": "https://www.km77.com/coches/volkswagen/tiguan/2022/allspace",
     "price": "Desde 36.285 €",
     "versions": [
         {
-            "name": "Tiguan Allspace 1.5 TSI 110 kW (150 CV) 7 plazas",
+            "name": "1.5 TSI 110 kW (150 CV) 7 plazas",
             "start_year": "2022",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2022/allspace/estandar/tiguan-allspace-15-tsi-110-kw-150-cv-7-plazas2/datos",
@@ -26,7 +27,7 @@
             ]
         },
         {
-            "name": "Tiguan Allspace 2.0 TDI 110 kW (150 CV) 7 plazas",
+            "name": "2.0 TDI 110 kW (150 CV) 7 plazas",
             "start_year": "2022",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2022/allspace/estandar/tiguan-allspace-20-tdi-110-kw-150-cv-7-plazas2/datos",
@@ -47,7 +48,7 @@
             ]
         },
         {
-            "name": "Tiguan Allspace Life 1.5 TSI 110 kW (150 CV) 7 plazas",
+            "name": "Life 1.5 TSI 110 kW (150 CV) 7 plazas",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2022/allspace/estandar/tiguan-allspace-life-15-tsi-110-kw-150-cv-7-plazas/datos",
@@ -68,7 +69,7 @@
             ]
         },
         {
-            "name": "Tiguan Allspace Life 2.0 TDI 110 kW (150 CV) 7 plazas",
+            "name": "Life 2.0 TDI 110 kW (150 CV) 7 plazas",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2022/allspace/estandar/tiguan-allspace-life-20-tdi-110-kw-150-cv-7-plazas/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Tiguan Allspace Life 1.5 TSI 110 kW (150 CV) DSG 7 plazas",
+            "name": "Life 1.5 TSI 110 kW (150 CV) DSG 7 plazas",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2022/allspace/estandar/tiguan-allspace-life-15-tsi-110-kw-150-cv-dsg-7-plazas/datos",
@@ -110,7 +111,7 @@
             ]
         },
         {
-            "name": "Tiguan Allspace Life 2.0 TDI 110 kW (150 CV) DSG 7 plazas",
+            "name": "Life 2.0 TDI 110 kW (150 CV) DSG 7 plazas",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2022/allspace/estandar/tiguan-allspace-life-20-tdi-110-kw-150-cv-dsg-7-plazas/datos",
@@ -131,7 +132,7 @@
             ]
         },
         {
-            "name": "Tiguan Allspace Life 2.0 TDI 110 kW (150 CV) 4Motion DSG 7 plazas",
+            "name": "Life 2.0 TDI 110 kW (150 CV) 4Motion DSG 7 plazas",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2022/allspace/estandar/tiguan-allspace-life-20-tdi-110-kw-150-cv-4motion-dsg-7-plazas/datos",
@@ -152,7 +153,7 @@
             ]
         },
         {
-            "name": "Tiguan Allspace R-Line 2.0 TDI 110 kW (150 CV) DSG 7 plazas",
+            "name": "R-Line 2.0 TDI 110 kW (150 CV) DSG 7 plazas",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2022/allspace/estandar/tiguan-allspace-r-line-20-tdi-110-kw-150-cv-dsg-7-plazas/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "Tiguan Allspace R-Line 1.5 TSI 110 kW (150 CV) DSG 7 plazas",
+            "name": "R-Line 1.5 TSI 110 kW (150 CV) DSG 7 plazas",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2022/allspace/estandar/tiguan-allspace-r-line-15-tsi-110-kw-150-cv-dsg-7-plazas/datos",
@@ -194,7 +195,7 @@
             ]
         },
         {
-            "name": "Tiguan Allspace R-Line 2.0 TDI 110 kW (150 CV) 4Motion DSG 7 plazas",
+            "name": "R-Line 2.0 TDI 110 kW (150 CV) 4Motion DSG 7 plazas",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2022/allspace/estandar/tiguan-allspace-r-line-20-tdi-110-kw-150-cv-4motion-dsg-7-plazas/datos",
@@ -215,7 +216,7 @@
             ]
         },
         {
-            "name": "Tiguan Allspace R-Line 2.0 TSI 140 kW (190 CV) 4Motion DSG 7 plazas",
+            "name": "R-Line 2.0 TSI 140 kW (190 CV) 4Motion DSG 7 plazas",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2022/allspace/estandar/tiguan-allspace-r-line-20-tsi-140-kw-190-cv-4motion-dsg-7-plazas/datos",
@@ -236,7 +237,7 @@
             ]
         },
         {
-            "name": "Tiguan Allspace R-Line 2.0 TDI 147 kW (200 CV) 4Motion DSG 7 plazas",
+            "name": "R-Line 2.0 TDI 147 kW (200 CV) 4Motion DSG 7 plazas",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/volkswagen/tiguan/2022/allspace/estandar/tiguan-allspace-r-line-20-tdi-147-kw-200-cv-4motion-dsg-7-plazas/datos",

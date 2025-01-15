@@ -1,11 +1,12 @@
 {
+    "brand": "SsangYong",
     "name": "XLV",
     "year": "2019",
     "url": "https://www.km77.com/coches/ssangyong/xlv/2019/estandar",
     "price": "",
     "versions": [
         {
-            "name": "XLV G16 4x2 Line",
+            "name": "G16 4x2 Line",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ssangyong/xlv/2019/estandar/line/xlv-g16-4x2-line/datos",
@@ -95,7 +96,7 @@
             ]
         },
         {
-            "name": "XLV G16 4x2 Premium",
+            "name": "G16 4x2 Premium",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ssangyong/xlv/2019/estandar/premium/xlv-g16-4x2-premium/datos",
@@ -185,7 +186,7 @@
             ]
         },
         {
-            "name": "XLV D16T 4x2 Premium",
+            "name": "D16T 4x2 Premium",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ssangyong/xlv/2019/estandar/premium/xlv-d16t-4x2-premium/datos",
@@ -275,7 +276,7 @@
             ]
         },
         {
-            "name": "XLV G16 4x2 Limited",
+            "name": "G16 4x2 Limited",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ssangyong/xlv/2019/estandar/limited/xlv-g16-4x2-limited/datos",
@@ -365,7 +366,7 @@
             ]
         },
         {
-            "name": "XLV D16T 4x2 Limited",
+            "name": "D16T 4x2 Limited",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ssangyong/xlv/2019/estandar/limited/xlv-d16t-4x2-limited/datos",
@@ -455,7 +456,7 @@
             ]
         },
         {
-            "name": "XLV D16T 4x2 Limited Aut.",
+            "name": "D16T 4x2 Limited Aut.",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ssangyong/xlv/2019/estandar/limited/xlv-d16t-4x2-limited-aut/datos",
@@ -545,7 +546,7 @@
             ]
         },
         {
-            "name": "XLV G16 4x2 Limited Aut.",
+            "name": "G16 4x2 Limited Aut.",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ssangyong/xlv/2019/estandar/limited/xlv-g16-4x2-limited-aut/datos",

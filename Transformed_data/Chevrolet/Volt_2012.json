@@ -1,11 +1,12 @@
 {
+    "brand": "Chevrolet",
     "name": "Volt",
     "year": "2012",
     "url": "https://www.km77.com/coches/chevrolet/volt/2012/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Volt",
+            "name": "",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/chevrolet/volt/2012/estandar/estandar/volt/datos",
@@ -197,7 +198,7 @@
             ]
         },
         {
-            "name": "Volt",
+            "name": "",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/chevrolet/volt/2012/estandar/estandar/volt2/datos",

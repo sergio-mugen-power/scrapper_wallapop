@@ -1,11 +1,12 @@
 {
+    "brand": "SsangYong",
     "name": "Musso",
     "year": "1998",
     "url": "https://www.km77.com/coches/ssangyong/musso/1998/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Musso 2.3 TDI",
+            "name": "2.3 TDI",
             "start_year": "1993",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/ssangyong/musso/1998/estandar/estandar/musso-23-tdi/datos",
@@ -90,7 +91,7 @@
             ]
         },
         {
-            "name": "Musso 2.3 TDI Lux",
+            "name": "2.3 TDI Lux",
             "start_year": "1993",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/ssangyong/musso/1998/estandar/lux/musso-23-tdi-lux/datos",
@@ -176,7 +177,7 @@
             ]
         },
         {
-            "name": "Musso 2.3 TDI Millenium SX",
+            "name": "2.3 TDI Millenium SX",
             "start_year": "1993",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/ssangyong/musso/1998/estandar/millenium-sx/musso-23-tdi-millenium-sx/datos",
@@ -263,7 +264,7 @@
             ]
         },
         {
-            "name": "Musso 2.3 TDI Grand Lux",
+            "name": "2.3 TDI Grand Lux",
             "start_year": "1993",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/ssangyong/musso/1998/estandar/grand-lux/musso-23-tdi-grand-lux/datos",
@@ -349,7 +350,7 @@
             ]
         },
         {
-            "name": "Musso 2.9 TDI Lux",
+            "name": "2.9 TDI Lux",
             "start_year": "1993",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/ssangyong/musso/1998/estandar/lux/musso-29-tdi-lux/datos",
@@ -436,7 +437,7 @@
             ]
         },
         {
-            "name": "Musso 2.3 TDI SVX",
+            "name": "2.3 TDI SVX",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/ssangyong/musso/1998/estandar/svx/musso-23-tdi-svx/datos",
@@ -523,7 +524,7 @@
             ]
         },
         {
-            "name": "Musso 2.9 TDI SX",
+            "name": "2.9 TDI SX",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/ssangyong/musso/1998/estandar/sx/musso-29-tdi-sx/datos",
@@ -611,7 +612,7 @@
             ]
         },
         {
-            "name": "Musso 2.9 TDI Grand Lux",
+            "name": "2.9 TDI Grand Lux",
             "start_year": "1993",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/ssangyong/musso/1998/estandar/grand-lux/musso-29-tdi-grand-lux/datos",
@@ -698,7 +699,7 @@
             ]
         },
         {
-            "name": "Musso 2.9 TDI SVX",
+            "name": "2.9 TDI SVX",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/ssangyong/musso/1998/estandar/svx/musso-29-tdi-svx/datos",
@@ -786,7 +787,7 @@
             ]
         },
         {
-            "name": "Musso 2.9 TDI SVX Aut.",
+            "name": "2.9 TDI SVX Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/ssangyong/musso/1998/estandar/svx/musso-29-tdi-svx-aut/datos",

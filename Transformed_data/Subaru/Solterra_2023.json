@@ -1,11 +1,12 @@
 {
+    "brand": "Subaru",
     "name": "Solterra",
     "year": "2023",
     "url": "https://www.km77.com/coches/subaru/solterra/2023/estandar",
     "price": "Desde 50.750 €",
     "versions": [
         {
-            "name": "Solterra Trek (03/2023 - )",
+            "name": "Trek (03/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/subaru/solterra/2023/estandar/estandar/solterra/datos",
@@ -239,7 +240,7 @@
             ]
         },
         {
-            "name": "Solterra Touring (03/2023 - )",
+            "name": "Touring (03/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/subaru/solterra/2023/estandar/estandar/solterra-touring/datos",

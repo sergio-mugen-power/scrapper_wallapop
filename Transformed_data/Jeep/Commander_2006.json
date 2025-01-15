@@ -1,11 +1,12 @@
 {
+    "brand": "Jeep",
     "name": "Commander",
     "year": "2006",
     "url": "https://www.km77.com/coches/jeep/commander/2006/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Commander Laredo 3.0 V6 CRD",
+            "name": "Laredo 3.0 V6 CRD",
             "start_year": "2009",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/jeep/commander/2006/estandar/laredo/commander-laredo-30-v6-crd/datos",
@@ -202,7 +203,7 @@
             ]
         },
         {
-            "name": "Commander 3.0 V6 CRD Laredo",
+            "name": "3.0 V6 CRD Laredo",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/jeep/commander/2006/estandar/laredo/commander-30-v6-crd-laredo2/datos",
@@ -396,7 +397,7 @@
             ]
         },
         {
-            "name": "Commander 3.0 V6 CRD Laredo",
+            "name": "3.0 V6 CRD Laredo",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/jeep/commander/2006/estandar/laredo/commander-30-v6-crd-laredo/datos",
@@ -581,7 +582,7 @@
             ]
         },
         {
-            "name": "Commander 3.0 V6 CRD Limited",
+            "name": "3.0 V6 CRD Limited",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/jeep/commander/2006/estandar/limited/commander-30-v6-crd-limited/datos",
@@ -770,7 +771,7 @@
             ]
         },
         {
-            "name": "Commander 3.0 V6 CRD Limited",
+            "name": "3.0 V6 CRD Limited",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/jeep/commander/2006/estandar/limited/commander-30-v6-crd-limited2/datos",
@@ -958,7 +959,7 @@
             ]
         },
         {
-            "name": "Commander Overland 3.0 V6 CRD",
+            "name": "Overland 3.0 V6 CRD",
             "start_year": "2008",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/jeep/commander/2006/estandar/overland/commander-overland-30-v6-crd/datos",
@@ -1163,7 +1164,7 @@
             ]
         },
         {
-            "name": "Commander 5.7 V8 Hemi Limited",
+            "name": "5.7 V8 Hemi Limited",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/jeep/commander/2006/estandar/limited/commander-57-v8-hemi-limited/datos",
@@ -1352,7 +1353,7 @@
             ]
         },
         {
-            "name": "Commander 5.7 V8 Hemi Limited",
+            "name": "5.7 V8 Hemi Limited",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/jeep/commander/2006/estandar/limited/commander-57-v8-hemi-limited2/datos",

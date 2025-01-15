@@ -1,11 +1,12 @@
 {
+    "brand": "Volvo",
     "name": "S80",
     "year": "1998",
     "url": "https://www.km77.com/coches/volvo/s80/1998/estandar",
     "price": "",
     "versions": [
         {
-            "name": "S80 2.4 140 CV",
+            "name": "2.4 140 CV",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/estandar/s80-24-140-cv/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "S80 2.4 140 CV Aut.",
+            "name": "2.4 140 CV Aut.",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/estandar/s80-24-140-cv-aut/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "S80 2.4 140 CV Optima",
+            "name": "2.4 140 CV Optima",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/optima/s80-24-140-cv-optima/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "S80 Kinetic",
+            "name": "Kinetic",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/kinetic/s80-kinetic/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "S80 2.4 170 CV",
+            "name": "2.4 170 CV",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/estandar/s80-24-170-cv/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "S80 2.4D",
+            "name": "2.4D",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/estandar/s80-24d/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "S80 2.4 140 CV Optima Aut.",
+            "name": "2.4 140 CV Optima Aut.",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/optima/s80-24-140-cv-optima-aut/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "S80 2.5D",
+            "name": "2.5D",
             "start_year": "1998",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/estandar/s80-25d/datos",
@@ -228,7 +229,7 @@
             ]
         },
         {
-            "name": "S80 Kinetic Aut.",
+            "name": "Kinetic Aut.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/kinetic/s80-kinetic-aut/datos",
@@ -256,7 +257,7 @@
             ]
         },
         {
-            "name": "S80 Momentum",
+            "name": "Momentum",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/momentum/s80-momentum/datos",
@@ -284,7 +285,7 @@
             ]
         },
         {
-            "name": "S80 2.4 170 CV Aut.",
+            "name": "2.4 170 CV Aut.",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/estandar/s80-24-170-cv-aut/datos",
@@ -312,7 +313,7 @@
             ]
         },
         {
-            "name": "S80 2.4D Aut.",
+            "name": "2.4D Aut.",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/estandar/s80-24d-aut/datos",
@@ -340,7 +341,7 @@
             ]
         },
         {
-            "name": "S80 2.5D Aut.",
+            "name": "2.5D Aut.",
             "start_year": "1998",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/estandar/s80-25d-aut/datos",
@@ -368,7 +369,7 @@
             ]
         },
         {
-            "name": "S80 D5",
+            "name": "D5",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/estandar/s80-d5/datos",
@@ -396,7 +397,7 @@
             ]
         },
         {
-            "name": "S80 Momentum Aut.",
+            "name": "Momentum Aut.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/momentum/s80-momentum-aut/datos",
@@ -424,7 +425,7 @@
             ]
         },
         {
-            "name": "S80 2.4 170 CV Optima",
+            "name": "2.4 170 CV Optima",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/optima/s80-24-170-cv-optima/datos",
@@ -452,7 +453,7 @@
             ]
         },
         {
-            "name": "S80 2.4D Optima",
+            "name": "2.4D Optima",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/optima/s80-24d-optima/datos",
@@ -480,7 +481,7 @@
             ]
         },
         {
-            "name": "S80 2.4 170 CV Momentum",
+            "name": "2.4 170 CV Momentum",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/momentum/s80-24-170-cv-momentum/datos",
@@ -508,7 +509,7 @@
             ]
         },
         {
-            "name": "S80 2.4 Kinetic",
+            "name": "2.4 Kinetic",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/kinetic/s80-24-kinetic/datos",
@@ -536,7 +537,7 @@
             ]
         },
         {
-            "name": "S80 2.4D Kinetic",
+            "name": "2.4D Kinetic",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/kinetic/s80-24d-kinetic/datos",
@@ -564,7 +565,7 @@
             ]
         },
         {
-            "name": "S80 2.5D Optima",
+            "name": "2.5D Optima",
             "start_year": "1998",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/estandar/s80-25d-optima/datos",
@@ -591,7 +592,7 @@
             ]
         },
         {
-            "name": "S80 D5 Aut.",
+            "name": "D5 Aut.",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/estandar/s80-d5-aut/datos",
@@ -619,7 +620,7 @@
             ]
         },
         {
-            "name": "S80 Summum",
+            "name": "Summum",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/summum/s80-summum/datos",
@@ -647,7 +648,7 @@
             ]
         },
         {
-            "name": "S80 2.4 170 CV Optima Aut.",
+            "name": "2.4 170 CV Optima Aut.",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/optima/s80-24-170-cv-optima-aut/datos",
@@ -675,7 +676,7 @@
             ]
         },
         {
-            "name": "S80 2.4D Optima Aut.",
+            "name": "2.4D Optima Aut.",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/optima/s80-24d-optima-aut/datos",
@@ -703,7 +704,7 @@
             ]
         },
         {
-            "name": "S80 2.4 170 CV Momentum Aut.",
+            "name": "2.4 170 CV Momentum Aut.",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/momentum/s80-24-170-cv-momentum-aut/datos",
@@ -731,7 +732,7 @@
             ]
         },
         {
-            "name": "S80 2.4 Kinetic Aut.",
+            "name": "2.4 Kinetic Aut.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/kinetic/s80-24-kinetic-aut/datos",
@@ -759,7 +760,7 @@
             ]
         },
         {
-            "name": "S80 2.4D Kinetic Aut.",
+            "name": "2.4D Kinetic Aut.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/kinetic/s80-24d-kinetic-aut/datos",
@@ -787,7 +788,7 @@
             ]
         },
         {
-            "name": "S80 2.5D Aut. Optima",
+            "name": "2.5D Aut. Optima",
             "start_year": "1998",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/estandar/s80-25d-aut-optima/datos",
@@ -815,7 +816,7 @@
             ]
         },
         {
-            "name": "S80 2.4T",
+            "name": "2.4T",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/estandar/s80-24t/datos",
@@ -843,7 +844,7 @@
             ]
         },
         {
-            "name": "S80 2.4D Momentum",
+            "name": "2.4D Momentum",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/momentum/s80-24d-momentum/datos",
@@ -871,7 +872,7 @@
             ]
         },
         {
-            "name": "S80 D5 Optima",
+            "name": "D5 Optima",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/optima/s80-d5-optima/datos",
@@ -899,7 +900,7 @@
             ]
         },
         {
-            "name": "S80 D5 Momentum",
+            "name": "D5 Momentum",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/momentum/s80-d5-momentum/datos",
@@ -927,7 +928,7 @@
             ]
         },
         {
-            "name": "S80 D5 Kinetic",
+            "name": "D5 Kinetic",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/kinetic/s80-d5-kinetic/datos",
@@ -955,7 +956,7 @@
             ]
         },
         {
-            "name": "S80 Summum Aut.",
+            "name": "Summum Aut.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/summum/s80-summum-aut/datos",
@@ -983,7 +984,7 @@
             ]
         },
         {
-            "name": "S80 2.4 170 CV Summum",
+            "name": "2.4 170 CV Summum",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/summum/s80-24-170-cv-summum/datos",
@@ -1011,7 +1012,7 @@
             ]
         },
         {
-            "name": "S80 2.4T Aut.",
+            "name": "2.4T Aut.",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/estandar/s80-24t-aut/datos",
@@ -1039,7 +1040,7 @@
             ]
         },
         {
-            "name": "S80 2.9",
+            "name": "2.9",
             "start_year": "2001",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/estandar/s80-29/datos",
@@ -1067,7 +1068,7 @@
             ]
         },
         {
-            "name": "S80 2.4D Momentum Aut.",
+            "name": "2.4D Momentum Aut.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/momentum/s80-24d-momentum-aut/datos",
@@ -1095,7 +1096,7 @@
             ]
         },
         {
-            "name": "S80 D5 Optima Aut.",
+            "name": "D5 Optima Aut.",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/optima/s80-d5-optima-aut/datos",
@@ -1123,7 +1124,7 @@
             ]
         },
         {
-            "name": "S80 D5 Momentum Aut.",
+            "name": "D5 Momentum Aut.",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/momentum/s80-d5-momentum-aut/datos",
@@ -1151,7 +1152,7 @@
             ]
         },
         {
-            "name": "S80 D5 Kinetic Aut.",
+            "name": "D5 Kinetic Aut.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/kinetic/s80-d5-kinetic-aut/datos",
@@ -1179,7 +1180,7 @@
             ]
         },
         {
-            "name": "S80 2.4 170 CV Summum Aut.",
+            "name": "2.4 170 CV Summum Aut.",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/summum/s80-24-170-cv-summum-aut/datos",
@@ -1207,7 +1208,7 @@
             ]
         },
         {
-            "name": "S80 2.4T Optima",
+            "name": "2.4T Optima",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/optima/s80-24t-optima/datos",
@@ -1235,7 +1236,7 @@
             ]
         },
         {
-            "name": "S80 2.9 Aut.",
+            "name": "2.9 Aut.",
             "start_year": "2001",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/estandar/s80-29-aut/datos",
@@ -1263,7 +1264,7 @@
             ]
         },
         {
-            "name": "S80 2.5T Kinetic",
+            "name": "2.5T Kinetic",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/kinetic/s80-25t-kinetic/datos",
@@ -1291,7 +1292,7 @@
             ]
         },
         {
-            "name": "S80 2.4D Summum",
+            "name": "2.4D Summum",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/summum/s80-24d-summum/datos",
@@ -1319,7 +1320,7 @@
             ]
         },
         {
-            "name": "S80 D5 Summum",
+            "name": "D5 Summum",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/summum/s80-d5-summum/datos",
@@ -1347,7 +1348,7 @@
             ]
         },
         {
-            "name": "S80 2.4T Optima Aut.",
+            "name": "2.4T Optima Aut.",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/optima/s80-24t-optima-aut/datos",
@@ -1375,7 +1376,7 @@
             ]
         },
         {
-            "name": "S80 2.5T Kinetic Aut.",
+            "name": "2.5T Kinetic Aut.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/kinetic/s80-25t-kinetic-aut/datos",
@@ -1403,7 +1404,7 @@
             ]
         },
         {
-            "name": "S80 2.9 Optima",
+            "name": "2.9 Optima",
             "start_year": "2001",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/optima/s80-29-optima/datos",
@@ -1431,7 +1432,7 @@
             ]
         },
         {
-            "name": "S80 2.4D Summum Aut.",
+            "name": "2.4D Summum Aut.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/summum/s80-24d-summum-aut/datos",
@@ -1459,7 +1460,7 @@
             ]
         },
         {
-            "name": "S80 2.5T Momentum",
+            "name": "2.5T Momentum",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/momentum/s80-25t-momentum/datos",
@@ -1487,7 +1488,7 @@
             ]
         },
         {
-            "name": "S80 D5 Summum Aut.",
+            "name": "D5 Summum Aut.",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/summum/s80-d5-summum-aut/datos",
@@ -1515,7 +1516,7 @@
             ]
         },
         {
-            "name": "S80 2.9 Optima Aut.",
+            "name": "2.9 Optima Aut.",
             "start_year": "2001",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/optima/s80-29-optima-aut/datos",
@@ -1543,7 +1544,7 @@
             ]
         },
         {
-            "name": "S80 2.5T Momentum Aut.",
+            "name": "2.5T Momentum Aut.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/momentum/s80-25t-momentum-aut/datos",
@@ -1571,7 +1572,7 @@
             ]
         },
         {
-            "name": "S80 2.5T Summum",
+            "name": "2.5T Summum",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/summum/s80-25t-summum/datos",
@@ -1599,7 +1600,7 @@
             ]
         },
         {
-            "name": "S80 T6",
+            "name": "T6",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/estandar/s80-t6/datos",
@@ -1627,7 +1628,7 @@
             ]
         },
         {
-            "name": "S80 2.5T Summum Aut.",
+            "name": "2.5T Summum Aut.",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/summum/s80-25t-summum-aut/datos",
@@ -1655,7 +1656,7 @@
             ]
         },
         {
-            "name": "S80 T6 Optima",
+            "name": "T6 Optima",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/optima/s80-t6-optima/datos",
@@ -1683,7 +1684,7 @@
             ]
         },
         {
-            "name": "S80 T6 Momentum",
+            "name": "T6 Momentum",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/momentum/s80-t6-momentum/datos",
@@ -1711,7 +1712,7 @@
             ]
         },
         {
-            "name": "S80 T6 Summum",
+            "name": "T6 Summum",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/summum/s80-t6-summum/datos",
@@ -1739,7 +1740,7 @@
             ]
         },
         {
-            "name": "S80 T6 Executive",
+            "name": "T6 Executive",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volvo/s80/1998/estandar/executive/s80-t6-executive/datos",

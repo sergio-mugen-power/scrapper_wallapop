@@ -1,11 +1,12 @@
 {
+    "brand": "Chrysler",
     "name": "300M",
     "year": "1998",
     "url": "https://www.km77.com/coches/chrysler/300m/1998/estandar",
     "price": "",
     "versions": [
         {
-            "name": "300M 2.7",
+            "name": "2.7",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chrysler/300m/1998/estandar/estandar/300m-27/datos",
@@ -167,7 +168,7 @@
             ]
         },
         {
-            "name": "300M 3.5",
+            "name": "3.5",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chrysler/300m/1998/estandar/estandar/300m-35/datos",

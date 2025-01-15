@@ -1,11 +1,12 @@
 {
+    "brand": "Jeep",
     "name": "Cherokee",
     "year": "2019",
     "url": "https://www.km77.com/coches/jeep/cherokee/2019/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Cherokee Longitude 2.2 Diesel 195 CV 4x2 Aut. 9 vel.",
+            "name": "Longitude 2.2 Diesel 195 CV 4x2 Aut. 9 vel.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/jeep/cherokee/2019/estandar/longitude/cherokee-longitude-22-diesel-195-cv-4x2-aut-9-vel/datos",
@@ -226,7 +227,7 @@
             ]
         },
         {
-            "name": "Cherokee Limited 2.2 Diesel 195 CV 4x2 Aut. 9 vel.",
+            "name": "Limited 2.2 Diesel 195 CV 4x2 Aut. 9 vel.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/jeep/cherokee/2019/estandar/limited/cherokee-limited-22-diesel-195-cv-4x2-aut-9-vel/datos",
@@ -459,7 +460,7 @@
             ]
         },
         {
-            "name": "Cherokee Limited 2.2 Diesel 195 CV 4x4 Active Drive I Aut. 9 vel.",
+            "name": "Limited 2.2 Diesel 195 CV 4x4 Active Drive I Aut. 9 vel.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/jeep/cherokee/2019/estandar/limited/cherokee-limited-22-diesel-195-cv-4x4-active-drive-i-aut-9-vel/datos",
@@ -693,7 +694,7 @@
             ]
         },
         {
-            "name": "Cherokee Trailhawk 2.0T 270 CV 4x4 Active Drive Lock Aut. 9 vel.",
+            "name": "Trailhawk 2.0T 270 CV 4x4 Active Drive Lock Aut. 9 vel.",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/jeep/cherokee/2019/estandar/trailhawk/cherokee-trailhawk/datos",
@@ -921,7 +922,7 @@
             ]
         },
         {
-            "name": "Cherokee Overland 2.2 Diesel 195 CV 4x4 Active Drive I Aut. 9 vel.",
+            "name": "Overland 2.2 Diesel 195 CV 4x4 Active Drive I Aut. 9 vel.",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/jeep/cherokee/2019/estandar/overland/cherokee-overland-22-diesel-195-cv-4x4-active-drive-i-aut-9-vel/datos",
@@ -1156,7 +1157,7 @@
             ]
         },
         {
-            "name": "Cherokee Overland 2.2 Diesel 195 CV 9AT 4x4 Active Drive II",
+            "name": "Overland 2.2 Diesel 195 CV 9AT 4x4 Active Drive II",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/jeep/cherokee/2019/estandar/overland/cherokee-overland-22-diesel-195-cv-4x4-active-drive-ii-aut-9-vel/datos",

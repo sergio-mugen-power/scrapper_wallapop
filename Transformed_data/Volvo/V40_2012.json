@@ -1,11 +1,12 @@
 {
+    "brand": "Volvo",
     "name": "V40",
     "year": "2012",
     "url": "https://www.km77.com/coches/volvo/v40/2012/estandar",
     "price": "",
     "versions": [
         {
-            "name": "V40 D2 Básico",
+            "name": "D2 Básico",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/basico/v40-d2-basico/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "V40 D2 Básico",
+            "name": "D2 Básico",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/basico/v40-d2-basico2/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "V40 D2 Básico",
+            "name": "D2 Básico",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/basico/v40-d2-basico4/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "V40 D2 Básico",
+            "name": "D2 Básico",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/basico/v40-d2-basico3/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "V40 D2 Kinetic",
+            "name": "D2 Kinetic",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-d2-kinetic/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "V40 T2 Kinetic",
+            "name": "T2 Kinetic",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-t2-kinetic/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "V40 D2 Kinetic",
+            "name": "D2 Kinetic",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-d2-kinetic3/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "V40 D2 Kinetic",
+            "name": "D2 Kinetic",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-d2-kinetic2/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "V40 D2 Kinetic",
+            "name": "D2 Kinetic",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-d2-kinetic4/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "V40 D2 Básico Aut.",
+            "name": "D2 Básico Aut.",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/basico/v40-d2-basico-aut/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "V40 D2 Básico Powershift",
+            "name": "D2 Básico Powershift",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/basico/v40-d2-basico-powershift/datos",
@@ -313,7 +314,7 @@
             ]
         },
         {
-            "name": "V40 D2 Kinetic",
+            "name": "D2 Kinetic",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-d2-kinetic5/datos",
@@ -341,7 +342,7 @@
             ]
         },
         {
-            "name": "V40 D3 Kinetic",
+            "name": "D3 Kinetic",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-d3-kinetic2/datos",
@@ -369,7 +370,7 @@
             ]
         },
         {
-            "name": "V40 D3 Kinetic",
+            "name": "D3 Kinetic",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-d3-kinetic/datos",
@@ -397,7 +398,7 @@
             ]
         },
         {
-            "name": "V40 D2 Momentum",
+            "name": "D2 Momentum",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-d2-momentum/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "V40 T2 Momentum",
+            "name": "T2 Momentum",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-t2-momentum/datos",
@@ -453,7 +454,7 @@
             ]
         },
         {
-            "name": "V40 D2 Momentum",
+            "name": "D2 Momentum",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-d2-momentum3/datos",
@@ -481,7 +482,7 @@
             ]
         },
         {
-            "name": "V40 D3 Kinetic",
+            "name": "D3 Kinetic",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-d3-kinetic3/datos",
@@ -509,7 +510,7 @@
             ]
         },
         {
-            "name": "V40 D2 Momentum",
+            "name": "D2 Momentum",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-d2-momentum2/datos",
@@ -537,7 +538,7 @@
             ]
         },
         {
-            "name": "V40 D2 Momentum",
+            "name": "D2 Momentum",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-d2-momentum4/datos",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "name": "V40 D2 Kinetic Powershift",
+            "name": "D2 Kinetic Powershift",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-d2-kinetic-powershift/datos",
@@ -593,7 +594,7 @@
             ]
         },
         {
-            "name": "V40 T2 Kinetic Aut.",
+            "name": "T2 Kinetic Aut.",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-t2-kinetic-aut/datos",
@@ -621,7 +622,7 @@
             ]
         },
         {
-            "name": "V40 D3 Kinetic",
+            "name": "D3 Kinetic",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-d3-kinetic4/datos",
@@ -649,7 +650,7 @@
             ]
         },
         {
-            "name": "V40 D2 Momentum",
+            "name": "D2 Momentum",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-d2-momentum5/datos",
@@ -677,7 +678,7 @@
             ]
         },
         {
-            "name": "V40 D2 Kinetic Aut.",
+            "name": "D2 Kinetic Aut.",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-d2-kinetic-aut/datos",
@@ -705,7 +706,7 @@
             ]
         },
         {
-            "name": "V40 D3 Kinetic",
+            "name": "D3 Kinetic",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-d3-kinetic5/datos",
@@ -733,7 +734,7 @@
             ]
         },
         {
-            "name": "V40 D2 Kinetic Aut.",
+            "name": "D2 Kinetic Aut.",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-d2-kinetic-aut2/datos",
@@ -761,7 +762,7 @@
             ]
         },
         {
-            "name": "V40 D3 Momentum",
+            "name": "D3 Momentum",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-d3-momentum2/datos",
@@ -789,7 +790,7 @@
             ]
         },
         {
-            "name": "V40 D3 Momentum",
+            "name": "D3 Momentum",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-d3-momentum/datos",
@@ -817,7 +818,7 @@
             ]
         },
         {
-            "name": "V40 D2 R-Design Kinetic",
+            "name": "D2 R-Design Kinetic",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-kinetic/v40-d2-r-design-kinetic/datos",
@@ -845,7 +846,7 @@
             ]
         },
         {
-            "name": "V40 D2 R-Design",
+            "name": "D2 R-Design",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design/v40-d2-r-design/datos",
@@ -873,7 +874,7 @@
             ]
         },
         {
-            "name": "V40 T4 Kinetic",
+            "name": "T4 Kinetic",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-t4-kinetic2/datos",
@@ -901,7 +902,7 @@
             ]
         },
         {
-            "name": "V40 T4 Kinetic",
+            "name": "T4 Kinetic",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-t4-kinetic/datos",
@@ -929,7 +930,7 @@
             ]
         },
         {
-            "name": "V40 D4 Kinetic",
+            "name": "D4 Kinetic",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-d4-kinetic2/datos",
@@ -957,7 +958,7 @@
             ]
         },
         {
-            "name": "V40 D4 Kinetic",
+            "name": "D4 Kinetic",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-d4-kinetic/datos",
@@ -985,7 +986,7 @@
             ]
         },
         {
-            "name": "V40 D3 Kinetic Geartronic",
+            "name": "D3 Kinetic Geartronic",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-d3-kinetic-geartronic/datos",
@@ -1013,7 +1014,7 @@
             ]
         },
         {
-            "name": "V40 D2 R-Design Kinetic",
+            "name": "D2 R-Design Kinetic",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-kinetic/v40-d2-r-design-kinetic2/datos",
@@ -1041,7 +1042,7 @@
             ]
         },
         {
-            "name": "V40 D2 Summum",
+            "name": "D2 Summum",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-d2-summum/datos",
@@ -1069,7 +1070,7 @@
             ]
         },
         {
-            "name": "V40 D3 Momentum",
+            "name": "D3 Momentum",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-d3-momentum3/datos",
@@ -1097,7 +1098,7 @@
             ]
         },
         {
-            "name": "V40 D2 R-Design Momentum",
+            "name": "D2 R-Design Momentum",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-momentum/v40-d2-r-design-momentum/datos",
@@ -1125,7 +1126,7 @@
             ]
         },
         {
-            "name": "V40 D2 Summum",
+            "name": "D2 Summum",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-d2-summum3/datos",
@@ -1153,7 +1154,7 @@
             ]
         },
         {
-            "name": "V40 T2 R-Design Momentum",
+            "name": "T2 R-Design Momentum",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-momentum/v40-t2-r-design-momentum/datos",
@@ -1181,7 +1182,7 @@
             ]
         },
         {
-            "name": "V40 D2 Momentum Powershift",
+            "name": "D2 Momentum Powershift",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-d2-momentum-powershift/datos",
@@ -1209,7 +1210,7 @@
             ]
         },
         {
-            "name": "V40 T4 Kinetic",
+            "name": "T4 Kinetic",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-t4-kinetic3/datos",
@@ -1237,7 +1238,7 @@
             ]
         },
         {
-            "name": "V40 T2 Momentum Aut.",
+            "name": "T2 Momentum Aut.",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-t2-momentum-aut/datos",
@@ -1265,7 +1266,7 @@
             ]
         },
         {
-            "name": "V40 D3 Momentum",
+            "name": "D3 Momentum",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-d3-momentum4/datos",
@@ -1293,7 +1294,7 @@
             ]
         },
         {
-            "name": "V40 T2 Summum",
+            "name": "T2 Summum",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-t2-summum/datos",
@@ -1321,7 +1322,7 @@
             ]
         },
         {
-            "name": "V40 D4 Kinetic",
+            "name": "D4 Kinetic",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-d4-kinetic4/datos",
@@ -1349,7 +1350,7 @@
             ]
         },
         {
-            "name": "V40 D3 Kinetic Geartronic",
+            "name": "D3 Kinetic Geartronic",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-d3-kinetic-geartronic2/datos",
@@ -1377,7 +1378,7 @@
             ]
         },
         {
-            "name": "V40 D4 Kinetic",
+            "name": "D4 Kinetic",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-d4-kinetic3/datos",
@@ -1405,7 +1406,7 @@
             ]
         },
         {
-            "name": "V40 D2 R-Design Momentum",
+            "name": "D2 R-Design Momentum",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-momentum/v40-d2-r-design-momentum2/datos",
@@ -1433,7 +1434,7 @@
             ]
         },
         {
-            "name": "V40 D2 Summum",
+            "name": "D2 Summum",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-d2-summum4/datos",
@@ -1461,7 +1462,7 @@
             ]
         },
         {
-            "name": "V40 D2 Momentum Aut.",
+            "name": "D2 Momentum Aut.",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-d2-momentum-aut/datos",
@@ -1489,7 +1490,7 @@
             ]
         },
         {
-            "name": "V40 T4 Kinetic",
+            "name": "T4 Kinetic",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-t4-kinetic4/datos",
@@ -1517,7 +1518,7 @@
             ]
         },
         {
-            "name": "V40 D3 Momentum",
+            "name": "D3 Momentum",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-d3-momentum5/datos",
@@ -1545,7 +1546,7 @@
             ]
         },
         {
-            "name": "V40 D2 R-Design Momentum",
+            "name": "D2 R-Design Momentum",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-momentum/v40-d2-r-design-momentum3/datos",
@@ -1573,7 +1574,7 @@
             ]
         },
         {
-            "name": "V40 D2 Summum",
+            "name": "D2 Summum",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-d2-summum2/datos",
@@ -1601,7 +1602,7 @@
             ]
         },
         {
-            "name": "V40 D2 Momentum Aut.",
+            "name": "D2 Momentum Aut.",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-d2-momentum-aut2/datos",
@@ -1629,7 +1630,7 @@
             ]
         },
         {
-            "name": "V40 D2 Summum",
+            "name": "D2 Summum",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-d2-summum5/datos",
@@ -1657,7 +1658,7 @@
             ]
         },
         {
-            "name": "V40 D3 Kinetic Aut.",
+            "name": "D3 Kinetic Aut.",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-d3-kinetic-geartronic3/datos",
@@ -1685,7 +1686,7 @@
             ]
         },
         {
-            "name": "V40 D3 R-Design",
+            "name": "D3 R-Design",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design/v40-d3-r-design/datos",
@@ -1713,7 +1714,7 @@
             ]
         },
         {
-            "name": "V40 D3 Kinetic Aut.",
+            "name": "D3 Kinetic Aut.",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-d3-kinetic-aut/datos",
@@ -1741,7 +1742,7 @@
             ]
         },
         {
-            "name": "V40 D4 Kinetic",
+            "name": "D4 Kinetic",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-d4-kinetic5/datos",
@@ -1769,7 +1770,7 @@
             ]
         },
         {
-            "name": "V40 T4 Momentum",
+            "name": "T4 Momentum",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-t4-momentum2/datos",
@@ -1797,7 +1798,7 @@
             ]
         },
         {
-            "name": "V40 T4 Momentum",
+            "name": "T4 Momentum",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-t4-momentum/datos",
@@ -1825,7 +1826,7 @@
             ]
         },
         {
-            "name": "V40 D4 Momentum",
+            "name": "D4 Momentum",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-d4-momentum2/datos",
@@ -1853,7 +1854,7 @@
             ]
         },
         {
-            "name": "V40 D4 Momentum",
+            "name": "D4 Momentum",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-d4-momentum/datos",
@@ -1881,7 +1882,7 @@
             ]
         },
         {
-            "name": "V40 D2 R-Design Kinetic Powershift",
+            "name": "D2 R-Design Kinetic Powershift",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-kinetic/v40-d2-r-design-kinetic-powershift/datos",
@@ -1909,7 +1910,7 @@
             ]
         },
         {
-            "name": "V40 D3 Momentum Geartronic",
+            "name": "D3 Momentum Geartronic",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-d3-momentum-geartronic/datos",
@@ -1937,7 +1938,7 @@
             ]
         },
         {
-            "name": "V40 D3 R-Design Kinetic",
+            "name": "D3 R-Design Kinetic",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-kinetic/v40-d3-r-design-kinetic/datos",
@@ -1965,7 +1966,7 @@
             ]
         },
         {
-            "name": "V40 D3 Summum",
+            "name": "D3 Summum",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-d3-summum2/datos",
@@ -1993,7 +1994,7 @@
             ]
         },
         {
-            "name": "V40 D3 Summum",
+            "name": "D3 Summum",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-d3-summum/datos",
@@ -2021,7 +2022,7 @@
             ]
         },
         {
-            "name": "V40 D4 Kinetic Geartronic",
+            "name": "D4 Kinetic Geartronic",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-d4-kinetic-geartronic/datos",
@@ -2049,7 +2050,7 @@
             ]
         },
         {
-            "name": "V40 D2 R-Design Kinetic Aut.",
+            "name": "D2 R-Design Kinetic Aut.",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-kinetic/v40-d2-r-design-kinetic-aut/datos",
@@ -2077,7 +2078,7 @@
             ]
         },
         {
-            "name": "V40 D4 Momentum",
+            "name": "D4 Momentum",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-d4-momentum4/datos",
@@ -2105,7 +2106,7 @@
             ]
         },
         {
-            "name": "V40 T4 Momentum",
+            "name": "T4 Momentum",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-t4-momentum3/datos",
@@ -2133,7 +2134,7 @@
             ]
         },
         {
-            "name": "V40 D2 R-Design Momentum Powershift",
+            "name": "D2 R-Design Momentum Powershift",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-momentum/v40-d2-r-design-momentum-powershift/datos",
@@ -2161,7 +2162,7 @@
             ]
         },
         {
-            "name": "V40 D4 Momentum",
+            "name": "D4 Momentum",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-d4-momentum3/datos",
@@ -2189,7 +2190,7 @@
             ]
         },
         {
-            "name": "V40 D2 Summum Powershift",
+            "name": "D2 Summum Powershift",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-d2-summum-powershift/datos",
@@ -2217,7 +2218,7 @@
             ]
         },
         {
-            "name": "V40 T4 Momentum",
+            "name": "T4 Momentum",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-t4-momentum4/datos",
@@ -2245,7 +2246,7 @@
             ]
         },
         {
-            "name": "V40 D3 Momentum Geartronic",
+            "name": "D3 Momentum Geartronic",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-d3-momentum-geartronic2/datos",
@@ -2273,7 +2274,7 @@
             ]
         },
         {
-            "name": "V40 D3 R-Design Momentum",
+            "name": "D3 R-Design Momentum",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-momentum/v40-d3-r-design-momentum/datos",
@@ -2301,7 +2302,7 @@
             ]
         },
         {
-            "name": "V40 T2 R-Design Momentum Aut.",
+            "name": "T2 R-Design Momentum Aut.",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-momentum/v40-t2-r-design-momentum-aut/datos",
@@ -2329,7 +2330,7 @@
             ]
         },
         {
-            "name": "V40 D3 Summum",
+            "name": "D3 Summum",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-d3-summum4/datos",
@@ -2357,7 +2358,7 @@
             ]
         },
         {
-            "name": "V40 T4 Kinetic Powershift",
+            "name": "T4 Kinetic Powershift",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-t4-kinetic-geartronic/datos",
@@ -2385,7 +2386,7 @@
             ]
         },
         {
-            "name": "V40 D3 Summum",
+            "name": "D3 Summum",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-d3-summum3/datos",
@@ -2413,7 +2414,7 @@
             ]
         },
         {
-            "name": "V40 D4 Kinetic Geartronic",
+            "name": "D4 Kinetic Geartronic",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-d4-kinetic-geartronic2/datos",
@@ -2441,7 +2442,7 @@
             ]
         },
         {
-            "name": "V40 D3 Momentum Aut.",
+            "name": "D3 Momentum Aut.",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-d3-momentum-geartronic3/datos",
@@ -2469,7 +2470,7 @@
             ]
         },
         {
-            "name": "V40 D2 R-Design Momentum Aut.",
+            "name": "D2 R-Design Momentum Aut.",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-momentum/v40-d2-r-design-momentum-aut/datos",
@@ -2497,7 +2498,7 @@
             ]
         },
         {
-            "name": "V40 T2 Summum Aut.",
+            "name": "T2 Summum Aut.",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-t2-summum-aut/datos",
@@ -2525,7 +2526,7 @@
             ]
         },
         {
-            "name": "V40 D4 Kinetic Aut.",
+            "name": "D4 Kinetic Aut.",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-d4-kinetic-geartronic3/datos",
@@ -2553,7 +2554,7 @@
             ]
         },
         {
-            "name": "V40 D2 Summum Aut.",
+            "name": "D2 Summum Aut.",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-d2-summum-aut/datos",
@@ -2581,7 +2582,7 @@
             ]
         },
         {
-            "name": "V40 D3 R-Design Momentum",
+            "name": "D3 R-Design Momentum",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-momentum/v40-d3-r-design-momentum2/datos",
@@ -2609,7 +2610,7 @@
             ]
         },
         {
-            "name": "V40 D3 Momentum Aut.",
+            "name": "D3 Momentum Aut.",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-d3-momentum-aut/datos",
@@ -2637,7 +2638,7 @@
             ]
         },
         {
-            "name": "V40 T4 Kinetic Aut.",
+            "name": "T4 Kinetic Aut.",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-t4-kinetic-powershift/datos",
@@ -2665,7 +2666,7 @@
             ]
         },
         {
-            "name": "V40 D3 Summum",
+            "name": "D3 Summum",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-d3-summum5/datos",
@@ -2693,7 +2694,7 @@
             ]
         },
         {
-            "name": "V40 D2 R-Design Momentum Aut.",
+            "name": "D2 R-Design Momentum Aut.",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-momentum/v40-d2-r-design-momentum-aut2/datos",
@@ -2721,7 +2722,7 @@
             ]
         },
         {
-            "name": "V40 D2 Summum Aut.",
+            "name": "D2 Summum Aut.",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-d2-summum-aut2/datos",
@@ -2749,7 +2750,7 @@
             ]
         },
         {
-            "name": "V40 T4 R-Design",
+            "name": "T4 R-Design",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design/v40-t4-r-design/datos",
@@ -2777,7 +2778,7 @@
             ]
         },
         {
-            "name": "V40 D4 R-Design Kinetic",
+            "name": "D4 R-Design Kinetic",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-kinetic/v40-d4-r-design-kinetic/datos",
@@ -2805,7 +2806,7 @@
             ]
         },
         {
-            "name": "V40 D4 R-Design",
+            "name": "D4 R-Design",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design/v40-d4-r-design/datos",
@@ -2833,7 +2834,7 @@
             ]
         },
         {
-            "name": "V40 D4 Momentum",
+            "name": "D4 Momentum",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-d4-momentum5/datos",
@@ -2861,7 +2862,7 @@
             ]
         },
         {
-            "name": "V40 D3 R-Design Geartronic",
+            "name": "D3 R-Design Geartronic",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design/v40-d3-r-design-geartronic/datos",
@@ -2889,7 +2890,7 @@
             ]
         },
         {
-            "name": "V40 D4 Kinetic Aut.",
+            "name": "D4 Kinetic Aut.",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-d4-kinetic-aut/datos",
@@ -2917,7 +2918,7 @@
             ]
         },
         {
-            "name": "V40 T4 R-Design Kinetic",
+            "name": "T4 R-Design Kinetic",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-kinetic/v40-t4-r-design-kinetic/datos",
@@ -2945,7 +2946,7 @@
             ]
         },
         {
-            "name": "V40 D4 Momentum Geartronic",
+            "name": "D4 Momentum Geartronic",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-d4-momentum-geartronic/datos",
@@ -2973,7 +2974,7 @@
             ]
         },
         {
-            "name": "V40 D4 Summum",
+            "name": "D4 Summum",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-d4-summum2/datos",
@@ -3001,7 +3002,7 @@
             ]
         },
         {
-            "name": "V40 D4 Summum",
+            "name": "D4 Summum",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-d4-summum/datos",
@@ -3029,7 +3030,7 @@
             ]
         },
         {
-            "name": "V40 D3 R-Design Kinetic Aut.",
+            "name": "D3 R-Design Kinetic Aut.",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-kinetic/v40-d3-r-design-kinetic-geartronic/datos",
@@ -3057,7 +3058,7 @@
             ]
         },
         {
-            "name": "V40 T4 Summum",
+            "name": "T4 Summum",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-t4-summum2/datos",
@@ -3085,7 +3086,7 @@
             ]
         },
         {
-            "name": "V40 T4 Summum",
+            "name": "T4 Summum",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-t4-summum/datos",
@@ -3113,7 +3114,7 @@
             ]
         },
         {
-            "name": "V40 D4 R-Design Momentum",
+            "name": "D4 R-Design Momentum",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-momentum/v40-d4-r-design-momentum/datos",
@@ -3141,7 +3142,7 @@
             ]
         },
         {
-            "name": "V40 D3 Summum Geartronic",
+            "name": "D3 Summum Geartronic",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-d3-summum-geartronic/datos",
@@ -3169,7 +3170,7 @@
             ]
         },
         {
-            "name": "V40 D4 Summum",
+            "name": "D4 Summum",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-d4-summum4/datos",
@@ -3197,7 +3198,7 @@
             ]
         },
         {
-            "name": "V40 D4 R-Design Kinetic",
+            "name": "D4 R-Design Kinetic",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-kinetic/v40-d4-r-design-kinetic2/datos",
@@ -3225,7 +3226,7 @@
             ]
         },
         {
-            "name": "V40 D4 Momentum Aut.",
+            "name": "D4 Momentum Aut.",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-d4-momentum-geartronic3/datos",
@@ -3253,7 +3254,7 @@
             ]
         },
         {
-            "name": "V40 T4 R-Design Momentum",
+            "name": "T4 R-Design Momentum",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-momentum/v40-t4-r-design-momentum/datos",
@@ -3281,7 +3282,7 @@
             ]
         },
         {
-            "name": "V40 T4 Momentum Powershift",
+            "name": "T4 Momentum Powershift",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-t4-momentum-geartronic/datos",
@@ -3309,7 +3310,7 @@
             ]
         },
         {
-            "name": "V40 T4 Summum",
+            "name": "T4 Summum",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-t4-summum4/datos",
@@ -3337,7 +3338,7 @@
             ]
         },
         {
-            "name": "V40 D4 Momentum Geartronic",
+            "name": "D4 Momentum Geartronic",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-d4-momentum-geartronic2/datos",
@@ -3365,7 +3366,7 @@
             ]
         },
         {
-            "name": "V40 T4 Momentum Aut.",
+            "name": "T4 Momentum Aut.",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-t4-momentum-powershift/datos",
@@ -3393,7 +3394,7 @@
             ]
         },
         {
-            "name": "V40 D3 R-Design Momentum Aut.",
+            "name": "D3 R-Design Momentum Aut.",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-momentum/v40-d3-r-design-momentum-geartronic/datos",
@@ -3421,7 +3422,7 @@
             ]
         },
         {
-            "name": "V40 D3 Summum Aut.",
+            "name": "D3 Summum Aut.",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-d3-summum-geartronic3/datos",
@@ -3449,7 +3450,7 @@
             ]
         },
         {
-            "name": "V40 D4 Summum",
+            "name": "D4 Summum",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-d4-summum3/datos",
@@ -3477,7 +3478,7 @@
             ]
         },
         {
-            "name": "V40 T4 Summum",
+            "name": "T4 Summum",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-t4-summum3/datos",
@@ -3505,7 +3506,7 @@
             ]
         },
         {
-            "name": "V40 D3 R-Design Momentum Aut.",
+            "name": "D3 R-Design Momentum Aut.",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-momentum/v40-d3-r-design-momentum-aut/datos",
@@ -3533,7 +3534,7 @@
             ]
         },
         {
-            "name": "V40 D3 Summum Geartronic",
+            "name": "D3 Summum Geartronic",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-d3-summum-geartronic2/datos",
@@ -3561,7 +3562,7 @@
             ]
         },
         {
-            "name": "V40 D3 Summum Aut.",
+            "name": "D3 Summum Aut.",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-d3-summum-aut/datos",
@@ -3589,7 +3590,7 @@
             ]
         },
         {
-            "name": "V40 D4 R-Design Momentum",
+            "name": "D4 R-Design Momentum",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-momentum/v40-d4-r-design-momentum2/datos",
@@ -3617,7 +3618,7 @@
             ]
         },
         {
-            "name": "V40 T4 R-Design Powershift",
+            "name": "T4 R-Design Powershift",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design/v40-t4-r-design-geartronic/datos",
@@ -3645,7 +3646,7 @@
             ]
         },
         {
-            "name": "V40 D4 R-Design Kinetic Aut.",
+            "name": "D4 R-Design Kinetic Aut.",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-kinetic/v40-d4-r-design-kinetic-geartronic/datos",
@@ -3673,7 +3674,7 @@
             ]
         },
         {
-            "name": "V40 D4 Summum",
+            "name": "D4 Summum",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-d4-summum5/datos",
@@ -3701,7 +3702,7 @@
             ]
         },
         {
-            "name": "V40 D4 Momentum Aut.",
+            "name": "D4 Momentum Aut.",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-d4-momentum-aut/datos",
@@ -3729,7 +3730,7 @@
             ]
         },
         {
-            "name": "V40 D4 R-Design Geartronic",
+            "name": "D4 R-Design Geartronic",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design/v40-d4-r-design-geartronic/datos",
@@ -3757,7 +3758,7 @@
             ]
         },
         {
-            "name": "V40 T4 R-Design Kinetic Aut.",
+            "name": "T4 R-Design Kinetic Aut.",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-kinetic/v40-t4-r-design-kinetic-powershift/datos",
@@ -3785,7 +3786,7 @@
             ]
         },
         {
-            "name": "V40 D4 Summum Geartronic",
+            "name": "D4 Summum Geartronic",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-d4-summum-geartronic/datos",
@@ -3813,7 +3814,7 @@
             ]
         },
         {
-            "name": "V40 D4 R-Design Momentum Aut.",
+            "name": "D4 R-Design Momentum Aut.",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-momentum/v40-d4-r-design-momentum-geartronic/datos",
@@ -3841,7 +3842,7 @@
             ]
         },
         {
-            "name": "V40 D4 Summum Aut.",
+            "name": "D4 Summum Aut.",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-d4-summum-geartronic3/datos",
@@ -3869,7 +3870,7 @@
             ]
         },
         {
-            "name": "V40 D4 R-Design Kinetic Aut.",
+            "name": "D4 R-Design Kinetic Aut.",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-kinetic/v40-d4-r-design-kinetic-aut/datos",
@@ -3897,7 +3898,7 @@
             ]
         },
         {
-            "name": "V40 T4 R-Design Momentum Aut.",
+            "name": "T4 R-Design Momentum Aut.",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-momentum/v40-t4-r-design-momentum-powershift/datos",
@@ -3925,7 +3926,7 @@
             ]
         },
         {
-            "name": "V40 T4 Summum Aut.",
+            "name": "T4 Summum Aut.",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-t4-summum-powershift/datos",
@@ -3953,7 +3954,7 @@
             ]
         },
         {
-            "name": "V40 T4 Summum Powershift",
+            "name": "T4 Summum Powershift",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-t4-summum-geartronic/datos",
@@ -3981,7 +3982,7 @@
             ]
         },
         {
-            "name": "V40 D4 Summum Geartronic",
+            "name": "D4 Summum Geartronic",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-d4-summum-geartronic2/datos",
@@ -4009,7 +4010,7 @@
             ]
         },
         {
-            "name": "V40 D4 R-Design Momentum Aut.",
+            "name": "D4 R-Design Momentum Aut.",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-momentum/v40-d4-r-design-momentum-aut/datos",
@@ -4037,7 +4038,7 @@
             ]
         },
         {
-            "name": "V40 D4 Summum Aut.",
+            "name": "D4 Summum Aut.",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-d4-summum-aut/datos",
@@ -4065,7 +4066,7 @@
             ]
         },
         {
-            "name": "V40 T5 Kinetic Aut.",
+            "name": "T5 Kinetic Aut.",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-t5-kinetic-geartronic2/datos",
@@ -4093,7 +4094,7 @@
             ]
         },
         {
-            "name": "V40 T5 Kinetic Geartronic",
+            "name": "T5 Kinetic Geartronic",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/kinetic/v40-t5-kinetic-geartronic/datos",
@@ -4121,7 +4122,7 @@
             ]
         },
         {
-            "name": "V40 T5 Momentum Aut.",
+            "name": "T5 Momentum Aut.",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-t5-momentum-geartronic2/datos",
@@ -4149,7 +4150,7 @@
             ]
         },
         {
-            "name": "V40 T5 Momentum Aut.",
+            "name": "T5 Momentum Aut.",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-t5-momentum-aut/datos",
@@ -4177,7 +4178,7 @@
             ]
         },
         {
-            "name": "V40 T5 Momentum Geartronic",
+            "name": "T5 Momentum Geartronic",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/momentum/v40-t5-momentum-geartronic/datos",
@@ -4205,7 +4206,7 @@
             ]
         },
         {
-            "name": "V40 T5 R-Design Geartronic",
+            "name": "T5 R-Design Geartronic",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design/v40-t5-r-design-geartronic/datos",
@@ -4233,7 +4234,7 @@
             ]
         },
         {
-            "name": "V40 T5 R-Design Kinetic Aut.",
+            "name": "T5 R-Design Kinetic Aut.",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-kinetic/v40-t5-r-design-kinetic-geartronic/datos",
@@ -4261,7 +4262,7 @@
             ]
         },
         {
-            "name": "V40 T5 Summum Aut.",
+            "name": "T5 Summum Aut.",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-t5-summum-geartronic2/datos",
@@ -4289,7 +4290,7 @@
             ]
         },
         {
-            "name": "V40 T5 R-Design Momentum Aut.",
+            "name": "T5 R-Design Momentum Aut.",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-momentum/v40-t5-r-design-momentum-aut/datos",
@@ -4317,7 +4318,7 @@
             ]
         },
         {
-            "name": "V40 T5 R-Design Momentum Aut.",
+            "name": "T5 R-Design Momentum Aut.",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/r-design-momentum/v40-t5-r-design-momentum-geartronic/datos",
@@ -4345,7 +4346,7 @@
             ]
         },
         {
-            "name": "V40 T5 Summum Geartronic",
+            "name": "T5 Summum Geartronic",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-t5-summum-geartronic/datos",
@@ -4373,7 +4374,7 @@
             ]
         },
         {
-            "name": "V40 T5 Summum Aut.",
+            "name": "T5 Summum Aut.",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/v40/2012/estandar/summum/v40-t5-summum-aut/datos",

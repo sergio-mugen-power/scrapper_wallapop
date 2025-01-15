@@ -1,11 +1,12 @@
 {
+    "brand": "Chevrolet",
     "name": "Matiz",
     "year": "2005",
     "url": "https://www.km77.com/coches/chevrolet/matiz/2005/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Matiz 0.8 City",
+            "name": "0.8 City",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/chevrolet/matiz/2005/estandar/city/matiz-08-city/datos",
@@ -142,7 +143,7 @@
             ]
         },
         {
-            "name": "Matiz 0.8 S",
+            "name": "0.8 S",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/chevrolet/matiz/2005/estandar/s/matiz-08-s/datos",
@@ -272,7 +273,7 @@
             ]
         },
         {
-            "name": "Matiz 1.0 Smile",
+            "name": "1.0 Smile",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/chevrolet/matiz/2005/estandar/smile/matiz-10-smile/datos",
@@ -412,7 +413,7 @@
             ]
         },
         {
-            "name": "Matiz 1.0 S",
+            "name": "1.0 S",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/chevrolet/matiz/2005/estandar/s/matiz-10-s/datos",
@@ -542,7 +543,7 @@
             ]
         },
         {
-            "name": "Matiz 1.0 SE",
+            "name": "1.0 SE",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/chevrolet/matiz/2005/estandar/se/matiz-10-se/datos",
@@ -678,7 +679,7 @@
             ]
         },
         {
-            "name": "Matiz 1.0 SX",
+            "name": "1.0 SX",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/chevrolet/matiz/2005/estandar/sx/matiz-10-sx/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Jeep",
     "name": "Grand Cherokee",
     "year": "1999",
     "url": "https://www.km77.com/coches/jeep/grand-cherokee/1999/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Grand Cherokee 3.1 TD Laredo",
+            "name": "3.1 TD Laredo",
             "start_year": "1999",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/1999/estandar/laredo/grand-cherokee-31-td-laredo/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee Laredo 4.0",
+            "name": "Laredo 4.0",
             "start_year": "1999",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/1999/estandar/laredo/grand-cherokee-laredo-40/datos",
@@ -323,7 +324,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee Laredo 2.7 CRD",
+            "name": "Laredo 2.7 CRD",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/1999/estandar/laredo/grand-cherokee-laredo-27-crd/datos",
@@ -501,7 +502,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee Vermont 4.0",
+            "name": "Vermont 4.0",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/1999/estandar/vermont/grand-cherokee-vermont-40/datos",
@@ -681,7 +682,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee Vermont 2.7 CRD",
+            "name": "Vermont 2.7 CRD",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/1999/estandar/vermont/grand-cherokee-vermont-27-crd/datos",
@@ -861,7 +862,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee 3.1 TD Limited",
+            "name": "3.1 TD Limited",
             "start_year": "1999",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/1999/estandar/limited/grand-cherokee-31-td-limited/datos",
@@ -1004,7 +1005,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee Limited 2.7 CRD",
+            "name": "Limited 2.7 CRD",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/1999/estandar/limited/grand-cherokee-limited-27-crd/datos",
@@ -1192,7 +1193,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee Limited 4.0",
+            "name": "Limited 4.0",
             "start_year": "1999",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/1999/estandar/limited/grand-cherokee-limited-40/datos",
@@ -1377,7 +1378,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee 4.7 Limited",
+            "name": "4.7 Limited",
             "start_year": "1999",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/1999/estandar/limited/grand-cherokee-47-limited/datos",
@@ -1520,7 +1521,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee Overland 2.7 CRD",
+            "name": "Overland 2.7 CRD",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/1999/estandar/overland/grand-cherokee-overland-27-crd/datos",
@@ -1711,7 +1712,7 @@
             ]
         },
         {
-            "name": "Grand Cherokee Overland 4.7 V8",
+            "name": "Overland 4.7 V8",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/jeep/grand-cherokee/1999/estandar/overland/grand-cherokee-overland-47-v8/datos",

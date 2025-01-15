@@ -1,11 +1,12 @@
 {
+    "brand": "Hummer",
     "name": "H2",
     "year": "2004",
     "url": "https://www.km77.com/coches/hummer/h2/2004/estandar",
     "price": "",
     "versions": [
         {
-            "name": "H2 SUV 6.0 V8 Adventure Aut.",
+            "name": "SUV 6.0 V8 Adventure Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/hummer/h2/2004/estandar/adventure/h2-suv-60-v8-adventure-aut/datos",
@@ -16,7 +17,7 @@
             "maletero": "623"
         },
         {
-            "name": "H2 SUV 6.0 V8 Adventure Aut.",
+            "name": "SUV 6.0 V8 Adventure Aut.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/hummer/h2/2004/estandar/adventure/h2-suv-60-v8-adventure-aut2/datos",
@@ -27,7 +28,7 @@
             "maletero": "623"
         },
         {
-            "name": "H2 SUV 6.0 V8 Luxury Aut.",
+            "name": "SUV 6.0 V8 Luxury Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/hummer/h2/2004/estandar/luxury/h2-suv-60-v8-luxury-aut/datos",
@@ -38,7 +39,7 @@
             "maletero": "623"
         },
         {
-            "name": "H2 SUV 6.0 V8 Luxury Aut.",
+            "name": "SUV 6.0 V8 Luxury Aut.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/hummer/h2/2004/estandar/luxury/h2-suv-60-v8-luxury-aut2/datos",
@@ -49,7 +50,7 @@
             "maletero": "623"
         },
         {
-            "name": "H2 SUV",
+            "name": "SUV",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/hummer/h2/2004/estandar/estandar/h2-suv2/datos",
@@ -60,7 +61,7 @@
             "maletero": "623"
         },
         {
-            "name": "H2 Classic",
+            "name": "Classic",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/hummer/h2/2004/estandar/classic/h2-classic/datos",
@@ -71,7 +72,7 @@
             "maletero": "623"
         },
         {
-            "name": "H2 Luxury",
+            "name": "Luxury",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/hummer/h2/2004/estandar/luxury/h2-luxury/datos",
@@ -82,7 +83,7 @@
             "maletero": "623"
         },
         {
-            "name": "H2 Supercharger Classic",
+            "name": "Supercharger Classic",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/hummer/h2/2004/estandar/classic/h2-supercharger-classic/datos",
@@ -93,7 +94,7 @@
             "maletero": "623"
         },
         {
-            "name": "H2 Supercharger Luxury",
+            "name": "Supercharger Luxury",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/hummer/h2/2004/estandar/luxury/h2-supercharger-luxury/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Ford",
     "name": "Mustang Convertible",
     "year": "2015",
     "url": "https://www.km77.com/coches/ford/mustang/2015/convertible",
     "price": "",
     "versions": [
         {
-            "name": "Mustang Convertible 2.3 EcoBoost 233 kW (317 CV)",
+            "name": "2.3 EcoBoost 233 kW (317 CV)",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/mustang/2015/convertible/estandar/mustang-descapotable-23-ecoboost/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "Mustang Convertible 2.3 EcoBoost 233 kW (317 CV) Aut.",
+            "name": "2.3 EcoBoost 233 kW (317 CV) Aut.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/mustang/2015/convertible/estandar/mustang-descapotable-23-ecoboost-aut/datos",
@@ -396,7 +397,7 @@
             ]
         },
         {
-            "name": "Mustang Convertible GT 5.0 Ti-VCT V8 310 kW (421 CV)",
+            "name": "GT 5.0 Ti-VCT V8 310 kW (421 CV)",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/mustang/2015/convertible/gt/mustang-descapotable-50-ti-vct-v8/datos",
@@ -593,7 +594,7 @@
             ]
         },
         {
-            "name": "Mustang Convertible GT 5.0 Ti-VCT V8 310 kW (421 CV) Aut.",
+            "name": "GT 5.0 Ti-VCT V8 310 kW (421 CV) Aut.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/mustang/2015/convertible/gt/mustang-convertible-50-ti-vct-v8-418-cv-aut/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "X5",
     "year": "2004",
     "url": "https://www.km77.com/coches/bmw/x5/2004/estandar",
     "price": "",
     "versions": [
         {
-            "name": "X5 3.0i",
+            "name": "3.0i",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/bmw/x5/2004/estandar/estandar/x5-30i/datos",
@@ -252,7 +253,7 @@
             ]
         },
         {
-            "name": "X5 3.0i Aut.",
+            "name": "3.0i Aut.",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/bmw/x5/2004/estandar/estandar/x5-30i-aut/datos",
@@ -504,7 +505,7 @@
             ]
         },
         {
-            "name": "X5 3.0d Aut.",
+            "name": "3.0d Aut.",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/bmw/x5/2004/estandar/estandar/x5-30d-aut/datos",
@@ -757,7 +758,7 @@
             ]
         },
         {
-            "name": "X5 4.4i Aut.",
+            "name": "4.4i Aut.",
             "start_year": "2003",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/bmw/x5/2004/estandar/estandar/x5-44i-aut/datos",
@@ -1007,7 +1008,7 @@
             ]
         },
         {
-            "name": "X5 4.8is Aut.",
+            "name": "4.8is Aut.",
             "start_year": "2004",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/bmw/x5/2004/estandar/estandar/x5-48is-aut/datos",

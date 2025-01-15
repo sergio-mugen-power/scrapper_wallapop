@@ -1,11 +1,12 @@
 {
+    "brand": "Volvo",
     "name": "XC90",
     "year": "2025",
     "url": "https://www.km77.com/coches/volvo/xc90/2025/estandar",
     "price": "Desde 81.200 €",
     "versions": [
         {
-            "name": "XC90 B5 AWD Core (09/2024 - )",
+            "name": "B5 AWD Core (09/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/xc90/2025/estandar/estandar/xc90-b5-awd/datos",
@@ -28,7 +29,7 @@
             ]
         },
         {
-            "name": "XC90 B5 AWD Plus (09/2024 - )",
+            "name": "B5 AWD Plus (09/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/xc90/2025/estandar/estandar/xc90-b5-awd-plus/datos",
@@ -51,7 +52,7 @@
             ]
         },
         {
-            "name": "XC90 T8 AWD Core (09/2024 - )",
+            "name": "T8 AWD Core (09/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/xc90/2025/estandar/phev/xc90-t8-awd/datos",
@@ -75,7 +76,7 @@
             ]
         },
         {
-            "name": "XC90 B5 AWD Ultra (09/2024 - )",
+            "name": "B5 AWD Ultra (09/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/xc90/2025/estandar/estandar/xc90-b5-awd-ultra/datos",
@@ -98,7 +99,7 @@
             ]
         },
         {
-            "name": "XC90 T8 AWD Plus (09/2024 - )",
+            "name": "T8 AWD Plus (09/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/xc90/2025/estandar/phev/xc90-t8-awd-plus/datos",
@@ -122,7 +123,7 @@
             ]
         },
         {
-            "name": "XC90 T8 AWD Ultra (09/2024 - )",
+            "name": "T8 AWD Ultra (09/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volvo/xc90/2025/estandar/phev/xc90-t8-awd-ultra/datos",
@@ -146,7 +147,7 @@
             ]
         },
         {
-            "name": "XC90 B6 AWD ( - )",
+            "name": "B6 AWD ( - )",
             "start_year": "Desconocido",
             "end_year": "Desconocido",
             "url": "https://www.km77.com/coches/volvo/xc90/2025/estandar/estandar/xc90-b6-awd/datos",

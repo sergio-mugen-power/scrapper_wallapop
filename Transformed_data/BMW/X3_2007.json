@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "X3",
     "year": "2007",
     "url": "https://www.km77.com/coches/bmw/x3/2007/estandar",
     "price": "Desde 63.100 €",
     "versions": [
         {
-            "name": "X3 xDrive18d",
+            "name": "xDrive18d",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-xdrive18d/datos",
@@ -259,7 +260,7 @@
             ]
         },
         {
-            "name": "X3 xDrive18d",
+            "name": "xDrive18d",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-xdrive18d2/datos",
@@ -513,7 +514,7 @@
             ]
         },
         {
-            "name": "X3 2.0i",
+            "name": "2.0i",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-20i/datos",
@@ -750,7 +751,7 @@
             ]
         },
         {
-            "name": "X3 2.0d",
+            "name": "2.0d",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-20d/datos",
@@ -988,7 +989,7 @@
             ]
         },
         {
-            "name": "X3 2.0i",
+            "name": "2.0i",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-20i2/datos",
@@ -1226,7 +1227,7 @@
             ]
         },
         {
-            "name": "X3 2.0d",
+            "name": "2.0d",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-20d2/datos",
@@ -1463,7 +1464,7 @@
             ]
         },
         {
-            "name": "X3 2.0i",
+            "name": "2.0i",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-20i3/datos",
@@ -1700,7 +1701,7 @@
             ]
         },
         {
-            "name": "X3 2.0d",
+            "name": "2.0d",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-20d3/datos",
@@ -1937,7 +1938,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20i",
+            "name": "xDrive20i",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-xdrive20i/datos",
@@ -2190,7 +2191,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20i",
+            "name": "xDrive20i",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-xdrive20i2/datos",
@@ -2443,7 +2444,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20d",
+            "name": "xDrive20d",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-xdrive20d/datos",
@@ -2697,7 +2698,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20d",
+            "name": "xDrive20d",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-xdrive20d2/datos",
@@ -2951,7 +2952,7 @@
             ]
         },
         {
-            "name": "X3 2.0d Aut.",
+            "name": "2.0d Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-20d-aut/datos",
@@ -3188,7 +3189,7 @@
             ]
         },
         {
-            "name": "X3 2.0d Aut.",
+            "name": "2.0d Aut.",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-20d-aut2/datos",
@@ -3425,7 +3426,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20d Aut.",
+            "name": "xDrive20d Aut.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-xdrive20d-aut/datos",
@@ -3679,7 +3680,7 @@
             ]
         },
         {
-            "name": "X3 xDrive20d Aut.",
+            "name": "xDrive20d Aut.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-xdrive20d-aut2/datos",
@@ -3933,7 +3934,7 @@
             ]
         },
         {
-            "name": "X3 2.5si",
+            "name": "2.5si",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-25si/datos",
@@ -4171,7 +4172,7 @@
             ]
         },
         {
-            "name": "X3 2.5si",
+            "name": "2.5si",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-25si2/datos",
@@ -4407,7 +4408,7 @@
             ]
         },
         {
-            "name": "X3 2.5si",
+            "name": "2.5si",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-25si3/datos",
@@ -4641,7 +4642,7 @@
             ]
         },
         {
-            "name": "X3 3.0si",
+            "name": "3.0si",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-30si/datos",
@@ -4882,7 +4883,7 @@
             ]
         },
         {
-            "name": "X3 3.0d",
+            "name": "3.0d",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-30d3/datos",
@@ -5117,7 +5118,7 @@
             ]
         },
         {
-            "name": "X3 3.0d",
+            "name": "3.0d",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-30d/datos",
@@ -5361,7 +5362,7 @@
             ]
         },
         {
-            "name": "X3 2.5si Aut.",
+            "name": "2.5si Aut.",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-25si-aut/datos",
@@ -5600,7 +5601,7 @@
             ]
         },
         {
-            "name": "X3 3.0si",
+            "name": "3.0si",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-30si2/datos",
@@ -5835,7 +5836,7 @@
             ]
         },
         {
-            "name": "X3 3.0d",
+            "name": "3.0d",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-30d2/datos",
@@ -6073,7 +6074,7 @@
             ]
         },
         {
-            "name": "X3 xDrive25i",
+            "name": "xDrive25i",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-xdrive25i/datos",
@@ -6324,7 +6325,7 @@
             ]
         },
         {
-            "name": "X3 2.5si Aut.",
+            "name": "2.5si Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-25si-aut2/datos",
@@ -6561,7 +6562,7 @@
             ]
         },
         {
-            "name": "X3 xDrive30d",
+            "name": "xDrive30d",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-xdrive30d/datos",
@@ -6816,7 +6817,7 @@
             ]
         },
         {
-            "name": "X3 xDrive25i",
+            "name": "xDrive25i",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-xdrive25i2/datos",
@@ -7067,7 +7068,7 @@
             ]
         },
         {
-            "name": "X3 3.0si",
+            "name": "3.0si",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-30si3/datos",
@@ -7300,7 +7301,7 @@
             ]
         },
         {
-            "name": "X3 2.5si Aut.",
+            "name": "2.5si Aut.",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-25si-aut3/datos",
@@ -7535,7 +7536,7 @@
             ]
         },
         {
-            "name": "X3 xDrive30d",
+            "name": "xDrive30d",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-xdrive30d2/datos",
@@ -7790,7 +7791,7 @@
             ]
         },
         {
-            "name": "X3 3.0si Aut.",
+            "name": "3.0si Aut.",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-30si-aut/datos",
@@ -8032,7 +8033,7 @@
             ]
         },
         {
-            "name": "X3 3.0d Aut.",
+            "name": "3.0d Aut.",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-30d-aut/datos",
@@ -8275,7 +8276,7 @@
             ]
         },
         {
-            "name": "X3 xDrive30i",
+            "name": "xDrive30i",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-xdrive30i/datos",
@@ -8528,7 +8529,7 @@
             ]
         },
         {
-            "name": "X3 3.0si Aut.",
+            "name": "3.0si Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-30si-aut2/datos",
@@ -8764,7 +8765,7 @@
             ]
         },
         {
-            "name": "X3 3.0d Aut.",
+            "name": "3.0d Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-30d-aut2/datos",
@@ -9001,7 +9002,7 @@
             ]
         },
         {
-            "name": "X3 xDrive25i Aut.",
+            "name": "xDrive25i Aut.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-xdrive25i-aut/datos",
@@ -9253,7 +9254,7 @@
             ]
         },
         {
-            "name": "X3 xDrive30i",
+            "name": "xDrive30i",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-xdrive30i2/datos",
@@ -9506,7 +9507,7 @@
             ]
         },
         {
-            "name": "X3 xDrive25i Aut.",
+            "name": "xDrive25i Aut.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-xdrive25i-aut2/datos",
@@ -9758,7 +9759,7 @@
             ]
         },
         {
-            "name": "X3 3.0si Aut.",
+            "name": "3.0si Aut.",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-30si-aut3/datos",
@@ -9992,7 +9993,7 @@
             ]
         },
         {
-            "name": "X3 3.0d Aut.",
+            "name": "3.0d Aut.",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-30d-aut3/datos",
@@ -10227,7 +10228,7 @@
             ]
         },
         {
-            "name": "X3 xDrive30i Aut.",
+            "name": "xDrive30i Aut.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-xdrive30i-aut/datos",
@@ -10481,7 +10482,7 @@
             ]
         },
         {
-            "name": "X3 xDrive30d Aut.",
+            "name": "xDrive30d Aut.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-xdrive30d-aut/datos",
@@ -10736,7 +10737,7 @@
             ]
         },
         {
-            "name": "X3 xDrive30i Aut.",
+            "name": "xDrive30i Aut.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-xdrive30i-aut2/datos",
@@ -10990,7 +10991,7 @@
             ]
         },
         {
-            "name": "X3 3.0sd Aut.",
+            "name": "3.0sd Aut.",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-30sd-aut/datos",
@@ -11230,7 +11231,7 @@
             ]
         },
         {
-            "name": "X3 xDrive30d Aut.",
+            "name": "xDrive30d Aut.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-xdrive30d-aut2/datos",
@@ -11485,7 +11486,7 @@
             ]
         },
         {
-            "name": "X3 3.0sd",
+            "name": "3.0sd",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-30sd/datos",
@@ -11718,7 +11719,7 @@
             ]
         },
         {
-            "name": "X3 3.0sd",
+            "name": "3.0sd",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-30sd2/datos",
@@ -11949,7 +11950,7 @@
             ]
         },
         {
-            "name": "X3 xDrive35d",
+            "name": "xDrive35d",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-xdrive35d/datos",
@@ -12200,7 +12201,7 @@
             ]
         },
         {
-            "name": "X3 xDrive35d",
+            "name": "xDrive35d",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/bmw/x3/2007/estandar/estandar/x3-xdrive35d2/datos",

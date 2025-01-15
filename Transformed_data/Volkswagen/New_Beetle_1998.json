@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "New Beetle",
     "year": "1998",
     "url": "https://www.km77.com/coches/volkswagen/new-beetle/1998/estandar",
     "price": "",
     "versions": [
         {
-            "name": "New Beetle 1.6",
+            "name": "1.6",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/1998/estandar/estandar/new-beetle-16/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "New Beetle 1.6 Aut.",
+            "name": "1.6 Aut.",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/1998/estandar/estandar/new-beetle-16-aut/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "New Beetle 1.9 TDI 90 CV",
+            "name": "1.9 TDI 90 CV",
             "start_year": "1998",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/1998/estandar/estandar/new-beetle-19-tdi-90-cv/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "New Beetle 1.9 TDI 100 CV",
+            "name": "1.9 TDI 100 CV",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/1998/estandar/estandar/new-beetle-19-tdi-100-cv/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "New Beetle 2.0",
+            "name": "2.0",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/1998/estandar/estandar/new-beetle-20/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "New Beetle 1.9 TDI 90 CV Aut.",
+            "name": "1.9 TDI 90 CV Aut.",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/1998/estandar/estandar/new-beetle-19-tdi-90-cv-aut/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "New Beetle 1.8 Turbo",
+            "name": "1.8 Turbo",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/1998/estandar/estandar/new-beetle-18-turbo/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "New Beetle 2.0 Aut.",
+            "name": "2.0 Aut.",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/1998/estandar/estandar/new-beetle-20-aut/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "New Beetle 2.3 V5",
+            "name": "2.3 V5",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/1998/estandar/estandar/new-beetle-23-v5/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "New Beetle 1.8 Turbo Aut.",
+            "name": "1.8 Turbo Aut.",
             "start_year": "2001",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/new-beetle/1998/estandar/estandar/new-beetle-18-turbo-aut/datos",

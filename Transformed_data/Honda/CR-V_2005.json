@@ -1,11 +1,12 @@
 {
+    "brand": "Honda",
     "name": "CR-V",
     "year": "2005",
     "url": "https://www.km77.com/coches/honda/cr-v/2005/estandar",
     "price": "Desde 48.145 €",
     "versions": [
         {
-            "name": "CR-V 2.0 i-VTEC LS",
+            "name": "2.0 i-VTEC LS",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/honda/cr-v/2005/estandar/ls/cr-v-20-i-vtec-ls/datos",
@@ -184,7 +185,7 @@
             ]
         },
         {
-            "name": "CR-V 2.2 i-CTDi LS",
+            "name": "2.2 i-CTDi LS",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/honda/cr-v/2005/estandar/ls/cr-v-22-i-ctdi-ls/datos",
@@ -363,7 +364,7 @@
             ]
         },
         {
-            "name": "CR-V 2.0 i-VTEC ES",
+            "name": "2.0 i-VTEC ES",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/honda/cr-v/2005/estandar/es/cr-v-20-i-vtec-es/datos",
@@ -548,7 +549,7 @@
             ]
         },
         {
-            "name": "CR-V 2.0 i-VTEC ES Aut.",
+            "name": "2.0 i-VTEC ES Aut.",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/honda/cr-v/2005/estandar/es/cr-v-20-i-vtec-es-aut/datos",
@@ -733,7 +734,7 @@
             ]
         },
         {
-            "name": "CR-V 2.2 i-CTDi ES",
+            "name": "2.2 i-CTDi ES",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/honda/cr-v/2005/estandar/es/cr-v-22-i-ctdi-es/datos",
@@ -918,7 +919,7 @@
             ]
         },
         {
-            "name": "CR-V 2.0 i-VTEC EX",
+            "name": "2.0 i-VTEC EX",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/honda/cr-v/2005/estandar/ex/cr-v-20-i-vtec-ex/datos",
@@ -1105,7 +1106,7 @@
             ]
         },
         {
-            "name": "CR-V 2.0 i-VTEC EX Aut.",
+            "name": "2.0 i-VTEC EX Aut.",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/honda/cr-v/2005/estandar/ex/cr-v-20-i-vtec-ex-aut/datos",
@@ -1292,7 +1293,7 @@
             ]
         },
         {
-            "name": "CR-V 2.2 i-CTDi EX",
+            "name": "2.2 i-CTDi EX",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/honda/cr-v/2005/estandar/ex/cr-v-22-i-ctdi-ex/datos",

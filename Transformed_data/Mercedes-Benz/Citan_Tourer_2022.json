@@ -1,11 +1,12 @@
 {
+    "brand": "Mercedes-Benz",
     "name": "Citan Tourer",
     "year": "2022",
     "url": "https://www.km77.com/coches/mercedes/citan/2022/tourer",
     "price": "Desde 27.998 €",
     "versions": [
         {
-            "name": "Citan Tourer Base 110 75 kW (102 CV)\n(09/2021 - )",
+            "name": "Base 110 75 kW (102 CV)\n(09/2021 - )",
             "start_year": "2021",
             "end_year": "",
             "url": "https://www.km77.com/coches/mercedes/citan/2022/tourer/estandar/citan-tourer-110/datos",
@@ -239,7 +240,7 @@
             ]
         },
         {
-            "name": "Citan Tourer Base 113 96 kW (131 CV)\n(09/2021 - )",
+            "name": "Base 113 96 kW (131 CV)\n(09/2021 - )",
             "start_year": "2021",
             "end_year": "",
             "url": "https://www.km77.com/coches/mercedes/citan/2022/tourer/estandar/citan-tourer-113/datos",
@@ -473,7 +474,7 @@
             ]
         },
         {
-            "name": "Citan Tourer Base 110 CDI 70 kW (95 CV)\n(09/2021 - )",
+            "name": "Base 110 CDI 70 kW (95 CV)\n(09/2021 - )",
             "start_year": "2021",
             "end_year": "",
             "url": "https://www.km77.com/coches/mercedes/citan/2022/tourer/estandar/citan-tourer-110-cdi/datos",
@@ -707,7 +708,7 @@
             ]
         },
         {
-            "name": "Citan Tourer Base 112 CDI 85 kW (116 CV)\n(09/2022 - )",
+            "name": "Base 112 CDI 85 kW (116 CV)\n(09/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/mercedes/citan/2022/tourer/estandar/citan-tourer-base-112-cdi-85-kw-116cv/datos",
@@ -940,7 +941,7 @@
             ]
         },
         {
-            "name": "Citan Tourer Base 113 96 kW (131 CV) 7G-DCT\n(09/2022 - )",
+            "name": "Base 113 96 kW (131 CV) 7G-DCT\n(09/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/mercedes/citan/2022/tourer/estandar/citan-tourer-base-113-96-kw-131-cv-7g-dct/datos",
@@ -1173,7 +1174,7 @@
             ]
         },
         {
-            "name": "Citan Tourer Base 110 CDI 70 kW (95 CV) 7G-DCT\n(09/2022 - )",
+            "name": "Base 110 CDI 70 kW (95 CV) 7G-DCT\n(09/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/mercedes/citan/2022/tourer/estandar/citan-tourer-base-110-cdi-70-kw-95-cv-7g-dct/datos",
@@ -1406,7 +1407,7 @@
             ]
         },
         {
-            "name": "Citan Tourer Base 112 CDI 85 kW (116 CV) 7G-DCT\n(09/2022 - )",
+            "name": "Base 112 CDI 85 kW (116 CV) 7G-DCT\n(09/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/mercedes/citan/2022/tourer/estandar/citan-tourer-base-112-cdi-85-kw-116cv-7g-dct/datos",
@@ -1639,7 +1640,7 @@
             ]
         },
         {
-            "name": "eCitan Tourer\n(06/2023 - )",
+            "name": "e\n(06/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/mercedes/citan/2022/tourer/e/ecitan-tourer/datos",

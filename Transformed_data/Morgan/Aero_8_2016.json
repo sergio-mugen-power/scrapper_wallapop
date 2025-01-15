@@ -1,11 +1,12 @@
 {
+    "brand": "Morgan",
     "name": "Aero 8",
     "year": "2016",
     "url": "https://www.km77.com/coches/morgan/aero-8/2016/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Aero 8",
+            "name": "",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/morgan/aero-8/2016/estandar/estandar/aero-8/datos",
@@ -81,7 +82,7 @@
             ]
         },
         {
-            "name": "Aero 8 Aut.",
+            "name": "Aut.",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/morgan/aero-8/2016/estandar/estandar/aero-8-aut/datos",

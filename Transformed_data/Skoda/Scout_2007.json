@@ -1,11 +1,12 @@
 {
+    "brand": "Skoda",
     "name": "Scout",
     "year": "2007",
     "url": "https://www.km77.com/coches/skoda/scout/2007/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Scout 2.0 FSI",
+            "name": "2.0 FSI",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/scout/2007/estandar/estandar/scout-20-fsi/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "Scout 2.0 TDI DPF",
+            "name": "2.0 TDI DPF",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/scout/2007/estandar/estandar/scout-20-tdi-dpf/datos",
@@ -454,7 +455,7 @@
             ]
         },
         {
-            "name": "Scout 1.8 TSI 160 CV 4x4",
+            "name": "1.8 TSI 160 CV 4x4",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/skoda/scout/2007/estandar/estandar/scout-18-tsi-160-cv-4x4/datos",
@@ -686,7 +687,7 @@
             ]
         },
         {
-            "name": "Scout 2.0 FSI",
+            "name": "2.0 FSI",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/scout/2007/estandar/estandar/scout-20-fsi2/datos",
@@ -916,7 +917,7 @@
             ]
         },
         {
-            "name": "Scout 2.0 TDI 140 CV DPF 4x4",
+            "name": "2.0 TDI 140 CV DPF 4x4",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/skoda/scout/2007/estandar/estandar/scout-20-tdi-140-cv-dpf-4x4/datos",

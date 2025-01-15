@@ -1,11 +1,12 @@
 {
+    "brand": "Jeep",
     "name": "Compass",
     "year": "2021",
     "url": "https://www.km77.com/coches/jeep/compass/2021/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Compass Altitude e-Hybrid 130 CV (03/2024 - )",
+            "name": "Altitude e-Hybrid 130 CV (03/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/jeep/compass/2021/estandar/hev/compass-altitude-e-hybrid-130-cv/datos",
@@ -251,7 +252,7 @@
             ]
         },
         {
-            "name": "Compass North Star e-Hybrid 130 CV (10/2024 - )",
+            "name": "North Star e-Hybrid 130 CV (10/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/jeep/compass/2021/estandar/hev/compass-north-star-e-hybrid-130-cv/datos",
@@ -497,7 +498,7 @@
             ]
         },
         {
-            "name": "Compass Summit e-Hybrid 130 CV (03/2024 - )",
+            "name": "Summit e-Hybrid 130 CV (03/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/jeep/compass/2021/estandar/hev/compass-summit-e-hybrid-130-cv/datos",
@@ -747,7 +748,7 @@
             ]
         },
         {
-            "name": "Compass Altitude 4xe PHEV 190 CV (03/2024 - )",
+            "name": "Altitude 4xe PHEV 190 CV (03/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/jeep/compass/2021/estandar/4xe/compass-altitude-4xe-phev-190-cv/datos",
@@ -1018,7 +1019,7 @@
             ]
         },
         {
-            "name": "Compass North Star 4xe PHEV 190 CV (10/2024 - )",
+            "name": "North Star 4xe PHEV 190 CV (10/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/jeep/compass/2021/estandar/4xe/compass-north-star-4xe-phev-190-cv/datos",
@@ -1281,7 +1282,7 @@
             ]
         },
         {
-            "name": "Compass Summit 4xe PHEV 240 CV (03/2024 - )",
+            "name": "Summit 4xe PHEV 240 CV (03/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/jeep/compass/2021/estandar/4xe/compass-summit-4xe-phev-240-cv/datos",

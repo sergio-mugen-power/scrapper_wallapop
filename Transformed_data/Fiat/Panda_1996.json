@@ -1,11 +1,12 @@
 {
+    "brand": "Fiat",
     "name": "Panda",
     "year": "1996",
     "url": "https://www.km77.com/coches/fiat/panda/1996/estandar",
     "price": "Desde 10.148 €",
     "versions": [
         {
-            "name": "Panda 1.1 4x4 Trekking",
+            "name": "1.1 4x4 Trekking",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/fiat/panda/1996/estandar/trekking/panda-11-4x4-trekking/datos",
@@ -116,7 +117,7 @@
             ]
         },
         {
-            "name": "Panda 1.1 4x4 Climbing",
+            "name": "1.1 4x4 Climbing",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/fiat/panda/1996/estandar/climbing/panda-11-4x4-climbing/datos",

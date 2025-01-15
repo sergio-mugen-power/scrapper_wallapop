@@ -1,11 +1,12 @@
 {
+    "brand": "Chevrolet",
     "name": "TrailBlazer",
     "year": "2001",
     "url": "https://www.km77.com/coches/chevrolet/trailblazer/2001/estandar",
     "price": "",
     "versions": [
         {
-            "name": "TrailBlazer LT",
+            "name": "LT",
             "start_year": "2001",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/chevrolet/trailblazer/2001/estandar/lt/trailblazer-lt/datos",
@@ -152,7 +153,7 @@
             ]
         },
         {
-            "name": "TrailBlazer LT Premium",
+            "name": "LT Premium",
             "start_year": "2001",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/chevrolet/trailblazer/2001/estandar/lt-premium/trailblazer-lt-premium/datos",
@@ -301,7 +302,7 @@
             ]
         },
         {
-            "name": "TrailBlazer LTZ",
+            "name": "LTZ",
             "start_year": "2001",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/chevrolet/trailblazer/2001/estandar/ltz/trailblazer-ltz/datos",

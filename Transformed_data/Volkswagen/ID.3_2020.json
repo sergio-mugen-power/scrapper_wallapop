@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "ID.3",
     "year": "2020",
     "url": "https://www.km77.com/coches/volkswagen/id3/2020/estandar",
     "price": "Desde 30.470 €",
     "versions": [
         {
-            "name": "ID.3 Pure Performance 110 kW (150 CV) 45 kWh",
+            "name": "Pure Performance 110 kW (150 CV) 45 kWh",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/id3/2020/estandar/estandar/id3-pure-performance-110-kw-150-cv-45-kwh/datos",
@@ -35,7 +36,7 @@
             ]
         },
         {
-            "name": "ID.3 Pure Performance City 110 kW (150 CV) 45 kWh",
+            "name": "Pure Performance City 110 kW (150 CV) 45 kWh",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/id3/2020/estandar/estandar/id3-pure-performance-city-110-kw-150-cv-45-kwh/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "ID.3 Pro Life 107 kW (145 CV) 58 kWh",
+            "name": "Pro Life 107 kW (145 CV) 58 kWh",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/id3/2020/estandar/estandar/id3-pro-life-107-kw-145-cv-58-kwh/datos",
@@ -95,7 +96,7 @@
             ]
         },
         {
-            "name": "ID.3 Pro 107 kW (145 CV) 58 kWh",
+            "name": "Pro 107 kW (145 CV) 58 kWh",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volkswagen/id3/2020/estandar/estandar/id3-pro-107-kw-145-cv-58-kwh/datos",
@@ -125,7 +126,7 @@
             ]
         },
         {
-            "name": "ID.3 Life 150 kW (204 CV) 58 kWh",
+            "name": "Life 150 kW (204 CV) 58 kWh",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/id3/2020/estandar/estandar/id3-life-58-kwh/datos",
@@ -155,7 +156,7 @@
             ]
         },
         {
-            "name": "ID.3 Pro Performance 150 kW (204 CV) 58 kWh",
+            "name": "Pro Performance 150 kW (204 CV) 58 kWh",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volkswagen/id3/2020/estandar/estandar/id3-pro-performance-58-kwh/datos",
@@ -185,7 +186,7 @@
             ]
         },
         {
-            "name": "ID.3 Pro Business 107 kW (145 CV) 58 kWh",
+            "name": "Pro Business 107 kW (145 CV) 58 kWh",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/id3/2020/estandar/estandar/id3-pro-business-107-kw-145-cv-58-kwh/datos",
@@ -215,7 +216,7 @@
             ]
         },
         {
-            "name": "ID.3 Style 150 kW (204 CV) 58 kWh",
+            "name": "Style 150 kW (204 CV) 58 kWh",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/id3/2020/estandar/estandar/id3-style-58-kwh/datos",
@@ -245,7 +246,7 @@
             ]
         },
         {
-            "name": "ID.3 Business 150 kW (204 CV) 58 kWh",
+            "name": "Business 150 kW (204 CV) 58 kWh",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/id3/2020/estandar/estandar/id3-business-58-kwh/datos",
@@ -275,7 +276,7 @@
             ]
         },
         {
-            "name": "ID.3 Pro S 150 kW (204 CV) 77 kWh",
+            "name": "Pro S 150 kW (204 CV) 77 kWh",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volkswagen/id3/2020/estandar/estandar/id3-pro-s-77-kwh/datos",
@@ -305,7 +306,7 @@
             ]
         },
         {
-            "name": "ID.3 Life 150 kW (204 CV) 58 kWh",
+            "name": "Life 150 kW (204 CV) 58 kWh",
             "start_year": "2022",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volkswagen/id3/2020/estandar/estandar/id3-life-150-kw-204-cv-58-kwh/datos",
@@ -335,7 +336,7 @@
             ]
         },
         {
-            "name": "ID.3 1st Plus 150 kW (204 CV) 58 kWh",
+            "name": "1st Plus 150 kW (204 CV) 58 kWh",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/id3/2020/estandar/1st-plus/id3-1st-plus-58-kwh/datos",
@@ -365,7 +366,7 @@
             ]
         },
         {
-            "name": "ID.3 Pro S Life 150 kW (204 CV) 77 kWh",
+            "name": "Pro S Life 150 kW (204 CV) 77 kWh",
             "start_year": "2022",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volkswagen/id3/2020/estandar/estandar/id3-pro-s-life-150-kw-204-cv-77-kwh/datos",
@@ -395,7 +396,7 @@
             ]
         },
         {
-            "name": "ID.3 Max 150 kW (204 CV) 58 kWh",
+            "name": "Max 150 kW (204 CV) 58 kWh",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/id3/2020/estandar/estandar/id3-max-58-kwh/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "ID.3 Tour 150 kW (204 CV) 77 kWh",
+            "name": "Tour 150 kW (204 CV) 77 kWh",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/id3/2020/estandar/estandar/id3-tour-77-kwh/datos",
@@ -455,7 +456,7 @@
             ]
         },
         {
-            "name": "ID.3 1st Max 150 kW (204 CV) 58 kWh",
+            "name": "1st Max 150 kW (204 CV) 58 kWh",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/id3/2020/estandar/1st-max/id3-1st-max-58-kwh/datos",

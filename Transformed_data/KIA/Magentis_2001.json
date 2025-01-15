@@ -1,11 +1,12 @@
 {
+    "brand": "KIA",
     "name": "Magentis",
     "year": "2001",
     "url": "https://www.km77.com/coches/kia/magentis/2001/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Magentis 2.0 GLS Sedán",
+            "name": "2.0 GLS Sedán",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/kia/magentis/2001/estandar/gls/magentis-20-gls-sedan/datos",
@@ -143,7 +144,7 @@
             ]
         },
         {
-            "name": "Magentis 2.5 V6 GLS Sedán",
+            "name": "2.5 V6 GLS Sedán",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/kia/magentis/2001/estandar/gls/magentis-25-v6-gls-sedan/datos",
@@ -283,7 +284,7 @@
             ]
         },
         {
-            "name": "Magentis 2.5 V6 GLS Sedán Aut.",
+            "name": "2.5 V6 GLS Sedán Aut.",
             "start_year": "2001",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/kia/magentis/2001/estandar/gls/magentis-25-v6-gls-sedan-aut/datos",

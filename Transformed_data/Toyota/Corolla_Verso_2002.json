@@ -1,11 +1,12 @@
 {
+    "brand": "Toyota",
     "name": "Corolla Verso",
     "year": "2002",
     "url": "https://www.km77.com/coches/toyota/corolla-verso/2002/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Corolla Verso 1.6 VVT-i Terra",
+            "name": "1.6 VVT-i Terra",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/toyota/corolla-verso/2002/estandar/terra/corolla-verso-16-vvt-i-terra/datos",
@@ -156,7 +157,7 @@
             ]
         },
         {
-            "name": "Corolla Verso D4-D 90 CV Terra",
+            "name": "D4-D 90 CV Terra",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/toyota/corolla-verso/2002/estandar/terra/corolla-verso-d4-d-90-cv-terra/datos",
@@ -307,7 +308,7 @@
             ]
         },
         {
-            "name": "Corolla Verso 1.8 VVT-i Sol",
+            "name": "1.8 VVT-i Sol",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/toyota/corolla-verso/2002/estandar/sol/corolla-verso-18-vvt-i-sol/datos",
@@ -463,7 +464,7 @@
             ]
         },
         {
-            "name": "Corolla Verso D4-D 90 CV Sol",
+            "name": "D4-D 90 CV Sol",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/toyota/corolla-verso/2002/estandar/sol/corolla-verso-d4-d-90-cv-sol/datos",
@@ -619,7 +620,7 @@
             ]
         },
         {
-            "name": "Corolla Verso 1.8 VVT-i Sol Aut.",
+            "name": "1.8 VVT-i Sol Aut.",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/toyota/corolla-verso/2002/estandar/sol/corolla-verso-18-vvt-i-sol-aut/datos",

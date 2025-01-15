@@ -1,11 +1,12 @@
 {
+    "brand": "Hyundai",
     "name": "Coupe",
     "year": "1999",
     "url": "https://www.km77.com/coches/hyundai/coupe/1999/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Coupe 1.6 16V FX Xplod",
+            "name": "1.6 16V FX Xplod",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/hyundai/coupe/1999/estandar/fx-xplod/coupe-16-16v-fx-xplod/datos",
@@ -136,7 +137,7 @@
             ]
         },
         {
-            "name": "Coupe 1.6 16V FX",
+            "name": "1.6 16V FX",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/hyundai/coupe/1999/estandar/fx/coupe-16-16v-fx/datos",
@@ -267,7 +268,7 @@
             ]
         },
         {
-            "name": "Coupe 2.0 16V FX Xplod",
+            "name": "2.0 16V FX Xplod",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/hyundai/coupe/1999/estandar/fx-xplod/coupe-20-16v-fx-xplod/datos",
@@ -401,7 +402,7 @@
             ]
         },
         {
-            "name": "Coupe 2.0 16V FX",
+            "name": "2.0 16V FX",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/hyundai/coupe/1999/estandar/fx/coupe-20-16v-fx/datos",

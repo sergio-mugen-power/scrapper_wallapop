@@ -1,11 +1,12 @@
 {
+    "brand": "Skoda",
     "name": "Superb Combi",
     "year": "2024",
     "url": "https://www.km77.com/coches/skoda/superb/2024/combi",
     "price": "Desde 42.700 €",
     "versions": [
         {
-            "name": "Superb Combi Selection 1.5 TSI mHEV 150 CV DSG (12/2023 - )",
+            "name": "Selection 1.5 TSI mHEV 150 CV DSG (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/skoda/superb/2024/combi/estandar/superb-combi-15-tsi-mhev-150-cv-dsg/datos",
@@ -289,7 +290,7 @@
             ]
         },
         {
-            "name": "Superb Combi Selection 2.0 TDI 150 CV DSG (12/2023 - )",
+            "name": "Selection 2.0 TDI 150 CV DSG (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/skoda/superb/2024/combi/estandar/superb-combi-20-tdi-150-cv-dsg/datos",
@@ -558,7 +559,7 @@
             ]
         },
         {
-            "name": "Superb Combi L&K 1.5 TSI mHEV 150 CV DSG (12/2023 - )",
+            "name": "L&K 1.5 TSI mHEV 150 CV DSG (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/skoda/superb/2024/combi/estandar/superb-combi-lk-15-tsi-mhev-150-cv-dsg/datos",
@@ -831,7 +832,7 @@
             ]
         },
         {
-            "name": "Superb Combi Selection 2.0 TDI 193 CV DSG 4x4 (03/2024 - )",
+            "name": "Selection 2.0 TDI 193 CV DSG 4x4 (03/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/skoda/superb/2024/combi/estandar/superb-combi-selection-20-tdi-193-cv-dsg-4x4/datos",
@@ -1098,7 +1099,7 @@
             ]
         },
         {
-            "name": "Superb Combi Selection 1.5 TSI iV (PHEV) 204 CV DSG (07/2024 - )",
+            "name": "Selection 1.5 TSI iV (PHEV) 204 CV DSG (07/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/skoda/superb/2024/combi/phev/superb-combi-selection-15-tsi-iv-phev-204-cv-dsg/datos",
@@ -1389,7 +1390,7 @@
             ]
         },
         {
-            "name": "Superb Combi Selection 2.0 TSI 265 CV DSG 4x4 (07/2024 - )",
+            "name": "Selection 2.0 TSI 265 CV DSG 4x4 (07/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/skoda/superb/2024/combi/estandar/superb-combi-selection-20-tsi-265-cv-dsg-4x4/datos",
@@ -1657,7 +1658,7 @@
             ]
         },
         {
-            "name": "Superb Combi L&K 2.0 TDI 150 CV DSG (12/2023 - )",
+            "name": "L&K 2.0 TDI 150 CV DSG (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/skoda/superb/2024/combi/estandar/superb-combi-lk-20-tdi-150-cv-dsg/datos",
@@ -1915,7 +1916,7 @@
             ]
         },
         {
-            "name": "Superb Combi L&K 2.0 TDI 193 CV DSG 4x4 (03/2024 - )",
+            "name": "L&K 2.0 TDI 193 CV DSG 4x4 (03/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/skoda/superb/2024/combi/estandar/superb-combi-lk-20-tdi-193-cv-dsg-4x4/datos",
@@ -2173,7 +2174,7 @@
             ]
         },
         {
-            "name": "Superb Combi L&K 1.5 TSI iV (PHEV) 204 CV DSG (07/2024 - )",
+            "name": "L&K 1.5 TSI iV (PHEV) 204 CV DSG (07/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/skoda/superb/2024/combi/phev/superb-combi-15-tsi-phev-204-cv-dsg/datos",
@@ -2457,7 +2458,7 @@
             ]
         },
         {
-            "name": "Superb Combi L&K 2.0 TSI 265 CV DSG 4x4 (07/2024 - )",
+            "name": "L&K 2.0 TSI 265 CV DSG 4x4 (07/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/skoda/superb/2024/combi/estandar/superb-combi-20-tsi-265-cv-dsg-4x4/datos",
@@ -2716,7 +2717,7 @@
             ]
         },
         {
-            "name": "Superb Combi 2.0 TSI 204 CV DSG ( - )",
+            "name": "2.0 TSI 204 CV DSG ( - )",
             "start_year": "Desconocido",
             "end_year": "Desconocido",
             "url": "https://www.km77.com/coches/skoda/superb/2024/combi/estandar/superb-combi-20-tsi-204-cv-dsg/datos",

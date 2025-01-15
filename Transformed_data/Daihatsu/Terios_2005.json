@@ -1,11 +1,12 @@
 {
+    "brand": "Daihatsu",
     "name": "Terios",
     "year": "2005",
     "url": "https://www.km77.com/coches/daihatsu/terios/2005/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Terios SX 4WD",
+            "name": "SX 4WD",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/daihatsu/terios/2005/estandar/sx/terios-sx-4wd/datos",
@@ -137,7 +138,7 @@
             ]
         },
         {
-            "name": "Terios SX 4WD Aut.",
+            "name": "SX 4WD Aut.",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/daihatsu/terios/2005/estandar/sx/terios-sx-4wd-aut/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Porsche",
     "name": "Macan",
     "year": "2013",
     "url": "https://www.km77.com/coches/porsche/macan/2013/estandar",
     "price": "Desde 82.310 €",
     "versions": [
         {
-            "name": "Macan",
+            "name": "",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/porsche/macan/2013/estandar/estandar/macan2/datos",
@@ -35,7 +36,7 @@
             ]
         },
         {
-            "name": "Macan",
+            "name": "",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/porsche/macan/2013/estandar/estandar/macan3/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "Macan S Diesel (neumáticos todo tiempo)",
+            "name": "S Diesel (neumáticos todo tiempo)",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/porsche/macan/2013/estandar/s/macan-s-diesel-neumaticos-todo-tiempo/datos",
@@ -95,7 +96,7 @@
             ]
         },
         {
-            "name": "Macan S Diesel",
+            "name": "S Diesel",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/porsche/macan/2013/estandar/s/macan-s-diesel2/datos",
@@ -125,7 +126,7 @@
             ]
         },
         {
-            "name": "Macan S Diesel",
+            "name": "S Diesel",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/porsche/macan/2013/estandar/s/macan-s-diesel/datos",
@@ -155,7 +156,7 @@
             ]
         },
         {
-            "name": "Macan S",
+            "name": "S",
             "start_year": "2013",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/porsche/macan/2013/estandar/s/macan-s/datos",
@@ -185,7 +186,7 @@
             ]
         },
         {
-            "name": "Macan S",
+            "name": "S",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/porsche/macan/2013/estandar/s/macan-s2/datos",
@@ -215,7 +216,7 @@
             ]
         },
         {
-            "name": "Macan GTS",
+            "name": "GTS",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/porsche/macan/2013/estandar/gts/macan-gts/datos",
@@ -245,7 +246,7 @@
             ]
         },
         {
-            "name": "Macan GTS",
+            "name": "GTS",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/porsche/macan/2013/estandar/gts/macan-gts2/datos",
@@ -275,7 +276,7 @@
             ]
         },
         {
-            "name": "Macan Turbo",
+            "name": "Turbo",
             "start_year": "2013",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/porsche/macan/2013/estandar/turbo/macan-turbo/datos",
@@ -305,7 +306,7 @@
             ]
         },
         {
-            "name": "Macan Turbo",
+            "name": "Turbo",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/porsche/macan/2013/estandar/turbo/macan-turbo2/datos",
@@ -335,7 +336,7 @@
             ]
         },
         {
-            "name": "Macan Turbo Performance Package",
+            "name": "Turbo Performance Package",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/porsche/macan/2013/estandar/turbo/macan-turbo-performance-package/datos",

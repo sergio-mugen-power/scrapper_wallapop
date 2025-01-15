@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "X2",
     "year": "2018",
     "url": "https://www.km77.com/coches/bmw/x2/2018/estandar",
     "price": "Desde 45.800 €",
     "versions": [
         {
-            "name": "X2 sDrive18d",
+            "name": "sDrive18d",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/x2/2018/estandar/estandar/x2-sdrive18d/datos",
@@ -308,7 +309,7 @@
             ]
         },
         {
-            "name": "X2 sDrive16d",
+            "name": "sDrive16d",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x2/2018/estandar/estandar/x2-sdrive16d/datos",
@@ -622,7 +623,7 @@
             ]
         },
         {
-            "name": "X2 sDrive18i",
+            "name": "sDrive18i",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x2/2018/estandar/estandar/x2-sdrive18i/datos",
@@ -932,7 +933,7 @@
             ]
         },
         {
-            "name": "X2 sDrive18i Aut.",
+            "name": "sDrive18i Aut.",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/x2/2018/estandar/estandar/x2-sdrive18i-aut/datos",
@@ -1235,7 +1236,7 @@
             ]
         },
         {
-            "name": "X2 sDrive18d",
+            "name": "sDrive18d",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x2/2018/estandar/estandar/x2-sdrive18d2/datos",
@@ -1549,7 +1550,7 @@
             ]
         },
         {
-            "name": "X2 sDrive16d Aut.",
+            "name": "sDrive16d Aut.",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x2/2018/estandar/estandar/x2-sdrive16d-aut/datos",
@@ -1865,7 +1866,7 @@
             ]
         },
         {
-            "name": "X2 sDrive18i Aut.",
+            "name": "sDrive18i Aut.",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x2/2018/estandar/estandar/x2-sdrive18i-aut2/datos",
@@ -2176,7 +2177,7 @@
             ]
         },
         {
-            "name": "X2 xDrive18d",
+            "name": "xDrive18d",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/bmw/x2/2018/estandar/estandar/x2-xdrive18d/datos",
@@ -2499,7 +2500,7 @@
             ]
         },
         {
-            "name": "X2 sDrive20i",
+            "name": "sDrive20i",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/bmw/x2/2018/estandar/estandar/x2-sdrive20i/datos",
@@ -2797,7 +2798,7 @@
             ]
         },
         {
-            "name": "X2 sDrive20i",
+            "name": "sDrive20i",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/x2/2018/estandar/estandar/x2-sdrive20i2/datos",
@@ -3101,7 +3102,7 @@
             ]
         },
         {
-            "name": "X2 sDrive18i",
+            "name": "sDrive18i",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x2/2018/estandar/estandar/x2-sdrive18i2/datos",
@@ -3415,7 +3416,7 @@
             ]
         },
         {
-            "name": "X2 sDrive18d Aut.",
+            "name": "sDrive18d Aut.",
             "start_year": "2018",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x2/2018/estandar/estandar/x2-sdrive18d-aut/datos",
@@ -3732,7 +3733,7 @@
             ]
         },
         {
-            "name": "X2 sDrive20i",
+            "name": "sDrive20i",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x2/2018/estandar/estandar/x2-sdrive20i3/datos",
@@ -4043,7 +4044,7 @@
             ]
         },
         {
-            "name": "X2 sDrive18i Aut.",
+            "name": "sDrive18i Aut.",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x2/2018/estandar/estandar/x2-sdrive18i-aut3/datos",
@@ -4359,7 +4360,7 @@
             ]
         },
         {
-            "name": "X2 xDrive20i",
+            "name": "xDrive20i",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x2/2018/estandar/estandar/x2-xdrive20i/datos",
@@ -4668,7 +4669,7 @@
             ]
         },
         {
-            "name": "X2 xDrive20i",
+            "name": "xDrive20i",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x2/2018/estandar/estandar/x2-xdrive20i2/datos",
@@ -4979,7 +4980,7 @@
             ]
         },
         {
-            "name": "X2 sDrive20d",
+            "name": "sDrive20d",
             "start_year": "2018",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/bmw/x2/2018/estandar/estandar/x2-sdrive20d/datos",
@@ -5303,7 +5304,7 @@
             ]
         },
         {
-            "name": "X2 xDrive18d Aut.",
+            "name": "xDrive18d Aut.",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x2/2018/estandar/estandar/x2-xdrive18d-aut/datos",
@@ -5621,7 +5622,7 @@
             ]
         },
         {
-            "name": "X2 sDrive20i",
+            "name": "sDrive20i",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x2/2018/estandar/estandar/x2-sdrive20i4/datos",
@@ -5938,7 +5939,7 @@
             ]
         },
         {
-            "name": "X2 xDrive20i",
+            "name": "xDrive20i",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x2/2018/estandar/estandar/x2-xdrive20i3/datos",
@@ -6255,7 +6256,7 @@
             ]
         },
         {
-            "name": "X2 xDrive20d",
+            "name": "xDrive20d",
             "start_year": "2017",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x2/2018/estandar/estandar/x2-xdrive20d/datos",
@@ -6573,7 +6574,7 @@
             ]
         },
         {
-            "name": "X2 xDrive25d",
+            "name": "xDrive25d",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/bmw/x2/2018/estandar/estandar/x2-xdrive25d/datos",
@@ -6899,7 +6900,7 @@
             ]
         },
         {
-            "name": "X2 xDrive25e",
+            "name": "xDrive25e",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x2/2018/estandar/e/x2-xdrive25e/datos",
@@ -7233,7 +7234,7 @@
             ]
         },
         {
-            "name": "X2 M35i",
+            "name": "M35i",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x2/2018/estandar/m-performance/x2-m35i/datos",
@@ -7521,7 +7522,7 @@
             ]
         },
         {
-            "name": "X2 M35i",
+            "name": "M35i",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x2/2018/estandar/m-performance/x2-m35i2/datos",

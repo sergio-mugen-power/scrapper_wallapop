@@ -1,11 +1,12 @@
 {
+    "brand": "Maybach",
     "name": "62",
     "year": "2003",
     "url": "https://www.km77.com/coches/maybach/62/2003/estandar",
     "price": "",
     "versions": [
         {
-            "name": "62",
+            "name": "",
             "start_year": "2003",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/maybach/62/2003/estandar/estandar/62/datos",
@@ -160,7 +161,7 @@
             ]
         },
         {
-            "name": "62",
+            "name": "",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/maybach/62/2003/estandar/estandar/622/datos",
@@ -390,7 +391,7 @@
             ]
         },
         {
-            "name": "62 S",
+            "name": "S",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/maybach/62/2003/estandar/estandar/62-s2/datos",
@@ -616,7 +617,7 @@
             ]
         },
         {
-            "name": "62 Zeppelin",
+            "name": "Zeppelin",
             "start_year": "2009",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/maybach/62/2003/estandar/zeppelin/62-zeppelin/datos",

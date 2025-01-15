@@ -1,11 +1,12 @@
 {
+    "brand": "Mitsubishi",
     "name": "L200 Doble Cabina",
     "year": "2002",
     "url": "https://www.km77.com/coches/mitsubishi/l200/2002/doble-cabina",
     "price": "",
     "versions": [
         {
-            "name": "L200 Doble Cabina 4X4 GLX",
+            "name": "4X4 GLX",
             "start_year": "2004",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/mitsubishi/l200/2002/doble-cabina/glx/l200-doble-cabina-4x4-glx/datos",
@@ -165,7 +166,7 @@
             ]
         },
         {
-            "name": "L200 Doble Cabina 4X4 MAX",
+            "name": "4X4 MAX",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/mitsubishi/l200/2002/doble-cabina/max/l200-doble-cabina-4x4-max/datos",
@@ -292,7 +293,7 @@
             ]
         },
         {
-            "name": "L200 Doble Cabina 4X4 GLS",
+            "name": "4X4 GLS",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/mitsubishi/l200/2002/doble-cabina/gls/l200-doble-cabina-4x4-gls/datos",
@@ -461,7 +462,7 @@
             ]
         },
         {
-            "name": "L200 Doble Cabina 4X4 GLS Plus",
+            "name": "4X4 GLS Plus",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/mitsubishi/l200/2002/doble-cabina/gls-plus/l200-doble-cabina-4x4-gls-plus/datos",

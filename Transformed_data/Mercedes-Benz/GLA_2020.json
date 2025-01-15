@@ -1,11 +1,12 @@
 {
+    "brand": "Mercedes-Benz",
     "name": "GLA",
     "year": "2020",
     "url": "https://www.km77.com/coches/mercedes/gla/2020/estandar",
     "price": "Desde 46.503 €",
     "versions": [
         {
-            "name": "GLA 180 7G-DCT",
+            "name": "180 7G-DCT",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/gla/2020/estandar/estandar/gla-180-7g-dct/datos",
@@ -304,7 +305,7 @@
             ]
         },
         {
-            "name": "GLA 200 7G-DCT",
+            "name": "200 7G-DCT",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/gla/2020/estandar/estandar/gla/datos",
@@ -604,7 +605,7 @@
             ]
         },
         {
-            "name": "GLA 200 d 8G-DCT",
+            "name": "200 d 8G-DCT",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/gla/2020/estandar/estandar/gla-200-d-8g-dct/datos",
@@ -904,7 +905,7 @@
             ]
         },
         {
-            "name": "GLA 200 d 4MATIC 8G-DCT",
+            "name": "200 d 4MATIC 8G-DCT",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/gla/2020/estandar/estandar/gla-200-d-4matic-8g-dct/datos",
@@ -1205,7 +1206,7 @@
             ]
         },
         {
-            "name": "GLA 220 d 4MATIC 8G-DCT",
+            "name": "220 d 4MATIC 8G-DCT",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/gla/2020/estandar/estandar/gla-220-d-4matic-8g-dct/datos",
@@ -1506,7 +1507,7 @@
             ]
         },
         {
-            "name": "GLA 250 e",
+            "name": "250 e",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/gla/2020/estandar/e/gla-250-e/datos",
@@ -1823,7 +1824,7 @@
             ]
         },
         {
-            "name": "GLA 250 4MATIC 8G-DCT",
+            "name": "250 4MATIC 8G-DCT",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/gla/2020/estandar/estandar/gla-250-4matic-8g-dct/datos",
@@ -2124,7 +2125,7 @@
             ]
         },
         {
-            "name": "Mercedes-AMG GLA 35 4MATIC",
+            "name": "Mercedes-AMG  35 4MATIC",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/mercedes/gla/2020/estandar/amg/gla-35-4matic-amg/datos",
@@ -2431,7 +2432,7 @@
             ]
         },
         {
-            "name": "Mercedes-AMG GLA 35 4MATIC",
+            "name": "Mercedes-AMG  35 4MATIC",
             "start_year": "2021",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/gla/2020/estandar/amg/amg-gla-35-4matic/datos",
@@ -2731,7 +2732,7 @@
             ]
         },
         {
-            "name": "Mercedes-AMG GLA 45 S 4MATIC+",
+            "name": "Mercedes-AMG  45 S 4MATIC+",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/gla/2020/estandar/amg/amg-gla-45-s-4matic/datos",

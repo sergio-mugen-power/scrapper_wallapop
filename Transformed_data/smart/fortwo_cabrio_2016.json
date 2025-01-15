@@ -1,11 +1,12 @@
 {
+    "brand": "smart",
     "name": "fortwo cabrio",
     "year": "2016",
     "url": "https://www.km77.com/coches/smart/fortwo/2016/cabrio",
     "price": "",
     "versions": [
         {
-            "name": "fortwo cabrio 52 kW (71 CV)",
+            "name": "52 kW (71 CV)",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/smart/fortwo/2016/cabrio/estandar/fortwo-cabrio-52-kw2/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "fortwo cabrio 52 kW (71 CV)",
+            "name": "52 kW (71 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/smart/fortwo/2016/cabrio/estandar/fortwo-cabrio-52-kw-71-cv/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "fortwo cabrio passion 52 kW twinamic",
+            "name": "passion 52 kW twinamic",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/smart/fortwo/2016/cabrio/passion/fortwo-coupe-52-kw-twinamic/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "fortwo cabrio passion 66 kW (90 CV)",
+            "name": "passion 66 kW (90 CV)",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/smart/fortwo/2016/cabrio/passion/fortwo-cabrio-passion-66-kw-turbo/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "fortwo cabrio 52 kW (71 CV) twinamic",
+            "name": "52 kW (71 CV) twinamic",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/smart/fortwo/2016/cabrio/estandar/fortwo-cabrio-52-kw-twinamic/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "fortwo cabrio 52 kW (71 CV) twinamic",
+            "name": "52 kW (71 CV) twinamic",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/smart/fortwo/2016/cabrio/estandar/fortwo-cabrio-52-kw-71-cv-twinamic/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "fortwo cabrio passion 66 kW (90 CV)",
+            "name": "passion 66 kW (90 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/smart/fortwo/2016/cabrio/passion/fortwo-cabrio-passion-66-kw-90-cv/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "fortwo cabrio passion 66 kW (90 CV) twinamic",
+            "name": "passion 66 kW (90 CV) twinamic",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/smart/fortwo/2016/cabrio/passion/fortwo-cabrio-66-kw-twinamic/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "fortwo cabrio passion 66 kW (90 CV) twinamic",
+            "name": "passion 66 kW (90 CV) twinamic",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/smart/fortwo/2016/cabrio/passion/fortwo-cabrio-passion-66-kw-90-cv-twinamic/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "BRABUS fortwo cabrio 80 kW (109 CV) twinamic",
+            "name": "BRABUS  80 kW (109 CV) twinamic",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/smart/fortwo/2016/cabrio/brabus/brabus-fortwo-cabrio/datos",
@@ -268,7 +269,7 @@
             "maletero": "190"
         },
         {
-            "name": "fortwo cabrio electric drive",
+            "name": "electric drive",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/smart/fortwo/2016/cabrio/electric-drive/fortwo-cabrio-electric-drive/datos",
@@ -279,7 +280,7 @@
             "maletero": "190"
         },
         {
-            "name": "EQ fortwo cabrio",
+            "name": "EQ",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/smart/fortwo/2016/cabrio/eq/eq-fortwo-cabrio/datos",

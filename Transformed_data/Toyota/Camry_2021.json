@@ -1,11 +1,12 @@
 {
+    "brand": "Toyota",
     "name": "Camry",
     "year": "2021",
     "url": "https://www.km77.com/coches/toyota/camry/2021/estandar",
     "price": "Desde 36.000 €",
     "versions": [
         {
-            "name": "Camry Electric Hybrid Advance\n(10/2021 - )",
+            "name": "Electric Hybrid Advance\n(10/2021 - )",
             "start_year": "2021",
             "end_year": "",
             "url": "https://www.km77.com/coches/toyota/camry/2021/estandar/hybrid/camry-electric-hybrid-advance/datos",
@@ -241,7 +242,7 @@
             ]
         },
         {
-            "name": "Camry Electric Hybrid Luxury\n(03/2021 - )",
+            "name": "Electric Hybrid Luxury\n(03/2021 - )",
             "start_year": "2021",
             "end_year": "",
             "url": "https://www.km77.com/coches/toyota/camry/2021/estandar/hybrid/camry-electric-hybrid-luxury/datos",

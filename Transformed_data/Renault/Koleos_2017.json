@@ -1,11 +1,12 @@
 {
+    "brand": "Renault",
     "name": "Koleos",
     "year": "2017",
     "url": "https://www.km77.com/coches/renault/koleos/2017/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Koleos Intens dCi 96 kW (130 CV)",
+            "name": "Intens dCi 96 kW (130 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/renault/koleos/2017/estandar/intens/koleos-intens-dci-96-kw-130-cv2/datos",
@@ -205,7 +206,7 @@
             ]
         },
         {
-            "name": "Koleos Intens dCi 96 kW (130 CV)",
+            "name": "Intens dCi 96 kW (130 CV)",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/renault/koleos/2017/estandar/intens/koleos-intens-dci-96-kw-130-cv/datos",
@@ -406,7 +407,7 @@
             ]
         },
         {
-            "name": "Koleos Zen dCi 96 kW (130 CV)",
+            "name": "Zen dCi 96 kW (130 CV)",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/renault/koleos/2017/estandar/zen/koleos-zen-dci-96-kw-130-cv/datos",
@@ -623,7 +624,7 @@
             ]
         },
         {
-            "name": "Koleos Intens dCi 130 kW (175 CV) 4WD",
+            "name": "Intens dCi 130 kW (175 CV) 4WD",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/renault/koleos/2017/estandar/intens/koleos-intens-dci-130-kw-175-cv-4wd/datos",
@@ -824,7 +825,7 @@
             ]
         },
         {
-            "name": "Koleos Intens dCi 130 kW (175 CV) X-Tronic",
+            "name": "Intens dCi 130 kW (175 CV) X-Tronic",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/renault/koleos/2017/estandar/intens/koleos-intens-dci-130-kw-175-cv-x-tronic/datos",
@@ -1028,7 +1029,7 @@
             ]
         },
         {
-            "name": "Koleos Zen dCi 130 kW (175 CV) X-Tronic",
+            "name": "Zen dCi 130 kW (175 CV) X-Tronic",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/renault/koleos/2017/estandar/zen/koleos-zen-dci-130-kw-175-cv-x-tronic/datos",
@@ -1245,7 +1246,7 @@
             ]
         },
         {
-            "name": "Koleos Zen dCi 130 kW (175 CV) 4WD",
+            "name": "Zen dCi 130 kW (175 CV) 4WD",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/renault/koleos/2017/estandar/zen/koleos-zen-dci-130-kw-175-cv-4wd/datos",
@@ -1462,7 +1463,7 @@
             ]
         },
         {
-            "name": "Koleos Intens dCi 130 kW (175 CV) X-Tronic 4WD",
+            "name": "Intens dCi 130 kW (175 CV) X-Tronic 4WD",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/renault/koleos/2017/estandar/intens/koleos-intens-dci-130-kw-175-cv-x-tronic-4wd/datos",
@@ -1665,7 +1666,7 @@
             ]
         },
         {
-            "name": "Koleos Zen dCi 130 kW (175 CV) X-Tronic",
+            "name": "Zen dCi 130 kW (175 CV) X-Tronic",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/renault/koleos/2017/estandar/zen/koleos-zen-dci-130-kw-175-cv-x-tronic2/datos",
@@ -1883,7 +1884,7 @@
             ]
         },
         {
-            "name": "Koleos Zen dCi 130 kW (175 CV) X-Tronic 4WD",
+            "name": "Zen dCi 130 kW (175 CV) X-Tronic 4WD",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/renault/koleos/2017/estandar/zen/koleos-zen-dci-130-kw-175-cv-x-tronic-4wd/datos",
@@ -2100,7 +2101,7 @@
             ]
         },
         {
-            "name": "Koleos Zen dCi 130 kW (175 CV) X-Tronic 4WD",
+            "name": "Zen dCi 130 kW (175 CV) X-Tronic 4WD",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/renault/koleos/2017/estandar/zen/koleos-zen-dci-130-kw-175-cv-x-tronic-4wd2/datos",
@@ -2318,7 +2319,7 @@
             ]
         },
         {
-            "name": "Koleos Initiale Paris dCi 130 kW (175 CV) X-Tronic",
+            "name": "Initiale Paris dCi 130 kW (175 CV) X-Tronic",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/renault/koleos/2017/estandar/initiale-paris/koleos-initiale-paris-dci-130-kw-175-cv-x-tronic/datos",
@@ -2538,7 +2539,7 @@
             ]
         },
         {
-            "name": "Koleos Initiale Paris dCi 130 kW (175 CV) X-Tronic 4WD",
+            "name": "Initiale Paris dCi 130 kW (175 CV) X-Tronic 4WD",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/renault/koleos/2017/estandar/initiale-paris/koleos-initiale-paris-dci-130-kw-175-cv-x-tronic-4wd/datos",
@@ -2757,7 +2758,7 @@
             ]
         },
         {
-            "name": "Koleos Initiale Paris dCi 130 kW (175 CV) X-Tronic 4WD",
+            "name": "Initiale Paris dCi 130 kW (175 CV) X-Tronic 4WD",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/renault/koleos/2017/estandar/initiale-paris/koleos-initiale-paris-dci-130-kw-175-cv-x-tronic-4wd2/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Mitsubishi",
     "name": "Space Star",
     "year": "2013",
     "url": "https://www.km77.com/coches/mitsubishi/space-star/2013/estandar",
     "price": "Desde 12.150 €",
     "versions": [
         {
-            "name": "Space Star 100 MPI Challenge",
+            "name": "100 MPI Challenge",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/mitsubishi/space-star/2013/estandar/challenge/space-star-10-mivec-asg/datos",
@@ -181,7 +182,7 @@
             ]
         },
         {
-            "name": "Space Star 120 MPI Motion",
+            "name": "120 MPI Motion",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/mitsubishi/space-star/2013/estandar/motion/space-star-12-mivec-asg/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Opel",
     "name": "Vectra SW",
     "year": "2006",
     "url": "https://www.km77.com/coches/opel/vectra/2006/sw",
     "price": "",
     "versions": [
         {
-            "name": "Vectra SW Elegance 1.8 16V",
+            "name": "Elegance 1.8 16V",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/vectra/2006/sw/elegance/vectra-sw-elegance-18-16v2/datos",
@@ -25,7 +26,7 @@
             ]
         },
         {
-            "name": "Vectra SW Elegance 1.8 16V 140 CV",
+            "name": "Elegance 1.8 16V 140 CV",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/vectra/2006/sw/elegance/vectra-sw-elegance-18-16v-140-cv/datos",
@@ -45,7 +46,7 @@
             ]
         },
         {
-            "name": "Vectra SW Elegance 1.9 CDTi 8V 100 CV",
+            "name": "Elegance 1.9 CDTi 8V 100 CV",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/opel/vectra/2006/sw/elegance/vectra-sw-elegance-19-cdti-8v-100-cv/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "Vectra SW Elegance 1.9 CDTi 120 CV",
+            "name": "Elegance 1.9 CDTi 120 CV",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/vectra/2006/sw/elegance/vectra-sw-elegance-19-cdti-120-cv/datos",
@@ -85,7 +86,7 @@
             ]
         },
         {
-            "name": "Vectra SW Sport 1.8 16V 140 CV",
+            "name": "Sport 1.8 16V 140 CV",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/opel/vectra/2006/sw/sport/vectra-sw-sport-18-16v-140-cv/datos",
@@ -105,7 +106,7 @@
             ]
         },
         {
-            "name": "Vectra SW Elegance 2.2 DIG 16V",
+            "name": "Elegance 2.2 DIG 16V",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/opel/vectra/2006/sw/elegance/vectra-sw-elegance-22-dig-16v/datos",
@@ -125,7 +126,7 @@
             ]
         },
         {
-            "name": "Vectra SW Elegance 1.9 CDTi 8V 120 CV",
+            "name": "Elegance 1.9 CDTi 8V 120 CV",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/vectra/2006/sw/elegance/vectra-sw-elegance-19-cdti-8v-120-cv/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Vectra SW Sport 1.9 CDTi 8V 120 CV",
+            "name": "Sport 1.9 CDTi 8V 120 CV",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/opel/vectra/2006/sw/sport/vectra-sw-sport-19-cdti-8v-120-cv/datos",
@@ -165,7 +166,7 @@
             ]
         },
         {
-            "name": "Vectra SW Elegance 1.9 CDTi 150 CV",
+            "name": "Elegance 1.9 CDTi 150 CV",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/vectra/2006/sw/elegance/vectra-sw-elegance-19-cdti-150-cv/datos",
@@ -185,7 +186,7 @@
             ]
         },
         {
-            "name": "Vectra SW Elegance 1.8 16V",
+            "name": "Elegance 1.8 16V",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/opel/vectra/2006/sw/elegance/vectra-sw-elegance-18-16v/datos",
@@ -205,7 +206,7 @@
             ]
         },
         {
-            "name": "Vectra SW Elegance 1.9 CDTi 16V 150 CV",
+            "name": "Elegance 1.9 CDTi 16V 150 CV",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/vectra/2006/sw/elegance/vectra-sw-elegance-19-cdti-16v-150-cv/datos",
@@ -225,7 +226,7 @@
             ]
         },
         {
-            "name": "Vectra SW Elegance 2.0 Turbo",
+            "name": "Elegance 2.0 Turbo",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/vectra/2006/sw/elegance/vectra-sw-elegance-20-turbo/datos",
@@ -245,7 +246,7 @@
             ]
         },
         {
-            "name": "Vectra SW Elegance 2.2 DIG 16V Aut.",
+            "name": "Elegance 2.2 DIG 16V Aut.",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/opel/vectra/2006/sw/elegance/vectra-sw-elegance-22-dig-16v-aut/datos",
@@ -265,7 +266,7 @@
             ]
         },
         {
-            "name": "Vectra SW Sport 1.9 CDTi 16V 150 CV",
+            "name": "Sport 1.9 CDTi 16V 150 CV",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/opel/vectra/2006/sw/sport/vectra-sw-sport-19-cdti-16v-150-cv/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "Vectra SW Sport 2.0 Turbo",
+            "name": "Sport 2.0 Turbo",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/opel/vectra/2006/sw/sport/vectra-sw-sport-20-turbo/datos",
@@ -305,7 +306,7 @@
             ]
         },
         {
-            "name": "Vectra SW Elegance 2.0 Turbo",
+            "name": "Elegance 2.0 Turbo",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/vectra/2006/sw/elegance/vectra-sw-elegance-20-turbo2/datos",
@@ -325,7 +326,7 @@
             ]
         },
         {
-            "name": "Vectra SW Sport 1.8 16V",
+            "name": "Sport 1.8 16V",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/opel/vectra/2006/sw/sport/vectra-sw-sport-18-16v/datos",
@@ -345,7 +346,7 @@
             ]
         },
         {
-            "name": "Vectra SW Elegance 1.9 CDTi 16V 150 CV Aut.",
+            "name": "Elegance 1.9 CDTi 16V 150 CV Aut.",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/vectra/2006/sw/elegance/vectra-sw-elegance-19-cdti-16v-150-cv-aut/datos",
@@ -365,7 +366,7 @@
             ]
         },
         {
-            "name": "Vectra SW Elegance 1.9 CDTi 150 CV Aut.",
+            "name": "Elegance 1.9 CDTi 150 CV Aut.",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/vectra/2006/sw/elegance/vectra-sw-elegance-19-cdti-150-cv-aut/datos",
@@ -385,7 +386,7 @@
             ]
         },
         {
-            "name": "Vectra SW Sport 1.9 CDTi 16V 150 CV Aut.",
+            "name": "Sport 1.9 CDTi 16V 150 CV Aut.",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/opel/vectra/2006/sw/sport/vectra-sw-sport-19-cdti-16v-150-cv-aut/datos",
@@ -405,7 +406,7 @@
             ]
         },
         {
-            "name": "Vectra SW Sport 3.0 V6 CDTi 184 CV",
+            "name": "Sport 3.0 V6 CDTi 184 CV",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/opel/vectra/2006/sw/sport/vectra-sw-sport-30-v6-cdti-184-cv/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "Vectra SW Sport 3.0 V6 CDTi 184 CV Aut.",
+            "name": "Sport 3.0 V6 CDTi 184 CV Aut.",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/opel/vectra/2006/sw/sport/vectra-sw-sport-30-v6-cdti-184-cv-aut/datos",
@@ -445,7 +446,7 @@
             ]
         },
         {
-            "name": "Vectra SW OPC 2.8 V6 Turbo 255 CV",
+            "name": "OPC 2.8 V6 Turbo 255 CV",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/opel/vectra/2006/sw/elegance/vectra-sw-opc-28-v6-turbo-255-cv/datos",
@@ -465,7 +466,7 @@
             ]
         },
         {
-            "name": "Vectra SW OPC 2.8 V6 Turbo 280 CV",
+            "name": "OPC 2.8 V6 Turbo 280 CV",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/vectra/2006/sw/elegance/vectra-sw-opc-28-v6-turbo-280-cv/datos",
@@ -485,7 +486,7 @@
             ]
         },
         {
-            "name": "Vectra SW OPC 2.8 V6 Turbo",
+            "name": "OPC 2.8 V6 Turbo",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/opel/vectra/2006/sw/elegance/vectra-sw-opc-28-v6-turbo/datos",

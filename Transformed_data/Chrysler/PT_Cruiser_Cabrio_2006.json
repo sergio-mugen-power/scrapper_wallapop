@@ -1,11 +1,12 @@
 {
+    "brand": "Chrysler",
     "name": "PT Cruiser Cabrio",
     "year": "2006",
     "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2006/cabrio",
     "price": "",
     "versions": [
         {
-            "name": "PT Cruiser Cabrio 2.4 Limited",
+            "name": "2.4 Limited",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2006/cabrio/estandar/pt-cruiser-cabrio-24-limited/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "PT Cruiser Cabrio 2.4 Limited Aut.",
+            "name": "2.4 Limited Aut.",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2006/cabrio/estandar/pt-cruiser-cabrio-24-limited-aut/datos",
@@ -286,7 +287,7 @@
             ]
         },
         {
-            "name": "PT Cruiser Cabrio 2.4 Turbo GT",
+            "name": "2.4 Turbo GT",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2006/cabrio/estandar/pt-cruiser-cabrio-24-turbo-gt/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Toyota",
     "name": "Corolla Wagon",
     "year": "2006",
     "url": "https://www.km77.com/coches/toyota/corolla/2006/wagon",
     "price": "",
     "versions": [
         {
-            "name": "Corolla Wagon 1.4 D4-D 90 CV Luna",
+            "name": "1.4 D4-D 90 CV Luna",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/toyota/corolla/2006/wagon/luna/corolla-wagon-14-d4-d-90-cv-luna/datos",
@@ -179,7 +180,7 @@
             ]
         },
         {
-            "name": "Corolla Wagon 1.4 D4-D 90 CV Luna MMT",
+            "name": "1.4 D4-D 90 CV Luna MMT",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/toyota/corolla/2006/wagon/luna/corolla-wagon-14-d4-d-90-cv-luna-mmt/datos",
@@ -353,7 +354,7 @@
             ]
         },
         {
-            "name": "Corolla Wagon 2.0 D4-D 116 CV Sol",
+            "name": "2.0 D4-D 116 CV Sol",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/toyota/corolla/2006/wagon/sol/corolla-wagon-20-d4-d-116-cv-sol/datos",

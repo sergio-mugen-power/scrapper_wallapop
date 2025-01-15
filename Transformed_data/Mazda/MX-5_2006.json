@@ -1,11 +1,12 @@
 {
+    "brand": "Mazda",
     "name": "MX-5",
     "year": "2006",
     "url": "https://www.km77.com/coches/mazda/mx-5/2006/estandar",
     "price": "Desde 23.320 €",
     "versions": [
         {
-            "name": "MX-5 1.8 Active",
+            "name": "1.8 Active",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/mazda/mx-5/2006/estandar/active/mx-5-18-active/datos",
@@ -176,7 +177,7 @@
             ]
         },
         {
-            "name": "MX-5 1.8 Active+",
+            "name": "1.8 Active+",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/mazda/mx-5/2006/estandar/activeplus/mx-5-18-active2/datos",
@@ -351,7 +352,7 @@
             ]
         },
         {
-            "name": "MX-5 Active 1.8",
+            "name": "Active 1.8",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/mazda/mx-5/2006/estandar/active/mx-5-active-18/datos",
@@ -526,7 +527,7 @@
             ]
         },
         {
-            "name": "MX-5 Active+ 1.8",
+            "name": "Active+ 1.8",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/mazda/mx-5/2006/estandar/activeplus/mx-5-active-182/datos",
@@ -708,7 +709,7 @@
             ]
         },
         {
-            "name": "MX-5 Active+ 2.0",
+            "name": "Active+ 2.0",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/mazda/mx-5/2006/estandar/activeplus/mx-5-active-20/datos",
@@ -890,7 +891,7 @@
             ]
         },
         {
-            "name": "MX-5 2.0 Active+",
+            "name": "2.0 Active+",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/mazda/mx-5/2006/estandar/activeplus/mx-5-20-active/datos",
@@ -1067,7 +1068,7 @@
             ]
         },
         {
-            "name": "MX-5 Sportive 2.0",
+            "name": "Sportive 2.0",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/mazda/mx-5/2006/estandar/sportive/mx-5-sportive-20/datos",
@@ -1253,7 +1254,7 @@
             ]
         },
         {
-            "name": "MX-5 2.0 Sportive",
+            "name": "2.0 Sportive",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/mazda/mx-5/2006/estandar/sportive/mx-5-20-sportive/datos",
@@ -1434,7 +1435,7 @@
             ]
         },
         {
-            "name": "MX-5 3rd Generation Limited 2.0",
+            "name": "3rd Generation Limited 2.0",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/mazda/mx-5/2006/estandar/generation-limited/mx-5-3rd-generation-limited-20/datos",

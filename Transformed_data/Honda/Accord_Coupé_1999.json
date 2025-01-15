@@ -1,11 +1,12 @@
 {
+    "brand": "Honda",
     "name": "Accord Coupé",
     "year": "1999",
     "url": "https://www.km77.com/coches/honda/accord/1999/coupe",
     "price": "",
     "versions": [
         {
-            "name": "Accord Coupé 2.0i ES VTEC",
+            "name": "2.0i ES VTEC",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/honda/accord/1999/coupe/es/accord-coupe-20i-es-vtec/datos",
@@ -16,7 +17,7 @@
             "maletero": "465"
         },
         {
-            "name": "Accord Coupé 3.0i V6 VTEC",
+            "name": "3.0i V6 VTEC",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/honda/accord/1999/coupe/estandar/accord-coupe-30i-v6-vtec/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Mazda",
     "name": "CX-7",
     "year": "2007",
     "url": "https://www.km77.com/coches/mazda/cx-7/2007/estandar",
     "price": "",
     "versions": [
         {
-            "name": "CX-7 Sportive 2.3 DISI Turbo 260 CV",
+            "name": "Sportive 2.3 DISI Turbo 260 CV",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/mazda/cx-7/2007/estandar/sportive/cx-7-sportive-23-disi-turbo-260-cv/datos",
@@ -177,7 +178,7 @@
             ]
         },
         {
-            "name": "CX-7 Sportive 2.3 260 CV",
+            "name": "Sportive 2.3 260 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/mazda/cx-7/2007/estandar/sportive/cx-7-sportive-23-260-cv/datos",

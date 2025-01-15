@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "T-Roc Cabrio",
     "year": "2020",
     "url": "https://www.km77.com/coches/volkswagen/t-roc/2020/cabrio",
     "price": "Desde 27.640 €",
     "versions": [
         {
-            "name": "T-Roc Cabrio Style 1.0 TSI 81 kW (110 CV)",
+            "name": "Style 1.0 TSI 81 kW (110 CV)",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volkswagen/t-roc/2020/cabrio/style/t-roc-cabrio-style-10-tsi-81-kw-110-cv/datos",
@@ -25,7 +26,7 @@
             ]
         },
         {
-            "name": "T-Roc Cabrio Style 1.0 TSI 85 kW (115 CV)",
+            "name": "Style 1.0 TSI 85 kW (115 CV)",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/volkswagen/t-roc/2020/cabrio/style/t-roc-cabrio-style-10-tsi-85-kw-115-cv/datos",
@@ -45,7 +46,7 @@
             ]
         },
         {
-            "name": "T-Roc Cabrio Style 1.5 TSI 110 kW (150 CV)",
+            "name": "Style 1.5 TSI 110 kW (150 CV)",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volkswagen/t-roc/2020/cabrio/style/t-roc-cabrio-style-15-tsi-110-kw-150-cv/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "T-Roc Cabrio Style 1.5 TSI 110 kW (150 CV) DSG 7 vel.",
+            "name": "Style 1.5 TSI 110 kW (150 CV) DSG 7 vel.",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volkswagen/t-roc/2020/cabrio/style/t-roc-cabrio-style-15-tsi-110-kw-150-cv-dsg-7-vel/datos",
@@ -85,7 +86,7 @@
             ]
         },
         {
-            "name": "T-Roc Cabrio R-Line 1.5 TSI 110 kW (150 CV)",
+            "name": "R-Line 1.5 TSI 110 kW (150 CV)",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volkswagen/t-roc/2020/cabrio/r-line/t-roc-cabrio-r-line-15-tsi-110-kw-150-cv/datos",
@@ -105,7 +106,7 @@
             ]
         },
         {
-            "name": "T-Roc Cabrio R-Line 1.5 TSI 110 kW (150 CV) DSG 7 vel.",
+            "name": "R-Line 1.5 TSI 110 kW (150 CV) DSG 7 vel.",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/volkswagen/t-roc/2020/cabrio/r-line/t-roc-cabrio-r-line-15-tsi-110-kw-150-cv-dsg-7-vel/datos",

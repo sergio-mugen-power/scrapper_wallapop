@@ -1,11 +1,12 @@
 {
+    "brand": "SWM",
     "name": "G01",
     "year": "2018",
     "url": "https://www.km77.com/coches/swm/g01/2018/estandar",
     "price": "Desde 27.115 €",
     "versions": [
         {
-            "name": "G01 Basic (11/2021 - )",
+            "name": "Basic (11/2021 - )",
             "start_year": "2021",
             "end_year": "",
             "url": "https://www.km77.com/coches/swm/g01/2018/estandar/estandar/g01/datos",
@@ -16,7 +17,7 @@
             "maletero": "570"
         },
         {
-            "name": "G01 Luxury (11/2021 - )",
+            "name": "Luxury (11/2021 - )",
             "start_year": "2021",
             "end_year": "",
             "url": "https://www.km77.com/coches/swm/g01/2018/estandar/estandar/g01-elite/datos",
@@ -27,7 +28,7 @@
             "maletero": "570"
         },
         {
-            "name": "G01 AT Premium (11/2021 - )",
+            "name": "AT Premium (11/2021 - )",
             "start_year": "2021",
             "end_year": "",
             "url": "https://www.km77.com/coches/swm/g01/2018/estandar/estandar/g01-at-elite/datos",

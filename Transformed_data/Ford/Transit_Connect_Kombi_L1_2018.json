@@ -1,11 +1,12 @@
 {
+    "brand": "Ford",
     "name": "Transit Connect Kombi L1",
     "year": "2018",
     "url": "https://www.km77.com/coches/ford/transit-connect/2018/kombi-l1",
     "price": "",
     "versions": [
         {
-            "name": "Transit Connect Kombi L1 Ambiente 1.5 TDCi EcoBlue 55 kW (75 CV) S&S",
+            "name": "Ambiente 1.5 TDCi EcoBlue 55 kW (75 CV) S&S",
             "start_year": "2018",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/ford/transit-connect/2018/kombi-l1/ambiente/transit-connect-kombi-l1-ambiente-15-tdci-ecoblue-55-kw-75-cv-ss/datos",
@@ -202,7 +203,7 @@
             ]
         },
         {
-            "name": "Transit Connect Kombi L1 Ambiente 1.5 TDCi EcoBlue 74 kW (100 CV) S&S",
+            "name": "Ambiente 1.5 TDCi EcoBlue 74 kW (100 CV) S&S",
             "start_year": "2018",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/ford/transit-connect/2018/kombi-l1/ambiente/transit-connect-kombi-l1-ambiente-15-tdci-ecoblue-74-kw-100-cv-ss/datos",
@@ -400,7 +401,7 @@
             ]
         },
         {
-            "name": "Transit Connect Kombi L1 Trend 1.5 TDCi EcoBlue 88 kW (120 CV) S&S",
+            "name": "Trend 1.5 TDCi EcoBlue 88 kW (120 CV) S&S",
             "start_year": "2018",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/ford/transit-connect/2018/kombi-l1/trend/transit-connect-kombi-l1-trend-15-tdci-ecoblue-88-kw-120-cv-ss/datos",
@@ -622,7 +623,7 @@
             ]
         },
         {
-            "name": "Transit Connect Kombi L1 Trend 1.5 TDCi 74 kW (100 CV)",
+            "name": "Trend 1.5 TDCi 74 kW (100 CV)",
             "start_year": "2018",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/ford/transit-connect/2018/kombi-l1/trend/transit-connect-kombi-l1-trend-15-tdci-ecoblue-74-kw-100-cv-ss/datos",
@@ -846,7 +847,7 @@
             ]
         },
         {
-            "name": "Transit Connect Kombi L1 Trend 1.5 TDCi 74 kW (100 CV) Aut.",
+            "name": "Trend 1.5 TDCi 74 kW (100 CV) Aut.",
             "start_year": "2018",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/ford/transit-connect/2018/kombi-l1/trend/transit-connect-kombi-l1-trend-15-tdci-ecoblue-74-kw-100-cv-ss-aut-8-vel/datos",

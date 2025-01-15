@@ -1,11 +1,12 @@
 {
+    "brand": "SEAT",
     "name": "Córdoba Vario",
     "year": "1999",
     "url": "https://www.km77.com/coches/seat/cordoba/1999/vario",
     "price": "",
     "versions": [
         {
-            "name": "Córdoba Vario 1.6 Stella",
+            "name": "1.6 Stella",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/seat/cordoba/1999/vario/stella/cordoba-vario-16-stella/datos",
@@ -138,7 +139,7 @@
             ]
         },
         {
-            "name": "Córdoba Vario 1.4 16V Stella",
+            "name": "1.4 16V Stella",
             "start_year": "1999",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/seat/cordoba/1999/vario/stella/cordoba-vario-14-16v-stella/datos",
@@ -272,7 +273,7 @@
             ]
         },
         {
-            "name": "Córdoba Vario 1.9 SDi Stella",
+            "name": "1.9 SDi Stella",
             "start_year": "1999",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/seat/cordoba/1999/vario/stella/cordoba-vario-19-sdi-stella/datos",
@@ -406,7 +407,7 @@
             ]
         },
         {
-            "name": "Córdoba Vario 1.6 Signa",
+            "name": "1.6 Signa",
             "start_year": "1999",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/seat/cordoba/1999/vario/signa/cordoba-vario-16-signa/datos",
@@ -548,7 +549,7 @@
             ]
         },
         {
-            "name": "Córdoba Vario 1.9 TDi Stella",
+            "name": "1.9 TDi Stella",
             "start_year": "1999",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/seat/cordoba/1999/vario/stella/cordoba-vario-19-tdi-stella/datos",
@@ -682,7 +683,7 @@
             ]
         },
         {
-            "name": "Córdoba Vario 1.9 TDi Signa",
+            "name": "1.9 TDi Signa",
             "start_year": "1999",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/seat/cordoba/1999/vario/signa/cordoba-vario-19-tdi-signa/datos",
@@ -822,7 +823,7 @@
             ]
         },
         {
-            "name": "Córdoba Vario 1.9 TDi Sport 110 CV",
+            "name": "1.9 TDi Sport 110 CV",
             "start_year": "1999",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/seat/cordoba/1999/vario/sport/cordoba-vario-19-tdi-sport-110-cv/datos",

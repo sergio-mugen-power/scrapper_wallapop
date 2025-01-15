@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Polo Cross",
     "year": "2015",
     "url": "https://www.km77.com/coches/volkswagen/polo/2015/cross",
     "price": "",
     "versions": [
         {
-            "name": "Polo Cross 1.2 TSI 90 CV BMT",
+            "name": "1.2 TSI 90 CV BMT",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volkswagen/polo/2015/cross/estandar/polo-cross-12-tsi-90-cv-bmt/datos",
@@ -25,7 +26,7 @@
             ]
         },
         {
-            "name": "Polo Cross 1.2 TSI 90 CV BMT DSG 7 vel.",
+            "name": "1.2 TSI 90 CV BMT DSG 7 vel.",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volkswagen/polo/2015/cross/estandar/polo-cross-12-tsi-90-cv-bmt-dsg-7-vel/datos",
@@ -45,7 +46,7 @@
             ]
         },
         {
-            "name": "Polo Cross 1.4 TDI 90 CV BMT",
+            "name": "1.4 TDI 90 CV BMT",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volkswagen/polo/2015/cross/estandar/polo-cross-14-tdi-90-cv-bmt/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "Polo Cross 1.4 TDI 90 CV BMT DSG 7 vel.",
+            "name": "1.4 TDI 90 CV BMT DSG 7 vel.",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/volkswagen/polo/2015/cross/estandar/polo-cross-14-tdi-90-cv-bmt-dsg-7-vel/datos",

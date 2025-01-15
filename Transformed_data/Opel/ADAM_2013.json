@@ -1,11 +1,12 @@
 {
+    "brand": "Opel",
     "name": "ADAM",
     "year": "2013",
     "url": "https://www.km77.com/coches/opel/adam/2013/estandar",
     "price": "",
     "versions": [
         {
-            "name": "ADAM Jam 1.2 70 CV ecoFLEX",
+            "name": "Jam 1.2 70 CV ecoFLEX",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/jam/adam-jam-12-70-cv-ecoflex/datos",
@@ -16,7 +17,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM Jam 1.4 87 CV ecoFLEX",
+            "name": "Jam 1.4 87 CV ecoFLEX",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/jam/adam-jam-14-87-cv-ecoflex/datos",
@@ -27,7 +28,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM Unlimited 1.4 87 CV ecoFLEX",
+            "name": "Unlimited 1.4 87 CV ecoFLEX",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/unlimited/adam-jam-14-87-cv-ecoflex2/datos",
@@ -38,7 +39,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM Jam 1.4 87 CV Easytronic",
+            "name": "Jam 1.4 87 CV Easytronic",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/jam/adam-jam-14-87-cv-easytronic/datos",
@@ -49,7 +50,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM Jam 1.2 70 CV ecoFLEX",
+            "name": "Jam 1.2 70 CV ecoFLEX",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/jam/adam-12-ecoflex/datos",
@@ -60,7 +61,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM Glam 1.4 87 CV ecoFLEX",
+            "name": "Glam 1.4 87 CV ecoFLEX",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/glam/adam-glam-14-87-cv-ecoflex2/datos",
@@ -71,7 +72,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM Jam 1.4 87 CV ecoFLEX",
+            "name": "Jam 1.4 87 CV ecoFLEX",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/jam/adam-14-87-cv-ecoflex/datos",
@@ -82,7 +83,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM Glam Unlimited 1.4 64 kW (87 CV) Start&Stop",
+            "name": "Glam Unlimited 1.4 64 kW (87 CV) Start&Stop",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/glam-unlimited/adam-glam-unlimited-14-64-kw-87-cv-startstop/datos",
@@ -93,7 +94,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM Glam 1.4 100 CV ecoFLEX",
+            "name": "Glam 1.4 100 CV ecoFLEX",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/glam/adam-glam-14-100-cv-ecoflex/datos",
@@ -104,7 +105,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM Glam 1.4 87 CV Easytronic",
+            "name": "Glam 1.4 87 CV Easytronic",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/glam/adam-glam-14-87-cv-easytronic-ecoflex/datos",
@@ -115,7 +116,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM Glam 1.4 64 kW (87 CV) Start&Stop",
+            "name": "Glam 1.4 64 kW (87 CV) Start&Stop",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/glam/adam-glam-14-64-kw-87-cv-ecoflex/datos",
@@ -126,7 +127,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM Jam 1.4 GLP 87 CV",
+            "name": "Jam 1.4 GLP 87 CV",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/jam/adam-jam-14-glp-87-cv/datos",
@@ -137,7 +138,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM Glam 1.4 74 kW (100 CV) Start&Stop",
+            "name": "Glam 1.4 74 kW (100 CV) Start&Stop",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/glam/adam-glam-14-74-kw-100-cv-ecoflex/datos",
@@ -148,7 +149,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM Glam 1.2 70 CV ecoFLEX",
+            "name": "Glam 1.2 70 CV ecoFLEX",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/glam/adam-glam-12-69-cv-ecoflex/datos",
@@ -159,7 +160,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM Glam 1.4 87 CV ecoFLEX",
+            "name": "Glam 1.4 87 CV ecoFLEX",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/glam/adam-glam-14-87-cv-ecoflex/datos",
@@ -170,7 +171,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM Slam 1.4 100 CV ecoFLEX",
+            "name": "Slam 1.4 100 CV ecoFLEX",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/slam/adam-slam-14-100-cv-ecoflex/datos",
@@ -181,7 +182,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM Jam 1.4 100 CV ecoFLEX",
+            "name": "Jam 1.4 100 CV ecoFLEX",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/jam/adam-14-101-cv-ecoflex/datos",
@@ -192,7 +193,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM ROCKS 1.4 87 CV ecoFLEX",
+            "name": "ROCKS 1.4 87 CV ecoFLEX",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/rocks/adam-rocks-14-87-cv-ecoflex/datos",
@@ -203,7 +204,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM Glam 1.4 100 CV ecoFLEX",
+            "name": "Glam 1.4 100 CV ecoFLEX",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/glam/adam-glam-14-101-cv-ecoflex/datos",
@@ -214,7 +215,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM Slam 1.2 70 CV ecoFLEX",
+            "name": "Slam 1.2 70 CV ecoFLEX",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/slam/adam-slam-12-69-cv-ecoflex/datos",
@@ -225,7 +226,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM ROCKS 1.4 87 CV Easytronic",
+            "name": "ROCKS 1.4 87 CV Easytronic",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/rocks/adam-rocks-14-87-cv-easytronic/datos",
@@ -236,7 +237,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM ROCKS 1.4 74 kW (100 CV) Start&Stop",
+            "name": "ROCKS 1.4 74 kW (100 CV) Start&Stop",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/rocks/adam-rocks-14-74-kw-100-cv-ecoflex/datos",
@@ -247,7 +248,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM ROCKS 1.4 100 CV ecoFLEX",
+            "name": "ROCKS 1.4 100 CV ecoFLEX",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/rocks/adam-rocks-14-100-cv-ecoflex/datos",
@@ -258,7 +259,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM Slam 1.4 87 CV ecoFLEX",
+            "name": "Slam 1.4 87 CV ecoFLEX",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/slam/adam-slam-14-87-cv-ecoflex/datos",
@@ -269,7 +270,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM White/Black Link 1.4 87 CV ecoFLEX",
+            "name": "White/Black Link 1.4 87 CV ecoFLEX",
             "start_year": "2014",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/white-black-link/adam-whiteblack-link-14-87-cv-ecoflex/datos",
@@ -280,7 +281,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM Slam 1.4 100 CV ecoFLEX",
+            "name": "Slam 1.4 100 CV ecoFLEX",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/slam/adam-glam-14-101-cv-ecoflex2/datos",
@@ -291,7 +292,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM Glam 1.4 GLP 64 kW (87 CV)",
+            "name": "Glam 1.4 GLP 64 kW (87 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/glam/adam-glam-14-glp-64-kw-87-cv/datos",
@@ -302,7 +303,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM Slam 1.0 ECOTEC Direct Injection Turbo 115 CV",
+            "name": "Slam 1.0 ECOTEC Direct Injection Turbo 115 CV",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/slam/adam-slam-10-ecotec-direct-injection-turbo-115-cv/datos",
@@ -313,7 +314,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM Siri 1.4 87 CV ecoFLEX",
+            "name": "Siri 1.4 87 CV ecoFLEX",
             "start_year": "2014",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/siri/adam-slam-14-87-cv-ecoflex2/datos",
@@ -324,7 +325,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM S 1.4 Turbo 110 kW (150 CV) Start&Stop",
+            "name": "S 1.4 Turbo 110 kW (150 CV) Start&Stop",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/s/adam-s-14-turbo-110-kw-150-cv/datos",
@@ -335,7 +336,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM ROCKS 1.0 ECOTEC Direct Injection Turbo 115 CV",
+            "name": "ROCKS 1.0 ECOTEC Direct Injection Turbo 115 CV",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/rocks/adam-rocks-10-ecotec-direct-injection-turbo-115-cv/datos",
@@ -346,7 +347,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM S 1.4 Turbo 150 CV",
+            "name": "S 1.4 Turbo 150 CV",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/s/adam-s-2014/datos",
@@ -357,7 +358,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM ROCKS S 1.4 Turbo 150 CV",
+            "name": "ROCKS S 1.4 Turbo 150 CV",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/rocks/adam-rocks-s-14-turbo-150-cv/datos",
@@ -368,7 +369,7 @@
             "maletero": "170"
         },
         {
-            "name": "ADAM ROCKS S 1.4 Turbo 110 kW (150 CV) Start&Stop",
+            "name": "ROCKS S 1.4 Turbo 110 kW (150 CV) Start&Stop",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/opel/adam/2013/estandar/rocks/adam-rocks-s-14-turbo-110-kw-150-cv/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Tesla",
     "name": "Model S",
     "year": "2013",
     "url": "https://www.km77.com/coches/tesla/model-s/2013/estandar",
     "price": "Desde 89.990 €",
     "versions": [
         {
-            "name": "Model S 60 kWh",
+            "name": "60 kWh",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/tesla/model-s/2013/estandar/estandar/model-s-60-kwh/datos",
@@ -222,7 +223,7 @@
             ]
         },
         {
-            "name": "Model S 85 kWh",
+            "name": "85 kWh",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/tesla/model-s/2013/estandar/estandar/model-s-85-kwh/datos",
@@ -439,7 +440,7 @@
             ]
         },
         {
-            "name": "Model S 85 kWh PERFORMANCE",
+            "name": "85 kWh PERFORMANCE",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/tesla/model-s/2013/estandar/performance/model-s-performance-85-kwh/datos",
@@ -660,7 +661,7 @@
             ]
         },
         {
-            "name": "Model S SIGNATURE 85 kWh",
+            "name": "SIGNATURE 85 kWh",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/tesla/model-s/2013/estandar/signature/model-s-signature-85-kwh/datos",
@@ -855,7 +856,7 @@
             ]
         },
         {
-            "name": "Model S SIGNATURE PERFORMANCE 85 kWh",
+            "name": "SIGNATURE PERFORMANCE 85 kWh",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/tesla/model-s/2013/estandar/signature-performance/model-s-signature-performance-85-kwh/datos",

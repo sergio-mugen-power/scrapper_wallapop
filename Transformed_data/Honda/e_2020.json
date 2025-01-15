@@ -1,11 +1,12 @@
 {
+    "brand": "Honda",
     "name": "e",
     "year": "2020",
     "url": "https://www.km77.com/coches/honda/e/2020/estandar",
     "price": "",
     "versions": [
         {
-            "name": "e 100 kW (136 CV)",
+            "name": "100 kW (136 CV)",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/honda/e/2020/estandar/estandar/e/datos",
@@ -222,7 +223,7 @@
             ]
         },
         {
-            "name": "e Advance 113 kW (154 CV)",
+            "name": "Advanc 113 kW (154 CV)",
             "start_year": "2019",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/honda/e/2020/estandar/estandar/e-154-cv/datos",

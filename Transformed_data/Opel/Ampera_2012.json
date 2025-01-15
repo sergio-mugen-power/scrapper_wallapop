@@ -1,11 +1,12 @@
 {
+    "brand": "Opel",
     "name": "Ampera",
     "year": "2012",
     "url": "https://www.km77.com/coches/opel/ampera/2012/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Ampera Selective",
+            "name": "Selective",
             "start_year": "2012",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/opel/ampera/2012/estandar/selective/ampera-selective2/datos",
@@ -225,7 +226,7 @@
             ]
         },
         {
-            "name": "Ampera Excellence",
+            "name": "Excellence",
             "start_year": "2012",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/opel/ampera/2012/estandar/excellence/ampera-excellence2/datos",
@@ -456,7 +457,7 @@
             ]
         },
         {
-            "name": "Ampera Excellence",
+            "name": "Excellence",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/ampera/2012/estandar/excellence/ampera/datos",
@@ -675,7 +676,7 @@
             ]
         },
         {
-            "name": "Ampera Selective",
+            "name": "Selective",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/ampera/2012/estandar/selective/ampera-selective/datos",
@@ -888,7 +889,7 @@
             ]
         },
         {
-            "name": "Ampera Excellence",
+            "name": "Excellence",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/ampera/2012/estandar/excellence/ampera-excellence/datos",

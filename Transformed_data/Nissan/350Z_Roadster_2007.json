@@ -1,11 +1,12 @@
 {
+    "brand": "Nissan",
     "name": "350Z Roadster",
     "year": "2007",
     "url": "https://www.km77.com/coches/nissan/350z/2007/roadster",
     "price": "",
     "versions": [
         {
-            "name": "350Z Roadster 3.5 V6 Pack",
+            "name": "3.5 V6 Pack",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/nissan/350z/2007/roadster/pack/350z-roadster-35-v6-pack/datos",
@@ -172,7 +173,7 @@
             ]
         },
         {
-            "name": "350Z Roadster 3.5 V6 Pack",
+            "name": "3.5 V6 Pack",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/nissan/350z/2007/roadster/pack/350z-roadster-35-v6-pack2/datos",

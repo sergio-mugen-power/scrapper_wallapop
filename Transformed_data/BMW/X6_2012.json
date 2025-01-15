@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "X6",
     "year": "2012",
     "url": "https://www.km77.com/coches/bmw/x6/2012/estandar",
     "price": "Desde 99.300 €",
     "versions": [
         {
-            "name": "X6 xDrive30d",
+            "name": "xDrive30d",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x6/2012/estandar/estandar/x6-xdrive30d/datos",
@@ -303,7 +304,7 @@
             ]
         },
         {
-            "name": "X6 xDrive35i",
+            "name": "xDrive35i",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x6/2012/estandar/estandar/x6-xdrive35i/datos",
@@ -599,7 +600,7 @@
             ]
         },
         {
-            "name": "X6 xDrive30d",
+            "name": "xDrive30d",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/bmw/x6/2012/estandar/estandar/x6-xdrive30d2/datos",
@@ -897,7 +898,7 @@
             ]
         },
         {
-            "name": "X6 xDrive35i",
+            "name": "xDrive35i",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/bmw/x6/2012/estandar/estandar/x6-xdrive35i2/datos",
@@ -1193,7 +1194,7 @@
             ]
         },
         {
-            "name": "X6 xDrive40d",
+            "name": "xDrive40d",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x6/2012/estandar/estandar/x6-xdrive40d/datos",
@@ -1491,7 +1492,7 @@
             ]
         },
         {
-            "name": "X6 xDrive40d",
+            "name": "xDrive40d",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/bmw/x6/2012/estandar/estandar/x6-xdrive40d2/datos",
@@ -1789,7 +1790,7 @@
             ]
         },
         {
-            "name": "X6 xDrive50i",
+            "name": "xDrive50i",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x6/2012/estandar/estandar/x6-xdrive50i/datos",
@@ -2085,7 +2086,7 @@
             ]
         },
         {
-            "name": "X6 xDrive50i",
+            "name": "xDrive50i",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/bmw/x6/2012/estandar/estandar/x6-xdrive50i2/datos",
@@ -2381,7 +2382,7 @@
             ]
         },
         {
-            "name": "X6 M50d",
+            "name": "M50d",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x6/2012/estandar/m-performance/x6-m50d/datos",
@@ -2669,7 +2670,7 @@
             ]
         },
         {
-            "name": "X6 M50d",
+            "name": "M50d",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/bmw/x6/2012/estandar/m-performance/x6-m50d2/datos",
@@ -2969,7 +2970,7 @@
             ]
         },
         {
-            "name": "X6 M",
+            "name": "M",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/bmw/x6/2012/estandar/x6-m/x6-m/datos",
@@ -3231,7 +3232,7 @@
             ]
         },
         {
-            "name": "X6 M",
+            "name": "M",
             "start_year": "2012",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/bmw/x6/2012/estandar/x6-m/x6-m2/datos",

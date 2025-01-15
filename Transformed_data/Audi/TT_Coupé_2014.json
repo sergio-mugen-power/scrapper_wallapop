@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "TT Coupé",
     "year": "2014",
     "url": "https://www.km77.com/coches/audi/tt/2014/coupe",
     "price": "",
     "versions": [
         {
-            "name": "TT Coupé 1.8 TFSI 132 kW (180 CV)",
+            "name": "1.8 TFSI 132 kW (180 CV)",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/tt/2014/coupe/estandar/tt-coupe-18-tfsi-180-cv/datos",
@@ -269,7 +270,7 @@
             ]
         },
         {
-            "name": "TT Coupé 1.8 TFSI 132 kW (180 CV) S tronic 7 vel.",
+            "name": "1.8 TFSI 132 kW (180 CV) S tronic 7 vel.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/tt/2014/coupe/estandar/tt-coupe-18-tfsi-180-cv-s-tronic-7-vel/datos",
@@ -535,7 +536,7 @@
             ]
         },
         {
-            "name": "TT Coupé 2.0 TDI 184 CV",
+            "name": "2.0 TDI 184 CV",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/audi/tt/2014/coupe/estandar/tt-2014/datos",
@@ -780,7 +781,7 @@
             ]
         },
         {
-            "name": "TT Coupé 2.0 TFSI 169 kW (230 CV)",
+            "name": "2.0 TFSI 169 kW (230 CV)",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/tt/2014/coupe/estandar/tt-coupe-20-tfsi-230-cv/datos",
@@ -1042,7 +1043,7 @@
             ]
         },
         {
-            "name": "TT Coupé 2.0 TDI 135 kW (184 CV)",
+            "name": "2.0 TDI 135 kW (184 CV)",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/audi/tt/2014/coupe/estandar/tt-coupe-20-tdi-184-cv/datos",
@@ -1300,7 +1301,7 @@
             ]
         },
         {
-            "name": "TT Coupé 2.0 TDI 135 kW (184 CV)",
+            "name": "2.0 TDI 135 kW (184 CV)",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/tt/2014/coupe/estandar/tt-coupe-20-tdi-135-kw-184-cv/datos",
@@ -1560,7 +1561,7 @@
             ]
         },
         {
-            "name": "TT Coupé 2.0 TFSI 169 kW (230 CV) S tronic 6 vel.",
+            "name": "2.0 TFSI 169 kW (230 CV) S tronic 6 vel.",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/tt/2014/coupe/estandar/tt-coupe-20-tfsi-230-cv-s-tronic/datos",
@@ -1824,7 +1825,7 @@
             ]
         },
         {
-            "name": "TT Coupé 2.0 TFSI 169 kW (230 CV) quattro S tronic 6 vel.",
+            "name": "2.0 TFSI 169 kW (230 CV) quattro S tronic 6 vel.",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/tt/2014/coupe/estandar/tt-coupe-20-tfsi-230-cv-quattro-s-tronic/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Peugeot",
     "name": "3008",
     "year": "2014",
     "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar",
     "price": "Desde 36.160 €",
     "versions": [
         {
-            "name": "3008 Access 1.2 PureTech 130 S&S",
+            "name": "Access 1.2 PureTech 130 S&S",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/access/3008-access-12-puretech-130-ss/datos",
@@ -206,7 +207,7 @@
             ]
         },
         {
-            "name": "3008 Access 1.6 VTi 120",
+            "name": "Access 1.6 VTi 120",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/access/3008-acces-16-vti-120/datos",
@@ -406,7 +407,7 @@
             ]
         },
         {
-            "name": "3008 Style 1.2 PureTech 130 S&S",
+            "name": "Style 1.2 PureTech 130 S&S",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/style/3008-style-12-puretech-130-ss/datos",
@@ -623,7 +624,7 @@
             ]
         },
         {
-            "name": "3008 Active 1.6 VTi 120",
+            "name": "Active 1.6 VTi 120",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/active/3008-active-16-vti-120/datos",
@@ -831,7 +832,7 @@
             ]
         },
         {
-            "name": "3008 Style 1.6 VTi 120",
+            "name": "Style 1.6 VTi 120",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/style/3008-style-16-vti-120/datos",
@@ -1042,7 +1043,7 @@
             ]
         },
         {
-            "name": "3008 Access 1.6 BlueHDi 120",
+            "name": "Access 1.6 BlueHDi 120",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/access/3008-access-16-bluehdi-120/datos",
@@ -1244,7 +1245,7 @@
             ]
         },
         {
-            "name": "3008 Access 1.6 HDi 115",
+            "name": "Access 1.6 HDi 115",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/access/3008-access-16-hdi-115/datos",
@@ -1445,7 +1446,7 @@
             ]
         },
         {
-            "name": "3008 Style 1.6 BlueHDi 120",
+            "name": "Style 1.6 BlueHDi 120",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/style/3008-style-16-bluehdi-120/datos",
@@ -1666,7 +1667,7 @@
             ]
         },
         {
-            "name": "3008 Active 1.6 HDi 115",
+            "name": "Active 1.6 HDi 115",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/active/3008-active-16-hdi-115/datos",
@@ -1878,7 +1879,7 @@
             ]
         },
         {
-            "name": "3008 Style 1.6 HDi 115",
+            "name": "Style 1.6 HDi 115",
             "start_year": "2014",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/style/3008-style-16-hdi-115/datos",
@@ -2093,7 +2094,7 @@
             ]
         },
         {
-            "name": "3008 Active 1.6 BlueHDi 120",
+            "name": "Active 1.6 BlueHDi 120",
             "start_year": "2014",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/active/3008-active-16-bluehdi-120/datos",
@@ -2306,7 +2307,7 @@
             ]
         },
         {
-            "name": "3008 Allure 1.2 PureTech 130 S&S",
+            "name": "Allure 1.2 PureTech 130 S&S",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/allure/3008-allure-12-puretech-130-ss2/datos",
@@ -2533,7 +2534,7 @@
             ]
         },
         {
-            "name": "3008 Active 1.6 e-HDi 115 ETG6",
+            "name": "Active 1.6 e-HDi 115 ETG6",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/active/3008-active-16-e-hdi-115-etg6/datos",
@@ -2746,7 +2747,7 @@
             ]
         },
         {
-            "name": "3008 Allure 1.2 PureTech 130 S&S",
+            "name": "Allure 1.2 PureTech 130 S&S",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/allure/3008-allure-12-puretech-130-ss/datos",
@@ -2971,7 +2972,7 @@
             ]
         },
         {
-            "name": "3008 Style 1.6 BlueHDi 120 EAT6",
+            "name": "Style 1.6 BlueHDi 120 EAT6",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/style/3008-style-16-bluehdi-120-eat6/datos",
@@ -3192,7 +3193,7 @@
             ]
         },
         {
-            "name": "3008 Crossway 1.2 PureTech 130 S&S",
+            "name": "Crossway 1.2 PureTech 130 S&S",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/crossway/3008-crossway-12-puretech-130-ss2/datos",
@@ -3417,7 +3418,7 @@
             ]
         },
         {
-            "name": "3008 Style 1.6 e-HDi 115 ETG6",
+            "name": "Style 1.6 e-HDi 115 ETG6",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/style/3008-style-16-e-hdi-115-etg6-blue-lion/datos",
@@ -3633,7 +3634,7 @@
             ]
         },
         {
-            "name": "3008 Style 2.0 BlueHDi 150",
+            "name": "Style 2.0 BlueHDi 150",
             "start_year": "2016",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/style/3008-style-20-bluehdi-1503/datos",
@@ -3854,7 +3855,7 @@
             ]
         },
         {
-            "name": "3008 Crossway 1.2 PureTech 130 S&S",
+            "name": "Crossway 1.2 PureTech 130 S&S",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/crossway/3008-crossway-12-puretech-130-ss/datos",
@@ -4078,7 +4079,7 @@
             ]
         },
         {
-            "name": "3008 Active 2.0 HDi 150",
+            "name": "Active 2.0 HDi 150",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/active/3008-active-20-hdi-1502/datos",
@@ -4290,7 +4291,7 @@
             ]
         },
         {
-            "name": "3008 Style 2.0 BlueHDi 150",
+            "name": "Style 2.0 BlueHDi 150",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/style/3008-style-20-bluehdi-1502/datos",
@@ -4506,7 +4507,7 @@
             ]
         },
         {
-            "name": "3008 Style 2.0 HDi 150",
+            "name": "Style 2.0 HDi 150",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/style/3008-style-20-hdi-150/datos",
@@ -4721,7 +4722,7 @@
             ]
         },
         {
-            "name": "3008 Allure 1.6 THP 155",
+            "name": "Allure 1.6 THP 155",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/allure/3008-allure-16-thp-155/datos",
@@ -4944,7 +4945,7 @@
             ]
         },
         {
-            "name": "3008 Style 2.0 BlueHDi 150",
+            "name": "Style 2.0 BlueHDi 150",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/style/3008-style-20-bluehdi-150/datos",
@@ -5160,7 +5161,7 @@
             ]
         },
         {
-            "name": "3008 Allure 1.6 HDi 115",
+            "name": "Allure 1.6 HDi 115",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/allure/3008-allure-16-hdi-115/datos",
@@ -5384,7 +5385,7 @@
             ]
         },
         {
-            "name": "3008 Allure 1.6 BlueHDi 120",
+            "name": "Allure 1.6 BlueHDi 120",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/allure/3008-allure-16-bluehdi-120/datos",
@@ -5612,7 +5613,7 @@
             ]
         },
         {
-            "name": "3008 Crossway 1.6 BlueHDi 120",
+            "name": "Crossway 1.6 BlueHDi 120",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/crossway/3008-crossway-16-bluehdi-120/datos",
@@ -5837,7 +5838,7 @@
             ]
         },
         {
-            "name": "3008 Allure 1.6 THP 165 S&S EAT6",
+            "name": "Allure 1.6 THP 165 S&S EAT6",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/allure/3008-allure-16-thp-165-ss-eat6/datos",
@@ -6062,7 +6063,7 @@
             ]
         },
         {
-            "name": "3008 Allure 1.6 e-HDi 115 ETG6",
+            "name": "Allure 1.6 e-HDi 115 ETG6",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/allure/3008-allure-16-e-hdi-115-etg6/datos",
@@ -6287,7 +6288,7 @@
             ]
         },
         {
-            "name": "3008 Allure 1.6 BlueHDi 120 EAT6",
+            "name": "Allure 1.6 BlueHDi 120 EAT6",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/allure/3008-allure-16-bluehdi-120-eat6/datos",
@@ -6515,7 +6516,7 @@
             ]
         },
         {
-            "name": "3008 Allure 1.6 THP 155 Aut.",
+            "name": "Allure 1.6 THP 155 Aut.",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/allure/3008-allure-16-thp-155-aut/datos",
@@ -6735,7 +6736,7 @@
             ]
         },
         {
-            "name": "3008 Allure 2.0 BlueHDi 150",
+            "name": "Allure 2.0 BlueHDi 150",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/allure/3008-allure-20-bluehdi-1502/datos",
@@ -6961,7 +6962,7 @@
             ]
         },
         {
-            "name": "3008 Crossway 1.6 BlueHDi 120 EAT6",
+            "name": "Crossway 1.6 BlueHDi 120 EAT6",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/crossway/3008-crossway-16-bluehdi-120-eat6/datos",
@@ -7186,7 +7187,7 @@
             ]
         },
         {
-            "name": "3008 Allure 2.0 BlueHDi 150",
+            "name": "Allure 2.0 BlueHDi 150",
             "start_year": "2016",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/allure/3008-allure-20-bluehdi-1503/datos",
@@ -7414,7 +7415,7 @@
             ]
         },
         {
-            "name": "3008 Allure 2.0 HDi 150",
+            "name": "Allure 2.0 HDi 150",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/allure/3008-allure-20-hdi-150/datos",
@@ -7638,7 +7639,7 @@
             ]
         },
         {
-            "name": "3008 Allure 2.0 BlueHDi 150",
+            "name": "Allure 2.0 BlueHDi 150",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/allure/3008-allure-20-bluehdi-150/datos",
@@ -7863,7 +7864,7 @@
             ]
         },
         {
-            "name": "3008 Crossway 2.0 BlueHDi 150",
+            "name": "Crossway 2.0 BlueHDi 150",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/crossway/3008-crossway-20-bluehdi-150/datos",
@@ -8088,7 +8089,7 @@
             ]
         },
         {
-            "name": "3008 Allure 2.0 HDi 160 Aut.",
+            "name": "Allure 2.0 HDi 160 Aut.",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/allure/3008-allure-20-hdi-160-aut/datos",
@@ -8309,7 +8310,7 @@
             ]
         },
         {
-            "name": "3008 Allure 2.0 HDi 160 Aut.",
+            "name": "Allure 2.0 HDi 160 Aut.",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/allure/3008-allure-20-hdi-160-aut2/datos",
@@ -8531,7 +8532,7 @@
             ]
         },
         {
-            "name": "3008 HYbrid4",
+            "name": "HYbrid4",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/hybrid4/3008-hybrid42/datos",
@@ -8772,7 +8773,7 @@
             ]
         },
         {
-            "name": "3008 HYbrid4",
+            "name": "HYbrid4",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/3008/2014/estandar/hybrid4/3008-hybrid4/datos",

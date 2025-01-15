@@ -1,11 +1,12 @@
 {
+    "brand": "SEAT",
     "name": "Altea XL",
     "year": "2007",
     "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Altea XL 1.6 102 CV Reference",
+            "name": "1.6 102 CV Reference",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/reference/altea-xl-16-102-cv-reference/datos",
@@ -195,7 +196,7 @@
             ]
         },
         {
-            "name": "Altea XL Reference 1.6 102 CV",
+            "name": "Reference 1.6 102 CV",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/reference/altea-xl-reference-16-102-cv/datos",
@@ -395,7 +396,7 @@
             ]
         },
         {
-            "name": "Altea XL Reference 1.6 102 CV",
+            "name": "Reference 1.6 102 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/reference/altea-xl-reference-16-102-cv2/datos",
@@ -596,7 +597,7 @@
             ]
         },
         {
-            "name": "Altea XL 1.6 102 CV Stylance",
+            "name": "1.6 102 CV Stylance",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/stylance/altea-xl-16-102-cv-stylance/datos",
@@ -794,7 +795,7 @@
             ]
         },
         {
-            "name": "Altea XL Stylance 1.6 102 CV",
+            "name": "Stylance 1.6 102 CV",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/stylance/altea-xl-stylance-16-102-cv/datos",
@@ -1010,7 +1011,7 @@
             ]
         },
         {
-            "name": "Altea XL 1.9 TDI 105 CV Reference",
+            "name": "1.9 TDI 105 CV Reference",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/reference/altea-xl-19-tdi-105-cv-reference/datos",
@@ -1200,7 +1201,7 @@
             ]
         },
         {
-            "name": "Altea XL Reference 1.9 TDI 105 CV",
+            "name": "Reference 1.9 TDI 105 CV",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/reference/altea-xl-reference-19-tdi-105-cv/datos",
@@ -1400,7 +1401,7 @@
             ]
         },
         {
-            "name": "Altea XL Reference 1.9 TDI 105 CV",
+            "name": "Reference 1.9 TDI 105 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/reference/altea-xl-reference-19-tdi-105-cv2/datos",
@@ -1601,7 +1602,7 @@
             ]
         },
         {
-            "name": "Altea XL Stylance 1.6 102 CV",
+            "name": "Stylance 1.6 102 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/stylance/altea-xl-stylance-16-102-cv2/datos",
@@ -1818,7 +1819,7 @@
             ]
         },
         {
-            "name": "Altea XL Stylance 1.4 TSI 125 CV",
+            "name": "Stylance 1.4 TSI 125 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/stylance/altea-xl-stylance-14-tsi-125-cv2/datos",
@@ -2035,7 +2036,7 @@
             ]
         },
         {
-            "name": "Altea XL Stylance 1.4 TSI 125 CV",
+            "name": "Stylance 1.4 TSI 125 CV",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/stylance/altea-xl-stylance-14-tsi-125-cv/datos",
@@ -2252,7 +2253,7 @@
             ]
         },
         {
-            "name": "Altea XL 1.9 TDI 105 CV Stylance",
+            "name": "1.9 TDI 105 CV Stylance",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/stylance/altea-xl-19-tdi-105-cv-stylance/datos",
@@ -2450,7 +2451,7 @@
             ]
         },
         {
-            "name": "Altea XL Stylance 1.9 TDI 105 CV",
+            "name": "Stylance 1.9 TDI 105 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/stylance/altea-xl-stylance-19-tdi-105-cv2/datos",
@@ -2667,7 +2668,7 @@
             ]
         },
         {
-            "name": "Altea XL Stylance 1.9 TDI 105 CV",
+            "name": "Stylance 1.9 TDI 105 CV",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/stylance/altea-xl-stylance-19-tdi-105-cv/datos",
@@ -2883,7 +2884,7 @@
             ]
         },
         {
-            "name": "Altea XL 1.9 TDI 105 CV DSG Stylance",
+            "name": "1.9 TDI 105 CV DSG Stylance",
             "start_year": "2007",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/stylance/altea-xl-19-tdi-105-cv-dsg-stylance/datos",
@@ -3082,7 +3083,7 @@
             ]
         },
         {
-            "name": "Altea XL Stylance 1.9 TDI 105 CV DPF DSG",
+            "name": "Stylance 1.9 TDI 105 CV DPF DSG",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/stylance/altea-xl-stylance-19-tdi-105-cv-dpf-dsg2/datos",
@@ -3299,7 +3300,7 @@
             ]
         },
         {
-            "name": "Altea XL 2.0 TDI 140 CV Stylance",
+            "name": "2.0 TDI 140 CV Stylance",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/stylance/altea-xl-20-tdi-140-cv-stylance/datos",
@@ -3498,7 +3499,7 @@
             ]
         },
         {
-            "name": "Altea XL Stylance 2.0 TDI 140 CV",
+            "name": "Stylance 2.0 TDI 140 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/stylance/altea-xl-stylance-20-tdi-140-cv2/datos",
@@ -3716,7 +3717,7 @@
             ]
         },
         {
-            "name": "Altea XL Stylance 1.9 TDI 105 CV DSG DPF",
+            "name": "Stylance 1.9 TDI 105 CV DSG DPF",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/stylance/altea-xl-stylance-19-tdi-105-cv-dsg-dpf/datos",
@@ -3933,7 +3934,7 @@
             ]
         },
         {
-            "name": "Altea XL Stylance 2.0 TDI 140 CV",
+            "name": "Stylance 2.0 TDI 140 CV",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/stylance/altea-xl-stylance-20-tdi-140-cv/datos",
@@ -4150,7 +4151,7 @@
             ]
         },
         {
-            "name": "Altea XL Stylance 1.9 TDI 105 CV DPF DSG",
+            "name": "Stylance 1.9 TDI 105 CV DPF DSG",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/stylance/altea-xl-stylance-19-tdi-105-cv-dpf-dsg/datos",
@@ -4368,7 +4369,7 @@
             ]
         },
         {
-            "name": "Altea XL 1.8 TSI 160 CV Sport-up",
+            "name": "1.8 TSI 160 CV Sport-up",
             "start_year": "2007",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/sport-up/altea-xl-18-tsi-160-cv-sport-up/datos",
@@ -4567,7 +4568,7 @@
             ]
         },
         {
-            "name": "Altea XL 2.0 TDI 140 CV DSG Stylance",
+            "name": "2.0 TDI 140 CV DSG Stylance",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/stylance/altea-xl-20-tdi-140-cv-dsg-stylance/datos",
@@ -4765,7 +4766,7 @@
             ]
         },
         {
-            "name": "Altea XL 2.0 TDI 140 CV Sport-up",
+            "name": "2.0 TDI 140 CV Sport-up",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/sport-up/altea-xl-20-tdi-140-cv-sport-up/datos",
@@ -4964,7 +4965,7 @@
             ]
         },
         {
-            "name": "Altea XL Sport-up 1.8 TSI 160 CV",
+            "name": "Sport-up 1.8 TSI 160 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/sport-up/altea-xl-sport-up-18-tsi-160-cv2/datos",
@@ -5182,7 +5183,7 @@
             ]
         },
         {
-            "name": "Altea XL Sport-up 2.0 TDI 140 CV",
+            "name": "Sport-up 2.0 TDI 140 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/sport-up/altea-xl-sport-up-20-tdi-140-cv2/datos",
@@ -5400,7 +5401,7 @@
             ]
         },
         {
-            "name": "Altea XL Sport-up 1.8 TSI 160 CV",
+            "name": "Sport-up 1.8 TSI 160 CV",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/sport-up/altea-xl-sport-up-18-tsi-160-cv/datos",
@@ -5616,7 +5617,7 @@
             ]
         },
         {
-            "name": "Altea XL Sport-up 2.0 TDI 140 CV",
+            "name": "Sport-up 2.0 TDI 140 CV",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/sport-up/altea-xl-sport-up-20-tdi-140-cv/datos",
@@ -5832,7 +5833,7 @@
             ]
         },
         {
-            "name": "Altea XL Stylance 2.0 TDI 140 CV DSG",
+            "name": "Stylance 2.0 TDI 140 CV DSG",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/stylance/altea-xl-stylance-20-tdi-140-cv-dsg/datos",
@@ -6049,7 +6050,7 @@
             ]
         },
         {
-            "name": "Altea XL 2.0 TDI 140 CV DSG Sport-up",
+            "name": "2.0 TDI 140 CV DSG Sport-up",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/sport-up/altea-xl-20-tdi-140-cv-dsg-sport-up/datos",
@@ -6248,7 +6249,7 @@
             ]
         },
         {
-            "name": "Altea XL Sport-up 2.0 TDI 140 CV DSG",
+            "name": "Sport-up 2.0 TDI 140 CV DSG",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/sport-up/altea-xl-sport-up-20-tdi-140-cv-dsg/datos",
@@ -6464,7 +6465,7 @@
             ]
         },
         {
-            "name": "Altea XL Stylance 2.0 TDI 140 CV DSG",
+            "name": "Stylance 2.0 TDI 140 CV DSG",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/stylance/altea-xl-stylance-20-tdi-140-cv-dsg2/datos",
@@ -6682,7 +6683,7 @@
             ]
         },
         {
-            "name": "Altea XL 2.0 TDI 170 CV Sport-up",
+            "name": "2.0 TDI 170 CV Sport-up",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/sport-up/altea-xl-20-tdi-170-cv-sport-up/datos",
@@ -6881,7 +6882,7 @@
             ]
         },
         {
-            "name": "Altea XL Sport-up 2.0 TDI 170 CV DPF",
+            "name": "Sport-up 2.0 TDI 170 CV DPF",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/sport-up/altea-xl-sport-up-20-tdi-170-cv-dpf/datos",
@@ -7098,7 +7099,7 @@
             ]
         },
         {
-            "name": "Altea XL Sport-up 2.0 TDI 140 CV DSG",
+            "name": "Sport-up 2.0 TDI 140 CV DSG",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/sport-up/altea-xl-sport-up-20-tdi-140-cv-dsg2/datos",
@@ -7316,7 +7317,7 @@
             ]
         },
         {
-            "name": "Altea XL Sport-up 2.0 TDI 170 CV DPF",
+            "name": "Sport-up 2.0 TDI 170 CV DPF",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/seat/altea-xl/2007/estandar/sport-up/altea-xl-sport-up-20-tdi-170-cv-dpf2/datos",

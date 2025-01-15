@@ -1,11 +1,12 @@
 {
+    "brand": "Hyundai",
     "name": "Sonata",
     "year": "2002",
     "url": "https://www.km77.com/coches/hyundai/sonata/2002/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Sonata 2.0i GLS",
+            "name": "2.0i GLS",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/hyundai/sonata/2002/estandar/gls/sonata-20i-gls/datos",
@@ -176,7 +177,7 @@
             ]
         },
         {
-            "name": "Sonata 2.0i GLS Full",
+            "name": "2.0i GLS Full",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/hyundai/sonata/2002/estandar/gls-full/sonata-20i-gls-full/datos",
@@ -349,7 +350,7 @@
             ]
         },
         {
-            "name": "Sonata 2.7 V6",
+            "name": "2.7 V6",
             "start_year": "2002",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/hyundai/sonata/2002/estandar/estandar/sonata-27-v6/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Mitsubishi",
     "name": "Space Runner",
     "year": "2001",
     "url": "https://www.km77.com/coches/mitsubishi/space-runner/2001/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Space Runner 2.0 16V",
+            "name": "2.0 16V",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/mitsubishi/space-runner/2001/estandar/estandar/space-runner-20-16v/datos",
@@ -131,7 +132,7 @@
             ]
         },
         {
-            "name": "Space Runner 2.0 16V GLX",
+            "name": "2.0 16V GLX",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/mitsubishi/space-runner/2001/estandar/glx/space-runner-20-16v-glx/datos",

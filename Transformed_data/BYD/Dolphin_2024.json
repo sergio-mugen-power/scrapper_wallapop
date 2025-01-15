@@ -1,11 +1,12 @@
 {
+    "brand": "BYD",
     "name": "Dolphin",
     "year": "2024",
     "url": "https://www.km77.com/coches/byd/dolphin/2024/estandar",
     "price": "Desde 34.480 €",
     "versions": [
         {
-            "name": "Dolphin Comfort\n(05/2023 - )",
+            "name": "Comfort\n(05/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/byd/dolphin/2024/estandar/estandar/dolphin/datos",
@@ -206,7 +207,7 @@
             ]
         },
         {
-            "name": "Dolphin Design\n(05/2023 - )",
+            "name": "Design\n(05/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/byd/dolphin/2024/estandar/estandar/dolphin-design/datos",
@@ -411,7 +412,7 @@
             ]
         },
         {
-            "name": "Dolphin Active\n( - )",
+            "name": "Active\n( - )",
             "start_year": "Desconocido",
             "end_year": "Desconocido",
             "url": "https://www.km77.com/coches/byd/dolphin/2024/estandar/estandar/dolphin-active/datos",
@@ -485,7 +486,7 @@
             ]
         },
         {
-            "name": "Dolphin Boost\n( - )",
+            "name": "Boost\n( - )",
             "start_year": "Desconocido",
             "end_year": "Desconocido",
             "url": "https://www.km77.com/coches/byd/dolphin/2024/estandar/estandar/dolphin-boost/datos",

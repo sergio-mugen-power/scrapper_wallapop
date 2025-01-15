@@ -1,11 +1,12 @@
 {
+    "brand": "Porsche",
     "name": "Macan",
     "year": "2022",
     "url": "https://www.km77.com/coches/porsche/macan/2022/estandar",
     "price": "Desde 82.310 €",
     "versions": [
         {
-            "name": "Macan",
+            "name": "",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/porsche/macan/2022/estandar/estandar/macan/datos",
@@ -35,7 +36,7 @@
             ]
         },
         {
-            "name": "Macan T",
+            "name": "T",
             "start_year": "2022",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/porsche/macan/2022/estandar/estandar/macan-t/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "Macan S",
+            "name": "S",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/porsche/macan/2022/estandar/estandar/macan-s/datos",
@@ -95,7 +96,7 @@
             ]
         },
         {
-            "name": "Macan GTS",
+            "name": "GTS",
             "start_year": "2021",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/porsche/macan/2022/estandar/gts/macan-gts/datos",

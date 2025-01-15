@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "X5",
     "year": "2019",
     "url": "https://www.km77.com/coches/bmw/x5/2019/estandar",
     "price": "",
     "versions": [
         {
-            "name": "X5 xDrive25d",
+            "name": "xDrive25d",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x5/2019/estandar/estandar/x5-xdrive25d/datos",
@@ -342,7 +343,7 @@
             ]
         },
         {
-            "name": "X5 xDrive40i",
+            "name": "xDrive40i",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/x5/2019/estandar/estandar/x5-xdrive40i/datos",
@@ -670,7 +671,7 @@
             ]
         },
         {
-            "name": "X5 xDrive25d 7 plazas",
+            "name": "xDrive25d 7 plazas",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x5/2019/estandar/estandar/x5-xdrive25d-7-plazas/datos",
@@ -999,7 +1000,7 @@
             ]
         },
         {
-            "name": "X5 xDrive40i 7 plazas",
+            "name": "xDrive40i 7 plazas",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/bmw/x5/2019/estandar/estandar/x5-xdrive40i-7-plazas/datos",
@@ -1330,7 +1331,7 @@
             ]
         },
         {
-            "name": "X5 xDrive40i",
+            "name": "xDrive40i",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x5/2019/estandar/estandar/x5-xdrive40i2/datos",
@@ -1673,7 +1674,7 @@
             ]
         },
         {
-            "name": "X5 xDrive30d",
+            "name": "xDrive30d",
             "start_year": "2018",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x5/2019/estandar/estandar/x5-xdrive30d/datos",
@@ -2016,7 +2017,7 @@
             ]
         },
         {
-            "name": "X5 xDrive45e",
+            "name": "xDrive45e",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x5/2019/estandar/iperformance/x5-xdrive45e-iperformance/datos",
@@ -2362,7 +2363,7 @@
             ]
         },
         {
-            "name": "X5 xDrive40i 7 plazas",
+            "name": "xDrive40i 7 plazas",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x5/2019/estandar/estandar/x5-xdrive40i-7-plazas2/datos",
@@ -2702,7 +2703,7 @@
             ]
         },
         {
-            "name": "X5 xDrive30d 7 plazas",
+            "name": "xDrive30d 7 plazas",
             "start_year": "2018",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x5/2019/estandar/estandar/x5-xdrive30d-7-plazas/datos",
@@ -3042,7 +3043,7 @@
             ]
         },
         {
-            "name": "X5 M50d",
+            "name": "M50d",
             "start_year": "2018",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x5/2019/estandar/m-performance/x5-m50d/datos",
@@ -3370,7 +3371,7 @@
             ]
         },
         {
-            "name": "X5 M50i",
+            "name": "M50i",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x5/2019/estandar/m-performance/x5-m50i/datos",
@@ -3695,7 +3696,7 @@
             ]
         },
         {
-            "name": "X5 M50d 7 plazas",
+            "name": "M50d 7 plazas",
             "start_year": "2018",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x5/2019/estandar/m-performance/x5-m50d-7-plazas/datos",
@@ -4022,7 +4023,7 @@
             ]
         },
         {
-            "name": "X5 M",
+            "name": "M",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x5/2019/estandar/m/x5-m/datos",
@@ -4324,7 +4325,7 @@
             ]
         },
         {
-            "name": "X5 M Competition",
+            "name": "M Competition",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x5/2019/estandar/m-competition/x5-m-competition/datos",

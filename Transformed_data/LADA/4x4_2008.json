@@ -1,11 +1,12 @@
 {
+    "brand": "LADA",
     "name": "4x4",
     "year": "2008",
     "url": "https://www.km77.com/coches/lada/4x4/2008/estandar",
     "price": "",
     "versions": [
         {
-            "name": "4x4",
+            "name": "",
             "start_year": "2007",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lada/4x4/2008/estandar/estandar/4x42/datos",
@@ -16,7 +17,7 @@
             "maletero": "300"
         },
         {
-            "name": "4x4",
+            "name": "",
             "start_year": "2007",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/lada/4x4/2008/estandar/estandar/4x4/datos",

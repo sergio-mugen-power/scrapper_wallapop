@@ -1,11 +1,12 @@
 {
+    "brand": "Chrysler",
     "name": "Crossfire Coupe",
     "year": "2004",
     "url": "https://www.km77.com/coches/chrysler/crossfire/2004/coupe",
     "price": "",
     "versions": [
         {
-            "name": "Crossfire Coupe 3.2",
+            "name": "3.2",
             "start_year": "2003",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/chrysler/crossfire/2004/coupe/estandar/crossfire-coupe-32/datos",
@@ -158,7 +159,7 @@
             ]
         },
         {
-            "name": "Crossfire Coupe 3.2 Limited",
+            "name": "3.2 Limited",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/chrysler/crossfire/2004/coupe/estandar/crossfire-coupe-32-limited/datos",
@@ -320,7 +321,7 @@
             ]
         },
         {
-            "name": "Crossfire Coupe 3.2 Limited",
+            "name": "3.2 Limited",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/chrysler/crossfire/2004/coupe/estandar/crossfire-coupe-32-limited2/datos",
@@ -481,7 +482,7 @@
             ]
         },
         {
-            "name": "Crossfire Coupe 3.2 Limited Aut.",
+            "name": "3.2 Limited Aut.",
             "start_year": "2003",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/chrysler/crossfire/2004/coupe/estandar/crossfire-coupe-32-limited-aut/datos",
@@ -644,7 +645,7 @@
             ]
         },
         {
-            "name": "Crossfire Coupe 3.2 Limited Aut.",
+            "name": "3.2 Limited Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/chrysler/crossfire/2004/coupe/estandar/crossfire-coupe-32-limited-aut2/datos",
@@ -805,7 +806,7 @@
             ]
         },
         {
-            "name": "Crossfire Coupe 3.2 SRT6 Aut.",
+            "name": "3.2 SRT6 Aut.",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/chrysler/crossfire/2004/coupe/estandar/crossfire-coupe-32-srt6-aut/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Daihatsu",
     "name": "Terios",
     "year": "1997",
     "url": "https://www.km77.com/coches/daihatsu/terios/1997/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Terios DX 4WD",
+            "name": "DX 4WD",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/daihatsu/terios/1997/estandar/dx/terios-dx-4wd/datos",
@@ -115,7 +116,7 @@
             ]
         },
         {
-            "name": "Terios SX 4WD",
+            "name": "SX 4WD",
             "start_year": "1999",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/daihatsu/terios/1997/estandar/sx/terios-sx-4wd/datos",

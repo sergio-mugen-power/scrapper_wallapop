@@ -1,11 +1,12 @@
 {
+    "brand": "KIA",
     "name": "Sorento",
     "year": "2018",
     "url": "https://www.km77.com/coches/kia/sorento/2018/estandar",
     "price": "Desde 45.725 €",
     "versions": [
         {
-            "name": "Sorento Concept 2.2 CRDi 2WD",
+            "name": "Concept 2.2 CRDi 2WD",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/sorento/2018/estandar/concept/sorento-concept-22-crdi-2wd/datos",
@@ -212,7 +213,7 @@
             ]
         },
         {
-            "name": "Sorento Concept 2.2 CRDi 2WD",
+            "name": "Concept 2.2 CRDi 2WD",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/kia/sorento/2018/estandar/concept/sorento-concept-22-crdi-2wd2/datos",
@@ -419,7 +420,7 @@
             ]
         },
         {
-            "name": "Sorento Drive 2.2 CRDi 2WD",
+            "name": "Drive 2.2 CRDi 2WD",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/sorento/2018/estandar/drive/sorento-drive-22-crdi-2wd/datos",
@@ -646,7 +647,7 @@
             ]
         },
         {
-            "name": "Sorento Drive 2.2 CRDi 2WD",
+            "name": "Drive 2.2 CRDi 2WD",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/kia/sorento/2018/estandar/drive/sorento-drive-22-crdi-2wd2/datos",
@@ -876,7 +877,7 @@
             ]
         },
         {
-            "name": "Sorento Drive 2.2 CRDi AWD",
+            "name": "Drive 2.2 CRDi AWD",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/sorento/2018/estandar/drive/sorento-drive-22-crdi-awd/datos",
@@ -1104,7 +1105,7 @@
             ]
         },
         {
-            "name": "Sorento Drive 2.2 CRDi AWD",
+            "name": "Drive 2.2 CRDi AWD",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/kia/sorento/2018/estandar/drive/sorento-drive-22-crdi-awd2/datos",
@@ -1335,7 +1336,7 @@
             ]
         },
         {
-            "name": "Sorento Emotion 2.2 CRDi 2WD",
+            "name": "Emotion 2.2 CRDi 2WD",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/kia/sorento/2018/estandar/emotion/sorento-emotion-22-crdi-2wd2/datos",
@@ -1564,7 +1565,7 @@
             ]
         },
         {
-            "name": "Sorento Emotion 2.2 CRDi 2WD",
+            "name": "Emotion 2.2 CRDi 2WD",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/sorento/2018/estandar/emotion/sorento-emotion-22-crdi-2wd/datos",
@@ -1793,7 +1794,7 @@
             ]
         },
         {
-            "name": "Sorento Drive 2.2 CRDi 8AT 2WD",
+            "name": "Drive 2.2 CRDi 8AT 2WD",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/kia/sorento/2018/estandar/drive/sorento-drive-22-crdi-8at-2wd2/datos",
@@ -2023,7 +2024,7 @@
             ]
         },
         {
-            "name": "Sorento Drive 2.2 CRDi 8AT 2WD",
+            "name": "Drive 2.2 CRDi 8AT 2WD",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/sorento/2018/estandar/drive/sorento-drive-22-crdi-8at-2wd/datos",
@@ -2252,7 +2253,7 @@
             ]
         },
         {
-            "name": "Sorento Emotion 2.2 CRDi AWD",
+            "name": "Emotion 2.2 CRDi AWD",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/sorento/2018/estandar/emotion/sorento-emotion-22-crdi-awd/datos",
@@ -2482,7 +2483,7 @@
             ]
         },
         {
-            "name": "Sorento Emotion 2.2 CRDi AWD",
+            "name": "Emotion 2.2 CRDi AWD",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/kia/sorento/2018/estandar/emotion/sorento-emotion-22-crdi-awd2/datos",
@@ -2711,7 +2712,7 @@
             ]
         },
         {
-            "name": "Sorento Drive 2.2 CRDi 8AT AWD",
+            "name": "Drive 2.2 CRDi 8AT AWD",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/sorento/2018/estandar/drive/sorento-drive-22-crdi-8at-awd2/datos",
@@ -2941,7 +2942,7 @@
             ]
         },
         {
-            "name": "Sorento Drive 2.2 CRDi 8AT AWD",
+            "name": "Drive 2.2 CRDi 8AT AWD",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/sorento/2018/estandar/drive/sorento-drive-22-crdi-8at-awd/datos",
@@ -3171,7 +3172,7 @@
             ]
         },
         {
-            "name": "Sorento Drive 2.2 CRDi 8AT AWD",
+            "name": "Drive 2.2 CRDi 8AT AWD",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/kia/sorento/2018/estandar/drive/sorento-drive-22-crdi-8at-awd3/datos",
@@ -3402,7 +3403,7 @@
             ]
         },
         {
-            "name": "Sorento GT Line 2.2 CRDi 8AT 2WD",
+            "name": "GT Line 2.2 CRDi 8AT 2WD",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/kia/sorento/2018/estandar/gt-line/sorento-gt-line-22-crdi-8at-2wd2/datos",
@@ -3650,7 +3651,7 @@
             ]
         },
         {
-            "name": "Sorento GT Line 2.2 CRDi 8AT 2WD",
+            "name": "GT Line 2.2 CRDi 8AT 2WD",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/sorento/2018/estandar/gt-line/sorento-gt-line-22-crdi-8at-2wd/datos",
@@ -3897,7 +3898,7 @@
             ]
         },
         {
-            "name": "Sorento GT Line 2.2 CRDi 8AT AWD",
+            "name": "GT Line 2.2 CRDi 8AT AWD",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/sorento/2018/estandar/gt-line/sorento-gt-line-22-crdi-8at-awd2/datos",
@@ -4143,7 +4144,7 @@
             ]
         },
         {
-            "name": "Sorento GT Line 2.2 CRDi 8AT AWD",
+            "name": "GT Line 2.2 CRDi 8AT AWD",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/kia/sorento/2018/estandar/gt-line/sorento-gt-line-22-crdi-8at-awd/datos",
@@ -4391,7 +4392,7 @@
             ]
         },
         {
-            "name": "Sorento GT Line 2.2 CRDi 8AT AWD",
+            "name": "GT Line 2.2 CRDi 8AT AWD",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/kia/sorento/2018/estandar/gt-line/sorento-gt-line-22-crdi-8at-awd3/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Chrysler",
     "name": "Stratus Cabrio",
     "year": "2000",
     "url": "https://www.km77.com/coches/chrysler/stratus/2000/cabrio",
     "price": "",
     "versions": [
         {
-            "name": "Stratus Cabrio Limited 2.0",
+            "name": "Limited 2.0",
             "start_year": "1995",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/chrysler/stratus/2000/cabrio/estandar/stratus-cabrio-limited-20/datos",
@@ -133,7 +134,7 @@
             ]
         },
         {
-            "name": "Stratus Cabrio Limited 2.5",
+            "name": "Limited 2.5",
             "start_year": "1995",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/chrysler/stratus/2000/cabrio/estandar/stratus-cabrio-limited-25/datos",

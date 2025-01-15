@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Touareg",
     "year": "2015",
     "url": "https://www.km77.com/coches/volkswagen/touareg/2015/estandar",
     "price": "Desde 70.860 €",
     "versions": [
         {
-            "name": "Touareg Pure 3.0 TDI CR 204 CV Tiptronic 8 vel. BMT",
+            "name": "Pure 3.0 TDI CR 204 CV Tiptronic 8 vel. BMT",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2015/estandar/pure/touareg-2014/datos",
@@ -26,7 +27,7 @@
             ]
         },
         {
-            "name": "Touareg 3.0 TDI CR 204 CV Tiptronic 8 vel. BMT",
+            "name": "3.0 TDI CR 204 CV Tiptronic 8 vel. BMT",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2015/estandar/estandar/touareg-30-tdi-cr-204-cv-tiptronic-8-vel-bmt/datos",
@@ -47,7 +48,7 @@
             ]
         },
         {
-            "name": "Touareg Premium 3.0 TDI CR 204 CV Tiptronic 8 vel. BMT",
+            "name": "Premium 3.0 TDI CR 204 CV Tiptronic 8 vel. BMT",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2015/estandar/premium/touareg-premium-30-tdi-cr-204-cv-tiptronic-8-vel-bmt/datos",
@@ -68,7 +69,7 @@
             ]
         },
         {
-            "name": "Touareg R-Line 3.0 TDI CR 204 CV Tiptronic 8 vel. BMT",
+            "name": "R-Line 3.0 TDI CR 204 CV Tiptronic 8 vel. BMT",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2015/estandar/r-line/touareg-r-line-30-tdi-cr-204-cv-tiptronic-8-vel-bmt/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Touareg 3.0 TDI CR 262 CV Tiptronic 8 vel. BMT",
+            "name": "3.0 TDI CR 262 CV Tiptronic 8 vel. BMT",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2015/estandar/estandar/touareg-30-v6-tdi-262-cv-scr-bmt/datos",
@@ -110,7 +111,7 @@
             ]
         },
         {
-            "name": "Touareg 3.0 TDI CR 262 CV Tiptronic 8 vel. Terrain Tech BMT",
+            "name": "3.0 TDI CR 262 CV Tiptronic 8 vel. Terrain Tech BMT",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2015/estandar/estandar/touareg-30-v6-tdi-262-cv-scr-bmt-terrain-tech/datos",
@@ -130,7 +131,7 @@
             ]
         },
         {
-            "name": "Touareg Premium 3.0 TDI CR 262 CV Tiptronic 8 vel. BMT",
+            "name": "Premium 3.0 TDI CR 262 CV Tiptronic 8 vel. BMT",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2015/estandar/premium/touareg-premium-30-tdi-cr-262-cv-tiptronic-8-vel-bmt/datos",
@@ -151,7 +152,7 @@
             ]
         },
         {
-            "name": "Touareg Premium 3.0 TDI CR 262 CV Tiptronic 8 vel. Terrain Tech BMT",
+            "name": "Premium 3.0 TDI CR 262 CV Tiptronic 8 vel. Terrain Tech BMT",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2015/estandar/premium/touareg-premium-30-tdi-cr-262-cv-tiptronic-8-vel-terrain-tech-bmt/datos",
@@ -171,7 +172,7 @@
             ]
         },
         {
-            "name": "Touareg R-Line 3.0 TDI CR 262 CV Tiptronic 8 vel. BMT",
+            "name": "R-Line 3.0 TDI CR 262 CV Tiptronic 8 vel. BMT",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2015/estandar/r-line/touareg-r-line-30-tdi-cr-262-cv-tiptronic-8-vel-bmt/datos",
@@ -192,7 +193,7 @@
             ]
         },
         {
-            "name": "Touareg 4.2 TDI CR 340 CV Tiptronic 8 vel.",
+            "name": "4.2 TDI CR 340 CV Tiptronic 8 vel.",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2015/estandar/estandar/touareg-42-v8-tdi-340-cv/datos",
@@ -213,7 +214,7 @@
             ]
         },
         {
-            "name": "Touareg Hybrid 3.0 TSI 380 CV Tiptronic 8 vel.",
+            "name": "Hybrid 3.0 TSI 380 CV Tiptronic 8 vel.",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volkswagen/touareg/2015/estandar/estandar/touareg-30-tsi-hybrid/datos",

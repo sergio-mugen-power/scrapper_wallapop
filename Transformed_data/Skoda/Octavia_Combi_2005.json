@@ -1,11 +1,12 @@
 {
+    "brand": "Skoda",
     "name": "Octavia Combi",
     "year": "2005",
     "url": "https://www.km77.com/coches/skoda/octavia/2005/combi",
     "price": "Desde 33.100 €",
     "versions": [
         {
-            "name": "Octavia Combi 1.6 FSI Trend",
+            "name": "1.6 FSI Trend",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/trend/octavia-combi-16-fsi-trend2/datos",
@@ -242,7 +243,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 1.6 FSI Trend",
+            "name": "1.6 FSI Trend",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/trend/octavia-combi-16-fsi-trend/datos",
@@ -475,7 +476,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 1.9 TDI Trend",
+            "name": "1.9 TDI Trend",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/trend/octavia-combi-19-tdi-trend2/datos",
@@ -712,7 +713,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 1.9 TDI Trend",
+            "name": "1.9 TDI Trend",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/trend/octavia-combi-19-tdi-trend/datos",
@@ -945,7 +946,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 1.6 FSI Trend Tiptronic",
+            "name": "1.6 FSI Trend Tiptronic",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/active/octavia-combi-16-fsi-trend-tiptronic/datos",
@@ -1178,7 +1179,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 1.9 TDI Trend DSG",
+            "name": "1.9 TDI Trend DSG",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/trend/octavia-combi-19-tdi-trend-dsg2/datos",
@@ -1415,7 +1416,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 1.6 FSI Trend Tiptronic",
+            "name": "1.6 FSI Trend Tiptronic",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/trend/octavia-combi-16-fsi-trend-tiptronic2/datos",
@@ -1652,7 +1653,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 1.9 TDI Trend DSG",
+            "name": "1.9 TDI Trend DSG",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/trend/octavia-combi-19-tdi-trend-dsg/datos",
@@ -1885,7 +1886,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 2.0 FSI Elegance",
+            "name": "2.0 FSI Elegance",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/elegance/octavia-combi-20-fsi-elegance/datos",
@@ -2120,7 +2121,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 1.8 TSI Elegance",
+            "name": "1.8 TSI Elegance",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/elegance/octavia-combi-18-tsi-elegance2/datos",
@@ -2357,7 +2358,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 1.8 TSI Elegance",
+            "name": "1.8 TSI Elegance",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/elegance/octavia-combi-18-tsi-elegance/datos",
@@ -2592,7 +2593,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 1.9 TDI 4x4",
+            "name": "1.9 TDI 4x4",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/estandar/octavia-combi-19-tdi-4x42/datos",
@@ -2824,7 +2825,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 1.9 TDI 4x4",
+            "name": "1.9 TDI 4x4",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/estandar/octavia-combi-19-tdi-4x4/datos",
@@ -3048,7 +3049,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 2.0 TDI Elegance",
+            "name": "2.0 TDI Elegance",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/elegance/octavia-combi-20-tdi-elegance2/datos",
@@ -3286,7 +3287,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 2.0 TDI Elegance",
+            "name": "2.0 TDI Elegance",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/elegance/octavia-combi-20-tdi-elegance/datos",
@@ -3519,7 +3520,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 2.0 FSI Elegance Tiptronic",
+            "name": "2.0 FSI Elegance Tiptronic",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/elegance/octavia-combi-20-fsi-elegance-tiptronic2/datos",
@@ -3757,7 +3758,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 2.0 FSI 4x4",
+            "name": "2.0 FSI 4x4",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/estandar/octavia-combi-20-fsi-4x4/datos",
@@ -3980,7 +3981,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 2.0 FSI Elegance Tiptronic",
+            "name": "2.0 FSI Elegance Tiptronic",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/elegance/octavia-combi-20-fsi-elegance-tiptronic/datos",
@@ -4216,7 +4217,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 2.0 TDI Elegance DSG",
+            "name": "2.0 TDI Elegance DSG",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/elegance/octavia-combi-20-tdi-elegance-dsg2/datos",
@@ -4454,7 +4455,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 2.0 TDI Elegance DSG",
+            "name": "2.0 TDI Elegance DSG",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/elegance/octavia-combi-20-tdi-elegance-dsg/datos",
@@ -4690,7 +4691,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 2.0 TDI 170 CV RS",
+            "name": "2.0 TDI 170 CV RS",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/rs/octavia-combi-20-tdi-170-cv-rs2/datos",
@@ -4914,7 +4915,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 2.0 FSI Laurin&Klement",
+            "name": "2.0 FSI Laurin&Klement",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/laurinklement/octavia-combi-20-fsi-laurinklement/datos",
@@ -5130,7 +5131,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 1.8 TSI Laurin&Klement",
+            "name": "1.8 TSI Laurin&Klement",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/laurinklement/octavia-combi-18-tsi-laurinklement2/datos",
@@ -5346,7 +5347,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 2.0 TDI 170 CV RS",
+            "name": "2.0 TDI 170 CV RS",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/rs/octavia-combi-20-tdi-170-cv-rs/datos",
@@ -5565,7 +5566,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 1.8 TSI Laurin&Klement",
+            "name": "1.8 TSI Laurin&Klement",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/laurinklement/octavia-combi-18-tsi-laurinklement/datos",
@@ -5781,7 +5782,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 2.0 TFSI RS",
+            "name": "2.0 TFSI RS",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/rs/octavia-combi-20-tfsi-rs/datos",
@@ -6000,7 +6001,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 2.0 TDI 170 CV RS DPF",
+            "name": "2.0 TDI 170 CV RS DPF",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/rs/octavia-combi-20-tdi-170-cv-rs-dpf/datos",
@@ -6225,7 +6226,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 2.0 TFSI RS",
+            "name": "2.0 TFSI RS",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/active/octavia-combi-20-tfsi-rs2/datos",
@@ -6449,7 +6450,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 2.0 TDI Laurin&Klement",
+            "name": "2.0 TDI Laurin&Klement",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/laurinklement/octavia-combi-20-tdi-laurinklement2/datos",
@@ -6666,7 +6667,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 2.0 TDI Laurin&Klement",
+            "name": "2.0 TDI Laurin&Klement",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/laurinklement/octavia-combi-20-tdi-laurinklement/datos",
@@ -6885,7 +6886,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 2.0 FSI Laurin&Klement Tiptronic",
+            "name": "2.0 FSI Laurin&Klement Tiptronic",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/laurinklement/octavia-combi-20-fsi-laurinklement-tiptronic2/datos",
@@ -7100,7 +7101,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 2.0 FSI Laurin&Klement Tiptronic",
+            "name": "2.0 FSI Laurin&Klement Tiptronic",
             "start_year": "2007",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/laurinklement/octavia-combi-20-fsi-laurinklement-tiptronic/datos",
@@ -7316,7 +7317,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 2.0 TDI 170 CV RS DSG DPF",
+            "name": "2.0 TDI 170 CV RS DSG DPF",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/rs/octavia-combi-20-tdi-170-cv-rs-dsg-dpf/datos",
@@ -7541,7 +7542,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 2.0 TDI Laurin&Klement DSG",
+            "name": "2.0 TDI Laurin&Klement DSG",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/laurinklement/octavia-combi-20-tdi-laurinklement-dsg2/datos",
@@ -7758,7 +7759,7 @@
             ]
         },
         {
-            "name": "Octavia Combi 2.0 TDI Laurin&Klement DSG",
+            "name": "2.0 TDI Laurin&Klement DSG",
             "start_year": "2007",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/skoda/octavia/2005/combi/laurinklement/octavia-combi-20-tdi-laurinklement-dsg/datos",

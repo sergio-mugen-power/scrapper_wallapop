@@ -1,11 +1,12 @@
 {
+    "brand": "Citroën",
     "name": "C4 X",
     "year": "2023",
     "url": "https://www.km77.com/coches/citroen/c4-x/2023/estandar",
     "price": "Desde 23.640 €",
     "versions": [
         {
-            "name": "C4 X PureTech 100 You",
+            "name": "PureTech 100 You",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/citroen/c4-x/2023/estandar/estandar/c4-x-puretech-100-you/datos",
@@ -199,7 +200,7 @@
             ]
         },
         {
-            "name": "C4 X Feel PureTech 100",
+            "name": "Feel PureTech 100",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/citroen/c4-x/2023/estandar/estandar/c4-x-puretech-100/datos",
@@ -397,7 +398,7 @@
             ]
         },
         {
-            "name": "C4 X Hybrid 136 ë-DCS6 Plus",
+            "name": "Hybrid 136 ë-DCS6 Plus",
             "start_year": "2024",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/citroen/c4-x/2023/estandar/estandar/c4-x-hybrid-136-e-dcs6-plus/datos",
@@ -619,7 +620,7 @@
             ]
         },
         {
-            "name": "C4 X BlueHDi 130 EAT8 Plus",
+            "name": "BlueHDi 130 EAT8 Plus",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/citroen/c4-x/2023/estandar/estandar/c4-x-bluehdi-130-eat8-plus/datos",
@@ -829,7 +830,7 @@
             ]
         },
         {
-            "name": "C4 X Feel Pack PureTech 130 EAT8",
+            "name": "Feel Pack PureTech 130 EAT8",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/citroen/c4-x/2023/estandar/estandar/c4-x-puretech-130-eat8/datos",
@@ -1039,7 +1040,7 @@
             ]
         },
         {
-            "name": "C4 X Hybrid 136 ë-DSC6 Max",
+            "name": "Hybrid 136 ë-DSC6 Max",
             "start_year": "2024",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/citroen/c4-x/2023/estandar/estandar/c4-x-hybrid-136-e-dsc6-max/datos",
@@ -1280,7 +1281,7 @@
             ]
         },
         {
-            "name": "C4 X PureTech 130 EAT8 Plus",
+            "name": "PureTech 130 EAT8 Plus",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/citroen/c4-x/2023/estandar/estandar/c4-x-puretech-130-eat8-plus/datos",
@@ -1493,7 +1494,7 @@
             ]
         },
         {
-            "name": "C4 X BlueHDi 130 EAT8 Max",
+            "name": "BlueHDi 130 EAT8 Max",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/citroen/c4-x/2023/estandar/estandar/c4-x-bluehdi-130-eat8-max/datos",
@@ -1721,7 +1722,7 @@
             ]
         },
         {
-            "name": "C4 X Feel Pack BlueHDi 130 EAT8",
+            "name": "Feel Pack BlueHDi 130 EAT8",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/citroen/c4-x/2023/estandar/estandar/c4-x-bluehdi-130-eat8/datos",
@@ -1931,7 +1932,7 @@
             ]
         },
         {
-            "name": "C4 X Shine PureTech 130 EAT8",
+            "name": "Shine PureTech 130 EAT8",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/citroen/c4-x/2023/estandar/estandar/c4-x-shine-puretech-130-eat8/datos",
@@ -2167,7 +2168,7 @@
             ]
         },
         {
-            "name": "C4 X PureTech 130 EAT8 Max",
+            "name": "PureTech 130 EAT8 Max",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/citroen/c4-x/2023/estandar/estandar/c4-x-puretech-130-eat8-max/datos",
@@ -2398,7 +2399,7 @@
             ]
         },
         {
-            "name": "C4 X Shine BlueHDi 130 EAT8",
+            "name": "Shine BlueHDi 130 EAT8",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/citroen/c4-x/2023/estandar/estandar/c4-x-shine-bluehdi-130-eat8/datos",
@@ -2631,7 +2632,7 @@
             ]
         },
         {
-            "name": "ë-C4 X Eléctrico 54 kWh You 115 kW",
+            "name": "ë- Eléctrico 54 kWh You 115 kW",
             "start_year": "2024",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/citroen/c4-x/2023/estandar/e/e-c4-x-electrico-54-kwh-you-115-kw/datos",
@@ -2830,7 +2831,7 @@
             ]
         },
         {
-            "name": "ë-C4 X Eléctrico 50 kWh Feel 100 kW",
+            "name": "ë- Eléctrico 50 kWh Feel 100 kW",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/citroen/c4-x/2023/estandar/e/e-c4-x/datos",
@@ -3033,7 +3034,7 @@
             ]
         },
         {
-            "name": "ë-C4 X Eléctrico 50 kWh You 100 kW",
+            "name": "ë- Eléctrico 50 kWh You 100 kW",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/citroen/c4-x/2023/estandar/e/e-c4-x-electrico-50-kwh-you-100-kw/datos",
@@ -3233,7 +3234,7 @@
             ]
         },
         {
-            "name": "ë-C4 X Eléctrico 50 kWh Feel Pack 100 kW",
+            "name": "ë- Eléctrico 50 kWh Feel Pack 100 kW",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/citroen/c4-x/2023/estandar/e/e-c4-x-electrico-100-kw-feel-pack/datos",
@@ -3446,7 +3447,7 @@
             ]
         },
         {
-            "name": "ë-C4 X Eléctrico 50 kWh E-Series 100 kW",
+            "name": "ë- Eléctrico 50 kWh E-Series 100 kW",
             "start_year": "2024",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/citroen/c4-x/2023/estandar/e/e-c4-x-electrico-50-kwh-e-series-100-kw/datos",
@@ -3663,7 +3664,7 @@
             ]
         },
         {
-            "name": "ë-C4 X Eléctrico 50 kWh Plus 100 kW",
+            "name": "ë- Eléctrico 50 kWh Plus 100 kW",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/citroen/c4-x/2023/estandar/e/e-c4-x-electrico-50-kwh-plus-100-kw/datos",
@@ -3875,7 +3876,7 @@
             ]
         },
         {
-            "name": "ë-C4 X Eléctrico 54 kWh E-Series 115 kW",
+            "name": "ë- Eléctrico 54 kWh E-Series 115 kW",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/citroen/c4-x/2023/estandar/e/e-c4-x-electrico-54-kwh-e-series-115-kw/datos",
@@ -4091,7 +4092,7 @@
             ]
         },
         {
-            "name": "ë-C4 X Eléctrico 54 kWh Plus 115 kW",
+            "name": "ë- Eléctrico 54 kWh Plus 115 kW",
             "start_year": "2024",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/citroen/c4-x/2023/estandar/e/e-c4-x-electrico-54-kwh-plus-115-kw/datos",
@@ -4302,7 +4303,7 @@
             ]
         },
         {
-            "name": "ë-C4 X Eléctrico 50 kWh Shine",
+            "name": "ë- Eléctrico 50 kWh Shine",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/citroen/c4-x/2023/estandar/e/e-c4-x-electrico-100-kw-shine/datos",
@@ -4536,7 +4537,7 @@
             ]
         },
         {
-            "name": "ë-C4 X Eléctrico 54 kWh Shine 115 kW",
+            "name": "ë- Eléctrico 54 kWh Shine 115 kW",
             "start_year": "2023",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/citroen/c4-x/2023/estandar/e/e-c4-x-electrico-54-kwh/datos",
@@ -4769,7 +4770,7 @@
             ]
         },
         {
-            "name": "ë-C4 X Eléctrico 54 kWh Max 115 kW",
+            "name": "ë- Eléctrico 54 kWh Max 115 kW",
             "start_year": "2023",
             "end_year": "2024",
             "url": "https://www.km77.com/coches/citroen/c4-x/2023/estandar/e/e-c4-x-electrico-54-kwh-max-115-kw/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Subaru",
     "name": "Forester",
     "year": "2022",
     "url": "https://www.km77.com/coches/subaru/forester/2022/estandar",
     "price": "Desde 40.400 €",
     "versions": [
         {
-            "name": "Forester 2.0i Hybrid Sport Plus (02/2022 - )",
+            "name": "2.0i Hybrid Sport Plus (02/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/subaru/forester/2022/estandar/hybrid/forester-20i-hybrid/datos",
@@ -248,7 +249,7 @@
             ]
         },
         {
-            "name": "Forester 2.0i Hybrid Executive (02/2022 - )",
+            "name": "2.0i Hybrid Executive (02/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/subaru/forester/2022/estandar/hybrid/forester-20i-ecohybrid-executive/datos",
@@ -501,7 +502,7 @@
             ]
         },
         {
-            "name": "Forester 2.0i Hybrid Executive Plus (02/2022 - )",
+            "name": "2.0i Hybrid Executive Plus (02/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/subaru/forester/2022/estandar/hybrid/forester-20i-ecohybrid-executive-plus/datos",

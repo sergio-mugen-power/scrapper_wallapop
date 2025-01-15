@@ -1,11 +1,12 @@
 {
+    "brand": "Aston Martin",
     "name": "Rapide",
     "year": "2010",
     "url": "https://www.km77.com/coches/aston-martin/rapide/2010/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Rapide",
+            "name": "",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/aston-martin/rapide/2010/estandar/estandar/rapide/datos",
@@ -182,7 +183,7 @@
             ]
         },
         {
-            "name": "Rapide S",
+            "name": "S",
             "start_year": "2014",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/aston-martin/rapide/2010/estandar/s/rapide-s2/datos",
@@ -388,7 +389,7 @@
             ]
         },
         {
-            "name": "Rapide",
+            "name": "",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/aston-martin/rapide/2010/estandar/estandar/rapide2/datos",
@@ -568,7 +569,7 @@
             ]
         },
         {
-            "name": "Rapide",
+            "name": "",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/aston-martin/rapide/2010/estandar/estandar/rapide3/datos",
@@ -755,7 +756,7 @@
             ]
         },
         {
-            "name": "Rapide AMR",
+            "name": "AMR",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/aston-martin/rapide/2010/estandar/amr/rapide-amr/datos",
@@ -833,7 +834,7 @@
             ]
         },
         {
-            "name": "Rapide E",
+            "name": "E",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/aston-martin/rapide/2010/estandar/e/rapide-e/datos",

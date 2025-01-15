@@ -1,11 +1,12 @@
 {
+    "brand": "Skoda",
     "name": "Felicia",
     "year": "1999",
     "url": "https://www.km77.com/coches/skoda/felicia/1999/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Felicia Dynamic",
+            "name": "Dynamic",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/skoda/felicia/1999/estandar/estandar/felicia-dynamic/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "Felicia GLXi",
+            "name": "GLXi",
             "start_year": "2000",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/skoda/felicia/1999/estandar/estandar/felicia-glxi/datos",
@@ -234,7 +235,7 @@
             ]
         },
         {
-            "name": "Felicia GLX",
+            "name": "GLX",
             "start_year": "2000",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/skoda/felicia/1999/estandar/estandar/felicia-glx/datos",
@@ -355,7 +356,7 @@
             ]
         },
         {
-            "name": "Felicia D GLX",
+            "name": "D GLX",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/skoda/felicia/1999/estandar/estandar/felicia-d-glx/datos",

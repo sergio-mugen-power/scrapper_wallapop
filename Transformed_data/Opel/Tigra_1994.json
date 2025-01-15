@@ -1,11 +1,12 @@
 {
+    "brand": "Opel",
     "name": "Tigra",
     "year": "1994",
     "url": "https://www.km77.com/coches/opel/tigra/1994/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Tigra 1.4 16v",
+            "name": "1.4 16v",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/opel/tigra/1994/estandar/estandar/tigra-14-16v/datos",
@@ -25,7 +26,7 @@
             ]
         },
         {
-            "name": "Tigra 1.4 16v Aut.",
+            "name": "1.4 16v Aut.",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/opel/tigra/1994/estandar/estandar/tigra-14-16v-aut/datos",
@@ -45,7 +46,7 @@
             ]
         },
         {
-            "name": "Tigra 1.6 16v",
+            "name": "1.6 16v",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/opel/tigra/1994/estandar/estandar/tigra-16-16v/datos",

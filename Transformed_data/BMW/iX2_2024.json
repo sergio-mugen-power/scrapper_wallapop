@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "iX2",
     "year": "2024",
     "url": "https://www.km77.com/coches/bmw/ix2/2024/estandar",
     "price": "Desde 50.700 €",
     "versions": [
         {
-            "name": "iX2 eDrive20 (02/2024 - )",
+            "name": "eDrive20 (02/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/bmw/ix2/2024/estandar/estandar/ix2-edrive20/datos",
@@ -295,7 +296,7 @@
             ]
         },
         {
-            "name": "iX2 xDrive30 (10/2023 - )",
+            "name": "xDrive30 (10/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/bmw/ix2/2024/estandar/estandar/ix2/datos",

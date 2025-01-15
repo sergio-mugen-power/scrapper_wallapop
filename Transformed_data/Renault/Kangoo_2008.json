@@ -1,11 +1,12 @@
 {
+    "brand": "Renault",
     "name": "Kangoo",
     "year": "2008",
     "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar",
     "price": "Desde 28.588 €",
     "versions": [
         {
-            "name": "Kangoo Combi Base 1.6 90 CV",
+            "name": "Combi Base 1.6 90 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/base/kangoo-combi-base-16-90-cv/datos",
@@ -165,7 +166,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Base 1.5 dCi 70 CV",
+            "name": "Combi Base 1.5 dCi 70 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/base/kangoo-combi-base-15-dci-70-cv/datos",
@@ -326,7 +327,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Authentique 1.6 90 CV",
+            "name": "Combi Authentique 1.6 90 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/authentique/kangoo-combi-authentique-16-90-cv/datos",
@@ -490,7 +491,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Authentique 1.5 dCi 70 CV",
+            "name": "Combi Authentique 1.5 dCi 70 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/authentique/kangoo-combi-authentique-15-dci-70-cv/datos",
@@ -662,7 +663,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Authentique 1.6 90 CV",
+            "name": "Combi Authentique 1.6 90 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/authentique/kangoo-combi-authentique-16-90-cv2/datos",
@@ -822,7 +823,7 @@
             ]
         },
         {
-            "name": "Kangoo Profesional 1.5 dCi 70 CV",
+            "name": "Profesional 1.5 dCi 70 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/profesional/kangoo-profesional-15-dci-70-cv2/datos",
@@ -983,7 +984,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Authentique 1.5 dCi 85 CV",
+            "name": "Combi Authentique 1.5 dCi 85 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/authentique/kangoo-combi-authentique-15-dci-85-cv/datos",
@@ -1155,7 +1156,7 @@
             ]
         },
         {
-            "name": "Kangoo Profesional 1.5 dCi 70 CV",
+            "name": "Profesional 1.5 dCi 70 CV",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/profesional/kangoo-profesional-15-dci-70-cv/datos",
@@ -1316,7 +1317,7 @@
             ]
         },
         {
-            "name": "Kangoo Profesional dCi 85 CV",
+            "name": "Profesional dCi 85 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/profesional/kangoo-profesional-dci-85-cv2/datos",
@@ -1477,7 +1478,7 @@
             ]
         },
         {
-            "name": "Kangoo Profesional dCi 75 CV",
+            "name": "Profesional dCi 75 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/profesional/kangoo-profesional-15-dci-75-cv/datos",
@@ -1639,7 +1640,7 @@
             ]
         },
         {
-            "name": "Kangoo Profesional dCi 85 CV",
+            "name": "Profesional dCi 85 CV",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/profesional/kangoo-profesional-dci-85-cv/datos",
@@ -1802,7 +1803,7 @@
             ]
         },
         {
-            "name": "Kangoo Profesional dCi 75 CV",
+            "name": "Profesional dCi 75 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/profesional/kangoo-profesional-dci-75-cv/datos",
@@ -1964,7 +1965,7 @@
             ]
         },
         {
-            "name": "Kangoo Profesional dCi 90 CV",
+            "name": "Profesional dCi 90 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/profesional/kangoo-profesional-dci-90-cv/datos",
@@ -2126,7 +2127,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Expression 1.6 16V 105 CV",
+            "name": "Combi Expression 1.6 16V 105 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/expression/kangoo-combi-expression-16-16v-105-cv3/datos",
@@ -2298,7 +2299,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Dynamique (all road) dCi 85 CV \"acción especial\"",
+            "name": "Combi Dynamique (all road) dCi 85 CV \"acción especial\"",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/dynamique/kangoo-combi-dynamique-all-road-dci-85-cv-accion-especial/datos",
@@ -2468,7 +2469,7 @@
             ]
         },
         {
-            "name": "Kangoo Profesional dCi 90 CV",
+            "name": "Profesional dCi 90 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/profesional/kangoo-profesional-dci-90-cv2/datos",
@@ -2630,7 +2631,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Expression Energy dCi 90 CV S&S",
+            "name": "Combi Expression Energy dCi 90 CV S&S",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/expression/kangoo-combi-expression-energy-dci-90-cv-ss/datos",
@@ -2806,7 +2807,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Expression 1.6 16V 105 CV",
+            "name": "Combi Expression 1.6 16V 105 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/expression/kangoo-combi-expression-16-16v-105-cv4/datos",
@@ -2978,7 +2979,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Expression Profesional 1.5 dCi 85 CV",
+            "name": "Combi Expression Profesional 1.5 dCi 85 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/expression-profesional/kangoo-combi-expression-profesional-15-dci-85-cv/datos",
@@ -3147,7 +3148,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Expression Energy dCi 90 CV Start&Stop",
+            "name": "Combi Expression Energy dCi 90 CV Start&Stop",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/expression/kangoo-combi-expression-energy-dci-90-cv2/datos",
@@ -3321,7 +3322,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Expression 1.6 16V 105 CV",
+            "name": "Combi Expression 1.6 16V 105 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/expression/kangoo-combi-expression-16-16v-105-cv/datos",
@@ -3495,7 +3496,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Expression dCi 90 CV",
+            "name": "Combi Expression dCi 90 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/expression/kangoo-combi-expression-dci-90-cv/datos",
@@ -3670,7 +3671,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Expression dCi 90 CV",
+            "name": "Combi Expression dCi 90 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/expression/kangoo-combi-expression-15-dci-90-cv/datos",
@@ -3845,7 +3846,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Expression 1.6 16V 105 CV",
+            "name": "Combi Expression 1.6 16V 105 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/expression/kangoo-combi-expression-16-16v-105-cv5/datos",
@@ -4017,7 +4018,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Expression 1.6 16V 105 CV",
+            "name": "Combi Expression 1.6 16V 105 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/expression/kangoo-combi-expression-16-16v-105-cv2/datos",
@@ -4185,7 +4186,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Expression 1.5 dCi 85 CV",
+            "name": "Combi Expression 1.5 dCi 85 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/expression/kangoo-combi-expression-15-dci-85-cv/datos",
@@ -4360,7 +4361,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Expression Energy dCi 90 CV Start&Stop",
+            "name": "Combi Expression Energy dCi 90 CV Start&Stop",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/expression/kangoo-combi-expression-energy-dci-90-cv-startstop/datos",
@@ -4535,7 +4536,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Expression Professional 1.5 dCi 105 CV",
+            "name": "Combi Expression Professional 1.5 dCi 105 CV",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/expression-profesional/kangoo-combi-expression-professional-15-dci-105-cv/datos",
@@ -4703,7 +4704,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Dynamique \"all road\" 1.6 16V 105 CV",
+            "name": "Combi Dynamique \"all road\" 1.6 16V 105 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/dynamique/kangoo-combi-dynamique-all-road-16-16v-105-cv/datos",
@@ -4883,7 +4884,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Expression dCi 110 CV",
+            "name": "Combi Expression dCi 110 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/expression/kangoo-combi-expression-15-dci-110-cv/datos",
@@ -5058,7 +5059,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Dynamique \"all road\" 1.6 16V 105 CV",
+            "name": "Combi Dynamique \"all road\" 1.6 16V 105 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/dynamique/kangoo-combi-dynamique-all-road-16-16v-105-cv2/datos",
@@ -5238,7 +5239,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Expression 1.5 dCi 105 CV",
+            "name": "Combi Expression 1.5 dCi 105 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/expression/kangoo-combi-expression-15-dci-105-cv/datos",
@@ -5413,7 +5414,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Dynamique \"all road\" dCi 90 CV",
+            "name": "Combi Dynamique \"all road\" dCi 90 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/dynamique/kangoo-combi-dynamique-all-road-dci-90-cv/datos",
@@ -5594,7 +5595,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Expression dCi 110 CV",
+            "name": "Combi Expression dCi 110 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/expression/kangoo-combi-expression-dci-110-cv/datos",
@@ -5769,7 +5770,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Dynamique \"all road\" 1.6 16V 105 CV",
+            "name": "Combi Dynamique \"all road\" 1.6 16V 105 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/dynamique/kangoo-combi-dynamique-all-road-16-16v-105-cv3/datos",
@@ -5949,7 +5950,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Dynamique \"all road\" dCi 90 CV",
+            "name": "Combi Dynamique \"all road\" dCi 90 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/dynamique/kangoo-combi-dynamique-all-road-dci-90-cv2/datos",
@@ -6130,7 +6131,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Dynamique (all road) dCi 85 CV",
+            "name": "Combi Dynamique (all road) dCi 85 CV",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/dynamique/kangoo-combi-dynamique-all-road-dci-85-cv/datos",
@@ -6308,7 +6309,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Dynamique (all road) dCi 85 CV",
+            "name": "Combi Dynamique (all road) dCi 85 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/dynamique/kangoo-combi-dynamique-all-road-dci-85-cv2/datos",
@@ -6484,7 +6485,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Dynamique \"all road\" dCi 110 FAP",
+            "name": "Combi Dynamique \"all road\" dCi 110 FAP",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/dynamique/kangoo-combi-dynamique-all-road-dci-110-fap/datos",
@@ -6665,7 +6666,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Dynamique (all road) dCi 105 FAP",
+            "name": "Combi Dynamique (all road) dCi 105 FAP",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/dynamique/kangoo-combi-dynamique-all-road-dci-105-fap/datos",
@@ -6844,7 +6845,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Dynamique \"all road\" dCi 110 FAP",
+            "name": "Combi Dynamique \"all road\" dCi 110 FAP",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/dynamique/kangoo-combi-dynamique-all-road-dci-110-fap2/datos",
@@ -7025,7 +7026,7 @@
             ]
         },
         {
-            "name": "Kangoo Combi Dynamique (all road) dCi 105 FAP",
+            "name": "Combi Dynamique (all road) dCi 105 FAP",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/renault/kangoo/2008/estandar/dynamique/kangoo-combi-dynamique-all-road-dci-105-fap2/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Chrysler",
     "name": "PT Cruiser",
     "year": "2006",
     "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2006/estandar",
     "price": "",
     "versions": [
         {
-            "name": "PT Cruiser 1.6 Classic",
+            "name": "1.6 Classic",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2006/estandar/estandar/pt-cruiser-16-classic/datos",
@@ -137,7 +138,7 @@
             ]
         },
         {
-            "name": "PT Cruiser 1.6 Classic",
+            "name": "1.6 Classic",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2006/estandar/estandar/pt-cruiser-16-classic2/datos",
@@ -270,7 +271,7 @@
             ]
         },
         {
-            "name": "PT Cruiser 1.6 Touring",
+            "name": "1.6 Touring",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2006/estandar/estandar/pt-cruiser-16-touring/datos",
@@ -408,7 +409,7 @@
             ]
         },
         {
-            "name": "PT Cruiser 1.6 Touring",
+            "name": "1.6 Touring",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2006/estandar/estandar/pt-cruiser-16-touring2/datos",
@@ -547,7 +548,7 @@
             ]
         },
         {
-            "name": "PT Cruiser 2.2 CRD Touring",
+            "name": "2.2 CRD Touring",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2006/estandar/estandar/pt-cruiser-22-crd-touring2/datos",
@@ -690,7 +691,7 @@
             ]
         },
         {
-            "name": "PT Cruiser 2.2 CRD Touring",
+            "name": "2.2 CRD Touring",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2006/estandar/estandar/pt-cruiser-22-crd-touring/datos",
@@ -831,7 +832,7 @@
             ]
         },
         {
-            "name": "PT Cruiser 2.2 CRD Limited",
+            "name": "2.2 CRD Limited",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2006/estandar/estandar/pt-cruiser-22-crd-limited/datos",
@@ -978,7 +979,7 @@
             ]
         },
         {
-            "name": "PT Cruiser 2.2 CRD Touring",
+            "name": "2.2 CRD Touring",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2006/estandar/estandar/pt-cruiser-22-crd-touring3/datos",
@@ -1121,7 +1122,7 @@
             ]
         },
         {
-            "name": "PT Cruiser 2.4 Limited Aut.",
+            "name": "2.4 Limited Aut.",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2006/estandar/estandar/pt-cruiser-24-limited-aut/datos",
@@ -1268,7 +1269,7 @@
             ]
         },
         {
-            "name": "PT Cruiser 2.4 Turbo GT",
+            "name": "2.4 Turbo GT",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2006/estandar/estandar/pt-cruiser-24-turbo-gt/datos",
@@ -1417,7 +1418,7 @@
             ]
         },
         {
-            "name": "PT Cruiser 2.2 CRD Limited",
+            "name": "2.2 CRD Limited",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2006/estandar/estandar/pt-cruiser-22-crd-limited2/datos",
@@ -1565,7 +1566,7 @@
             ]
         },
         {
-            "name": "PT Cruiser 2.2 CRD Limited",
+            "name": "2.2 CRD Limited",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2006/estandar/estandar/pt-cruiser-22-crd-limited3/datos",
@@ -1713,7 +1714,7 @@
             ]
         },
         {
-            "name": "PT Cruiser 2.4 Limited",
+            "name": "2.4 Limited",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/chrysler/pt-cruiser/2006/estandar/estandar/pt-cruiser-24-limited/datos",

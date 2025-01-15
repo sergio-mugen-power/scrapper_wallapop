@@ -1,11 +1,12 @@
 {
+    "brand": "Hyundai",
     "name": "i40 Sedán",
     "year": "2019",
     "url": "https://www.km77.com/coches/hyundai/i40/2019/sedan",
     "price": "",
     "versions": [
         {
-            "name": "i40 Sedán 1.6 GDi 99 kW (135 CV) Klass",
+            "name": "1.6 GDi 99 kW (135 CV) Klass",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/hyundai/i40/2019/sedan/klass/i40-sedan-16-gdi-99-kw-135-cv-klass/datos",
@@ -16,7 +17,7 @@
             "maletero": "505"
         },
         {
-            "name": "i40 Sedán 1.6 CRDi 84,6 kW (115 CV) Klass",
+            "name": "1.6 CRDi 84,6 kW (115 CV) Klass",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/hyundai/i40/2019/sedan/klass/i40-sedan-16-crdi-85-kw-115-cv-klass/datos",
@@ -27,7 +28,7 @@
             "maletero": "505"
         },
         {
-            "name": "i40 Sedán 1.6 GDi 99 kW (135 CV) Tecno",
+            "name": "1.6 GDi 99 kW (135 CV) Tecno",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/hyundai/i40/2019/sedan/tecno/i40-sedan-16-gdi-99-kw-135-cv-tecno/datos",
@@ -227,7 +228,7 @@
             ]
         },
         {
-            "name": "i40 Sedán 1.6 CRDi 85 kW (115 CV) Tecno",
+            "name": "1.6 CRDi 85 kW (115 CV) Tecno",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/hyundai/i40/2019/sedan/tecno/i40-sedan-16-crdi-85-kw-115-cv-tecno2/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "i40 Sedán 1.6 CRDi 85 kW (115 CV) Tecno",
+            "name": "1.6 CRDi 85 kW (115 CV) Tecno",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/i40/2019/sedan/tecno/i40-sedan-16-crdi-85-kw-115-cv-tecno/datos",
@@ -621,7 +622,7 @@
             ]
         },
         {
-            "name": "i40 Sedán 1.6 CRDi 100 kW (136 CV) DCT Tecno",
+            "name": "1.6 CRDi 100 kW (136 CV) DCT Tecno",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/hyundai/i40/2019/sedan/tecno/i40-sedan-16-crdi-100-kw-136-cv-dct-tecno/datos",

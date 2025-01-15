@@ -1,11 +1,12 @@
 {
+    "brand": "Mercedes-Benz",
     "name": "SL",
     "year": "2016",
     "url": "https://www.km77.com/coches/mercedes/sl/2016/estandar",
     "price": "",
     "versions": [
         {
-            "name": "SL 400",
+            "name": "400",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mercedes/sl/2016/estandar/estandar/sl-2016/datos",
@@ -289,7 +290,7 @@
             ]
         },
         {
-            "name": "SL 400",
+            "name": "400",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/mercedes/sl/2016/estandar/estandar/sl-400/datos",
@@ -580,7 +581,7 @@
             ]
         },
         {
-            "name": "SL 400",
+            "name": "400",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/mercedes/sl/2016/estandar/estandar/sl-4002/datos",
@@ -877,7 +878,7 @@
             ]
         },
         {
-            "name": "SL 500",
+            "name": "500",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mercedes/sl/2016/estandar/estandar/sl-500/datos",
@@ -1161,7 +1162,7 @@
             ]
         },
         {
-            "name": "SL 500",
+            "name": "500",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/mercedes/sl/2016/estandar/estandar/sl-5002/datos",
@@ -1452,7 +1453,7 @@
             ]
         },
         {
-            "name": "SL 500",
+            "name": "500",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/mercedes/sl/2016/estandar/estandar/sl-5003/datos",
@@ -1748,7 +1749,7 @@
             ]
         },
         {
-            "name": "AMG SL 63",
+            "name": "AMG  63",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mercedes/sl/2016/estandar/amg/amg-sl-63/datos",
@@ -2036,7 +2037,7 @@
             ]
         },
         {
-            "name": "Mercedes-AMG SL 63",
+            "name": "Mercedes-AMG  63",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/mercedes/sl/2016/estandar/amg/amg-sl-632/datos",
@@ -2328,7 +2329,7 @@
             ]
         },
         {
-            "name": "AMG SL 65",
+            "name": "AMG  65",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mercedes/sl/2016/estandar/amg/amg-sl-65/datos",

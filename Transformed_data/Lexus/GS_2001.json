@@ -1,11 +1,12 @@
 {
+    "brand": "Lexus",
     "name": "GS",
     "year": "2001",
     "url": "https://www.km77.com/coches/lexus/gs/2001/estandar",
     "price": "",
     "versions": [
         {
-            "name": "GS 300",
+            "name": "300",
             "start_year": "2000",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/lexus/gs/2001/estandar/estandar/gs-300/datos",
@@ -175,7 +176,7 @@
             ]
         },
         {
-            "name": "GS 430",
+            "name": "430",
             "start_year": "2000",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/lexus/gs/2001/estandar/estandar/gs-430/datos",

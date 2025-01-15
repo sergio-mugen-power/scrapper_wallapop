@@ -1,11 +1,12 @@
 {
+    "brand": "Porsche",
     "name": "Cayenne",
     "year": "2015",
     "url": "https://www.km77.com/coches/porsche/cayenne/2015/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Cayenne",
+            "name": "",
             "start_year": "2014",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/porsche/cayenne/2015/estandar/estandar/cayenne/datos",
@@ -35,7 +36,7 @@
             ]
         },
         {
-            "name": "Cayenne Diesel",
+            "name": "Diesel",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/porsche/cayenne/2015/estandar/estandar/cayenne-2015/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "Cayenne Diesel Platinum Edition",
+            "name": "Diesel Platinum Edition",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/porsche/cayenne/2015/estandar/platinum-edition/cayenne-diesel-platinum-edition/datos",
@@ -95,7 +96,7 @@
             ]
         },
         {
-            "name": "Cayenne S E-Hybrid",
+            "name": "S E-Hybrid",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/porsche/cayenne/2015/estandar/s-e-hybrid/cayenne-s-e-hybrid/datos",
@@ -128,7 +129,7 @@
             ]
         },
         {
-            "name": "Cayenne S E-Hybrid",
+            "name": "S E-Hybrid",
             "start_year": "2017",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/porsche/cayenne/2015/estandar/s-e-hybrid/cayenne-s-e-hybrid2/datos",
@@ -161,7 +162,7 @@
             ]
         },
         {
-            "name": "Cayenne S E-Hybrid Platinum Edition",
+            "name": "S E-Hybrid Platinum Edition",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/porsche/cayenne/2015/estandar/platinum-edition/cayenne-s-e-hybrid-platinum-edition/datos",
@@ -194,7 +195,7 @@
             ]
         },
         {
-            "name": "Cayenne S E-Hybrid Platinum Edition",
+            "name": "S E-Hybrid Platinum Edition",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/porsche/cayenne/2015/estandar/platinum-edition/cayenne-s-e-hybrid-platinum-edition2/datos",
@@ -227,7 +228,7 @@
             ]
         },
         {
-            "name": "Cayenne S",
+            "name": "S",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/porsche/cayenne/2015/estandar/s/cayenne-s/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "Cayenne S Diesel",
+            "name": "S Diesel",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/porsche/cayenne/2015/estandar/s/cayenne-s-diesel/datos",
@@ -287,7 +288,7 @@
             ]
         },
         {
-            "name": "Cayenne GTS",
+            "name": "GTS",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/porsche/cayenne/2015/estandar/gts/cayenne-gts/datos",
@@ -317,7 +318,7 @@
             ]
         },
         {
-            "name": "Cayenne Turbo",
+            "name": "Turbo",
             "start_year": "2014",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/porsche/cayenne/2015/estandar/turbo/cayenne-turbo/datos",
@@ -347,7 +348,7 @@
             ]
         },
         {
-            "name": "Cayenne Turbo S",
+            "name": "Turbo S",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/porsche/cayenne/2015/estandar/turbo-s/cayenne-turbo-s/datos",

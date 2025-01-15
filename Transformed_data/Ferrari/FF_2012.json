@@ -1,11 +1,12 @@
 {
+    "brand": "Ferrari",
     "name": "FF",
     "year": "2012",
     "url": "https://www.km77.com/coches/ferrari/ff/2012/estandar",
     "price": "",
     "versions": [
         {
-            "name": "FF",
+            "name": "",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/ferrari/ff/2012/estandar/estandar/ff/datos",
@@ -216,7 +217,7 @@
             ]
         },
         {
-            "name": "FF",
+            "name": "",
             "start_year": "2012",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ferrari/ff/2012/estandar/estandar/ff2/datos",

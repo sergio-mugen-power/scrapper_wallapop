@@ -1,11 +1,12 @@
 {
+    "brand": "Skoda",
     "name": "Scala",
     "year": "2024",
     "url": "https://www.km77.com/coches/skoda/scala/2024/estandar",
     "price": "Desde 24.950 €",
     "versions": [
         {
-            "name": "Scala Essence 1.0 TSI 70 kW (95 CV) (12/2023 - )",
+            "name": "Essence 1.0 TSI 70 kW (95 CV) (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/skoda/scala/2024/estandar/estandar/scala-essence-10-tsi-70-kw-95-cv/datos",
@@ -230,7 +231,7 @@
             ]
         },
         {
-            "name": "Scala Essence 1.0 TSI 85 kW (115 CV) (01/2024 - )",
+            "name": "Essence 1.0 TSI 85 kW (115 CV) (01/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/skoda/scala/2024/estandar/estandar/scala-essence-10-tsi-85-kw-115-cv/datos",
@@ -454,7 +455,7 @@
             ]
         },
         {
-            "name": "Scala Selection 1.0 TSI 70 kW (95 CV) (12/2023 - )",
+            "name": "Selection 1.0 TSI 70 kW (95 CV) (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/skoda/scala/2024/estandar/estandar/scala-selection-10-tsi-70-kw-95-cv/datos",
@@ -709,7 +710,7 @@
             ]
         },
         {
-            "name": "Scala Selection 1.0 TSI 85 kW (115 CV) (12/2023 - )",
+            "name": "Selection 1.0 TSI 85 kW (115 CV) (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/skoda/scala/2024/estandar/estandar/scala-selection-10-tsi-85-kw-115-cv/datos",
@@ -963,7 +964,7 @@
             ]
         },
         {
-            "name": "Scala Design 1.0 TSI 85 kW (115 CV) (12/2023 - )",
+            "name": "Design 1.0 TSI 85 kW (115 CV) (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/skoda/scala/2024/estandar/estandar/scala-design-10-tsi-85-kw-115-cv/datos",
@@ -1218,7 +1219,7 @@
             ]
         },
         {
-            "name": "Scala Selection 1.5 TSI 110 kW (150 CV) (12/2023 - )",
+            "name": "Selection 1.5 TSI 110 kW (150 CV) (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/skoda/scala/2024/estandar/estandar/scala-selection-15-tsi-110-kw-150-cv/datos",
@@ -1473,7 +1474,7 @@
             ]
         },
         {
-            "name": "Scala Selection 1.0 TSI 85 kW (115 CV) DSG (12/2023 - )",
+            "name": "Selection 1.0 TSI 85 kW (115 CV) DSG (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/skoda/scala/2024/estandar/estandar/scala-selection-10-tsi-85-kw-115-cv-dsg/datos",
@@ -1728,7 +1729,7 @@
             ]
         },
         {
-            "name": "Scala Design 1.5 TSI 110 kW (150 CV) (12/2023 - )",
+            "name": "Design 1.5 TSI 110 kW (150 CV) (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/skoda/scala/2024/estandar/estandar/scala-design-15-tsi-110-kw-150-cv/datos",
@@ -1984,7 +1985,7 @@
             ]
         },
         {
-            "name": "Scala Design 1.0 TSI 85 kW (115 CV) DSG (12/2023 - )",
+            "name": "Design 1.0 TSI 85 kW (115 CV) DSG (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/skoda/scala/2024/estandar/estandar/scala-design-10-tsi-85-kw-115-cv-dsg/datos",
@@ -2240,7 +2241,7 @@
             ]
         },
         {
-            "name": "Scala Selection 1.5 TSI 110 kW (150 CV) DSG (12/2023 - )",
+            "name": "Selection 1.5 TSI 110 kW (150 CV) DSG (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/skoda/scala/2024/estandar/estandar/scala-selection-15-tsi-110-kw-150-cv-dsg/datos",
@@ -2496,7 +2497,7 @@
             ]
         },
         {
-            "name": "Scala Monte Carlo 1.5 TSI 110 kW (150 CV) (12/2023 - )",
+            "name": "Monte Carlo 1.5 TSI 110 kW (150 CV) (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/skoda/scala/2024/estandar/estandar/scala-monte-carlo-15-tsi-110-kw-150-cv/datos",
@@ -2747,7 +2748,7 @@
             ]
         },
         {
-            "name": "Scala Design 1.5 TSI 110 kW (150 CV) DSG (12/2023 - )",
+            "name": "Design 1.5 TSI 110 kW (150 CV) DSG (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/skoda/scala/2024/estandar/estandar/scala-design-15-tsi-110-kw-150-cv-dsg/datos",
@@ -3004,7 +3005,7 @@
             ]
         },
         {
-            "name": "Scala Monte Carlo 1.0 TSI 85 kW (115 CV) DSG (12/2023 - )",
+            "name": "Monte Carlo 1.0 TSI 85 kW (115 CV) DSG (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/skoda/scala/2024/estandar/estandar/scala-monte-carlo-10-tsi-85-kw-115-cv-dsg/datos",
@@ -3255,7 +3256,7 @@
             ]
         },
         {
-            "name": "Scala Monte Carlo 1.5 TSI 110 kW (150 CV) DSG (12/2023 - )",
+            "name": "Monte Carlo 1.5 TSI 110 kW (150 CV) DSG (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/skoda/scala/2024/estandar/estandar/scala-monte-carlo-15-tsi-110-kw-150-cv-dsg/datos",

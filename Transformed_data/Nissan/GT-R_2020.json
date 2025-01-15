@@ -1,11 +1,12 @@
 {
+    "brand": "Nissan",
     "name": "GT-R",
     "year": "2020",
     "url": "https://www.km77.com/coches/nissan/gt-r/2020/estandar",
     "price": "",
     "versions": [
         {
-            "name": "GT-R NISMO",
+            "name": "NISMO",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/nissan/gt-r/2020/estandar/nismo/gt-r-nismo/datos",
@@ -86,7 +87,7 @@
             ]
         },
         {
-            "name": "GT-R50 by Italdesign",
+            "name": "50 by Italdesign",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/nissan/gt-r/2020/estandar/50-by-italdesign/gt-r50-by-italdesign5/datos",

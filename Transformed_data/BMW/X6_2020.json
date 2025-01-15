@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "X6",
     "year": "2020",
     "url": "https://www.km77.com/coches/bmw/x6/2020/estandar",
     "price": "Desde 99.300 €",
     "versions": [
         {
-            "name": "X6 xDrive40i",
+            "name": "xDrive40i",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x6/2020/estandar/estandar/x6-xdrive40i/datos",
@@ -356,7 +357,7 @@
             ]
         },
         {
-            "name": "X6 xDrive30d",
+            "name": "xDrive30d",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x6/2020/estandar/estandar/x6-xdrive30d/datos",
@@ -707,7 +708,7 @@
             ]
         },
         {
-            "name": "X6 xDrive40i",
+            "name": "xDrive40i",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x6/2020/estandar/estandar/x6-xdrive40i2/datos",
@@ -967,7 +968,7 @@
             ]
         },
         {
-            "name": "X6 xDrive30d",
+            "name": "xDrive30d",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x6/2020/estandar/estandar/x6-xdrive30d2/datos",
@@ -1227,7 +1228,7 @@
             ]
         },
         {
-            "name": "X6 xDrive40d",
+            "name": "xDrive40d",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x6/2020/estandar/estandar/x6-xdrive40d/datos",
@@ -1487,7 +1488,7 @@
             ]
         },
         {
-            "name": "X6 M50d",
+            "name": "M50d",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x6/2020/estandar/m-performance/x6-m50d/datos",
@@ -1822,7 +1823,7 @@
             ]
         },
         {
-            "name": "X6 M50i",
+            "name": "M50i",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/bmw/x6/2020/estandar/m-performance/x6-m50i/datos",
@@ -2157,7 +2158,7 @@
             ]
         },
         {
-            "name": "X6 M50i",
+            "name": "M50i",
             "start_year": "2020",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x6/2020/estandar/estandar/x6-m50i2/datos",
@@ -2416,7 +2417,7 @@
             ]
         },
         {
-            "name": "X6 M",
+            "name": "M",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x6/2020/estandar/m/x6-m/datos",
@@ -2731,7 +2732,7 @@
             ]
         },
         {
-            "name": "X6 M Competition",
+            "name": "M Competition",
             "start_year": "2019",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/bmw/x6/2020/estandar/m-competition/x6-m-competition/datos",

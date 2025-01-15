@@ -1,11 +1,12 @@
 {
+    "brand": "Peugeot",
     "name": "RCZ",
     "year": "2013",
     "url": "https://www.km77.com/coches/peugeot/rcz/2013/estandar",
     "price": "",
     "versions": [
         {
-            "name": "RCZ 1.6 THP 155",
+            "name": "1.6 THP 155",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/rcz/2013/estandar/estandar/rcz-16-thp-155/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "RCZ 1.6 THP 155 Aut.",
+            "name": "1.6 THP 155 Aut.",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/rcz/2013/estandar/estandar/rcz-16-thp-155-aut/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "RCZ 2.0 HDi 160",
+            "name": "2.0 HDi 160",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/peugeot/rcz/2013/estandar/estandar/rcz-20-hdi-160/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "RCZ 1.6 THP 200",
+            "name": "1.6 THP 200",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/rcz/2013/estandar/estandar/rcz-16-thp-200/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "RCZ 2.0 HDi 160",
+            "name": "2.0 HDi 160",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/peugeot/rcz/2013/estandar/estandar/rcz-20-hdi-1602/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "RCZ 1.6 THP 200 GT Line",
+            "name": "1.6 THP 200 GT Line",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/rcz/2013/estandar/gt-line/rcz-16-thp-200-gt-line/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "RCZ R 1.6 THP 270",
+            "name": "R 1.6 THP 270",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/peugeot/rcz/2013/estandar/r/rcz-r/datos",

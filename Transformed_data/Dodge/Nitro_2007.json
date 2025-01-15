@@ -1,11 +1,12 @@
 {
+    "brand": "Dodge",
     "name": "Nitro",
     "year": "2007",
     "url": "https://www.km77.com/coches/dodge/nitro/2007/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Nitro 2.8 CRD 2WD",
+            "name": "2.8 CRD 2WD",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dodge/nitro/2007/estandar/estandar/nitro-28-crd-2wd/datos",
@@ -148,7 +149,7 @@
             ]
         },
         {
-            "name": "Nitro SE 2.8 CRD 4WD",
+            "name": "SE 2.8 CRD 4WD",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dodge/nitro/2007/estandar/estandar/nitro-se-28-crd-4wd/datos",
@@ -298,7 +299,7 @@
             ]
         },
         {
-            "name": "Nitro 2.8 CRD 2WD SE",
+            "name": "2.8 CRD 2WD SE",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/dodge/nitro/2007/estandar/estandar/nitro-28-crd-2wd-se/datos",
@@ -442,7 +443,7 @@
             ]
         },
         {
-            "name": "Nitro 2.8 CRD 4WD SE",
+            "name": "2.8 CRD 4WD SE",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/dodge/nitro/2007/estandar/estandar/nitro-28-crd-4wd-se/datos",
@@ -596,7 +597,7 @@
             ]
         },
         {
-            "name": "Nitro 2.8 CRD 4WD SE",
+            "name": "2.8 CRD 4WD SE",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/dodge/nitro/2007/estandar/estandar/nitro-28-crd-4wd-se2/datos",
@@ -749,7 +750,7 @@
             ]
         },
         {
-            "name": "Nitro 2.8 CRD 4WD SXT",
+            "name": "2.8 CRD 4WD SXT",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/dodge/nitro/2007/estandar/estandar/nitro-28-crd-4wd-sxt/datos",
@@ -919,7 +920,7 @@
             ]
         },
         {
-            "name": "Nitro 2.8 CRD 4WD SXT Aut.",
+            "name": "2.8 CRD 4WD SXT Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/dodge/nitro/2007/estandar/estandar/nitro-28-crd-4wd-sxt-aut/datos",
@@ -1090,7 +1091,7 @@
             ]
         },
         {
-            "name": "Nitro SXT 2.8 CRD 4WD",
+            "name": "SXT 2.8 CRD 4WD",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dodge/nitro/2007/estandar/estandar/nitro-sxt-28-crd-4wd/datos",
@@ -1257,7 +1258,7 @@
             ]
         },
         {
-            "name": "Nitro 2.8 CRD 4WD SXT",
+            "name": "2.8 CRD 4WD SXT",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/dodge/nitro/2007/estandar/estandar/nitro-28-crd-4wd-sxt2/datos",
@@ -1425,7 +1426,7 @@
             ]
         },
         {
-            "name": "Nitro SXT 2.8 CRD 4WD Aut.",
+            "name": "SXT 2.8 CRD 4WD Aut.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dodge/nitro/2007/estandar/estandar/nitro-sxt-28-crd-4wd-aut/datos",
@@ -1592,7 +1593,7 @@
             ]
         },
         {
-            "name": "Nitro 2.8 CRD 4WD SXT Aut.",
+            "name": "2.8 CRD 4WD SXT Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/dodge/nitro/2007/estandar/estandar/nitro-28-crd-4wd-sxt-aut2/datos",
@@ -1760,7 +1761,7 @@
             ]
         },
         {
-            "name": "Nitro 2.8 CRD 4WD RT Aut.",
+            "name": "2.8 CRD 4WD RT Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/dodge/nitro/2007/estandar/estandar/nitro-28-crd-4wd-rt-aut/datos",
@@ -1932,7 +1933,7 @@
             ]
         },
         {
-            "name": "Nitro 4.0 V6 4WD RT Aut.",
+            "name": "4.0 V6 4WD RT Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/dodge/nitro/2007/estandar/estandar/nitro-40-v6-4wd-rt-aut/datos",
@@ -2106,7 +2107,7 @@
             ]
         },
         {
-            "name": "Nitro RT 2.8 CRD 4WD Aut.",
+            "name": "RT 2.8 CRD 4WD Aut.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/dodge/nitro/2007/estandar/estandar/nitro-rt-28-crd-4wd-aut/datos",
@@ -2277,7 +2278,7 @@
             ]
         },
         {
-            "name": "Nitro 4.0 V6 4WD RT Aut.",
+            "name": "4.0 V6 4WD RT Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/dodge/nitro/2007/estandar/estandar/nitro-40-v6-4wd-rt-aut2/datos",

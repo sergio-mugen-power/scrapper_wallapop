@@ -1,11 +1,12 @@
 {
+    "brand": "Honda",
     "name": "Prelude",
     "year": "1997",
     "url": "https://www.km77.com/coches/honda/prelude/1997/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Prelude 2.0i",
+            "name": "2.0i",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/honda/prelude/1997/estandar/estandar/prelude-20i/datos",
@@ -136,7 +137,7 @@
             ]
         },
         {
-            "name": "Prelude 2.2 VTi VTEC 4WS",
+            "name": "2.2 VTi VTEC 4WS",
             "start_year": "2000",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/honda/prelude/1997/estandar/estandar/prelude-22-vti-vtec-4ws/datos",
@@ -268,7 +269,7 @@
             ]
         },
         {
-            "name": "Prelude 2.2 VTi VTEC 4WS SSS",
+            "name": "2.2 VTi VTEC 4WS SSS",
             "start_year": "2000",
             "end_year": "2000",
             "url": "https://www.km77.com/coches/honda/prelude/1997/estandar/estandar/prelude-22-vti-vtec-4ws-sss/datos",

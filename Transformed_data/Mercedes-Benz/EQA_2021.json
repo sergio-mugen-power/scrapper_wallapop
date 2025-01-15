@@ -1,11 +1,12 @@
 {
+    "brand": "Mercedes-Benz",
     "name": "EQA",
     "year": "2021",
     "url": "https://www.km77.com/coches/mercedes/eqa/2021/estandar",
     "price": "Desde 57.030 €",
     "versions": [
         {
-            "name": "EQA 250",
+            "name": "250",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/mercedes/eqa/2021/estandar/estandar/eqa-2503/datos",
@@ -292,7 +293,7 @@
             ]
         },
         {
-            "name": "EQA 250",
+            "name": "250",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/eqa/2021/estandar/estandar/eqa-250/datos",
@@ -574,7 +575,7 @@
             ]
         },
         {
-            "name": "EQA 250+",
+            "name": "250+",
             "start_year": "2022",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/eqa/2021/estandar/estandar/eqa-2502/datos",
@@ -854,7 +855,7 @@
             ]
         },
         {
-            "name": "EQA 300 4MATIC",
+            "name": "300 4MATIC",
             "start_year": "2021",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/eqa/2021/estandar/estandar/eqa-300-4matic/datos",
@@ -1146,7 +1147,7 @@
             ]
         },
         {
-            "name": "EQA 350 4MATIC",
+            "name": "350 4MATIC",
             "start_year": "2021",
             "end_year": "2023",
             "url": "https://www.km77.com/coches/mercedes/eqa/2021/estandar/estandar/eqa-350-4matic/datos",

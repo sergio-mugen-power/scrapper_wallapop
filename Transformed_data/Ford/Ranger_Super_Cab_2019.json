@@ -1,11 +1,12 @@
 {
+    "brand": "Ford",
     "name": "Ranger Super Cab",
     "year": "2019",
     "url": "https://www.km77.com/coches/ford/ranger/2019/super-cab",
     "price": "",
     "versions": [
         {
-            "name": "Ranger Super Cab XL 2.0 EcoBlue 125 kW (170 CV) 4x4 Start&Stop",
+            "name": "XL 2.0 EcoBlue 125 kW (170 CV) 4x4 Start&Stop",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ford/ranger/2019/super-cab/xl/ranger-super-cab-xl-20-tdci-125-kw-170-cv-4x4-startstop/datos",
@@ -207,7 +208,7 @@
             ]
         },
         {
-            "name": "Ranger Super Cab XL 2.0 TDCI 125 kW (170 CV) 4x4 Start&Stop",
+            "name": "XL 2.0 TDCI 125 kW (170 CV) 4x4 Start&Stop",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/ranger/2019/super-cab/xl/ranger-super-cab-xl-startstop/datos",
@@ -383,7 +384,7 @@
             ]
         },
         {
-            "name": "Ranger Super Cab Wildtrak 2.0 TDCI 157 kW (213 CV) 4x4 Start&Stop",
+            "name": "Wildtrak 2.0 TDCI 157 kW (213 CV) 4x4 Start&Stop",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ford/ranger/2019/super-cab/wildtrak/ranger-super-cab-wildtrak-20-tdci-157-kw-213-cv-4x4-startstop/datos",
@@ -624,7 +625,7 @@
             ]
         },
         {
-            "name": "Ranger Super Cab Wildtrak 2.0 TDCI 157 kW (213 CV) 4x4 Aut.",
+            "name": "Wildtrak 2.0 TDCI 157 kW (213 CV) 4x4 Aut.",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ford/ranger/2019/super-cab/wildtrak/ranger-super-cab-wildtrak-20-tdci-157-kw-213-cv-4x4-aut/datos",
@@ -865,7 +866,7 @@
             ]
         },
         {
-            "name": "Ranger Super Cab Wildtrak 2.0 TDCI 157 kW (213 CV) 4x4 Start&Stop",
+            "name": "Wildtrak 2.0 TDCI 157 kW (213 CV) 4x4 Start&Stop",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ford/ranger/2019/super-cab/wildtrak/ranger-super-cab-wildtrak-20-tdci-157-kw-213-cv-4x4-startstop2/datos",
@@ -1108,7 +1109,7 @@
             ]
         },
         {
-            "name": "Ranger Super Cab Wildtrak 2.0 EcoBlue 157 kW (213 CV) 4x4 Aut.",
+            "name": "Wildtrak 2.0 EcoBlue 157 kW (213 CV) 4x4 Aut.",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ford/ranger/2019/super-cab/wildtrak/ranger-super-cab-wildtrak-20-tdci-157-kw-213-cv-4x4-aut2/datos",

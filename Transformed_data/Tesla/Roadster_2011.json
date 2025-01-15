@@ -1,11 +1,12 @@
 {
+    "brand": "Tesla",
     "name": "Roadster",
     "year": "2011",
     "url": "https://www.km77.com/coches/tesla/roadster/2011/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Roadster 2.5",
+            "name": "2.5",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/tesla/roadster/2011/estandar/estandar/roadster-25/datos",
@@ -179,7 +180,7 @@
             ]
         },
         {
-            "name": "Roadster 2.5",
+            "name": "2.5",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/tesla/roadster/2011/estandar/estandar/roadster-252/datos",
@@ -353,7 +354,7 @@
             ]
         },
         {
-            "name": "Roadster Sport 2.5",
+            "name": "Sport 2.5",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/tesla/roadster/2011/estandar/estandar/roadster-sport-25/datos",
@@ -530,7 +531,7 @@
             ]
         },
         {
-            "name": "Roadster Sport 2.5",
+            "name": "Sport 2.5",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/tesla/roadster/2011/estandar/estandar/roadster-sport-252/datos",

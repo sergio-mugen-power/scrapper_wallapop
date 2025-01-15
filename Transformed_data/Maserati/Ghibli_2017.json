@@ -1,11 +1,12 @@
 {
+    "brand": "Maserati",
     "name": "Ghibli",
     "year": "2017",
     "url": "https://www.km77.com/coches/maserati/ghibli/2017/estandar",
     "price": "Desde 82.700 €",
     "versions": [
         {
-            "name": "Ghibli Diesel",
+            "name": "Diesel",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/maserati/ghibli/2017/estandar/estandar/ghibli-diesel-275-cv/datos",
@@ -276,7 +277,7 @@
             ]
         },
         {
-            "name": "Ghibli Diesel",
+            "name": "Diesel",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/maserati/ghibli/2017/estandar/estandar/ghibli-diesel/datos",
@@ -546,7 +547,7 @@
             ]
         },
         {
-            "name": "Ghibli",
+            "name": "",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/maserati/ghibli/2017/estandar/estandar/ghibli/datos",
@@ -815,7 +816,7 @@
             ]
         },
         {
-            "name": "Ghibli Diesel GranLusso",
+            "name": "Diesel GranLusso",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/maserati/ghibli/2017/estandar/granlusso/ghibli-diesel-granlusso/datos",
@@ -1082,7 +1083,7 @@
             ]
         },
         {
-            "name": "Ghibli Diesel GranSport",
+            "name": "Diesel GranSport",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/maserati/ghibli/2017/estandar/gransport/ghibli-diesel-gransport/datos",
@@ -1356,7 +1357,7 @@
             ]
         },
         {
-            "name": "Ghibli",
+            "name": "",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/maserati/ghibli/2017/estandar/estandar/ghibli2/datos",
@@ -1624,7 +1625,7 @@
             ]
         },
         {
-            "name": "Ghibli Diesel GranLusso",
+            "name": "Diesel GranLusso",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/maserati/ghibli/2017/estandar/granlusso/ghibli-diesel-granlusso2/datos",
@@ -1892,7 +1893,7 @@
             ]
         },
         {
-            "name": "Ghibli Diesel GranSport",
+            "name": "Diesel GranSport",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/maserati/ghibli/2017/estandar/gransport/ghibli-diesel-gransport2/datos",
@@ -2165,7 +2166,7 @@
             ]
         },
         {
-            "name": "Ghibli GranLusso",
+            "name": "GranLusso",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/maserati/ghibli/2017/estandar/granlusso/ghibli-granlusso/datos",
@@ -2430,7 +2431,7 @@
             ]
         },
         {
-            "name": "Ghibli GranSport",
+            "name": "GranSport",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/maserati/ghibli/2017/estandar/gransport/ghibli-gransport/datos",
@@ -2702,7 +2703,7 @@
             ]
         },
         {
-            "name": "Ghibli S",
+            "name": "S",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/maserati/ghibli/2017/estandar/estandar/ghibli-s/datos",
@@ -2963,7 +2964,7 @@
             ]
         },
         {
-            "name": "Ghibli S",
+            "name": "S",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/maserati/ghibli/2017/estandar/estandar/ghibli-s2/datos",
@@ -3231,7 +3232,7 @@
             ]
         },
         {
-            "name": "Ghibli S Q4",
+            "name": "S Q4",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/maserati/ghibli/2017/estandar/estandar/ghibli-sq4/datos",
@@ -3494,7 +3495,7 @@
             ]
         },
         {
-            "name": "Ghibli GranLusso",
+            "name": "GranLusso",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/maserati/ghibli/2017/estandar/granlusso/ghibli-granlusso2/datos",
@@ -3760,7 +3761,7 @@
             ]
         },
         {
-            "name": "Ghibli GranSport",
+            "name": "GranSport",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/maserati/ghibli/2017/estandar/gransport/ghibli-gransport2/datos",
@@ -4031,7 +4032,7 @@
             ]
         },
         {
-            "name": "Ghibli S Q4",
+            "name": "S Q4",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/maserati/ghibli/2017/estandar/estandar/ghibli-s-q4/datos",
@@ -4300,7 +4301,7 @@
             ]
         },
         {
-            "name": "Ghibli S Q4",
+            "name": "S Q4",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/maserati/ghibli/2017/estandar/estandar/ghibli-s-q42/datos",
@@ -4569,7 +4570,7 @@
             ]
         },
         {
-            "name": "Ghibli S GranLusso",
+            "name": "S GranLusso",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/maserati/ghibli/2017/estandar/granlusso/ghibli-s-granlusso/datos",
@@ -4834,7 +4835,7 @@
             ]
         },
         {
-            "name": "Ghibli S GranSport",
+            "name": "S GranSport",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/maserati/ghibli/2017/estandar/gransport/ghibli-s-gransport/datos",
@@ -5106,7 +5107,7 @@
             ]
         },
         {
-            "name": "Ghibli S Q4 GranLusso",
+            "name": "S Q4 GranLusso",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/maserati/ghibli/2017/estandar/granlusso/ghibli-s-q4-granlusso/datos",
@@ -5372,7 +5373,7 @@
             ]
         },
         {
-            "name": "Ghibli S Q4 GranSport",
+            "name": "S Q4 GranSport",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/maserati/ghibli/2017/estandar/gransport/ghibli-s-q4-gransport/datos",
@@ -5645,7 +5646,7 @@
             ]
         },
         {
-            "name": "Ghibli S Q4 GranLusso",
+            "name": "S Q4 GranLusso",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/maserati/ghibli/2017/estandar/granlusso/ghibli-s-q4-granlusso2/datos",
@@ -5913,7 +5914,7 @@
             ]
         },
         {
-            "name": "Ghibli S Q4 GranSport",
+            "name": "S Q4 GranSport",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/maserati/ghibli/2017/estandar/gransport/ghibli-s-q4-gransport2/datos",

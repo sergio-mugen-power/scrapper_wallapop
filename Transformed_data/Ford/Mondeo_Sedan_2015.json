@@ -1,11 +1,12 @@
 {
+    "brand": "Ford",
     "name": "Mondeo Sedan",
     "year": "2015",
     "url": "https://www.km77.com/coches/ford/mondeo/2015/sedan",
     "price": "",
     "versions": [
         {
-            "name": "Mondeo Sedan Titanium HEV 2.0 Híbrido 187 CV",
+            "name": "Titanium HEV 2.0 Híbrido 187 CV",
             "start_year": "2014",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/mondeo/2015/sedan/titanium/mondeo-sedan-titanium-hev-20-hibrido-187-cv/datos",
@@ -253,7 +254,7 @@
             ]
         },
         {
-            "name": "Mondeo Sedan Titanium HEV 2.0 Híbrido 187 CV",
+            "name": "Titanium HEV 2.0 Híbrido 187 CV",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/mondeo/2015/sedan/titanium/mondeo-sedan-titanium-hev-20-hibrido/datos",
@@ -500,7 +501,7 @@
             ]
         },
         {
-            "name": "Mondeo Sedan Vignale 2.0 TDCi 110 kW (150 CV)",
+            "name": "Vignale 2.0 TDCi 110 kW (150 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/mondeo/2015/sedan/vignale/mondeo-sedan-vignale-20-tdci-110-kw-150-cv2/datos",
@@ -747,7 +748,7 @@
             ]
         },
         {
-            "name": "Mondeo Sedan Vignale 2.0 TDCi 110 kW (150 CV)",
+            "name": "Vignale 2.0 TDCi 110 kW (150 CV)",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/mondeo/2015/sedan/vignale/mondeo-sedan-vignale-20-tdci-110-kw-150-cv/datos",
@@ -993,7 +994,7 @@
             ]
         },
         {
-            "name": "Mondeo Sedan Vignale 2.0 TDCi 110 kW (150 CV) PowerShift",
+            "name": "Vignale 2.0 TDCi 110 kW (150 CV) PowerShift",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/mondeo/2015/sedan/vignale/mondeo-sedan-vignale-20-tdci-110-kw-150-cv-powershift2/datos",
@@ -1240,7 +1241,7 @@
             ]
         },
         {
-            "name": "Mondeo Sedan Vignale 2.0 TDCi 132 kW (180 CV)",
+            "name": "Vignale 2.0 TDCi 132 kW (180 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/mondeo/2015/sedan/vignale/mondeo-sedan-vignale-20-tdci-132-kw-180-cv/datos",
@@ -1487,7 +1488,7 @@
             ]
         },
         {
-            "name": "Mondeo Sedan Vignale HEV 2.0 Híbrido 137 kW (187 CV)",
+            "name": "Vignale HEV 2.0 Híbrido 137 kW (187 CV)",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/mondeo/2015/sedan/vignale/mondeo-sedan-vignale-hev-20-hibrido-137-kw-187-cv/datos",
@@ -1733,7 +1734,7 @@
             ]
         },
         {
-            "name": "Mondeo Sedan Vignale 2.0 TDCi 110 kW (150 CV) PowerShift",
+            "name": "Vignale 2.0 TDCi 110 kW (150 CV) PowerShift",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/mondeo/2015/sedan/vignale/mondeo-sedan-vignale-20-tdci-110-kw-150-cv-powershift/datos",
@@ -1979,7 +1980,7 @@
             ]
         },
         {
-            "name": "Mondeo Sedan Vignale 2.0 TDCi 132 kW (180 CV)",
+            "name": "Vignale 2.0 TDCi 132 kW (180 CV)",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/mondeo/2015/sedan/vignale/mondeo-vignale-sedan-20-tdci-180-cv/datos",
@@ -2225,7 +2226,7 @@
             ]
         },
         {
-            "name": "Mondeo Sedan Vignale HEV 2.0 Híbrido 137 kW (187 CV)",
+            "name": "Vignale HEV 2.0 Híbrido 137 kW (187 CV)",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/mondeo/2015/sedan/vignale/mondeo-vignale-sedan-hev-20-hibrido-187-cv/datos",
@@ -2470,7 +2471,7 @@
             ]
         },
         {
-            "name": "Mondeo Sedan Vignale 2.0 TDCi 110 kW (150 CV) AWD",
+            "name": "Vignale 2.0 TDCi 110 kW (150 CV) AWD",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/mondeo/2015/sedan/vignale/mondeo-sedan-vignale-20-tdci-110-kw-150-cv-awd/datos",
@@ -2716,7 +2717,7 @@
             ]
         },
         {
-            "name": "Mondeo Sedan Vignale 2.0 TDCi 180 CV PowerShift",
+            "name": "Vignale 2.0 TDCi 180 CV PowerShift",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ford/mondeo/2015/sedan/vignale/mondeo-sedan-vignale-20-tdci-180-cv-powershift/datos",
@@ -2957,7 +2958,7 @@
             ]
         },
         {
-            "name": "Mondeo Sedan Vignale 2.0 TDCi 132 kW (180 CV) PowerShift",
+            "name": "Vignale 2.0 TDCi 132 kW (180 CV) PowerShift",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/mondeo/2015/sedan/vignale/mondeo-sedan-vignale-20-tdci-132-kw-180-cv-powershift/datos",
@@ -3204,7 +3205,7 @@
             ]
         },
         {
-            "name": "Mondeo Sedan Vignale 2.0 EcoBoost 177 kW (240 CV) Aut.",
+            "name": "Vignale 2.0 EcoBoost 177 kW (240 CV) Aut.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/mondeo/2015/sedan/vignale/mondeo-sedan-vignale-20-ecoboost-240-cv-aut/datos",
@@ -3450,7 +3451,7 @@
             ]
         },
         {
-            "name": "Mondeo Sedan Vignale 2.0 TDCi 132 kW (180 CV) PowerShift",
+            "name": "Vignale 2.0 TDCi 132 kW (180 CV) PowerShift",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/mondeo/2015/sedan/vignale/mondeo-sedan-vignale-20-tdci-180-cv-powershift2/datos",
@@ -3696,7 +3697,7 @@
             ]
         },
         {
-            "name": "Mondeo Sedan Vignale 2.0 TDCi Bi-turbo 154 kW (210 CV) PowerShift",
+            "name": "Vignale 2.0 TDCi Bi-turbo 154 kW (210 CV) PowerShift",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/mondeo/2015/sedan/vignale/mondeo-sedan-vignale-20-tdci-bi-turbo-210-cv-powershift/datos",
@@ -3941,7 +3942,7 @@
             ]
         },
         {
-            "name": "Mondeo Sedan Vignale 2.0 TDCi 132 kW (180 CV) AWD PowerShift",
+            "name": "Vignale 2.0 TDCi 132 kW (180 CV) AWD PowerShift",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/mondeo/2015/sedan/vignale/mondeo-sedan-vignale-20-tdci-132-kw-180-cv-awd-powershift/datos",
@@ -4187,7 +4188,7 @@
             ]
         },
         {
-            "name": "Mondeo Sedan Vignale 2.0 TDCi 132 kW (180 CV) AWD PowerShift",
+            "name": "Vignale 2.0 TDCi 132 kW (180 CV) AWD PowerShift",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/mondeo/2015/sedan/vignale/mondeo-sedan-vignale-20-tdci-180-cv-awd-powershift/datos",

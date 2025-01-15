@@ -1,11 +1,12 @@
 {
+    "brand": "BMW",
     "name": "iX3",
     "year": "2020",
     "url": "https://www.km77.com/coches/bmw/ix3/2020/estandar",
     "price": "Desde 74.600 €",
     "versions": [
         {
-            "name": "iX3 Inspiring",
+            "name": "Inspiring",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/bmw/ix3/2020/estandar/estandar/ix3/datos",
@@ -217,7 +218,7 @@
             ]
         },
         {
-            "name": "iX3 Impressive",
+            "name": "Impressive",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/bmw/ix3/2020/estandar/estandar/ix3-impressive/datos",

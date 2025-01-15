@@ -1,11 +1,12 @@
 {
+    "brand": "Subaru",
     "name": "Impreza SW",
     "year": "2006",
     "url": "https://www.km77.com/coches/subaru/impreza/2006/sw",
     "price": "",
     "versions": [
         {
-            "name": "Impreza SW 1.5R",
+            "name": "1.5R",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/subaru/impreza/2006/sw/estandar/impreza-sw-15r/datos",
@@ -163,7 +164,7 @@
             ]
         },
         {
-            "name": "Impreza SW 2.0R",
+            "name": "2.0R",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/subaru/impreza/2006/sw/estandar/impreza-sw-20r/datos",
@@ -321,7 +322,7 @@
             ]
         },
         {
-            "name": "Impreza SW 2.5T WRX",
+            "name": "2.5T WRX",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/subaru/impreza/2006/sw/wrx/impreza-sw-25t-wrx/datos",

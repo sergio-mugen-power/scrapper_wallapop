@@ -1,11 +1,12 @@
 {
+    "brand": "Lamborghini",
     "name": "Gallardo Spyder",
     "year": "2008",
     "url": "https://www.km77.com/coches/lamborghini/gallardo/2008/spyder",
     "price": "",
     "versions": [
         {
-            "name": "Gallardo Spyder",
+            "name": "",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/lamborghini/gallardo/2008/spyder/estandar/gallardo-spyder/datos",
@@ -190,7 +191,7 @@
             ]
         },
         {
-            "name": "Gallardo Spyder LP550-2 e gear",
+            "name": "LP550-2 e gear",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/lamborghini/gallardo/2008/spyder/estandar/gallardo-lp550-2-spyder-e-gear/datos",
@@ -1499,7 +1500,7 @@
             ]
         },
         {
-            "name": "Gallardo Spyder LP570-4 Performante Edizione Tecnica e-gear",
+            "name": "LP570-4 Performante Edizione Tecnica e-gear",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/lamborghini/gallardo/2008/spyder/edizione-tecnica/gallardo-lp570-4-spyder-performante-edizione-tecnica/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Alfa Romeo",
     "name": "33 Stradale",
     "year": "2024",
     "url": "https://www.km77.com/coches/alfa-romeo/33-stradale/2024/estandar",
     "price": "",
     "versions": [
         {
-            "name": "33 Stradale BEV ( - )",
+            "name": "BEV ( - )",
             "start_year": "Desconocido",
             "end_year": "Desconocido",
             "url": "https://www.km77.com/coches/alfa-romeo/33-stradale/2024/estandar/bev/33-stradale-bev3/datos",
@@ -74,7 +75,7 @@
             ]
         },
         {
-            "name": "33 Stradale ICE ( - )",
+            "name": "ICE ( - )",
             "start_year": "Desconocido",
             "end_year": "Desconocido",
             "url": "https://www.km77.com/coches/alfa-romeo/33-stradale/2024/estandar/estandar/33-stradale-ice/datos",

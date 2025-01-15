@@ -1,11 +1,12 @@
 {
+    "brand": "Alpine",
     "name": "A110",
     "year": "2018",
     "url": "https://www.km77.com/coches/alpine/a110/2018/estandar",
     "price": "Desde 60.700 €",
     "versions": [
         {
-            "name": "A110 (01/2022 - )",
+            "name": "(01/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/alpine/a110/2018/estandar/estandar/a1102/datos",
@@ -16,7 +17,7 @@
             "maletero": "196"
         },
         {
-            "name": "A110 GT (01/2022 - )",
+            "name": "GT (01/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/alpine/a110/2018/estandar/estandar/a110-gt/datos",
@@ -27,7 +28,7 @@
             "maletero": "196"
         },
         {
-            "name": "A110 S (01/2022 - )",
+            "name": "S (01/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/alpine/a110/2018/estandar/estandar/a110-s/datos",
@@ -38,7 +39,7 @@
             "maletero": "196"
         },
         {
-            "name": "A110 R Turini (12/2023 - )",
+            "name": "R Turini (12/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/alpine/a110/2018/estandar/r/a110-r-turini/datos",
@@ -49,7 +50,7 @@
             "maletero": "196"
         },
         {
-            "name": "A110 R Ultime (10/2024 - )",
+            "name": "R Ultime (10/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/alpine/a110/2018/estandar/r-ultime/a110-r-ultime/datos",

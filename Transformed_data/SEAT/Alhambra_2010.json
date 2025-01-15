@@ -1,11 +1,12 @@
 {
+    "brand": "SEAT",
     "name": "Alhambra",
     "year": "2010",
     "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Alhambra 1.4 TSI 150 CV Ecomotive Reference",
+            "name": "1.4 TSI 150 CV Ecomotive Reference",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/reference/alhambra-14-tsi-150-cv-reference/datos",
@@ -16,7 +17,7 @@
             "maletero": "809"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 115 CV Ecomotive Reference",
+            "name": "2.0 TDI CR 115 CV Ecomotive Reference",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/reference/alhambra-20-tdi-cr-115-cv-reference/datos",
@@ -27,7 +28,7 @@
             "maletero": "809"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 170 CV Reference",
+            "name": "2.0 TDI CR 170 CV Reference",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/reference/alhambra-20-tdi-cr-170-cv-reference/datos",
@@ -38,7 +39,7 @@
             "maletero": "809"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 140 CV E-Ecomotive Reference",
+            "name": "2.0 TDI CR 140 CV E-Ecomotive Reference",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/reference/alhambra-20-tdi-cr-140-cv-reference/datos",
@@ -49,7 +50,7 @@
             "maletero": "809"
         },
         {
-            "name": "Alhambra 1.4 TSI 150 CV Ecomotive Reference",
+            "name": "1.4 TSI 150 CV Ecomotive Reference",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/reference/alhambra-14-tsi-150-cv-ecomotive-reference/datos",
@@ -60,7 +61,7 @@
             "maletero": "809"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 115 CV Ecomotive Reference",
+            "name": "2.0 TDI CR 115 CV Ecomotive Reference",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/reference/alhambra-20-tdi-cr-115-cv-ecomotive-reference/datos",
@@ -71,7 +72,7 @@
             "maletero": "809"
         },
         {
-            "name": "Alhambra 1.4 TSI 150 CV Ecomotive Reference 7 plazas",
+            "name": "1.4 TSI 150 CV Ecomotive Reference 7 plazas",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/reference/alhambra-14-tsi-150-cv-ecomotive-reference-7-plazas/datos",
@@ -82,7 +83,7 @@
             "maletero": "658"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 115 CV Ecomotive Reference 7 plazas",
+            "name": "2.0 TDI CR 115 CV Ecomotive Reference 7 plazas",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/reference/alhambra-20-tdi-cr-115-cv-ecomotive-reference-7-plazas/datos",
@@ -93,7 +94,7 @@
             "maletero": "658"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 140 CV E-Ecomotive Reference",
+            "name": "2.0 TDI CR 140 CV E-Ecomotive Reference",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/reference/alhambra-20-tdi-cr-140-cv-e-ecomotive-reference/datos",
@@ -104,7 +105,7 @@
             "maletero": "809"
         },
         {
-            "name": "Alhambra 1.4 TSI 150 CV Ecomotive Style",
+            "name": "1.4 TSI 150 CV Ecomotive Style",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/style/alhambra-14-tsi-150-cv-style/datos",
@@ -115,7 +116,7 @@
             "maletero": "809"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 140 CV E-Ecomotive Reference 7 plazas",
+            "name": "2.0 TDI CR 140 CV E-Ecomotive Reference 7 plazas",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/reference/alhambra-20-tdi-cr-140-cv-e-ecomotive-reference-7-plazas/datos",
@@ -126,7 +127,7 @@
             "maletero": "658"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 140 CV E-Ecomotive Style",
+            "name": "2.0 TDI CR 140 CV E-Ecomotive Style",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/style/alhambra-20-tdi-cr-140-cv-style/datos",
@@ -137,7 +138,7 @@
             "maletero": "809"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 170 CV Ecomotive Style",
+            "name": "2.0 TDI CR 170 CV Ecomotive Style",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/style/alhambra-20-tdi-cr-170-cv-ecomotive-style/datos",
@@ -148,7 +149,7 @@
             "maletero": "809"
         },
         {
-            "name": "Alhambra 1.4 TSI 150 CV Ecomotive Style",
+            "name": "1.4 TSI 150 CV Ecomotive Style",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/style/alhambra-14-tsi-150-cv-ecomotive-style/datos",
@@ -159,7 +160,7 @@
             "maletero": "809"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 170 CV Ecomotive Style 7 plazas",
+            "name": "2.0 TDI CR 170 CV Ecomotive Style 7 plazas",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/style/alhambra-20-tdi-cr-170-cv-ecomotive-style-7-plazas/datos",
@@ -170,7 +171,7 @@
             "maletero": "658"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 170 CV Ecomotive Style",
+            "name": "2.0 TDI CR 170 CV Ecomotive Style",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/style/alhambra-20-tdi-cr-170-cv-style/datos",
@@ -181,7 +182,7 @@
             "maletero": "809"
         },
         {
-            "name": "Alhambra 1.4 TSI 150 CV Ecomotive Style 7 plazas",
+            "name": "1.4 TSI 150 CV Ecomotive Style 7 plazas",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/style/alhambra-14-tsi-150-cv-ecomotive-style-7-plazas/datos",
@@ -192,7 +193,7 @@
             "maletero": "658"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 140 CV Ecomotive 4WD Style 5 plazas",
+            "name": "2.0 TDI CR 140 CV Ecomotive 4WD Style 5 plazas",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/style/alhambra-20-tdi-cr-140-cv-4wd-style/datos",
@@ -203,7 +204,7 @@
             "maletero": "809"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 140 CV Ecomotive DSG Style",
+            "name": "2.0 TDI CR 140 CV Ecomotive DSG Style",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/style/alhambra-20-tdi-cr-140-cv-dsg-style/datos",
@@ -214,7 +215,7 @@
             "maletero": "809"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 170 CV Ecomotive DSG Style",
+            "name": "2.0 TDI CR 170 CV Ecomotive DSG Style",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/style/alhambra-20-tdi-cr-170-cv-ecomotive-dsg-style/datos",
@@ -225,7 +226,7 @@
             "maletero": "809"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 140 CV E-Ecomotive Style",
+            "name": "2.0 TDI CR 140 CV E-Ecomotive Style",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/style/alhambra-20-tdi-cr-140-cv-e-ecomotive-style/datos",
@@ -236,7 +237,7 @@
             "maletero": "809"
         },
         {
-            "name": "Alhambra 2.0 TSI 200 CV DSG Style",
+            "name": "2.0 TSI 200 CV DSG Style",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/style/alhambra-20-tsi-200-cv-style/datos",
@@ -247,7 +248,7 @@
             "maletero": "809"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 170 CV Ecomotive DSG Style 7 plazas",
+            "name": "2.0 TDI CR 170 CV Ecomotive DSG Style 7 plazas",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/style/alhambra-20-tdi-cr-170-cv-ecomotive-dsg-style-7-plazas/datos",
@@ -258,7 +259,7 @@
             "maletero": "658"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 140 CV E-Ecomotive Style 7 plazas",
+            "name": "2.0 TDI CR 140 CV E-Ecomotive Style 7 plazas",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/style/alhambra-20-tdi-cr-140-cv-e-ecomotive-style-7-plazas/datos",
@@ -269,7 +270,7 @@
             "maletero": "658"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 170 CV Ecomotive DSG Style",
+            "name": "2.0 TDI CR 170 CV Ecomotive DSG Style",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/style/alhambra-20-tdi-cr-170-cv-dsg-style/datos",
@@ -280,7 +281,7 @@
             "maletero": "809"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 140 CV Ecomotive 4WD Style 7 plazas",
+            "name": "2.0 TDI CR 140 CV Ecomotive 4WD Style 7 plazas",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/style/alhambra-20-tdi-cr-140-cv-ecomotive-4wd-style-7-plazas/datos",
@@ -291,7 +292,7 @@
             "maletero": "658"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 177 CV Ecomotive Style",
+            "name": "2.0 TDI CR 177 CV Ecomotive Style",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/style/alhambra-20-tdi-cr-177-cv-ecomotive-style/datos",
@@ -302,7 +303,7 @@
             "maletero": "809"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 140 CV Ecomotive 4WD Style",
+            "name": "2.0 TDI CR 140 CV Ecomotive 4WD Style",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/style/alhambra-20-tdi-cr-140-cv-ecomotive-4wd-style-5-plazas/datos",
@@ -313,7 +314,7 @@
             "maletero": "809"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 140 CV Ecomotive DSG Style",
+            "name": "2.0 TDI CR 140 CV Ecomotive DSG Style",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/style/alhambra-20-tdi-cr-140-cv-ecomotive-dsg-style/datos",
@@ -324,7 +325,7 @@
             "maletero": "809"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 177 CV Ecomotive Style 7 plazas",
+            "name": "2.0 TDI CR 177 CV Ecomotive Style 7 plazas",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/style/alhambra-20-tdi-cr-177-cv-ecomotive-style-7-plazas/datos",
@@ -335,7 +336,7 @@
             "maletero": "658"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 140 CV Ecomotive DSG Style 7 plazas",
+            "name": "2.0 TDI CR 140 CV Ecomotive DSG Style 7 plazas",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/style/alhambra-20-tdi-cr-140-cv-ecomotive-dsg-style-7-plazas/datos",
@@ -346,7 +347,7 @@
             "maletero": "658"
         },
         {
-            "name": "Alhambra 2.0 TSI 200 CV DSG Style",
+            "name": "2.0 TSI 200 CV DSG Style",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/style/alhambra-20-tsi-200-cv-dsg-style/datos",
@@ -357,7 +358,7 @@
             "maletero": "809"
         },
         {
-            "name": "Alhambra 2.0 TSI 200 CV DSG Style 7 plazas",
+            "name": "2.0 TSI 200 CV DSG Style 7 plazas",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/style/alhambra-20-tsi-200-cv-dsg-style-7-plazas/datos",
@@ -368,7 +369,7 @@
             "maletero": "658"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 177 CV Ecomotive DSG Style",
+            "name": "2.0 TDI CR 177 CV Ecomotive DSG Style",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/style/alhambra-20-tdi-cr-177-cv-ecomotive-dsg-style/datos",
@@ -379,7 +380,7 @@
             "maletero": "809"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 140 CV Ecomotive 4WD Style 7 plazas",
+            "name": "2.0 TDI CR 140 CV Ecomotive 4WD Style 7 plazas",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/style/alhambra-20-tdi-cr-140-cv-ecomotive-4wd-style-7-plazas2/datos",
@@ -390,7 +391,7 @@
             "maletero": "658"
         },
         {
-            "name": "Alhambra 2.0 TDI CR 177 CV Ecomotive DSG Style 7 plazas",
+            "name": "2.0 TDI CR 177 CV Ecomotive DSG Style 7 plazas",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/seat/alhambra/2010/estandar/style/alhambra-20-tdi-cr-177-cv-ecomotive-dsg-style-7-plazas/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Golf Cabrio",
     "year": "2011",
     "url": "https://www.km77.com/coches/volkswagen/golf/2011/cabrio",
     "price": "",
     "versions": [
         {
-            "name": "Golf Cabrio 1.2 TSI 105 CV",
+            "name": "1.2 TSI 105 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/golf/2011/cabrio/estandar/golf-cabrio-advance-12-tsi/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "Golf Cabrio 1.2 TSI 105 CV",
+            "name": "1.2 TSI 105 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/golf/2011/cabrio/estandar/golf-cabrio-12-tsi-105-cv/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "Golf Cabrio 1.4 TSI 122 CV",
+            "name": "1.4 TSI 122 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/golf/2011/cabrio/estandar/golf-cabrio-advance-14-tsi-122-cv/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "Golf Cabrio 1.4 TSI 122 CV",
+            "name": "1.4 TSI 122 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/golf/2011/cabrio/estandar/golf-cabrio-14-tsi-122-cv/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "Golf Cabrio 1.6 TDI CR BMT 105 CV",
+            "name": "1.6 TDI CR BMT 105 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/golf/2011/cabrio/estandar/golf-cabrio-advance-16-tdi-cr-bmt-105-cv/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Golf Cabrio 1.4 TSI 122 CV DSG 7 vel.",
+            "name": "1.4 TSI 122 CV DSG 7 vel.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/golf/2011/cabrio/estandar/golf-cabrio-advance-14-tsi-122-cv-dsg-7-vel/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "Golf Cabrio 1.4 TSI 160 CV",
+            "name": "1.4 TSI 160 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/golf/2011/cabrio/estandar/golf-cabrio-advance-14-tsi-160-cv/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "Golf Cabrio 2.0 TDI CR BMT 140 CV",
+            "name": "2.0 TDI CR BMT 140 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/golf/2011/cabrio/estandar/golf-cabrio-advance-20-tdi-cr-bmt-140-cv/datos",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "name": "Golf Cabrio 1.4 TSI 122 CV DSG 7 vel.",
+            "name": "1.4 TSI 122 CV DSG 7 vel.",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/golf/2011/cabrio/estandar/golf-cabrio-14-tsi-122-cv-dsg-7-vel/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "Golf Cabrio 1.6 TDI CR BMT 105 CV",
+            "name": "1.6 TDI CR BMT 105 CV",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volkswagen/golf/2011/cabrio/estandar/golf-cabrio-16-tdi-cr-bmt-105-cv/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "Golf Cabrio 1.4 TSI 160 CV",
+            "name": "1.4 TSI 160 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/golf/2011/cabrio/estandar/golf-cabrio-14-tsi-160-cv/datos",
@@ -313,7 +314,7 @@
             ]
         },
         {
-            "name": "Golf Cabrio 2.0 TDI CR BMT 140 CV",
+            "name": "2.0 TDI CR BMT 140 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/golf/2011/cabrio/estandar/golf-cabrio-20-tdi-cr-bmt-140-cv/datos",
@@ -341,7 +342,7 @@
             ]
         },
         {
-            "name": "Golf Cabrio 1.4 TSI 160 CV DSG 7 vel.",
+            "name": "1.4 TSI 160 CV DSG 7 vel.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/golf/2011/cabrio/estandar/golf-cabrio-advance-14-tsi-160-cv-dsg-7-vel/datos",
@@ -369,7 +370,7 @@
             ]
         },
         {
-            "name": "Golf Cabrio 2.0 TDI CR BMT 140 CV DSG 6 vel.",
+            "name": "2.0 TDI CR BMT 140 CV DSG 6 vel.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/golf/2011/cabrio/estandar/golf-cabrio-advance-20-tdi-cr-bmt-140-cv-dsg-6-vel/datos",
@@ -397,7 +398,7 @@
             ]
         },
         {
-            "name": "Golf Cabrio 1.4 TSI 160 CV DSG 7 vel.",
+            "name": "1.4 TSI 160 CV DSG 7 vel.",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volkswagen/golf/2011/cabrio/estandar/golf-cabrio-14-tsi-160-cv-dsg-7-vel/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "Golf Cabrio 2.0 TDI CR BMT 140 CV DSG 6 vel.",
+            "name": "2.0 TDI CR BMT 140 CV DSG 6 vel.",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/golf/2011/cabrio/estandar/golf-cabrio-20-tdi-cr-bmt-140-cv-dsg-6-vel/datos",
@@ -453,7 +454,7 @@
             ]
         },
         {
-            "name": "Golf Cabrio GTI 2.0 TSI 210 CV",
+            "name": "GTI 2.0 TSI 210 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/golf/2011/cabrio/gti/golf-cabrio-gti-20-tsi-210-cv/datos",
@@ -481,7 +482,7 @@
             ]
         },
         {
-            "name": "Golf Cabrio GTI 2.0 TSI 210 CV",
+            "name": "GTI 2.0 TSI 210 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/golf/2011/cabrio/gti/golf-cabrio-gti-20-tsi-210-cv2/datos",
@@ -509,7 +510,7 @@
             ]
         },
         {
-            "name": "Golf Cabrio GTI 2.0 TSI 210 CV DSG",
+            "name": "GTI 2.0 TSI 210 CV DSG",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/golf/2011/cabrio/gti/golf-cabrio-gti-20-tsi-210-cv-dsg/datos",
@@ -537,7 +538,7 @@
             ]
         },
         {
-            "name": "Golf Cabrio GTI 2.0 TSI 210 CV DSG 6 vel.",
+            "name": "GTI 2.0 TSI 210 CV DSG 6 vel.",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volkswagen/golf/2011/cabrio/gti/golf-cabrio-gti-20-tsi-210-cv-dsg2/datos",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "name": "Golf Cabrio R 2.0 TSI 265 CV DSG 6 vel.",
+            "name": "R 2.0 TSI 265 CV DSG 6 vel.",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volkswagen/golf/2011/cabrio/r/golf-cabrio-r-20-tsi-265-cv-dsg/datos",

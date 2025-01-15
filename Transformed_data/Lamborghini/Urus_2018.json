@@ -1,11 +1,12 @@
 {
+    "brand": "Lamborghini",
     "name": "Urus",
     "year": "2018",
     "url": "https://www.km77.com/coches/lamborghini/urus/2018/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Urus S (09/2022 - )",
+            "name": "S (09/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/lamborghini/urus/2018/estandar/estandar/urus-s/datos",
@@ -193,7 +194,7 @@
             ]
         },
         {
-            "name": "Urus Performante (08/2022 - )",
+            "name": "Performante (08/2022 - )",
             "start_year": "2022",
             "end_year": "",
             "url": "https://www.km77.com/coches/lamborghini/urus/2018/estandar/performante/urus-performante/datos",

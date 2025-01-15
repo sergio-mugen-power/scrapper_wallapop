@@ -1,11 +1,12 @@
 {
+    "brand": "Porsche",
     "name": "Panamera",
     "year": "2013",
     "url": "https://www.km77.com/coches/porsche/panamera/2013/estandar",
     "price": "Desde 127.829 €",
     "versions": [
         {
-            "name": "Panamera Diesel 250 CV",
+            "name": "Diesel 250 CV",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/porsche/panamera/2013/estandar/diesel/panamera-diesel/datos",
@@ -16,7 +17,7 @@
             "maletero": "445"
         },
         {
-            "name": "Panamera",
+            "name": "",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/porsche/panamera/2013/estandar/estandar/panamera/datos",
@@ -36,7 +37,7 @@
             ]
         },
         {
-            "name": "Panamera Diesel",
+            "name": "Diesel",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/porsche/panamera/2013/estandar/estandar/panamera-diesel2/datos",
@@ -64,7 +65,7 @@
             ]
         },
         {
-            "name": "Panamera 4",
+            "name": "4",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/porsche/panamera/2013/estandar/estandar/panamera-4/datos",
@@ -92,7 +93,7 @@
             ]
         },
         {
-            "name": "Panamera S E-Hybrid",
+            "name": "S E-Hybrid",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/porsche/panamera/2013/estandar/s/panamera-s-e-hybrid/datos",
@@ -123,7 +124,7 @@
             ]
         },
         {
-            "name": "Panamera S",
+            "name": "S",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/porsche/panamera/2013/estandar/s/panamera-s/datos",
@@ -151,7 +152,7 @@
             ]
         },
         {
-            "name": "Panamera 4S",
+            "name": "4S",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/porsche/panamera/2013/estandar/s/panamera-4s/datos",
@@ -179,7 +180,7 @@
             ]
         },
         {
-            "name": "Panamera GTS",
+            "name": "GTS",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/porsche/panamera/2013/estandar/gts/panamera-gts/datos",
@@ -207,7 +208,7 @@
             ]
         },
         {
-            "name": "Panamera Turbo",
+            "name": "Turbo",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/porsche/panamera/2013/estandar/turbo/panamera-turbo/datos",
@@ -235,7 +236,7 @@
             ]
         },
         {
-            "name": "Panamera Turbo S",
+            "name": "Turbo S",
             "start_year": "2013",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/porsche/panamera/2013/estandar/turbo-s/panamera-turbo-s/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Honda",
     "name": "CR-V",
     "year": "2013",
     "url": "https://www.km77.com/coches/honda/cr-v/2013/estandar",
     "price": "Desde 48.145 €",
     "versions": [
         {
-            "name": "CR-V 1.6 i-DTEC 2WD Comfort",
+            "name": "1.6 i-DTEC 2WD Comfort",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/honda/cr-v/2013/estandar/comfort/cr-v-16-i-dtec-2wd/datos",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "name": "CR-V 2.0 i-VTEC 2WD Comfort",
+            "name": "2.0 i-VTEC 2WD Comfort",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/honda/cr-v/2013/estandar/comfort/cr-v-20-i-vtec-2wd-comfort/datos",
@@ -395,7 +396,7 @@
             ]
         },
         {
-            "name": "CR-V 2.0 i-VTEC 2WD S",
+            "name": "2.0 i-VTEC 2WD S",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/honda/cr-v/2013/estandar/s/cr-v-20-i-vtec-2wd/datos",
@@ -583,7 +584,7 @@
             ]
         },
         {
-            "name": "CR-V 1.6 i-DTEC 2WD Elegance",
+            "name": "1.6 i-DTEC 2WD Elegance",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/honda/cr-v/2013/estandar/elegance/cr-v-16-i-dtec-2wd-elegance/datos",
@@ -786,7 +787,7 @@
             ]
         },
         {
-            "name": "CR-V 2.0 i-VTEC 2WD Elegance",
+            "name": "2.0 i-VTEC 2WD Elegance",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/honda/cr-v/2013/estandar/elegance/cr-v-20-i-vtec-2wd-elegance/datos",
@@ -986,7 +987,7 @@
             ]
         },
         {
-            "name": "CR-V 2.2 i-DTEC 4WD Comfort",
+            "name": "2.2 i-DTEC 4WD Comfort",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/honda/cr-v/2013/estandar/comfort/cr-v-22-i-dtec-4wd/datos",
@@ -1182,7 +1183,7 @@
             ]
         },
         {
-            "name": "CR-V 2.0 i-VTEC 4WD S",
+            "name": "2.0 i-VTEC 4WD S",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/honda/cr-v/2013/estandar/s/cr-v-20-i-vtec-4wd-s/datos",
@@ -1376,7 +1377,7 @@
             ]
         },
         {
-            "name": "CR-V 2.0 i-VTEC 4WD Elegance",
+            "name": "2.0 i-VTEC 4WD Elegance",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/honda/cr-v/2013/estandar/elegance/cr-v-20-i-vtec-4wd-elegance/datos",
@@ -1576,7 +1577,7 @@
             ]
         },
         {
-            "name": "CR-V 1.6 i-DTEC 2WD Lifestyle",
+            "name": "1.6 i-DTEC 2WD Lifestyle",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/honda/cr-v/2013/estandar/lifestyle/cr-v-16-i-dtec-2wd-lifestyle/datos",
@@ -1789,7 +1790,7 @@
             ]
         },
         {
-            "name": "CR-V 2.2 i-DTEC 4WD Elegance",
+            "name": "2.2 i-DTEC 4WD Elegance",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/honda/cr-v/2013/estandar/elegance/cr-v-22-i-dtec-4wd-elegance/datos",
@@ -1990,7 +1991,7 @@
             ]
         },
         {
-            "name": "CR-V 2.0 i-VTEC 4WD Lifestyle",
+            "name": "2.0 i-VTEC 4WD Lifestyle",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/honda/cr-v/2013/estandar/lifestyle/cr-v-20-i-vtec-4wd/datos",
@@ -2200,7 +2201,7 @@
             ]
         },
         {
-            "name": "CR-V 2.2 i-DTEC 4WD Elegance Aut.",
+            "name": "2.2 i-DTEC 4WD Elegance Aut.",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/honda/cr-v/2013/estandar/elegance/cr-v-22-i-dtec-4wd-aut/datos",
@@ -2403,7 +2404,7 @@
             ]
         },
         {
-            "name": "CR-V 2.2 i-DTEC 4WD Lifestyle",
+            "name": "2.2 i-DTEC 4WD Lifestyle",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/honda/cr-v/2013/estandar/lifestyle/cr-v-22-i-dtec-4wd-elegance2/datos",
@@ -2614,7 +2615,7 @@
             ]
         },
         {
-            "name": "CR-V 2.0 i-VTEC 4WD Lifestyle Aut.",
+            "name": "2.0 i-VTEC 4WD Lifestyle Aut.",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/honda/cr-v/2013/estandar/lifestyle/cr-v-20-i-vtec-4wd-aut/datos",
@@ -2826,7 +2827,7 @@
             ]
         },
         {
-            "name": "CR-V 2.2 i-DTEC 4WD Lifestyle Aut.",
+            "name": "2.2 i-DTEC 4WD Lifestyle Aut.",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/honda/cr-v/2013/estandar/lifestyle/cr-v-22-i-dtec-4wd-aut-lifestyle/datos",
@@ -3039,7 +3040,7 @@
             ]
         },
         {
-            "name": "CR-V 2.2 i-DTEC 4WD Executive",
+            "name": "2.2 i-DTEC 4WD Executive",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/honda/cr-v/2013/estandar/executive/cr-v-22-i-dtec-4wd-executive/datos",
@@ -3249,7 +3250,7 @@
             ]
         },
         {
-            "name": "CR-V 2.0 i-VTEC 4WD Luxury",
+            "name": "2.0 i-VTEC 4WD Luxury",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/honda/cr-v/2013/estandar/luxury/cr-v-20-i-vtec-4wd-luxury/datos",
@@ -3459,7 +3460,7 @@
             ]
         },
         {
-            "name": "CR-V 2.2 i-DTEC 4WD Executive Aut.",
+            "name": "2.2 i-DTEC 4WD Executive Aut.",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/honda/cr-v/2013/estandar/executive/cr-v-22-i-dtec-4wd-aut-executive/datos",
@@ -3671,7 +3672,7 @@
             ]
         },
         {
-            "name": "CR-V 2.2 i-DTEC 4WD Luxury",
+            "name": "2.2 i-DTEC 4WD Luxury",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/honda/cr-v/2013/estandar/luxury/cr-v-22-i-dtec-4wd-luxury/datos",
@@ -3882,7 +3883,7 @@
             ]
         },
         {
-            "name": "CR-V 2.0 i-VTEC 4WD Luxury Aut.",
+            "name": "2.0 i-VTEC 4WD Luxury Aut.",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/honda/cr-v/2013/estandar/luxury/cr-v-20-i-vtec-4wd-aut-luxury/datos",
@@ -4094,7 +4095,7 @@
             ]
         },
         {
-            "name": "CR-V 2.0 i-VTEC 4WD Innova",
+            "name": "2.0 i-VTEC 4WD Innova",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/honda/cr-v/2013/estandar/innova/cr-v-20-i-vtec-4wd-innova/datos",
@@ -4307,7 +4308,7 @@
             ]
         },
         {
-            "name": "CR-V 2.2 i-DTEC 4WD Luxury Aut.",
+            "name": "2.2 i-DTEC 4WD Luxury Aut.",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/honda/cr-v/2013/estandar/luxury/cr-v-22-i-dtec-4wd-aut-luxury/datos",
@@ -4521,7 +4522,7 @@
             ]
         },
         {
-            "name": "CR-V 2.2 i-DTEC 4WD Innova",
+            "name": "2.2 i-DTEC 4WD Innova",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/honda/cr-v/2013/estandar/innova/cr-v-22-i-dtec-4wd-innova/datos",
@@ -4735,7 +4736,7 @@
             ]
         },
         {
-            "name": "CR-V 2.0 i-VTEC 4WD Innova Aut.",
+            "name": "2.0 i-VTEC 4WD Innova Aut.",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/honda/cr-v/2013/estandar/innova/cr-v-20-i-vtec-4wd-aut-lifestyle/datos",
@@ -4950,7 +4951,7 @@
             ]
         },
         {
-            "name": "CR-V 2.2 i-DTEC 4WD Innova Aut.",
+            "name": "2.2 i-DTEC 4WD Innova Aut.",
             "start_year": "2012",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/honda/cr-v/2013/estandar/innova/cr-v-22-i-dtec-4wd-aut-innova/datos",

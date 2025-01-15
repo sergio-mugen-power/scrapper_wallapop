@@ -1,11 +1,12 @@
 {
+    "brand": "Opel",
     "name": "Meriva",
     "year": "2010",
     "url": "https://www.km77.com/coches/opel/meriva/2010/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Meriva Essentia 1.4 100 CV",
+            "name": "Essentia 1.4 100 CV",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/essentia/meriva-essentia-14-100-cv/datos",
@@ -25,7 +26,7 @@
             ]
         },
         {
-            "name": "Meriva Expression 1.4 100 CV",
+            "name": "Expression 1.4 100 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/expression/meriva-expression-14-100-cv/datos",
@@ -45,7 +46,7 @@
             ]
         },
         {
-            "name": "Meriva Essentia 1.4 100 CV",
+            "name": "Essentia 1.4 100 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/essentia/meriva-essentia-14-100-cv2/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "Meriva Essentia 1.3 CDTI 75 CV",
+            "name": "Essentia 1.3 CDTI 75 CV",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/essentia/meriva-essentia-13-cdti-75-cv/datos",
@@ -85,7 +86,7 @@
             ]
         },
         {
-            "name": "Meriva Expression 1.4 100 CV",
+            "name": "Expression 1.4 100 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/expression/meriva-expression-14-100-cv2/datos",
@@ -105,7 +106,7 @@
             ]
         },
         {
-            "name": "Meriva Enjoy 1.4 100 CV",
+            "name": "Enjoy 1.4 100 CV",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/enjoy/meriva-enjoy-14-100-cv/datos",
@@ -125,7 +126,7 @@
             ]
         },
         {
-            "name": "Meriva Essentia 1.3 CDTI 75 CV",
+            "name": "Essentia 1.3 CDTI 75 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/essentia/meriva-essentia-13-cdti-75-cv2/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Meriva Selective 1.4 100 CV",
+            "name": "Selective 1.4 100 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/selective/meriva-selective-14-100-cv/datos",
@@ -165,7 +166,7 @@
             ]
         },
         {
-            "name": "Meriva Expression 1.3 CDTI ecoFLEX 95 CV",
+            "name": "Expression 1.3 CDTI ecoFLEX 95 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/expression/meriva-expression-13-cdti-ecoflex-95-cv/datos",
@@ -185,7 +186,7 @@
             ]
         },
         {
-            "name": "Meriva Enjoy 1.4 100 CV",
+            "name": "Enjoy 1.4 100 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/enjoy/meriva-enjoy-14-100-cv2/datos",
@@ -205,7 +206,7 @@
             ]
         },
         {
-            "name": "Meriva Enjoy 1.4 Turbo 120 CV",
+            "name": "Enjoy 1.4 Turbo 120 CV",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/enjoy/meriva-enjoy-14-turbo-120-cv/datos",
@@ -225,7 +226,7 @@
             ]
         },
         {
-            "name": "Meriva Essentia 1.3 CDTI ecoFLEX 95 CV",
+            "name": "Essentia 1.3 CDTI ecoFLEX 95 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/essentia/meriva-essentia-13-cdti-ecoflex-95-cv/datos",
@@ -245,7 +246,7 @@
             ]
         },
         {
-            "name": "Meriva Selective 1.4 Turbo 120 CV",
+            "name": "Selective 1.4 Turbo 120 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/selective/meriva-selective-14-turbo-120-cv/datos",
@@ -265,7 +266,7 @@
             ]
         },
         {
-            "name": "Meriva Expression 1.3 CDTI ecoFLEX 95 CV",
+            "name": "Expression 1.3 CDTI ecoFLEX 95 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/expression/meriva-expression-13-cdti-ecoflex-95-cv2/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "Meriva Selective 1.4 100 CV",
+            "name": "Selective 1.4 100 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/selective/meriva-selective-14-100-cv2/datos",
@@ -305,7 +306,7 @@
             ]
         },
         {
-            "name": "Meriva Selective 1.4 100 CV",
+            "name": "Selective 1.4 100 CV",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/selective/meriva-selective-14-100-cv3/datos",
@@ -325,7 +326,7 @@
             ]
         },
         {
-            "name": "Meriva Enjoy 1.4 Turbo 120 CV",
+            "name": "Enjoy 1.4 Turbo 120 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/enjoy/meriva-enjoy-14-turbo-120-cv2/datos",
@@ -345,7 +346,7 @@
             ]
         },
         {
-            "name": "Meriva Design Edition 1.4 Turbo 120 CV",
+            "name": "Design Edition 1.4 Turbo 120 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/design-edition/meriva-design-edition-14-turbo-120-cv/datos",
@@ -365,7 +366,7 @@
             ]
         },
         {
-            "name": "Meriva Selective 1.3 CDTI ecoFLEX 95 CV",
+            "name": "Selective 1.3 CDTI ecoFLEX 95 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/selective/meriva-selective-13-cdti-ecoflex-95-cv/datos",
@@ -385,7 +386,7 @@
             ]
         },
         {
-            "name": "Meriva Enjoy 1.3 CDTI ecoFLEX 95 CV",
+            "name": "Enjoy 1.3 CDTI ecoFLEX 95 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/enjoy/meriva-enjoy-13-cdti-ecoflex-95-cv/datos",
@@ -405,7 +406,7 @@
             ]
         },
         {
-            "name": "Meriva Selective 1.4 120 CV",
+            "name": "Selective 1.4 120 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/selective/meriva-selective-14-120-cv/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "Meriva Selective 1.4 120 CV",
+            "name": "Selective 1.4 120 CV",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/selective/meriva-selective-14-120-cv2/datos",
@@ -445,7 +446,7 @@
             ]
         },
         {
-            "name": "Meriva Cosmo 1.4 Turbo 120 CV",
+            "name": "Cosmo 1.4 Turbo 120 CV",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/cosmo/meriva-cosmo-14-turbo-120-cv/datos",
@@ -465,7 +466,7 @@
             ]
         },
         {
-            "name": "Meriva Selective 1.7 CDTI 110 CV",
+            "name": "Selective 1.7 CDTI 110 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/selective/meriva-selective-17-cdti-110-cv2/datos",
@@ -485,7 +486,7 @@
             ]
         },
         {
-            "name": "Meriva Excellence 1.4 Turbo 120 CV",
+            "name": "Excellence 1.4 Turbo 120 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/excellence/meriva-excellence-14-turbo-120-cv/datos",
@@ -505,7 +506,7 @@
             ]
         },
         {
-            "name": "Meriva Excellence 1.4 120 CV",
+            "name": "Excellence 1.4 120 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/excellence/meriva-excellence-14-120-cv/datos",
@@ -525,7 +526,7 @@
             ]
         },
         {
-            "name": "Meriva Selective 1.7 CDTI 110 CV Start&Stop",
+            "name": "Selective 1.7 CDTI 110 CV Start&Stop",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/selective/meriva-selective-17-cdti-110-cv-startstop/datos",
@@ -545,7 +546,7 @@
             ]
         },
         {
-            "name": "Meriva Enjoy 1.7 CDTI 110 CV",
+            "name": "Enjoy 1.7 CDTI 110 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/enjoy/meriva-enjoy-17-cdti-110-cv/datos",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "name": "Meriva Cosmo 1.4 Turbo 120 CV",
+            "name": "Cosmo 1.4 Turbo 120 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/cosmo/meriva-cosmo-14-turbo-120-cv2/datos",
@@ -585,7 +586,7 @@
             ]
         },
         {
-            "name": "Meriva Design Edition 1.4 120 CV",
+            "name": "Design Edition 1.4 120 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/design-edition/meriva-design-edition-14-120-cv/datos",
@@ -605,7 +606,7 @@
             ]
         },
         {
-            "name": "Meriva Design Edition 1.7 CDTI 110 CV",
+            "name": "Design Edition 1.7 CDTI 110 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/design-edition/meriva-design-edition-17-cdti-110-cv/datos",
@@ -625,7 +626,7 @@
             ]
         },
         {
-            "name": "Meriva Selective 1.3 CDTI ecoFLEX 95 CV",
+            "name": "Selective 1.3 CDTI ecoFLEX 95 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/selective/meriva-selective-13-cdti-ecoflex-95-cv2/datos",
@@ -645,7 +646,7 @@
             ]
         },
         {
-            "name": "Meriva Selective 1.4 120 CV GLP",
+            "name": "Selective 1.4 120 CV GLP",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/selective/meriva-selective-14-120-cv-glp/datos",
@@ -665,7 +666,7 @@
             ]
         },
         {
-            "name": "Meriva Selective 1.4 Turbo 120 CV GLP",
+            "name": "Selective 1.4 Turbo 120 CV GLP",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/selective/meriva-selective-14-turbo-120-cv-glp/datos",
@@ -685,7 +686,7 @@
             ]
         },
         {
-            "name": "Meriva Selective 1.4 120 CV GLP",
+            "name": "Selective 1.4 120 CV GLP",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/selective/meriva-selective-14-120-cv-glp2/datos",
@@ -705,7 +706,7 @@
             ]
         },
         {
-            "name": "Meriva Selective 1.7 CDTI 110 CV",
+            "name": "Selective 1.7 CDTI 110 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/selective/meriva-selective-17-cdti-110-cv/datos",
@@ -725,7 +726,7 @@
             ]
         },
         {
-            "name": "Meriva Excellence 1.4 Turbo 140 CV",
+            "name": "Excellence 1.4 Turbo 140 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/excellence/meriva-excellence-14-turbo-140-cv2/datos",
@@ -745,7 +746,7 @@
             ]
         },
         {
-            "name": "Meriva Cosmo 1.4 Turbo 140 CV",
+            "name": "Cosmo 1.4 Turbo 140 CV",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/cosmo/meriva-cosmo-14-turbo-140-cv/datos",
@@ -765,7 +766,7 @@
             ]
         },
         {
-            "name": "Meriva Enjoy 1.7 CDTI 101 CV Aut.",
+            "name": "Enjoy 1.7 CDTI 101 CV Aut.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/enjoy/meriva-enjoy-17-cdti-101-cv-aut/datos",
@@ -785,7 +786,7 @@
             ]
         },
         {
-            "name": "Meriva Selective 1.7 CDTI 110 CV",
+            "name": "Selective 1.7 CDTI 110 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/selective/meriva-selective-17-cdti-110-cv3/datos",
@@ -805,7 +806,7 @@
             ]
         },
         {
-            "name": "Meriva Excellence 1.7 CDTI 110 CV",
+            "name": "Excellence 1.7 CDTI 110 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/excellence/meriva-excellence-17-cdti-110-cv2/datos",
@@ -825,7 +826,7 @@
             ]
         },
         {
-            "name": "Meriva Cosmo 1.4 Turbo 140 CV",
+            "name": "Cosmo 1.4 Turbo 140 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/cosmo/meriva-cosmo-14-turbo-140-cv2/datos",
@@ -845,7 +846,7 @@
             ]
         },
         {
-            "name": "Meriva Selective 1.7 CDTI 110 CV Start&Stop",
+            "name": "Selective 1.7 CDTI 110 CV Start&Stop",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/selective/meriva-selective-17-cdti-110-cv-startstop3/datos",
@@ -865,7 +866,7 @@
             ]
         },
         {
-            "name": "Meriva Selective 1.4 120 CV Aut.",
+            "name": "Selective 1.4 120 CV Aut.",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/selective/meriva-selective-14-120-cv-aut/datos",
@@ -885,7 +886,7 @@
             ]
         },
         {
-            "name": "Meriva Enjoy 1.7 CDTI 100 CV Active Select",
+            "name": "Enjoy 1.7 CDTI 100 CV Active Select",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/enjoy/meriva-enjoy-17-cdti-100-cv-active-select/datos",
@@ -905,7 +906,7 @@
             ]
         },
         {
-            "name": "Meriva Selective 1.7 CDTI 110 CV Start&Stop",
+            "name": "Selective 1.7 CDTI 110 CV Start&Stop",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/selective/meriva-selective-17-cdti-110-cv-startstop2/datos",
@@ -925,7 +926,7 @@
             ]
         },
         {
-            "name": "Meriva Excellence 1.4 120 CV Aut.",
+            "name": "Excellence 1.4 120 CV Aut.",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/excellence/meriva-excellence-14-120-cv-aut/datos",
@@ -945,7 +946,7 @@
             ]
         },
         {
-            "name": "Meriva Design Edition 1.7 CDTI 110 CV",
+            "name": "Design Edition 1.7 CDTI 110 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/design-edition/meriva-design-edition-17-cdti-110-cv2/datos",
@@ -965,7 +966,7 @@
             ]
         },
         {
-            "name": "Meriva Selective 1.7 CDTI 110 CV Aut.",
+            "name": "Selective 1.7 CDTI 110 CV Aut.",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/selective/meriva-selective-17-cdti-100-cv-aut/datos",
@@ -985,7 +986,7 @@
             ]
         },
         {
-            "name": "Meriva Cosmo 1.7 CDTI 110 CV",
+            "name": "Cosmo 1.7 CDTI 110 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/cosmo/meriva-cosmo-17-cdti-110-cv/datos",
@@ -1005,7 +1006,7 @@
             ]
         },
         {
-            "name": "Meriva Excellence 1.4 Turbo 140 CV",
+            "name": "Excellence 1.4 Turbo 140 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/excellence/meriva-excellence-14-turbo-140-cv/datos",
@@ -1025,7 +1026,7 @@
             ]
         },
         {
-            "name": "Meriva Excellence 1.7 CDTI 130 CV",
+            "name": "Excellence 1.7 CDTI 130 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/excellence/meriva-excellence-17-cdti-130-cv2/datos",
@@ -1045,7 +1046,7 @@
             ]
         },
         {
-            "name": "Meriva Design Edition 1.7 CDTI 110 CV Start&Stop",
+            "name": "Design Edition 1.7 CDTI 110 CV Start&Stop",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/design-edition/meriva-design-edition-17-cdti-110-cv-startstop/datos",
@@ -1065,7 +1066,7 @@
             ]
         },
         {
-            "name": "Meriva Excellence 1.4 140 CV",
+            "name": "Excellence 1.4 140 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/excellence/meriva-excellence-14-140-cv/datos",
@@ -1085,7 +1086,7 @@
             ]
         },
         {
-            "name": "Meriva Excellence 1.7 CDTI 110 CV",
+            "name": "Excellence 1.7 CDTI 110 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/excellence/meriva-excellence-17-cdti-110-cv/datos",
@@ -1105,7 +1106,7 @@
             ]
         },
         {
-            "name": "Meriva Cosmo 1.7 CDTI 130 CV",
+            "name": "Cosmo 1.7 CDTI 130 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/cosmo/meriva-cosmo-17-cdti-130-cv/datos",
@@ -1125,7 +1126,7 @@
             ]
         },
         {
-            "name": "Meriva Cosmo 1.7 CDTI 130 CV",
+            "name": "Cosmo 1.7 CDTI 130 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/cosmo/meriva-cosmo-17-cdti-130-cv2/datos",
@@ -1145,7 +1146,7 @@
             ]
         },
         {
-            "name": "Meriva Excellence 1.4 140 CV",
+            "name": "Excellence 1.4 140 CV",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/excellence/meriva-excellence-14-140-cv2/datos",
@@ -1165,7 +1166,7 @@
             ]
         },
         {
-            "name": "Meriva Cosmo 1.7 CDTI 101 CV Aut.",
+            "name": "Cosmo 1.7 CDTI 101 CV Aut.",
             "start_year": "2010",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/cosmo/meriva-cosmo-17-cdti-101-cv-aut/datos",
@@ -1185,7 +1186,7 @@
             ]
         },
         {
-            "name": "Meriva Excellence 1.7 CDTI 110 CV",
+            "name": "Excellence 1.7 CDTI 110 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/excellence/meriva-excellence-17-cdti-110-cv3/datos",
@@ -1205,7 +1206,7 @@
             ]
         },
         {
-            "name": "Meriva Excellence 1.7 CDTI 130 CV",
+            "name": "Excellence 1.7 CDTI 130 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/excellence/meriva-excellence-17-cdti-130-cv/datos",
@@ -1225,7 +1226,7 @@
             ]
         },
         {
-            "name": "Meriva Cosmo 1.7 CDTI 100 CV Active Select",
+            "name": "Cosmo 1.7 CDTI 100 CV Active Select",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/cosmo/meriva-cosmo-17-cdti-100-cv-active-select/datos",
@@ -1245,7 +1246,7 @@
             ]
         },
         {
-            "name": "Meriva Excellence 1.7 CDTI 110 CV Start&Stop",
+            "name": "Excellence 1.7 CDTI 110 CV Start&Stop",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/excellence/meriva-excellence-17-cdti-110-cv-startstop/datos",
@@ -1265,7 +1266,7 @@
             ]
         },
         {
-            "name": "Meriva Selective 1.7 CDTI 110 CV Aut.",
+            "name": "Selective 1.7 CDTI 110 CV Aut.",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/selective/meriva-selective-17-cdti-110-cv-aut/datos",
@@ -1285,7 +1286,7 @@
             ]
         },
         {
-            "name": "Meriva Excellence 1.7 CDTI 110 CV Start&Stop",
+            "name": "Excellence 1.7 CDTI 110 CV Start&Stop",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/excellence/meriva-excellence-17-cdti-110-cv-startstop2/datos",
@@ -1305,7 +1306,7 @@
             ]
         },
         {
-            "name": "Meriva Excellence 1.7 CDTI 110 CV Aut.",
+            "name": "Excellence 1.7 CDTI 110 CV Aut.",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/excellence/meriva-excellence-17-cdti-110-cv-aut/datos",
@@ -1325,7 +1326,7 @@
             ]
         },
         {
-            "name": "Meriva Excellence 1.7 CDTI 130 CV",
+            "name": "Excellence 1.7 CDTI 130 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/excellence/meriva-excellence-17-cdti-130-cv3/datos",
@@ -1345,7 +1346,7 @@
             ]
         },
         {
-            "name": "Meriva Excellence 1.4 140 CV Aut.",
+            "name": "Excellence 1.4 140 CV Aut.",
             "start_year": "2013",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/excellence/meriva-excellence-14-140-cv-aut/datos",
@@ -1365,7 +1366,7 @@
             ]
         },
         {
-            "name": "Meriva Excellence 1.7 CDTI 110 CV Aut.",
+            "name": "Excellence 1.7 CDTI 110 CV Aut.",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/opel/meriva/2010/estandar/excellence/meriva-excellence-17-cdti-110-cv-aut2/datos",

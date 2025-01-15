@@ -1,11 +1,12 @@
 {
+    "brand": "KTM",
     "name": "X-Bow",
     "year": "2009",
     "url": "https://www.km77.com/coches/ktm/x-bow/2009/estandar",
     "price": "Desde 386.752 €",
     "versions": [
         {
-            "name": "X-Bow Street",
+            "name": "Street",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/ktm/x-bow/2009/estandar/street/x-bow-street/datos",
@@ -818,7 +819,7 @@
             ]
         },
         {
-            "name": "X-Bow Clubsport",
+            "name": "Clubsport",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/ktm/x-bow/2009/estandar/clubsport/x-bow-clubsport/datos",
@@ -1320,7 +1321,7 @@
             ]
         },
         {
-            "name": "X-Bow \"Race of Champions\"",
+            "name": "\"Race of Champions\"",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/ktm/x-bow/2009/estandar/race-of-champions/x-bow-race-of-champions/datos",
@@ -1486,7 +1487,7 @@
             ]
         },
         {
-            "name": "X-Bow Superlight",
+            "name": "Superlight",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/ktm/x-bow/2009/estandar/superlight/x-bow-superlight/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Chrysler",
     "name": "Neon",
     "year": "1999",
     "url": "https://www.km77.com/coches/chrysler/neon/1999/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Neon SE 1.6",
+            "name": "SE 1.6",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chrysler/neon/1999/estandar/estandar/neon-se-16/datos",
@@ -124,7 +125,7 @@
             ]
         },
         {
-            "name": "Neon LE 1.6",
+            "name": "LE 1.6",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chrysler/neon/1999/estandar/estandar/neon-le-16/datos",
@@ -248,7 +249,7 @@
             ]
         },
         {
-            "name": "Neon SE 2.0",
+            "name": "SE 2.0",
             "start_year": "1999",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chrysler/neon/1999/estandar/estandar/neon-se-20/datos",
@@ -372,7 +373,7 @@
             ]
         },
         {
-            "name": "Neon LE 2.0",
+            "name": "LE 2.0",
             "start_year": "1999",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chrysler/neon/1999/estandar/estandar/neon-le-20/datos",
@@ -499,7 +500,7 @@
             ]
         },
         {
-            "name": "Neon LE 2.0 Aut.",
+            "name": "LE 2.0 Aut.",
             "start_year": "1999",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chrysler/neon/1999/estandar/estandar/neon-le-20-aut/datos",
@@ -625,7 +626,7 @@
             ]
         },
         {
-            "name": "Neon LX 1.6",
+            "name": "LX 1.6",
             "start_year": "2001",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chrysler/neon/1999/estandar/estandar/neon-lx-16/datos",
@@ -757,7 +758,7 @@
             ]
         },
         {
-            "name": "Neon LX 2.0",
+            "name": "LX 2.0",
             "start_year": "1999",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chrysler/neon/1999/estandar/estandar/neon-lx-20/datos",
@@ -889,7 +890,7 @@
             ]
         },
         {
-            "name": "Neon RT 2.0",
+            "name": "RT 2.0",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/chrysler/neon/1999/estandar/estandar/neon-rt-20/datos",

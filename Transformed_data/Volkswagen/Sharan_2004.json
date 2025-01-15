@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Sharan",
     "year": "2004",
     "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Sharan Conceptline TDI 115 CV",
+            "name": "Conceptline TDI 115 CV",
             "start_year": "2000",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/conceptline/sharan-conceptline-tdi-115-cv/datos",
@@ -25,7 +26,7 @@
             ]
         },
         {
-            "name": "Sharan Conceptline 1.9 TDI 115 CV",
+            "name": "Conceptline 1.9 TDI 115 CV",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/conceptline/sharan-conceptline-19-tdi-115-cv/datos",
@@ -45,7 +46,7 @@
             ]
         },
         {
-            "name": "Sharan BlueMotion 2.0 TDI 140 CV",
+            "name": "BlueMotion 2.0 TDI 140 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/bluemotion/sharan-bluemotion-20-tdi-140-cv/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "Sharan Trendline 1.9 TDI 115 CV",
+            "name": "Trendline 1.9 TDI 115 CV",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/trendline/sharan-trendline-19-tdi-115-cv/datos",
@@ -85,7 +86,7 @@
             ]
         },
         {
-            "name": "Sharan Conceptline TDI 130 CV",
+            "name": "Conceptline TDI 130 CV",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/conceptline/sharan-conceptline-tdi-130-cv/datos",
@@ -105,7 +106,7 @@
             ]
         },
         {
-            "name": "Sharan Conceptline 2.0 TDI 140 CV",
+            "name": "Conceptline 2.0 TDI 140 CV",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/conceptline/sharan-conceptline-20-tdi-140-cv/datos",
@@ -125,7 +126,7 @@
             ]
         },
         {
-            "name": "Sharan Trendline 1.9 TDI 115 CV",
+            "name": "Trendline 1.9 TDI 115 CV",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/trendline/sharan-trendline-19-tdi-115-cv2/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Sharan Trendline 2.0 TDI 140 CV",
+            "name": "Trendline 2.0 TDI 140 CV",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/trendline/sharan-trendline-20-tdi-140-cv/datos",
@@ -165,7 +166,7 @@
             ]
         },
         {
-            "name": "Sharan Comfortline TDI 115 CV",
+            "name": "Comfortline TDI 115 CV",
             "start_year": "2000",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/comfortline/sharan-comfortline-tdi-115-cv/datos",
@@ -185,7 +186,7 @@
             ]
         },
         {
-            "name": "Sharan Comfortline Turbo 150 CV",
+            "name": "Comfortline Turbo 150 CV",
             "start_year": "2000",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/comfortline/sharan-comfortline-turbo-150-cv/datos",
@@ -205,7 +206,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 1.9 TDI 115 CV",
+            "name": "Advance 1.9 TDI 115 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/advance/sharan-advance-19-tdi-115-cv3/datos",
@@ -225,7 +226,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 1.9 TDI 115 CV",
+            "name": "Advance 1.9 TDI 115 CV",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/advance/sharan-advance-19-tdi-115-cv/datos",
@@ -245,7 +246,7 @@
             ]
         },
         {
-            "name": "Sharan Comfortline 1.9 TDI 115 CV",
+            "name": "Comfortline 1.9 TDI 115 CV",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/comfortline/sharan-comfortline-19-tdi-115-cv/datos",
@@ -265,7 +266,7 @@
             ]
         },
         {
-            "name": "Sharan Trendline 2.0 TDI 140 CV",
+            "name": "Trendline 2.0 TDI 140 CV",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/trendline/sharan-trendline-20-tdi-140-cv2/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "Sharan Comfortline TDI 130 CV",
+            "name": "Comfortline TDI 130 CV",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/comfortline/sharan-comfortline-tdi-130-cv/datos",
@@ -305,7 +306,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 1.8T 150 CV Turbo",
+            "name": "Advance 1.8T 150 CV Turbo",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/advance/sharan-advance-18t-150-cv-turbo/datos",
@@ -325,7 +326,7 @@
             ]
         },
         {
-            "name": "Sharan Comfortline 1.8T 150 CV Turbo",
+            "name": "Comfortline 1.8T 150 CV Turbo",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/comfortline/sharan-comfortline-18t-150-cv-turbo/datos",
@@ -345,7 +346,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 1.9 TDI 115 CV",
+            "name": "Advance 1.9 TDI 115 CV",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/advance/sharan-advance-19-tdi-115-cv2/datos",
@@ -365,7 +366,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 1.8 T 150 CV",
+            "name": "Advance 1.8 T 150 CV",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/advance/sharan-advance-18-t-150-cv/datos",
@@ -385,7 +386,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 2.0 TDI 140 CV",
+            "name": "Advance 2.0 TDI 140 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/advance/sharan-advance-20-tdi-140-cv3/datos",
@@ -405,7 +406,7 @@
             ]
         },
         {
-            "name": "Sharan Comfortline 2.8 V6 204 CV",
+            "name": "Comfortline 2.8 V6 204 CV",
             "start_year": "2001",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/comfortline/sharan-comfortline-28-v6-204-cv/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "Sharan Comfortline TDI 115 CV Tiptronic",
+            "name": "Comfortline TDI 115 CV Tiptronic",
             "start_year": "2000",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/comfortline/sharan-comfortline-tdi-115-cv-tiptronic/datos",
@@ -445,7 +446,7 @@
             ]
         },
         {
-            "name": "Sharan Comfortline Turbo 150 CV Tiptronic",
+            "name": "Comfortline Turbo 150 CV Tiptronic",
             "start_year": "2000",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/comfortline/sharan-comfortline-turbo-150-cv-tiptronic/datos",
@@ -465,7 +466,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 2.0 TDI 140 CV",
+            "name": "Advance 2.0 TDI 140 CV",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/advance/sharan-advance-20-tdi-140-cv/datos",
@@ -485,7 +486,7 @@
             ]
         },
         {
-            "name": "Sharan Comfortline 2.0 TDI 140 CV",
+            "name": "Comfortline 2.0 TDI 140 CV",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/comfortline/sharan-comfortline-20-tdi-140-cv/datos",
@@ -505,7 +506,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 1.9 TDI 115 CV Tiptronic",
+            "name": "Advance 1.9 TDI 115 CV Tiptronic",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/advance/sharan-advance-19-tdi-115-cv-tiptronic3/datos",
@@ -525,7 +526,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 2.0 TDI 140 CV",
+            "name": "Advance 2.0 TDI 140 CV",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/advance/sharan-advance-20-tdi-140-cv2/datos",
@@ -545,7 +546,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 1.8 T 150 CV",
+            "name": "Advance 1.8 T 150 CV",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/advance/sharan-advance-18-t-150-cv2/datos",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 1.9 TDI 115 CV Tiptronic",
+            "name": "Advance 1.9 TDI 115 CV Tiptronic",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/advance/sharan-advance-19-tdi-115-cv-tiptronic/datos",
@@ -585,7 +586,7 @@
             ]
         },
         {
-            "name": "Sharan Comfortline 1.9 TDI 115 CV Tiptronic",
+            "name": "Comfortline 1.9 TDI 115 CV Tiptronic",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/comfortline/sharan-comfortline-19-tdi-115-cv-tiptronic/datos",
@@ -605,7 +606,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 2.8 V6 204 CV",
+            "name": "Advance 2.8 V6 204 CV",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/advance/sharan-advance-28-v6-204-cv/datos",
@@ -625,7 +626,7 @@
             ]
         },
         {
-            "name": "Sharan Comfortline 2.8 V6 204 CV",
+            "name": "Comfortline 2.8 V6 204 CV",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/comfortline/sharan-comfortline-28-v6-204-cv2/datos",
@@ -645,7 +646,7 @@
             ]
         },
         {
-            "name": "Sharan Comfortline TDI 115 CV 4Motion",
+            "name": "Comfortline TDI 115 CV 4Motion",
             "start_year": "2000",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/comfortline/sharan-comfortline-tdi-115-cv-4motion/datos",
@@ -665,7 +666,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 1.8T 150 CV Turbo Tiptronic",
+            "name": "Advance 1.8T 150 CV Turbo Tiptronic",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/advance/sharan-advance-18t-150-cv-turbo-tiptronic/datos",
@@ -685,7 +686,7 @@
             ]
         },
         {
-            "name": "Sharan Comfortline 1.8T 150 CV Turbo Tiptronic",
+            "name": "Comfortline 1.8T 150 CV Turbo Tiptronic",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/comfortline/sharan-comfortline-18t-150-cv-turbo-tiptronic/datos",
@@ -705,7 +706,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 1.9 TDI 115 CV Tiptronic",
+            "name": "Advance 1.9 TDI 115 CV Tiptronic",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/advance/sharan-advance-19-tdi-115-cv-tiptronic2/datos",
@@ -725,7 +726,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 2.8 V6 204 CV",
+            "name": "Advance 2.8 V6 204 CV",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/advance/sharan-advance-28-v6-204-cv2/datos",
@@ -745,7 +746,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 1.8 T 150 CV Tiptronic",
+            "name": "Advance 1.8 T 150 CV Tiptronic",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/advance/sharan-advance-18-t-150-cv-tiptronic/datos",
@@ -765,7 +766,7 @@
             ]
         },
         {
-            "name": "Sharan Comfortline 2.8 V6 204 CV Tiptronic",
+            "name": "Comfortline 2.8 V6 204 CV Tiptronic",
             "start_year": "2001",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/comfortline/sharan-comfortline-28-v6-204-cv-tiptronic/datos",
@@ -785,7 +786,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 2.8 V6 204 CV",
+            "name": "Advance 2.8 V6 204 CV",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/advance/sharan-advance-28-v6-204-cv3/datos",
@@ -805,7 +806,7 @@
             ]
         },
         {
-            "name": "Sharan Highline TDI 130 CV",
+            "name": "Highline TDI 130 CV",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/highline/sharan-highline-tdi-130-cv/datos",
@@ -825,7 +826,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 1.8 T 150 CV Tiptronic",
+            "name": "Advance 1.8 T 150 CV Tiptronic",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/advance/sharan-advance-18-t-150-cv-tiptronic2/datos",
@@ -845,7 +846,7 @@
             ]
         },
         {
-            "name": "Sharan Comfortline 2.8 V6 204 CV 4Motion",
+            "name": "Comfortline 2.8 V6 204 CV 4Motion",
             "start_year": "2001",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/comfortline/sharan-comfortline-28-v6-204-cv-4motion/datos",
@@ -865,7 +866,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 2.8 V6 204 CV Tiptronic",
+            "name": "Advance 2.8 V6 204 CV Tiptronic",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/advance/sharan-advance-28-v6-204-cv-tiptronic/datos",
@@ -885,7 +886,7 @@
             ]
         },
         {
-            "name": "Sharan Comfortline 2.8 V6 204 CV Tiptronic",
+            "name": "Comfortline 2.8 V6 204 CV Tiptronic",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/comfortline/sharan-comfortline-28-v6-204-cv-tiptronic2/datos",
@@ -905,7 +906,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 2.8 V6 204 CV Tiptronic",
+            "name": "Advance 2.8 V6 204 CV Tiptronic",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/advance/sharan-advance-28-v6-204-cv-tiptronic2/datos",
@@ -925,7 +926,7 @@
             ]
         },
         {
-            "name": "Sharan Highline 2.8 V6 204 CV",
+            "name": "Highline 2.8 V6 204 CV",
             "start_year": "2000",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/highline/sharan-highline-28-v6-204-cv/datos",
@@ -945,7 +946,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 2.8 V6 204 CV 4Motion",
+            "name": "Advance 2.8 V6 204 CV 4Motion",
             "start_year": "2006",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/advance/sharan-advance-28-v6-204-cv-4motion/datos",
@@ -965,7 +966,7 @@
             ]
         },
         {
-            "name": "Sharan Comfortline 2.8 V6 204 CV 4Motion",
+            "name": "Comfortline 2.8 V6 204 CV 4Motion",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/comfortline/sharan-comfortline-28-v6-204-cv-4motion2/datos",
@@ -985,7 +986,7 @@
             ]
         },
         {
-            "name": "Sharan Highline 2.0 TDI 140 CV",
+            "name": "Highline 2.0 TDI 140 CV",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/highline/sharan-highline-20-tdi-140-cv/datos",
@@ -1005,7 +1006,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 2.8 V6 204 CV 4Motion",
+            "name": "Advance 2.8 V6 204 CV 4Motion",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/advance/sharan-advance-28-v6-204-cv-4motion2/datos",
@@ -1025,7 +1026,7 @@
             ]
         },
         {
-            "name": "Sharan Highline 2.0 TDI 140 CV",
+            "name": "Highline 2.0 TDI 140 CV",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/highline/sharan-highline-20-tdi-140-cv2/datos",
@@ -1045,7 +1046,7 @@
             ]
         },
         {
-            "name": "Sharan Highline TDI 115 CV 4Motion",
+            "name": "Highline TDI 115 CV 4Motion",
             "start_year": "2005",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/highline/sharan-highline-tdi-115-cv-4motion/datos",
@@ -1065,7 +1066,7 @@
             ]
         },
         {
-            "name": "Sharan Highline 2.8 V6 204 CV",
+            "name": "Highline 2.8 V6 204 CV",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/highline/sharan-highline-28-v6-204-cv2/datos",
@@ -1085,7 +1086,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 2.8 V6 204 CV Tiptronic",
+            "name": "Advance 2.8 V6 204 CV Tiptronic",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/advance/sharan-advance-28-v6-204-cv-tiptronic3/datos",
@@ -1105,7 +1106,7 @@
             ]
         },
         {
-            "name": "Sharan Highline 2.8 V6 204 CV",
+            "name": "Highline 2.8 V6 204 CV",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/highline/sharan-highline-28-v6-204-cv3/datos",
@@ -1125,7 +1126,7 @@
             ]
         },
         {
-            "name": "Sharan Advance 2.8 V6 204 CV 4Motion",
+            "name": "Advance 2.8 V6 204 CV 4Motion",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/advance/sharan-advance-28-v6-204-cv-4motion3/datos",
@@ -1145,7 +1146,7 @@
             ]
         },
         {
-            "name": "Sharan Highline 2.8 V6 204 CV Tiptronic",
+            "name": "Highline 2.8 V6 204 CV Tiptronic",
             "start_year": "2000",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/highline/sharan-highline-28-v6-204-cv-tiptronic/datos",
@@ -1165,7 +1166,7 @@
             ]
         },
         {
-            "name": "Sharan Highline 2.0 TDI 140 CV",
+            "name": "Highline 2.0 TDI 140 CV",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/highline/sharan-highline-20-tdi-140-cv3/datos",
@@ -1185,7 +1186,7 @@
             ]
         },
         {
-            "name": "Sharan Highline 2.8 V6 204 CV 4Motion",
+            "name": "Highline 2.8 V6 204 CV 4Motion",
             "start_year": "2000",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/highline/sharan-highline-28-v6-204-cv-4motion/datos",
@@ -1205,7 +1206,7 @@
             ]
         },
         {
-            "name": "Sharan Highline 2.8 V6 204 CV Tiptronic",
+            "name": "Highline 2.8 V6 204 CV Tiptronic",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/highline/sharan-highline-28-v6-204-cv-tiptronic2/datos",
@@ -1225,7 +1226,7 @@
             ]
         },
         {
-            "name": "Sharan Highline 2.8 V6 204 CV",
+            "name": "Highline 2.8 V6 204 CV",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/highline/sharan-highline-28-v6-204-cv4/datos",
@@ -1245,7 +1246,7 @@
             ]
         },
         {
-            "name": "Sharan Highline 2.8 V6 204 CV Tiptronic",
+            "name": "Highline 2.8 V6 204 CV Tiptronic",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/advance/sharan-highline-28-v6-204-cv-tiptronic3/datos",
@@ -1265,7 +1266,7 @@
             ]
         },
         {
-            "name": "Sharan Highline 2.8 V6 204 CV 4Motion",
+            "name": "Highline 2.8 V6 204 CV 4Motion",
             "start_year": "2006",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/highline/sharan-highline-28-v6-204-cv-4motion2/datos",
@@ -1285,7 +1286,7 @@
             ]
         },
         {
-            "name": "Sharan Highline 2.8 V6 204 CV 4Motion",
+            "name": "Highline 2.8 V6 204 CV 4Motion",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/highline/sharan-highline-28-v6-204-cv-4motion3/datos",
@@ -1305,7 +1306,7 @@
             ]
         },
         {
-            "name": "Sharan Highline 2.8 V6 204 CV Tiptronic",
+            "name": "Highline 2.8 V6 204 CV Tiptronic",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/highline/sharan-highline-28-v6-204-cv-tiptronic4/datos",
@@ -1325,7 +1326,7 @@
             ]
         },
         {
-            "name": "Sharan Highline 2.8 V6 204 CV 4Motion",
+            "name": "Highline 2.8 V6 204 CV 4Motion",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volkswagen/sharan/2004/estandar/highline/sharan-highline-28-v6-204-cv-4motion4/datos",

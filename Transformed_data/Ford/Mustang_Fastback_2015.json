@@ -1,11 +1,12 @@
 {
+    "brand": "Ford",
     "name": "Mustang Fastback",
     "year": "2015",
     "url": "https://www.km77.com/coches/ford/mustang/2015/fastback",
     "price": "",
     "versions": [
         {
-            "name": "Mustang Fastback 2.3 EcoBoost 233 kW (317 CV)",
+            "name": "2.3 EcoBoost 233 kW (317 CV)",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/mustang/2015/fastback/estandar/mustang-2015/datos",
@@ -199,7 +200,7 @@
             ]
         },
         {
-            "name": "Mustang Fastback 2.3 EcoBoost 317 CV Aut.",
+            "name": "2.3 EcoBoost 317 CV Aut.",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/ford/mustang/2015/fastback/estandar/mustang-coupe-23-ecoboost-aut/datos",
@@ -387,7 +388,7 @@
             ]
         },
         {
-            "name": "Mustang Fastback 2.3 EcoBoost 233 kW (317 CV) Aut.",
+            "name": "2.3 EcoBoost 233 kW (317 CV) Aut.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/mustang/2015/fastback/estandar/mustang-fastback-23-ecoboost-317-cv-aut/datos",
@@ -580,7 +581,7 @@
             ]
         },
         {
-            "name": "Mustang Fastback GT 5.0 Ti-VCT V8 310 kW (421 CV)",
+            "name": "GT 5.0 Ti-VCT V8 310 kW (421 CV)",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/mustang/2015/fastback/gt/mustang-coupe-50-ti-vct-v8/datos",
@@ -775,7 +776,7 @@
             ]
         },
         {
-            "name": "Mustang Fastback GT 5.0 Ti-VCT V8 310 kW (421 CV) Aut.",
+            "name": "GT 5.0 Ti-VCT V8 310 kW (421 CV) Aut.",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/ford/mustang/2015/fastback/gt/mustang-fastback-50-ti-vct-v8-418-cv-aut/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Hyundai",
     "name": "H-1",
     "year": "2006",
     "url": "https://www.km77.com/coches/hyundai/h-1/2006/estandar",
     "price": "",
     "versions": [
         {
-            "name": "H-1 7st 2.5 TCI Top",
+            "name": "7st 2.5 TCI Top",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/hyundai/h-1/2006/estandar/top/h-1-7st-25-tci-top/datos",
@@ -160,7 +161,7 @@
             ]
         },
         {
-            "name": "H-1 9st 2.5 TCI Top",
+            "name": "9st 2.5 TCI Top",
             "start_year": "2005",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/hyundai/h-1/2006/estandar/top/h-1-9st-25-tci-top/datos",
@@ -315,7 +316,7 @@
             ]
         },
         {
-            "name": "H-1 7st 2.5 CRDi Top",
+            "name": "7st 2.5 CRDi Top",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/hyundai/h-1/2006/estandar/top/h-1-7st-25-crdi-top/datos",
@@ -472,7 +473,7 @@
             ]
         },
         {
-            "name": "H-1 9st 2.5 CRDi Top Chasis Largo",
+            "name": "9st 2.5 CRDi Top Chasis Largo",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/hyundai/h-1/2006/estandar/top/h-1-9st-25-crdi-top-chasis-largo/datos",
@@ -629,7 +630,7 @@
             ]
         },
         {
-            "name": "H-1 7st 2.5 CRDi 4x4",
+            "name": "7st 2.5 CRDi 4x4",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/hyundai/h-1/2006/estandar/estandar/h-1-7st-25-crdi-4x4/datos",
@@ -792,7 +793,7 @@
             ]
         },
         {
-            "name": "H-1 7st 2.5 CRDi Top",
+            "name": "7st 2.5 CRDi Top",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/hyundai/h-1/2006/estandar/top/h-1-7st-25-crdi-top2/datos",
@@ -953,7 +954,7 @@
             ]
         },
         {
-            "name": "H-1 9st 2.5 CRDi Top Chasis Largo",
+            "name": "9st 2.5 CRDi Top Chasis Largo",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/hyundai/h-1/2006/estandar/top/h-1-9st-25-crdi-top-chasis-largo2/datos",

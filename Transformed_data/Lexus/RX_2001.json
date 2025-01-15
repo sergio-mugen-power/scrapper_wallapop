@@ -1,11 +1,12 @@
 {
+    "brand": "Lexus",
     "name": "RX",
     "year": "2001",
     "url": "https://www.km77.com/coches/lexus/rx/2001/estandar",
     "price": "Desde 82.650 €",
     "versions": [
         {
-            "name": "RX 300 Premium Aut.",
+            "name": "300 Premium Aut.",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/lexus/rx/2001/estandar/premium/rx-300-premium-aut/datos",
@@ -149,7 +150,7 @@
             ]
         },
         {
-            "name": "RX 300 Luxury Aut.",
+            "name": "300 Luxury Aut.",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/lexus/rx/2001/estandar/luxury/rx-300-luxury-aut/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Ford",
     "name": "Ranger Cabina Sencilla",
     "year": "2019",
     "url": "https://www.km77.com/coches/ford/ranger/2019/cabina-sencilla",
     "price": "",
     "versions": [
         {
-            "name": "Ranger Cabina Sencilla XL 2.0 EcoBlue 125 kW (170 CV) 4x4 Start&Stop",
+            "name": "XL 2.0 EcoBlue 125 kW (170 CV) 4x4 Start&Stop",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ford/ranger/2019/cabina-sencilla/xl/ranger-cabina-sencilla-xl-20-tdci-125-kw-170-cv-4x4-startstop/datos",
@@ -200,7 +201,7 @@
             ]
         },
         {
-            "name": "Ranger Cabina Sencilla XL 2.0 TDCI 125 kW (170 CV) 4x4 Start&Stop",
+            "name": "XL 2.0 TDCI 125 kW (170 CV) 4x4 Start&Stop",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/ranger/2019/cabina-sencilla/xl/ranger-cabina-sencilla-xl-startstop/datos",

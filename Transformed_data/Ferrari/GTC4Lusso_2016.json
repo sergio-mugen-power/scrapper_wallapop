@@ -1,11 +1,12 @@
 {
+    "brand": "Ferrari",
     "name": "GTC4Lusso",
     "year": "2016",
     "url": "https://www.km77.com/coches/ferrari/gtc4lusso/2016/estandar",
     "price": "",
     "versions": [
         {
-            "name": "GTC4Lusso",
+            "name": "",
             "start_year": "2016",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ferrari/gtc4lusso/2016/estandar/estandar/gtc4lusso/datos",
@@ -178,7 +179,7 @@
             ]
         },
         {
-            "name": "GTC4Lusso T",
+            "name": "T",
             "start_year": "2016",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ferrari/gtc4lusso/2016/estandar/estandar/gtc4lusso-2016/datos",

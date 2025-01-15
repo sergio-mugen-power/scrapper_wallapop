@@ -1,11 +1,12 @@
 {
+    "brand": "Maserati",
     "name": "Levante",
     "year": "2016",
     "url": "https://www.km77.com/coches/maserati/levante/2016/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Levante Diesel",
+            "name": "Diesel",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/maserati/levante/2016/estandar/estandar/levante-20162/datos",
@@ -295,7 +296,7 @@
             ]
         },
         {
-            "name": "Levante Diesel",
+            "name": "Diesel",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/maserati/levante/2016/estandar/estandar/levante-diesel/datos",
@@ -589,7 +590,7 @@
             ]
         },
         {
-            "name": "Levante",
+            "name": "",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/maserati/levante/2016/estandar/estandar/levante/datos",
@@ -882,7 +883,7 @@
             ]
         },
         {
-            "name": "Levante Diesel GranLusso",
+            "name": "Diesel GranLusso",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/maserati/levante/2016/estandar/granlusso/levante-diesel-granlusso/datos",
@@ -1176,7 +1177,7 @@
             ]
         },
         {
-            "name": "Levante Diesel GranSport",
+            "name": "Diesel GranSport",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/maserati/levante/2016/estandar/gransport/levante-diesel-gransport/datos",
@@ -1473,7 +1474,7 @@
             ]
         },
         {
-            "name": "Levante S",
+            "name": "S",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/maserati/levante/2016/estandar/estandar/levante-s-430-cv/datos",
@@ -1760,7 +1761,7 @@
             ]
         },
         {
-            "name": "Levante S",
+            "name": "S",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/maserati/levante/2016/estandar/estandar/levante-s/datos",
@@ -2054,7 +2055,7 @@
             ]
         },
         {
-            "name": "Levante GranLusso",
+            "name": "GranLusso",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/maserati/levante/2016/estandar/granlusso/levante-granlusso/datos",
@@ -2348,7 +2349,7 @@
             ]
         },
         {
-            "name": "Levante GranSport",
+            "name": "GranSport",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/maserati/levante/2016/estandar/gransport/levante-gransport/datos",
@@ -2644,7 +2645,7 @@
             ]
         },
         {
-            "name": "Levante S GranLusso",
+            "name": "S GranLusso",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/maserati/levante/2016/estandar/granlusso/levante-s-granlusso/datos",
@@ -2938,7 +2939,7 @@
             ]
         },
         {
-            "name": "Levante S GranSport",
+            "name": "S GranSport",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/maserati/levante/2016/estandar/gransport/levante-s-gransport/datos",
@@ -3237,7 +3238,7 @@
             ]
         },
         {
-            "name": "Levante GTS",
+            "name": "GTS",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/maserati/levante/2016/estandar/gts/levante-gts/datos",
@@ -3336,7 +3337,7 @@
             ]
         },
         {
-            "name": "Levante Trofeo",
+            "name": "Trofeo",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/maserati/levante/2016/estandar/trofeo/levante-trofeo/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "DS",
     "name": "3 Crossback",
     "year": "2019",
     "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback",
     "price": "Desde 27.342 €",
     "versions": [
         {
-            "name": "3 Crossback PureTech 100 Be Chic",
+            "name": "PureTech 100 Be Chic",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/be-chic/3-crossback-puretech-100-be-chic/datos",
@@ -16,7 +17,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback BlueHDi 100 Be Chic",
+            "name": "BlueHDi 100 Be Chic",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/be-chic/3-crossback-bluehdi-100-be-chic/datos",
@@ -27,7 +28,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 100 Chic",
+            "name": "PureTech 100 Chic",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/estandar/3-crossback-puretech-100-chic/datos",
@@ -38,7 +39,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback BlueHDi 100 Chic",
+            "name": "BlueHDi 100 Chic",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/estandar/3-crossback-bluehdi-100-chic/datos",
@@ -49,7 +50,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 130 Aut. Be Chic",
+            "name": "PureTech 130 Aut. Be Chic",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/be-chic/3-crossback-puretech-130-automatico-be-chic/datos",
@@ -60,7 +61,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 100 Montmartre",
+            "name": "PureTech 100 Montmartre",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/estandar/3-crossback-puretech-100-montmartre/datos",
@@ -71,7 +72,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 100 So Chic",
+            "name": "PureTech 100 So Chic",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/so-chic/3-crossback-puretech-100-so-chic/datos",
@@ -82,7 +83,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback BlueHDi 130 Aut. Be Chic",
+            "name": "BlueHDi 130 Aut. Be Chic",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/be-chic/3-crossback-bluehdi-130-aut-be-chic/datos",
@@ -93,7 +94,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback BlueHDi 110 Montmartre",
+            "name": "BlueHDi 110 Montmartre",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/estandar/3-crossback-bluehdi-110-montmartre/datos",
@@ -104,7 +105,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback BlueHDi 100 So Chic",
+            "name": "BlueHDi 100 So Chic",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/so-chic/3-crossback-bluehdi-100-so-chic/datos",
@@ -115,7 +116,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback BlueHDi 100 Performance Line",
+            "name": "BlueHDi 100 Performance Line",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/performance-line/3-crossback-bluehdi-100-performance-line/datos",
@@ -126,7 +127,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback BlueHDi 110 Bastille",
+            "name": "BlueHDi 110 Bastille",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/estandar/3-crossback-bluehdi-110-bastille/datos",
@@ -137,7 +138,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 130 Aut. Chic",
+            "name": "PureTech 130 Aut. Chic",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/estandar/3-crossback-puretech-130-aut-chic/datos",
@@ -148,7 +149,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 100 Connected Chic",
+            "name": "PureTech 100 Connected Chic",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/connected-chic/3-crossback-puretech-100-connected-chic/datos",
@@ -159,7 +160,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback BlueHDi 110 Performance Line",
+            "name": "BlueHDi 110 Performance Line",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/performance-line/3-crossback-bluehdi-110-performance-line/datos",
@@ -170,7 +171,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 100 Bastille",
+            "name": "PureTech 100 Bastille",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/estandar/3-crossback-puretech-100-bastille/datos",
@@ -181,7 +182,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 155 Aut. So Chic",
+            "name": "PureTech 155 Aut. So Chic",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/so-chic/3-crossback-puretech-155-automatico-so-chic/datos",
@@ -192,7 +193,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 155 Aut. So Chic",
+            "name": "PureTech 155 Aut. So Chic",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/so-chic/3-crossback-puretech-155-aut-so-chic/datos",
@@ -203,7 +204,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback BlueHDi 110 Roofs Of Paris",
+            "name": "BlueHDi 110 Roofs Of Paris",
             "start_year": "2022",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/estandar/3-crossback-bluehdi-110-roofs-of-paris/datos",
@@ -214,7 +215,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback BlueHDi 100 Connected Chic",
+            "name": "BlueHDi 100 Connected Chic",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/connected-chic/3-crossback-bluehdi-100-connected-chic/datos",
@@ -225,7 +226,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 100 Grand Chic",
+            "name": "PureTech 100 Grand Chic",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/grand-chic/3-crossback-puretech-100-grand-chic/datos",
@@ -236,7 +237,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 155 Aut. Performance Line",
+            "name": "PureTech 155 Aut. Performance Line",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/performance-line/3-crossback-puretech-155-aut-performance-line/datos",
@@ -247,7 +248,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 155 Aut. Performance Line",
+            "name": "PureTech 155 Aut. Performance Line",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/performance-line/3-crossback-puretech-155-automatico-performance-line/datos",
@@ -258,7 +259,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 130 Aut. So Chic",
+            "name": "PureTech 130 Aut. So Chic",
             "start_year": "2018",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/so-chic/3-crossback-puretech-130-automatico-so-chic/datos",
@@ -269,7 +270,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback BlueHDi 130 Aut. Chic",
+            "name": "BlueHDi 130 Aut. Chic",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/estandar/3-crossback-bluehdi-130-aut-chic/datos",
@@ -280,7 +281,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 100 Performance Line",
+            "name": "PureTech 100 Performance Line",
             "start_year": "2018",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/performance-line/3-crossback-puretech-100-performance-line/datos",
@@ -291,7 +292,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback BlueHDi 130 Aut. So Chic",
+            "name": "BlueHDi 130 Aut. So Chic",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/so-chic/3-crossback-bluehdi-130-aut-so-chic/datos",
@@ -302,7 +303,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 130 Aut. Connected Chic",
+            "name": "PureTech 130 Aut. Connected Chic",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/estandar/3-crossback-puretech-130-aut-connected-chic/datos",
@@ -313,7 +314,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 130 Aut. Bastille",
+            "name": "PureTech 130 Aut. Bastille",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/estandar/3-crossback-puretech-130-aut-bastille/datos",
@@ -324,7 +325,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 130 Aut. Grand Chic",
+            "name": "PureTech 130 Aut. Grand Chic",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/grand-chic/3-crossback-puretech-130-automatico-grand-chic/datos",
@@ -335,7 +336,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 130 Aut. Performance Line",
+            "name": "PureTech 130 Aut. Performance Line",
             "start_year": "2018",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/performance-line/3-crossback-puretech-130-automatico-performance-line/datos",
@@ -346,7 +347,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 130 Aut. Faubourg",
+            "name": "PureTech 130 Aut. Faubourg",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/estandar/3-crossback-puretech-130-aut-faubourg/datos",
@@ -357,7 +358,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback BlueHDi 130 Aut. Connected Chic",
+            "name": "BlueHDi 130 Aut. Connected Chic",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/estandar/3-crossback-bluehdi-130-aut-connected-chic/datos",
@@ -368,7 +369,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback BlueHDi 130 Aut. Bastille",
+            "name": "BlueHDi 130 Aut. Bastille",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/estandar/3-crossback-bluehdi-130-aut-bastille/datos",
@@ -379,7 +380,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 155 Aut. Grand Chic",
+            "name": "PureTech 155 Aut. Grand Chic",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/grand-chic/3-crossback-puretech-155-automatico-grand-chic/datos",
@@ -390,7 +391,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 155 Aut. Grand Chic",
+            "name": "PureTech 155 Aut. Grand Chic",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/grand-chic/3-crossback-puretech-155-aut-grand-chic/datos",
@@ -401,7 +402,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback BlueHDi 130 Aut. Performance Line",
+            "name": "BlueHDi 130 Aut. Performance Line",
             "start_year": "2019",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/performance-line/3-crossback-bluehdi-130-aut-performance-line/datos",
@@ -412,7 +413,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 155 Aut. Performance Line +",
+            "name": "PureTech 155 Aut. Performance Line +",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/estandar/3-crossback-puretech-155-aut-performance-line2/datos",
@@ -423,7 +424,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback BlueHDi 130 Aut. Faubourg",
+            "name": "BlueHDi 130 Aut. Faubourg",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/estandar/3-crossback-bluehdi-130-aut-faubourg/datos",
@@ -434,7 +435,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 130 Aut. Grand Chic",
+            "name": "PureTech 130 Aut. Grand Chic",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/grand-chic/3-crossback-puretech-130-aut-grand-chic/datos",
@@ -445,7 +446,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 130 Aut. La Première",
+            "name": "PureTech 130 Aut. La Première",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/la-premiere/3-crossback-puretech-130-automatico-la-premiere/datos",
@@ -456,7 +457,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 130 Aut. Performance Line +",
+            "name": "PureTech 130 Aut. Performance Line +",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/estandar/3-crossback-puretech-130-aut-performance-line/datos",
@@ -467,7 +468,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback BlueHDi 130 Aut. Grand Chic",
+            "name": "BlueHDi 130 Aut. Grand Chic",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/grand-chic/3-crossback-bluehdi-130-aut-grand-chic/datos",
@@ -478,7 +479,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback BlueHDi 130 Aut. Ines De La Fressange",
+            "name": "BlueHDi 130 Aut. Ines De La Fressange",
             "start_year": "2021",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/estandar/3-crossback-bluehdi-130-aut-ines-de-la-fressange/datos",
@@ -489,7 +490,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 155 Aut. La Première",
+            "name": "PureTech 155 Aut. La Première",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/la-premiere/3-crossback-puretech-155-automatico-la-premiere/datos",
@@ -500,7 +501,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 155 Aut. La Première",
+            "name": "PureTech 155 Aut. La Première",
             "start_year": "2019",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/la-premiere/3-crossback-puretech-155-aut-la-premiere/datos",
@@ -511,7 +512,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 130 Aut. Rivoli",
+            "name": "PureTech 130 Aut. Rivoli",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/estandar/3-crossback-puretech-130-aut-rivoli/datos",
@@ -522,7 +523,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback BlueHDi 130 Aut. Performance Line +",
+            "name": "BlueHDi 130 Aut. Performance Line +",
             "start_year": "2020",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/estandar/3-crossback-bluehdi-130-aut-performance-line2/datos",
@@ -533,7 +534,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback PureTech 155 Aut. Rivoli",
+            "name": "PureTech 155 Aut. Rivoli",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/estandar/3-crossback-puretech-155-aut-rivoli/datos",
@@ -544,7 +545,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback E-TENSE So Chic",
+            "name": "E-TENSE So Chic",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/e-tense/3-crossback-e-tense/datos",
@@ -555,7 +556,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback BlueHDi 130 Aut. Rivoli",
+            "name": "BlueHDi 130 Aut. Rivoli",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/estandar/3-crossback-bluehdi-130-aut-rivoli/datos",
@@ -566,7 +567,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback E-TENSE Performance Line",
+            "name": "E-TENSE Performance Line",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/e-tense/3-crossback-e-tense-performance-line/datos",
@@ -577,7 +578,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback BlueHDi 130 Aut. Louvre",
+            "name": "BlueHDi 130 Aut. Louvre",
             "start_year": "2022",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/estandar/3-crossback-bluehdi-130-aut-louvre/datos",
@@ -588,7 +589,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback E-TENSE Bastille",
+            "name": "E-TENSE Bastille",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/e-tense/3-crossback-e-tense-bastille/datos",
@@ -599,7 +600,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback E-TENSE Performance Line",
+            "name": "E-TENSE Performance Line",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/e-tense/3-crossback-e-tense-performance-line3/datos",
@@ -610,7 +611,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback E-TENSE Performance Line +",
+            "name": "E-TENSE Performance Line +",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/e-tense/3-crossback-e-tense-performance-line2/datos",
@@ -621,7 +622,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback E-TENSE La Première",
+            "name": "E-TENSE La Première",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/e-tense/3-crossback-e-tense-la-premiere/datos",
@@ -632,7 +633,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback E-TENSE Grand Chic",
+            "name": "E-TENSE Grand Chic",
             "start_year": "2019",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/e-tense/3-crossback-e-tense-grand-chic/datos",
@@ -643,7 +644,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback E-TENSE Performance Line +",
+            "name": "E-TENSE Performance Line +",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/e-tense/3-crossback-e-tense-performance-line4/datos",
@@ -654,7 +655,7 @@
             "maletero": "350"
         },
         {
-            "name": "3 Crossback E-TENSE Rivoli",
+            "name": "E-TENSE Rivoli",
             "start_year": "2021",
             "end_year": "2022",
             "url": "https://www.km77.com/coches/ds/ds-3/2019/crossback/e-tense/3-crossback-e-tense-rivoli/datos",

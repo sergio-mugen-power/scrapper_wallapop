@@ -1,11 +1,12 @@
 {
+    "brand": "Nissan",
     "name": "Almera Tino",
     "year": "2000",
     "url": "https://www.km77.com/coches/nissan/almera-tino/2000/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Almera Tino 1.8 Comfort",
+            "name": "1.8 Comfort",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/nissan/almera-tino/2000/estandar/comfort/almera-tino-18-comfort/datos",
@@ -135,7 +136,7 @@
             ]
         },
         {
-            "name": "Almera Tino 2.2Di Comfort",
+            "name": "2.2Di Comfort",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/nissan/almera-tino/2000/estandar/comfort/almera-tino-22di-comfort/datos",
@@ -265,7 +266,7 @@
             ]
         },
         {
-            "name": "Almera Tino 1.8 Ambience",
+            "name": "1.8 Ambience",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/nissan/almera-tino/2000/estandar/ambience/almera-tino-18-ambience/datos",
@@ -401,7 +402,7 @@
             ]
         },
         {
-            "name": "Almera Tino 2.2Di Ambience",
+            "name": "2.2Di Ambience",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/nissan/almera-tino/2000/estandar/ambience/almera-tino-22di-ambience/datos",
@@ -537,7 +538,7 @@
             ]
         },
         {
-            "name": "Almera Tino 2.0 Ambience CVT",
+            "name": "2.0 Ambience CVT",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/nissan/almera-tino/2000/estandar/ambience/almera-tino-20-ambience-cvt/datos",
@@ -669,7 +670,7 @@
             ]
         },
         {
-            "name": "Almera Tino 2.0 Luxury CVT",
+            "name": "2.0 Luxury CVT",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/nissan/almera-tino/2000/estandar/luxury/almera-tino-20-luxury-cvt/datos",
@@ -808,7 +809,7 @@
             ]
         },
         {
-            "name": "Almera Tino 2.2Di Mar",
+            "name": "2.2Di Mar",
             "start_year": "2002",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/nissan/almera-tino/2000/estandar/mar/almera-tino-22di-mar/datos",

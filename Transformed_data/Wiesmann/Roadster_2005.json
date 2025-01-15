@@ -1,11 +1,12 @@
 {
+    "brand": "Wiesmann",
     "name": "Roadster",
     "year": "2005",
     "url": "https://www.km77.com/coches/wiesmann/roadster/2005/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Roadster MF 30",
+            "name": "MF 30",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/wiesmann/roadster/2005/estandar/estandar/roadster-mf-30/datos",
@@ -168,7 +169,7 @@
             ]
         },
         {
-            "name": "Roadster MF 3",
+            "name": "MF 3",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/wiesmann/roadster/2005/estandar/estandar/roadster-mf-3/datos",

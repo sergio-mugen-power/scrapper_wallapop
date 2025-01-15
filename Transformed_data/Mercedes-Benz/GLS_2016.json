@@ -1,11 +1,12 @@
 {
+    "brand": "Mercedes-Benz",
     "name": "GLS",
     "year": "2016",
     "url": "https://www.km77.com/coches/mercedes/clase-gls/2016/estandar",
     "price": "Desde 114.525 €",
     "versions": [
         {
-            "name": "GLS 350 d 4MATIC",
+            "name": "350 d 4MATIC",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mercedes/clase-gls/2016/estandar/estandar/gls-2015/datos",
@@ -329,7 +330,7 @@
             ]
         },
         {
-            "name": "GLS 400 4MATIC",
+            "name": "400 4MATIC",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mercedes/clase-gls/2016/estandar/estandar/gls-400-4matic/datos",
@@ -651,7 +652,7 @@
             ]
         },
         {
-            "name": "GLS 350 d 4MATIC",
+            "name": "350 d 4MATIC",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/mercedes/clase-gls/2016/estandar/estandar/gls-350-d-4matic/datos",
@@ -971,7 +972,7 @@
             ]
         },
         {
-            "name": "GLS 400 4MATIC",
+            "name": "400 4MATIC",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/mercedes/clase-gls/2016/estandar/estandar/gls-400-4matic2/datos",
@@ -1290,7 +1291,7 @@
             ]
         },
         {
-            "name": "GLS 500 4MATIC",
+            "name": "500 4MATIC",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mercedes/clase-gls/2016/estandar/estandar/gls-500-4matic/datos",
@@ -1615,7 +1616,7 @@
             ]
         },
         {
-            "name": "AMG GLS 63 4MATIC",
+            "name": "AMG  63 4MATIC",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mercedes/clase-gls/2016/estandar/amg/amg-gls-63-4matic/datos",
@@ -1928,7 +1929,7 @@
             ]
         },
         {
-            "name": "AMG GLS 63 4MATIC",
+            "name": "AMG  63 4MATIC",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/mercedes/clase-gls/2016/estandar/amg/amg-gls-63-4matic2/datos",

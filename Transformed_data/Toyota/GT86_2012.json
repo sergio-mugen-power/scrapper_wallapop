@@ -1,11 +1,12 @@
 {
+    "brand": "Toyota",
     "name": "GT86",
     "year": "2012",
     "url": "https://www.km77.com/coches/toyota/gt-86/2012/estandar",
     "price": "",
     "versions": [
         {
-            "name": "GT86",
+            "name": "",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/toyota/gt-86/2012/estandar/estandar/gt86/datos",
@@ -182,7 +183,7 @@
             ]
         },
         {
-            "name": "GT86 Sport",
+            "name": "Sport",
             "start_year": "2012",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/toyota/gt-86/2012/estandar/sport/gt862/datos",
@@ -367,7 +368,7 @@
             ]
         },
         {
-            "name": "GT86 Aut.",
+            "name": "Aut.",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/toyota/gt-86/2012/estandar/estandar/gt86-aut/datos",
@@ -546,7 +547,7 @@
             ]
         },
         {
-            "name": "GT86 Sport Aut.",
+            "name": "Sport Aut.",
             "start_year": "2012",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/toyota/gt-86/2012/estandar/sport/gt86-aut2/datos",

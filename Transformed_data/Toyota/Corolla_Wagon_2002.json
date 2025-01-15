@@ -1,11 +1,12 @@
 {
+    "brand": "Toyota",
     "name": "Corolla Wagon",
     "year": "2002",
     "url": "https://www.km77.com/coches/toyota/corolla/2002/wagon",
     "price": "",
     "versions": [
         {
-            "name": "Corolla Wagon D4-D 90 CV Terra",
+            "name": "D4-D 90 CV Terra",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/toyota/corolla/2002/wagon/terra/corolla-wagon-d4-d-90-cv-terra/datos",
@@ -172,7 +173,7 @@
             ]
         },
         {
-            "name": "Corolla Wagon D4-D 90 CV Sol",
+            "name": "D4-D 90 CV Sol",
             "start_year": "2004",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/toyota/corolla/2002/wagon/sol/corolla-wagon-d4-d-90-cv-sol/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "KIA",
     "name": "Carens",
     "year": "2013",
     "url": "https://www.km77.com/coches/kia/carens/2013/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Carens 1.6 GDi 135 CV Basic 5 plazas",
+            "name": "1.6 GDi 135 CV Basic 5 plazas",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/basic/carens-16-gdi-135-cv-basic-5-plazas/datos",
@@ -16,7 +17,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.6 GDi 135 CV Concept 5 plazas",
+            "name": "1.6 GDi 135 CV Concept 5 plazas",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/concept/carens-16-135-cv/datos",
@@ -27,7 +28,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.6 GDi 135 CV Concept 7 plazas",
+            "name": "1.6 GDi 135 CV Concept 7 plazas",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/concept/carens-16-135-cv-isg/datos",
@@ -38,7 +39,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.6 GDi 99 kW (135 CV) Concept 5 plazas",
+            "name": "1.6 GDi 99 kW (135 CV) Concept 5 plazas",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/concept/carens-16-gdi-135-cv-concept-5-plazas/datos",
@@ -49,7 +50,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.6 GDi 99 kW (135 CV) Concept 7 plazas",
+            "name": "1.6 GDi 99 kW (135 CV) Concept 7 plazas",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/concept/carens-16-gdi-135-cv-concept-7-plazas/datos",
@@ -60,7 +61,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.6 GDi 135 CV Drive 5 plazas",
+            "name": "1.6 GDi 135 CV Drive 5 plazas",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/drive/carens-16-gdi-135-cv-drive-5-plazas/datos",
@@ -71,7 +72,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 115 CV Concept Eco-Dynamics 5 plazas",
+            "name": "1.7 CRDi VGT 115 CV Concept Eco-Dynamics 5 plazas",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/concept/carens-17-crdi-vgt-115-cv-concept-5-plazas/datos",
@@ -82,7 +83,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 115 CV Concept 5 plazas",
+            "name": "1.7 CRDi VGT 115 CV Concept 5 plazas",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/concept/carens-17-d-115-cv-7-plazas-isg/datos",
@@ -93,7 +94,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 115 CV Concept Eco-Dynamics 5 plazas (neumáticos Michelin)",
+            "name": "1.7 CRDi VGT 115 CV Concept Eco-Dynamics 5 plazas (neumáticos Michelin)",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/concept/carens-17-crdi-vgt-115-cv-concept-eco-dynamics-5-plazas-neumaticos-michelin/datos",
@@ -104,7 +105,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 85 kW (115 CV) Concept Eco-Dynamics 5 plazas",
+            "name": "1.7 CRDi VGT 85 kW (115 CV) Concept Eco-Dynamics 5 plazas",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/concept/carens-17-crdi-vgt-115-cv-concept-eco-dynamics-5-plazas2/datos",
@@ -115,7 +116,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.6 GDi 99kW (135 CV) Drive 5 plazas",
+            "name": "1.6 GDi 99kW (135 CV) Drive 5 plazas",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/drive/carens-16-gdi-135-cv-drive-5-plazas2/datos",
@@ -126,7 +127,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 115 CV Concept Eco-Dynamics 7 plazas",
+            "name": "1.7 CRDi VGT 115 CV Concept Eco-Dynamics 7 plazas",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/concept/carens-17-crdi-vgt-115-cv-concept-7-plazas2/datos",
@@ -137,7 +138,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.6 GDi 135 CV Drive 7 plazas",
+            "name": "1.6 GDi 135 CV Drive 7 plazas",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/drive/carens-16-gdi-135-cv-drive-7-plazas/datos",
@@ -148,7 +149,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 115 CV Concept 7 plazas",
+            "name": "1.7 CRDi VGT 115 CV Concept 7 plazas",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/concept/carens-17-crdi-vgt-115-cv-concept-7-plazas/datos",
@@ -159,7 +160,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 115 CV Concept Eco-Dynamics 7 plazas (neumáticos Michelin)",
+            "name": "1.7 CRDi VGT 115 CV Concept Eco-Dynamics 7 plazas (neumáticos Michelin)",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/concept/carens-17-crdi-vgt-115-cv-concept-eco-dynamics-7-plazas-neumaticos-michelin/datos",
@@ -170,7 +171,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 85 kW (115 CV) Concept Eco-Dynamics 7 plazas",
+            "name": "1.7 CRDi VGT 85 kW (115 CV) Concept Eco-Dynamics 7 plazas",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/concept/carens-17-crdi-vgt-115-cv-concept-eco-dynamics-7-plazas/datos",
@@ -181,7 +182,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.6 GDi 99kW (135 CV) Drive 7 plazas",
+            "name": "1.6 GDi 99kW (135 CV) Drive 7 plazas",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/drive/carens-16-gdi-135-cv-drive-7-plazas2/datos",
@@ -192,7 +193,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 115 CV Drive Eco-Dynamics 5 plazas",
+            "name": "1.7 CRDi VGT 115 CV Drive Eco-Dynamics 5 plazas",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/drive/carens-17-crdi-vgt-115-cv-drive-5-plazas/datos",
@@ -203,7 +204,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 115 CV Drive 5 plazas",
+            "name": "1.7 CRDi VGT 115 CV Drive 5 plazas",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/drive/carens-17-d-115-cv-7-plazas/datos",
@@ -214,7 +215,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.6 GDi 135 CV x-Tech 5 plazas",
+            "name": "1.6 GDi 135 CV x-Tech 5 plazas",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/x-tech/carens-16-gdi-135-cv-x-tech-5-plazas/datos",
@@ -225,7 +226,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 115 CV Drive Eco-Dynamics 5 plazas (neumáticos Michelin)",
+            "name": "1.7 CRDi VGT 115 CV Drive Eco-Dynamics 5 plazas (neumáticos Michelin)",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/drive/carens-17-crdi-vgt-115-cv-drive-eco-dynamics-5-plazas-neumaticos-michelin/datos",
@@ -236,7 +237,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 85 kW (115 CV) Drive Eco-Dynamics 5 plazas",
+            "name": "1.7 CRDi VGT 85 kW (115 CV) Drive Eco-Dynamics 5 plazas",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/drive/carens-17-crdi-vgt-115-cv-concept-eco-dynamics-5-plazas/datos",
@@ -247,7 +248,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 115 CV Drive Eco-Dynamics 7 plazas",
+            "name": "1.7 CRDi VGT 115 CV Drive Eco-Dynamics 7 plazas",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/drive/carens-17-crdi-vgt-115-cv-drive-7-plazas2/datos",
@@ -258,7 +259,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.6 GDi 135 CV UEFA EURO2016 5 plazas",
+            "name": "1.6 GDi 135 CV UEFA EURO2016 5 plazas",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/uefa-euro2016/carens-16-gdi-135-cv-eufa-euro2016-5-plazas/datos",
@@ -269,7 +270,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 115 CV Drive 7 plazas",
+            "name": "1.7 CRDi VGT 115 CV Drive 7 plazas",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/drive/carens-17-crdi-vgt-115-cv-drive-7-plazas/datos",
@@ -280,7 +281,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.6 GDi 135 CV x-Tech 7 plazas",
+            "name": "1.6 GDi 135 CV x-Tech 7 plazas",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/x-tech/carens-16-gdi-135-cv-x-tech-7-plazas/datos",
@@ -291,7 +292,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 115 CV Drive Eco-Dynamics 7 plazas (neumáticos Michelin)",
+            "name": "1.7 CRDi VGT 115 CV Drive Eco-Dynamics 7 plazas (neumáticos Michelin)",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/drive/carens-17-crdi-vgt-115-cv-drive-eco-dynamics-7-plazas-neumaticos-michelin/datos",
@@ -302,7 +303,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 85 kW (115 CV) Drive Eco-Dynamics 7 plazas",
+            "name": "1.7 CRDi VGT 85 kW (115 CV) Drive Eco-Dynamics 7 plazas",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/drive/carens-17-crdi-vgt-115-cv-drive-eco-dynamics-7-plazas/datos",
@@ -313,7 +314,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 136 CV Drive 5 plazas",
+            "name": "1.7 CRDi VGT 136 CV Drive 5 plazas",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/drive/carens-17-d-136-cv/datos",
@@ -324,7 +325,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.6 GDi 135 CV UEFA EURO2016 7 plazas",
+            "name": "1.6 GDi 135 CV UEFA EURO2016 7 plazas",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/uefa-euro2016/carens-16-gdi-135-cv-drive-7-plazas3/datos",
@@ -335,7 +336,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 115 CV x-Tech Eco-Dynamics 5 plazas",
+            "name": "1.7 CRDi VGT 115 CV x-Tech Eco-Dynamics 5 plazas",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/x-tech/carens-17-crdi-vgt-115-cv-x-tech-eco-dynamics-5-plazas/datos",
@@ -346,7 +347,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 115 CV x-Tech Eco-Dynamics 5 plazas (neumáticos Michelin)",
+            "name": "1.7 CRDi VGT 115 CV x-Tech Eco-Dynamics 5 plazas (neumáticos Michelin)",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/x-tech/carens-17-crdi-vgt-115-cv-x-tech-eco-dynamics-5-plazas-neumaticos-michelin/datos",
@@ -357,7 +358,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 104 kW (141 CV) Drive 5 plazas",
+            "name": "1.7 CRDi VGT 104 kW (141 CV) Drive 5 plazas",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/drive/carens-17-crdi-vgt-141-cv-drive-5-plazas/datos",
@@ -368,7 +369,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 115 CV UEFA EURO2016 Eco-Dynamics 5 plazas",
+            "name": "1.7 CRDi VGT 115 CV UEFA EURO2016 Eco-Dynamics 5 plazas",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/uefa-euro2016/carens-17-crdi-vgt-115-cv-eufa-euro2016-eco-dynamics-5-plazas/datos",
@@ -379,7 +380,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 136 CV Drive 7 plazas",
+            "name": "1.7 CRDi VGT 136 CV Drive 7 plazas",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/drive/carens-17-d-136-cv-aut/datos",
@@ -390,7 +391,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 115 CV x-Tech Eco-Dynamics 7 plazas",
+            "name": "1.7 CRDi VGT 115 CV x-Tech Eco-Dynamics 7 plazas",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/x-tech/carens-17-crdi-vgt-115-cv-x-tech-eco-dynamics-7-plazas/datos",
@@ -401,7 +402,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 115 CV x-Tech Eco-Dynamics 7 plazas (neumáticos Michelin)",
+            "name": "1.7 CRDi VGT 115 CV x-Tech Eco-Dynamics 7 plazas (neumáticos Michelin)",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/x-tech/carens-17-crdi-vgt-115-cv-x-tech-eco-dynamics-7-plazas-neumaticos-michelin/datos",
@@ -412,7 +413,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 104 kW (141 CV) Drive 7 plazas",
+            "name": "1.7 CRDi VGT 104 kW (141 CV) Drive 7 plazas",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/drive/carens-17-crdi-vgt-141-cv-drive-7-plazas/datos",
@@ -423,7 +424,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 141 CV x-Tech 5 plazas",
+            "name": "1.7 CRDi VGT 141 CV x-Tech 5 plazas",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/x-tech/carens-17-crdi-vgt-141-cv-x-tech-5-plazas/datos",
@@ -434,7 +435,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 115 CV UEFA EURO2016 Eco-Dynamics 7 plazas",
+            "name": "1.7 CRDi VGT 115 CV UEFA EURO2016 Eco-Dynamics 7 plazas",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/uefa-euro2016/carens-17-crdi-vgt-115-cv-drive-eco-dynamics-7-plazas2/datos",
@@ -445,7 +446,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 141 CV UEFA EURO2016 5 plazas",
+            "name": "1.7 CRDi VGT 141 CV UEFA EURO2016 5 plazas",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/uefa-euro2016/carens-17-crdi-vgt-141-cv-drive-5-plazas2/datos",
@@ -456,7 +457,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 104 kW (141 CV) DCT Drive 5 plazas",
+            "name": "1.7 CRDi VGT 104 kW (141 CV) DCT Drive 5 plazas",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/drive/carens-17-crdi-vgt-141-cv-dct-drive-5-plazas/datos",
@@ -467,7 +468,7 @@
             "maletero": "536"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 141 CV x-Tech 7 plazas",
+            "name": "1.7 CRDi VGT 141 CV x-Tech 7 plazas",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/x-tech/carens-17-crdi-vgt-141-cv-x-tech-7-plazas/datos",
@@ -478,7 +479,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 141 CV UEFA EURO2016 7 plazas",
+            "name": "1.7 CRDi VGT 141 CV UEFA EURO2016 7 plazas",
             "start_year": "2016",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/uefa-euro2016/carens-17-crdi-vgt-141-cv-dct-uefa-euro2016-7-plazas/datos",
@@ -489,7 +490,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 104 kW (141 CV) DCT Drive 7 plazas",
+            "name": "1.7 CRDi VGT 104 kW (141 CV) DCT Drive 7 plazas",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/drive/carens-17-crdi-vgt-141-cv-dct-drive-7-plazas/datos",
@@ -500,7 +501,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 136 CV Emotion Eco-Dynamics 7 plazas",
+            "name": "1.7 CRDi VGT 136 CV Emotion Eco-Dynamics 7 plazas",
             "start_year": "2013",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/emotion/carens-17-d-136-cv-isg/datos",
@@ -511,7 +512,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 104 kW (141 CV) Emotion 7 plazas",
+            "name": "1.7 CRDi VGT 104 kW (141 CV) Emotion 7 plazas",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/emotion/carens-17-crdi-vgt-141-cv-emotion-7-plazas/datos",
@@ -522,7 +523,7 @@
             "maletero": "492"
         },
         {
-            "name": "Carens 1.7 CRDi VGT 104 kW (141 CV) DCT Emotion 7 plazas",
+            "name": "1.7 CRDi VGT 104 kW (141 CV) DCT Emotion 7 plazas",
             "start_year": "2015",
             "end_year": "2017",
             "url": "https://www.km77.com/coches/kia/carens/2013/estandar/emotion/carens-17-crdi-vgt-141-cv-dct-emotion-7-plazas/datos",

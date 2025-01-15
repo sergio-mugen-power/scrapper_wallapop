@@ -1,11 +1,12 @@
 {
+    "brand": "Mazda",
     "name": "MPV",
     "year": "1999",
     "url": "https://www.km77.com/coches/mazda/mpv/1999/estandar",
     "price": "",
     "versions": [
         {
-            "name": "MPV Exclusive 2.0 16V",
+            "name": "Exclusive 2.0 16V",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/mazda/mpv/1999/estandar/exclusive/mpv-exclusive-20-16v/datos",
@@ -139,7 +140,7 @@
             ]
         },
         {
-            "name": "MPV Comfort 2.3 16V",
+            "name": "Comfort 2.3 16V",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/mazda/mpv/1999/estandar/comfort/mpv-comfort-23-16v/datos",
@@ -276,7 +277,7 @@
             ]
         },
         {
-            "name": "MPV Exclusive 2.3 16V",
+            "name": "Exclusive 2.3 16V",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/mazda/mpv/1999/estandar/exclusive/mpv-exclusive-23-16v/datos",
@@ -414,7 +415,7 @@
             ]
         },
         {
-            "name": "MPV Comfort CRTD 2.0 16V",
+            "name": "Comfort CRTD 2.0 16V",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/mazda/mpv/1999/estandar/comfort/mpv-comfort-crtd-20-16v/datos",
@@ -550,7 +551,7 @@
             ]
         },
         {
-            "name": "MPV Exclusive CRTD 2.0 16V",
+            "name": "Exclusive CRTD 2.0 16V",
             "start_year": "2002",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/mazda/mpv/1999/estandar/exclusive/mpv-exclusive-crtd-20-16v/datos",

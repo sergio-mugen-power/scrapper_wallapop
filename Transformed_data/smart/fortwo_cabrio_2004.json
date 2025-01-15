@@ -1,11 +1,12 @@
 {
+    "brand": "smart",
     "name": "fortwo cabrio",
     "year": "2004",
     "url": "https://www.km77.com/coches/smart/fortwo/2004/cabrio",
     "price": "",
     "versions": [
         {
-            "name": "fortwo cabrio 45 pure",
+            "name": "45 pure",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/smart/fortwo/2004/cabrio/pure/fortwo-cabrio-45-pure/datos",
@@ -32,7 +33,7 @@
             ]
         },
         {
-            "name": "fortwo cabrio CDI pure",
+            "name": "CDI pure",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/smart/fortwo/2004/cabrio/pure/fortwo-cabrio-cdi-pure/datos",
@@ -59,7 +60,7 @@
             ]
         },
         {
-            "name": "fortwo cabrio 45 pulse",
+            "name": "45 pulse",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/smart/fortwo/2004/cabrio/pulse/fortwo-cabrio-45-pulse/datos",
@@ -86,7 +87,7 @@
             ]
         },
         {
-            "name": "fortwo cabrio 45 passion",
+            "name": "45 passion",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/smart/fortwo/2004/cabrio/passion/fortwo-cabrio-45-passion/datos",
@@ -113,7 +114,7 @@
             ]
         },
         {
-            "name": "fortwo cabrio CDI pulse",
+            "name": "CDI pulse",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/smart/fortwo/2004/cabrio/pulse/fortwo-cabrio-cdi-pulse/datos",
@@ -141,7 +142,7 @@
             ]
         },
         {
-            "name": "fortwo cabrio CDI passion",
+            "name": "CDI passion",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/smart/fortwo/2004/cabrio/passion/fortwo-cabrio-cdi-passion/datos",
@@ -169,7 +170,7 @@
             ]
         },
         {
-            "name": "fortwo cabrio BRABUS",
+            "name": "BRABUS",
             "start_year": "2004",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/smart/fortwo/2004/cabrio/brabus/fortwo-cabrio-brabus/datos",

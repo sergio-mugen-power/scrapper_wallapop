@@ -1,11 +1,12 @@
 {
+    "brand": "Volvo",
     "name": "XC90",
     "year": "2015",
     "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar",
     "price": "Desde 81.200 €",
     "versions": [
         {
-            "name": "XC90 D4 Kinetic 5 asientos",
+            "name": "D4 Kinetic 5 asientos",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/kinetic/xc90-d4-kinetic-5-asientos/datos",
@@ -26,7 +27,7 @@
             ]
         },
         {
-            "name": "XC90 D4 Kinetic 7 asientos",
+            "name": "D4 Kinetic 7 asientos",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/kinetic/xc90-d4-kinetic-7-asientos/datos",
@@ -47,7 +48,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Kinetic",
+            "name": "D5 AWD Kinetic",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/kinetic/xc90-d5-awd/datos",
@@ -68,7 +69,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Kinetic 7 asientos",
+            "name": "D5 AWD Kinetic 7 asientos",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/kinetic/xc90-d5-awd-kinetic/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Kinetic 7 asientos",
+            "name": "D5 AWD Kinetic 7 asientos",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/kinetic/xc90-d5-awd-kinetic-7-asientos/datos",
@@ -110,7 +111,7 @@
             ]
         },
         {
-            "name": "XC90 D4 Momentum 5 asientos",
+            "name": "D4 Momentum 5 asientos",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/momentum/xc90-d4-momentum-5-asientos/datos",
@@ -131,7 +132,7 @@
             ]
         },
         {
-            "name": "XC90 D4 Momentum 7 asientos",
+            "name": "D4 Momentum 7 asientos",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/momentum/xc90-d4-momentum-7-asientos/datos",
@@ -152,7 +153,7 @@
             ]
         },
         {
-            "name": "XC90 T5 AWD Kinetic 7 asientos",
+            "name": "T5 AWD Kinetic 7 asientos",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/kinetic/xc90-t5-awd-kinetic/datos",
@@ -173,7 +174,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Momentum 5 asientos",
+            "name": "D5 AWD Momentum 5 asientos",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/momentum/xc90-d5-awd-momentum-5-asientos/datos",
@@ -194,7 +195,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Momentum",
+            "name": "D5 AWD Momentum",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/momentum/xc90-d5-awd-momentum/datos",
@@ -215,7 +216,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Momentum 7 asientos",
+            "name": "D5 AWD Momentum 7 asientos",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/momentum/xc90-d5-awd-momentum2/datos",
@@ -236,7 +237,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Momentum 7 asientos",
+            "name": "D5 AWD Momentum 7 asientos",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/momentum/xc90-d5-awd-momentum-7-asientos/datos",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "name": "XC90 D4 Inscription 7 asientos",
+            "name": "D4 Inscription 7 asientos",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/inscription/xc90-d4-inscription-7-asientos/datos",
@@ -278,7 +279,7 @@
             ]
         },
         {
-            "name": "XC90 D4 R-Design 7 asientos",
+            "name": "D4 R-Design 7 asientos",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/r-design/xc90-d4-r-design-7-asientos/datos",
@@ -299,7 +300,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Momentum 7 asientos",
+            "name": "D5 AWD Momentum 7 asientos",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/momentum/xc90-d5-awd-momentum-7-asientos2/datos",
@@ -320,7 +321,7 @@
             ]
         },
         {
-            "name": "XC90 T5 AWD Momentum 7 asientos",
+            "name": "T5 AWD Momentum 7 asientos",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/momentum/xc90-t5-awd-momentum/datos",
@@ -341,7 +342,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Inscription",
+            "name": "D5 AWD Inscription",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/inscription/xc90-d5-awd-inscription/datos",
@@ -362,7 +363,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Inscription 7 asientos",
+            "name": "D5 AWD Inscription 7 asientos",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/inscription/xc90-d5-awd-inscription2/datos",
@@ -383,7 +384,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD R-Design",
+            "name": "D5 AWD R-Design",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/r-design/xc90-d5-awd-r-design/datos",
@@ -404,7 +405,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD R-Design 7 asientos",
+            "name": "D5 AWD R-Design 7 asientos",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/r-design/xc90-d5-awd-r-design2/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "XC90 T5 AWD Momentum 7 asientos",
+            "name": "T5 AWD Momentum 7 asientos",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/momentum/xc90-t5-awd-momentum-7-asientos/datos",
@@ -446,7 +447,7 @@
             ]
         },
         {
-            "name": "XC90 T6 AWD Momentum 7 asientos",
+            "name": "T6 AWD Momentum 7 asientos",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/momentum/xc90-2015/datos",
@@ -467,7 +468,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Inscription 7 asientos",
+            "name": "D5 AWD Inscription 7 asientos",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/inscription/xc90-d5-awd-inscription-7-asientos/datos",
@@ -488,7 +489,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD R-Design 7 asientos",
+            "name": "D5 AWD R-Design 7 asientos",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/r-design/xc90-d5-awd-r-design-7-asientos/datos",
@@ -509,7 +510,7 @@
             ]
         },
         {
-            "name": "XC90 T6 AWD Momentum 7 asientos",
+            "name": "T6 AWD Momentum 7 asientos",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/momentum/xc90-t6-awd-momentum-7-asientos/datos",
@@ -530,7 +531,7 @@
             ]
         },
         {
-            "name": "XC90 T6 AWD Momentum 7 asientos",
+            "name": "T6 AWD Momentum 7 asientos",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/momentum/xc90-t6-awd-momentum-7-asientos2/datos",
@@ -551,7 +552,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD Inscription 7 asientos",
+            "name": "D5 AWD Inscription 7 asientos",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/inscription/xc90-d5-awd-inscription-7-asientos2/datos",
@@ -572,7 +573,7 @@
             ]
         },
         {
-            "name": "XC90 D5 AWD R-Design 7 asientos",
+            "name": "D5 AWD R-Design 7 asientos",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/r-design/xc90-d5-awd-r-design-7-asientos2/datos",
@@ -593,7 +594,7 @@
             ]
         },
         {
-            "name": "XC90 T5 AWD Inscription 7 asientos",
+            "name": "T5 AWD Inscription 7 asientos",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/inscription/xc90-t5-awd-inscription/datos",
@@ -614,7 +615,7 @@
             ]
         },
         {
-            "name": "XC90 T5 AWD R-Design 7 asientos",
+            "name": "T5 AWD R-Design 7 asientos",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/r-design/xc90-t5-awd-r-design/datos",
@@ -635,7 +636,7 @@
             ]
         },
         {
-            "name": "XC90 T5 AWD Inscription 7 asientos",
+            "name": "T5 AWD Inscription 7 asientos",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/inscription/xc90-t5-awd-inscription-7-asientos/datos",
@@ -656,7 +657,7 @@
             ]
         },
         {
-            "name": "XC90 T5 AWD R-Design 7 asientos",
+            "name": "T5 AWD R-Design 7 asientos",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/r-design/xc90-t5-awd-r-design-7-asientos/datos",
@@ -677,7 +678,7 @@
             ]
         },
         {
-            "name": "XC90 T6 AWD Inscription 7 asientos",
+            "name": "T6 AWD Inscription 7 asientos",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/inscription/xc90-t6-awd-inscription-7-asientos/datos",
@@ -698,7 +699,7 @@
             ]
         },
         {
-            "name": "XC90 T6 AWD R-Design 7 asientos",
+            "name": "T6 AWD R-Design 7 asientos",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/r-design/xc90-t6-awd-r-design-7-asientos/datos",
@@ -719,7 +720,7 @@
             ]
         },
         {
-            "name": "XC90 T6 AWD Inscription 7 asientos",
+            "name": "T6 AWD Inscription 7 asientos",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/inscription/xc90-t6-awd-inscription/datos",
@@ -740,7 +741,7 @@
             ]
         },
         {
-            "name": "XC90 T6 AWD R-Design 7 asientos",
+            "name": "T6 AWD R-Design 7 asientos",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/r-design/xc90-t6-awd-r-design/datos",
@@ -761,7 +762,7 @@
             ]
         },
         {
-            "name": "XC90 T6 AWD Inscription 7 asientos",
+            "name": "T6 AWD Inscription 7 asientos",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/inscription/xc90-t6-awd-inscription-7-asientos2/datos",
@@ -782,7 +783,7 @@
             ]
         },
         {
-            "name": "XC90 T6 AWD R-Design 7 asientos",
+            "name": "T6 AWD R-Design 7 asientos",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/r-design/xc90-t6-awd-r-design-7-asientos2/datos",
@@ -803,7 +804,7 @@
             ]
         },
         {
-            "name": "XC90 T8 Twin Engine AWD Momentum 7 asientos",
+            "name": "T8 Twin Engine AWD Momentum 7 asientos",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/momentum/xc90-t8-twin-engine-awd-momentum-7-asientos/datos",
@@ -827,7 +828,7 @@
             ]
         },
         {
-            "name": "XC90 T8 Twin Engine AWD Momentum 7 asientos",
+            "name": "T8 Twin Engine AWD Momentum 7 asientos",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/momentum/xc90-t8-twin-engine-awd-momentum/datos",
@@ -851,7 +852,7 @@
             ]
         },
         {
-            "name": "XC90 T8 Twin Engine AWD Inscription 7 asientos",
+            "name": "T8 Twin Engine AWD Inscription 7 asientos",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/inscription/xc90-t8-twin-engine-awd-inscription-7-asientos/datos",
@@ -875,7 +876,7 @@
             ]
         },
         {
-            "name": "XC90 T8 Twin Engine AWD R-Design 7 asientos",
+            "name": "T8 Twin Engine AWD R-Design 7 asientos",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/r-design/xc90-t8-twin-engine-awd-r-design-7-asientos/datos",
@@ -899,7 +900,7 @@
             ]
         },
         {
-            "name": "XC90 T8 Twin Engine AWD Inscription 7 asientos",
+            "name": "T8 Twin Engine AWD Inscription 7 asientos",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/inscription/xc90-t8-twin-engine-awd-inscription/datos",
@@ -923,7 +924,7 @@
             ]
         },
         {
-            "name": "XC90 T8 Twin Engine AWD R-Design 7 asientos",
+            "name": "T8 Twin Engine AWD R-Design 7 asientos",
             "start_year": "2014",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/r-design/xc90-t8-twin-engine-awd-r-design/datos",
@@ -947,7 +948,7 @@
             ]
         },
         {
-            "name": "XC90 T8 Twin Engine AWD Excellence 4 asientos",
+            "name": "T8 Twin Engine AWD Excellence 4 asientos",
             "start_year": "2018",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/excellence/xc90-t8-twin-engine-awd-excellence-4-asientos2/datos",
@@ -971,7 +972,7 @@
             ]
         },
         {
-            "name": "XC90 T8 Twin Engine AWD Excellence 4 asientos",
+            "name": "T8 Twin Engine AWD Excellence 4 asientos",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/volvo/xc90/2015/estandar/excellence/xc90-t8-twin-engine-awd-excellence-4-asientos/datos",

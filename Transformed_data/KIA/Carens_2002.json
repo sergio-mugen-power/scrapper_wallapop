@@ -1,11 +1,12 @@
 {
+    "brand": "KIA",
     "name": "Carens",
     "year": "2002",
     "url": "https://www.km77.com/coches/kia/carens/2002/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Carens 1.6 LX",
+            "name": "1.6 LX",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/kia/carens/2002/estandar/lx/carens-16-lx/datos",
@@ -16,7 +17,7 @@
             "maletero": "422"
         },
         {
-            "name": "Carens 2.0 CRDi LX",
+            "name": "2.0 CRDi LX",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/kia/carens/2002/estandar/lx/carens-20-crdi-lx/datos",
@@ -27,7 +28,7 @@
             "maletero": "422"
         },
         {
-            "name": "Carens 2.0 CRDi EX",
+            "name": "2.0 CRDi EX",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/kia/carens/2002/estandar/ex/carens-20-crdi-ex/datos",
@@ -38,7 +39,7 @@
             "maletero": "422"
         },
         {
-            "name": "Carens 2.0 CRDi EX Aut.",
+            "name": "2.0 CRDi EX Aut.",
             "start_year": "2002",
             "end_year": "2006",
             "url": "https://www.km77.com/coches/kia/carens/2002/estandar/ex/carens-20-crdi-ex-aut/datos",

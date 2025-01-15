@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "Scirocco",
     "year": "2008",
     "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Scirocco by R-Line 1.4 TSI 122 CV",
+            "name": "by R-Line 1.4 TSI 122 CV",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/by-r-line/scirocco-14-tsi-122-cv4/datos",
@@ -25,7 +26,7 @@
             ]
         },
         {
-            "name": "Scirocco 1.4 TSI 122 CV",
+            "name": "1.4 TSI 122 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-14-tsi-122-cv2/datos",
@@ -45,7 +46,7 @@
             ]
         },
         {
-            "name": "Scirocco 1.4 TSI 122 CV",
+            "name": "1.4 TSI 122 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-14-tsi-122-cv3/datos",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "name": "Scirocco Limited Edition 1.4 TSI 122 CV",
+            "name": "Limited Edition 1.4 TSI 122 CV",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/limited-edition/scirocco-limited-edition-14-tsi-122-cv/datos",
@@ -85,7 +86,7 @@
             ]
         },
         {
-            "name": "Scirocco Hurricane 1.4 TSI 122 CV",
+            "name": "Hurricane 1.4 TSI 122 CV",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/hurricane/scirocco-hurricane-14-tsi-122-cv/datos",
@@ -105,7 +106,7 @@
             ]
         },
         {
-            "name": "Scirocco Hurricane 1.4 TSI 122 CV",
+            "name": "Hurricane 1.4 TSI 122 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/hurricane/scirocco-hurricane-14-tsi-122-cv2/datos",
@@ -125,7 +126,7 @@
             ]
         },
         {
-            "name": "Scirocco 1.4 TSI 160 CV",
+            "name": "1.4 TSI 160 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-14-tsi-160-cv2/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "Scirocco 1.4 TSI 122 CV",
+            "name": "1.4 TSI 122 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-14-tsi-122-cv/datos",
@@ -165,7 +166,7 @@
             ]
         },
         {
-            "name": "Scirocco by R-Line 1.4 TSI 160 CV",
+            "name": "by R-Line 1.4 TSI 160 CV",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/by-r-line/scirocco-14-tsi-160-cv-by-r-line/datos",
@@ -185,7 +186,7 @@
             ]
         },
         {
-            "name": "Scirocco 1.4 TSI 160 CV",
+            "name": "1.4 TSI 160 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-14-tsi-160-cv3/datos",
@@ -205,7 +206,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TDI 140 CV BlueMotion Technology",
+            "name": "2.0 TDI 140 CV BlueMotion Technology",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-20-tdi-140-cv-bluemotion-technology/datos",
@@ -225,7 +226,7 @@
             ]
         },
         {
-            "name": "Scirocco 1.4 TSI 160 CV DSG 7 vel.",
+            "name": "1.4 TSI 160 CV DSG 7 vel.",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-14-tsi-160-cv-dsg-7-vel2/datos",
@@ -245,7 +246,7 @@
             ]
         },
         {
-            "name": "Scirocco by R-Line 1.4 TSI 160 CV DSG 7 vel.",
+            "name": "by R-Line 1.4 TSI 160 CV DSG 7 vel.",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/by-r-line/scirocco-14-tsi-160-cv-dsg-7-vel-by-r-line/datos",
@@ -265,7 +266,7 @@
             ]
         },
         {
-            "name": "Scirocco by R-Line 2.0 TDI 140 CV BlueMotion Technology",
+            "name": "by R-Line 2.0 TDI 140 CV BlueMotion Technology",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/by-r-line/scirocco-by-r-line-20-tdi-140-cv-bluemotion-technology/datos",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TDI 140 CV BlueMotion Technology",
+            "name": "2.0 TDI 140 CV BlueMotion Technology",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-20-tdi-140-cv-bluemotion-technology2/datos",
@@ -305,7 +306,7 @@
             ]
         },
         {
-            "name": "Scirocco 1.4 TSI 160 CV DSG 7 vel.",
+            "name": "1.4 TSI 160 CV DSG 7 vel.",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-14-tsi-160-cv-dsg-7-vel3/datos",
@@ -325,7 +326,7 @@
             ]
         },
         {
-            "name": "Scirocco GTS 1.4 TSI 160 CV",
+            "name": "GTS 1.4 TSI 160 CV",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/gts/scirocco-gts-14-tsi-160-cv/datos",
@@ -345,7 +346,7 @@
             ]
         },
         {
-            "name": "Scirocco 1.4 TSI 160 CV",
+            "name": "1.4 TSI 160 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-14-tsi-160-cv/datos",
@@ -365,7 +366,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TDI 140 CV DSG 6 vel.",
+            "name": "2.0 TDI 140 CV DSG 6 vel.",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-20-tdi-140-cv-dsg2/datos",
@@ -385,7 +386,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TDI 170 CV",
+            "name": "2.0 TDI 170 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-20-tdi-170-cv2/datos",
@@ -405,7 +406,7 @@
             ]
         },
         {
-            "name": "Scirocco Hurricane 2.0 TDI 140 CV BlueMotion Technology",
+            "name": "Hurricane 2.0 TDI 140 CV BlueMotion Technology",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/hurricane/scirocco-hurricane-20-tdi-140-cv-bluemotion-technology/datos",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "name": "Scirocco by R-Line 2.0 TDI 140 CV DSG",
+            "name": "by R-Line 2.0 TDI 140 CV DSG",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/by-r-line/scirocco-by-r-line-20-tdi-140-cv-dsg-6-vel/datos",
@@ -445,7 +446,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TSI 210 CV",
+            "name": "2.0 TSI 210 CV",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-20-tsi-210-cv3/datos",
@@ -465,7 +466,7 @@
             ]
         },
         {
-            "name": "Scirocco by R-Line 2.0 TDI 177 CV",
+            "name": "by R-Line 2.0 TDI 177 CV",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/by-r-line/scirocco-by-r-line-20-tdi-177-cv/datos",
@@ -485,7 +486,7 @@
             ]
         },
         {
-            "name": "Scirocco by R-Line 2.0 TSI 210 CV",
+            "name": "by R-Line 2.0 TSI 210 CV",
             "start_year": "2013",
             "end_year": "2014",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/by-r-line/scirocco-20-tsi-210-cv-by-r-line/datos",
@@ -505,7 +506,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TDI 140 CV DSG 6 vel.",
+            "name": "2.0 TDI 140 CV DSG 6 vel.",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-20-tdi-140-cv-dsg-6-vel/datos",
@@ -525,7 +526,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TDI 170 CV",
+            "name": "2.0 TDI 170 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-20-tdi-170-cv3/datos",
@@ -545,7 +546,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TDI 140 CV",
+            "name": "2.0 TDI 140 CV",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-20-tdi-140-cv/datos",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "name": "Scirocco Hurricane 2.0 TDI 140 CV BlueMotion Technology",
+            "name": "Hurricane 2.0 TDI 140 CV BlueMotion Technology",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/hurricane/scirocco-hurricane-20-tdi-140-cv-bluemotion-technology2/datos",
@@ -585,7 +586,7 @@
             ]
         },
         {
-            "name": "Scirocco 1.4 TSI 160 CV DSG 7 vel.",
+            "name": "1.4 TSI 160 CV DSG 7 vel.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-14-tsi-160-cv-dsg-7-vel/datos",
@@ -605,7 +606,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TSI 210 CV",
+            "name": "2.0 TSI 210 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-20-tsi-210-cv4/datos",
@@ -625,7 +626,7 @@
             ]
         },
         {
-            "name": "Scirocco Limited Edition 2.0 TDI 140 CV DSG",
+            "name": "Limited Edition 2.0 TDI 140 CV DSG",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/limited-edition/scirocco-limited-edition-20-tdi-140-cv-dsg/datos",
@@ -645,7 +646,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TDI 140 CV",
+            "name": "2.0 TDI 140 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-20-tdi-140-cv2/datos",
@@ -665,7 +666,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TDI 170 CV DSG 6 vel.",
+            "name": "2.0 TDI 170 CV DSG 6 vel.",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-20-tdi-170-cv-dsg2/datos",
@@ -685,7 +686,7 @@
             ]
         },
         {
-            "name": "Scirocco Hurricane 2.0 TDI 140 CV DSG 6 vel.",
+            "name": "Hurricane 2.0 TDI 140 CV DSG 6 vel.",
             "start_year": "2012",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/hurricane/scirocco-hurricane-20-tdi-140-cv-dsg-6-vel/datos",
@@ -705,7 +706,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TSI 210 CV DSG 6 vel.",
+            "name": "2.0 TSI 210 CV DSG 6 vel.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-20-tsi-210-cv-dsg3/datos",
@@ -725,7 +726,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TSI 200 CV",
+            "name": "2.0 TSI 200 CV",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-20-tsi-200-cv/datos",
@@ -745,7 +746,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TDI 140 CV DSG",
+            "name": "2.0 TDI 140 CV DSG",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-20-tdi-140-cv-dsg/datos",
@@ -765,7 +766,7 @@
             ]
         },
         {
-            "name": "Scirocco Limited Edition 2.0 TDI 140 CV BlueMotion Technology",
+            "name": "Limited Edition 2.0 TDI 140 CV BlueMotion Technology",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/limited-edition/scirocco-limited-edition-20-tdi-140-cv-bluemotion-technology/datos",
@@ -785,7 +786,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TDI 170 CV",
+            "name": "2.0 TDI 170 CV",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-20-tdi-170-cv/datos",
@@ -805,7 +806,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TDI 170 CV DSG 6 vel.",
+            "name": "2.0 TDI 170 CV DSG 6 vel.",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-20-tdi-170-cv-dsg-6-vel/datos",
@@ -825,7 +826,7 @@
             ]
         },
         {
-            "name": "Scirocco Hurricane 2.0 TDI 140 CV DSG 6 vel.",
+            "name": "Hurricane 2.0 TDI 140 CV DSG 6 vel.",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/hurricane/scirocco-hurricane-20-tdi-140-cv-dsg-6-vel2/datos",
@@ -845,7 +846,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TSI 210 CV DSG 6 vel.",
+            "name": "2.0 TSI 210 CV DSG 6 vel.",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-20-tsi-210-cv-dsg-6-vel/datos",
@@ -865,7 +866,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TSI 210 CV",
+            "name": "2.0 TSI 210 CV",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-20-tsi-210-cv/datos",
@@ -885,7 +886,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TSI 210 CV",
+            "name": "2.0 TSI 210 CV",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-20-tsi-210-cv2/datos",
@@ -905,7 +906,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TSI 200 CV DSG",
+            "name": "2.0 TSI 200 CV DSG",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-20-tsi-200-cv-dsg/datos",
@@ -925,7 +926,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TDI 170 CV DSG",
+            "name": "2.0 TDI 170 CV DSG",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-20-tdi-170-cv-dsg/datos",
@@ -945,7 +946,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TSI 210 CV DSG",
+            "name": "2.0 TSI 210 CV DSG",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-20-tsi-210-cv-dsg/datos",
@@ -965,7 +966,7 @@
             ]
         },
         {
-            "name": "Scirocco R 2.0 TSI 265 CV",
+            "name": "R 2.0 TSI 265 CV",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/r/scirocco-r-20-tsi-265-cv2/datos",
@@ -985,7 +986,7 @@
             ]
         },
         {
-            "name": "Scirocco 2.0 TSI 210 CV DSG",
+            "name": "2.0 TSI 210 CV DSG",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/estandar/scirocco-20-tsi-210-cv-dsg2/datos",
@@ -1005,7 +1006,7 @@
             ]
         },
         {
-            "name": "Scirocco R 2.0 TSI 265 CV",
+            "name": "R 2.0 TSI 265 CV",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/r/scirocco-r-20-tsi-265-cv3/datos",
@@ -1025,7 +1026,7 @@
             ]
         },
         {
-            "name": "Scirocco R 2.0 TSI 265 CV DSG",
+            "name": "R 2.0 TSI 265 CV DSG",
             "start_year": "2010",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/r/scirocco-r-20-tsi-265-cv-dsg2/datos",
@@ -1045,7 +1046,7 @@
             ]
         },
         {
-            "name": "Scirocco R 2.0 TSI 265 CV",
+            "name": "R 2.0 TSI 265 CV",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/r/scirocco-r-20-tsi-265-cv/datos",
@@ -1065,7 +1066,7 @@
             ]
         },
         {
-            "name": "Scirocco R 2.0 TSI 265 CV DSG",
+            "name": "R 2.0 TSI 265 CV DSG",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/r/scirocco-r-20-tsi-265-cv-dsg/datos",
@@ -1085,7 +1086,7 @@
             ]
         },
         {
-            "name": "Scirocco R 2.0 TSI 265 CV DSG",
+            "name": "R 2.0 TSI 265 CV DSG",
             "start_year": "2012",
             "end_year": "2013",
             "url": "https://www.km77.com/coches/volkswagen/scirocco/2008/estandar/r/scirocco-r-20-tsi-265-cv-dsg3/datos",

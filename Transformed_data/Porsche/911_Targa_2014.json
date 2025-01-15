@@ -1,11 +1,12 @@
 {
+    "brand": "Porsche",
     "name": "911 Targa",
     "year": "2014",
     "url": "https://www.km77.com/coches/porsche/911/2014/targa",
     "price": "Desde 223.486 €",
     "versions": [
         {
-            "name": "911 Targa 4",
+            "name": "4",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/porsche/911/2014/targa/4/911-targa-4/datos",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "name": "911 Targa 4 PDK",
+            "name": "4 PDK",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/porsche/911/2014/targa/4/911-targa-4-pdk/datos",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "name": "911 Targa 4S",
+            "name": "4S",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/porsche/911/2014/targa/4s/911-targa-4s/datos",
@@ -89,7 +90,7 @@
             ]
         },
         {
-            "name": "911 Targa 4S PDK",
+            "name": "4S PDK",
             "start_year": "2014",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/porsche/911/2014/targa/4s/911-targa-4s-pdk/datos",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "name": "911 Targa 4 GTS",
+            "name": "4 GTS",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/porsche/911/2014/targa/4-gts/911-targa-4-gts/datos",
@@ -145,7 +146,7 @@
             ]
         },
         {
-            "name": "911 Targa 4 GTS PDK",
+            "name": "4 GTS PDK",
             "start_year": "2015",
             "end_year": "2015",
             "url": "https://www.km77.com/coches/porsche/911/2014/targa/4-gts/911-targa-4-gts-pdk/datos",

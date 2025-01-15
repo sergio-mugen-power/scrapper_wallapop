@@ -1,11 +1,12 @@
 {
+    "brand": "Volvo",
     "name": "S40",
     "year": "2007",
     "url": "https://www.km77.com/coches/volvo/s40/2007/estandar",
     "price": "",
     "versions": [
         {
-            "name": "S40 1.6 Kinetic",
+            "name": "1.6 Kinetic",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-16-kinetic/datos",
@@ -95,7 +96,7 @@
             ]
         },
         {
-            "name": "S40 Kinetic 1.6",
+            "name": "Kinetic 1.6",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-kinetic-16/datos",
@@ -187,7 +188,7 @@
             ]
         },
         {
-            "name": "S40 Kinetic 1.6",
+            "name": "Kinetic 1.6",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-kinetic-162/datos",
@@ -278,7 +279,7 @@
             ]
         },
         {
-            "name": "S40 1.8 Kinetic",
+            "name": "1.8 Kinetic",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-18-kinetic/datos",
@@ -368,7 +369,7 @@
             ]
         },
         {
-            "name": "S40 Momentum 1.6",
+            "name": "Momentum 1.6",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-momentum-16/datos",
@@ -460,7 +461,7 @@
             ]
         },
         {
-            "name": "S40 1.6 Momentum",
+            "name": "1.6 Momentum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-16-momentum/datos",
@@ -550,7 +551,7 @@
             ]
         },
         {
-            "name": "S40 Kinetic 1.8F",
+            "name": "Kinetic 1.8F",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-kinetic-18f/datos",
@@ -640,7 +641,7 @@
             ]
         },
         {
-            "name": "S40 Momentum 1.6",
+            "name": "Momentum 1.6",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-momentum-162/datos",
@@ -731,7 +732,7 @@
             ]
         },
         {
-            "name": "S40 1.6D DRIVe Kinetic",
+            "name": "1.6D DRIVe Kinetic",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-16d-drive-kinetic/datos",
@@ -822,7 +823,7 @@
             ]
         },
         {
-            "name": "S40 1.8 Flexifuel Kinetic",
+            "name": "1.8 Flexifuel Kinetic",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-18-flexifuel-kinetic/datos",
@@ -910,7 +911,7 @@
             ]
         },
         {
-            "name": "S40 1.6 D Kinetic",
+            "name": "1.6 D Kinetic",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-16-d-kinetic/datos",
@@ -1000,7 +1001,7 @@
             ]
         },
         {
-            "name": "S40 Kinetic 2.0",
+            "name": "Kinetic 2.0",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-kinetic-20/datos",
@@ -1092,7 +1093,7 @@
             ]
         },
         {
-            "name": "S40 Kinetic 1.6D DRIVe Start/Stop",
+            "name": "Kinetic 1.6D DRIVe Start/Stop",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-kinetic-16d-drive-startstop/datos",
@@ -1183,7 +1184,7 @@
             ]
         },
         {
-            "name": "S40 1.6D Kinetic",
+            "name": "1.6D Kinetic",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-16d-kinetic/datos",
@@ -1275,7 +1276,7 @@
             ]
         },
         {
-            "name": "S40 2.0 Kinetic",
+            "name": "2.0 Kinetic",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-20-kinetic/datos",
@@ -1365,7 +1366,7 @@
             ]
         },
         {
-            "name": "S40 Kinetic 2.0F",
+            "name": "Kinetic 2.0F",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-kinetic-20f/datos",
@@ -1456,7 +1457,7 @@
             ]
         },
         {
-            "name": "S40 R-Design 1.6",
+            "name": "R-Design 1.6",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/r-design/s40-r-design-16/datos",
@@ -1547,7 +1548,7 @@
             ]
         },
         {
-            "name": "S40 Kinetic DRIVe",
+            "name": "Kinetic DRIVe",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-kinetic-drive/datos",
@@ -1638,7 +1639,7 @@
             ]
         },
         {
-            "name": "S40 Kinetic 2.0F",
+            "name": "Kinetic 2.0F",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-kinetic-20f2/datos",
@@ -1729,7 +1730,7 @@
             ]
         },
         {
-            "name": "S40 Kinetic 2.0F",
+            "name": "Kinetic 2.0F",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-kinetic-20f3/datos",
@@ -1821,7 +1822,7 @@
             ]
         },
         {
-            "name": "S40 Kinetic DRIVe",
+            "name": "Kinetic DRIVe",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-kinetic-drive3/datos",
@@ -1913,7 +1914,7 @@
             ]
         },
         {
-            "name": "S40 Kinetic DRIVe",
+            "name": "Kinetic DRIVe",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-kinetic-drive2/datos",
@@ -2004,7 +2005,7 @@
             ]
         },
         {
-            "name": "S40 Momentum 1.8F",
+            "name": "Momentum 1.8F",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-momentum-18f/datos",
@@ -2094,7 +2095,7 @@
             ]
         },
         {
-            "name": "S40 1.6D DRIVe Momentum",
+            "name": "1.6D DRIVe Momentum",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-16d-drive-momentum/datos",
@@ -2185,7 +2186,7 @@
             ]
         },
         {
-            "name": "S40 1.8 Momentum",
+            "name": "1.8 Momentum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-18-momentum/datos",
@@ -2275,7 +2276,7 @@
             ]
         },
         {
-            "name": "S40 2.0 D Kinetic",
+            "name": "2.0 D Kinetic",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-20-d-kinetic/datos",
@@ -2365,7 +2366,7 @@
             ]
         },
         {
-            "name": "S40 Kinetic 2.0D",
+            "name": "Kinetic 2.0D",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-kinetic-20d/datos",
@@ -2457,7 +2458,7 @@
             ]
         },
         {
-            "name": "S40 Summum 1.6",
+            "name": "Summum 1.6",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-summum-16/datos",
@@ -2548,7 +2549,7 @@
             ]
         },
         {
-            "name": "S40 1.8 Flexifuel Momentum",
+            "name": "1.8 Flexifuel Momentum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-18-flexifuel-momentum/datos",
@@ -2636,7 +2637,7 @@
             ]
         },
         {
-            "name": "S40 Kinetic D3 Aut.",
+            "name": "Kinetic D3 Aut.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-kinetic-d3-aut/datos",
@@ -2726,7 +2727,7 @@
             ]
         },
         {
-            "name": "S40 Momentum 1.6D DRIVe Start/Stop",
+            "name": "Momentum 1.6D DRIVe Start/Stop",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-momentum-16d-drive-startstop/datos",
@@ -2817,7 +2818,7 @@
             ]
         },
         {
-            "name": "S40 Momentum 2.0",
+            "name": "Momentum 2.0",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-momentum-20/datos",
@@ -2909,7 +2910,7 @@
             ]
         },
         {
-            "name": "S40 1.6 D Momentum",
+            "name": "1.6 D Momentum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-16-d-momentum/datos",
@@ -2999,7 +3000,7 @@
             ]
         },
         {
-            "name": "S40 2.4 140 CV Kinetic Aut.",
+            "name": "2.4 140 CV Kinetic Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-24-140-cv-kinetic-aut/datos",
@@ -3089,7 +3090,7 @@
             ]
         },
         {
-            "name": "S40 1.6D Momentum",
+            "name": "1.6D Momentum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-16d-momentum/datos",
@@ -3181,7 +3182,7 @@
             ]
         },
         {
-            "name": "S40 Momentum 2.0F",
+            "name": "Momentum 2.0F",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-momentum-20f/datos",
@@ -3272,7 +3273,7 @@
             ]
         },
         {
-            "name": "S40 Momentum DRIVe",
+            "name": "Momentum DRIVe",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-momentum-drive/datos",
@@ -3363,7 +3364,7 @@
             ]
         },
         {
-            "name": "S40 2.0 Momentum",
+            "name": "2.0 Momentum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-20-momentum/datos",
@@ -3453,7 +3454,7 @@
             ]
         },
         {
-            "name": "S40 Business Edition DRIVe",
+            "name": "Business Edition DRIVe",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/business-edition/s40-business-edition-drive/datos",
@@ -3545,7 +3546,7 @@
             ]
         },
         {
-            "name": "S40 Kinetic D3",
+            "name": "Kinetic D3",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-kinetic-d3/datos",
@@ -3637,7 +3638,7 @@
             ]
         },
         {
-            "name": "S40 Momentum DRIVe",
+            "name": "Momentum DRIVe",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-momentum-drive2/datos",
@@ -3728,7 +3729,7 @@
             ]
         },
         {
-            "name": "S40 Business Edition 2.0F",
+            "name": "Business Edition 2.0F",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/business-edition/s40-business-edition-20f/datos",
@@ -3820,7 +3821,7 @@
             ]
         },
         {
-            "name": "S40 Momentum 2.0F",
+            "name": "Momentum 2.0F",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-momentum-20f2/datos",
@@ -3911,7 +3912,7 @@
             ]
         },
         {
-            "name": "S40 2.4 140 CV Kinetic Aut.",
+            "name": "2.4 140 CV Kinetic Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-24-140-cv-kinetic-aut2/datos",
@@ -4003,7 +4004,7 @@
             ]
         },
         {
-            "name": "S40 2.4i 170 CV Kinetic",
+            "name": "2.4i 170 CV Kinetic",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-24i-170-cv-kinetic/datos",
@@ -4093,7 +4094,7 @@
             ]
         },
         {
-            "name": "S40 Summum 1.8F",
+            "name": "Summum 1.8F",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-summum-18f/datos",
@@ -4183,7 +4184,7 @@
             ]
         },
         {
-            "name": "S40 2.4i 170 CV Kinetic",
+            "name": "2.4i 170 CV Kinetic",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-24i-170-cv-kinetic2/datos",
@@ -4275,7 +4276,7 @@
             ]
         },
         {
-            "name": "S40 R-Design 1.8F",
+            "name": "R-Design 1.8F",
             "start_year": "2009",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/r-design/s40-r-design-18f/datos",
@@ -4365,7 +4366,7 @@
             ]
         },
         {
-            "name": "S40 Momentum 2.0D",
+            "name": "Momentum 2.0D",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-momentum-20d/datos",
@@ -4457,7 +4458,7 @@
             ]
         },
         {
-            "name": "S40 Kinetic 2.0D Powershift",
+            "name": "Kinetic 2.0D Powershift",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-kinetic-20d-powershift/datos",
@@ -4547,7 +4548,7 @@
             ]
         },
         {
-            "name": "S40 Kinetic D4",
+            "name": "Kinetic D4",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-kinetic-d42/datos",
@@ -4639,7 +4640,7 @@
             ]
         },
         {
-            "name": "S40 Kinetic D4",
+            "name": "Kinetic D4",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-kinetic-d4/datos",
@@ -4730,7 +4731,7 @@
             ]
         },
         {
-            "name": "S40 2.0 D Momentum",
+            "name": "2.0 D Momentum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-20-d-momentum/datos",
@@ -4820,7 +4821,7 @@
             ]
         },
         {
-            "name": "S40 1.8 Summum",
+            "name": "1.8 Summum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-18-summum/datos",
@@ -4910,7 +4911,7 @@
             ]
         },
         {
-            "name": "S40 Summum 2.0",
+            "name": "Summum 2.0",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-summum-20/datos",
@@ -5002,7 +5003,7 @@
             ]
         },
         {
-            "name": "S40 R-Design 2.0F",
+            "name": "R-Design 2.0F",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/r-design/s40-r-design-20f2/datos",
@@ -5093,7 +5094,7 @@
             ]
         },
         {
-            "name": "S40 Business Edition D3",
+            "name": "Business Edition D3",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/business-edition/s40-business-edition-d3/datos",
@@ -5185,7 +5186,7 @@
             ]
         },
         {
-            "name": "S40 Business Pro Edition DRIVe",
+            "name": "Business Pro Edition DRIVe",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/business-pro-edition/s40-business-pro-edition-drive/datos",
@@ -5277,7 +5278,7 @@
             ]
         },
         {
-            "name": "S40 2.4 140 CV Momentum Aut.",
+            "name": "2.4 140 CV Momentum Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-24-140-cv-momentum-aut/datos",
@@ -5367,7 +5368,7 @@
             ]
         },
         {
-            "name": "S40 1.8 Flexifuel Summum",
+            "name": "1.8 Flexifuel Summum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-18-flexifuel-summum/datos",
@@ -5455,7 +5456,7 @@
             ]
         },
         {
-            "name": "S40 Summum DRIVe",
+            "name": "Summum DRIVe",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-summum-drive/datos",
@@ -5546,7 +5547,7 @@
             ]
         },
         {
-            "name": "S40 Summum 2.0F",
+            "name": "Summum 2.0F",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-summum-20f/datos",
@@ -5637,7 +5638,7 @@
             ]
         },
         {
-            "name": "S40 Business Pro Edition 2.0F",
+            "name": "Business Pro Edition 2.0F",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/business-pro-edition/s40-business-pro-edition-20f/datos",
@@ -5729,7 +5730,7 @@
             ]
         },
         {
-            "name": "S40 R-Design 2.0F",
+            "name": "R-Design 2.0F",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/r-design/s40-r-design-20f/datos",
@@ -5820,7 +5821,7 @@
             ]
         },
         {
-            "name": "S40 2.4 140 CV Momentum Aut.",
+            "name": "2.4 140 CV Momentum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-24-140-cv-momentum-aut2/datos",
@@ -5912,7 +5913,7 @@
             ]
         },
         {
-            "name": "S40 Summum DRIVe",
+            "name": "Summum DRIVe",
             "start_year": "2011",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-summum-drive2/datos",
@@ -6003,7 +6004,7 @@
             ]
         },
         {
-            "name": "S40 Summum 2.0F",
+            "name": "Summum 2.0F",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-summum-20f2/datos",
@@ -6094,7 +6095,7 @@
             ]
         },
         {
-            "name": "S40 2.4i 170 CV Kinetic Aut.",
+            "name": "2.4i 170 CV Kinetic Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-24i-170-cv-kinetic-aut/datos",
@@ -6183,7 +6184,7 @@
             ]
         },
         {
-            "name": "S40 2.0 Summum",
+            "name": "2.0 Summum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-20-summum/datos",
@@ -6273,7 +6274,7 @@
             ]
         },
         {
-            "name": "S40 Business Edition D4",
+            "name": "Business Edition D4",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/business-edition/s40-business-edition-d4/datos",
@@ -6365,7 +6366,7 @@
             ]
         },
         {
-            "name": "S40 2.4i 170 CV Momentum",
+            "name": "2.4i 170 CV Momentum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-24i-170-cv-momentum2/datos",
@@ -6457,7 +6458,7 @@
             ]
         },
         {
-            "name": "S40 Momentum 2.0D Powershift",
+            "name": "Momentum 2.0D Powershift",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-momentum-20d-powershift/datos",
@@ -6548,7 +6549,7 @@
             ]
         },
         {
-            "name": "S40 Momentum D4",
+            "name": "Momentum D4",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-momentum-d4/datos",
@@ -6639,7 +6640,7 @@
             ]
         },
         {
-            "name": "S40 2.4i 170 CV Kinetic Aut.",
+            "name": "2.4i 170 CV Kinetic Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-24i-170-cv-kinetic-aut2/datos",
@@ -6730,7 +6731,7 @@
             ]
         },
         {
-            "name": "S40 Kinetic D4 Aut.",
+            "name": "Kinetic D4 Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-kinetic-d4-aut/datos",
@@ -6821,7 +6822,7 @@
             ]
         },
         {
-            "name": "S40 2.4i 170 CV Momentum",
+            "name": "2.4i 170 CV Momentum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-24i-170-cv-momentum/datos",
@@ -6911,7 +6912,7 @@
             ]
         },
         {
-            "name": "S40 Kinetic D4 Aut.",
+            "name": "Kinetic D4 Aut.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/kinetic/s40-kinetic-d4-aut2/datos",
@@ -7002,7 +7003,7 @@
             ]
         },
         {
-            "name": "S40 Summum 2.0D",
+            "name": "Summum 2.0D",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-summum-20d/datos",
@@ -7094,7 +7095,7 @@
             ]
         },
         {
-            "name": "S40 R-DESIGN 2.0F",
+            "name": "R-DESIGN 2.0F",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/r-design/s40-r-design-20f3/datos",
@@ -7186,7 +7187,7 @@
             ]
         },
         {
-            "name": "S40 R-Design 2.0D",
+            "name": "R-Design 2.0D",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/r-design/s40-r-design-20d/datos",
@@ -7278,7 +7279,7 @@
             ]
         },
         {
-            "name": "S40 Business Edition T5",
+            "name": "Business Edition T5",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/business-edition/s40-business-edition-t5/datos",
@@ -7370,7 +7371,7 @@
             ]
         },
         {
-            "name": "S40 Business Pro Edition D3",
+            "name": "Business Pro Edition D3",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/business-pro-edition/s40-business-pro-edition-d3/datos",
@@ -7462,7 +7463,7 @@
             ]
         },
         {
-            "name": "S40 Momentum T5",
+            "name": "Momentum T5",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-momentum-t5/datos",
@@ -7553,7 +7554,7 @@
             ]
         },
         {
-            "name": "S40 Momentum D5",
+            "name": "Momentum D5",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-momentum-d5/datos",
@@ -7644,7 +7645,7 @@
             ]
         },
         {
-            "name": "S40 Business Edition D3 Aut.",
+            "name": "Business Edition D3 Aut.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/business-edition/s40-business-edition-d3-aut/datos",
@@ -7735,7 +7736,7 @@
             ]
         },
         {
-            "name": "S40 2.0 D Summum",
+            "name": "2.0 D Summum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-20-d-summum/datos",
@@ -7825,7 +7826,7 @@
             ]
         },
         {
-            "name": "S40 R-Design D4",
+            "name": "R-Design D4",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/r-design/s40-r-design-d4/datos",
@@ -7916,7 +7917,7 @@
             ]
         },
         {
-            "name": "S40 Business Pro Edition D4",
+            "name": "Business Pro Edition D4",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/business-pro-edition/s40-business-pro-edition-d4/datos",
@@ -8008,7 +8009,7 @@
             ]
         },
         {
-            "name": "S40 2.4 140 CV Summum Aut.",
+            "name": "2.4 140 CV Summum Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-24-140-cv-summum-aut/datos",
@@ -8098,7 +8099,7 @@
             ]
         },
         {
-            "name": "S40 Business Edition D4 Aut.",
+            "name": "Business Edition D4 Aut.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/business-edition/s40-business-edition-d4-aut/datos",
@@ -8189,7 +8190,7 @@
             ]
         },
         {
-            "name": "S40 Momentum D4 Aut.",
+            "name": "Momentum D4 Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-momentum-d4-aut/datos",
@@ -8280,7 +8281,7 @@
             ]
         },
         {
-            "name": "S40 2.4i 170 CV Momentum Aut.",
+            "name": "2.4i 170 CV Momentum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-24i-170-cv-momentum-aut2/datos",
@@ -8371,7 +8372,7 @@
             ]
         },
         {
-            "name": "S40 2.4i 170 CV Momentum Aut.",
+            "name": "2.4i 170 CV Momentum Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-24i-170-cv-momentum-aut/datos",
@@ -8460,7 +8461,7 @@
             ]
         },
         {
-            "name": "S40 R-Design T5",
+            "name": "R-Design T5",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/r-design/s40-r-design-t5/datos",
@@ -8551,7 +8552,7 @@
             ]
         },
         {
-            "name": "S40 Summum 2.0D Powershift",
+            "name": "Summum 2.0D Powershift",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-summum-20d-powershift/datos",
@@ -8642,7 +8643,7 @@
             ]
         },
         {
-            "name": "S40 2.4 140 CV Summum Aut.",
+            "name": "2.4 140 CV Summum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-24-140-cv-summum-aut2/datos",
@@ -8734,7 +8735,7 @@
             ]
         },
         {
-            "name": "S40 R-Design 2.0D Powershift",
+            "name": "R-Design 2.0D Powershift",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/r-design/s40-r-design-20d-powershift/datos",
@@ -8825,7 +8826,7 @@
             ]
         },
         {
-            "name": "S40 Summum D4",
+            "name": "Summum D4",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-summum-d4/datos",
@@ -8916,7 +8917,7 @@
             ]
         },
         {
-            "name": "S40 Business Pro Edition T5",
+            "name": "Business Pro Edition T5",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/business-pro-edition/s40-business-pro-edition-t5/datos",
@@ -9008,7 +9009,7 @@
             ]
         },
         {
-            "name": "S40 D5 Momentum Aut.",
+            "name": "D5 Momentum Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-d5-momentum-aut/datos",
@@ -9098,7 +9099,7 @@
             ]
         },
         {
-            "name": "S40 2.4i 170 CV Summum",
+            "name": "2.4i 170 CV Summum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-24i-170-cv-summum2/datos",
@@ -9190,7 +9191,7 @@
             ]
         },
         {
-            "name": "S40 R-DESIGN D3",
+            "name": "R-DESIGN D3",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/r-design/s40-business-r-design-d3/datos",
@@ -9282,7 +9283,7 @@
             ]
         },
         {
-            "name": "S40 R-DESIGN D4",
+            "name": "R-DESIGN D4",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/r-design/s40-r-design-d42/datos",
@@ -9374,7 +9375,7 @@
             ]
         },
         {
-            "name": "S40 Business Pro Edition D3 Aut.",
+            "name": "Business Pro Edition D3 Aut.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/business-pro-edition/s40-business-pro-edition-d3-aut/datos",
@@ -9465,7 +9466,7 @@
             ]
         },
         {
-            "name": "S40 Momentum D5 Aut.",
+            "name": "Momentum D5 Aut.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-momentum-d5-aut/datos",
@@ -9557,7 +9558,7 @@
             ]
         },
         {
-            "name": "S40 2.4i 170 CV Summum",
+            "name": "2.4i 170 CV Summum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-24i-170-cv-summum/datos",
@@ -9647,7 +9648,7 @@
             ]
         },
         {
-            "name": "S40 R-Design D4 Aut.",
+            "name": "R-Design D4 Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/r-design/s40-r-design-d4-aut/datos",
@@ -9738,7 +9739,7 @@
             ]
         },
         {
-            "name": "S40 Summum D5",
+            "name": "Summum D5",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-summum-d5/datos",
@@ -9829,7 +9830,7 @@
             ]
         },
         {
-            "name": "S40 Summum T5",
+            "name": "Summum T5",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-summum-t5/datos",
@@ -9920,7 +9921,7 @@
             ]
         },
         {
-            "name": "S40 R-Design D5",
+            "name": "R-Design D5",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/r-design/s40-r-design-d5/datos",
@@ -10011,7 +10012,7 @@
             ]
         },
         {
-            "name": "S40 R-DESIGN T5",
+            "name": "R-DESIGN T5",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/r-design/s40-r-design-t52/datos",
@@ -10103,7 +10104,7 @@
             ]
         },
         {
-            "name": "S40 Business Pro Edition D4 Aut.",
+            "name": "Business Pro Edition D4 Aut.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/business-pro-edition/s40-business-pro-edition-d4-aut/datos",
@@ -10194,7 +10195,7 @@
             ]
         },
         {
-            "name": "S40 R-DESIGN D3 Aut.",
+            "name": "R-DESIGN D3 Aut.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/r-design/s40-r-design-d3-aut/datos",
@@ -10285,7 +10286,7 @@
             ]
         },
         {
-            "name": "S40 T5 Momentum",
+            "name": "T5 Momentum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-t5-momentum/datos",
@@ -10377,7 +10378,7 @@
             ]
         },
         {
-            "name": "S40 Summum D4 Aut.",
+            "name": "Summum D4 Aut.",
             "start_year": "2010",
             "end_year": "2011",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-summum-d4-aut/datos",
@@ -10468,7 +10469,7 @@
             ]
         },
         {
-            "name": "S40 2.4i 170 CV Summum Aut.",
+            "name": "2.4i 170 CV Summum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-24i-170-cv-summum-aut2/datos",
@@ -10559,7 +10560,7 @@
             ]
         },
         {
-            "name": "S40 R-DESIGN D4 Aut.",
+            "name": "R-DESIGN D4 Aut.",
             "start_year": "2011",
             "end_year": "2012",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/r-design/s40-r-design-d4-aut2/datos",
@@ -10650,7 +10651,7 @@
             ]
         },
         {
-            "name": "S40 2.4i 170 CV Summum Aut.",
+            "name": "2.4i 170 CV Summum Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-24i-170-cv-summum-aut/datos",
@@ -10739,7 +10740,7 @@
             ]
         },
         {
-            "name": "S40 T5 Momentum",
+            "name": "T5 Momentum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-t5-momentum2/datos",
@@ -10833,7 +10834,7 @@
             ]
         },
         {
-            "name": "S40 Summum D5 Aut.",
+            "name": "Summum D5 Aut.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-summum-d5-aut/datos",
@@ -10925,7 +10926,7 @@
             ]
         },
         {
-            "name": "S40 Summum T5 AWD",
+            "name": "Summum T5 AWD",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-summum-t5-awd/datos",
@@ -11019,7 +11020,7 @@
             ]
         },
         {
-            "name": "S40 R-Design D5 Aut.",
+            "name": "R-Design D5 Aut.",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/r-design/s40-r-design-d5-aut/datos",
@@ -11111,7 +11112,7 @@
             ]
         },
         {
-            "name": "S40 D5 Summum Aut.",
+            "name": "D5 Summum Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-d5-summum-aut/datos",
@@ -11201,7 +11202,7 @@
             ]
         },
         {
-            "name": "S40 T5 Momentum Aut.",
+            "name": "T5 Momentum Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-t5-momentum-aut/datos",
@@ -11292,7 +11293,7 @@
             ]
         },
         {
-            "name": "S40 T5 AWD Momentum",
+            "name": "T5 AWD Momentum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-t5-awd-momentum/datos",
@@ -11384,7 +11385,7 @@
             ]
         },
         {
-            "name": "S40 T5 Summum",
+            "name": "T5 Summum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-t5-summum/datos",
@@ -11476,7 +11477,7 @@
             ]
         },
         {
-            "name": "S40 T5 Momentum Aut.",
+            "name": "T5 Momentum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-t5-momentum-aut2/datos",
@@ -11569,7 +11570,7 @@
             ]
         },
         {
-            "name": "S40 Summum T5 AWD Aut.",
+            "name": "Summum T5 AWD Aut.",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-summum-t5-awd-aut/datos",
@@ -11662,7 +11663,7 @@
             ]
         },
         {
-            "name": "S40 T5 AWD Momentum",
+            "name": "T5 AWD Momentum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-t5-awd-momentum2/datos",
@@ -11755,7 +11756,7 @@
             ]
         },
         {
-            "name": "S40 T5 Summum",
+            "name": "T5 Summum",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-t5-summum2/datos",
@@ -11848,7 +11849,7 @@
             ]
         },
         {
-            "name": "S40 T5 AWD Momentum Aut.",
+            "name": "T5 AWD Momentum Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-t5-awd-momentum-aut/datos",
@@ -11939,7 +11940,7 @@
             ]
         },
         {
-            "name": "S40 T5 Summum Aut.",
+            "name": "T5 Summum Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-t5-summum-aut/datos",
@@ -12030,7 +12031,7 @@
             ]
         },
         {
-            "name": "S40 T5 AWD Summum",
+            "name": "T5 AWD Summum",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-t5-awd-summum/datos",
@@ -12121,7 +12122,7 @@
             ]
         },
         {
-            "name": "S40 T5 AWD Momentum Aut.",
+            "name": "T5 AWD Momentum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/momentum/s40-t5-awd-momentum-aut2/datos",
@@ -12214,7 +12215,7 @@
             ]
         },
         {
-            "name": "S40 T5 Summum Aut.",
+            "name": "T5 Summum Aut.",
             "start_year": "2008",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-t5-summum-aut2/datos",
@@ -12307,7 +12308,7 @@
             ]
         },
         {
-            "name": "S40 T5 AWD Summum Aut.",
+            "name": "T5 AWD Summum Aut.",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/volvo/s40/2007/estandar/summum/s40-t5-awd-summum-aut/datos",

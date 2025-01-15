@@ -1,11 +1,12 @@
 {
+    "brand": "Ferrari",
     "name": "F430 Spider",
     "year": "2005",
     "url": "https://www.km77.com/coches/ferrari/f430/2005/spider",
     "price": "",
     "versions": [
         {
-            "name": "F430 Spider",
+            "name": "",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/ferrari/f430/2005/spider/estandar/f430-spider/datos",
@@ -192,7 +193,7 @@
             ]
         },
         {
-            "name": "F430 Spider F1",
+            "name": "F1",
             "start_year": "2005",
             "end_year": "2009",
             "url": "https://www.km77.com/coches/ferrari/f430/2005/spider/estandar/f430-spider-f1/datos",

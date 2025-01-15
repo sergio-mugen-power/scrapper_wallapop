@@ -1,11 +1,12 @@
 {
+    "brand": "DFSK",
     "name": "F5",
     "year": "2020",
     "url": "https://www.km77.com/coches/dfsk/f5/2020/estandar",
     "price": "Desde 28.500 €",
     "versions": [
         {
-            "name": "F5 Classic\n(10/2020 - )",
+            "name": "Classic\n(10/2020 - )",
             "start_year": "2020",
             "end_year": "",
             "url": "https://www.km77.com/coches/dfsk/f5/2020/estandar/estandar/f5-classic/datos",
@@ -196,7 +197,7 @@
             ]
         },
         {
-            "name": "F5 ECO\n(10/2020 - )",
+            "name": "ECO\n(10/2020 - )",
             "start_year": "2020",
             "end_year": "",
             "url": "https://www.km77.com/coches/dfsk/f5/2020/estandar/estandar/f5-eco/datos",

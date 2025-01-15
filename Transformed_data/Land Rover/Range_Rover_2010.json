@@ -1,11 +1,12 @@
 {
+    "brand": "Land Rover",
     "name": "Range Rover",
     "year": "2010",
     "url": "https://www.km77.com/coches/land-rover/range-rover/2010/estandar",
     "price": "Desde 140.950 €",
     "versions": [
         {
-            "name": "Range Rover 3.6 TdV8 HSE",
+            "name": "3.6 TdV8 HSE",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2010/estandar/hse/range-rover-36-tdv8-hse/datos",
@@ -231,7 +232,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.6 TdV8 Vogue",
+            "name": "3.6 TdV8 Vogue",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2010/estandar/vogue/range-rover-36-tdv8-vogue/datos",
@@ -462,7 +463,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.6 TdV8 Vogue+",
+            "name": "3.6 TdV8 Vogue+",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2010/estandar/vogueplus/range-rover-36-tdv8-vogue2/datos",
@@ -697,7 +698,7 @@
             ]
         },
         {
-            "name": "Range Rover 5.0 V8 Supercharged",
+            "name": "5.0 V8 Supercharged",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2010/estandar/estandar/range-rover-50-v8-supercharged/datos",
@@ -926,7 +927,7 @@
             ]
         },
         {
-            "name": "Range Rover 3.6 TdV8 Autobiography",
+            "name": "3.6 TdV8 Autobiography",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2010/estandar/autobiography/range-rover-36-tdv8-autobiography/datos",
@@ -1161,7 +1162,7 @@
             ]
         },
         {
-            "name": "Range Rover 5.0 V8 Supercharged Autobiography",
+            "name": "5.0 V8 Supercharged Autobiography",
             "start_year": "2009",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/land-rover/range-rover/2010/estandar/autobiography/range-rover-50-v8-supercharged-autobiography/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Hyundai",
     "name": "Atos",
     "year": "1998",
     "url": "https://www.km77.com/coches/hyundai/atos/1998/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Atos 1.0 GLS",
+            "name": "1.0 GLS",
             "start_year": "1998",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/hyundai/atos/1998/estandar/gls/atos-10-gls/datos",
@@ -122,7 +123,7 @@
             ]
         },
         {
-            "name": "Atos Prime 1.0 GLS",
+            "name": "Prime 1.0 GLS",
             "start_year": "1998",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/hyundai/atos/1998/estandar/gls/atos-prime-10-gls/datos",
@@ -239,7 +240,7 @@
             ]
         },
         {
-            "name": "Atos Prime 1.0 GLS Aut.",
+            "name": "Prime 1.0 GLS Aut.",
             "start_year": "2001",
             "end_year": "2001",
             "url": "https://www.km77.com/coches/hyundai/atos/1998/estandar/gls/atos-prime-10-gls-aut/datos",

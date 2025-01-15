@@ -1,11 +1,12 @@
 {
+    "brand": "Chrysler",
     "name": "300C Touring",
     "year": "2005",
     "url": "https://www.km77.com/coches/chrysler/300c/2005/touring",
     "price": "",
     "versions": [
         {
-            "name": "300C Touring 2.7 V6",
+            "name": "2.7 V6",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/chrysler/300c/2005/touring/estandar/300c-touring-27-v6/datos",
@@ -177,7 +178,7 @@
             ]
         },
         {
-            "name": "300C Touring 2.7 V6",
+            "name": "2.7 V6",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/chrysler/300c/2005/touring/estandar/300c-touring-27-v62/datos",
@@ -346,7 +347,7 @@
             ]
         },
         {
-            "name": "300C Touring 3.0 V6 CRD",
+            "name": "3.0 V6 CRD",
             "start_year": "2005",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/chrysler/300c/2005/touring/estandar/300c-touring-30-v6-crd/datos",
@@ -518,7 +519,7 @@
             ]
         },
         {
-            "name": "300C Touring 3.0 V6 CRD",
+            "name": "3.0 V6 CRD",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/chrysler/300c/2005/touring/estandar/300c-touring-30-v6-crd2/datos",
@@ -687,7 +688,7 @@
             ]
         },
         {
-            "name": "300C Touring 3.5 V6",
+            "name": "3.5 V6",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/chrysler/300c/2005/touring/estandar/300c-touring-35-v6/datos",
@@ -857,7 +858,7 @@
             ]
         },
         {
-            "name": "300C Touring 3.5 V6 AWD",
+            "name": "3.5 V6 AWD",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/chrysler/300c/2005/touring/estandar/300c-touring-35-v6-awd/datos",
@@ -1026,7 +1027,7 @@
             ]
         },
         {
-            "name": "300C Touring 3.5 V6 AWD",
+            "name": "3.5 V6 AWD",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/chrysler/300c/2005/touring/estandar/300c-touring-35-v6-awd2/datos",
@@ -1195,7 +1196,7 @@
             ]
         },
         {
-            "name": "300C Touring 5.7 Hemi V8",
+            "name": "5.7 Hemi V8",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/chrysler/300c/2005/touring/estandar/300c-touring-57-hemi-v8/datos",
@@ -1367,7 +1368,7 @@
             ]
         },
         {
-            "name": "300C Touring 5.7 V8 Hemi AWD",
+            "name": "5.7 V8 Hemi AWD",
             "start_year": "2004",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/chrysler/300c/2005/touring/estandar/300c-touring-57-v8-hemi-awd/datos",
@@ -1538,7 +1539,7 @@
             ]
         },
         {
-            "name": "300C Touring 6.1 SRT8",
+            "name": "6.1 SRT8",
             "start_year": "2006",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/chrysler/300c/2005/touring/estandar/300c-touring-61-srt8/datos",
@@ -1701,7 +1702,7 @@
             ]
         },
         {
-            "name": "300C Touring 6.1 SRT8",
+            "name": "6.1 SRT8",
             "start_year": "2008",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/chrysler/300c/2005/touring/estandar/300c-touring-61-srt82/datos",

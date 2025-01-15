@@ -1,11 +1,12 @@
 {
+    "brand": "Volkswagen",
     "name": "ID.4",
     "year": "2021",
     "url": "https://www.km77.com/coches/volkswagen/id4/2021/estandar",
     "price": "Desde 36.485 €",
     "versions": [
         {
-            "name": "ID.4 Pure 125 kW (170 CV) 52 kWh (06/2024 - )",
+            "name": "Pure 125 kW (170 CV) 52 kWh (06/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/id4/2021/estandar/estandar/id4-pure-125-kw-170-cv-52-kwh2/datos",
@@ -36,7 +37,7 @@
             ]
         },
         {
-            "name": "ID.4 Pure Más 125 kW (170 CV) 52 kWh (06/2024 - )",
+            "name": "Pure Más 125 kW (170 CV) 52 kWh (06/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/id4/2021/estandar/estandar/id4-pure-mas-125-kw-170-cv-52-kwh2/datos",
@@ -67,7 +68,7 @@
             ]
         },
         {
-            "name": "ID.4 Pro Más 210 kW (286 CV) 77 kWh (06/2024 - )",
+            "name": "Pro Más 210 kW (286 CV) 77 kWh (06/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/id4/2021/estandar/estandar/id4-pro-mas-210-kw-286-cv-77-kwh2/datos",
@@ -98,7 +99,7 @@
             ]
         },
         {
-            "name": "ID.4 Pro 4Motion Más 210 kW (286 CV) 77 kWh (01/2024 - )",
+            "name": "Pro 4Motion Más 210 kW (286 CV) 77 kWh (01/2024 - )",
             "start_year": "2024",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/id4/2021/estandar/estandar/id4-pro-4motion-mas-210-kw-286-cv-77-kwh/datos",
@@ -130,7 +131,7 @@
             ]
         },
         {
-            "name": "ID.4 GTX 250 kW (340 CV) 77 kWh (11/2023 - )",
+            "name": "GTX 250 kW (340 CV) 77 kWh (11/2023 - )",
             "start_year": "2023",
             "end_year": "",
             "url": "https://www.km77.com/coches/volkswagen/id4/2021/estandar/gtx/id4-gtx-4motion-250-kw-340-cv-77-kwh/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Jaguar",
     "name": "XJ",
     "year": "2003",
     "url": "https://www.km77.com/coches/jaguar/xj/2003/estandar",
     "price": "",
     "versions": [
         {
-            "name": "XJ6 3.0 V6 Classic",
+            "name": "6 3.0 V6 Classic",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/jaguar/xj/2003/estandar/classic/xj6-30-v6-classic/datos",
@@ -215,7 +216,7 @@
             ]
         },
         {
-            "name": "XJ6 3.0 V6 Sport",
+            "name": "6 3.0 V6 Sport",
             "start_year": "2004",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/jaguar/xj/2003/estandar/sport/xj6-30-v6-sport/datos",
@@ -427,7 +428,7 @@
             ]
         },
         {
-            "name": "XJ8 3.5 V8 Classic",
+            "name": "8 3.5 V8 Classic",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/jaguar/xj/2003/estandar/classic/xj8-35-v8-classic/datos",
@@ -639,7 +640,7 @@
             ]
         },
         {
-            "name": "XJ6 2.7D V6 Executive",
+            "name": "6 2.7D V6 Executive",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/jaguar/xj/2003/estandar/executive/xj6-27d-v6-executive/datos",
@@ -851,7 +852,7 @@
             ]
         },
         {
-            "name": "XJ6 3.0 V6 Executive",
+            "name": "6 3.0 V6 Executive",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/jaguar/xj/2003/estandar/executive/xj6-30-v6-executive2/datos",
@@ -1064,7 +1065,7 @@
             ]
         },
         {
-            "name": "XJ6 3.0 V6 Executive",
+            "name": "6 3.0 V6 Executive",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/jaguar/xj/2003/estandar/executive/xj6-30-v6-executive/datos",
@@ -1279,7 +1280,7 @@
             ]
         },
         {
-            "name": "XJ8 3.5 V8 Sport",
+            "name": "8 3.5 V8 Sport",
             "start_year": "2004",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/jaguar/xj/2003/estandar/sport/xj8-35-v8-sport/datos",
@@ -1703,7 +1704,7 @@
             ]
         },
         {
-            "name": "XJ8 3.5 V8 Executive",
+            "name": "8 3.5 V8 Executive",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/jaguar/xj/2003/estandar/executive/xj8-35-v8-executive2/datos",
@@ -1916,7 +1917,7 @@
             ]
         },
         {
-            "name": "XJ8 3.5 V8 Executive",
+            "name": "8 3.5 V8 Executive",
             "start_year": "2004",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/jaguar/xj/2003/estandar/executive/xj8-35-v8-executive/datos",
@@ -2131,7 +2132,7 @@
             ]
         },
         {
-            "name": "XJ8 4.2 V8 Sport",
+            "name": "8 4.2 V8 Sport",
             "start_year": "2004",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/jaguar/xj/2003/estandar/sport/xj8-42-v8-sport/datos",
@@ -2343,7 +2344,7 @@
             ]
         },
         {
-            "name": "XJ8 4.2 V8 Executive",
+            "name": "8 4.2 V8 Executive",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/jaguar/xj/2003/estandar/executive/xj8-42-v8-executive2/datos",
@@ -2556,7 +2557,7 @@
             ]
         },
         {
-            "name": "XJ8 4.2 V8 Executive",
+            "name": "8 4.2 V8 Executive",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/jaguar/xj/2003/estandar/executive/xj8-42-v8-executive/datos",
@@ -3193,7 +3194,7 @@
             ]
         },
         {
-            "name": "XJR 4.2 V8 Sobrealimentado",
+            "name": "R 4.2 V8 Sobrealimentado",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/jaguar/xj/2003/estandar/estandar/xjr-42-v8-sobrealimentado/datos",
@@ -3399,7 +3400,7 @@
             ]
         },
         {
-            "name": "XJR 4.2 V8 Sobrealimentado",
+            "name": "R 4.2 V8 Sobrealimentado",
             "start_year": "2005",
             "end_year": "2007",
             "url": "https://www.km77.com/coches/jaguar/xj/2003/estandar/xjr/xjr-42-v8-sobrealimentado2/datos",
@@ -3611,7 +3612,7 @@
             ]
         },
         {
-            "name": "XJ Super V8",
+            "name": "Super V8",
             "start_year": "2003",
             "end_year": "2005",
             "url": "https://www.km77.com/coches/jaguar/xj/2003/estandar/super/xj-super-v8/datos",

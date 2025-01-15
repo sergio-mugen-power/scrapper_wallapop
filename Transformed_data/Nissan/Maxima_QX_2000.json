@@ -1,11 +1,12 @@
 {
+    "brand": "Nissan",
     "name": "Maxima QX",
     "year": "2000",
     "url": "https://www.km77.com/coches/nissan/maxima-qx/2000/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Maxima QX 2.0 SE",
+            "name": "2.0 SE",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/nissan/maxima-qx/2000/estandar/se/maxima-qx-20-se/datos",
@@ -148,7 +149,7 @@
             ]
         },
         {
-            "name": "Maxima QX 2.0 SE Aut.",
+            "name": "2.0 SE Aut.",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/nissan/maxima-qx/2000/estandar/se/maxima-qx-20-se-aut/datos",
@@ -288,7 +289,7 @@
             ]
         },
         {
-            "name": "Maxima QX 3.0 SE",
+            "name": "3.0 SE",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/nissan/maxima-qx/2000/estandar/se/maxima-qx-30-se/datos",
@@ -432,7 +433,7 @@
             ]
         },
         {
-            "name": "Maxima QX 3.0 SE Aut.",
+            "name": "3.0 SE Aut.",
             "start_year": "2000",
             "end_year": "2004",
             "url": "https://www.km77.com/coches/nissan/maxima-qx/2000/estandar/se/maxima-qx-30-se-aut/datos",

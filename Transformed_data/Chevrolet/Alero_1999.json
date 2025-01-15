@@ -1,11 +1,12 @@
 {
+    "brand": "Chevrolet",
     "name": "Alero",
     "year": "1999",
     "url": "https://www.km77.com/coches/chevrolet/alero/1999/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Alero 2.4 16v 5V Manual",
+            "name": "2.4 16v 5V Manual",
             "start_year": "2001",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/chevrolet/alero/1999/estandar/estandar/alero-24-16v-5v-manual/datos",
@@ -16,7 +17,7 @@
             "maletero": "433"
         },
         {
-            "name": "Alero 2.4 16v Aut.",
+            "name": "2.4 16v Aut.",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/chevrolet/alero/1999/estandar/estandar/alero-24-16v-aut/datos",
@@ -27,7 +28,7 @@
             "maletero": "433"
         },
         {
-            "name": "Alero 3.4 V6 Aut.",
+            "name": "3.4 V6 Aut.",
             "start_year": "2000",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/chevrolet/alero/1999/estandar/estandar/alero-34-v6-aut/datos",

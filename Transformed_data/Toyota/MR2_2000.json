@@ -1,11 +1,12 @@
 {
+    "brand": "Toyota",
     "name": "MR2",
     "year": "2000",
     "url": "https://www.km77.com/coches/toyota/mr2/2000/estandar",
     "price": "",
     "versions": [
         {
-            "name": "MR2 1.8 VVT-i Roadster",
+            "name": "1.8 VVT-i Roadster",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/toyota/mr2/2000/estandar/estandar/mr2-18-vvt-i-roadster/datos",
@@ -135,7 +136,7 @@
             ]
         },
         {
-            "name": "MR2 TTE",
+            "name": "TTE",
             "start_year": "2002",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/toyota/mr2/2000/estandar/tte/mr2-tte/datos",
@@ -267,7 +268,7 @@
             ]
         },
         {
-            "name": "MR2 1.8 VVT-i Roadster SMT",
+            "name": "1.8 VVT-i Roadster SMT",
             "start_year": "2000",
             "end_year": "2003",
             "url": "https://www.km77.com/coches/toyota/mr2/2000/estandar/estandar/mr2-18-vvt-i-roadster-smt/datos",
@@ -397,7 +398,7 @@
             ]
         },
         {
-            "name": "MR2 TTE SMT",
+            "name": "TTE SMT",
             "start_year": "2002",
             "end_year": "2002",
             "url": "https://www.km77.com/coches/toyota/mr2/2000/estandar/tte/mr2-tte-smt/datos",

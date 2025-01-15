@@ -1,11 +1,12 @@
 {
+    "brand": "SEAT",
     "name": "Arona",
     "year": "2018",
     "url": "https://www.km77.com/coches/seat/arona/2018/estandar",
     "price": "Desde 22.770 €",
     "versions": [
         {
-            "name": "Arona 1.0 EcoTSI 70 kW (95 CV) Start/Stop Reference Plus",
+            "name": "1.0 EcoTSI 70 kW (95 CV) Start/Stop Reference Plus",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/reference-plus/arona-10-ecotsi-70-kw-95-cv-startstop-reference-plus/datos",
@@ -206,7 +207,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 70 kW (95 CV) Start/Stop Reference Edition",
+            "name": "1.0 TSI 70 kW (95 CV) Start/Stop Reference Edition",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/reference-edition/arona-10-ecotsi-70-kw-95-cv-startstop-reference-edition/datos",
@@ -399,7 +400,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI CR 70 kW (95 CV) Start/Stop Reference Edition",
+            "name": "1.6 TDI CR 70 kW (95 CV) Start/Stop Reference Edition",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/reference-edition/arona-16-tdi-cr-70-kw-95-cv-startstop-reference-edition/datos",
@@ -592,7 +593,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 EcoTSI 70 kW (95 CV) Start/Stop Style",
+            "name": "1.0 EcoTSI 70 kW (95 CV) Start/Stop Style",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style/arona-10-ecotsi-70-kw-95-cv-startstop-style/datos",
@@ -824,7 +825,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 70 kW (95 CV) Start/Stop Reference",
+            "name": "1.0 TSI 70 kW (95 CV) Start/Stop Reference",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/estandar/arona-10-tsi-70-kw-95-cv-startstop-reference2/datos",
@@ -1028,7 +1029,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TGI 66 kW (90 CV) Start/Stop Reference",
+            "name": "1.0 TGI 66 kW (90 CV) Start/Stop Reference",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/reference/arona-10-tgi-66-kw-90-cv-startstop-reference/datos",
@@ -1218,7 +1219,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TGI 66 kW (90 CV) Start/Stop Reference Edition",
+            "name": "1.0 TGI 66 kW (90 CV) Start/Stop Reference Edition",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/reference-edition/arona-10-tgi-66-kw-90-cv-startstop-reference-edition/datos",
@@ -1406,7 +1407,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 EcoTSI 85 kW (115 CV) Start/Stop Style",
+            "name": "1.0 EcoTSI 85 kW (115 CV) Start/Stop Style",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style/arona-10-ecotsi-85-kw-115-cv-startstop-style/datos",
@@ -1639,7 +1640,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI 70 kW (95 CV) Start/Stop Reference Plus",
+            "name": "1.6 TDI 70 kW (95 CV) Start/Stop Reference Plus",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/reference-plus/arona-16-tdi-70-kw-95-cv-startstop-reference-plus/datos",
@@ -1841,7 +1842,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TGI 66 kW (90 CV) Start/Stop Reference",
+            "name": "1.0 TGI 66 kW (90 CV) Start/Stop Reference",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/estandar/arona-10-tgi-66-kw-90-cv-startstop-reference2/datos",
@@ -2041,7 +2042,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 70 kW (95 CV) Start/Stop Style Edition",
+            "name": "1.0 TSI 70 kW (95 CV) Start/Stop Style Edition",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style-edition/arona-10-tsi-70-kw-95-cv-startstop-style-edition/datos",
@@ -2268,7 +2269,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 70 kW (95 CV) Start/Stop Reference",
+            "name": "1.0 TSI 70 kW (95 CV) Start/Stop Reference",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/reference/arona-10-tsi-70-kw-95-cv-startstop-reference/datos",
@@ -2462,7 +2463,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI CR 70 kW (95 CV) Start/Stop Style",
+            "name": "1.6 TDI CR 70 kW (95 CV) Start/Stop Style",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style/arona-16-tdi-cr-70-kw-95-cv-startstop-style/datos",
@@ -2697,7 +2698,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI CR 70 kW (95 CV) Start/Stop Style Edition",
+            "name": "1.6 TDI CR 70 kW (95 CV) Start/Stop Style Edition",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style-edition/arona-16-tdi-cr-70-kw-95-cv-startstop-style-edition/datos",
@@ -2924,7 +2925,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 85 kW (115 CV) Start/Stop Style Edition",
+            "name": "1.0 TSI 85 kW (115 CV) Start/Stop Style Edition",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style-edition/arona-10-tsi-85-kw-115-cv-startstop-style-edition/datos",
@@ -3151,7 +3152,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI CR 70 kW (95 CV) Start/Stop Reference",
+            "name": "1.6 TDI CR 70 kW (95 CV) Start/Stop Reference",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/reference/arona-16-tdi-cr-70-kw-95-cv-startstop-reference/datos",
@@ -3345,7 +3346,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 70 kW (95 CV) Start/Stop Style",
+            "name": "1.0 TSI 70 kW (95 CV) Start/Stop Style",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style/arona-10-tsi-70-kw-95-cv-startstop-style/datos",
@@ -3575,7 +3576,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 70 kW (95 CV) Start/Stop Style",
+            "name": "1.0 TSI 70 kW (95 CV) Start/Stop Style",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/estandar/arona-10-tsi-70-kw-95-cv-startstop-style2/datos",
@@ -3816,7 +3817,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TGI 66 kW (90 CV) Start/Stop Style",
+            "name": "1.0 TGI 66 kW (90 CV) Start/Stop Style",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style/arona-10-tgi-66-kw-90-cv-startstop-style/datos",
@@ -4041,7 +4042,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TGI 66 kW (90 CV) Start/Stop Style Edition",
+            "name": "1.0 TGI 66 kW (90 CV) Start/Stop Style Edition",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style-edition/arona-10-tgi-66-kw-90-cv-startstop-style-edition/datos",
@@ -4262,7 +4263,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 81 kW (110 CV) Start/Stop Style",
+            "name": "1.0 TSI 81 kW (110 CV) Start/Stop Style",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/estandar/arona-10-tsi-81-kw-110-cv-startstop-style/datos",
@@ -4486,7 +4487,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 70 kW (95 CV) Start/Stop Style GO",
+            "name": "1.0 TSI 70 kW (95 CV) Start/Stop Style GO",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/estandar/arona-10-tsi-70-kw-95-cv-startstop-style-go2/datos",
@@ -4727,7 +4728,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 70 kW (95 CV) Start/Stop Style GO",
+            "name": "1.0 TSI 70 kW (95 CV) Start/Stop Style GO",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style-go/arona-10-tsi-70-kw-95-cv-startstop-style-go/datos",
@@ -4957,7 +4958,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TGI 66 kW (90 CV) Start/Stop Style GO",
+            "name": "1.0 TGI 66 kW (90 CV) Start/Stop Style GO",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style-go/arona-10-tgi-66-kw-90-cv-startstop-style-go/datos",
@@ -5183,7 +5184,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI CR 85 kW (115 CV) Start/Stop Style",
+            "name": "1.6 TDI CR 85 kW (115 CV) Start/Stop Style",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style/arona-16-tdi-cr-85-kw-115-cv-startstop-style/datos",
@@ -5418,7 +5419,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 EcoTSI 85 kW (115 CV) DSG 7 vel. Start/Stop Style",
+            "name": "1.0 EcoTSI 85 kW (115 CV) DSG 7 vel. Start/Stop Style",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style/arona-10-ecotsi-85-kw-115-cv-dsg-7-vel-startstop-style/datos",
@@ -5651,7 +5652,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI CR 85 kW (115 CV) Start/Stop Style Edition",
+            "name": "1.6 TDI CR 85 kW (115 CV) Start/Stop Style Edition",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style-edition/arona-16-tdi-cr-85-kw-115-cv-startstop-style-edition/datos",
@@ -5878,7 +5879,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI 70 kW (95 CV) Start/Stop Style",
+            "name": "1.6 TDI 70 kW (95 CV) Start/Stop Style",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style/arona-16-tdi-70-kw-95-cv-startstop-style/datos",
@@ -6111,7 +6112,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 81 kW (110 CV) Start/Stop Style GO2",
+            "name": "1.0 TSI 81 kW (110 CV) Start/Stop Style GO2",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/estandar/arona-10-tsi-81-kw-110-cv-startstop-style-go/datos",
@@ -6344,7 +6345,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TGI 66 kW (90 CV) Start/Stop Style",
+            "name": "1.0 TGI 66 kW (90 CV) Start/Stop Style",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/estandar/arona-10-tgi-66-kw-90-cv-startstop-style2/datos",
@@ -6561,7 +6562,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 85 kW (115 CV) Start/Stop Style",
+            "name": "1.0 TSI 85 kW (115 CV) Start/Stop Style",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style/arona-10-tsi-85-kw-115-cv-startstop-style/datos",
@@ -6792,7 +6793,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TGI 66 kW (90 CV) Start/Stop Style GO2",
+            "name": "1.0 TGI 66 kW (90 CV) Start/Stop Style GO2",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/estandar/arona-10-tgi-66-kw-90-cv-startstop-style-go2/datos",
@@ -7018,7 +7019,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 85 kW (115 CV) Start/Stop Style GO",
+            "name": "1.0 TSI 85 kW (115 CV) Start/Stop Style GO",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style-go/arona-10-tsi-85-kw-115-cv-startstop-style-go/datos",
@@ -7249,7 +7250,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI CR 70 kW (95 CV) DSG 7 vel. Start/Stop Style",
+            "name": "1.6 TDI CR 70 kW (95 CV) DSG 7 vel. Start/Stop Style",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style/arona-16-tdi-cr-70-kw-95-cv-dsg-7-vel-startstop-style/datos",
@@ -7482,7 +7483,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI 85 kW (115 CV) Start/Stop Style",
+            "name": "1.6 TDI 85 kW (115 CV) Start/Stop Style",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style/arona-16-tdi-85-kw-115-cv-startstop-style/datos",
@@ -7716,7 +7717,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 EcoTSI 70 kW (95 CV) Start/Stop Xcellence",
+            "name": "1.0 EcoTSI 70 kW (95 CV) Start/Stop Xcellence",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence/arona-10-ecotsi-70-kw-95-cv-startstop-xcellence/datos",
@@ -7949,7 +7950,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI CR 70 kW (95 CV) DSG 7 vel. Start/Stop Style Edition",
+            "name": "1.6 TDI CR 70 kW (95 CV) DSG 7 vel. Start/Stop Style Edition",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style-edition/arona-16-tdi-cr-70-kw-95-cv-dsg-7-vel-startstop-style-edition/datos",
@@ -8174,7 +8175,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 85 kW (115 CV) DSG 7 vel. Start/Stop Style Edition",
+            "name": "1.0 TSI 85 kW (115 CV) DSG 7 vel. Start/Stop Style Edition",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style-edition/arona-10-tsi-85-kw-115-cv-dsg-7-vel-startstop-style-edition/datos",
@@ -8401,7 +8402,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI CR 70 kW (95 CV) Start/Stop Style",
+            "name": "1.6 TDI CR 70 kW (95 CV) Start/Stop Style",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style/arona-16-tdi-cr-70-kw-95-cv-startstop-style2/datos",
@@ -8504,7 +8505,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI CR 70 kW (95 CV) Start/Stop Style GO",
+            "name": "1.6 TDI CR 70 kW (95 CV) Start/Stop Style GO",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style-go/arona-16-tdi-cr-70-kw-95-cv-startstop-style-go/datos",
@@ -8734,7 +8735,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 EcoTSI 85 kW (115 CV) Start/Stop Xcellence",
+            "name": "1.0 EcoTSI 85 kW (115 CV) Start/Stop Xcellence",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence/arona-10-ecotsi-85-kw-115-cv-startstop-xcellence/datos",
@@ -8968,7 +8969,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 EcoTSI 85 kW (115 CV) Start/Stop FR",
+            "name": "1.0 EcoTSI 85 kW (115 CV) Start/Stop FR",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/fr/arona-10-ecotsi-85-kw-115-cv-startstop-fr/datos",
@@ -9209,7 +9210,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 70 kW (95 CV) Start/Stop Xcellence",
+            "name": "1.0 TSI 70 kW (95 CV) Start/Stop Xcellence",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence/arona-10-tsi-70-kw-95-cv-startstop-xcellence/datos",
@@ -9440,7 +9441,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI 70 kW (95 CV) DSG 7 vel. Start/Stop Style",
+            "name": "1.6 TDI 70 kW (95 CV) DSG 7 vel. Start/Stop Style",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style/arona-16-tdi-70-kw-95-cv-dsg-7-vel-startstop-style/datos",
@@ -9670,7 +9671,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 85 kW (115 CV) DSG 7 vel. Start/Stop Style",
+            "name": "1.0 TSI 85 kW (115 CV) DSG 7 vel. Start/Stop Style",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style/arona-10-tsi-85-kw-115-cv-dsg-7-vel-startstop-style/datos",
@@ -9901,7 +9902,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 85 kW (115 CV) DSG 7 vel. Start/Stop Style GO",
+            "name": "1.0 TSI 85 kW (115 CV) DSG 7 vel. Start/Stop Style GO",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style-go/arona-10-tsi-85-kw-115-cv-dsg-7-vel-startstop-style-go/datos",
@@ -10132,7 +10133,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI CR 70 kW (95 CV) Start/Stop Xcellence",
+            "name": "1.6 TDI CR 70 kW (95 CV) Start/Stop Xcellence",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence/arona-16-tdi-cr-70-kw-95-cv-startstop-xcellence/datos",
@@ -10363,7 +10364,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 70 kW (95 CV) Start/Stop Xcellence Edition",
+            "name": "1.0 TSI 70 kW (95 CV) Start/Stop Xcellence Edition",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence-edition/arona-10-tsi-70-kw-95-cv-startstop-xcellence-edition/datos",
@@ -10591,7 +10592,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 81 kW (110 CV) DSG 7 vel. Start/Stop Style",
+            "name": "1.0 TSI 81 kW (110 CV) DSG 7 vel. Start/Stop Style",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/estandar/arona-10-tsi-81-kw-110-cv-dsg-7-vel-startstop-style/datos",
@@ -10815,7 +10816,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 81 kW (110 CV) Start/Stop Xcellence",
+            "name": "1.0 TSI 81 kW (110 CV) Start/Stop Xcellence",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/estandar/arona-10-tsi-81-kw-110-cv-startstop-xcellence/datos",
@@ -11057,7 +11058,7 @@
             ]
         },
         {
-            "name": "Arona 1.5 EcoTSI 110 kW (150 CV) Start/Stop FR",
+            "name": "1.5 EcoTSI 110 kW (150 CV) Start/Stop FR",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/fr/arona-15-ecotsi-110-kw-150-cv-startstop-fr/datos",
@@ -11297,7 +11298,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 81 kW (110 CV) DSG 7 vel. Start/Stop Style GO2",
+            "name": "1.0 TSI 81 kW (110 CV) DSG 7 vel. Start/Stop Style GO2",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/estandar/arona-10-tsi-81-kw-110-cv-dsg-7-vel-startstop-style-go/datos",
@@ -11530,7 +11531,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI CR 70 kW (95 CV) DSG 7 vel. Start/Stop Style",
+            "name": "1.6 TDI CR 70 kW (95 CV) DSG 7 vel. Start/Stop Style",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style/arona-16-tdi-cr-70-kw-95-cv-dsg-7-vel-startstop-style2/datos",
@@ -11633,7 +11634,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 81 kW (110 CV) Start/Stop Xcellence GO2",
+            "name": "1.0 TSI 81 kW (110 CV) Start/Stop Xcellence GO2",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/estandar/arona-10-tsi-81-kw-110-cv-startstop-xcellence-go/datos",
@@ -11872,7 +11873,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI CR 70 kW (95 CV) DSG 7 vel. Start/Stop Style GO",
+            "name": "1.6 TDI CR 70 kW (95 CV) DSG 7 vel. Start/Stop Style GO",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/style-go/arona-16-tdi-cr-70-kw-95-cv-dsg-7-vel-startstop-style-go/datos",
@@ -12102,7 +12103,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TGI 66 kW (90 CV) Start/Stop Xcellence",
+            "name": "1.0 TGI 66 kW (90 CV) Start/Stop Xcellence",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence/arona-10-tgi-66-kw-90-cv-startstop-xcellence/datos",
@@ -12330,7 +12331,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 85 kW (115 CV) Start/Stop Xcellence",
+            "name": "1.0 TSI 85 kW (115 CV) Start/Stop Xcellence",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence/arona-10-tsi-85-kw-115-cv-startstop-xcellence/datos",
@@ -12563,7 +12564,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TGI 66 kW (90 CV) Start/Stop FR",
+            "name": "1.0 TGI 66 kW (90 CV) Start/Stop FR",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/fr/arona-10-tgi-66-kw-90-cv-startstop-fr/datos",
@@ -12790,7 +12791,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI CR 85 kW (115 CV) Start/Stop Xcellence",
+            "name": "1.6 TDI CR 85 kW (115 CV) Start/Stop Xcellence",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence/arona-16-tdi-cr-85-kw-115-cv-startstop-xcellence/datos",
@@ -13021,7 +13022,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI CR 85 kW (115 CV) Start/Stop FR",
+            "name": "1.6 TDI CR 85 kW (115 CV) Start/Stop FR",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/fr/arona-16-tdi-cr-85-kw-115-cv-startstop-fr/datos",
@@ -13253,7 +13254,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI CR 70 kW (95 CV) Start/Stop Xcellence Edition",
+            "name": "1.6 TDI CR 70 kW (95 CV) Start/Stop Xcellence Edition",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence-edition/arona-16-tdi-cr-70-kw-95-cv-startstop-xcellence-edition/datos",
@@ -13481,7 +13482,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 EcoTSI 85 kW (115 CV) DSG 7 vel. Start/Stop Xcellence",
+            "name": "1.0 EcoTSI 85 kW (115 CV) DSG 7 vel. Start/Stop Xcellence",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence/arona-10-ecotsi-85-kw-115-cv-dsg-7-vel-startstop-xcellence/datos",
@@ -13715,7 +13716,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TGI 66 kW (90 CV) Start/Stop FR Edition",
+            "name": "1.0 TGI 66 kW (90 CV) Start/Stop FR Edition",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/fr-edition/arona-10-tgi-66-kw-90-cv-startstop-fr-edition/datos",
@@ -13939,7 +13940,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TGI 66 kW (90 CV) Start/Stop Xcellence Edition",
+            "name": "1.0 TGI 66 kW (90 CV) Start/Stop Xcellence Edition",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence-edition/arona-10-tgi-66-kw-90-cv-startstop-xcellence-edition/datos",
@@ -14161,7 +14162,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 85 kW (115 CV) Start/Stop FR Edition",
+            "name": "1.0 TSI 85 kW (115 CV) Start/Stop FR Edition",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/fr-edition/arona-10-tsi-85-kw-115-cv-startstop-fr-edition/datos",
@@ -14393,7 +14394,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 85 kW (115 CV) Start/Stop Xcellence Edition",
+            "name": "1.0 TSI 85 kW (115 CV) Start/Stop Xcellence Edition",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence-edition/arona-10-tsi-85-kw-115-cv-startstop-xcellence-edition/datos",
@@ -14621,7 +14622,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI 70 kW (95 CV) Start/Stop Xcellence",
+            "name": "1.6 TDI 70 kW (95 CV) Start/Stop Xcellence",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence/arona-16-tdi-70-kw-95-cv-startstop-xcellence/datos",
@@ -14855,7 +14856,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 EcoTSI 85 kW (115 CV) DSG 7 vel. Start/Stop FR",
+            "name": "1.0 EcoTSI 85 kW (115 CV) DSG 7 vel. Start/Stop FR",
             "start_year": "2017",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/fr/arona-10-ecotsi-85-kw-115-cv-dsg-7-vel-startstop-fr/datos",
@@ -15096,7 +15097,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TGI 66 kW (90 CV) Start/Stop Xcellence GO",
+            "name": "1.0 TGI 66 kW (90 CV) Start/Stop Xcellence GO",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence-go/arona-10-tgi-66-kw-90-cv-startstop-xcellence-go/datos",
@@ -15322,7 +15323,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TGI 66 kW (90 CV) Start/Stop FR GO",
+            "name": "1.0 TGI 66 kW (90 CV) Start/Stop FR GO",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/fr-go/arona-10-tgi-66-kw-90-cv-startstop-fr-go/datos",
@@ -15550,7 +15551,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TGI 66 kW (90 CV) Start/Stop FR",
+            "name": "1.0 TGI 66 kW (90 CV) Start/Stop FR",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/estandar/arona-10-tgi-66-kw-90-cv-startstop-fr2/datos",
@@ -15788,7 +15789,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TGI 66 kW (90 CV) Start/Stop Xcellence",
+            "name": "1.0 TGI 66 kW (90 CV) Start/Stop Xcellence",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/estandar/arona-10-tgi-66-kw-90-cv-startstop-xcellence2/datos",
@@ -16023,7 +16024,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 85 kW (115 CV) Start/Stop FR",
+            "name": "1.0 TSI 85 kW (115 CV) Start/Stop FR",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/fr/arona-10-tsi-85-kw-115-cv-startstop-fr/datos",
@@ -16256,7 +16257,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 85 kW (115 CV) Start/Stop FR GO",
+            "name": "1.0 TSI 85 kW (115 CV) Start/Stop FR GO",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/fr-go/arona-10-tsi-85-kw-115-cv-startstop-fr-go/datos",
@@ -16491,7 +16492,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TGI 66 kW (90 CV) Start/Stop FR GO2",
+            "name": "1.0 TGI 66 kW (90 CV) Start/Stop FR GO2",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/estandar/arona-10-tgi-66-kw-90-cv-startstop-fr-go2/datos",
@@ -16730,7 +16731,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TGI 66 kW (90 CV) Start/Stop Xcellence GO2",
+            "name": "1.0 TGI 66 kW (90 CV) Start/Stop Xcellence GO2",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/estandar/arona-10-tgi-66-kw-90-cv-startstop-xcellence-go2/datos",
@@ -16964,7 +16965,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI CR 85 kW (115 CV) Start/Stop FR Edition",
+            "name": "1.6 TDI CR 85 kW (115 CV) Start/Stop FR Edition",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/fr-edition/arona-16-tdi-cr-85-kw-115-cv-startstop-fr-edition/datos",
@@ -17196,7 +17197,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI CR 85 kW (115 CV) Start/Stop Xcellence Edition",
+            "name": "1.6 TDI CR 85 kW (115 CV) Start/Stop Xcellence Edition",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence-edition/arona-16-tdi-cr-85-kw-115-cv-startstop-xcellence-edition/datos",
@@ -17424,7 +17425,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI CR 70 kW (95 CV) DSG 7 vel. Start/Stop Xcellence",
+            "name": "1.6 TDI CR 70 kW (95 CV) DSG 7 vel. Start/Stop Xcellence",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence/arona-16-tdi-cr-70-kw-95-cv-dsg-7-vel-startstop-xcellence/datos",
@@ -17655,7 +17656,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI 85 kW (115 CV) Start/Stop Xcellence",
+            "name": "1.6 TDI 85 kW (115 CV) Start/Stop Xcellence",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence/arona-16-tdi-85-kw-115-cv-startstop-xcellence/datos",
@@ -17890,7 +17891,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI 85 kW (115 CV) Start/Stop FR",
+            "name": "1.6 TDI 85 kW (115 CV) Start/Stop FR",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/fr/arona-16-tdi-85-kw-115-cv-startstop-fr/datos",
@@ -18132,7 +18133,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 85 kW (115 CV) Start/Stop Xcellence GO",
+            "name": "1.0 TSI 85 kW (115 CV) Start/Stop Xcellence GO",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence-go/arona-10-tsi-85-kw-115-cv-startstop-xcellence-go/datos",
@@ -18364,7 +18365,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 81 kW (110 CV) Start/Stop FR",
+            "name": "1.0 TSI 81 kW (110 CV) Start/Stop FR",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/estandar/arona-10-tsi-81-kw-110-cv-startstop-fr/datos",
@@ -18611,7 +18612,7 @@
             ]
         },
         {
-            "name": "Arona 1.5 EcoTSI 110 kW (150 CV) Start/Stop FR Edition",
+            "name": "1.5 EcoTSI 110 kW (150 CV) Start/Stop FR Edition",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/fr-edition/arona-15-ecotsi-110-kw-150-cv-startstop-fr-edition/datos",
@@ -18846,7 +18847,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 81 kW (110 CV) Start/Stop FR GO2",
+            "name": "1.0 TSI 81 kW (110 CV) Start/Stop FR GO2",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/estandar/arona-10-tsi-81-kw-110-cv-startstop-fr-go/datos",
@@ -19093,7 +19094,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI CR 70 kW (95 CV) Start/Stop Xcellence",
+            "name": "1.6 TDI CR 70 kW (95 CV) Start/Stop Xcellence",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence/arona-16-tdi-cr-70-kw-95-cv-startstop-xcellence2/datos",
@@ -19326,7 +19327,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI CR 70 kW (95 CV) DSG 7 vel. Start/Stop Xcellence Edition",
+            "name": "1.6 TDI CR 70 kW (95 CV) DSG 7 vel. Start/Stop Xcellence Edition",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence-edition/arona-16-tdi-cr-70-kw-95-cv-dsg-7-vel-startstop-xcellence-edition/datos",
@@ -19554,7 +19555,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 85 kW (115 CV) DSG 7 vel. Start/Stop Xcellence Edition",
+            "name": "1.0 TSI 85 kW (115 CV) DSG 7 vel. Start/Stop Xcellence Edition",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence-edition/arona-10-tsi-85-kw-115-cv-dsg-7-vel-startstop-xcellence-edition/datos",
@@ -19782,7 +19783,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI 70 kW (95 CV) DSG 7 vel. Start/Stop Xcellence",
+            "name": "1.6 TDI 70 kW (95 CV) DSG 7 vel. Start/Stop Xcellence",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence/arona-16-tdi-70-kw-95-cv-dsg-7-vel-startstop-xcellence/datos",
@@ -20016,7 +20017,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 85 kW (115 CV) DSG 7 vel. Start/Stop FR Edition",
+            "name": "1.0 TSI 85 kW (115 CV) DSG 7 vel. Start/Stop FR Edition",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/fr-edition/arona-10-tsi-85-kw-115-cv-dsg-7-vel-startstop-fr-edition/datos",
@@ -20249,7 +20250,7 @@
             ]
         },
         {
-            "name": "Arona 1.5 EcoTSI 110 kW (150 CV) Start/Stop FR",
+            "name": "1.5 EcoTSI 110 kW (150 CV) Start/Stop FR",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/fr/arona-15-ecotsi-110-kw-150-cv-startstop-fr2/datos",
@@ -20482,7 +20483,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI CR 70 kW (95 CV) Start/Stop Xcellence GO",
+            "name": "1.6 TDI CR 70 kW (95 CV) Start/Stop Xcellence GO",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence-go/arona-16-tdi-cr-70-kw-95-cv-startstop-xcellence-go/datos",
@@ -20714,7 +20715,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 85 kW (115 CV) DSG 7 vel. Start/Stop Xcellence",
+            "name": "1.0 TSI 85 kW (115 CV) DSG 7 vel. Start/Stop Xcellence",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence/arona-10-tsi-85-kw-115-cv-dsg-7-vel-startstop-xcellence/datos",
@@ -20947,7 +20948,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 85 kW (115 CV) DSG 7 vel. Start/Stop FR",
+            "name": "1.0 TSI 85 kW (115 CV) DSG 7 vel. Start/Stop FR",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/fr/arona-10-tsi-85-kw-115-cv-dsg-7-vel-startstop-fr/datos",
@@ -21181,7 +21182,7 @@
             ]
         },
         {
-            "name": "Arona 1.5 EcoTSI 110 kW (150 CV) Start/Stop FR GO",
+            "name": "1.5 EcoTSI 110 kW (150 CV) Start/Stop FR GO",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/fr-go/arona-15-ecotsi-110-kw-150-cv-startstop-fr-go/datos",
@@ -21418,7 +21419,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 85 kW (115 CV) DSG 7 vel. Start/Stop Xcellence GO",
+            "name": "1.0 TSI 85 kW (115 CV) DSG 7 vel. Start/Stop Xcellence GO",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence-go/arona-10-tsi-85-kw-115-cv-dsg-7-vel-startstop-xcellence-go/datos",
@@ -21650,7 +21651,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 85 kW (115 CV) DSG 7 vel. Start/Stop FR GO",
+            "name": "1.0 TSI 85 kW (115 CV) DSG 7 vel. Start/Stop FR GO",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/fr-go/arona-10-tsi-85-kw-115-cv-dsg-7-vel-startstop-fr-go/datos",
@@ -21886,7 +21887,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 81 kW (110 CV) DSG 7 vel. Start/Stop Xcellence",
+            "name": "1.0 TSI 81 kW (110 CV) DSG 7 vel. Start/Stop Xcellence",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/estandar/arona-10-tsi-81-kw-110-cv-dsg-7-vel-startstop-xcellence/datos",
@@ -22128,7 +22129,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 81 kW (110 CV) DSG 7 vel. Start/Stop FR",
+            "name": "1.0 TSI 81 kW (110 CV) DSG 7 vel. Start/Stop FR",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/estandar/arona-10-tsi-81-kw-110-cv-dsg-7-vel-startstop-fr/datos",
@@ -22376,7 +22377,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI CR 70 kW (95 CV) DSG 7 vel. Start/Stop Xcellence",
+            "name": "1.6 TDI CR 70 kW (95 CV) DSG 7 vel. Start/Stop Xcellence",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence/arona-16-tdi-cr-70-kw-95-cv-dsg-7-vel-startstop-xcellence2/datos",
@@ -22609,7 +22610,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 81 kW (110 CV) DSG 7 vel. Start/Stop Xcellence GO2",
+            "name": "1.0 TSI 81 kW (110 CV) DSG 7 vel. Start/Stop Xcellence GO2",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/estandar/arona-10-tsi-81-kw-110-cv-dsg-7-vel-startstop-xcellence-go/datos",
@@ -22848,7 +22849,7 @@
             ]
         },
         {
-            "name": "Arona 1.0 TSI 81 kW (110 CV) DSG 7 vel. Start/Stop FR GO2",
+            "name": "1.0 TSI 81 kW (110 CV) DSG 7 vel. Start/Stop FR GO2",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/estandar/arona-10-tsi-81-kw-110-cv-dsg-7-vel-startstop-fr-go/datos",
@@ -23096,7 +23097,7 @@
             ]
         },
         {
-            "name": "Arona 1.6 TDI CR 70 kW (95 CV) DSG 7 vel. Start/Stop Xcellence GO",
+            "name": "1.6 TDI CR 70 kW (95 CV) DSG 7 vel. Start/Stop Xcellence GO",
             "start_year": "2020",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/xcellence-go/arona-16-tdi-cr-70-kw-95-cv-dsg-7-vel-startstop-xcellence-go/datos",
@@ -23328,7 +23329,7 @@
             ]
         },
         {
-            "name": "Arona 1.5 EcoTSI 110 kW (150 CV) DSG 7 vel. Start/Stop FR",
+            "name": "1.5 EcoTSI 110 kW (150 CV) DSG 7 vel. Start/Stop FR",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/estandar/arona-15-ecotsi-110-kw-150-cv-dsg-7-vel-startstop-fr/datos",
@@ -23576,7 +23577,7 @@
             ]
         },
         {
-            "name": "Arona 1.5 EcoTSI 110 kW (150 CV) DSG 7 vel. Start/Stop FR GO2",
+            "name": "1.5 EcoTSI 110 kW (150 CV) DSG 7 vel. Start/Stop FR GO2",
             "start_year": "2020",
             "end_year": "2021",
             "url": "https://www.km77.com/coches/seat/arona/2018/estandar/estandar/arona-15-ecotsi-110-kw-150-cv-dsg-7-vel-startstop-fr-go/datos",

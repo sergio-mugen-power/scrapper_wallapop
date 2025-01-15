@@ -1,11 +1,12 @@
 {
+    "brand": "Mercedes-Benz",
     "name": "SLC",
     "year": "2016",
     "url": "https://www.km77.com/coches/mercedes/clase-slc/2016/estandar",
     "price": "",
     "versions": [
         {
-            "name": "SLC 200",
+            "name": "200",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mercedes/clase-slc/2016/estandar/estandar/slc-200/datos",
@@ -290,7 +291,7 @@
             ]
         },
         {
-            "name": "SLC 200",
+            "name": "200",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/mercedes/clase-slc/2016/estandar/estandar/slc-2002/datos",
@@ -574,7 +575,7 @@
             ]
         },
         {
-            "name": "SLC 200 9G-TRONIC",
+            "name": "200 9G-TRONIC",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mercedes/clase-slc/2016/estandar/estandar/slc-200-9g-tronic/datos",
@@ -862,7 +863,7 @@
             ]
         },
         {
-            "name": "SLC 250 d 9G-TRONIC",
+            "name": "250 d 9G-TRONIC",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mercedes/clase-slc/2016/estandar/estandar/slc-250-d-9g-tronic/datos",
@@ -1146,7 +1147,7 @@
             ]
         },
         {
-            "name": "AMG SLC 43 9G-TRONIC",
+            "name": "AMG  43 9G-TRONIC",
             "start_year": "2016",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/mercedes/clase-slc/2016/estandar/amg/amg-slc-43-9g-tronic/datos",
@@ -1429,7 +1430,7 @@
             ]
         },
         {
-            "name": "Mercedes-AMG SLC 43",
+            "name": "Mercedes-AMG  43",
             "start_year": "2018",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/mercedes/clase-slc/2016/estandar/amg/amg-slc-43/datos",
@@ -1707,7 +1708,7 @@
             ]
         },
         {
-            "name": "Mercedes-AMG SLC 43 Final Edition",
+            "name": "Mercedes-AMG  43 Final Edition",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/mercedes/clase-slc/2016/estandar/amg-final-edition/amg-slc-43-final-edition/datos",
@@ -1789,7 +1790,7 @@
             ]
         },
         {
-            "name": "SLC 200 Final Edition",
+            "name": "200 Final Edition",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/mercedes/clase-slc/2016/estandar/final-edition/slc-200-final-edition/datos",

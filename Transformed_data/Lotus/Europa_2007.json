@@ -1,11 +1,12 @@
 {
+    "brand": "Lotus",
     "name": "Europa",
     "year": "2007",
     "url": "https://www.km77.com/coches/lotus/europa/2007/estandar",
     "price": "",
     "versions": [
         {
-            "name": "Europa S",
+            "name": "S",
             "start_year": "2008",
             "end_year": "2010",
             "url": "https://www.km77.com/coches/lotus/europa/2007/estandar/estandar/europa-s2/datos",
@@ -171,7 +172,7 @@
             ]
         },
         {
-            "name": "Europa S",
+            "name": "S",
             "start_year": "2007",
             "end_year": "2008",
             "url": "https://www.km77.com/coches/lotus/europa/2007/estandar/estandar/europa-s/datos",

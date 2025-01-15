@@ -1,11 +1,12 @@
 {
+    "brand": "Ford",
     "name": "S-MAX",
     "year": "2015",
     "url": "https://www.km77.com/coches/ford/s-max/2015/estandar",
     "price": "",
     "versions": [
         {
-            "name": "S-MAX Trend 1.5 EcoBoost 123 kW (165 CV) 5 plazas",
+            "name": "Trend 1.5 EcoBoost 123 kW (165 CV) 5 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/trend/s-max-trend-15-ecoboost-123-kw-165-cv-5-plazas/datos",
@@ -227,7 +228,7 @@
             ]
         },
         {
-            "name": "S-MAX Trend 2.0 EcoBlue 88 kW (120 CV) 5 plazas",
+            "name": "Trend 2.0 EcoBlue 88 kW (120 CV) 5 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/trend/s-max-trend-20-ecoblue-88-kw-120-cv-5-plazas/datos",
@@ -448,7 +449,7 @@
             ]
         },
         {
-            "name": "S-MAX Trend 1.5 EcoBoost 123 kW (165 CV) 7 plazas",
+            "name": "Trend 1.5 EcoBoost 123 kW (165 CV) 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/trend/s-max-trend-15-ecoboost-123-kw-165-cv-7-plazas/datos",
@@ -671,7 +672,7 @@
             ]
         },
         {
-            "name": "S-MAX Trend 2.0 EcoBlue 88 kW (120 CV) 7 plazas",
+            "name": "Trend 2.0 EcoBlue 88 kW (120 CV) 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/trend/s-max-trend-20-ecoblue-88-kw-120-cv-7-plazas/datos",
@@ -894,7 +895,7 @@
             ]
         },
         {
-            "name": "S-MAX Trend 1.5 EcoBoost 160 CV 5 plazas",
+            "name": "Trend 1.5 EcoBoost 160 CV 5 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/trend/s-max-trend-15-ecoboost-160-cv-5-plazas/datos",
@@ -1119,7 +1120,7 @@
             ]
         },
         {
-            "name": "S-MAX Trend 2.0 TDCi 120 CV 5 plazas",
+            "name": "Trend 2.0 TDCi 120 CV 5 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/trend/s-max-trend-20-tdci-120-cv-5-plazas/datos",
@@ -1344,7 +1345,7 @@
             ]
         },
         {
-            "name": "S-MAX Trend 1.5 EcoBoost 160 CV 7 plazas",
+            "name": "Trend 1.5 EcoBoost 160 CV 7 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/trend/s-max-trend-15-ecoboost-160-cv/datos",
@@ -1569,7 +1570,7 @@
             ]
         },
         {
-            "name": "S-MAX Trend 2.0 TDCi 120 CV 7 plazas",
+            "name": "Trend 2.0 TDCi 120 CV 7 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/trend/s-max-2015/datos",
@@ -1665,7 +1666,7 @@
             ]
         },
         {
-            "name": "S-MAX Trend 2.0 EcoBlue 110 kW (150 CV) 5 plazas",
+            "name": "Trend 2.0 EcoBlue 110 kW (150 CV) 5 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/trend/s-max-trend-20-ecoblue-110-kw-150-cv-5-plazas/datos",
@@ -1888,7 +1889,7 @@
             ]
         },
         {
-            "name": "S-MAX Trend 2.0 EcoBlue 110 kW (150 CV) 7 plazas",
+            "name": "Trend 2.0 EcoBlue 110 kW (150 CV) 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/trend/s-max-trend-20-ecoblue-110-kw-150-cv-7-plazas/datos",
@@ -2112,7 +2113,7 @@
             ]
         },
         {
-            "name": "S-MAX Trend 2.0 TDCi 150 CV 5 plazas",
+            "name": "Trend 2.0 TDCi 150 CV 5 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/trend/s-max-trend-20-tdci-150-cv-5-plazas/datos",
@@ -2337,7 +2338,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 1.5 EcoBoost 160 CV 5 plazas",
+            "name": "Titanium 1.5 EcoBoost 160 CV 5 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-titanium-15-ecoboost-160-cv-5-plazas/datos",
@@ -2596,7 +2597,7 @@
             ]
         },
         {
-            "name": "S-MAX Trend 2.0 TDCi 150 CV 7 plazas",
+            "name": "Trend 2.0 TDCi 150 CV 7 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/trend/s-max-trend-20-tdci-150-cv-7-plazas/datos",
@@ -2821,7 +2822,7 @@
             ]
         },
         {
-            "name": "S-MAX Trend 2.0 TDCi 150 CV PowerShift 5 plazas",
+            "name": "Trend 2.0 TDCi 150 CV PowerShift 5 plazas",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/trend/s-max-trend-20-tdci-150-cv-powershift-5-plazas/datos",
@@ -3037,7 +3038,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 1.5 EcoBoost 123 kW (165 CV) 5 plazas",
+            "name": "Titanium 1.5 EcoBoost 123 kW (165 CV) 5 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-titanium-15-ecoboost-123-kw-165-cv-5-plazas/datos",
@@ -3289,7 +3290,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 1.5 EcoBoost 160 CV 7 plazas",
+            "name": "Titanium 1.5 EcoBoost 160 CV 7 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-titanium-15-ecoboost-160-cv/datos",
@@ -3549,7 +3550,7 @@
             ]
         },
         {
-            "name": "S-MAX Trend 2.0 EcoBlue 110 kW (150 CV) Aut. 8 vel. 5 plazas",
+            "name": "Trend 2.0 EcoBlue 110 kW (150 CV) Aut. 8 vel. 5 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/trend/s-max-trend-20-ecoblue-110-kw-150-cv-aut-8-vel-5-plazas/datos",
@@ -3772,7 +3773,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 1.5 EcoBoost 123 kW (165 CV) 7 plazas",
+            "name": "Titanium 1.5 EcoBoost 123 kW (165 CV) 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-titanium-15-ecoboost-123-kw-165-cv-7-plazas/datos",
@@ -4027,7 +4028,7 @@
             ]
         },
         {
-            "name": "S-MAX Trend 2.0 TDCi 150 CV PowerShift 7 plazas",
+            "name": "Trend 2.0 TDCi 150 CV PowerShift 7 plazas",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/trend/s-max-trend-20-tdci-150-cv-7-plazas-powershift/datos",
@@ -4246,7 +4247,7 @@
             ]
         },
         {
-            "name": "S-MAX Trend 2.0 EcoBlue 110 kW (150 CV) Aut. 8 vel. 7 plazas",
+            "name": "Trend 2.0 EcoBlue 110 kW (150 CV) Aut. 8 vel. 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/trend/s-max-trend-20-ecoblue-110-kw-150-cv-aut-8-vel-7-plazas/datos",
@@ -4470,7 +4471,7 @@
             ]
         },
         {
-            "name": "S-MAX Trend 2.0 TDCi 150 CV PowerShift 5 plazas",
+            "name": "Trend 2.0 TDCi 150 CV PowerShift 5 plazas",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/trend/s-max-trend-20-tdci-150-cv-powershift-5-plazas2/datos",
@@ -4697,7 +4698,7 @@
             ]
         },
         {
-            "name": "S-MAX ST-Line 1.5 EcoBoost 123 kW (165 CV) 5 plazas",
+            "name": "ST-Line 1.5 EcoBoost 123 kW (165 CV) 5 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/st-line/s-max-st-line-15-ecoboost-123-kw-165-cv-5-plazas/datos",
@@ -4947,7 +4948,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 TDCi 150 CV 5 plazas",
+            "name": "Titanium 2.0 TDCi 150 CV 5 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-titanium-20-tdci-150-cv-5-plazas/datos",
@@ -5206,7 +5207,7 @@
             ]
         },
         {
-            "name": "S-MAX ST-Line 1.5 EcoBoost 123 kW (165 CV) 7 plazas",
+            "name": "ST-Line 1.5 EcoBoost 123 kW (165 CV) 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/st-line/s-max-st-line-15-ecoboost-123-kw-165-cv-7-plazas/datos",
@@ -5459,7 +5460,7 @@
             ]
         },
         {
-            "name": "S-MAX Trend 2.0 TDCi 150 CV PowerShift 7 plazas",
+            "name": "Trend 2.0 TDCi 150 CV PowerShift 7 plazas",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/trend/s-max-trend-20-tdci-150-cv-powershift-7-plazas/datos",
@@ -5686,7 +5687,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 TDCi 150 CV PowerShift 5 plazas",
+            "name": "Titanium 2.0 TDCi 150 CV PowerShift 5 plazas",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-titanium-20-tdci-150-cv-powershift-5-plazas/datos",
@@ -5941,7 +5942,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 TDCi 150 CV 7 plazas",
+            "name": "Titanium 2.0 TDCi 150 CV 7 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-titanium-20-tdci-150-cv-7-plazas/datos",
@@ -6201,7 +6202,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 EcoBlue 110 kW (150 CV) 5 plazas",
+            "name": "Titanium 2.0 EcoBlue 110 kW (150 CV) 5 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-titanium-20-ecoblue-110-kw-150-cv-5-plazas/datos",
@@ -6454,7 +6455,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 TDCi 150 CV PowerShift 7 plazas",
+            "name": "Titanium 2.0 TDCi 150 CV PowerShift 7 plazas",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-titanium-20-tdci-150-cv-powershift-7-plazas/datos",
@@ -6713,7 +6714,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 EcoBlue 110 kW (150 CV) 7 plazas",
+            "name": "Titanium 2.0 EcoBlue 110 kW (150 CV) 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-titanium-20-ecoblue-110-kw-150-cv-7-plazas/datos",
@@ -6969,7 +6970,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 EcoBoost 240 CV Aut. 5 plazas",
+            "name": "Titanium 2.0 EcoBoost 240 CV Aut. 5 plazas",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-titanium-20-ecoboost-240-cv-aut-5-plazas/datos",
@@ -7223,7 +7224,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 TDCi 150 CV PowerShift 5 plazas",
+            "name": "Titanium 2.0 TDCi 150 CV PowerShift 5 plazas",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-titanium-20-tdci-150-cv-powershift-5-plazas2/datos",
@@ -7484,7 +7485,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 TDCi 180 CV 5 plazas",
+            "name": "Titanium 2.0 TDCi 180 CV 5 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-trend-20-tdci-180-cv-5-plazas/datos",
@@ -7743,7 +7744,7 @@
             ]
         },
         {
-            "name": "S-MAX ST-Line 2.0 EcoBlue 110 kW (150 CV) 5 plazas",
+            "name": "ST-Line 2.0 EcoBlue 110 kW (150 CV) 5 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/st-line/s-max-st-line-20-ecoblue-110-kw-150-cv-5-plazas/datos",
@@ -7994,7 +7995,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 TDCi 180 CV PowerShift 5 plazas",
+            "name": "Titanium 2.0 TDCi 180 CV PowerShift 5 plazas",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-trend-20-tdci-180-cv-powershift-5-plazas/datos",
@@ -8249,7 +8250,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 EcoBoost 240 CV Aut. 7 plazas",
+            "name": "Titanium 2.0 EcoBoost 240 CV Aut. 7 plazas",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-titanium-20-ecoboost-240-cv-aut-7-plazas/datos",
@@ -8507,7 +8508,7 @@
             ]
         },
         {
-            "name": "S-MAX ST-Line 2.0 EcoBlue 110 kW (150 CV) 7 plazas",
+            "name": "ST-Line 2.0 EcoBlue 110 kW (150 CV) 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/st-line/s-max-st-line-20-ecoblue-110-kw-150-cv-7-plazas/datos",
@@ -8761,7 +8762,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 TDCi 150 CV PowerShift 7 plazas",
+            "name": "Titanium 2.0 TDCi 150 CV PowerShift 7 plazas",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-titanium-20-tdci-150-cv-powershift-7-plazas2/datos",
@@ -9023,7 +9024,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 TDCi 180 CV 7 plazas",
+            "name": "Titanium 2.0 TDCi 180 CV 7 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-trend-20-tdci-180-cv-7-plazas/datos",
@@ -9283,7 +9284,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 EcoBlue 110 kW (150 CV) Aut. 8 vel. 5 plazas",
+            "name": "Titanium 2.0 EcoBlue 110 kW (150 CV) Aut. 8 vel. 5 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-titanium-20-ecoblue-110-kw-150-cv-aut-8-vel-5-plazas/datos",
@@ -9536,7 +9537,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 TDCi 150 CV AWD 5 plazas",
+            "name": "Titanium 2.0 TDCi 150 CV AWD 5 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-titanium-20-tdci-150-cv-awd-5-plazas/datos",
@@ -9794,7 +9795,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 TDCi 180 CV PowerShift 7 plazas",
+            "name": "Titanium 2.0 TDCi 180 CV PowerShift 7 plazas",
             "start_year": "2015",
             "end_year": "2016",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-trend-20-tdci-180-cv-powershift-7-plazas/datos",
@@ -10053,7 +10054,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 EcoBlue 110 kW (150 CV) Aut. 8 vel. 7 plazas",
+            "name": "Titanium 2.0 EcoBlue 110 kW (150 CV) Aut. 8 vel. 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-titanium-20-ecoblue-110-kw-150-cv-aut-8-vel-7-plazas/datos",
@@ -10309,7 +10310,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 EcoBoost 240 CV Aut. 5 plazas",
+            "name": "Titanium 2.0 EcoBoost 240 CV Aut. 5 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-titanium-20-ecoboost-240-cv-aut-5-plazas2/datos",
@@ -10570,7 +10571,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 TDCi 150 CV AWD 7 plazas",
+            "name": "Titanium 2.0 TDCi 150 CV AWD 7 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-titanium-20-tdci-150-cv-awd-7-plazas/datos",
@@ -10829,7 +10830,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 TDCi 180 CV PowerShift 5 plazas",
+            "name": "Titanium 2.0 TDCi 180 CV PowerShift 5 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-titanium-20-tdci-180-cv-powershift-5-plazas/datos",
@@ -11090,7 +11091,7 @@
             ]
         },
         {
-            "name": "S-MAX ST-Line 2.0 EcoBlue 110 kW (150 CV) Aut. 8 vel. 5 plazas",
+            "name": "ST-Line 2.0 EcoBlue 110 kW (150 CV) Aut. 8 vel. 5 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/st-line/s-max-st-line-20-ecoblue-110-kw-150-cv-aut-8-vel-5-plazas/datos",
@@ -11341,7 +11342,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 EcoBoost 240 CV Aut. 7 plazas",
+            "name": "Titanium 2.0 EcoBoost 240 CV Aut. 7 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-titanium-20-ecoboost-240-cv-aut-7-plazas2/datos",
@@ -11601,7 +11602,7 @@
             ]
         },
         {
-            "name": "S-MAX ST-Line 2.0 EcoBlue 110 kW (150 CV) Aut. 8 vel. 7 plazas",
+            "name": "ST-Line 2.0 EcoBlue 110 kW (150 CV) Aut. 8 vel. 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/st-line/s-max-st-line-20-ecoblue-110-kw-150-cv-aut-8-vel-7-plazas/datos",
@@ -11855,7 +11856,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 TDCi 180 CV PowerShift 7 plazas",
+            "name": "Titanium 2.0 TDCi 180 CV PowerShift 7 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-titanium-20-tdci-180-cv-powershift-7-plazas/datos",
@@ -12117,7 +12118,7 @@
             ]
         },
         {
-            "name": "S-MAX ST-Line 2.0 EcoBlue 142 kW (190 CV) 5 plazas",
+            "name": "ST-Line 2.0 EcoBlue 142 kW (190 CV) 5 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/st-line/s-max-st-line-20-ecoblue-142-kw-190-cv-5-plazas/datos",
@@ -12368,7 +12369,7 @@
             ]
         },
         {
-            "name": "S-MAX ST-Line 2.0 EcoBlue 142 kW (190 CV) 7 plazas",
+            "name": "ST-Line 2.0 EcoBlue 142 kW (190 CV) 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/st-line/s-max-st-line-20-ecoblue-142-kw-190-cv-7-plazas/datos",
@@ -12622,7 +12623,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 TDCi Bi-turbo 210 CV PowerShift 5 plazas",
+            "name": "Titanium 2.0 TDCi Bi-turbo 210 CV PowerShift 5 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-trend-20-tdci-bi-turbo-210-cv-powershift-5-plazas/datos",
@@ -12883,7 +12884,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.0 EcoBlue 110 kW (150 CV) 5 plazas",
+            "name": "Vignale 2.0 EcoBlue 110 kW (150 CV) 5 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/vignale/s-max-vignale-20-ecoblue-110-kw-150-cv-5-plazas/datos",
@@ -13136,7 +13137,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 TDCi Bi-turbo 210 CV PowerShift 7 plazas",
+            "name": "Titanium 2.0 TDCi Bi-turbo 210 CV PowerShift 7 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-trend-20-tdci-bi-turbo-210-cv-powershift-7-plazas/datos",
@@ -13398,7 +13399,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.0 EcoBlue 110 kW (150 CV) 7 plazas",
+            "name": "Vignale 2.0 EcoBlue 110 kW (150 CV) 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/vignale/s-max-vignale-20-ecoblue-110-kw-150-cv-7-plazas/datos",
@@ -13654,7 +13655,7 @@
             ]
         },
         {
-            "name": "S-MAX ST-Line 2.0 EcoBlue 142 kW (190 CV) Aut. 8 vel. 5 plazas",
+            "name": "ST-Line 2.0 EcoBlue 142 kW (190 CV) Aut. 8 vel. 5 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/st-line/s-max-st-line-20-ecoblue-142-kw-190-cv-aut-8-vel-5-plazas/datos",
@@ -13905,7 +13906,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 TDCi 180 CV AWD PowerShift 5 plazas",
+            "name": "Titanium 2.0 TDCi 180 CV AWD PowerShift 5 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-titanium-20-tdci-180-cv-awd-powershift-5-plazas/datos",
@@ -14165,7 +14166,7 @@
             ]
         },
         {
-            "name": "S-MAX ST-Line 2.0 EcoBlue 142 kW (190 CV) Aut. 8 vel. 7 plazas",
+            "name": "ST-Line 2.0 EcoBlue 142 kW (190 CV) Aut. 8 vel. 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/st-line/s-max-st-line-20-ecoblue-142-kw-190-cv-aut-8-vel-7-plazas/datos",
@@ -14419,7 +14420,7 @@
             ]
         },
         {
-            "name": "S-MAX Titanium 2.0 TDCi 180 CV AWD PowerShift 7 plazas",
+            "name": "Titanium 2.0 TDCi 180 CV AWD PowerShift 7 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/titanium/s-max-trend-20-tdci-180-cv-awd-powershift-7-plazas/datos",
@@ -14680,7 +14681,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.0 TDCi 180 CV 5 plazas",
+            "name": "Vignale 2.0 TDCi 180 CV 5 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/vignale/s-max-vignale-20-tdci-180-cv-5-plazas/datos",
@@ -14925,7 +14926,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.0 EcoBlue 110 kW (150 CV) Aut. 8 vel. 5 plazas",
+            "name": "Vignale 2.0 EcoBlue 110 kW (150 CV) Aut. 8 vel. 5 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/vignale/s-max-vignale-20-ecoblue-110-kw-150-cv-aut-8-vel-5-plazas/datos",
@@ -15178,7 +15179,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.0 TDCi 180 CV 7 plazas",
+            "name": "Vignale 2.0 TDCi 180 CV 7 plazas",
             "start_year": "2016",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/vignale/s-max-vignale-20-tdci-180-cv-7-plazas/datos",
@@ -15422,7 +15423,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.0 TDCi 150 CV AWD 5 plazas",
+            "name": "Vignale 2.0 TDCi 150 CV AWD 5 plazas",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/vignale/s-max-vignale-20-tdci-150-cv-awd-5-plazas/datos",
@@ -15667,7 +15668,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.0 EcoBlue 110 kW (150 CV) Aut. 8 vel. 7 plazas",
+            "name": "Vignale 2.0 EcoBlue 110 kW (150 CV) Aut. 8 vel. 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/vignale/s-max-vignale-20-ecoblue-110-kw-150-cv-aut-8-vel-7-plazas/datos",
@@ -15923,7 +15924,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.0 EcoBlue 142 kW (190 CV) 5 plazas",
+            "name": "Vignale 2.0 EcoBlue 142 kW (190 CV) 5 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/vignale/s-max-vignale-20-ecoblue-142-kw-190-cv-5-plazas/datos",
@@ -16176,7 +16177,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.0 EcoBoost 240 CV Aut. 5 plazas",
+            "name": "Vignale 2.0 EcoBoost 240 CV Aut. 5 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/vignale/s-max-vignale-20-ecoboost-240-cv-aut-5-plazas/datos",
@@ -16421,7 +16422,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.0 EcoBlue 142 kW (190 CV) 7 plazas",
+            "name": "Vignale 2.0 EcoBlue 142 kW (190 CV) 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/vignale/s-max-vignale-20-ecoblue-142-kw-190-cv-7-plazas/datos",
@@ -16677,7 +16678,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.0 TDCi 150 CV AWD 7 plazas",
+            "name": "Vignale 2.0 TDCi 150 CV AWD 7 plazas",
             "start_year": "2017",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/vignale/s-max-vignale-20-tdci-150-cv-awd-7-plazas/datos",
@@ -16921,7 +16922,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.0 TDCi 180 CV PowerShift 5 plazas",
+            "name": "Vignale 2.0 TDCi 180 CV PowerShift 5 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/vignale/s-max-vignale-20-tdci-180-cv-powershift-5-plazas/datos",
@@ -17168,7 +17169,7 @@
             ]
         },
         {
-            "name": "S-MAX ST-Line 2.0 EcoBlue 142 kW (190 CV) AWD Aut. 8 vel. 5 plazas",
+            "name": "ST-Line 2.0 EcoBlue 142 kW (190 CV) AWD Aut. 8 vel. 5 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/st-line/s-max-st-line-20-ecoblue-142-kw-190-cv-awd-aut-8-vel-5-plazas/datos",
@@ -17419,7 +17420,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.0 EcoBoost 240 CV Aut. 7 plazas",
+            "name": "Vignale 2.0 EcoBoost 240 CV Aut. 7 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/vignale/s-max-vignale-20-ecoboost-240-cv-aut-7-plazas/datos",
@@ -17663,7 +17664,7 @@
             ]
         },
         {
-            "name": "S-MAX ST-Line 2.0 EcoBlue 179 kW (240 CV) Aut. 8 vel. 5 plazas",
+            "name": "ST-Line 2.0 EcoBlue 179 kW (240 CV) Aut. 8 vel. 5 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/st-line/s-max-st-line-20-ecoblue-179-kw-240-cv-aut-8-vel-5-plazas/datos",
@@ -17911,7 +17912,7 @@
             ]
         },
         {
-            "name": "S-MAX ST-Line 2.0 EcoBlue 142 kW (190 CV) AWD Aut. 8 vel. 7 plazas",
+            "name": "ST-Line 2.0 EcoBlue 142 kW (190 CV) AWD Aut. 8 vel. 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/st-line/s-max-st-line-20-ecoblue-142-kw-190-cv-awd-aut-8-vel-7-plazas/datos",
@@ -18165,7 +18166,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.0 TDCi 180 CV PowerShift 7 plazas",
+            "name": "Vignale 2.0 TDCi 180 CV PowerShift 7 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/vignale/s-max-vignale-20-tdci-180-cv-powershift-7-plazas/datos",
@@ -18411,7 +18412,7 @@
             ]
         },
         {
-            "name": "S-MAX ST-Line 2.0 EcoBlue 179 kW (240 CV) Aut. 8 vel. 7 plazas",
+            "name": "ST-Line 2.0 EcoBlue 179 kW (240 CV) Aut. 8 vel. 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/st-line/s-max-st-line-20-ecoblue-179-kw-240-cv-aut-8-vel-7-plazas/datos",
@@ -18662,7 +18663,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.0 EcoBlue 142 kW (190 CV) Aut. 8 vel. 5 plazas",
+            "name": "Vignale 2.0 EcoBlue 142 kW (190 CV) Aut. 8 vel. 5 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/vignale/s-max-vignale-20-ecoblue-142-kw-190-cv-aut-8-vel-5-plazas/datos",
@@ -18915,7 +18916,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.0 EcoBlue 142 kW (190 CV) Aut. 8 vel. 7 plazas",
+            "name": "Vignale 2.0 EcoBlue 142 kW (190 CV) Aut. 8 vel. 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/vignale/s-max-vignale-20-ecoblue-142-kw-190-cv-aut-8-vel-7-plazas/datos",
@@ -19171,7 +19172,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.0 TDCi Bi-turbo 210 CV PowerShift 5 plazas",
+            "name": "Vignale 2.0 TDCi Bi-turbo 210 CV PowerShift 5 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/vignale/s-max-vignale-20-tdci-bi-turbo-210-cv-powershift-5-plazas/datos",
@@ -19418,7 +19419,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.0 TDCi Bi-turbo 210 CV PowerShift 7 plazas",
+            "name": "Vignale 2.0 TDCi Bi-turbo 210 CV PowerShift 7 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/vignale/s-max-vignale-20-tdci-bi-turbo-210-cv-powershift-7-plazas/datos",
@@ -19664,7 +19665,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.0 TDCi 180 CV AWD PowerShift 5 plazas",
+            "name": "Vignale 2.0 TDCi 180 CV AWD PowerShift 5 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/vignale/s-max-vignale-20-tdci-180-cv-awd-powershift-5-plazas/datos",
@@ -19911,7 +19912,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.0 TDCi 180 CV AWD PowerShift 7 plazas",
+            "name": "Vignale 2.0 TDCi 180 CV AWD PowerShift 7 plazas",
             "start_year": "2015",
             "end_year": "2019",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/vignale/s-max-vignale-20-tdci-180-cv-awd-powershift-7-plazas/datos",
@@ -20157,7 +20158,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.0 EcoBlue 142 kW (190 CV) AWD Aut. 8 vel. 5 plazas",
+            "name": "Vignale 2.0 EcoBlue 142 kW (190 CV) AWD Aut. 8 vel. 5 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/vignale/s-max-vignale-20-ecoblue-142-kw-190-cv-awd-aut-8-vel-5-plazas/datos",
@@ -20411,7 +20412,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.0 EcoBlue 179 kW (240 CV) Aut. 8 vel. 5 plazas",
+            "name": "Vignale 2.0 EcoBlue 179 kW (240 CV) Aut. 8 vel. 5 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/vignale/s-max-vignale-20-ecoblue-179-kw-240-cv-aut-8-vel-5-plazas/datos",
@@ -20661,7 +20662,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.0 EcoBlue 142 kW (190 CV) AWD Aut. 8 vel. 7 plazas",
+            "name": "Vignale 2.0 EcoBlue 142 kW (190 CV) AWD Aut. 8 vel. 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/vignale/s-max-vignale-20-ecoblue-142-kw-190-cv-awd-aut-8-vel-7-plazas/datos",
@@ -20918,7 +20919,7 @@
             ]
         },
         {
-            "name": "S-MAX Vignale 2.0 EcoBlue 179 kW (240 CV) Aut. 8 vel. 7 plazas",
+            "name": "Vignale 2.0 EcoBlue 179 kW (240 CV) Aut. 8 vel. 7 plazas",
             "start_year": "2019",
             "end_year": "2020",
             "url": "https://www.km77.com/coches/ford/s-max/2015/estandar/vignale/s-max-vignale-20-ecoblue-179-kw-240-cv-aut-8-vel-7-plazas/datos",

@@ -1,11 +1,12 @@
 {
+    "brand": "Audi",
     "name": "R8 Coupé",
     "year": "2015",
     "url": "https://www.km77.com/coches/audi/r8/2015/coupe",
     "price": "",
     "versions": [
         {
-            "name": "R8 Coupé 5.2 FSI V10 397 kW (540 CV) RWS S tronic",
+            "name": "5.2 FSI V10 397 kW (540 CV) RWS S tronic",
             "start_year": "2018",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/r8/2015/coupe/rws/r8-coupe-v10-rws/datos",
@@ -240,7 +241,7 @@
             ]
         },
         {
-            "name": "R8 Coupé 5.2 FSI V10 397 kW (540 CV) quattro S tronic",
+            "name": "5.2 FSI V10 397 kW (540 CV) quattro S tronic",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/r8/2015/coupe/estandar/r8-coupe-52-fsi-v10-540-cv/datos",
@@ -478,7 +479,7 @@
             ]
         },
         {
-            "name": "R8 Coupé 5.2 FSI V10 plus 449 kW (610 CV) quattro S tronic",
+            "name": "5.2 FSI V10 plus 449 kW (610 CV) quattro S tronic",
             "start_year": "2015",
             "end_year": "2018",
             "url": "https://www.km77.com/coches/audi/r8/2015/coupe/estandar/r8-coupe-52-fsi-v10-plus-610-cv/datos",
