@@ -3,7 +3,7 @@ import json
 
 # Directorios base
 input_dir = "../transformed_data"
-output_dir = "../parameters_scrapper"
+output_dir = "../parameters_scrapper_wallapop"
 
 # Crear directorio de salida si no existe
 os.makedirs(output_dir, exist_ok=True)
