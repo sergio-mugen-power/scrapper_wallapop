@@ -1,0 +1,108 @@
+{
+    "name": "Urus",
+    "year": "2025",
+    "url": "https://www.km77.com/coches/lamborghini/urus/2025/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "Urus SE ( - )",
+            "start_year": "Desconocido",
+            "end_year": "Desconocido",
+            "url": "https://www.km77.com/coches/lamborghini/urus/2025/estandar/phev/urus-se/datos",
+            "price": "",
+            "potencia": "799",
+            "consumo": "-",
+            "longitud": "5.123",
+            "maletero": "-",
+            "specs": [
+                {
+                    "Velocidad máxima": "312 km/h",
+                    "Aceleración 0-100 km/h": "3,4 s",
+                    "Autonomía eléctrica WLTP": "60 km",
+                    "Normativa de emisiones": "Euro 6",
+                    "Distintivo ambiental DGT": "ECO"
+                },
+                {
+                    "Tipo de Carrocería": "Todoterreno",
+                    "Número de puertas": "5",
+                    "Longitud": "5.123 mm",
+                    "Anchura": "2.022 mm",
+                    "Altura": "1.638 mm",
+                    "Batalla": "3.003 mm",
+                    "Vía delantera": "1.695 mm",
+                    "Vía trasera": "1.710 mm",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Potencia máxima": "799 CV / 588 kW",
+                    "Par máximo": "950 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "620 CV / 456 kW",
+                    "Revoluciones potencia máxima": "6.000 rpm",
+                    "Par máximo": "800 Nm",
+                    "Revoluciones par máximo": "2.250 - 4.500 rpm",
+                    "Situación": "Delantero longitudinal",
+                    "Número de cilindros": "8",
+                    "Disposición de los cilindros": "En V",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "86 mm",
+                    "Carrera": "86 mm",
+                    "Cilindrada": "3.996 cm³",
+                    "Relación de compresión": "9,7 a 1",
+                    "Alimentación": "Inyección directa. Turbo. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Propósito": "Impulsar al vehículo / generar corriente eléc",
+                    "Potencia máxima": "192 CV / 141 kW",
+                    "Revoluciones potencia máxima": "No disponible",
+                    "Par máximo": "483 Nm",
+                    "Revoluciones par máximo": "No disponible",
+                    "Ubicación": "Delantero longitudinal",
+                    "Tensión nominal": "No disponible"
+                },
+                {},
+                {
+                    "Tipo": "Acumulador de iones de litio",
+                    "Ubicación": "Trasera",
+                    "Capacidad": "25,9 kWh",
+                    "Capacidad útil": "No disponible"
+                },
+                {
+                    "Potencia de recarga máxima en C.C.": "No disponible",
+                    "Potencia de recarga máxima en C.A.": "No disponible",
+                    "Tiempo de recarga total a 3,7 kW": "No disponible"
+                },
+                {
+                    "Tracción": "Total",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "8",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "Convertidor de par",
+                    "Tipo de mecanismo": "Epicicloidal"
+                },
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Resorte neumático",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte neumático",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado cerámico",
+                    "Diámetro de frenos delanteros": "440 mm",
+                    "Tipo de frenos traseros": "Disco ventilado cerámico",
+                    "Diámetro de frenos traseros": "410 mm",
+                    "Neumáticos delanteros": "285/45 R21",
+                    "Neumáticos traseros": "315/40 R21",
+                    "Llantas delanteras": "9.5 x 21",
+                    "Llantas Traseras": "10.5 x 21"
+                }
+            ]
+        }
+    ]
+}

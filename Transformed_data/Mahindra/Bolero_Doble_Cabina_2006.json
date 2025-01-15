@@ -1,0 +1,52 @@
+{
+    "name": "Bolero Doble Cabina",
+    "year": "2006",
+    "url": "https://www.km77.com/coches/mahindra/bolero/2006/doble-cabina",
+    "price": "",
+    "versions": [
+        {
+            "name": "Bolero 4x2 DC",
+            "start_year": "2006",
+            "end_year": "2007",
+            "url": "https://www.km77.com/coches/mahindra/bolero/2006/doble-cabina/estandar/bolero-4x2-dc/datos",
+            "price": "14.950",
+            "potencia": "101",
+            "consumo": "-",
+            "longitud": "4.924",
+            "maletero": "-"
+        },
+        {
+            "name": "Bolero 4x4 DC",
+            "start_year": "2006",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/mahindra/bolero/2006/doble-cabina/estandar/bolero-4x4-dc/datos",
+            "price": "18.151",
+            "potencia": "101",
+            "consumo": "-",
+            "longitud": "4.924",
+            "maletero": "-"
+        },
+        {
+            "name": "Bolero 4x4 DC",
+            "start_year": "2010",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/mahindra/bolero/2006/doble-cabina/estandar/bolero-4x4-dc3/datos",
+            "price": "19.214",
+            "potencia": "101",
+            "consumo": "-",
+            "longitud": "4.924",
+            "maletero": "-"
+        },
+        {
+            "name": "Bolero 4x4 DC",
+            "start_year": "2008",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/mahindra/bolero/2006/doble-cabina/estandar/bolero-4x4-dc2/datos",
+            "price": "19.251",
+            "potencia": "101",
+            "consumo": "-",
+            "longitud": "4.924",
+            "maletero": "-"
+        }
+    ]
+}

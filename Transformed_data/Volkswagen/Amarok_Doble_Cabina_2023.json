@@ -1,0 +1,52 @@
+{
+    "name": "Amarok Doble Cabina",
+    "year": "2023",
+    "url": "https://www.km77.com/coches/volkswagen/amarok/2023/doble-cabina",
+    "price": "Desde 48.040 €",
+    "versions": [
+        {
+            "name": "Amarok Doble Cabina 2.0 TDI 125 kW (170 CV) 4MOTION (05/2023 - )",
+            "start_year": "2023",
+            "end_year": "",
+            "url": "https://www.km77.com/coches/volkswagen/amarok/2023/doble-cabina/estandar/amarok-doble-cabina/datos",
+            "price": "48.040",
+            "potencia": "170",
+            "consumo": "8,6",
+            "longitud": "5.350",
+            "maletero": "-"
+        },
+        {
+            "name": "Amarok Doble Cabina Style 2.0 TDI 151 kW (205 CV) 4MOTION Aut. (05/2023 - )",
+            "start_year": "2023",
+            "end_year": "",
+            "url": "https://www.km77.com/coches/volkswagen/amarok/2023/doble-cabina/estandar/amarok-doble-cabina-20-tdi-151-kw-205-cv-4motion-aut/datos",
+            "price": "59.830",
+            "potencia": "205",
+            "consumo": "8,9",
+            "longitud": "5.350",
+            "maletero": "-"
+        },
+        {
+            "name": "Amarok Doble Cabina Aventura 3.0 TDI 177 kW (241 CV) 4MOTION Aut. (05/2023 - )",
+            "start_year": "2023",
+            "end_year": "",
+            "url": "https://www.km77.com/coches/volkswagen/amarok/2023/doble-cabina/estandar/amarok-doble-cabina-30-tdi-177-kw-240-cv-4motion-aut/datos",
+            "price": "65.095",
+            "potencia": "241",
+            "consumo": "10,1",
+            "longitud": "5.350",
+            "maletero": "-"
+        },
+        {
+            "name": "Amarok Doble Cabina 2.0 TDI 151 kW (205 CV) 4MOTION ( - )",
+            "start_year": "Desconocido",
+            "end_year": "Desconocido",
+            "url": "https://www.km77.com/coches/volkswagen/amarok/2023/doble-cabina/estandar/amarok-doble-cabina-20-tdi-151-kw-205-cv-4motion/datos",
+            "price": "",
+            "potencia": "205",
+            "consumo": "9,1",
+            "longitud": "5.350",
+            "maletero": "-"
+        }
+    ]
+}

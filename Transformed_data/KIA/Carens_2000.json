@@ -1,0 +1,41 @@
+{
+    "name": "Carens",
+    "year": "2000",
+    "url": "https://www.km77.com/coches/kia/carens/2000/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "Carens 1.8 DOHC RS 5 plazas",
+            "start_year": "2000",
+            "end_year": "2002",
+            "url": "https://www.km77.com/coches/kia/carens/2000/estandar/rs/carens-18-dohc-rs-5-plazas/datos",
+            "price": "14.695",
+            "potencia": "110",
+            "consumo": "8,6",
+            "longitud": "4.439",
+            "maletero": "-"
+        },
+        {
+            "name": "Carens 1.8 DOHC LS 6S",
+            "start_year": "2000",
+            "end_year": "2001",
+            "url": "https://www.km77.com/coches/kia/carens/2000/estandar/ls/carens-18-dohc-ls-6s/datos",
+            "price": "15.176",
+            "potencia": "110",
+            "consumo": "8,6",
+            "longitud": "4.439",
+            "maletero": "-"
+        },
+        {
+            "name": "Carens 1.8 DOHC LS 5 plazas",
+            "start_year": "2000",
+            "end_year": "2002",
+            "url": "https://www.km77.com/coches/kia/carens/2000/estandar/ls/carens-18-dohc-ls-5-plazas/datos",
+            "price": "16.438",
+            "potencia": "110",
+            "consumo": "8,6",
+            "longitud": "4.439",
+            "maletero": "-"
+        }
+    ]
+}

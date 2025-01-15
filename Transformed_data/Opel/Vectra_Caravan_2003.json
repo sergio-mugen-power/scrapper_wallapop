@@ -1,0 +1,528 @@
+{
+    "name": "Vectra Caravan",
+    "year": "2003",
+    "url": "https://www.km77.com/coches/opel/vectra/2003/caravan",
+    "price": "",
+    "versions": [
+        {
+            "name": "Vectra SW Design 1.8 16V",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/vectra/2003/caravan/design/vectra-sw-design-18-16v/datos",
+            "price": "20.440",
+            "potencia": "122",
+            "consumo": "7,9",
+            "longitud": "4.822",
+            "maletero": "530",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Vectra SW Design 2.2 DIG 16V",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/vectra/2003/caravan/design/vectra-sw-design-22-dig-16v/datos",
+            "price": "22.120",
+            "potencia": "155",
+            "consumo": "8,1",
+            "longitud": "4.822",
+            "maletero": "530",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Vectra SW Design 1.9 CDTI 8V",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/vectra/2003/caravan/design/vectra-sw-design-19-cdti-8v/datos",
+            "price": "22.530",
+            "potencia": "120",
+            "consumo": "6",
+            "longitud": "4.822",
+            "maletero": "530",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Vectra SW Comfort 1.8 16V",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/vectra/2003/caravan/comfort/vectra-sw-comfort-18-16v/datos",
+            "price": "23.440",
+            "potencia": "122",
+            "consumo": "7,9",
+            "longitud": "4.822",
+            "maletero": "530",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Vectra SW Design 1.9 CDTI 16V",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/vectra/2003/caravan/design/vectra-sw-design-19-cdti-16v/datos",
+            "price": "23.570",
+            "potencia": "150",
+            "consumo": "6,1",
+            "longitud": "4.822",
+            "maletero": "530",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Vectra SW Elegance 1.9 CDTI 8V",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/vectra/2003/caravan/elegance/vectra-sw-elegance-19-cdti-8v/datos",
+            "price": "23.640",
+            "potencia": "120",
+            "consumo": "6",
+            "longitud": "4.822",
+            "maletero": "530",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Vectra SW Design 2.2 DIG 16V Active Select",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/vectra/2003/caravan/design/vectra-sw-design-22-dig-16v-active-select/datos",
+            "price": "23.750",
+            "potencia": "155",
+            "consumo": "8,8",
+            "longitud": "4.822",
+            "maletero": "530",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Vectra SW Elegance 1.9 CDTI 16V",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/vectra/2003/caravan/elegance/vectra-sw-elegance-19-cdti-16v/datos",
+            "price": "25.040",
+            "potencia": "150",
+            "consumo": "6,1",
+            "longitud": "4.822",
+            "maletero": "530",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Vectra SW Comfort 1.8 16V CVT",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/vectra/2003/caravan/comfort/vectra-sw-comfort-18-16v-cvt/datos",
+            "price": "25.070",
+            "potencia": "122",
+            "consumo": "-",
+            "longitud": "4.822",
+            "maletero": "530",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Vectra SW Comfort 1.9 CDTI 8V",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/vectra/2003/caravan/comfort/vectra-sw-comfort-19-cdti-8v/datos",
+            "price": "25.170",
+            "potencia": "120",
+            "consumo": "6",
+            "longitud": "4.822",
+            "maletero": "530",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Vectra SW Design 1.9 CDTI 16V Active Select",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/vectra/2003/caravan/design/vectra-sw-design-19-cdti-16v-active-select/datos",
+            "price": "25.670",
+            "potencia": "150",
+            "consumo": "7,1",
+            "longitud": "4.822",
+            "maletero": "530",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Vectra SW Design 1.8 16V CVT",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/vectra/2003/caravan/design/vectra-sw-design-18-16v-cvt/datos",
+            "price": "25.700",
+            "potencia": "122",
+            "consumo": "-",
+            "longitud": "4.822",
+            "maletero": "530",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Vectra Caravan Sport 2.2 DTi 16V",
+            "start_year": "2003",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/opel/vectra/2003/caravan/sport/vectra-caravan-sport-22-dti-16v/datos",
+            "price": "26.128",
+            "potencia": "125",
+            "consumo": "6,3",
+            "longitud": "4.822",
+            "maletero": "530",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Vectra Caravan Elegance 2.2 DIG",
+            "start_year": "2003",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/opel/vectra/2003/caravan/elegance/vectra-caravan-elegance-22-dig/datos",
+            "price": "26.203",
+            "potencia": "155",
+            "consumo": "8,1",
+            "longitud": "4.822",
+            "maletero": "530",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Vectra Caravan Sport 2.0 Turbo",
+            "start_year": "2003",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/opel/vectra/2003/caravan/sport/vectra-caravan-sport-20-turbo/datos",
+            "price": "26.938",
+            "potencia": "175",
+            "consumo": "9,2",
+            "longitud": "4.822",
+            "maletero": "530",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Vectra SW Elegance 1.9 CDTI 16V Active Select",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/vectra/2003/caravan/elegance/vectra-sw-elegance-19-cdti-16v-active-select/datos",
+            "price": "27.230",
+            "potencia": "150",
+            "consumo": "7,1",
+            "longitud": "4.822",
+            "maletero": "530",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Vectra Caravan Sport 2.2 DTi 16V Aut.",
+            "start_year": "2003",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/opel/vectra/2003/caravan/sport/vectra-caravan-sport-22-dti-16v-aut/datos",
+            "price": "27.755",
+            "potencia": "125",
+            "consumo": "7,4",
+            "longitud": "4.822",
+            "maletero": "530",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Vectra Caravan Elegance 2.2 DTi 16V",
+            "start_year": "2003",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/opel/vectra/2003/caravan/elegance/vectra-caravan-elegance-22-dti-16v/datos",
+            "price": "27.760",
+            "potencia": "125",
+            "consumo": "6,3",
+            "longitud": "4.822",
+            "maletero": "530",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Vectra Caravan Elegance 2.2 DIG Aut.",
+            "start_year": "2003",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/opel/vectra/2003/caravan/elegance/vectra-caravan-elegance-22-dig-aut/datos",
+            "price": "27.830",
+            "potencia": "155",
+            "consumo": "8,8",
+            "longitud": "4.822",
+            "maletero": "530",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Vectra SW Elegance 3.0 V6 CDTi 24V",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/vectra/2003/caravan/elegance/vectra-sw-elegance-30-v6-cdti-24v/datos",
+            "price": "28.170",
+            "potencia": "177",
+            "consumo": "7,3",
+            "longitud": "4.822",
+            "maletero": "530",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Vectra Caravan Sport 3.2 V6 24V",
+            "start_year": "2003",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/opel/vectra/2003/caravan/sport/vectra-caravan-sport-32-v6-24v/datos",
+            "price": "28.578",
+            "potencia": "211",
+            "consumo": "10,1",
+            "longitud": "4.822",
+            "maletero": "530",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Vectra Caravan Elegance 2.2 DTi 16V Active Select",
+            "start_year": "2003",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/opel/vectra/2003/caravan/elegance/vectra-caravan-elegance-22-dti-16v-active-select/datos",
+            "price": "29.390",
+            "potencia": "125",
+            "consumo": "7,4",
+            "longitud": "4.822",
+            "maletero": "530",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Vectra Caravan Sport 3.0 V6 CDTi 24V",
+            "start_year": "2003",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/opel/vectra/2003/caravan/sport/vectra-caravan-sport-30-v6-cdti-24v/datos",
+            "price": "29.428",
+            "potencia": "177",
+            "consumo": "7,3",
+            "longitud": "4.822",
+            "maletero": "530",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Vectra SW Elegance 3.0 V6 CDTi 24V Active Select",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/vectra/2003/caravan/elegance/vectra-sw-elegance-30-v6-cdti-24v-active-select/datos",
+            "price": "29.800",
+            "potencia": "177",
+            "consumo": "7,7",
+            "longitud": "4.822",
+            "maletero": "530",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Vectra Caravan Sport 3.2 V6 24V Aut.",
+            "start_year": "2003",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/opel/vectra/2003/caravan/sport/vectra-caravan-sport-32-v6-24v-aut/datos",
+            "price": "30.205",
+            "potencia": "211",
+            "consumo": "10,6",
+            "longitud": "4.822",
+            "maletero": "530",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Vectra Caravan Sport 3.0 V6 CDTi 24V Aut.",
+            "start_year": "2003",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/opel/vectra/2003/caravan/sport/vectra-caravan-sport-30-v6-cdti-24v-aut/datos",
+            "price": "31.055",
+            "potencia": "177",
+            "consumo": "7,7",
+            "longitud": "4.822",
+            "maletero": "530",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        }
+    ]
+}

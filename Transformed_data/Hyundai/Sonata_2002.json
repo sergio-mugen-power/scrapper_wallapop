@@ -1,0 +1,526 @@
+{
+    "name": "Sonata",
+    "year": "2002",
+    "url": "https://www.km77.com/coches/hyundai/sonata/2002/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "Sonata 2.0i GLS",
+            "start_year": "2002",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/hyundai/sonata/2002/estandar/gls/sonata-20i-gls/datos",
+            "price": "18.200",
+            "potencia": "131",
+            "consumo": "9",
+            "longitud": "4.747",
+            "maletero": "400",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "18.200 €",
+                    "Descuento oficial": "2.000 €",
+                    "Precio sin impuestos": "15.781 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "02/2005"
+                },
+                {
+                    "Velocidad máxima": "200 km/h",
+                    "Aceleración 0-100 km/h": "12,5 s",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "B"
+                },
+                {
+                    "Tipo de Carrocería": "Turismo",
+                    "Número de puertas": "4",
+                    "Longitud": "4.747 mm",
+                    "Anchura": "1.820 mm",
+                    "Altura": "1.422 mm",
+                    "Batalla": "2.700 mm",
+                    "Vía delantera": "1.540 mm",
+                    "Vía trasera": "1.530 mm",
+                    "Coeficiente Cx": "0,32",
+                    "Peso": "1.423 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Potencia máxima": "131 CV / 96,4 kW",
+                    "Par máximo": "175 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "131 CV / 96,4 kW",
+                    "Revoluciones potencia máxima": "6.000 rpm",
+                    "Par máximo": "175 Nm",
+                    "Revoluciones par máximo": "4.600 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "85 mm",
+                    "Carrera": "88 mm",
+                    "Cilindrada": "1.997 cm³",
+                    "Relación de compresión": "10 a 1",
+                    "Alimentación": "Inyección Indirecta.",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "5",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "Embrague monodisco en seco",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "280 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "262 mm",
+                    "Neumáticos delanteros": "205/65 R15",
+                    "Neumáticos traseros": "205/65 R15",
+                    "Llantas delanteras": "6 x 15",
+                    "Llantas Traseras": "6 x 15"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)18.200 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "2.000 €",
+                    "Precio sin impuestos": "15.781 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "02/2005"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Airbag lateral delantero": "De serie",
+                    "Airbag lateral trasero": "No disponible",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Cinturones delanteros ajustables en altura y con pretensores": "De serie",
+                    "Control de estabilidad (ESP)": "No disponible",
+                    "Control de traccion (TCS)": "De serie",
+                    "Control electrónico de la distribución de la frenada (EBD)": "De serie",
+                    "Cuentavueltas": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Faros de xenón": "No disponible",
+                    "Indicador temperatura del agua": "De serie",
+                    "Luneta trasera térmica con temporizador": "De serie",
+                    "Ordenador de viaje": "De serie",
+                    "Programador de velocidad": "No disponible",
+                    "Regulación de altura de faros": "De serie",
+                    "Reposacabezas delanteros regulables en altura e inclinación": "De serie",
+                    "Retrovisores calefactables": "De serie",
+                    "Testigo luminoso de uso del cinturón de seguridad": "De serie",
+                    "Tres cinturones traseros de tres puntos de anclaje": "De serie",
+                    "Tres reposacabezas traseros regulables": "De serie",
+                    "Volante con ajuste horizontal": "No disponible",
+                    "Volante con ajuste vertical": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Apertura remota del depósito de combustible eléctrica": "De serie",
+                    "Apertura remota del maletero eléctrica": "De serie",
+                    "Asiento del conductor con ajuste de altura": "De serie",
+                    "Asiento del conductor con ajuste eléctrico": "No disponible",
+                    "Asiento del conductor con regulación lumbar": "De serie",
+                    "Cierre centralizado": "De serie",
+                    "Climatizador": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Elevalunas electricos traseros": "De serie",
+                    "Limpiaparabrisas automático": "No disponible",
+                    "Luces automáticas": "No disponible",
+                    "Mando de apertura a distancia": "De serie",
+                    "Retrovisores eléctricos": "De serie"
+                },
+                {
+                    "Asientos de cuero": "No disponible",
+                    "Paragolpes en color carrocería": "De serie",
+                    "Pintura metalizada": "310 €",
+                    "Volante y palanca de cambio revestidos en cuero": "De serie"
+                },
+                {
+                    "Asiento abatible 60/40": "De serie",
+                    "Guantera con iluminación": "De serie",
+                    "Guantera con llave": "De serie",
+                    "Luz iluminación del maletero": "De serie"
+                },
+                {
+                    "Antena eléctrica": "De serie",
+                    "Cargador de CD": "No disponible",
+                    "Navegador": "No disponible",
+                    "Radio CD frontal": "De serie",
+                    "Seis altavoces": "De serie",
+                    "Teléfono": "No disponible"
+                },
+                {},
+                {
+                    "Llantas de aleación de 15 pulgadas": "De serie"
+                },
+                {
+                    "Alarma antirrobo": "De serie",
+                    "Inmovilizador": "De serie"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "Sonata 2.0i GLS Full",
+            "start_year": "2002",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/hyundai/sonata/2002/estandar/gls-full/sonata-20i-gls-full/datos",
+            "price": "19.250",
+            "potencia": "131",
+            "consumo": "9",
+            "longitud": "4.747",
+            "maletero": "400",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "19.250 €",
+                    "Descuento oficial": "2.000 €",
+                    "Precio sin impuestos": "16.602 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "02/2005"
+                },
+                {
+                    "Velocidad máxima": "200 km/h",
+                    "Aceleración 0-100 km/h": "12,5 s",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "B"
+                },
+                {
+                    "Tipo de Carrocería": "Turismo",
+                    "Número de puertas": "4",
+                    "Longitud": "4.747 mm",
+                    "Anchura": "1.820 mm",
+                    "Altura": "1.422 mm",
+                    "Batalla": "2.700 mm",
+                    "Vía delantera": "1.540 mm",
+                    "Vía trasera": "1.530 mm",
+                    "Coeficiente Cx": "0,32",
+                    "Peso": "1.423 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Potencia máxima": "131 CV / 96,4 kW",
+                    "Par máximo": "175 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "131 CV / 96,4 kW",
+                    "Revoluciones potencia máxima": "6.000 rpm",
+                    "Par máximo": "175 Nm",
+                    "Revoluciones par máximo": "4.600 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "85 mm",
+                    "Carrera": "88 mm",
+                    "Cilindrada": "1.997 cm³",
+                    "Relación de compresión": "10 a 1",
+                    "Alimentación": "Inyección Indirecta.",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "5",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "Embrague monodisco en seco",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "280 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "262 mm",
+                    "Neumáticos delanteros": "205/60 R16",
+                    "Neumáticos traseros": "205/60 R16",
+                    "Llantas delanteras": "6 x 16",
+                    "Llantas Traseras": "6 x 16"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)19.250 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "2.000 €",
+                    "Precio sin impuestos": "16.602 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "02/2005"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Airbag lateral delantero": "De serie",
+                    "Airbag lateral trasero": "No disponible",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Cinturones delanteros ajustables en altura y con pretensores": "De serie",
+                    "Control de estabilidad (ESP)": "No disponible",
+                    "Control de traccion (TCS)": "De serie",
+                    "Control electrónico de la distribución de la frenada (EBD)": "De serie",
+                    "Cuentavueltas": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Faros de xenón": "No disponible",
+                    "Indicador temperatura del agua": "De serie",
+                    "Luneta trasera térmica con temporizador": "De serie",
+                    "Ordenador de viaje": "De serie",
+                    "Programador de velocidad": "No disponible",
+                    "Regulación de altura de faros": "De serie",
+                    "Reposacabezas delanteros regulables en altura e inclinación": "De serie",
+                    "Retrovisores calefactables": "De serie",
+                    "Testigo luminoso de uso del cinturón de seguridad": "De serie",
+                    "Tres cinturones traseros de tres puntos de anclaje": "De serie",
+                    "Tres reposacabezas traseros regulables": "De serie",
+                    "Volante con ajuste horizontal": "No disponible",
+                    "Volante con ajuste vertical": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Apertura remota del depósito de combustible eléctrica": "De serie",
+                    "Apertura remota del maletero eléctrica": "De serie",
+                    "Asiento del conductor con ajuste de altura": "De serie",
+                    "Asiento del conductor con ajuste eléctrico": "No disponible",
+                    "Asiento del conductor con regulación lumbar": "De serie",
+                    "Cierre centralizado": "De serie",
+                    "Climatizador": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Elevalunas electricos traseros": "De serie",
+                    "Limpiaparabrisas automático": "No disponible",
+                    "Luces automáticas": "No disponible",
+                    "Mando de apertura a distancia": "De serie",
+                    "Retrovisores eléctricos": "De serie"
+                },
+                {
+                    "Acabados en madera": "De serie",
+                    "Asientos de cuero": "De serie",
+                    "Paragolpes en color carrocería": "De serie",
+                    "Pintura metalizada": "310 €",
+                    "Volante y palanca de cambio revestidos en cuero": "De serie"
+                },
+                {
+                    "Asiento abatible 60/40": "De serie",
+                    "Guantera con iluminación": "De serie",
+                    "Guantera con llave": "De serie",
+                    "Luz iluminación del maletero": "De serie"
+                },
+                {
+                    "Antena eléctrica": "De serie",
+                    "Cargador de CD": "No disponible",
+                    "Navegador": "No disponible",
+                    "Radio CD frontal": "De serie",
+                    "Radiocasete": "De serie",
+                    "Seis altavoces": "De serie",
+                    "Teléfono": "No disponible"
+                },
+                {},
+                {
+                    "Llantas de aleación de 16 pulgadas": "De serie"
+                },
+                {
+                    "Alarma antirrobo": "De serie",
+                    "Inmovilizador": "De serie"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "Sonata 2.7 V6",
+            "start_year": "2002",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/hyundai/sonata/2002/estandar/estandar/sonata-27-v6/datos",
+            "price": "23.200",
+            "potencia": "172",
+            "consumo": "10,7",
+            "longitud": "4.747",
+            "maletero": "400",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "23.200 €",
+                    "Descuento oficial": "2.000 €",
+                    "Precio sin impuestos": "19.688 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "02/2005"
+                },
+                {
+                    "Velocidad máxima": "215 km/h",
+                    "Aceleración 0-100 km/h": "9,5 s",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "B"
+                },
+                {
+                    "Tipo de Carrocería": "Turismo",
+                    "Número de puertas": "4",
+                    "Longitud": "4.747 mm",
+                    "Anchura": "1.820 mm",
+                    "Altura": "1.422 mm",
+                    "Batalla": "2.700 mm",
+                    "Vía delantera": "1.540 mm",
+                    "Vía trasera": "1.530 mm",
+                    "Coeficiente Cx": "0,32",
+                    "Peso": "1.443 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Potencia máxima": "172 CV / 126,5 kW",
+                    "Par máximo": "245 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "172 CV / 126,5 kW",
+                    "Revoluciones potencia máxima": "6.000 rpm",
+                    "Par máximo": "245 Nm",
+                    "Revoluciones par máximo": "4.000 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "6",
+                    "Disposición de los cilindros": "En V",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "86,7 mm",
+                    "Carrera": "75 mm",
+                    "Cilindrada": "2.657 cm³",
+                    "Relación de compresión": "10 a 1",
+                    "Alimentación": "Inyección Indirecta.",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "4",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "Convertidor de par",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "280 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "262 mm",
+                    "Neumáticos delanteros": "205/60 R16 V",
+                    "Neumáticos traseros": "205/60 R16 V",
+                    "Llantas delanteras": "6 x 16",
+                    "Llantas Traseras": "6 x 16"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)23.200 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "2.000 €",
+                    "Precio sin impuestos": "19.688 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "02/2005"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Airbag lateral delantero": "De serie",
+                    "Airbag lateral trasero": "No disponible",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Cinturones delanteros ajustables en altura y con pretensores": "De serie",
+                    "Control de estabilidad (ESP)": "No disponible",
+                    "Control de traccion (TCS)": "De serie",
+                    "Control electrónico de la distribución de la frenada (EBD)": "De serie",
+                    "Cuentavueltas": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Faros de xenón": "No disponible",
+                    "Indicador temperatura del agua": "De serie",
+                    "Luneta trasera térmica con temporizador": "De serie",
+                    "Ordenador de viaje": "De serie",
+                    "Programador de velocidad": "No disponible",
+                    "Regulación de altura de faros": "De serie",
+                    "Reposacabezas delanteros regulables en altura e inclinación": "De serie",
+                    "Retrovisores calefactables": "De serie",
+                    "Testigo luminoso de uso del cinturón de seguridad": "De serie",
+                    "Tres cinturones traseros de tres puntos de anclaje": "De serie",
+                    "Tres reposacabezas traseros regulables": "De serie",
+                    "Volante con ajuste horizontal": "No disponible",
+                    "Volante con ajuste vertical": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Apertura remota del depósito de combustible eléctrica": "De serie",
+                    "Apertura remota del maletero eléctrica": "De serie",
+                    "Asiento del conductor con ajuste de altura": "De serie",
+                    "Asiento del conductor con ajuste eléctrico": "No disponible",
+                    "Asiento del conductor con regulación lumbar": "De serie",
+                    "Cierre centralizado": "De serie",
+                    "Climatizador": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Elevalunas electricos traseros": "De serie",
+                    "Limpiaparabrisas automático": "No disponible",
+                    "Luces automáticas": "No disponible",
+                    "Mando de apertura a distancia": "De serie",
+                    "Retrovisores eléctricos": "De serie",
+                    "Techo solar con apertura eléctrica": "De serie"
+                },
+                {
+                    "Acabados en madera": "De serie",
+                    "Asientos de cuero": "De serie",
+                    "Paragolpes en color carrocería": "De serie",
+                    "Pintura metalizada": "310 €",
+                    "Volante y palanca de cambio revestidos en cuero": "De serie"
+                },
+                {
+                    "Asiento abatible 60/40": "De serie",
+                    "Guantera con iluminación": "De serie",
+                    "Guantera con llave": "De serie",
+                    "Luz iluminación del maletero": "De serie"
+                },
+                {
+                    "Antena eléctrica": "De serie",
+                    "Cargador de CD": "No disponible",
+                    "Navegador": "No disponible",
+                    "Radio CD frontal": "De serie",
+                    "Radiocasete": "De serie",
+                    "Seis altavoces": "De serie",
+                    "Teléfono": "No disponible"
+                },
+                {},
+                {
+                    "Llantas de aleación de 16 pulgadas": "De serie"
+                },
+                {
+                    "Alarma antirrobo": "De serie",
+                    "Inmovilizador": "De serie"
+                },
+                {}
+            ]
+        }
+    ]
+}

@@ -1,0 +1,721 @@
+{
+    "name": "Mokka",
+    "year": "2021",
+    "url": "https://www.km77.com/coches/opel/mokka/2021/estandar",
+    "price": "Desde 23.850 €",
+    "versions": [
+        {
+            "name": "Mokka 1.2 Turbo 100 CV Edition",
+            "start_year": "2020",
+            "end_year": "2024",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/estandar/mokka-12-turbo-74-kw-100-cv/datos",
+            "price": "22.350",
+            "potencia": "101",
+            "consumo": "5,7",
+            "longitud": "4.150",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka 1.2 Turbo 100 CV GS",
+            "start_year": "2024",
+            "end_year": "2024",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/estandar/mokka-12-turbo-74-kw-100-cv-gs/datos",
+            "price": "23.350",
+            "potencia": "101",
+            "consumo": "5,7",
+            "longitud": "4.150",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka 1.2 Turbo 96 kW (130 CV) AT8 GS Line",
+            "start_year": "2020",
+            "end_year": "2021",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/estandar/mokka-12-turbo-96-kw-130-cv-at8-gs-line/datos",
+            "price": "23.450",
+            "potencia": "131",
+            "consumo": "6",
+            "longitud": "4.150",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka 1.2 Turbo 136 CV GS",
+            "start_year": "2024",
+            "end_year": "2024",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/estandar/mokka-12-turbo-100-kw-136-cv-gs/datos",
+            "price": "24.350",
+            "potencia": "136",
+            "consumo": "5,7",
+            "longitud": "4.150",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka 1.2 Turbo 96 kW (130 CV) AT8 Business Elegance",
+            "start_year": "2020",
+            "end_year": "2021",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/estandar/mokka-12-turbo-96-kw-130-cv-at8/datos",
+            "price": "24.450",
+            "potencia": "131",
+            "consumo": "6",
+            "longitud": "4.150",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka 1.5 Diesel 81 kW (110 CV) Edition",
+            "start_year": "2020",
+            "end_year": "2023",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/estandar/mokka-15-diesel-81-kw-110-cv/datos",
+            "price": "24.701",
+            "potencia": "110",
+            "consumo": "4,4",
+            "longitud": "4.150",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka 1.5 Diesel 81 kW (110 CV) GS",
+            "start_year": "2023",
+            "end_year": "2024",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/estandar/mokka-15-diesel-81-kw-110-cv-gs/datos",
+            "price": "25.156",
+            "potencia": "110",
+            "consumo": "4,4",
+            "longitud": "4.150",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka Hybrid 136 CV Edition",
+            "start_year": "2024",
+            "end_year": "2024",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/estandar/mokka-hybrid-136-cv-edition/datos",
+            "price": "25.250",
+            "potencia": "136",
+            "consumo": "4,8",
+            "longitud": "4.150",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka 1.2 Turbo 130 CV AT8 GS",
+            "start_year": "2021",
+            "end_year": "2024",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/estandar/mokka-12-turbo-96-kw-130-cv-at8-gs-line2/datos",
+            "price": "26.050",
+            "potencia": "131",
+            "consumo": "6,1",
+            "longitud": "4.150",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka 1.2 Turbo 96 kW (130 CV) GS",
+            "start_year": "2020",
+            "end_year": "2024",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/estandar/mokka-12-turbo-96-kw-130-cv-gs-line/datos",
+            "price": "26.186",
+            "potencia": "131",
+            "consumo": "5,5",
+            "longitud": "4.150",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka 1.2 Turbo 96 kW (130 CV) Ultimate",
+            "start_year": "2020",
+            "end_year": "2021",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/estandar/mokka-12-turbo-96-kw-130-cv-ultimate/datos",
+            "price": "26.350",
+            "potencia": "131",
+            "consumo": "5,7",
+            "longitud": "4.150",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka 1.5 Diesel 81 kW (110 CV) GS Line",
+            "start_year": "2020",
+            "end_year": "2023",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/estandar/mokka-15-diesel-81-kw-110-cv-gs-line/datos",
+            "price": "26.701",
+            "potencia": "110",
+            "consumo": "4,4",
+            "longitud": "4.150",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka 1.2 Turbo 74 kW (100 CV) Business Elegance",
+            "start_year": "2020",
+            "end_year": "2023",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/estandar/mokka-12-turbo-74-kw-100-cv-business-elegance/datos",
+            "price": "27.213",
+            "potencia": "101",
+            "consumo": "5,5",
+            "longitud": "4.150",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka Hybrid 136 CV GS",
+            "start_year": "2024",
+            "end_year": "2024",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/estandar/mokka-hybrid-136-cv-gs/datos",
+            "price": "27.250",
+            "potencia": "136",
+            "consumo": "4,9",
+            "longitud": "4.150",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka 1.2 Turbo 96 kW (130 CV) Black Edition",
+            "start_year": "2023",
+            "end_year": "2024",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/estandar/mokka-12-turbo-96-kw-130-cv-black-edition/datos",
+            "price": "27.321",
+            "potencia": "131",
+            "consumo": "5,5",
+            "longitud": "4.150",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka 1.5 Diesel 81 kW (110 CV) Business Elegance",
+            "start_year": "2020",
+            "end_year": "2023",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/estandar/mokka-15-diesel-81-kw-110-cv-business-elegance/datos",
+            "price": "27.701",
+            "potencia": "110",
+            "consumo": "4,4",
+            "longitud": "4.150",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka 1.2 Turbo 96 kW (130 CV) AT8 Ultimate",
+            "start_year": "2020",
+            "end_year": "2021",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/estandar/mokka-12-turbo-96-kw-130-cv-at8-ultimate/datos",
+            "price": "28.150",
+            "potencia": "131",
+            "consumo": "6,1",
+            "longitud": "4.150",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka 1.2 Turbo 96 kW (130 CV) AT8 GS Line Plus",
+            "start_year": "2021",
+            "end_year": "2021",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/estandar/mokka-12-turbo-96-kw-130-cv-at8-gs-line-plus/datos",
+            "price": "28.421",
+            "potencia": "131",
+            "consumo": "6",
+            "longitud": "4.150",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka 1.2 Turbo 96 kW (130 CV) Business Elegance",
+            "start_year": "2020",
+            "end_year": "2023",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/estandar/mokka-12-turbo-96-kw-130-cv/datos",
+            "price": "28.668",
+            "potencia": "131",
+            "consumo": "5,5",
+            "longitud": "4.150",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka 1.2 Turbo 136 CV Ultimate",
+            "start_year": "2024",
+            "end_year": "2024",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/estandar/mokka-12-turbo-100-kw-136-cv-ultimate/datos",
+            "price": "28.850",
+            "potencia": "136",
+            "consumo": "5,7",
+            "longitud": "4.150",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka 1.5 Diesel 81 kW (110 CV) Ultimate",
+            "start_year": "2020",
+            "end_year": "2024",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/estandar/mokka-15-diesel-81-kw-110-cv-ultimate/datos",
+            "price": "29.047",
+            "potencia": "110",
+            "consumo": "4,5",
+            "longitud": "4.150",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka 1.2 Turbo 96 kW (130 CV) AT8 Black Edition",
+            "start_year": "2023",
+            "end_year": "2024",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/estandar/mokka-12-turbo-96-kw-130-cv-at8-black-edition/datos",
+            "price": "29.070",
+            "potencia": "131",
+            "consumo": "5,9",
+            "longitud": "4.150",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka 1.2 Turbo 96 kW (130 CV) Ultimate",
+            "start_year": "2021",
+            "end_year": "2024",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/estandar/mokka-12-turbo-96-kw-130-cv-ultimate2/datos",
+            "price": "30.264",
+            "potencia": "131",
+            "consumo": "5,5",
+            "longitud": "4.150",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka 1.2 Turbo 130 CV AT8 Ultimate",
+            "start_year": "2021",
+            "end_year": "2024",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/estandar/mokka-12-turbo-96-kw-130-cv-at8-ultimate2/datos",
+            "price": "30.550",
+            "potencia": "131",
+            "consumo": "6,1",
+            "longitud": "4.150",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka 1.2 Turbo 96 kW (130 CV) AT8 Business Elegance",
+            "start_year": "2021",
+            "end_year": "2023",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/estandar/mokka-12-turbo-96-kw-130-cv-at8-business-elegance/datos",
+            "price": "30.669",
+            "potencia": "131",
+            "consumo": "5,9",
+            "longitud": "4.150",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka-e 100 kW (136 CV) Edition",
+            "start_year": "2024",
+            "end_year": "2024",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/e/mokka-e-100-kw-136-cv-edition/datos",
+            "price": "32.100",
+            "potencia": "136",
+            "consumo": "15,8",
+            "longitud": "4.151",
+            "maletero": "310"
+        },
+        {
+            "name": "Mokka-e 100 kW (136 CV) GS",
+            "start_year": "2023",
+            "end_year": "2024",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/e/mokka-e-100-kw-136-cv-gs/datos",
+            "price": "33.100",
+            "potencia": "136",
+            "consumo": "16",
+            "longitud": "4.151",
+            "maletero": "310"
+        },
+        {
+            "name": "Mokka-e Edition",
+            "start_year": "2020",
+            "end_year": "2021",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/e/mokka-e/datos",
+            "price": "34.900",
+            "potencia": "136",
+            "consumo": "17,4",
+            "longitud": "4.151",
+            "maletero": "310"
+        },
+        {
+            "name": "Mokka-e 115 kW (156 CV) GS",
+            "start_year": "2024",
+            "end_year": "2024",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/e/mokka-e-115-kw-156-cv-gs/datos",
+            "price": "35.350",
+            "potencia": "156",
+            "consumo": "15,2",
+            "longitud": "4.151",
+            "maletero": "310"
+        },
+        {
+            "name": "Mokka-e Edition",
+            "start_year": "2021",
+            "end_year": "2023",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/e/mokka-e-edition/datos",
+            "price": "36.281",
+            "potencia": "136",
+            "consumo": "15,8",
+            "longitud": "4.151",
+            "maletero": "310"
+        },
+        {
+            "name": "Mokka-e GS Line",
+            "start_year": "2020",
+            "end_year": "2021",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/e/mokka-e-gs-line/datos",
+            "price": "36.900",
+            "potencia": "136",
+            "consumo": "17,7",
+            "longitud": "4.151",
+            "maletero": "310"
+        },
+        {
+            "name": "Mokka-e Business Elegance",
+            "start_year": "2020",
+            "end_year": "2021",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/e/mokka-e-business-elegance/datos",
+            "price": "37.900",
+            "potencia": "136",
+            "consumo": "17,7",
+            "longitud": "4.151",
+            "maletero": "310"
+        },
+        {
+            "name": "Mokka-e GS Line Plus",
+            "start_year": "2021",
+            "end_year": "2021",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/e/mokka-e-gs-line-plus/datos",
+            "price": "38.100",
+            "potencia": "136",
+            "consumo": "17,7",
+            "longitud": "4.151",
+            "maletero": "310",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka-e GS Line",
+            "start_year": "2021",
+            "end_year": "2023",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/e/mokka-e-gs-line2/datos",
+            "price": "38.281",
+            "potencia": "136",
+            "consumo": "15,8",
+            "longitud": "4.151",
+            "maletero": "310"
+        },
+        {
+            "name": "Mokka-e Business Elegance",
+            "start_year": "2021",
+            "end_year": "2023",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/e/mokka-e-business-elegance2/datos",
+            "price": "39.281",
+            "potencia": "136",
+            "consumo": "15,8",
+            "longitud": "4.151",
+            "maletero": "310"
+        },
+        {
+            "name": "Mokka-e 100 kW (136 CV) Ultimate",
+            "start_year": "2023",
+            "end_year": "2024",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/e/mokka-e-100-kw-136-cv-ultimate/datos",
+            "price": "40.490",
+            "potencia": "136",
+            "consumo": "16",
+            "longitud": "4.151",
+            "maletero": "310",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka-e Ultimate",
+            "start_year": "2020",
+            "end_year": "2021",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/e/mokka-e-ultimate/datos",
+            "price": "41.600",
+            "potencia": "136",
+            "consumo": "17,7",
+            "longitud": "4.151",
+            "maletero": "310",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka-e Ultimate",
+            "start_year": "2021",
+            "end_year": "2022",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/e/mokka-e-ultimate2/datos",
+            "price": "42.167",
+            "potencia": "136",
+            "consumo": "16,2",
+            "longitud": "4.151",
+            "maletero": "310",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Mokka-e 115 kW (156 CV) Black Edition",
+            "start_year": "2023",
+            "end_year": "2023",
+            "url": "https://www.km77.com/coches/opel/mokka/2021/estandar/e/mokka-electric/datos",
+            "price": "44.462",
+            "potencia": "156",
+            "consumo": "15,2",
+            "longitud": "4.151",
+            "maletero": "310",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        }
+    ]
+}

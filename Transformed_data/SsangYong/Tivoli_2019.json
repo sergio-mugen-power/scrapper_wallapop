@@ -1,0 +1,679 @@
+{
+    "name": "Tivoli",
+    "year": "2019",
+    "url": "https://www.km77.com/coches/ssangyong/tivoli/2019/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "Tivoli G16 4x2 Line",
+            "start_year": "2018",
+            "end_year": "2019",
+            "url": "https://www.km77.com/coches/ssangyong/tivoli/2019/estandar/line/tivoli-g16-4x2-line/datos",
+            "price": "13.750",
+            "potencia": "128",
+            "consumo": "7,4",
+            "longitud": "4.202",
+            "maletero": "423",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "13.750 €",
+                    "Descuento oficial": "2.250 €",
+                    "Precio sin impuestos": "12.724 €",
+                    "IVA": "21 %",
+                    "Impuesto de matriculación": "4,75 %",
+                    "Tarifa de": "08/2019"
+                },
+                {
+                    "Velocidad máxima": "181 km/h",
+                    "Normativa de emisiones": "Euro 6",
+                    "Distintivo ambiental DGT": "C"
+                },
+                {
+                    "Tipo de Carrocería": "Todoterreno",
+                    "Número de puertas": "5",
+                    "Longitud": "4.202 mm",
+                    "Anchura": "1.798 mm",
+                    "Altura": "1.590 mm",
+                    "Batalla": "2.600 mm",
+                    "Vía delantera": "1.555 mm",
+                    "Vía trasera": "1.555 mm",
+                    "Peso": "1.345 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Ángulo de entrada": "20,5 grados",
+                    "Ángulo de salida": "28 grados",
+                    "Ángulo ventral": "17 grados",
+                    "Altura libre": "167 mm",
+                    "Altura de vadeo": "No disponible"
+                },
+                {
+                    "Potencia máxima": "128 CV / 94,1 kW",
+                    "Par máximo": "160 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "128 CV / 94,1 kW",
+                    "Revoluciones potencia máxima": "6.000 rpm",
+                    "Par máximo": "160 Nm",
+                    "Revoluciones par máximo": "4.600 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "76 mm",
+                    "Carrera": "88 mm",
+                    "Cilindrada": "1.597 cm³",
+                    "Relación de compresión": "10,5 a 1",
+                    "Alimentación": "Inyección Indirecta. Admisión Variable",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {},
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "6",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "Embrague monodisco en seco",
+                    "Tipo de mecanismo": "Pares de engranajes"
+                },
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Rueda tirada con elemento torsional",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "298 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "284 mm",
+                    "Neumáticos delanteros": "205/60 R16",
+                    "Neumáticos traseros": "205/60 R16",
+                    "Llantas delanteras": "x 16",
+                    "Llantas Traseras": "x 16"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "Tivoli G16 4x2 Premium",
+            "start_year": "2018",
+            "end_year": "2019",
+            "url": "https://www.km77.com/coches/ssangyong/tivoli/2019/estandar/premium/tivoli-g16-4x2-premium/datos",
+            "price": "16.600",
+            "potencia": "128",
+            "consumo": "7,4",
+            "longitud": "4.202",
+            "maletero": "423",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "16.600 €",
+                    "Descuento oficial": "2.000 €",
+                    "Precio sin impuestos": "14.791 €",
+                    "IVA": "21 %",
+                    "Impuesto de matriculación": "4,75 %",
+                    "Tarifa de": "08/2019"
+                },
+                {
+                    "Velocidad máxima": "181 km/h",
+                    "Normativa de emisiones": "Euro 6",
+                    "Distintivo ambiental DGT": "C"
+                },
+                {
+                    "Tipo de Carrocería": "Todoterreno",
+                    "Número de puertas": "5",
+                    "Longitud": "4.202 mm",
+                    "Anchura": "1.798 mm",
+                    "Altura": "1.590 mm",
+                    "Batalla": "2.600 mm",
+                    "Vía delantera": "1.555 mm",
+                    "Vía trasera": "1.555 mm",
+                    "Peso": "1.345 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Ángulo de entrada": "20,5 grados",
+                    "Ángulo de salida": "28 grados",
+                    "Ángulo ventral": "17 grados",
+                    "Altura libre": "167 mm",
+                    "Altura de vadeo": "No disponible"
+                },
+                {
+                    "Potencia máxima": "128 CV / 94,1 kW",
+                    "Par máximo": "160 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "128 CV / 94,1 kW",
+                    "Revoluciones potencia máxima": "6.000 rpm",
+                    "Par máximo": "160 Nm",
+                    "Revoluciones par máximo": "4.600 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "76 mm",
+                    "Carrera": "88 mm",
+                    "Cilindrada": "1.597 cm³",
+                    "Relación de compresión": "10,5 a 1",
+                    "Alimentación": "Inyección Indirecta. Admisión Variable",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {},
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "6",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "Embrague monodisco en seco",
+                    "Tipo de mecanismo": "Pares de engranajes"
+                },
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Rueda tirada con elemento torsional",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "298 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "284 mm",
+                    "Neumáticos delanteros": "205/60 R16",
+                    "Neumáticos traseros": "205/60 R16",
+                    "Llantas delanteras": "x 16",
+                    "Llantas Traseras": "x 16"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "Tivoli D16T 4x2 Premium",
+            "start_year": "2018",
+            "end_year": "2019",
+            "url": "https://www.km77.com/coches/ssangyong/tivoli/2019/estandar/premium/tivoli-d16t-4x2-premium/datos",
+            "price": "17.800",
+            "potencia": "115",
+            "consumo": "5,3",
+            "longitud": "4.202",
+            "maletero": "423",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "17.800 €",
+                    "Descuento oficial": "2.000 €",
+                    "Precio sin impuestos": "15.746 €",
+                    "IVA": "21 %",
+                    "Impuesto de matriculación": "4,75 %",
+                    "Tarifa de": "08/2019"
+                },
+                {
+                    "Velocidad máxima": "175 km/h",
+                    "Normativa de emisiones": "Euro 6",
+                    "Distintivo ambiental DGT": "C"
+                },
+                {
+                    "Tipo de Carrocería": "Todoterreno",
+                    "Número de puertas": "5",
+                    "Longitud": "4.202 mm",
+                    "Anchura": "1.798 mm",
+                    "Altura": "1.590 mm",
+                    "Batalla": "2.600 mm",
+                    "Vía delantera": "1.555 mm",
+                    "Vía trasera": "1.555 mm",
+                    "Peso": "1.430 kg",
+                    "Filtro de partículas": "Sí",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Ángulo de entrada": "20,5 grados",
+                    "Ángulo de salida": "28 grados",
+                    "Ángulo ventral": "17 grados",
+                    "Altura libre": "167 mm",
+                    "Altura de vadeo": "No disponible"
+                },
+                {
+                    "Potencia máxima": "115 CV / 84,6 kW",
+                    "Par máximo": "300 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasóleo",
+                    "Potencia máxima": "115 CV / 84,6 kW",
+                    "Revoluciones potencia máxima": "3.400 - 4.000 rpm",
+                    "Par máximo": "300 Nm",
+                    "Revoluciones par máximo": "1.500 - 2.500 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "No disponible",
+                    "Material de la culata": "No disponible",
+                    "Diámetro": "76 mm",
+                    "Carrera": "88 mm",
+                    "Cilindrada": "1.597 cm³",
+                    "Relación de compresión": "15,5 a 1",
+                    "Alimentación": "Inyección directa por conducto común. Turbo. Geometría variable. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {},
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "6",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "Embrague monodisco en seco",
+                    "Tipo de mecanismo": "Pares de engranajes"
+                },
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Rueda tirada con elemento torsional",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "298 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "284 mm",
+                    "Neumáticos delanteros": "205/60 R16",
+                    "Neumáticos traseros": "205/60 R16",
+                    "Llantas delanteras": "x 16",
+                    "Llantas Traseras": "x 16"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "Tivoli G16 4x2 Limited",
+            "start_year": "2018",
+            "end_year": "2019",
+            "url": "https://www.km77.com/coches/ssangyong/tivoli/2019/estandar/limited/tivoli-g16-4x2-limited/datos",
+            "price": "18.250",
+            "potencia": "128",
+            "consumo": "7,4",
+            "longitud": "4.202",
+            "maletero": "423",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "18.250 €",
+                    "Descuento oficial": "2.500 €",
+                    "Precio sin impuestos": "16.501 €",
+                    "IVA": "21 %",
+                    "Impuesto de matriculación": "4,75 %",
+                    "Tarifa de": "08/2019"
+                },
+                {
+                    "Velocidad máxima": "181 km/h",
+                    "Normativa de emisiones": "Euro 6",
+                    "Distintivo ambiental DGT": "C"
+                },
+                {
+                    "Tipo de Carrocería": "Todoterreno",
+                    "Número de puertas": "5",
+                    "Longitud": "4.202 mm",
+                    "Anchura": "1.798 mm",
+                    "Altura": "1.590 mm",
+                    "Batalla": "2.600 mm",
+                    "Vía delantera": "1.555 mm",
+                    "Vía trasera": "1.555 mm",
+                    "Peso": "1.345 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Ángulo de entrada": "20,5 grados",
+                    "Ángulo de salida": "28 grados",
+                    "Ángulo ventral": "17 grados",
+                    "Altura libre": "167 mm",
+                    "Altura de vadeo": "No disponible"
+                },
+                {
+                    "Potencia máxima": "128 CV / 94,1 kW",
+                    "Par máximo": "160 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "128 CV / 94,1 kW",
+                    "Revoluciones potencia máxima": "6.000 rpm",
+                    "Par máximo": "160 Nm",
+                    "Revoluciones par máximo": "4.600 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "76 mm",
+                    "Carrera": "88 mm",
+                    "Cilindrada": "1.597 cm³",
+                    "Relación de compresión": "10,5 a 1",
+                    "Alimentación": "Inyección Indirecta. Admisión Variable",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {},
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "6",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "Embrague monodisco en seco",
+                    "Tipo de mecanismo": "Pares de engranajes"
+                },
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Rueda tirada con elemento torsional",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "298 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "284 mm",
+                    "Neumáticos delanteros": "215/45 R18",
+                    "Neumáticos traseros": "215/45 R18",
+                    "Llantas delanteras": "x 18",
+                    "Llantas Traseras": "x 18"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "Tivoli D16T 4x2 Limited",
+            "start_year": "2018",
+            "end_year": "2019",
+            "url": "https://www.km77.com/coches/ssangyong/tivoli/2019/estandar/limited/tivoli-d16t-4x2-limited/datos",
+            "price": "19.250",
+            "potencia": "115",
+            "consumo": "5,4",
+            "longitud": "4.202",
+            "maletero": "423",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "19.250 €",
+                    "Descuento oficial": "3.000 €",
+                    "Precio sin impuestos": "17.694 €",
+                    "IVA": "21 %",
+                    "Impuesto de matriculación": "4,75 %",
+                    "Tarifa de": "11/2018"
+                },
+                {
+                    "Velocidad máxima": "175 km/h",
+                    "Normativa de emisiones": "Euro 6",
+                    "Distintivo ambiental DGT": "C"
+                },
+                {
+                    "Tipo de Carrocería": "Todoterreno",
+                    "Número de puertas": "5",
+                    "Longitud": "4.202 mm",
+                    "Anchura": "1.798 mm",
+                    "Altura": "1.590 mm",
+                    "Batalla": "2.600 mm",
+                    "Vía delantera": "1.555 mm",
+                    "Vía trasera": "1.555 mm",
+                    "Peso": "1.430 kg",
+                    "Filtro de partículas": "Sí",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Ángulo de entrada": "20,5 grados",
+                    "Ángulo de salida": "28 grados",
+                    "Ángulo ventral": "17 grados",
+                    "Altura libre": "167 mm",
+                    "Altura de vadeo": "No disponible"
+                },
+                {
+                    "Potencia máxima": "115 CV / 84,6 kW",
+                    "Par máximo": "300 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasóleo",
+                    "Potencia máxima": "115 CV / 84,6 kW",
+                    "Revoluciones potencia máxima": "3.400 - 4.000 rpm",
+                    "Par máximo": "300 Nm",
+                    "Revoluciones par máximo": "1.500 - 2.500 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "No disponible",
+                    "Material de la culata": "No disponible",
+                    "Diámetro": "76 mm",
+                    "Carrera": "88 mm",
+                    "Cilindrada": "1.597 cm³",
+                    "Relación de compresión": "15,5 a 1",
+                    "Alimentación": "Inyección directa por conducto común. Turbo. Geometría variable. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {},
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "6",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "Embrague monodisco en seco",
+                    "Tipo de mecanismo": "Pares de engranajes"
+                },
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Rueda tirada con elemento torsional",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "298 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "284 mm",
+                    "Neumáticos delanteros": "215/45 R18",
+                    "Neumáticos traseros": "215/45 R18",
+                    "Llantas delanteras": "x 18",
+                    "Llantas Traseras": "x 18"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "Tivoli G16 4x2 Limited Aut.",
+            "start_year": "2018",
+            "end_year": "2019",
+            "url": "https://www.km77.com/coches/ssangyong/tivoli/2019/estandar/limited/tivoli-g16-4x2-limited-aut/datos",
+            "price": "20.150",
+            "potencia": "128",
+            "consumo": "8",
+            "longitud": "4.202",
+            "maletero": "423",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "20.150 €",
+                    "Descuento oficial": "2.500 €",
+                    "Precio sin impuestos": "17.323 €",
+                    "IVA": "21 %",
+                    "Impuesto de matriculación": "9,75 %",
+                    "Tarifa de": "08/2019"
+                },
+                {
+                    "Velocidad máxima": "175 km/h",
+                    "Normativa de emisiones": "Euro 6",
+                    "Distintivo ambiental DGT": "C"
+                },
+                {
+                    "Tipo de Carrocería": "Todoterreno",
+                    "Número de puertas": "5",
+                    "Longitud": "4.202 mm",
+                    "Anchura": "1.798 mm",
+                    "Altura": "1.590 mm",
+                    "Batalla": "2.600 mm",
+                    "Vía delantera": "1.555 mm",
+                    "Vía trasera": "1.555 mm",
+                    "Peso": "1.375 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Ángulo de entrada": "20,5 grados",
+                    "Ángulo de salida": "28 grados",
+                    "Ángulo ventral": "17 grados",
+                    "Altura libre": "167 mm",
+                    "Altura de vadeo": "No disponible"
+                },
+                {
+                    "Potencia máxima": "128 CV / 94,1 kW",
+                    "Par máximo": "160 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "128 CV / 94,1 kW",
+                    "Revoluciones potencia máxima": "6.000 rpm",
+                    "Par máximo": "160 Nm",
+                    "Revoluciones par máximo": "4.600 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "76 mm",
+                    "Carrera": "88 mm",
+                    "Cilindrada": "1.597 cm³",
+                    "Relación de compresión": "10,5 a 1",
+                    "Alimentación": "Inyección Indirecta. Admisión Variable",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {},
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "6",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "Convertidor de par",
+                    "Tipo de mecanismo": "Epicicloidal"
+                },
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Rueda tirada con elemento torsional",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "298 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "284 mm",
+                    "Neumáticos delanteros": "215/45 R18",
+                    "Neumáticos traseros": "215/45 R18",
+                    "Llantas delanteras": "x 18",
+                    "Llantas Traseras": "x 18"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "Tivoli D16T 4x2 Limited Aut.",
+            "start_year": "2018",
+            "end_year": "2019",
+            "url": "https://www.km77.com/coches/ssangyong/tivoli/2019/estandar/limited/tivoli-d16t-4x2-limited-aut/datos",
+            "price": "20.750",
+            "potencia": "115",
+            "consumo": "6,4",
+            "longitud": "4.202",
+            "maletero": "423",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "20.750 €",
+                    "Descuento oficial": "3.000 €",
+                    "Precio sin impuestos": "18.164 €",
+                    "IVA": "21 %",
+                    "Impuesto de matriculación": "9,75 %",
+                    "Tarifa de": "11/2018"
+                },
+                {
+                    "Velocidad máxima": "172 km/h",
+                    "Normativa de emisiones": "Euro 6",
+                    "Distintivo ambiental DGT": "C"
+                },
+                {
+                    "Tipo de Carrocería": "Todoterreno",
+                    "Número de puertas": "5",
+                    "Longitud": "4.202 mm",
+                    "Anchura": "1.798 mm",
+                    "Altura": "1.590 mm",
+                    "Batalla": "2.600 mm",
+                    "Vía delantera": "1.555 mm",
+                    "Vía trasera": "1.555 mm",
+                    "Peso": "1.465 kg",
+                    "Filtro de partículas": "Sí",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Ángulo de entrada": "20,5 grados",
+                    "Ángulo de salida": "28 grados",
+                    "Ángulo ventral": "17 grados",
+                    "Altura libre": "167 mm",
+                    "Altura de vadeo": "No disponible"
+                },
+                {
+                    "Potencia máxima": "115 CV / 84,6 kW",
+                    "Par máximo": "300 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasóleo",
+                    "Potencia máxima": "115 CV / 84,6 kW",
+                    "Revoluciones potencia máxima": "3.400 - 4.000 rpm",
+                    "Par máximo": "300 Nm",
+                    "Revoluciones par máximo": "1.500 - 2.500 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "No disponible",
+                    "Material de la culata": "No disponible",
+                    "Diámetro": "76 mm",
+                    "Carrera": "88 mm",
+                    "Cilindrada": "1.597 cm³",
+                    "Relación de compresión": "15,5 a 1",
+                    "Alimentación": "Inyección directa por conducto común. Turbo. Geometría variable. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {},
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "6",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "Convertidor de par",
+                    "Tipo de mecanismo": "Epicicloidal"
+                },
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Rueda tirada con elemento torsional",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "298 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "284 mm",
+                    "Neumáticos delanteros": "215/45 R18",
+                    "Neumáticos traseros": "215/45 R18",
+                    "Llantas delanteras": "x 18",
+                    "Llantas Traseras": "x 18"
+                }
+            ]
+        }
+    ]
+}

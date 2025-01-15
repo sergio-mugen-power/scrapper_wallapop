@@ -1,0 +1,244 @@
+{
+    "name": "N°8",
+    "year": "2026",
+    "url": "https://www.km77.com/coches/ds/n8/2026/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "Nº8 AWD Long Range 97 kWh\n( - )",
+            "start_year": "Desconocido",
+            "end_year": "Desconocido",
+            "url": "https://www.km77.com/coches/ds/n8/2026/estandar/estandar/n8-awd-long-range-97-kwh/datos",
+            "price": "",
+            "potencia": "375",
+            "consumo": "14,2",
+            "longitud": "4.820",
+            "maletero": "620",
+            "specs": [
+                {
+                    "Velocidad máxima": "190 km/h",
+                    "Aceleración 0-100 km/h": "5,4 s",
+                    "Autonomía eléctrica WLTP": "686 km",
+                    "Distintivo ambiental DGT": "0 emisiones"
+                },
+                {
+                    "Tipo de Carrocería": "Turismo",
+                    "Número de puertas": "5",
+                    "Longitud": "4.820 mm",
+                    "Anchura": "1.900 mm",
+                    "Altura": "1.580 mm",
+                    "Batalla": "2.900 mm",
+                    "Coeficiente Cx": "0,24",
+                    "Superficie frontal": "2,63 m²",
+                    "Factor de resistencia": "0,63",
+                    "Peso": "2.289 kg",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Altura libre": "155 mm"
+                },
+                {
+                    "Potencia máxima": "375 CV / 276 kW",
+                    "Par máximo": "509 Nm"
+                },
+                {
+                    "Propósito": "Impulsar al vehículo / generar corriente eléc",
+                    "Ubicación": "Delantero transversal"
+                },
+                {},
+                {
+                    "Propósito": "Impulsar al vehículo / generar corriente eléc",
+                    "Ubicación": "Trasero transversal"
+                },
+                {
+                    "Ubicación": "Central",
+                    "Capacidad útil": "97,2 kWh"
+                },
+                {
+                    "Potencia de recarga máxima en C.C.": "160 kW",
+                    "Potencia de recarga máxima en C.A.": "22 kW",
+                    "Tiempo de recarga total a 7,4 kW": "5,1 h",
+                    "Tiempo de recarga total a 11 kW": "6,2 h"
+                },
+                {
+                    "Tracción": "Total",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "1",
+                    "Tipo de Embrague": "Sin embrague",
+                    "Tipo de mecanismo": "Pares de engranajes"
+                },
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Tipo de frenos traseros": "Disco ventilado",
+                    "Neumáticos delanteros": "/ R19",
+                    "Neumáticos traseros": "/ R19",
+                    "Llantas delanteras": "x 19",
+                    "Llantas Traseras": "x 19"
+                }
+            ]
+        },
+        {
+            "name": "Nº8 FWD 74 kWh\n( - )",
+            "start_year": "Desconocido",
+            "end_year": "Desconocido",
+            "url": "https://www.km77.com/coches/ds/n8/2026/estandar/estandar/n8-fwd-74-kwh/datos",
+            "price": "",
+            "potencia": "260",
+            "consumo": "12,9",
+            "longitud": "4.820",
+            "maletero": "620",
+            "specs": [
+                {
+                    "Velocidad máxima": "190 km/h",
+                    "Aceleración 0-100 km/h": "7,7 s",
+                    "Autonomía eléctrica WLTP": "572 km",
+                    "Distintivo ambiental DGT": "0 emisiones"
+                },
+                {
+                    "Tipo de Carrocería": "Turismo",
+                    "Número de puertas": "5",
+                    "Longitud": "4.820 mm",
+                    "Anchura": "1.900 mm",
+                    "Altura": "1.580 mm",
+                    "Batalla": "2.900 mm",
+                    "Coeficiente Cx": "0,24",
+                    "Superficie frontal": "2,63 m²",
+                    "Factor de resistencia": "0,63",
+                    "Peso": "2.132 kg",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Altura libre": "155 mm"
+                },
+                {
+                    "Potencia máxima": "260 CV / 191 kW",
+                    "Par máximo": "343 Nm"
+                },
+                {
+                    "Propósito": "Impulsar al vehículo / generar corriente eléc",
+                    "Potencia máxima": "260 CV / 191 kW",
+                    "Par máximo": "343 Nm",
+                    "Ubicación": "Delantero transversal",
+                    "Tensión nominal": "400 V"
+                },
+                {},
+                {
+                    "Ubicación": "Central",
+                    "Capacidad útil": "74 kWh"
+                },
+                {
+                    "Potencia de recarga máxima en C.C.": "160 kW",
+                    "Potencia de recarga máxima en C.A.": "22 kW"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "1",
+                    "Tipo de Embrague": "Sin embrague",
+                    "Tipo de mecanismo": "Pares de engranajes"
+                },
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Tipo de frenos traseros": "Disco ventilado",
+                    "Neumáticos delanteros": "/ R19",
+                    "Neumáticos traseros": "/ R19",
+                    "Llantas delanteras": "x 19",
+                    "Llantas Traseras": "x 19"
+                }
+            ]
+        },
+        {
+            "name": "Nº8 FWD Long Range 97 kWh\n( - )",
+            "start_year": "Desconocido",
+            "end_year": "Desconocido",
+            "url": "https://www.km77.com/coches/ds/n8/2026/estandar/estandar/n8-fwd-long-range-97-kwh/datos",
+            "price": "",
+            "potencia": "280",
+            "consumo": "12,9",
+            "longitud": "4.820",
+            "maletero": "620",
+            "specs": [
+                {
+                    "Velocidad máxima": "190 km/h",
+                    "Aceleración 0-100 km/h": "7,8 s",
+                    "Autonomía eléctrica WLTP": "572 km",
+                    "Distintivo ambiental DGT": "0 emisiones"
+                },
+                {
+                    "Tipo de Carrocería": "Turismo",
+                    "Número de puertas": "5",
+                    "Longitud": "4.820 mm",
+                    "Anchura": "1.900 mm",
+                    "Altura": "1.580 mm",
+                    "Batalla": "2.900 mm",
+                    "Coeficiente Cx": "0,24",
+                    "Superficie frontal": "2,63 m²",
+                    "Factor de resistencia": "0,63",
+                    "Peso": "2.180 kg",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Altura libre": "155 mm"
+                },
+                {
+                    "Potencia máxima": "280 CV / 206 kW",
+                    "Par máximo": "343 Nm"
+                },
+                {
+                    "Propósito": "Impulsar al vehículo / generar corriente eléc",
+                    "Potencia máxima": "280 CV / 206 kW",
+                    "Par máximo": "343 Nm",
+                    "Ubicación": "Delantero transversal",
+                    "Tensión nominal": "400 V"
+                },
+                {},
+                {
+                    "Ubicación": "Central",
+                    "Capacidad útil": "97,2 kWh"
+                },
+                {
+                    "Potencia de recarga máxima en C.C.": "160 kW",
+                    "Potencia de recarga máxima en C.A.": "22 kW",
+                    "Tiempo de recarga total a 7,4 kW": "5,1 h",
+                    "Tiempo de recarga total a 11 kW": "6,2 h"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "1",
+                    "Tipo de Embrague": "Sin embrague",
+                    "Tipo de mecanismo": "Pares de engranajes"
+                },
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Tipo de frenos traseros": "Disco ventilado",
+                    "Neumáticos delanteros": "/ R19",
+                    "Neumáticos traseros": "/ R19",
+                    "Llantas delanteras": "x 19",
+                    "Llantas Traseras": "x 19"
+                }
+            ]
+        }
+    ]
+}

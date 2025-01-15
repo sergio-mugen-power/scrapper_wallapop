@@ -1,0 +1,88 @@
+{
+    "name": "Ampera-e",
+    "year": "2017",
+    "url": "https://www.km77.com/coches/opel/ampera-e/2017/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "Ampera-e",
+            "start_year": "2017",
+            "end_year": "2018",
+            "url": "https://www.km77.com/coches/opel/ampera-e/2017/estandar/estandar/ampera-e/datos",
+            "price": "",
+            "potencia": "204",
+            "consumo": "-",
+            "longitud": "4.164",
+            "maletero": "381",
+            "specs": [
+                {
+                    "Velocidad máxima": "150 km/h",
+                    "Aceleración 0-100 km/h": "7,3 s",
+                    "Emisiones de CO₂ NEDC": "No disponible",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "0 emisiones"
+                },
+                {
+                    "Tipo de Carrocería": "Monovolumen",
+                    "Número de puertas": "5",
+                    "Longitud": "4.164 mm",
+                    "Anchura": "1.765 mm",
+                    "Altura": "1.594 mm",
+                    "Batalla": "2.600 mm",
+                    "Vía delantera": "1.507 mm",
+                    "Vía trasera": "1.516 mm",
+                    "Peso": "1.691 kg",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Potencia máxima": "204 CV / 150 kW",
+                    "Par máximo": "360 Nm"
+                },
+                {
+                    "Propósito": "Impulsar al vehículo / generar corriente eléc",
+                    "Potencia máxima": "204 CV / 150 kW",
+                    "Revoluciones potencia máxima": "No disponible",
+                    "Par máximo": "360 Nm",
+                    "Revoluciones par máximo": "No disponible",
+                    "Ubicación": "Delantero transversal",
+                    "Tensión nominal": "No disponible"
+                },
+                {
+                    "Tipo": "Acumulador de iones de litio",
+                    "Ubicación": "Central",
+                    "Capacidad": "60 kWh",
+                    "Capacidad útil": "No disponible"
+                },
+                {},
+                {
+                    "Tiempo de recarga total a 2,3 kW": "32 h"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "1",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "Sin embrague",
+                    "Tipo de mecanismo": "Pares de engranajes"
+                },
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Rueda tirada con elemento torsional",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "276 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "264 mm",
+                    "Neumáticos delanteros": "215/50 R17 95V",
+                    "Neumáticos traseros": "215/50 R17 95V",
+                    "Llantas delanteras": "6.5 x 17",
+                    "Llantas Traseras": "6.5 x 17"
+                }
+            ]
+        }
+    ]
+}

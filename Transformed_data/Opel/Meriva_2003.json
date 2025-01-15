@@ -1,0 +1,728 @@
+{
+    "name": "Meriva",
+    "year": "2003",
+    "url": "https://www.km77.com/coches/opel/meriva/2003/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "Meriva Essentia 1.7 DTi",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/essentia/meriva-essentia-17-dti/datos",
+            "price": "13.090",
+            "potencia": "75",
+            "consumo": "5,4",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Essentia 1.6 SE",
+            "start_year": "2003",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/essentia/meriva-essentia-16-se/datos",
+            "price": "13.760",
+            "potencia": "87",
+            "consumo": "7,8",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Essentia 1.4 XEP",
+            "start_year": "2004",
+            "end_year": "2006",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/essentia/meriva-essentia-14-xep/datos",
+            "price": "14.450",
+            "potencia": "90",
+            "consumo": "6,4",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Increíbles 1.6 XE",
+            "start_year": "2005",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/increibles/meriva-increibles-16-xe/datos",
+            "price": "14.590",
+            "potencia": "101",
+            "consumo": "7,5",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Enjoy 1.7 DTi",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/enjoy/meriva-enjoy-17-dti/datos",
+            "price": "14.640",
+            "potencia": "75",
+            "consumo": "5,4",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Increíbles 1.7 DTi",
+            "start_year": "2005",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/increibles/meriva-increibles-17-dti/datos",
+            "price": "14.690",
+            "potencia": "75",
+            "consumo": "5,4",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Línea Blu 1.6 XE",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/linea-blu/meriva-linea-blu-16-xe/datos",
+            "price": "14.760",
+            "potencia": "101",
+            "consumo": "7,5",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Essentia 1.6 XE",
+            "start_year": "2003",
+            "end_year": "2006",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/essentia/meriva-essentia-16-xe/datos",
+            "price": "14.850",
+            "potencia": "101",
+            "consumo": "7,3",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Essentia 1.7 CDTi",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/essentia/meriva-essentia-17-cdti/datos",
+            "price": "14.850",
+            "potencia": "101",
+            "consumo": "5,3",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Increíbles 1.6 XE Easytronic",
+            "start_year": "2005",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/increibles/meriva-increibles-16-xe-easytronic/datos",
+            "price": "15.040",
+            "potencia": "101",
+            "consumo": "7,2",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Enjoy 1.6 SE",
+            "start_year": "2003",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/enjoy/meriva-enjoy-16-se/datos",
+            "price": "15.120",
+            "potencia": "87",
+            "consumo": "7,8",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Essentia 1.3 CDTi",
+            "start_year": "2005",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/essentia/meriva-essentia-13-cdti/datos",
+            "price": "15.150",
+            "potencia": "69",
+            "consumo": "5",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Línea Blu 1.6 XE Easytronic",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/linea-blu/meriva-linea-blu-16-xe-easytronic/datos",
+            "price": "15.210",
+            "potencia": "101",
+            "consumo": "7,2",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Essentia 1.6 XE Easytronic",
+            "start_year": "2003",
+            "end_year": "2006",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/essentia/meriva-essentia-16-xe-easytronic/datos",
+            "price": "15.300",
+            "potencia": "101",
+            "consumo": "7,2",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Línea Blu 1.3 CDTi",
+            "start_year": "2005",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/linea-blu/meriva-linea-blu-13-cdti/datos",
+            "price": "15.400",
+            "potencia": "69",
+            "consumo": "5",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Cosmo 1.7 DTi",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/cosmo/meriva-cosmo-17-dti/datos",
+            "price": "15.530",
+            "potencia": "75",
+            "consumo": "5,4",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Cosmo 1.6 SE",
+            "start_year": "2003",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/cosmo/meriva-cosmo-16-se/datos",
+            "price": "15.600",
+            "potencia": "87",
+            "consumo": "7,8",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Increíbles 1.7 CDTi",
+            "start_year": "2005",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/increibles/meriva-increibles-17-cdti/datos",
+            "price": "15.940",
+            "potencia": "101",
+            "consumo": "5,3",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Enjoy 1.4 XEP",
+            "start_year": "2004",
+            "end_year": "2006",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/enjoy/meriva-enjoy-14-xep/datos",
+            "price": "16.000",
+            "potencia": "90",
+            "consumo": "6,4",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Essentia 1.8 XE",
+            "start_year": "2003",
+            "end_year": "2006",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/essentia/meriva-essentia-18-xe/datos",
+            "price": "16.050",
+            "potencia": "125",
+            "consumo": "7,9",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Línea Blu 1.7 DTi",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/linea-blu/meriva-linea-blu-17-dti/datos",
+            "price": "16.060",
+            "potencia": "75",
+            "consumo": "5,4",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Enjoy 1.6 XE",
+            "start_year": "2003",
+            "end_year": "2006",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/enjoy/meriva-enjoy-16-xe/datos",
+            "price": "16.400",
+            "potencia": "101",
+            "consumo": "7,3",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Línea Blu 1.7 CDTi",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/linea-blu/meriva-linea-blu-17-cdti/datos",
+            "price": "16.450",
+            "potencia": "101",
+            "consumo": "5,3",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Essentia 1.8 XE Easytronic",
+            "start_year": "2003",
+            "end_year": "2006",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/essentia/meriva-essentia-18-xe-easytronic/datos",
+            "price": "16.500",
+            "potencia": "125",
+            "consumo": "7,8",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Enjoy 1.3 CDTi",
+            "start_year": "2005",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/enjoy/meriva-enjoy-13-cdti/datos",
+            "price": "16.700",
+            "potencia": "69",
+            "consumo": "5",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Enjoy 1.6 XE Easytronic",
+            "start_year": "2003",
+            "end_year": "2006",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/enjoy/meriva-enjoy-16-xe-easytronic/datos",
+            "price": "16.850",
+            "potencia": "101",
+            "consumo": "7,2",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Cosmo 1.4 XEP",
+            "start_year": "2004",
+            "end_year": "2006",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/cosmo/meriva-cosmo-14-xep/datos",
+            "price": "17.140",
+            "potencia": "90",
+            "consumo": "6,4",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Cosmo 1.6 XE",
+            "start_year": "2003",
+            "end_year": "2006",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/cosmo/meriva-cosmo-16-xe/datos",
+            "price": "17.540",
+            "potencia": "101",
+            "consumo": "7,3",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Enjoy 1.8 XE",
+            "start_year": "2003",
+            "end_year": "2006",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/enjoy/meriva-enjoy-18-xe/datos",
+            "price": "17.600",
+            "potencia": "125",
+            "consumo": "7,9",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Enjoy 1.7 CDTi",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/enjoy/meriva-enjoy-17-cdti/datos",
+            "price": "17.750",
+            "potencia": "101",
+            "consumo": "5,3",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Cosmo 1.3 CDTi",
+            "start_year": "2005",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/cosmo/meriva-cosmo-13-cdti/datos",
+            "price": "17.840",
+            "potencia": "69",
+            "consumo": "5",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Cosmo 1.6 XE Easytronic",
+            "start_year": "2003",
+            "end_year": "2006",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/cosmo/meriva-cosmo-16-xe-easytronic/datos",
+            "price": "17.990",
+            "potencia": "101",
+            "consumo": "7,2",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Enjoy 1.8 XE Easytronic",
+            "start_year": "2003",
+            "end_year": "2006",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/enjoy/meriva-enjoy-18-xe-easytronic/datos",
+            "price": "18.050",
+            "potencia": "125",
+            "consumo": "7,8",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Cosmo 1.8 XE",
+            "start_year": "2003",
+            "end_year": "2006",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/cosmo/meriva-cosmo-18-xe/datos",
+            "price": "18.740",
+            "potencia": "125",
+            "consumo": "7,9",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Cosmo 1.7 CDTi",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/cosmo/meriva-cosmo-17-cdti/datos",
+            "price": "18.890",
+            "potencia": "101",
+            "consumo": "5,3",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Meriva Cosmo 1.8 XE Easytronic",
+            "start_year": "2003",
+            "end_year": "2006",
+            "url": "https://www.km77.com/coches/opel/meriva/2003/estandar/cosmo/meriva-cosmo-18-xe-easytronic/datos",
+            "price": "19.190",
+            "potencia": "125",
+            "consumo": "7,8",
+            "longitud": "4.042",
+            "maletero": "350",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        }
+    ]
+}

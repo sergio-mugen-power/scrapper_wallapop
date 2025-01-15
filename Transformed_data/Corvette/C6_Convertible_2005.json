@@ -1,0 +1,63 @@
+{
+    "name": "C6 Convertible",
+    "year": "2005",
+    "url": "https://www.km77.com/coches/corvette/c6/2005/convertible",
+    "price": "",
+    "versions": [
+        {
+            "name": "6.0 V8 Convertible Aut.",
+            "start_year": "2005",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/corvette/c6/2005/convertible/estandar/60-v8-convertible-aut/datos",
+            "price": "Precio",
+            "potencia": "404",
+            "consumo": "12,4",
+            "longitud": "4.435",
+            "maletero": "295"
+        },
+        {
+            "name": "C6 6.0 V8 Convertible Aut. Magnetic Selective Ride Control",
+            "start_year": "2005",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/corvette/c6/2005/convertible/estandar/c6-60-v8-convertible-aut-magnetic-selective-ride-control/datos",
+            "price": "Precio",
+            "potencia": "404",
+            "consumo": "12,4",
+            "longitud": "4.435",
+            "maletero": "295"
+        },
+        {
+            "name": "C6 6.0 V8 Convertible Magnetic Selective Ride Control",
+            "start_year": "2005",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/corvette/c6/2005/convertible/estandar/c6-60-v8-convertible-magnetic-selective-ride-control/datos",
+            "price": "Precio",
+            "potencia": "404",
+            "consumo": "11,7",
+            "longitud": "4.435",
+            "maletero": "295"
+        },
+        {
+            "name": "6.0 V8 Descapotable",
+            "start_year": "2005",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/corvette/c6/2005/convertible/estandar/60-v8-descapotable/datos",
+            "price": "Precio",
+            "potencia": "404",
+            "consumo": "13",
+            "longitud": "4.435",
+            "maletero": "295"
+        },
+        {
+            "name": "6.0 V8 Descapotable Aut.",
+            "start_year": "2005",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/corvette/c6/2005/convertible/estandar/60-v8-descapotable-aut/datos",
+            "price": "Precio",
+            "potencia": "404",
+            "consumo": "13",
+            "longitud": "4.435",
+            "maletero": "295"
+        }
+    ]
+}

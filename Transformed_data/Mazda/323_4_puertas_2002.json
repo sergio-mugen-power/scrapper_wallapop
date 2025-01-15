@@ -1,0 +1,52 @@
+{
+    "name": "323 4 puertas",
+    "year": "2002",
+    "url": "https://www.km77.com/coches/mazda/323/2002/4-puertas",
+    "price": "",
+    "versions": [
+        {
+            "name": "323 Exclusive 1.6 16V 4p",
+            "start_year": "2001",
+            "end_year": "2002",
+            "url": "https://www.km77.com/coches/mazda/323/2002/4-puertas/exclusive/323-exclusive-16-16v-4p/datos",
+            "price": "14.850",
+            "potencia": "98",
+            "consumo": "7,7",
+            "longitud": "4.365",
+            "maletero": "416"
+        },
+        {
+            "name": "323 Active 1.6 16V 4p",
+            "start_year": "2002",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/mazda/323/2002/4-puertas/active/323-active-16-16v-4p/datos",
+            "price": "16.220",
+            "potencia": "98",
+            "consumo": "7,7",
+            "longitud": "4.365",
+            "maletero": "416"
+        },
+        {
+            "name": "323 Exclusive 2.0 DVTD 16V 4p",
+            "start_year": "2001",
+            "end_year": "2002",
+            "url": "https://www.km77.com/coches/mazda/323/2002/4-puertas/exclusive/323-exclusive-20-dvtd-16v-4p/datos",
+            "price": "16.550",
+            "potencia": "101",
+            "consumo": "5,9",
+            "longitud": "4.365",
+            "maletero": "416"
+        },
+        {
+            "name": "323 Active 2.0 DVTD 16V 4p",
+            "start_year": "2002",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/mazda/323/2002/4-puertas/active/323-active-20-dvtd-16v-4p/datos",
+            "price": "17.920",
+            "potencia": "101",
+            "consumo": "5,9",
+            "longitud": "4.365",
+            "maletero": "416"
+        }
+    ]
+}

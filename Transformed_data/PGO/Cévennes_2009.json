@@ -1,0 +1,52 @@
+{
+    "name": "Cévennes",
+    "year": "2009",
+    "url": "https://www.km77.com/coches/pgo/cevennes/2009/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "Cevennes",
+            "start_year": "2010",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/pgo/cevennes/2009/estandar/estandar/cevennes-202/datos",
+            "price": "39.000",
+            "potencia": "140",
+            "consumo": "8,2",
+            "longitud": "3.700",
+            "maletero": "110"
+        },
+        {
+            "name": "Cevennes",
+            "start_year": "2012",
+            "end_year": "2013",
+            "url": "https://www.km77.com/coches/pgo/cevennes/2009/estandar/estandar/cevennes/datos",
+            "price": "39.000",
+            "potencia": "140",
+            "consumo": "8,2",
+            "longitud": "3.700",
+            "maletero": "110"
+        },
+        {
+            "name": "Cévennes 2.0",
+            "start_year": "2009",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/pgo/cevennes/2009/estandar/estandar/cevennes-20/datos",
+            "price": "39.900",
+            "potencia": "140",
+            "consumo": "8,2",
+            "longitud": "3.700",
+            "maletero": "110"
+        },
+        {
+            "name": "Cévennes 2.0 Aut.",
+            "start_year": "2009",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/pgo/cevennes/2009/estandar/estandar/cevennes-20-aut/datos",
+            "price": "42.621",
+            "potencia": "140",
+            "consumo": "8,4",
+            "longitud": "3.700",
+            "maletero": "110"
+        }
+    ]
+}

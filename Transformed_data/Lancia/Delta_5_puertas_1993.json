@@ -1,0 +1,41 @@
+{
+    "name": "Delta 5 puertas",
+    "year": "1993",
+    "url": "https://www.km77.com/coches/lancia/delta/1993/5-puertas",
+    "price": "",
+    "versions": [
+        {
+            "name": "Delta 1.6 LS 16v",
+            "start_year": "1993",
+            "end_year": "2000",
+            "url": "https://www.km77.com/coches/lancia/delta/1993/5-puertas/ls/delta-16-ls-16v/datos",
+            "price": "13.643",
+            "potencia": "103",
+            "consumo": "8,4",
+            "longitud": "4.011",
+            "maletero": "320"
+        },
+        {
+            "name": "Delta 1.9 TD LS",
+            "start_year": "1993",
+            "end_year": "2000",
+            "url": "https://www.km77.com/coches/lancia/delta/1993/5-puertas/ls/delta-19-td-ls/datos",
+            "price": "16.317",
+            "potencia": "90",
+            "consumo": "6,7",
+            "longitud": "4.011",
+            "maletero": "320"
+        },
+        {
+            "name": "Delta 1.8 VVT LS",
+            "start_year": "1993",
+            "end_year": "2000",
+            "url": "https://www.km77.com/coches/lancia/delta/1993/5-puertas/ls/delta-18-vvt-ls/datos",
+            "price": "17.249",
+            "potencia": "131",
+            "consumo": "8,8",
+            "longitud": "4.011",
+            "maletero": "320"
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "name": "CT",
+    "year": "2018",
+    "url": "https://www.km77.com/coches/lexus/ct/2018/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "CT 200h Eco",
+            "start_year": "2017",
+            "end_year": "2018",
+            "url": "https://www.km77.com/coches/lexus/ct/2018/estandar/eco/ct-200h-eco/datos",
+            "price": "24.900",
+            "potencia": "136",
+            "consumo": "3,6",
+            "longitud": "4.355",
+            "maletero": "275"
+        },
+        {
+            "name": "CT 200h Eco",
+            "start_year": "2018",
+            "end_year": "2021",
+            "url": "https://www.km77.com/coches/lexus/ct/2018/estandar/eco/ct-200h-eco2/datos",
+            "price": "24.900",
+            "potencia": "136",
+            "consumo": "4,8",
+            "longitud": "4.355",
+            "maletero": "275"
+        },
+        {
+            "name": "CT 200h Business",
+            "start_year": "2017",
+            "end_year": "2018",
+            "url": "https://www.km77.com/coches/lexus/ct/2018/estandar/business/ct-200h-business/datos",
+            "price": "28.700",
+            "potencia": "136",
+            "consumo": "3,8",
+            "longitud": "4.355",
+            "maletero": "275"
+        },
+        {
+            "name": "CT 200h Business",
+            "start_year": "2018",
+            "end_year": "2022",
+            "url": "https://www.km77.com/coches/lexus/ct/2018/estandar/business/ct-200h-business2/datos",
+            "price": "28.700",
+            "potencia": "136",
+            "consumo": "5,1",
+            "longitud": "4.355",
+            "maletero": "275"
+        },
+        {
+            "name": "CT 200h Executive",
+            "start_year": "2017",
+            "end_year": "2018",
+            "url": "https://www.km77.com/coches/lexus/ct/2018/estandar/executive/ct-200h-executive/datos",
+            "price": "31.600",
+            "potencia": "136",
+            "consumo": "4,1",
+            "longitud": "4.355",
+            "maletero": "275"
+        },
+        {
+            "name": "CT 200h Executive",
+            "start_year": "2018",
+            "end_year": "2021",
+            "url": "https://www.km77.com/coches/lexus/ct/2018/estandar/executive/ct-200h-executive2/datos",
+            "price": "31.600",
+            "potencia": "136",
+            "consumo": "5,2",
+            "longitud": "4.355",
+            "maletero": "275"
+        },
+        {
+            "name": "CT 200h Sport Edition",
+            "start_year": "2018",
+            "end_year": "2021",
+            "url": "https://www.km77.com/coches/lexus/ct/2018/estandar/sport-edition/ct-200h-sport-edition/datos",
+            "price": "33.500",
+            "potencia": "136",
+            "consumo": "5,2",
+            "longitud": "4.355",
+            "maletero": "275"
+        },
+        {
+            "name": "CT 200h F Sport",
+            "start_year": "2017",
+            "end_year": "2018",
+            "url": "https://www.km77.com/coches/lexus/ct/2018/estandar/f-sport/ct-200h-f-sport/datos",
+            "price": "34.800",
+            "potencia": "136",
+            "consumo": "4,1",
+            "longitud": "4.355",
+            "maletero": "275"
+        },
+        {
+            "name": "CT 200h F Sport",
+            "start_year": "2018",
+            "end_year": "2021",
+            "url": "https://www.km77.com/coches/lexus/ct/2018/estandar/f-sport/ct-200h-f-sport2/datos",
+            "price": "39.500",
+            "potencia": "136",
+            "consumo": "5,3",
+            "longitud": "4.355",
+            "maletero": "275"
+        },
+        {
+            "name": "CT 200h Luxury",
+            "start_year": "2017",
+            "end_year": "2018",
+            "url": "https://www.km77.com/coches/lexus/ct/2018/estandar/luxury/ct-200h-luxury/datos",
+            "price": "39.500",
+            "potencia": "136",
+            "consumo": "4,1",
+            "longitud": "4.355",
+            "maletero": "275"
+        },
+        {
+            "name": "CT 200h Luxury",
+            "start_year": "2018",
+            "end_year": "2021",
+            "url": "https://www.km77.com/coches/lexus/ct/2018/estandar/luxury/ct-200h-luxury3/datos",
+            "price": "39.500",
+            "potencia": "136",
+            "consumo": "5,2",
+            "longitud": "4.355",
+            "maletero": "275"
+        }
+    ]
+}

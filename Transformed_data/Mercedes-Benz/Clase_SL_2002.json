@@ -1,0 +1,938 @@
+{
+    "name": "Clase SL",
+    "year": "2002",
+    "url": "https://www.km77.com/coches/mercedes/clase-sl/2002/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "SL 350",
+            "start_year": "2002",
+            "end_year": "2006",
+            "url": "https://www.km77.com/coches/mercedes/clase-sl/2002/estandar/estandar/sl-350/datos",
+            "price": "Precio",
+            "potencia": "245",
+            "consumo": "11,5",
+            "longitud": "4.535",
+            "maletero": "317",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "89.200 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "69.688 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "03/2006"
+                },
+                {
+                    "Velocidad máxima": "250 km/h",
+                    "Aceleración 0-100 km/h": "7,2 s",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "C"
+                },
+                {
+                    "Tipo de Carrocería": "Descapotable",
+                    "Número de puertas": "2",
+                    "Longitud": "4.535 mm",
+                    "Anchura": "1.827 mm",
+                    "Altura": "1.298 mm",
+                    "Batalla": "2.560 mm",
+                    "Vía delantera": "1.559 mm",
+                    "Vía trasera": "1.547 mm",
+                    "Coeficiente Cx": "0,29",
+                    "Superficie frontal": "2 m²",
+                    "Factor de resistencia": "0,58",
+                    "Peso": "1.755 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "2",
+                    "Distribución de asientos": "2"
+                },
+                {
+                    "Potencia máxima": "245 CV / 180 kW",
+                    "Par máximo": "350 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "245 CV / 180 kW",
+                    "Revoluciones potencia máxima": "5.700 rpm",
+                    "Par máximo": "350 Nm",
+                    "Revoluciones par máximo": "3.000 - 4.500 rpm",
+                    "Situación": "Delantero longitudinal",
+                    "Número de cilindros": "6",
+                    "Disposición de los cilindros": "En V",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "97 mm",
+                    "Carrera": "84 mm",
+                    "Cilindrada": "3.724 cm³",
+                    "Relación de compresión": "10 a 1",
+                    "Alimentación": "Inyección Indirecta.",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Trasera",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "6",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "No",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Tipo de frenos traseros": "Disco ventilado",
+                    "Neumáticos delanteros": "255/45 R17",
+                    "Neumáticos traseros": "255/45 R17",
+                    "Llantas delanteras": "8.5 x 17",
+                    "Llantas Traseras": "8.5 x 17"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)89.200 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "69.688 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "03/2006"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Airbag lateral delantero": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Control de estabilidad": "De serie",
+                    "Control de tracción": "De serie",
+                    "Cuentavueltas": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Faros de xenón": "De serie",
+                    "Ordenador de viaje": "De serie",
+                    "Programador de velocidad": "De serie",
+                    "Regulación de altura de faros": "De serie",
+                    "Termómetro de agua": "De serie",
+                    "Volante con ajuste horizontal": "De serie",
+                    "Volante con ajuste vertical": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Asiento conductor eléctrico": "De serie",
+                    "Asiento del conductor con ajuste de altura": "De serie",
+                    "Asientos delanteros con calefacción": "De serie",
+                    "Cierre centralizado": "De serie",
+                    "Climatizador": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Espejos eléctricos": "De serie",
+                    "Limpiaparabrisas automático": "De serie",
+                    "Mando de apertura y cierre a distancia": "De serie"
+                },
+                {
+                    "Paragolpes pintados": "De serie"
+                },
+                {
+                    "Cargador de CD": "538 €",
+                    "Navegador": "2.560 €",
+                    "Radiocasete": "De serie"
+                },
+                {
+                    "Llantas de aleación": "De serie"
+                },
+                {},
+                {
+                    "Alarma antirrobo": "De serie",
+                    "Inmovilizador": "De serie"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "SL 500",
+            "start_year": "2001",
+            "end_year": "2006",
+            "url": "https://www.km77.com/coches/mercedes/clase-sl/2002/estandar/estandar/sl-500/datos",
+            "price": "Precio",
+            "potencia": "306",
+            "consumo": "12,7",
+            "longitud": "4.535",
+            "maletero": "317",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "111.000 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "86.719 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "03/2006"
+                },
+                {
+                    "Velocidad máxima": "250 km/h",
+                    "Aceleración 0-100 km/h": "6,3 s",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "C"
+                },
+                {
+                    "Tipo de Carrocería": "Descapotable",
+                    "Número de puertas": "2",
+                    "Longitud": "4.535 mm",
+                    "Anchura": "1.827 mm",
+                    "Altura": "1.298 mm",
+                    "Batalla": "2.560 mm",
+                    "Vía delantera": "1.559 mm",
+                    "Vía trasera": "1.547 mm",
+                    "Coeficiente Cx": "0,29",
+                    "Superficie frontal": "2 m²",
+                    "Factor de resistencia": "0,58",
+                    "Peso": "1.845 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "2",
+                    "Distribución de asientos": "2"
+                },
+                {
+                    "Potencia máxima": "306 CV / 225 kW",
+                    "Par máximo": "460 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "306 CV / 225 kW",
+                    "Revoluciones potencia máxima": "5.600 rpm",
+                    "Par máximo": "460 Nm",
+                    "Revoluciones par máximo": "2.700 - 4.200 rpm",
+                    "Situación": "Delantero longitudinal",
+                    "Número de cilindros": "8",
+                    "Disposición de los cilindros": "En V",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "97 mm",
+                    "Carrera": "84 mm",
+                    "Cilindrada": "4.966 cm³",
+                    "Relación de compresión": "10 a 1",
+                    "Alimentación": "Inyección Indirecta.",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Trasera",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "5",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "No",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Tipo de frenos traseros": "Disco ventilado",
+                    "Neumáticos delanteros": "255/45 R17",
+                    "Neumáticos traseros": "255/45 R17",
+                    "Llantas delanteras": "8.5 x 17",
+                    "Llantas Traseras": "8.5 x 17"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)111.000 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "86.719 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "03/2006"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Airbag lateral delantero": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Control de estabilidad": "De serie",
+                    "Control de tracción": "De serie",
+                    "Cuentavueltas": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Faros de xenón": "De serie",
+                    "Ordenador de viaje": "De serie",
+                    "Programador de velocidad": "De serie",
+                    "Regulación de altura de faros": "De serie",
+                    "Termómetro de agua": "De serie",
+                    "Volante con ajuste horizontal": "De serie",
+                    "Volante con ajuste vertical": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Asiento conductor eléctrico": "De serie",
+                    "Asiento del conductor con ajuste de altura": "De serie",
+                    "Asientos delanteros con calefacción": "De serie",
+                    "Cierre centralizado": "De serie",
+                    "Climatizador": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Espejos eléctricos": "De serie",
+                    "Limpiaparabrisas automático": "De serie",
+                    "Mando de apertura y cierre a distancia": "De serie"
+                },
+                {
+                    "Paragolpes pintados": "De serie",
+                    "Pintura metalizada": "No disponible",
+                    "Tapiceria de cuero": "De serie"
+                },
+                {
+                    "Cargador de CD": "550 €",
+                    "Navegador": "2.559 €",
+                    "Radiocasete": "De serie"
+                },
+                {
+                    "Llantas de aleación": "De serie"
+                },
+                {},
+                {
+                    "Alarma antirrobo": "De serie",
+                    "Inmovilizador": "De serie"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "SL 55 AMG",
+            "start_year": "2001",
+            "end_year": "2002",
+            "url": "https://www.km77.com/coches/mercedes/clase-sl/2002/estandar/amg/sl-55-amg/datos",
+            "price": "Precio",
+            "potencia": "476",
+            "consumo": "14,2",
+            "longitud": "4.535",
+            "maletero": "317",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "141.750 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "110.742 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "06/2002"
+                },
+                {
+                    "Velocidad máxima": "250 km/h",
+                    "Aceleración 0-100 km/h": "4,7 s",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "B"
+                },
+                {
+                    "Tipo de Carrocería": "Descapotable",
+                    "Número de puertas": "2",
+                    "Longitud": "4.535 mm",
+                    "Anchura": "1.815 mm",
+                    "Altura": "1.295 mm",
+                    "Batalla": "2.560 mm",
+                    "Vía delantera": "1.569 mm",
+                    "Vía trasera": "1.551 mm",
+                    "Coeficiente Cx": "0,3",
+                    "Peso": "1.955 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "2",
+                    "Distribución de asientos": "2"
+                },
+                {
+                    "Potencia máxima": "476 CV / 350 kW",
+                    "Par máximo": "700 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "476 CV / 350 kW",
+                    "Revoluciones potencia máxima": "6.100 rpm",
+                    "Par máximo": "700 Nm",
+                    "Revoluciones par máximo": "2.650 - 4.500 rpm",
+                    "Situación": "Delantero longitudinal",
+                    "Número de cilindros": "8",
+                    "Disposición de los cilindros": "En V",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "97 mm",
+                    "Carrera": "92 mm",
+                    "Cilindrada": "5.439 cm³",
+                    "Relación de compresión": "9 a 1",
+                    "Alimentación": "Inyección Indirecta. Compresor. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Trasera",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "5",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "No",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "360 mm",
+                    "Tipo de frenos traseros": "Disco ventilado",
+                    "Diámetro de frenos traseros": "330 mm",
+                    "Neumáticos delanteros": "255/40 R18",
+                    "Neumáticos traseros": "285/35 R18",
+                    "Llantas delanteras": "8.5 x 18",
+                    "Llantas Traseras": "9.5 x 18"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)141.750 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "110.742 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "06/2002"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Airbag lateral delantero": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Control de estabilidad": "De serie",
+                    "Control de tracción": "De serie",
+                    "Cuentavueltas": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Faros de xenón": "De serie",
+                    "Ordenador de viaje": "De serie",
+                    "Programador de velocidad": "De serie",
+                    "Regulación de altura de faros": "De serie",
+                    "Termómetro de agua": "De serie",
+                    "Volante con ajuste horizontal": "De serie",
+                    "Volante con ajuste vertical": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Asiento conductor eléctrico": "De serie",
+                    "Asiento del conductor con ajuste de altura": "De serie",
+                    "Asientos delanteros con calefacción": "De serie",
+                    "Cierre centralizado": "De serie",
+                    "Climatizador": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Espejos eléctricos": "De serie",
+                    "Limpiaparabrisas automático": "De serie",
+                    "Mando de apertura y cierre a distancia": "De serie"
+                },
+                {
+                    "Paragolpes pintados": "De serie",
+                    "Tapiceria de cuero": "De serie"
+                },
+                {
+                    "Cargador de CD": "550 €",
+                    "Navegador": "2.559 €",
+                    "Radiocasete": "De serie"
+                },
+                {
+                    "Llantas de aleación": "De serie"
+                },
+                {},
+                {
+                    "Alarma antirrobo": "De serie",
+                    "Inmovilizador": "De serie"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "SL 55 K AMG",
+            "start_year": "2002",
+            "end_year": "2006",
+            "url": "https://www.km77.com/coches/mercedes/clase-sl/2002/estandar/amg/sl-55-k-amg/datos",
+            "price": "Precio",
+            "potencia": "500",
+            "consumo": "13,5",
+            "longitud": "4.535",
+            "maletero": "317",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "146.800 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "114.688 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "03/2006"
+                },
+                {
+                    "Velocidad máxima": "250 km/h",
+                    "Aceleración 0-100 km/h": "4,7 s",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "C"
+                },
+                {
+                    "Tipo de Carrocería": "Descapotable",
+                    "Número de puertas": "2",
+                    "Longitud": "4.535 mm",
+                    "Anchura": "1.827 mm",
+                    "Altura": "1.295 mm",
+                    "Batalla": "2.560 mm",
+                    "Vía delantera": "1.569 mm",
+                    "Vía trasera": "1.551 mm",
+                    "Coeficiente Cx": "0,3",
+                    "Peso": "1.955 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "2",
+                    "Distribución de asientos": "2"
+                },
+                {
+                    "Potencia máxima": "500 CV / 368 kW",
+                    "Par máximo": "700 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "500 CV / 368 kW",
+                    "Revoluciones potencia máxima": "6.100 rpm",
+                    "Par máximo": "700 Nm",
+                    "Revoluciones par máximo": "2.750 - 4.000 rpm",
+                    "Situación": "Delantero longitudinal",
+                    "Número de cilindros": "8",
+                    "Disposición de los cilindros": "En V",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "97 mm",
+                    "Carrera": "92 mm",
+                    "Cilindrada": "5.439 cm³",
+                    "Relación de compresión": "9 a 1",
+                    "Alimentación": "Inyección Indirecta. Compresor. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Trasera",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "5",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "No",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "360 mm",
+                    "Tipo de frenos traseros": "Disco ventilado",
+                    "Diámetro de frenos traseros": "330 mm",
+                    "Neumáticos delanteros": "255/40 R18 W",
+                    "Neumáticos traseros": "285/35 R18 W",
+                    "Llantas delanteras": "8.5 x 18",
+                    "Llantas Traseras": "9.5 x 18"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)146.800 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "114.688 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "03/2006"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Airbag lateral delantero": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Control de estabilidad": "De serie",
+                    "Control de tracción": "De serie",
+                    "Cuentavueltas": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Faros de xenón": "De serie",
+                    "Ordenador de viaje": "De serie",
+                    "Programador de velocidad": "De serie",
+                    "Regulación de altura de faros": "De serie",
+                    "Termómetro de agua": "De serie",
+                    "Volante con ajuste horizontal": "De serie",
+                    "Volante con ajuste vertical": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Asiento conductor eléctrico": "De serie",
+                    "Asiento del conductor con ajuste de altura": "De serie",
+                    "Asientos delanteros con calefacción": "De serie",
+                    "Cierre centralizado": "De serie",
+                    "Climatizador": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Espejos eléctricos": "De serie",
+                    "Limpiaparabrisas automático": "De serie",
+                    "Mando de apertura y cierre a distancia": "De serie"
+                },
+                {
+                    "Paragolpes pintados": "De serie",
+                    "Tapiceria de cuero": "De serie"
+                },
+                {
+                    "Cargador de CD": "550 €",
+                    "Navegador": "2.559 €",
+                    "Radiocasete": "De serie"
+                },
+                {
+                    "Llantas de aleación": "De serie"
+                },
+                {},
+                {
+                    "Alarma antirrobo": "De serie",
+                    "Inmovilizador": "De serie"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "SL 600",
+            "start_year": "2003",
+            "end_year": "2006",
+            "url": "https://www.km77.com/coches/mercedes/clase-sl/2002/estandar/estandar/sl-600/datos",
+            "price": "Precio",
+            "potencia": "500",
+            "consumo": "14,4",
+            "longitud": "4.535",
+            "maletero": "317",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "147.400 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "115.156 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "03/2006"
+                },
+                {
+                    "Velocidad máxima": "250 km/h",
+                    "Aceleración 0-100 km/h": "4,7 s",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "C"
+                },
+                {
+                    "Tipo de Carrocería": "Descapotable",
+                    "Número de puertas": "2",
+                    "Longitud": "4.535 mm",
+                    "Anchura": "1.827 mm",
+                    "Altura": "1.298 mm",
+                    "Batalla": "2.560 mm",
+                    "Vía delantera": "1.559 mm",
+                    "Vía trasera": "1.537 mm",
+                    "Coeficiente Cx": "0,29",
+                    "Superficie frontal": "2 m²",
+                    "Factor de resistencia": "0,58",
+                    "Peso": "1.950 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "2",
+                    "Distribución de asientos": "2"
+                },
+                {
+                    "Potencia máxima": "500 CV / 368 kW",
+                    "Par máximo": "800 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "500 CV / 368 kW",
+                    "Revoluciones potencia máxima": "5.000 rpm",
+                    "Par máximo": "800 Nm",
+                    "Revoluciones par máximo": "1.800 - 3.500 rpm",
+                    "Situación": "Delantero longitudinal",
+                    "Número de cilindros": "12",
+                    "Disposición de los cilindros": "En V",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "82 mm",
+                    "Carrera": "87 mm",
+                    "Cilindrada": "5.513 cm³",
+                    "Relación de compresión": "9 a 1",
+                    "Alimentación": "Inyección Indirecta. Turbo. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Trasera",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "5",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "Convertidor de par",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "No",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Tipo de frenos traseros": "Disco ventilado",
+                    "Neumáticos delanteros": "255/40 R18",
+                    "Neumáticos traseros": "285/35 R18",
+                    "Llantas delanteras": "8.5 x 18",
+                    "Llantas Traseras": "9.5 x 18"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)147.400 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "115.156 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "03/2006"
+                },
+                {
+                    "ABS": "De serie",
+                    "ASR": "De serie",
+                    "Airbag acompañante": "De serie",
+                    "Airbag conductor": "De serie",
+                    "Airbags laterales delanteros": "De serie",
+                    "Airbags laterales traseros": "No disponible",
+                    "Columna dirección ajustable en inclinación": "De serie",
+                    "Columna dirección ajustable en longitud": "De serie",
+                    "Control distancia aparcamiento delantera": "De serie",
+                    "Control distancia aparcamiento posterior": "De serie",
+                    "ESP (Programa electrónico de estabilidad)": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Faros bixenón": "De serie",
+                    "Ordenador de viaje": "De serie",
+                    "Servodirección paramétrica": "De serie",
+                    "Tempomat con Speedtronic": "De serie",
+                    "Windowbags": "No disponible"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Asiento del conductor con ajuste de altura": "De serie",
+                    "Asientos eléctricos con memoria": "De serie",
+                    "Calefacción en asientos delanteros": "De serie",
+                    "Cierre centralizado": "De serie",
+                    "Climatizador automático": "De serie",
+                    "Conexión automática de luces de cruce": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Elevalunas electricos traseros": "No disponible",
+                    "Espejos retrovisores electricos": "De serie",
+                    "Sensor de lluvia": "De serie"
+                },
+                {
+                    "Pintura metalizada": "De serie",
+                    "Tapiceria de cuero": "De serie",
+                    "Volante y palanca de cambio en cuero / madera": "De serie"
+                },
+                {
+                    "Asiento traseros abatibles (1/3:2/3)": "No disponible"
+                },
+                {
+                    "COMAND": "De serie",
+                    "Cargador de 6 CD": "De serie",
+                    "Sistema sonido BOSE": "De serie",
+                    "Teléfono MB en apoyabrazos": "De serie"
+                },
+                {},
+                {
+                    "Llantas de aleación de 18 pulgadas de diseño exclusivo": "De serie"
+                },
+                {
+                    "Batería de mayor capacidad": "De serie"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "SL 65 AMG",
+            "start_year": "2005",
+            "end_year": "2006",
+            "url": "https://www.km77.com/coches/mercedes/clase-sl/2002/estandar/amg/sl-65-amg/datos",
+            "price": "Precio",
+            "potencia": "612",
+            "consumo": "15,1",
+            "longitud": "4.535",
+            "maletero": "317",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "231.500 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "180.859 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "03/2006"
+                },
+                {
+                    "Velocidad máxima": "250 km/h",
+                    "Aceleración 0-100 km/h": "4,2 s",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "C"
+                },
+                {
+                    "Tipo de Carrocería": "Descapotable",
+                    "Número de puertas": "2",
+                    "Longitud": "4.535 mm",
+                    "Anchura": "1.815 mm",
+                    "Altura": "1.298 mm",
+                    "Batalla": "2.560 mm",
+                    "Vía delantera": "1.569 mm",
+                    "Vía trasera": "1.557 mm",
+                    "Peso": "2.110 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "2",
+                    "Distribución de asientos": "2"
+                },
+                {
+                    "Potencia máxima": "612 CV / 450 kW",
+                    "Par máximo": "1.000 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "612 CV / 450 kW",
+                    "Revoluciones potencia máxima": "4.800 rpm",
+                    "Par máximo": "1.000 Nm",
+                    "Revoluciones par máximo": "2.000 - 4.000 rpm",
+                    "Situación": "Delantero longitudinal",
+                    "Número de cilindros": "12",
+                    "Disposición de los cilindros": "En V",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "82,6 mm",
+                    "Carrera": "93 mm",
+                    "Cilindrada": "5.980 cm³",
+                    "Relación de compresión": "9 a 1",
+                    "Alimentación": "Inyección Indirecta. Turbo. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Trasera",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "5",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "No",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "390 mm",
+                    "Tipo de frenos traseros": "Disco ventilado",
+                    "Diámetro de frenos traseros": "360 mm",
+                    "Neumáticos delanteros": "255/35 R19",
+                    "Neumáticos traseros": "285/30 R19",
+                    "Llantas delanteras": "8.5 x 19",
+                    "Llantas Traseras": "9.5 x 19"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)231.500 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "180.859 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "03/2006"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Airbag laterales delanteros": "De serie",
+                    "Airbag laterales traseros": "No disponible",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Bloqueo automático de puertas y apertura de emergencia": "De serie",
+                    "Columna de dirección regulable eléctricamente": "De serie",
+                    "Control activo de la suspensión (ABC)": "De serie",
+                    "Control de estabilidad (ESP)": "De serie",
+                    "Control de tracción": "De serie",
+                    "Detector de ocupación del asiento acompañante": "De serie",
+                    "Diferencial de deslizamiento limitado": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Faros de xenón": "De serie",
+                    "Frenado Selectivo Sensotronic (SBC)": "De serie",
+                    "Frenos de disco AMG de altas prestaciones": "De serie",
+                    "Indicador de temperatura exterior": "De serie",
+                    "Lavafaros": "De serie",
+                    "Luneta térmica": "De serie",
+                    "Ordenador de viaje": "De serie",
+                    "Pretensores de cinturón para conductor y acompañante": "De serie",
+                    "Pulsadores AMG en volante para selección de marchas": "De serie",
+                    "Retrovisor exterior izdo. antideslumbrante autom.": "De serie",
+                    "Retrovisor interior antideslumbrante autom.": "De serie",
+                    "Retrovisores exteriores calefactados": "De serie",
+                    "Servodirección paramétrica": "De serie",
+                    "Servofreno de emergencia (BAS)": "De serie",
+                    "Suspensión deportiva AMG": "De serie",
+                    "Tempomat con Speedtronic": "De serie",
+                    "Volante con ajuste horizontal": "De serie",
+                    "Volante con ajuste vertical": "De serie",
+                    "Volante multifuncional": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Apertura a distancia del maletero": "De serie",
+                    "Asiento del conductor con ajuste de altura": "De serie",
+                    "Asientos con apoyo lumbar": "De serie",
+                    "Asientos con calefacción": "De serie",
+                    "Asientos de contorno variable": "De serie",
+                    "Asientos deportivos AMG": "De serie",
+                    "Asientos eléctricos con memoria": "De serie",
+                    "Cierre centralizado": "De serie",
+                    "Climatizador": "De serie",
+                    "Columna de dirección con memoria": "De serie",
+                    "Conexión automática de luces de cruce": "De serie",
+                    "Cristales calorífugos": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Elevalunas electricos traseros": "No disponible",
+                    "Enchufe (12V) en maletero": "De serie",
+                    "Filtro antipolen": "De serie",
+                    "Luces de salida en puertas": "De serie",
+                    "Paravientos con bolsa": "De serie",
+                    "Retrovisores exteriores eléctricos": "De serie",
+                    "Sensor de lluvia": "De serie",
+                    "Servocierre en tapa del maletero": "De serie",
+                    "Telemando por infrarrojos": "De serie"
+                },
+                {
+                    "Cuadro de instrumentos AMG": "De serie",
+                    "Kit estético AMG": "De serie",
+                    "Pintura metalizada": "De serie",
+                    "Salidas de escape AMG ovales y cromadas": "De serie",
+                    "Tapicería AMG de piel nappa": "De serie",
+                    "Volante de cuero": "De serie"
+                },
+                {
+                    "Asientos posteriores (segunda fila) abatibles": "No disponible",
+                    "Compartimento portaobjetos refrigerado en apoyabrazos": "De serie",
+                    "Posavasos": "De serie"
+                },
+                {
+                    "COMAND DVD": "De serie",
+                    "Cargador de CD": "De serie",
+                    "Navegador": "Sólo en paquete",
+                    "Preinstalación de teléfono": "De serie",
+                    "Radio con lector de CD": "De serie",
+                    "Teléfono": "Sólo en paquete"
+                },
+                {},
+                {
+                    "Llantas de aleación AMG de 19\" y radios dobles": "De serie",
+                    "TIREFIT y bomba de aire eléctrica": "De serie"
+                },
+                {
+                    "Alarma antirrobo": "De serie",
+                    "Botiquín": "De serie",
+                    "Listones de umbral AMG": "De serie"
+                },
+                {}
+            ]
+        }
+    ]
+}

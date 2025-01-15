@@ -1,0 +1,81 @@
+{
+    "name": "AMG PureSpeed",
+    "year": "2025",
+    "url": "https://www.km77.com/coches/mercedes/amg-purespeed/2025/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "Mercedes-AMG PureSpeed\n( - )",
+            "start_year": "Desconocido",
+            "end_year": "Desconocido",
+            "url": "https://www.km77.com/coches/mercedes/amg-purespeed/2025/estandar/estandar/amg-purespeed/datos",
+            "price": "",
+            "potencia": "585",
+            "consumo": "13,7",
+            "longitud": "4.774",
+            "maletero": "-",
+            "specs": [
+                {
+                    "Velocidad máxima": "315 km/h",
+                    "Aceleración 0-100 km/h": "3,6 s",
+                    "Emisiones de CO₂ WLTP": "312 gr/km",
+                    "Normativa de emisiones": "Euro 6"
+                },
+                {
+                    "Tipo de Carrocería": "Descapotable",
+                    "Número de puertas": "2",
+                    "Longitud": "4.774 mm",
+                    "Anchura": "1.963 mm",
+                    "Altura": "1.301 mm",
+                    "Batalla": "2.700 mm",
+                    "Filtro de partículas": "Sí",
+                    "Número de plazas": "2",
+                    "Distribución de asientos": "2"
+                },
+                {
+                    "Potencia máxima": "585 CV / 430 kW",
+                    "Par máximo": "800 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "585 CV / 430 kW",
+                    "Par máximo": "800 Nm",
+                    "Situación": "Central delantero longitudinal",
+                    "Número de cilindros": "8",
+                    "Disposición de los cilindros": "En V",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "83 mm",
+                    "Carrera": "92 mm",
+                    "Cilindrada": "3.982 cm³",
+                    "Alimentación": "Inyección directa. Turbo. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "Sí"
+                },
+                {
+                    "Tracción": "Total",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "9",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "Embrague multidisco bañado en aceite",
+                    "Tipo de mecanismo": "Epicicloidal"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "No",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "Disco ventilado cerámico",
+                    "Tipo de frenos traseros": "Disco ventilado cerámico",
+                    "Neumáticos delanteros": "275/35 R21",
+                    "Neumáticos traseros": "305/30 R21",
+                    "Llantas delanteras": "9.5 x 21",
+                    "Llantas Traseras": "11 x 21"
+                }
+            ]
+        }
+    ]
+}

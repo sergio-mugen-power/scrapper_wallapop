@@ -1,0 +1,87 @@
+{
+    "name": "Mirai 4 puertas",
+    "year": "2015",
+    "url": "https://www.km77.com/coches/toyota/mirai/2015/4-puertas",
+    "price": "Desde 70.200 €",
+    "versions": [
+        {
+            "name": "Mirai",
+            "start_year": "2015",
+            "end_year": "2021",
+            "url": "https://www.km77.com/coches/toyota/mirai/2015/4-puertas/estandar/mirai-2015/datos",
+            "price": "",
+            "potencia": "154",
+            "consumo": "0,8",
+            "longitud": "4.890",
+            "maletero": "361",
+            "specs": [
+                {
+                    "Velocidad máxima": "178 km/h",
+                    "Aceleración 0-100 km/h": "9,6 s",
+                    "Emisiones de CO₂ NEDC": "No disponible",
+                    "Normativa de emisiones": "No disponible"
+                },
+                {
+                    "Tipo de Carrocería": "Turismo",
+                    "Número de puertas": "4",
+                    "Longitud": "4.890 mm",
+                    "Anchura": "1.815 mm",
+                    "Altura": "1.535 mm",
+                    "Batalla": "2.780 mm",
+                    "Vía delantera": "1.535 mm",
+                    "Vía trasera": "1.545 mm",
+                    "Coeficiente Cx": "0,29",
+                    "Peso": "1.850 kg",
+                    "Número de plazas": "4",
+                    "Distribución de asientos": "2 + 2"
+                },
+                {
+                    "Potencia máxima": "154 CV / 113 kW",
+                    "Par máximo": "335 Nm"
+                },
+                {
+                    "Propósito": "Impulsar al vehículo / generar corriente eléc",
+                    "Potencia máxima": "154 CV / 113 kW",
+                    "Revoluciones potencia máxima": "No disponible",
+                    "Par máximo": "335 Nm",
+                    "Revoluciones par máximo": "No disponible",
+                    "Ubicación": "Delantero transversal",
+                    "Tensión nominal": "650 V"
+                },
+                {
+                    "Tipo": "Acumulador de níquel - hidruro metálico",
+                    "Ubicación": "Trasera",
+                    "Capacidad": "1,59 kWh",
+                    "Capacidad útil": "No disponible"
+                },
+                {},
+                {
+                    "Potencia de recarga máxima en C.C.": "No disponible",
+                    "Potencia de recarga máxima en C.A.": "No disponible"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "1",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "Sin embrague",
+                    "Tipo de mecanismo": "Pares de engranajes"
+                },
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Rueda tirada con elemento torsional",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Tipo de frenos traseros": "Disco",
+                    "Neumáticos delanteros": "215/55 R17 94W",
+                    "Neumáticos traseros": "215/55 R17 94W",
+                    "Llantas delanteras": "7 x 17",
+                    "Llantas Traseras": "7 x 17"
+                }
+            ]
+        }
+    ]
+}

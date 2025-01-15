@@ -1,0 +1,48 @@
+{
+    "name": "KARL",
+    "year": "2015",
+    "url": "https://www.km77.com/coches/opel/karl/2015/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "KARL Selective 1.0 ECOTEC 75 CV",
+            "start_year": "2015",
+            "end_year": "2018",
+            "url": "https://www.km77.com/coches/opel/karl/2015/estandar/selective/karl-2016/datos",
+            "price": "9.637",
+            "potencia": "75",
+            "consumo": "4,5",
+            "longitud": "3.675",
+            "maletero": "206",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "KARL Selective 1.0 ECOTEC 75 CV Easytronic",
+            "start_year": "2016",
+            "end_year": "2018",
+            "url": "https://www.km77.com/coches/opel/karl/2015/estandar/selective/karl-selective-10-ecotec-75-cv-easytronic/datos",
+            "price": "10.153",
+            "potencia": "75",
+            "consumo": "4,5",
+            "longitud": "3.675",
+            "maletero": "206",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        }
+    ]
+}
