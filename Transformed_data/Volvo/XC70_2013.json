@@ -1,0 +1,808 @@
+{
+    "name": "XC70",
+    "year": "2013",
+    "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "XC70 D4 Kinetic",
+            "start_year": "2013",
+            "end_year": "2013",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/kinetic/xc70-d4-kinetic/datos",
+            "price": "41.300",
+            "potencia": "163",
+            "consumo": "5,3",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 Kinetic",
+            "start_year": "2013",
+            "end_year": "2014",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/kinetic/xc70-d4-kinetic2/datos",
+            "price": "42.200",
+            "potencia": "181",
+            "consumo": "4,1",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 Momentum",
+            "start_year": "2013",
+            "end_year": "2015",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/momentum/xc70-d4-momentum2/datos",
+            "price": "42.200",
+            "potencia": "181",
+            "consumo": "4,1",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 Momentum",
+            "start_year": "2015",
+            "end_year": "2016",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/momentum/xc70-d4-momentum3/datos",
+            "price": "42.200",
+            "potencia": "181",
+            "consumo": "4,4",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 Kinetic Aut.",
+            "start_year": "2013",
+            "end_year": "2013",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/kinetic/xc70-d4-kinetic-aut/datos",
+            "price": "43.186",
+            "potencia": "163",
+            "consumo": "5,9",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 Kinetic Aut.",
+            "start_year": "2013",
+            "end_year": "2014",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/kinetic/xc70-d4-kinetic-aut2/datos",
+            "price": "44.715",
+            "potencia": "181",
+            "consumo": "4,9",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 Momentum Aut.",
+            "start_year": "2013",
+            "end_year": "2015",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/momentum/xc70-d4-momentum-aut2/datos",
+            "price": "44.715",
+            "potencia": "181",
+            "consumo": "4,9",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 Momentum Aut.",
+            "start_year": "2015",
+            "end_year": "2016",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/momentum/xc70-d4-momentum-aut3/datos",
+            "price": "44.715",
+            "potencia": "181",
+            "consumo": "4,8",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 AWD Kinetic",
+            "start_year": "2013",
+            "end_year": "2014",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/kinetic/xc70-d4-awd-kinetic/datos",
+            "price": "45.000",
+            "potencia": "163",
+            "consumo": "5,3",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 AWD Momentum",
+            "start_year": "2013",
+            "end_year": "2014",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/momentum/xc70-d4-awd-momentum/datos",
+            "price": "45.000",
+            "potencia": "163",
+            "consumo": "5,3",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 AWD Momentum",
+            "start_year": "2015",
+            "end_year": "2016",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/momentum/xc70-d4-awd-momentum3/datos",
+            "price": "45.000",
+            "potencia": "181",
+            "consumo": "5,2",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 AWD Momentum",
+            "start_year": "2014",
+            "end_year": "2015",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/momentum/xc70-d4-awd-momentum2/datos",
+            "price": "45.000",
+            "potencia": "181",
+            "consumo": "5,3",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 Momentum",
+            "start_year": "2013",
+            "end_year": "2013",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/momentum/xc70-d4-momentum/datos",
+            "price": "45.072",
+            "potencia": "163",
+            "consumo": "5,3",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 Summum",
+            "start_year": "2013",
+            "end_year": "2015",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/summum/xc70-d4-summum2/datos",
+            "price": "45.830",
+            "potencia": "181",
+            "consumo": "4,1",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 Summum",
+            "start_year": "2015",
+            "end_year": "2016",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/summum/xc70-d4-summum3/datos",
+            "price": "45.830",
+            "potencia": "181",
+            "consumo": "4,4",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 Momentum Aut.",
+            "start_year": "2013",
+            "end_year": "2013",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/momentum/xc70-d4-momentum-aut/datos",
+            "price": "46.959",
+            "potencia": "163",
+            "consumo": "5,9",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 AWD Kinetic Aut.",
+            "start_year": "2013",
+            "end_year": "2014",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/kinetic/xc70-d4-awd-kinetic-aut/datos",
+            "price": "47.500",
+            "potencia": "163",
+            "consumo": "6,4",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 AWD Momentum Aut.",
+            "start_year": "2014",
+            "end_year": "2015",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/momentum/xc70-d4-awd-momentum-aut2/datos",
+            "price": "47.500",
+            "potencia": "181",
+            "consumo": "6,4",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 AWD Momentum Aut.",
+            "start_year": "2015",
+            "end_year": "2016",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/momentum/xc70-d4-awd-momentum-aut3/datos",
+            "price": "47.500",
+            "potencia": "181",
+            "consumo": "5,8",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D5 AWD Kinetic",
+            "start_year": "2013",
+            "end_year": "2014",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/kinetic/xc70-d5-awd-kinetic/datos",
+            "price": "47.950",
+            "potencia": "215",
+            "consumo": "5,3",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D5 AWD Momentum",
+            "start_year": "2013",
+            "end_year": "2015",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/momentum/xc70-d5-awd-momentum/datos",
+            "price": "47.950",
+            "potencia": "215",
+            "consumo": "5,3",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 Summum Aut.",
+            "start_year": "2013",
+            "end_year": "2015",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/summum/xc70-d4-summum-aut2/datos",
+            "price": "48.488",
+            "potencia": "181",
+            "consumo": "4,9",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 Summum Aut.",
+            "start_year": "2015",
+            "end_year": "2016",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/summum/xc70-d4-summum-aut3/datos",
+            "price": "48.488",
+            "potencia": "181",
+            "consumo": "4,8",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 Summum",
+            "start_year": "2013",
+            "end_year": "2013",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/summum/xc70-d4-summum/datos",
+            "price": "48.593",
+            "potencia": "163",
+            "consumo": "5,3",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 AWD Summum",
+            "start_year": "2014",
+            "end_year": "2015",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/summum/xc70-d4-awd-summum2/datos",
+            "price": "48.773",
+            "potencia": "181",
+            "consumo": "5,3",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 AWD Summum",
+            "start_year": "2015",
+            "end_year": "2016",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/summum/xc70-d4-awd-summum3/datos",
+            "price": "48.773",
+            "potencia": "181",
+            "consumo": "5,2",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D5 AWD Kinetic Aut.",
+            "start_year": "2013",
+            "end_year": "2014",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/kinetic/xc70-d5-awd-kinetic-aut/datos",
+            "price": "50.450",
+            "potencia": "215",
+            "consumo": "6,4",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D5 AWD Momentum Aut.",
+            "start_year": "2013",
+            "end_year": "2015",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/momentum/xc70-d5-awd-momentum-aut/datos",
+            "price": "50.450",
+            "potencia": "215",
+            "consumo": "6,4",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D5 AWD Momentum Aut.",
+            "start_year": "2015",
+            "end_year": "2016",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/momentum/xc70-d5-awd-momentum-aut2/datos",
+            "price": "50.450",
+            "potencia": "220",
+            "consumo": "5,8",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 Summum Aut.",
+            "start_year": "2013",
+            "end_year": "2013",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/summum/xc70-d4-summum-aut/datos",
+            "price": "50.480",
+            "potencia": "163",
+            "consumo": "5,9",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 AWD Momentum Aut.",
+            "start_year": "2013",
+            "end_year": "2014",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/momentum/xc70-d4-awd-momentum-aut/datos",
+            "price": "51.422",
+            "potencia": "163",
+            "consumo": "6,4",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 AWD Summum Aut.",
+            "start_year": "2014",
+            "end_year": "2015",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/summum/xc70-d4-awd-summum-aut2/datos",
+            "price": "51.422",
+            "potencia": "181",
+            "consumo": "6,4",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 AWD Summum Aut.",
+            "start_year": "2015",
+            "end_year": "2016",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/summum/xc70-d4-awd-summum-aut3/datos",
+            "price": "51.422",
+            "potencia": "181",
+            "consumo": "5,8",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D5 AWD Summum",
+            "start_year": "2013",
+            "end_year": "2015",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/summum/xc70-d5-awd-summum/datos",
+            "price": "51.722",
+            "potencia": "215",
+            "consumo": "5,3",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 AWD Summum",
+            "start_year": "2013",
+            "end_year": "2014",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/summum/xc70-d4-awd-summum/datos",
+            "price": "52.294",
+            "potencia": "163",
+            "consumo": "5,3",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D5 AWD Summum Aut.",
+            "start_year": "2013",
+            "end_year": "2015",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/summum/xc70-d5-awd-summum-aut/datos",
+            "price": "54.222",
+            "potencia": "215",
+            "consumo": "6,4",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D5 AWD Summum Aut.",
+            "start_year": "2015",
+            "end_year": "2016",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/summum/xc70-d5-awd-summum-aut2/datos",
+            "price": "54.222",
+            "potencia": "220",
+            "consumo": "5,8",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 D4 AWD Summum Aut.",
+            "start_year": "2013",
+            "end_year": "2014",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/summum/xc70-d4-awd-summum-aut/datos",
+            "price": "55.084",
+            "potencia": "163",
+            "consumo": "6,4",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 T6 AWD Momentum Aut.",
+            "start_year": "2013",
+            "end_year": "2015",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/momentum/xc70-t6-awd-momentum-aut/datos",
+            "price": "57.878",
+            "potencia": "305",
+            "consumo": "10,6",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "XC70 T6 AWD Summum Aut.",
+            "start_year": "2013",
+            "end_year": "2015",
+            "url": "https://www.km77.com/coches/volvo/xc70/2013/estandar/summum/xc70-t6-awd-summum-aut/datos",
+            "price": "61.950",
+            "potencia": "305",
+            "consumo": "10,6",
+            "longitud": "4.838",
+            "maletero": "575",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        }
+    ]
+}

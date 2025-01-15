@@ -1,0 +1,80 @@
+{
+    "name": "Veneno Roadster",
+    "year": "2014",
+    "url": "https://www.km77.com/coches/lamborghini/veneno/2014/roadster",
+    "price": "",
+    "versions": [
+        {
+            "name": "Veneno Roadster",
+            "start_year": "2014",
+            "end_year": "2015",
+            "url": "https://www.km77.com/coches/lamborghini/veneno/2014/roadster/estandar/veneno-roadster/datos",
+            "price": "",
+            "potencia": "700",
+            "consumo": "-",
+            "longitud": "4.780",
+            "maletero": "-",
+            "specs": [
+                {
+                    "Emisiones de CO₂ NEDC": "250 gr/km",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "C"
+                },
+                {
+                    "Tipo de Carrocería": "Descapotable",
+                    "Número de puertas": "2",
+                    "Longitud": "4.780 mm",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "2",
+                    "Distribución de asientos": "2"
+                },
+                {
+                    "Potencia máxima": "700 CV / 515 kW",
+                    "Par máximo": "690 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "700 CV / 515 kW",
+                    "Revoluciones potencia máxima": "8.250 rpm",
+                    "Par máximo": "690 Nm",
+                    "Revoluciones par máximo": "5.500 rpm",
+                    "Situación": "Central trasero longitudinal",
+                    "Número de cilindros": "12",
+                    "Disposición de los cilindros": "En V",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "95 mm",
+                    "Carrera": "76,4 mm",
+                    "Cilindrada": "6.498 cm³",
+                    "Relación de compresión": "11,8 a 1",
+                    "Alimentación": "Inyección Indirecta.",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Total",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "7",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "No disponible",
+                    "Muelle suspensión delantera": "No disponible",
+                    "Estructura suspensión trasera": "No disponible",
+                    "Muelle suspensión trasera": "No disponible",
+                    "Barra estabilizadora delantera": "No",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "No disponible",
+                    "Tipo de frenos traseros": "No disponible",
+                    "Neumáticos delanteros": "/ R",
+                    "Neumáticos traseros": "/ R",
+                    "Llantas delanteras": "x",
+                    "Llantas Traseras": "x"
+                }
+            ]
+        }
+    ]
+}

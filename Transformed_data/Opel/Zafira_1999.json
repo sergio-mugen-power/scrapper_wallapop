@@ -1,0 +1,608 @@
+{
+    "name": "Zafira",
+    "year": "1999",
+    "url": "https://www.km77.com/coches/opel/zafira/1999/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "Zafira Club 1.6 16V",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/club/zafira-club-16-16v/datos",
+            "price": "15.675",
+            "potencia": "101",
+            "consumo": "7,5",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Comfort 1.6 16v",
+            "start_year": "1999",
+            "end_year": "2000",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/comfort/zafira-comfort-16-16v/datos",
+            "price": "15.921",
+            "potencia": "101",
+            "consumo": "8,3",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Comfort 2.0 DI 16v",
+            "start_year": "1999",
+            "end_year": "2000",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/comfort/zafira-comfort-20-di-16v/datos",
+            "price": "16.894",
+            "potencia": "82",
+            "consumo": "6,6",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Club 2.0 DTi 16V",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/club/zafira-club-20-dti-16v/datos",
+            "price": "17.115",
+            "potencia": "101",
+            "consumo": "6,3",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Comfort 1.6 16V",
+            "start_year": "2000",
+            "end_year": "2003",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/comfort/zafira-comfort-16-16v2/datos",
+            "price": "17.440",
+            "potencia": "101",
+            "consumo": "7,9",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Elegance 1.8 16v",
+            "start_year": "1999",
+            "end_year": "2000",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/elegance/zafira-elegance-18-16v/datos",
+            "price": "18.589",
+            "potencia": "116",
+            "consumo": "8,5",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Elegance 2.0 DI 16v",
+            "start_year": "1999",
+            "end_year": "2000",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/elegance/zafira-elegance-20-di-16v/datos",
+            "price": "18.589",
+            "potencia": "82",
+            "consumo": "6,6",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Increíbles 1.8 16V",
+            "start_year": "2005",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/increibles/zafira-increibles-18-16v/datos",
+            "price": "18.590",
+            "potencia": "125",
+            "consumo": "8,2",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Comfort 2.0 DTi 16V",
+            "start_year": "2000",
+            "end_year": "2003",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/comfort/zafira-comfort-20-dti-16v/datos",
+            "price": "18.850",
+            "potencia": "101",
+            "consumo": "6,5",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Increíbles 2.0 DTi 16V",
+            "start_year": "2005",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/increibles/zafira-increibles-20-dti-16v/datos",
+            "price": "18.900",
+            "potencia": "101",
+            "consumo": "6,3",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Elegance 1.8 16v Aut.",
+            "start_year": "1999",
+            "end_year": "2000",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/elegance/zafira-elegance-18-16v-aut/datos",
+            "price": "19.431",
+            "potencia": "116",
+            "consumo": "8,9",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Increíbles 1.8 16V Aut.",
+            "start_year": "2005",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/increibles/zafira-increibles-18-16v-aut/datos",
+            "price": "20.120",
+            "potencia": "125",
+            "consumo": "8,7",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Elegance 1.8 16V",
+            "start_year": "2000",
+            "end_year": "2003",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/elegance/zafira-elegance-18-16v2/datos",
+            "price": "20.180",
+            "potencia": "125",
+            "consumo": "8,6",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Increíbles 2.2 DTi 16V",
+            "start_year": "2005",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/increibles/zafira-increibles-22-dti-16v/datos",
+            "price": "20.360",
+            "potencia": "125",
+            "consumo": "6,5",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Increíbles 2.0 DTi 16V Aut.",
+            "start_year": "2005",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/increibles/zafira-increibles-20-dti-16v-aut/datos",
+            "price": "20.430",
+            "potencia": "101",
+            "consumo": "7,3",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Elegance 2.0 DTi 16V",
+            "start_year": "2000",
+            "end_year": "2003",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/elegance/zafira-elegance-20-dti-16v/datos",
+            "price": "20.500",
+            "potencia": "101",
+            "consumo": "6,6",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Línea Blu 2.0 DTi 16V",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/linea-blu/zafira-linea-blu-20-dti-16v/datos",
+            "price": "21.560",
+            "potencia": "101",
+            "consumo": "6,3",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Sport 2.2 16V",
+            "start_year": "2000",
+            "end_year": "2003",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/sport/zafira-sport-22-16v/datos",
+            "price": "21.590",
+            "potencia": "147",
+            "consumo": "8,9",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Elegance 1.8 16V Aut.",
+            "start_year": "2000",
+            "end_year": "2003",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/elegance/zafira-elegance-18-16v-aut2/datos",
+            "price": "21.690",
+            "potencia": "125",
+            "consumo": "9,1",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Elegance 2.2 DTi 16V",
+            "start_year": "2002",
+            "end_year": "2003",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/elegance/zafira-elegance-22-dti-16v/datos",
+            "price": "21.965",
+            "potencia": "125",
+            "consumo": "6,9",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Elegance 1.8 16V",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/elegance/zafira-elegance-18-16v3/datos",
+            "price": "22.919",
+            "potencia": "125",
+            "consumo": "8,2",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Línea Blu 2.2 DTi 16V",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/linea-blu/zafira-linea-blu-22-dti-16v/datos",
+            "price": "23.019",
+            "potencia": "125",
+            "consumo": "6,5",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Elegance 2.0 DTi 16V",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/elegance/zafira-elegance-20-dti-16v2/datos",
+            "price": "23.240",
+            "potencia": "101",
+            "consumo": "6,3",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Design Edition 2.2 DTi 16V",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/design-edition/zafira-design-edition-22-dti-16v/datos",
+            "price": "23.496",
+            "potencia": "125",
+            "consumo": "6,5",
+            "longitud": "4.318",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Elegance 2.2 16V",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/elegance/zafira-elegance-22-16v/datos",
+            "price": "23.914",
+            "potencia": "147",
+            "consumo": "8,5",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Elegance 2.0 DTi 16V Aut.",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/elegance/zafira-elegance-20-dti-16v-aut/datos",
+            "price": "24.322",
+            "potencia": "101",
+            "consumo": "7,3",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Elegance 1.8 16V Aut.",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/elegance/zafira-elegance-18-16v-aut3/datos",
+            "price": "24.450",
+            "potencia": "125",
+            "consumo": "8,7",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira Elegance 2.2 DTi 16V",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/elegance/zafira-elegance-22-dti-16v2/datos",
+            "price": "24.729",
+            "potencia": "125",
+            "consumo": "6,5",
+            "longitud": "4.317",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira OPC 2.0 Turbo 16V",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/opc/zafira-opc-20-turbo-16v2/datos",
+            "price": "28.565",
+            "potencia": "200",
+            "consumo": "9,4",
+            "longitud": "4.318",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Zafira OPC 2.0 Turbo 16V",
+            "start_year": "2002",
+            "end_year": "2003",
+            "url": "https://www.km77.com/coches/opel/zafira/1999/estandar/opc/zafira-opc-20-turbo-16v/datos",
+            "price": "28.620",
+            "potencia": "192",
+            "consumo": "10,1",
+            "longitud": "4.318",
+            "maletero": "600",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        }
+    ]
+}

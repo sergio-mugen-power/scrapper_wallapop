@@ -1,0 +1,63 @@
+{
+    "name": "A1 Sportback",
+    "year": "2019",
+    "url": "https://www.km77.com/coches/audi/a1/2019/sportback",
+    "price": "",
+    "versions": [
+        {
+            "name": "A1 Sportback Advanced 30 TFSI (04/2024 - )",
+            "start_year": "2024",
+            "end_year": "",
+            "url": "https://www.km77.com/coches/audi/a1/2019/sportback/estandar/a1-sportback-advanced-30-tfsi2/datos",
+            "price": "28.220",
+            "potencia": "116",
+            "consumo": "5,5",
+            "longitud": "4.029",
+            "maletero": "335"
+        },
+        {
+            "name": "A1 Sportback Advanced 30 TFSI S tronic (04/2024 - )",
+            "start_year": "2024",
+            "end_year": "",
+            "url": "https://www.km77.com/coches/audi/a1/2019/sportback/estandar/a1-sportback-advanced-30-tfsi-s-tronic/datos",
+            "price": "30.170",
+            "potencia": "116",
+            "consumo": "5,6",
+            "longitud": "4.029",
+            "maletero": "335"
+        },
+        {
+            "name": "A1 Sportback Adrenalin 30 TFSI (04/2024 - )",
+            "start_year": "2024",
+            "end_year": "",
+            "url": "https://www.km77.com/coches/audi/a1/2019/sportback/estandar/a1-sportback-adrenalin-30-tfsi2/datos",
+            "price": "31.990",
+            "potencia": "116",
+            "consumo": "5,6",
+            "longitud": "4.029",
+            "maletero": "335"
+        },
+        {
+            "name": "A1 Sportback Adrenalin 30 TFSI S tronic (04/2024 - )",
+            "start_year": "2024",
+            "end_year": "",
+            "url": "https://www.km77.com/coches/audi/a1/2019/sportback/estandar/a1-sportback-adrenalin-30-tfsi-s-tronic/datos",
+            "price": "33.940",
+            "potencia": "116",
+            "consumo": "5,7",
+            "longitud": "4.029",
+            "maletero": "335"
+        },
+        {
+            "name": "A1 Sportback Adrenalin 35 TFSI S tronic (12/2020 - )",
+            "start_year": "2020",
+            "end_year": "",
+            "url": "https://www.km77.com/coches/audi/a1/2019/sportback/estandar/a1-sportback-adrenalin-35-tfsi-110-kw-150-cv-s-tronic-7-vel/datos",
+            "price": "35.730",
+            "potencia": "150",
+            "consumo": "6,1",
+            "longitud": "4.029",
+            "maletero": "335"
+        }
+    ]
+}

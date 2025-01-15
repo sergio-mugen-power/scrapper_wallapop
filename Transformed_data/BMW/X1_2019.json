@@ -1,0 +1,206 @@
+{
+    "name": "X1",
+    "year": "2019",
+    "url": "https://www.km77.com/coches/bmw/x1/2019/estandar",
+    "price": "Desde 44.200 €",
+    "versions": [
+        {
+            "name": "X1 sDrive16d",
+            "start_year": "2019",
+            "end_year": "2022",
+            "url": "https://www.km77.com/coches/bmw/x1/2019/estandar/estandar/x1-sdrive16d/datos",
+            "price": "Precio",
+            "potencia": "116",
+            "consumo": "5,1",
+            "longitud": "4.447",
+            "maletero": "505"
+        },
+        {
+            "name": "X1 sDrive18d",
+            "start_year": "2019",
+            "end_year": "2022",
+            "url": "https://www.km77.com/coches/bmw/x1/2019/estandar/estandar/x1-sdrive18d/datos",
+            "price": "Precio",
+            "potencia": "150",
+            "consumo": "4,9",
+            "longitud": "4.447",
+            "maletero": "505"
+        },
+        {
+            "name": "X1 sDrive18i",
+            "start_year": "2020",
+            "end_year": "2022",
+            "url": "https://www.km77.com/coches/bmw/x1/2019/estandar/estandar/x1-sdrive18i2/datos",
+            "price": "Precio",
+            "potencia": "136",
+            "consumo": "6,1",
+            "longitud": "4.447",
+            "maletero": "505"
+        },
+        {
+            "name": "X1 sDrive16d Aut.",
+            "start_year": "2019",
+            "end_year": "2022",
+            "url": "https://www.km77.com/coches/bmw/x1/2019/estandar/estandar/x1-sdrive16d-aut/datos",
+            "price": "Precio",
+            "potencia": "116",
+            "consumo": "5,1",
+            "longitud": "4.447",
+            "maletero": "505"
+        },
+        {
+            "name": "X1 sDrive18i",
+            "start_year": "2019",
+            "end_year": "2020",
+            "url": "https://www.km77.com/coches/bmw/x1/2019/estandar/estandar/x1-sdrive18i/datos",
+            "price": "Precio",
+            "potencia": "140",
+            "consumo": "6,5",
+            "longitud": "4.447",
+            "maletero": "505"
+        },
+        {
+            "name": "X1 sDrive18d Aut.",
+            "start_year": "2019",
+            "end_year": "2022",
+            "url": "https://www.km77.com/coches/bmw/x1/2019/estandar/estandar/x1-sdrive18d-aut/datos",
+            "price": "Precio",
+            "potencia": "150",
+            "consumo": "5,2",
+            "longitud": "4.447",
+            "maletero": "505"
+        },
+        {
+            "name": "X1 sDrive18i Aut.",
+            "start_year": "2019",
+            "end_year": "2020",
+            "url": "https://www.km77.com/coches/bmw/x1/2019/estandar/estandar/x1-sdrive18i-aut/datos",
+            "price": "Precio",
+            "potencia": "140",
+            "consumo": "6,7",
+            "longitud": "4.447",
+            "maletero": "505"
+        },
+        {
+            "name": "X1 xDrive18d",
+            "start_year": "2019",
+            "end_year": "2021",
+            "url": "https://www.km77.com/coches/bmw/x1/2019/estandar/estandar/x1-xdrive18d/datos",
+            "price": "Precio",
+            "potencia": "150",
+            "consumo": "5,6",
+            "longitud": "4.447",
+            "maletero": "505"
+        },
+        {
+            "name": "X1 sDrive18i Aut.",
+            "start_year": "2020",
+            "end_year": "2022",
+            "url": "https://www.km77.com/coches/bmw/x1/2019/estandar/estandar/x1-sdrive18i-aut2/datos",
+            "price": "Precio",
+            "potencia": "136",
+            "consumo": "6,3",
+            "longitud": "4.447",
+            "maletero": "505"
+        },
+        {
+            "name": "X1 xDrive18d Aut.",
+            "start_year": "2019",
+            "end_year": "2022",
+            "url": "https://www.km77.com/coches/bmw/x1/2019/estandar/estandar/x1-xdrive18d-aut/datos",
+            "price": "Precio",
+            "potencia": "150",
+            "consumo": "5,4",
+            "longitud": "4.447",
+            "maletero": "505"
+        },
+        {
+            "name": "X1 sDrive20d Aut.",
+            "start_year": "2019",
+            "end_year": "2022",
+            "url": "https://www.km77.com/coches/bmw/x1/2019/estandar/estandar/x1-sdrive20d-aut/datos",
+            "price": "Precio",
+            "potencia": "190",
+            "consumo": "5,2",
+            "longitud": "4.447",
+            "maletero": "505"
+        },
+        {
+            "name": "X1 sDrive20i Aut.",
+            "start_year": "2019",
+            "end_year": "2020",
+            "url": "https://www.km77.com/coches/bmw/x1/2019/estandar/estandar/x1-sdrive20i-aut/datos",
+            "price": "Precio",
+            "potencia": "192",
+            "consumo": "6,8",
+            "longitud": "4.447",
+            "maletero": "505"
+        },
+        {
+            "name": "X1 sDrive20i Aut.",
+            "start_year": "2020",
+            "end_year": "2022",
+            "url": "https://www.km77.com/coches/bmw/x1/2019/estandar/estandar/x1-sdrive20i-aut2/datos",
+            "price": "Precio",
+            "potencia": "178",
+            "consumo": "6,5",
+            "longitud": "4.447",
+            "maletero": "505"
+        },
+        {
+            "name": "X1 xDrive20d Aut.",
+            "start_year": "2019",
+            "end_year": "2022",
+            "url": "https://www.km77.com/coches/bmw/x1/2019/estandar/estandar/x1-xdrive20d-aut/datos",
+            "price": "Precio",
+            "potencia": "190",
+            "consumo": "5,4",
+            "longitud": "4.447",
+            "maletero": "505"
+        },
+        {
+            "name": "X1 xDrive20i Aut.",
+            "start_year": "2019",
+            "end_year": "2020",
+            "url": "https://www.km77.com/coches/bmw/x1/2019/estandar/estandar/x1-xdrive20i-aut/datos",
+            "price": "Precio",
+            "potencia": "192",
+            "consumo": "7,3",
+            "longitud": "4.447",
+            "maletero": "505"
+        },
+        {
+            "name": "X1 xDrive20i Aut.",
+            "start_year": "2020",
+            "end_year": "2022",
+            "url": "https://www.km77.com/coches/bmw/x1/2019/estandar/estandar/x1-xdrive20i-aut2/datos",
+            "price": "Precio",
+            "potencia": "178",
+            "consumo": "6,9",
+            "longitud": "4.447",
+            "maletero": "505"
+        },
+        {
+            "name": "X1 xDrive25d Aut.",
+            "start_year": "2019",
+            "end_year": "2022",
+            "url": "https://www.km77.com/coches/bmw/x1/2019/estandar/estandar/x1-xdrive25d-aut/datos",
+            "price": "Precio",
+            "potencia": "231",
+            "consumo": "5,7",
+            "longitud": "4.447",
+            "maletero": "505"
+        },
+        {
+            "name": "X1 xDrive25e",
+            "start_year": "2020",
+            "end_year": "2022",
+            "url": "https://www.km77.com/coches/bmw/x1/2019/estandar/e/x1-xdrive25e/datos",
+            "price": "Precio",
+            "potencia": "220",
+            "consumo": "1,7",
+            "longitud": "4.447",
+            "maletero": "450"
+        }
+    ]
+}

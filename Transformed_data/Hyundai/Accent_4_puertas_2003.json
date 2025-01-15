@@ -1,0 +1,30 @@
+{
+    "name": "Accent 4 puertas",
+    "year": "2003",
+    "url": "https://www.km77.com/coches/hyundai/accent/2003/4-puertas",
+    "price": "",
+    "versions": [
+        {
+            "name": "Accent 4p 1.3i GL",
+            "start_year": "2003",
+            "end_year": "2006",
+            "url": "https://www.km77.com/coches/hyundai/accent/2003/4-puertas/gl/accent-4p-13i-gl/datos",
+            "price": "Precio",
+            "potencia": "84",
+            "consumo": "6,2",
+            "longitud": "4.260",
+            "maletero": "375"
+        },
+        {
+            "name": "Accent 4p 1.5 CRDi GL",
+            "start_year": "2003",
+            "end_year": "2006",
+            "url": "https://www.km77.com/coches/hyundai/accent/2003/4-puertas/gl/accent-4p-15-crdi-gl/datos",
+            "price": "Precio",
+            "potencia": "82",
+            "consumo": "5,5",
+            "longitud": "4.260",
+            "maletero": "375"
+        }
+    ]
+}

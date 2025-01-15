@@ -1,0 +1,83 @@
+{
+    "name": "DBS Volante",
+    "year": "2019",
+    "url": "https://www.km77.com/coches/aston-martin/dbs/2019/volante",
+    "price": "",
+    "versions": [
+        {
+            "name": "DBS 770 Ultimate Volante ( - )",
+            "start_year": "Desconocido",
+            "end_year": "Desconocido",
+            "url": "https://www.km77.com/coches/aston-martin/dbs/2019/volante/ultimate/dbs-770-ultimate-volante/datos",
+            "price": "",
+            "potencia": "770",
+            "consumo": "-",
+            "longitud": "4.715",
+            "maletero": "270",
+            "specs": [
+                {
+                    "Velocidad máxima": "340 km/h",
+                    "Aceleración 0-100 km/h": "3,6 s",
+                    "Normativa de emisiones": "Euro 6"
+                },
+                {
+                    "Tipo de Carrocería": "Descapotable",
+                    "Número de puertas": "2",
+                    "Longitud": "4.715 mm",
+                    "Anchura": "1.970 mm",
+                    "Altura": "1.285 mm",
+                    "Batalla": "2.805 mm",
+                    "Peso": "1.945 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "4",
+                    "Distribución de asientos": "2 + 2"
+                },
+                {
+                    "Potencia máxima": "770 CV / 566 kW",
+                    "Par máximo": "900 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "770 CV / 566 kW",
+                    "Revoluciones potencia máxima": "6.400 rpm",
+                    "Par máximo": "900 Nm",
+                    "Revoluciones par máximo": "1.800 - 5.000 rpm",
+                    "Situación": "Central delantero longitudinal",
+                    "Número de cilindros": "12",
+                    "Disposición de los cilindros": "En V",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Cilindrada": "5.204 cm³",
+                    "Relación de compresión": "9,2 a 1",
+                    "Alimentación": "Inyección Indirecta. Turbo. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Trasera",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "8",
+                    "Tipo de Embrague": "Convertidor de par",
+                    "Tipo de mecanismo": "Epicicloidal"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado cerámico",
+                    "Diámetro de frenos delanteros": "410 mm",
+                    "Tipo de frenos traseros": "Disco ventilado cerámico",
+                    "Diámetro de frenos traseros": "360 mm",
+                    "Neumáticos delanteros": "265/35 R21",
+                    "Neumáticos traseros": "305/30 R21",
+                    "Llantas delanteras": "x 21",
+                    "Llantas Traseras": "x 21"
+                }
+            ]
+        }
+    ]
+}

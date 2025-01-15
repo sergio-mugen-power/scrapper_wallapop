@@ -1,0 +1,30 @@
+{
+    "name": "G01",
+    "year": "2021",
+    "url": "https://www.km77.com/coches/swm/g01/2021/estandar",
+    "price": "Desde 27.115 €",
+    "versions": [
+        {
+            "name": "G01 F Luxury (11/2021 - )",
+            "start_year": "2021",
+            "end_year": "",
+            "url": "https://www.km77.com/coches/swm/g01/2021/estandar/estandar/g01-f/datos",
+            "price": "27.115",
+            "potencia": "131",
+            "consumo": "8",
+            "longitud": "4.670",
+            "maletero": "570"
+        },
+        {
+            "name": "G01 F AT Premium (11/2021 - )",
+            "start_year": "2021",
+            "end_year": "",
+            "url": "https://www.km77.com/coches/swm/g01/2021/estandar/estandar/g01-f-at-premium/datos",
+            "price": "30.185",
+            "potencia": "131",
+            "consumo": "9,3",
+            "longitud": "4.670",
+            "maletero": "570"
+        }
+    ]
+}

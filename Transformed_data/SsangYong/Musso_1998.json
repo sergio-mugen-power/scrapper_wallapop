@@ -1,0 +1,877 @@
+{
+    "name": "Musso",
+    "year": "1998",
+    "url": "https://www.km77.com/coches/ssangyong/musso/1998/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "Musso 2.3 TDI",
+            "start_year": "1993",
+            "end_year": "2002",
+            "url": "https://www.km77.com/coches/ssangyong/musso/1998/estandar/estandar/musso-23-tdi/datos",
+            "price": "21.035",
+            "potencia": "101",
+            "consumo": "9",
+            "longitud": "4.640",
+            "maletero": "630",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "21.035 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "16.434 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "10/2001"
+                },
+                {
+                    "Velocidad máxima": "143 km/h",
+                    "Normativa de emisiones": "No disponible"
+                },
+                {
+                    "Tipo de Carrocería": "Todoterreno",
+                    "Número de puertas": "5",
+                    "Longitud": "4.640 mm",
+                    "Anchura": "1.860 mm",
+                    "Altura": "1.730 mm",
+                    "Batalla": "2.630 mm",
+                    "Vía delantera": "1.510 mm",
+                    "Vía trasera": "1.520 mm",
+                    "Peso": "1.935 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Potencia máxima": "101 CV / 74 kW",
+                    "Par máximo": "211 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasóleo",
+                    "Potencia máxima": "101 CV / 74 kW",
+                    "Revoluciones potencia máxima": "4.000 rpm",
+                    "Par máximo": "211 Nm",
+                    "Revoluciones par máximo": "2.400 rpm",
+                    "Situación": "Delantero longitudinal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "89 mm",
+                    "Carrera": "92,4 mm",
+                    "Cilindrada": "2.299 cm³",
+                    "Relación de compresión": "22 a 1",
+                    "Alimentación": "Inyección Indirecta. Turbo. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Total",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "5",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Barra de torsión",
+                    "Estructura suspensión trasera": "Eje rígido",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Tipo de frenos traseros": "Disco",
+                    "Neumáticos delanteros": "235/75 R15",
+                    "Neumáticos traseros": "235/75 R15",
+                    "Llantas delanteras": "7 x 15",
+                    "Llantas Traseras": "7 x 15"
+                }
+            ]
+        },
+        {
+            "name": "Musso 2.3 TDI Lux",
+            "start_year": "1993",
+            "end_year": "2002",
+            "url": "https://www.km77.com/coches/ssangyong/musso/1998/estandar/lux/musso-23-tdi-lux/datos",
+            "price": "22.394",
+            "potencia": "101",
+            "consumo": "9",
+            "longitud": "4.640",
+            "maletero": "630",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "22.394 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "17.495 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "10/2001"
+                },
+                {
+                    "Velocidad máxima": "143 km/h",
+                    "Normativa de emisiones": "No disponible"
+                },
+                {
+                    "Tipo de Carrocería": "Todoterreno",
+                    "Número de puertas": "5",
+                    "Longitud": "4.640 mm",
+                    "Anchura": "1.860 mm",
+                    "Altura": "1.730 mm",
+                    "Batalla": "2.630 mm",
+                    "Vía delantera": "1.510 mm",
+                    "Vía trasera": "1.520 mm",
+                    "Peso": "1.935 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Potencia máxima": "101 CV / 74 kW",
+                    "Par máximo": "211 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasóleo",
+                    "Potencia máxima": "101 CV / 74 kW",
+                    "Revoluciones potencia máxima": "4.000 rpm",
+                    "Par máximo": "211 Nm",
+                    "Revoluciones par máximo": "2.400 rpm",
+                    "Situación": "Delantero longitudinal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "89 mm",
+                    "Carrera": "92,4 mm",
+                    "Cilindrada": "2.299 cm³",
+                    "Relación de compresión": "22 a 1",
+                    "Alimentación": "Inyección Indirecta. Turbo. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Total",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "5",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Barra de torsión",
+                    "Estructura suspensión trasera": "Eje rígido",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Tipo de frenos traseros": "Disco",
+                    "Neumáticos delanteros": "235/75 R15",
+                    "Neumáticos traseros": "235/75 R15",
+                    "Llantas delanteras": "7 x 15",
+                    "Llantas Traseras": "7 x 15"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "Musso 2.3 TDI Millenium SX",
+            "start_year": "1993",
+            "end_year": "2002",
+            "url": "https://www.km77.com/coches/ssangyong/musso/1998/estandar/millenium-sx/musso-23-tdi-millenium-sx/datos",
+            "price": "23.055",
+            "potencia": "101",
+            "consumo": "9",
+            "longitud": "4.640",
+            "maletero": "630",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "23.055 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "18.012 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "10/2001"
+                },
+                {
+                    "Velocidad máxima": "143 km/h",
+                    "Normativa de emisiones": "No disponible"
+                },
+                {
+                    "Tipo de Carrocería": "Todoterreno",
+                    "Número de puertas": "5",
+                    "Longitud": "4.640 mm",
+                    "Anchura": "1.860 mm",
+                    "Altura": "1.730 mm",
+                    "Batalla": "2.630 mm",
+                    "Vía delantera": "1.510 mm",
+                    "Vía trasera": "1.520 mm",
+                    "Coeficiente Cx": "0,42",
+                    "Peso": "1.935 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Potencia máxima": "101 CV / 74 kW",
+                    "Par máximo": "211 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasóleo",
+                    "Potencia máxima": "101 CV / 74 kW",
+                    "Revoluciones potencia máxima": "4.000 rpm",
+                    "Par máximo": "211 Nm",
+                    "Revoluciones par máximo": "2.400 rpm",
+                    "Situación": "Delantero longitudinal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "89 mm",
+                    "Carrera": "92,4 mm",
+                    "Cilindrada": "2.299 cm³",
+                    "Relación de compresión": "22 a 1",
+                    "Alimentación": "Inyección Indirecta. Turbo. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Total",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "5",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Barra de torsión",
+                    "Estructura suspensión trasera": "Eje rígido",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Tipo de frenos traseros": "Disco",
+                    "Neumáticos delanteros": "235/75 R15",
+                    "Neumáticos traseros": "235/75 R15",
+                    "Llantas delanteras": "7 x 15",
+                    "Llantas Traseras": "7 x 15"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "Musso 2.3 TDI Grand Lux",
+            "start_year": "1993",
+            "end_year": "2002",
+            "url": "https://www.km77.com/coches/ssangyong/musso/1998/estandar/grand-lux/musso-23-tdi-grand-lux/datos",
+            "price": "24.040",
+            "potencia": "101",
+            "consumo": "9",
+            "longitud": "4.640",
+            "maletero": "630",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "24.040 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "18.782 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "10/2001"
+                },
+                {
+                    "Velocidad máxima": "143 km/h",
+                    "Normativa de emisiones": "No disponible"
+                },
+                {
+                    "Tipo de Carrocería": "Todoterreno",
+                    "Número de puertas": "5",
+                    "Longitud": "4.640 mm",
+                    "Anchura": "1.860 mm",
+                    "Altura": "1.730 mm",
+                    "Batalla": "2.630 mm",
+                    "Vía delantera": "1.510 mm",
+                    "Vía trasera": "1.520 mm",
+                    "Peso": "1.935 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Potencia máxima": "101 CV / 74 kW",
+                    "Par máximo": "211 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasóleo",
+                    "Potencia máxima": "101 CV / 74 kW",
+                    "Revoluciones potencia máxima": "4.000 rpm",
+                    "Par máximo": "211 Nm",
+                    "Revoluciones par máximo": "2.400 rpm",
+                    "Situación": "Delantero longitudinal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "89 mm",
+                    "Carrera": "92,4 mm",
+                    "Cilindrada": "2.299 cm³",
+                    "Relación de compresión": "22 a 1",
+                    "Alimentación": "Inyección Indirecta. Turbo. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Total",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "5",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Barra de torsión",
+                    "Estructura suspensión trasera": "Eje rígido",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Tipo de frenos traseros": "Disco",
+                    "Neumáticos delanteros": "235/75 R15",
+                    "Neumáticos traseros": "235/75 R15",
+                    "Llantas delanteras": "7 x 15",
+                    "Llantas Traseras": "7 x 15"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "Musso 2.9 TDI Lux",
+            "start_year": "1993",
+            "end_year": "2002",
+            "url": "https://www.km77.com/coches/ssangyong/musso/1998/estandar/lux/musso-29-tdi-lux/datos",
+            "price": "24.497",
+            "potencia": "120",
+            "consumo": "9,2",
+            "longitud": "4.640",
+            "maletero": "630",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "24.497 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "19.138 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "10/2001"
+                },
+                {
+                    "Velocidad máxima": "156 km/h",
+                    "Aceleración 0-100 km/h": "16 s",
+                    "Normativa de emisiones": "No disponible"
+                },
+                {
+                    "Tipo de Carrocería": "Todoterreno",
+                    "Número de puertas": "5",
+                    "Longitud": "4.640 mm",
+                    "Anchura": "1.860 mm",
+                    "Altura": "1.730 mm",
+                    "Batalla": "2.630 mm",
+                    "Vía delantera": "1.510 mm",
+                    "Vía trasera": "1.520 mm",
+                    "Peso": "1.965 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Potencia máxima": "120 CV / 88 kW",
+                    "Par máximo": "250 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasóleo",
+                    "Potencia máxima": "120 CV / 88 kW",
+                    "Revoluciones potencia máxima": "4.000 rpm",
+                    "Par máximo": "250 Nm",
+                    "Revoluciones par máximo": "2.400 rpm",
+                    "Situación": "Delantero longitudinal",
+                    "Número de cilindros": "5",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "89 mm",
+                    "Carrera": "92,4 mm",
+                    "Cilindrada": "2.874 cm³",
+                    "Relación de compresión": "22 a 1",
+                    "Alimentación": "Inyección Indirecta. Turbo. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Total",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "5",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Barra de torsión",
+                    "Estructura suspensión trasera": "Eje rígido",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Tipo de frenos traseros": "Disco",
+                    "Neumáticos delanteros": "235/75 R15",
+                    "Neumáticos traseros": "235/75 R15",
+                    "Llantas delanteras": "7 x 15",
+                    "Llantas Traseras": "7 x 15"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "Musso 2.3 TDI SVX",
+            "start_year": "2002",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/ssangyong/musso/1998/estandar/svx/musso-23-tdi-svx/datos",
+            "price": "24.762",
+            "potencia": "101",
+            "consumo": "9",
+            "longitud": "4.640",
+            "maletero": "630",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "24.762 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "19.345 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "01/2003"
+                },
+                {
+                    "Velocidad máxima": "143 km/h",
+                    "Normativa de emisiones": "No disponible"
+                },
+                {
+                    "Tipo de Carrocería": "Todoterreno",
+                    "Número de puertas": "5",
+                    "Longitud": "4.640 mm",
+                    "Anchura": "1.860 mm",
+                    "Altura": "1.730 mm",
+                    "Batalla": "2.630 mm",
+                    "Vía delantera": "1.510 mm",
+                    "Vía trasera": "1.520 mm",
+                    "Coeficiente Cx": "0,42",
+                    "Peso": "1.935 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Potencia máxima": "101 CV / 74 kW",
+                    "Par máximo": "211 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasóleo",
+                    "Potencia máxima": "101 CV / 74 kW",
+                    "Revoluciones potencia máxima": "4.000 rpm",
+                    "Par máximo": "211 Nm",
+                    "Revoluciones par máximo": "2.400 rpm",
+                    "Situación": "Delantero longitudinal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "89 mm",
+                    "Carrera": "92,4 mm",
+                    "Cilindrada": "2.299 cm³",
+                    "Relación de compresión": "22 a 1",
+                    "Alimentación": "Inyección Indirecta. Turbo. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Total",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "5",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Barra de torsión",
+                    "Estructura suspensión trasera": "Eje rígido",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Tipo de frenos traseros": "Disco",
+                    "Neumáticos delanteros": "235/75 R15",
+                    "Neumáticos traseros": "235/75 R15",
+                    "Llantas delanteras": "7 x 15",
+                    "Llantas Traseras": "7 x 15"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "Musso 2.9 TDI SX",
+            "start_year": "2002",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/ssangyong/musso/1998/estandar/sx/musso-29-tdi-sx/datos",
+            "price": "25.218",
+            "potencia": "120",
+            "consumo": "9,2",
+            "longitud": "4.640",
+            "maletero": "630",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "25.218 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "19.702 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "01/2003"
+                },
+                {
+                    "Velocidad máxima": "156 km/h",
+                    "Aceleración 0-100 km/h": "16 s",
+                    "Normativa de emisiones": "No disponible"
+                },
+                {
+                    "Tipo de Carrocería": "Todoterreno",
+                    "Número de puertas": "5",
+                    "Longitud": "4.640 mm",
+                    "Anchura": "1.860 mm",
+                    "Altura": "1.730 mm",
+                    "Batalla": "2.630 mm",
+                    "Vía delantera": "1.510 mm",
+                    "Vía trasera": "1.520 mm",
+                    "Coeficiente Cx": "0,42",
+                    "Peso": "1.965 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Potencia máxima": "120 CV / 88 kW",
+                    "Par máximo": "250 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasóleo",
+                    "Potencia máxima": "120 CV / 88 kW",
+                    "Revoluciones potencia máxima": "4.000 rpm",
+                    "Par máximo": "250 Nm",
+                    "Revoluciones par máximo": "2.400 rpm",
+                    "Situación": "Delantero longitudinal",
+                    "Número de cilindros": "5",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "89 mm",
+                    "Carrera": "92,4 mm",
+                    "Cilindrada": "2.874 cm³",
+                    "Relación de compresión": "22 a 1",
+                    "Alimentación": "Inyección Indirecta. Turbo. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Total",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "5",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Barra de torsión",
+                    "Estructura suspensión trasera": "Eje rígido",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Tipo de frenos traseros": "Disco",
+                    "Neumáticos delanteros": "235/75 R15",
+                    "Neumáticos traseros": "235/75 R15",
+                    "Llantas delanteras": "7 x 15",
+                    "Llantas Traseras": "7 x 15"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "Musso 2.9 TDI Grand Lux",
+            "start_year": "1993",
+            "end_year": "2002",
+            "url": "https://www.km77.com/coches/ssangyong/musso/1998/estandar/grand-lux/musso-29-tdi-grand-lux/datos",
+            "price": "26.210",
+            "potencia": "120",
+            "consumo": "9,2",
+            "longitud": "4.640",
+            "maletero": "630",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "26.210 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "20.477 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "10/2001"
+                },
+                {
+                    "Velocidad máxima": "156 km/h",
+                    "Aceleración 0-100 km/h": "16 s",
+                    "Normativa de emisiones": "No disponible"
+                },
+                {
+                    "Tipo de Carrocería": "Todoterreno",
+                    "Número de puertas": "5",
+                    "Longitud": "4.640 mm",
+                    "Anchura": "1.860 mm",
+                    "Altura": "1.730 mm",
+                    "Batalla": "2.630 mm",
+                    "Vía delantera": "1.510 mm",
+                    "Vía trasera": "1.520 mm",
+                    "Peso": "1.965 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Potencia máxima": "120 CV / 88 kW",
+                    "Par máximo": "250 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasóleo",
+                    "Potencia máxima": "120 CV / 88 kW",
+                    "Revoluciones potencia máxima": "4.000 rpm",
+                    "Par máximo": "250 Nm",
+                    "Revoluciones par máximo": "2.400 rpm",
+                    "Situación": "Delantero longitudinal",
+                    "Número de cilindros": "5",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "89 mm",
+                    "Carrera": "92,4 mm",
+                    "Cilindrada": "2.874 cm³",
+                    "Relación de compresión": "22 a 1",
+                    "Alimentación": "Inyección Indirecta. Turbo. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Total",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "5",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Barra de torsión",
+                    "Estructura suspensión trasera": "Eje rígido",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Tipo de frenos traseros": "Disco",
+                    "Neumáticos delanteros": "235/75 R15",
+                    "Neumáticos traseros": "235/75 R15",
+                    "Llantas delanteras": "7 x 15",
+                    "Llantas Traseras": "7 x 15"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "Musso 2.9 TDI SVX",
+            "start_year": "2002",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/ssangyong/musso/1998/estandar/svx/musso-29-tdi-svx/datos",
+            "price": "26.985",
+            "potencia": "120",
+            "consumo": "9,2",
+            "longitud": "4.640",
+            "maletero": "630",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "26.985 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "21.082 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "01/2003"
+                },
+                {
+                    "Velocidad máxima": "156 km/h",
+                    "Aceleración 0-100 km/h": "16 s",
+                    "Normativa de emisiones": "No disponible"
+                },
+                {
+                    "Tipo de Carrocería": "Todoterreno",
+                    "Número de puertas": "5",
+                    "Longitud": "4.640 mm",
+                    "Anchura": "1.860 mm",
+                    "Altura": "1.730 mm",
+                    "Batalla": "2.630 mm",
+                    "Vía delantera": "1.510 mm",
+                    "Vía trasera": "1.520 mm",
+                    "Coeficiente Cx": "0,42",
+                    "Peso": "1.965 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Potencia máxima": "120 CV / 88 kW",
+                    "Par máximo": "250 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasóleo",
+                    "Potencia máxima": "120 CV / 88 kW",
+                    "Revoluciones potencia máxima": "4.000 rpm",
+                    "Par máximo": "250 Nm",
+                    "Revoluciones par máximo": "2.400 rpm",
+                    "Situación": "Delantero longitudinal",
+                    "Número de cilindros": "5",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "89 mm",
+                    "Carrera": "92,4 mm",
+                    "Cilindrada": "2.874 cm³",
+                    "Relación de compresión": "22 a 1",
+                    "Alimentación": "Inyección Indirecta. Turbo. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Total",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "5",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Barra de torsión",
+                    "Estructura suspensión trasera": "Eje rígido",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Tipo de frenos traseros": "Disco",
+                    "Neumáticos delanteros": "235/75 R15",
+                    "Neumáticos traseros": "235/75 R15",
+                    "Llantas delanteras": "7 x 15",
+                    "Llantas Traseras": "7 x 15"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "Musso 2.9 TDI SVX Aut.",
+            "start_year": "2002",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/ssangyong/musso/1998/estandar/svx/musso-29-tdi-svx-aut/datos",
+            "price": "29.438",
+            "potencia": "120",
+            "consumo": "11",
+            "longitud": "4.640",
+            "maletero": "630",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "29.438 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "22.998 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "01/2003"
+                },
+                {
+                    "Velocidad máxima": "156 km/h",
+                    "Aceleración 0-100 km/h": "16 s",
+                    "Normativa de emisiones": "No disponible"
+                },
+                {
+                    "Tipo de Carrocería": "Todoterreno",
+                    "Número de puertas": "5",
+                    "Longitud": "4.640 mm",
+                    "Anchura": "1.860 mm",
+                    "Altura": "1.730 mm",
+                    "Batalla": "2.630 mm",
+                    "Vía delantera": "1.510 mm",
+                    "Vía trasera": "1.520 mm",
+                    "Coeficiente Cx": "0,42",
+                    "Peso": "1.980 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Potencia máxima": "120 CV / 88 kW",
+                    "Par máximo": "250 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasóleo",
+                    "Potencia máxima": "120 CV / 88 kW",
+                    "Revoluciones potencia máxima": "4.000 rpm",
+                    "Par máximo": "250 Nm",
+                    "Revoluciones par máximo": "2.400 rpm",
+                    "Situación": "Delantero longitudinal",
+                    "Número de cilindros": "5",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "89 mm",
+                    "Carrera": "92,4 mm",
+                    "Cilindrada": "2.874 cm³",
+                    "Relación de compresión": "22 a 1",
+                    "Alimentación": "Inyección Indirecta. Turbo. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Total",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "4",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Barra de torsión",
+                    "Estructura suspensión trasera": "Eje rígido",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Tipo de frenos traseros": "Disco",
+                    "Neumáticos delanteros": "235/75 R15",
+                    "Neumáticos traseros": "235/75 R15",
+                    "Llantas delanteras": "7 x 15",
+                    "Llantas Traseras": "7 x 15"
+                },
+                {}
+            ]
+        }
+    ]
+}

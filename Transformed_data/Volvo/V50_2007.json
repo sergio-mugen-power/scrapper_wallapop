@@ -1,0 +1,2728 @@
+{
+    "name": "V50",
+    "year": "2007",
+    "url": "https://www.km77.com/coches/volvo/v50/2007/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "V50 1.6 Kinetic",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-16-kinetic/datos",
+            "price": "23.290",
+            "potencia": "101",
+            "consumo": "7,2",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Kinetic 1.6",
+            "start_year": "2008",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-kinetic-16/datos",
+            "price": "23.490",
+            "potencia": "101",
+            "consumo": "7,1",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Kinetic 1.6",
+            "start_year": "2010",
+            "end_year": "2011",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-kinetic-162/datos",
+            "price": "23.790",
+            "potencia": "101",
+            "consumo": "7,1",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 1.8 Kinetic",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-18-kinetic/datos",
+            "price": "25.300",
+            "potencia": "125",
+            "consumo": "7,3",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Momentum 1.6",
+            "start_year": "2008",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-momentum-16/datos",
+            "price": "25.448",
+            "potencia": "101",
+            "consumo": "7,1",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 1.6 Momentum",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-16-momentum/datos",
+            "price": "25.585",
+            "potencia": "101",
+            "consumo": "7,2",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Kinetic 1.8F",
+            "start_year": "2008",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-kinetic-18f/datos",
+            "price": "25.590",
+            "potencia": "125",
+            "consumo": "7,4",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Momentum 1.6",
+            "start_year": "2010",
+            "end_year": "2011",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-momentum-162/datos",
+            "price": "25.758",
+            "potencia": "101",
+            "consumo": "7,1",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 1.6D DRIVe Kinetic",
+            "start_year": "2009",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-16d-drive-kinetic/datos",
+            "price": "25.815",
+            "potencia": "109",
+            "consumo": "4,5",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 1.8 Flexifuel Kinetic",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-18-flexifuel-kinetic/datos",
+            "price": "25.850",
+            "potencia": "125",
+            "consumo": "7,4",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 1.6 D Kinetic",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-16-d-kinetic/datos",
+            "price": "26.040",
+            "potencia": "109",
+            "consumo": "5",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Kinetic 2.0",
+            "start_year": "2008",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-kinetic-20/datos",
+            "price": "26.375",
+            "potencia": "145",
+            "consumo": "7,4",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 1.6D Kinetic",
+            "start_year": "2008",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-16d-kinetic/datos",
+            "price": "26.470",
+            "potencia": "109",
+            "consumo": "5",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Kinetic 1.6D DRIVe Start/Stop",
+            "start_year": "2009",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-kinetic-16d-drive-startstop/datos",
+            "price": "26.490",
+            "potencia": "109",
+            "consumo": "3,9",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 2.0 Kinetic",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-20-kinetic/datos",
+            "price": "26.650",
+            "potencia": "145",
+            "consumo": "7,4",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Kinetic 2.0F",
+            "start_year": "2009",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-kinetic-20f/datos",
+            "price": "26.990",
+            "potencia": "145",
+            "consumo": "7,7",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 R-Design 1.6",
+            "start_year": "2010",
+            "end_year": "2011",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/r-design/v50-r-design-16/datos",
+            "price": "27.112",
+            "potencia": "101",
+            "consumo": "7,1",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Kinetic DRIVe",
+            "start_year": "2010",
+            "end_year": "2011",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-kinetic-drive/datos",
+            "price": "27.190",
+            "potencia": "109",
+            "consumo": "3,9",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Kinetic 2.0F",
+            "start_year": "2010",
+            "end_year": "2011",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-kinetic-20f2/datos",
+            "price": "27.390",
+            "potencia": "145",
+            "consumo": "7,7",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Momentum 1.8F",
+            "start_year": "2008",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-momentum-18f/datos",
+            "price": "27.485",
+            "potencia": "125",
+            "consumo": "7,4",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Kinetic 2.0F",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-kinetic-20f3/datos",
+            "price": "27.490",
+            "potencia": "145",
+            "consumo": "7,7",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Kinetic DRIVe",
+            "start_year": "2011",
+            "end_year": "2011",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-kinetic-drive2/datos",
+            "price": "27.490",
+            "potencia": "114",
+            "consumo": "3,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Kinetic DRIVe",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-kinetic-drive3/datos",
+            "price": "27.490",
+            "potencia": "114",
+            "consumo": "3,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 1.6D DRIVe Momentum",
+            "start_year": "2009",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-16d-drive-momentum/datos",
+            "price": "27.563",
+            "potencia": "109",
+            "consumo": "4,5",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 1.8 Momentum",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-18-momentum/datos",
+            "price": "27.690",
+            "potencia": "125",
+            "consumo": "7,3",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 2.0 D Kinetic",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-20-d-kinetic/datos",
+            "price": "28.140",
+            "potencia": "136",
+            "consumo": "5,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Kinetic 2.0D",
+            "start_year": "2008",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-kinetic-20d/datos",
+            "price": "28.190",
+            "potencia": "136",
+            "consumo": "5,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Summum 1.6",
+            "start_year": "2010",
+            "end_year": "2011",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-summum-16/datos",
+            "price": "28.197",
+            "potencia": "101",
+            "consumo": "7,1",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 1.8 Flexifuel Momentum",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-18-flexifuel-momentum/datos",
+            "price": "28.240",
+            "potencia": "125",
+            "consumo": "7,4",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Momentum 2.0",
+            "start_year": "2008",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-momentum-20/datos",
+            "price": "28.270",
+            "potencia": "145",
+            "consumo": "7,4",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Momentum 1.6D DRIVe Start/Stop",
+            "start_year": "2009",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-momentum-16d-drive-startstop/datos",
+            "price": "28.296",
+            "potencia": "109",
+            "consumo": "3,9",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 1.6 D Momentum",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-16-d-momentum/datos",
+            "price": "28.335",
+            "potencia": "109",
+            "consumo": "5",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 2.4 140 CV Kinetic Aut.",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-24-140-cv-kinetic-aut/datos",
+            "price": "28.695",
+            "potencia": "140",
+            "consumo": "9,2",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 1.6D Momentum",
+            "start_year": "2008",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-16d-momentum/datos",
+            "price": "28.725",
+            "potencia": "109",
+            "consumo": "5",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Momentum 2.0F",
+            "start_year": "2009",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-momentum-20f/datos",
+            "price": "28.885",
+            "potencia": "145",
+            "consumo": "7,7",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Momentum DRIVe",
+            "start_year": "2010",
+            "end_year": "2011",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-momentum-drive/datos",
+            "price": "29.008",
+            "potencia": "109",
+            "consumo": "3,9",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 2.0 Momentum",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-20-momentum/datos",
+            "price": "29.040",
+            "potencia": "145",
+            "consumo": "7,4",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Business Edition DRIVe",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/business-edition/v50-business-edition-drive/datos",
+            "price": "29.178",
+            "potencia": "114",
+            "consumo": "3,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Kinetic D3",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-kinetic-d3/datos",
+            "price": "29.190",
+            "potencia": "150",
+            "consumo": "5,1",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Momentum DRIVe",
+            "start_year": "2011",
+            "end_year": "2011",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-momentum-drive2/datos",
+            "price": "29.308",
+            "potencia": "114",
+            "consumo": "3,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Business Edition 2.0F",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/business-edition/v50-business-edition-20f/datos",
+            "price": "29.317",
+            "potencia": "145",
+            "consumo": "7,7",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Momentum 2.0F",
+            "start_year": "2010",
+            "end_year": "2011",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-momentum-20f2/datos",
+            "price": "29.358",
+            "potencia": "145",
+            "consumo": "7,7",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 2.4 140 CV Kinetic Aut.",
+            "start_year": "2008",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-24-140-cv-kinetic-aut2/datos",
+            "price": "29.515",
+            "potencia": "140",
+            "consumo": "9,1",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 2.4i 170 CV Kinetic",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-24i-170-cv-kinetic/datos",
+            "price": "29.800",
+            "potencia": "170",
+            "consumo": "8,6",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Summum 1.8F",
+            "start_year": "2008",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-summum-18f/datos",
+            "price": "29.976",
+            "potencia": "125",
+            "consumo": "7,4",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 R-Design 1.8F",
+            "start_year": "2009",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/r-design/v50-r-design-18f/datos",
+            "price": "30.000",
+            "potencia": "125",
+            "consumo": "7,4",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 2.4i 170 CV Kinetic",
+            "start_year": "2008",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-24i-170-cv-kinetic2/datos",
+            "price": "30.005",
+            "potencia": "170",
+            "consumo": "8,5",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Momentum 2.0D",
+            "start_year": "2008",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-momentum-20d/datos",
+            "price": "30.070",
+            "potencia": "136",
+            "consumo": "5,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Kinetic 2.0D Powershift",
+            "start_year": "2008",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-kinetic-20d-powershift/datos",
+            "price": "30.119",
+            "potencia": "136",
+            "consumo": "6",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Kinetic D4",
+            "start_year": "2010",
+            "end_year": "2011",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-kinetic-d4/datos",
+            "price": "30.190",
+            "potencia": "177",
+            "consumo": "5,1",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Kinetic D4",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-kinetic-d42/datos",
+            "price": "30.190",
+            "potencia": "177",
+            "consumo": "5,1",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 2.0 D Momentum",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-20-d-momentum/datos",
+            "price": "30.435",
+            "potencia": "136",
+            "consumo": "5,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 1.8 Summum",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-18-summum/datos",
+            "price": "30.630",
+            "potencia": "125",
+            "consumo": "7,3",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 R-Design 2.0F",
+            "start_year": "2010",
+            "end_year": "2011",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/r-design/v50-r-design-20f2/datos",
+            "price": "30.712",
+            "potencia": "145",
+            "consumo": "7,7",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Summum 2.0",
+            "start_year": "2008",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-summum-20/datos",
+            "price": "30.761",
+            "potencia": "145",
+            "consumo": "7,4",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Business Edition D3",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/business-edition/v50-business-edition-d3/datos",
+            "price": "30.945",
+            "potencia": "150",
+            "consumo": "5,1",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Business Pro Edition DRIVe",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/business-pro-edition/v50-business-pro-edition-drive/datos",
+            "price": "31.030",
+            "potencia": "114",
+            "consumo": "3,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 2.4 140 CV Momentum Aut.",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-24-140-cv-momentum-aut/datos",
+            "price": "31.085",
+            "potencia": "140",
+            "consumo": "9,2",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 1.8 Flexifuel Summum",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-18-flexifuel-summum/datos",
+            "price": "31.180",
+            "potencia": "125",
+            "consumo": "7,4",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Summum DRIVe",
+            "start_year": "2010",
+            "end_year": "2011",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-summum-drive/datos",
+            "price": "31.261",
+            "potencia": "109",
+            "consumo": "3,9",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Summum 2.0F",
+            "start_year": "2009",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-summum-20f/datos",
+            "price": "31.297",
+            "potencia": "145",
+            "consumo": "7,7",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Business Pro Edition 2.0F",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/business-pro-edition/v50-business-pro-edition-20f/datos",
+            "price": "31.322",
+            "potencia": "145",
+            "consumo": "7,7",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 R-Design 2.0F",
+            "start_year": "2009",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/r-design/v50-r-design-20f/datos",
+            "price": "31.400",
+            "potencia": "145",
+            "consumo": "7,7",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Kinetic D3 Aut.",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-kinetic-d3-aut/datos",
+            "price": "31.451",
+            "potencia": "150",
+            "consumo": "5,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 2.4 140 CV Momentum Aut.",
+            "start_year": "2008",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-24-140-cv-momentum-aut2/datos",
+            "price": "31.485",
+            "potencia": "140",
+            "consumo": "9,1",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Summum DRIVe",
+            "start_year": "2011",
+            "end_year": "2011",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-summum-drive2/datos",
+            "price": "31.515",
+            "potencia": "114",
+            "consumo": "3,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Summum 2.0F",
+            "start_year": "2010",
+            "end_year": "2011",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-summum-20f2/datos",
+            "price": "31.797",
+            "potencia": "145",
+            "consumo": "7,7",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 2.4i 170 CV Kinetic Aut.",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-24i-170-cv-kinetic-aut/datos",
+            "price": "31.845",
+            "potencia": "170",
+            "consumo": "9,2",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Business Edition D4",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/business-edition/v50-business-edition-d4/datos",
+            "price": "31.945",
+            "potencia": "177",
+            "consumo": "5,1",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 2.4i 170 CV Momentum",
+            "start_year": "2008",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-24i-170-cv-momentum2/datos",
+            "price": "31.975",
+            "potencia": "170",
+            "consumo": "8,5",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 2.0 Summum",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-20-summum/datos",
+            "price": "31.980",
+            "potencia": "145",
+            "consumo": "7,4",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Momentum 2.0D Powershift",
+            "start_year": "2008",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-momentum-20d-powershift/datos",
+            "price": "31.999",
+            "potencia": "136",
+            "consumo": "6",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Momentum D4",
+            "start_year": "2010",
+            "end_year": "2011",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-momentum-d4/datos",
+            "price": "32.081",
+            "potencia": "177",
+            "consumo": "5,1",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 2.4i 170 CV Kinetic Aut.",
+            "start_year": "2008",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-24i-170-cv-kinetic-aut2/datos",
+            "price": "32.094",
+            "potencia": "170",
+            "consumo": "9,1",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Kinetic D4 Aut.",
+            "start_year": "2010",
+            "end_year": "2011",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-kinetic-d4-aut/datos",
+            "price": "32.151",
+            "potencia": "177",
+            "consumo": "5,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 2.4i 170 CV Momentum",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-24i-170-cv-momentum/datos",
+            "price": "32.190",
+            "potencia": "170",
+            "consumo": "8,6",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Kinetic D4 Aut.",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/kinetic/v50-kinetic-d4-aut2/datos",
+            "price": "32.277",
+            "potencia": "177",
+            "consumo": "5,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Summum 2.0D",
+            "start_year": "2008",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-summum-20d/datos",
+            "price": "32.387",
+            "potencia": "136",
+            "consumo": "5,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 R-DESIGN 2.0F",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/r-design/v50-r-design-20f3/datos",
+            "price": "32.421",
+            "potencia": "145",
+            "consumo": "7,7",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 R-Design 2.0D",
+            "start_year": "2009",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/r-design/v50-r-design-20d/datos",
+            "price": "32.485",
+            "potencia": "136",
+            "consumo": "5,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Business Edition T5",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/business-edition/v50-business-edition-t5/datos",
+            "price": "32.662",
+            "potencia": "230",
+            "consumo": "9",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Business Pro Edition D3",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/business-pro-edition/v50-business-pro-edition-d3/datos",
+            "price": "32.872",
+            "potencia": "150",
+            "consumo": "5,1",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Momentum T5",
+            "start_year": "2010",
+            "end_year": "2011",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-momentum-t5/datos",
+            "price": "32.890",
+            "potencia": "230",
+            "consumo": "9",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Momentum D5",
+            "start_year": "2008",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-momentum-d5/datos",
+            "price": "32.990",
+            "potencia": "179",
+            "consumo": "6,3",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Business Edition D3 Aut.",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/business-edition/v50-business-edition-d3-aut/datos",
+            "price": "33.032",
+            "potencia": "150",
+            "consumo": "5,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 2.0 D Summum",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-20-d-summum/datos",
+            "price": "33.260",
+            "potencia": "136",
+            "consumo": "5,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 R-Design D4",
+            "start_year": "2010",
+            "end_year": "2011",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/r-design/v50-r-design-d4/datos",
+            "price": "33.382",
+            "potencia": "177",
+            "consumo": "5,1",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Business Pro Edition D4",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/business-pro-edition/v50-business-pro-edition-d4/datos",
+            "price": "33.872",
+            "potencia": "177",
+            "consumo": "5,1",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 R-DESIGN D3",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/r-design/v50-business-r-design-d3/datos",
+            "price": "33.928",
+            "potencia": "150",
+            "consumo": "5,1",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 2.4 140 CV Summum Aut.",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-24-140-cv-summum-aut/datos",
+            "price": "34.025",
+            "potencia": "140",
+            "consumo": "9,2",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Business Edition D4 Aut.",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/business-edition/v50-business-edition-d4-aut/datos",
+            "price": "34.032",
+            "potencia": "177",
+            "consumo": "5,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Momentum D4 Aut.",
+            "start_year": "2010",
+            "end_year": "2011",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-momentum-d4-aut/datos",
+            "price": "34.042",
+            "potencia": "177",
+            "consumo": "5,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 2.4i 170 CV Momentum Aut.",
+            "start_year": "2008",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-24i-170-cv-momentum-aut2/datos",
+            "price": "34.064",
+            "potencia": "170",
+            "consumo": "9,1",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 2.4i 170 CV Momentum Aut.",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-24i-170-cv-momentum-aut/datos",
+            "price": "34.235",
+            "potencia": "170",
+            "consumo": "9,2",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 R-Design T5",
+            "start_year": "2010",
+            "end_year": "2011",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/r-design/v50-r-design-t5/datos",
+            "price": "34.297",
+            "potencia": "230",
+            "consumo": "9",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Summum 2.0D Powershift",
+            "start_year": "2008",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-summum-20d-powershift/datos",
+            "price": "34.316",
+            "potencia": "136",
+            "consumo": "6",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 R-Design 2.0D Powershift",
+            "start_year": "2009",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/r-design/v50-r-design-20d-powershift/datos",
+            "price": "34.414",
+            "potencia": "136",
+            "consumo": "6",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Summum D4",
+            "start_year": "2010",
+            "end_year": "2011",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-summum-d4/datos",
+            "price": "34.425",
+            "potencia": "177",
+            "consumo": "5,1",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 2.4 140 CV Summum Aut.",
+            "start_year": "2008",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-24-140-cv-summum-aut2/datos",
+            "price": "34.488",
+            "potencia": "140",
+            "consumo": "9,1",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Business Pro Edition T5",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/business-pro-edition/v50-business-pro-edition-t5/datos",
+            "price": "34.786",
+            "potencia": "230",
+            "consumo": "9",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 D5 Momentum Aut.",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-d5-momentum-aut/datos",
+            "price": "34.890",
+            "potencia": "179",
+            "consumo": "7",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 R-DESIGN D4",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/r-design/v50-r-design-d42/datos",
+            "price": "34.928",
+            "potencia": "177",
+            "consumo": "5,1",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Business Pro Edition D3 Aut.",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/business-pro-edition/v50-business-pro-edition-d3-aut/datos",
+            "price": "34.959",
+            "potencia": "150",
+            "consumo": "5,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 2.4i 170 CV Summum",
+            "start_year": "2008",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-24i-170-cv-summum2/datos",
+            "price": "34.978",
+            "potencia": "170",
+            "consumo": "8,5",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Momentum D5 Aut.",
+            "start_year": "2008",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-momentum-d5-aut/datos",
+            "price": "34.999",
+            "potencia": "179",
+            "consumo": "7",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 2.4i 170 CV Summum",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-24i-170-cv-summum/datos",
+            "price": "35.130",
+            "potencia": "170",
+            "consumo": "8,6",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 R-Design D4 Aut.",
+            "start_year": "2010",
+            "end_year": "2011",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/r-design/v50-r-design-d4-aut/datos",
+            "price": "35.343",
+            "potencia": "177",
+            "consumo": "5,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Summum D5",
+            "start_year": "2008",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-summum-d5/datos",
+            "price": "35.403",
+            "potencia": "179",
+            "consumo": "6,3",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Summum T5",
+            "start_year": "2010",
+            "end_year": "2011",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-summum-t5/datos",
+            "price": "35.425",
+            "potencia": "230",
+            "consumo": "9",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 R-Design D5",
+            "start_year": "2009",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/r-design/v50-r-design-d5/datos",
+            "price": "35.505",
+            "potencia": "179",
+            "consumo": "6,3",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 R-DESIGN T5",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/r-design/v50-r-design-t52/datos",
+            "price": "35.928",
+            "potencia": "230",
+            "consumo": "9",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Business Pro Edition D4 Aut.",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/business-pro-edition/v50-business-pro-edition-d4-aut/datos",
+            "price": "35.959",
+            "potencia": "177",
+            "consumo": "5,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 R-DESIGN D3 Aut.",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/r-design/v50-r-design-d3-aut/datos",
+            "price": "36.015",
+            "potencia": "150",
+            "consumo": "5,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 T5 Momentum",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-t5-momentum/datos",
+            "price": "36.350",
+            "potencia": "230",
+            "consumo": "8,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Summum D4 Aut.",
+            "start_year": "2010",
+            "end_year": "2011",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-summum-d4-aut/datos",
+            "price": "36.386",
+            "potencia": "177",
+            "consumo": "5,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 R-DESIGN D4 Aut.",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/r-design/v50-r-design-d4-aut2/datos",
+            "price": "37.015",
+            "potencia": "177",
+            "consumo": "5,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 2.4i 170 CV Summum Aut.",
+            "start_year": "2008",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-24i-170-cv-summum-aut2/datos",
+            "price": "37.067",
+            "potencia": "170",
+            "consumo": "9,1",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 2.4i 170 CV Summum Aut.",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-24i-170-cv-summum-aut/datos",
+            "price": "37.175",
+            "potencia": "170",
+            "consumo": "9,2",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 T5 Momentum",
+            "start_year": "2008",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-t5-momentum2/datos",
+            "price": "37.335",
+            "potencia": "230",
+            "consumo": "8,7",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Summum D5 Aut.",
+            "start_year": "2008",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-summum-d5-aut/datos",
+            "price": "37.412",
+            "potencia": "179",
+            "consumo": "7",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Summum T5 AWD",
+            "start_year": "2008",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-summum-t5-awd/datos",
+            "price": "37.490",
+            "potencia": "230",
+            "consumo": "9,6",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 R-Design D5 Aut.",
+            "start_year": "2009",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/r-design/v50-r-design-d5-aut/datos",
+            "price": "37.514",
+            "potencia": "179",
+            "consumo": "7",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 D5 Summum Aut.",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-d5-summum-aut/datos",
+            "price": "37.830",
+            "potencia": "179",
+            "consumo": "7",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 T5 Momentum Aut.",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-t5-momentum-aut/datos",
+            "price": "38.395",
+            "potencia": "230",
+            "consumo": "9,6",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 T5 AWD Momentum",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-t5-awd-momentum/datos",
+            "price": "39.050",
+            "potencia": "230",
+            "consumo": "9,6",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 T5 Summum",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-t5-summum/datos",
+            "price": "39.290",
+            "potencia": "230",
+            "consumo": "8,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 T5 Momentum Aut.",
+            "start_year": "2008",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-t5-momentum-aut2/datos",
+            "price": "39.424",
+            "potencia": "230",
+            "consumo": "9,5",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 Summum T5 AWD Aut.",
+            "start_year": "2008",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-summum-t5-awd-aut/datos",
+            "price": "39.579",
+            "potencia": "230",
+            "consumo": "9,8",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 T5 AWD Momentum",
+            "start_year": "2008",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-t5-awd-momentum2/datos",
+            "price": "40.093",
+            "potencia": "230",
+            "consumo": "9,6",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 T5 Summum",
+            "start_year": "2008",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-t5-summum2/datos",
+            "price": "40.338",
+            "potencia": "230",
+            "consumo": "8,7",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 T5 AWD Momentum Aut.",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-t5-awd-momentum-aut/datos",
+            "price": "41.095",
+            "potencia": "230",
+            "consumo": "10,2",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 T5 Summum Aut.",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-t5-summum-aut/datos",
+            "price": "41.335",
+            "potencia": "230",
+            "consumo": "9,6",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 T5 AWD Summum",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-t5-awd-summum/datos",
+            "price": "41.990",
+            "potencia": "230",
+            "consumo": "9,6",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 T5 AWD Momentum Aut.",
+            "start_year": "2008",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/momentum/v50-t5-awd-momentum-aut2/datos",
+            "price": "42.182",
+            "potencia": "230",
+            "consumo": "10,1",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 T5 Summum Aut.",
+            "start_year": "2008",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-t5-summum-aut2/datos",
+            "price": "42.427",
+            "potencia": "230",
+            "consumo": "9,5",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "V50 T5 AWD Summum Aut.",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/volvo/v50/2007/estandar/summum/v50-t5-awd-summum-aut/datos",
+            "price": "44.035",
+            "potencia": "230",
+            "consumo": "10,2",
+            "longitud": "4.522",
+            "maletero": "417",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        }
+    ]
+}

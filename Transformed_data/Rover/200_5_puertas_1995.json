@@ -1,0 +1,52 @@
+{
+    "name": "200 5 puertas",
+    "year": "1995",
+    "url": "https://www.km77.com/coches/rover/200/1995/5-puertas",
+    "price": "",
+    "versions": [
+        {
+            "name": "214 Si 5p",
+            "start_year": "1999",
+            "end_year": "2000",
+            "url": "https://www.km77.com/coches/rover/200/1995/5-puertas/estandar/214-si-5p/datos",
+            "price": "12.014",
+            "potencia": "103",
+            "consumo": "7,1",
+            "longitud": "3.970",
+            "maletero": "300"
+        },
+        {
+            "name": "216 Si 5p",
+            "start_year": "1999",
+            "end_year": "2000",
+            "url": "https://www.km77.com/coches/rover/200/1995/5-puertas/estandar/216-si-5p/datos",
+            "price": "13.096",
+            "potencia": "111",
+            "consumo": "7,2",
+            "longitud": "3.970",
+            "maletero": "300"
+        },
+        {
+            "name": "220 SD 5p",
+            "start_year": "1999",
+            "end_year": "2000",
+            "url": "https://www.km77.com/coches/rover/200/1995/5-puertas/estandar/220-sd-5p/datos",
+            "price": "13.817",
+            "potencia": "86",
+            "consumo": "5,7",
+            "longitud": "3.970",
+            "maletero": "300"
+        },
+        {
+            "name": "216 Si 5p Aut.",
+            "start_year": "1999",
+            "end_year": "2000",
+            "url": "https://www.km77.com/coches/rover/200/1995/5-puertas/estandar/216-si-5p-aut/datos",
+            "price": "14.575",
+            "potencia": "111",
+            "consumo": "-",
+            "longitud": "3.970",
+            "maletero": "300"
+        }
+    ]
+}

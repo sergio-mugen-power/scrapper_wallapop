@@ -1,0 +1,88 @@
+{
+    "name": "Polo Cross",
+    "year": "2015",
+    "url": "https://www.km77.com/coches/volkswagen/polo/2015/cross",
+    "price": "",
+    "versions": [
+        {
+            "name": "Polo Cross 1.2 TSI 90 CV BMT",
+            "start_year": "2015",
+            "end_year": "2017",
+            "url": "https://www.km77.com/coches/volkswagen/polo/2015/cross/estandar/polo-cross-12-tsi-90-cv-bmt/datos",
+            "price": "18.035",
+            "potencia": "90",
+            "consumo": "4,8",
+            "longitud": "3.987",
+            "maletero": "280",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Polo Cross 1.2 TSI 90 CV BMT DSG 7 vel.",
+            "start_year": "2016",
+            "end_year": "2017",
+            "url": "https://www.km77.com/coches/volkswagen/polo/2015/cross/estandar/polo-cross-12-tsi-90-cv-bmt-dsg-7-vel/datos",
+            "price": "19.285",
+            "potencia": "90",
+            "consumo": "4,9",
+            "longitud": "3.987",
+            "maletero": "280",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Polo Cross 1.4 TDI 90 CV BMT",
+            "start_year": "2015",
+            "end_year": "2017",
+            "url": "https://www.km77.com/coches/volkswagen/polo/2015/cross/estandar/polo-cross-14-tdi-90-cv-bmt/datos",
+            "price": "19.705",
+            "potencia": "90",
+            "consumo": "3,8",
+            "longitud": "3.987",
+            "maletero": "280",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Polo Cross 1.4 TDI 90 CV BMT DSG 7 vel.",
+            "start_year": "2016",
+            "end_year": "2017",
+            "url": "https://www.km77.com/coches/volkswagen/polo/2015/cross/estandar/polo-cross-14-tdi-90-cv-bmt-dsg-7-vel/datos",
+            "price": "20.945",
+            "potencia": "90",
+            "consumo": "3,9",
+            "longitud": "3.987",
+            "maletero": "280",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        }
+    ]
+}

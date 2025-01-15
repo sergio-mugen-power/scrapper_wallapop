@@ -1,0 +1,528 @@
+{
+    "name": "Signum",
+    "year": "2003",
+    "url": "https://www.km77.com/coches/opel/signum/2003/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "Signum Design 1.8 16V",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/signum/2003/estandar/design/signum-design-18-16v/datos",
+            "price": "23.040",
+            "potencia": "122",
+            "consumo": "7,9",
+            "longitud": "4.636",
+            "maletero": "365",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Signum Design 1.9 CDTI 8V",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/signum/2003/estandar/design/signum-design-19-cdti-8v/datos",
+            "price": "23.950",
+            "potencia": "120",
+            "consumo": "6",
+            "longitud": "4.636",
+            "maletero": "365",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Signum Design 2.2 DIG 16V",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/signum/2003/estandar/design/signum-design-22-dig-16v/datos",
+            "price": "24.720",
+            "potencia": "155",
+            "consumo": "8,1",
+            "longitud": "4.636",
+            "maletero": "365",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Signum Design 1.9 CDTI 16V",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/signum/2003/estandar/design/signum-design-19-cdti-16v/datos",
+            "price": "25.350",
+            "potencia": "150",
+            "consumo": "6,1",
+            "longitud": "4.636",
+            "maletero": "365",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Signum Cosmo 1.8 16V",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/signum/2003/estandar/cosmo/signum-cosmo-18-16v/datos",
+            "price": "26.240",
+            "potencia": "122",
+            "consumo": "7,9",
+            "longitud": "4.636",
+            "maletero": "365",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Signum Design 2.0 Turbo 16V",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/signum/2003/estandar/design/signum-design-20-turbo-16v/datos",
+            "price": "26.290",
+            "potencia": "175",
+            "consumo": "9,2",
+            "longitud": "4.636",
+            "maletero": "365",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Signum Design 2.2 DIG 16V Active Select",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/signum/2003/estandar/design/signum-design-22-dig-16v-active-select/datos",
+            "price": "26.350",
+            "potencia": "155",
+            "consumo": "8,8",
+            "longitud": "4.636",
+            "maletero": "365",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Signum Cosmo 1.9 CDTI 8V",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/signum/2003/estandar/cosmo/signum-cosmo-19-cdti-8v/datos",
+            "price": "27.150",
+            "potencia": "120",
+            "consumo": "6",
+            "longitud": "4.636",
+            "maletero": "365",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Signum Design 1.9 CDTI 16V Active Select",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/signum/2003/estandar/design/signum-design-19-cdti-16v-active-select/datos",
+            "price": "27.450",
+            "potencia": "150",
+            "consumo": "7,2",
+            "longitud": "4.636",
+            "maletero": "365",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Signum Cosmo 2.2 DIG 16V",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/signum/2003/estandar/cosmo/signum-cosmo-22-dig-16v/datos",
+            "price": "27.920",
+            "potencia": "155",
+            "consumo": "8,1",
+            "longitud": "4.636",
+            "maletero": "365",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Signum Design 3.2 V6 24V",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/signum/2003/estandar/design/signum-design-32-v6-24v/datos",
+            "price": "28.240",
+            "potencia": "211",
+            "consumo": "10,1",
+            "longitud": "4.636",
+            "maletero": "365",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Signum Cosmo 1.9 CDTI 16V",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/signum/2003/estandar/cosmo/signum-cosmo-19-cdti-16v/datos",
+            "price": "28.550",
+            "potencia": "150",
+            "consumo": "6,1",
+            "longitud": "4.636",
+            "maletero": "365",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Signum Design 1.8 16V Aut.",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/signum/2003/estandar/design/signum-design-18-16v-aut/datos",
+            "price": "28.830",
+            "potencia": "122",
+            "consumo": "-",
+            "longitud": "4.636",
+            "maletero": "365",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Signum Design 3.0 V6 CDTI 24V",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/signum/2003/estandar/design/signum-design-30-v6-cdti-24v/datos",
+            "price": "29.300",
+            "potencia": "177",
+            "consumo": "7,3",
+            "longitud": "4.636",
+            "maletero": "365",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Signum Cosmo 2.0 Turbo 16V",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/signum/2003/estandar/cosmo/signum-cosmo-20-turbo-16v/datos",
+            "price": "29.490",
+            "potencia": "175",
+            "consumo": "9,2",
+            "longitud": "4.636",
+            "maletero": "365",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Signum Cosmo 2.2 DIG 16V Active Select",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/signum/2003/estandar/cosmo/signum-cosmo-22-dig-16v-active-select/datos",
+            "price": "29.550",
+            "potencia": "155",
+            "consumo": "8,8",
+            "longitud": "4.636",
+            "maletero": "365",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Signum 2.2 DTI 16V",
+            "start_year": "2003",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/opel/signum/2003/estandar/estandar/signum-22-dti-16v/datos",
+            "price": "29.710",
+            "potencia": "125",
+            "consumo": "6,3",
+            "longitud": "4.636",
+            "maletero": "365",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Signum Design 3.2 V6 24V Active Select",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/signum/2003/estandar/design/signum-design-32-v6-24v-active-select/datos",
+            "price": "29.870",
+            "potencia": "211",
+            "consumo": "10,7",
+            "longitud": "4.636",
+            "maletero": "365",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Signum Cosmo 1.9 CDTI 16V Active Select",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/signum/2003/estandar/cosmo/signum-cosmo-19-cdti-16v-active-select/datos",
+            "price": "30.650",
+            "potencia": "150",
+            "consumo": "7,2",
+            "longitud": "4.636",
+            "maletero": "365",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Signum Design 3.0 V6 CDTI 24V Active Select",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/signum/2003/estandar/design/signum-design-30-v6-cdti-24v-active-select/datos",
+            "price": "30.930",
+            "potencia": "177",
+            "consumo": "7,7",
+            "longitud": "4.636",
+            "maletero": "365",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Signum 2.2 DTI 16V Active Select",
+            "start_year": "2003",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/opel/signum/2003/estandar/estandar/signum-22-dti-16v-active-select/datos",
+            "price": "31.340",
+            "potencia": "125",
+            "consumo": "7,4",
+            "longitud": "4.636",
+            "maletero": "365",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Signum Cosmo 3.2 V6 24V",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/signum/2003/estandar/cosmo/signum-cosmo-32-v6-24v/datos",
+            "price": "31.440",
+            "potencia": "211",
+            "consumo": "10,1",
+            "longitud": "4.636",
+            "maletero": "365",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Signum Cosmo 1.8 16V Aut.",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/signum/2003/estandar/cosmo/signum-cosmo-18-16v-aut/datos",
+            "price": "32.030",
+            "potencia": "122",
+            "consumo": "-",
+            "longitud": "4.636",
+            "maletero": "365",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Signum Cosmo 3.0 V6 CDTI 24V",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/signum/2003/estandar/cosmo/signum-cosmo-30-v6-cdti-24v/datos",
+            "price": "32.500",
+            "potencia": "177",
+            "consumo": "7,3",
+            "longitud": "4.636",
+            "maletero": "365",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Signum Cosmo 3.2 V6 24V Active Select",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/signum/2003/estandar/cosmo/signum-cosmo-32-v6-24v-active-select/datos",
+            "price": "33.070",
+            "potencia": "211",
+            "consumo": "10,7",
+            "longitud": "4.636",
+            "maletero": "365",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Signum Cosmo 3.0 V6 CDTI 24V Active Select",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/opel/signum/2003/estandar/cosmo/signum-cosmo-30-v6-cdti-24v-active-select/datos",
+            "price": "34.130",
+            "potencia": "177",
+            "consumo": "7,7",
+            "longitud": "4.636",
+            "maletero": "365",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        }
+    ]
+}

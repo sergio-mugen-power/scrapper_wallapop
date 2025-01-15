@@ -1,0 +1,30 @@
+{
+    "name": "Arnage Long Wheelbase",
+    "year": "2007",
+    "url": "https://www.km77.com/coches/bentley/arnage/2007/long-wheelbase",
+    "price": "",
+    "versions": [
+        {
+            "name": "Arnage RL",
+            "start_year": "2007",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/bentley/arnage/2007/long-wheelbase/rl/arnage-rl/datos",
+            "price": "333.440",
+            "potencia": "457",
+            "consumo": "19,5",
+            "longitud": "5.640",
+            "maletero": "374"
+        },
+        {
+            "name": "Arnage RL",
+            "start_year": "2008",
+            "end_year": "2009",
+            "url": "https://www.km77.com/coches/bentley/arnage/2007/long-wheelbase/rl/arnage-rl2/datos",
+            "price": "347.991",
+            "potencia": "457",
+            "consumo": "19,5",
+            "longitud": "5.640",
+            "maletero": "374"
+        }
+    ]
+}

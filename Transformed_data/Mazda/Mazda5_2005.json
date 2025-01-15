@@ -1,0 +1,988 @@
+{
+    "name": "Mazda5",
+    "year": "2005",
+    "url": "https://www.km77.com/coches/mazda/mazda5/2005/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "5 Active 1.8 115cv",
+            "start_year": "2005",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/mazda/mazda5/2005/estandar/active/5-active-18-115cv/datos",
+            "price": "Precio",
+            "potencia": "116",
+            "consumo": "7,9",
+            "longitud": "4.505",
+            "maletero": "426",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "20.550 €",
+                    "Descuento oficial": "2.000 €",
+                    "Precio sin impuestos": "17.617 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "02/2007"
+                },
+                {
+                    "Velocidad máxima": "182 km/h",
+                    "Aceleración 0-100 km/h": "11,4 s",
+                    "Emisiones de CO₂ NEDC": "190 gr/km",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "C"
+                },
+                {
+                    "Tipo de Carrocería": "Monovolumen",
+                    "Número de puertas": "5",
+                    "Longitud": "4.505 mm",
+                    "Anchura": "1.755 mm",
+                    "Altura": "1.615 mm",
+                    "Batalla": "2.750 mm",
+                    "Vía delantera": "1.530 mm",
+                    "Vía trasera": "1.520 mm",
+                    "Coeficiente Cx": "0,29",
+                    "Superficie frontal": "2,46 m²",
+                    "Factor de resistencia": "0,71",
+                    "Peso": "1.470 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "7",
+                    "Distribución de asientos": "7"
+                },
+                {
+                    "Potencia máxima": "116 CV / 85 kW",
+                    "Par máximo": "165 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "116 CV / 85 kW",
+                    "Revoluciones potencia máxima": "5.300 rpm",
+                    "Par máximo": "165 Nm",
+                    "Revoluciones par máximo": "4.000 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "83 mm",
+                    "Carrera": "83,1 mm",
+                    "Cilindrada": "1.798 cm³",
+                    "Relación de compresión": "10,8 a 1",
+                    "Alimentación": "Inyección Indirecta.",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "5",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "300 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "302 mm",
+                    "Neumáticos delanteros": "205/55 R16",
+                    "Neumáticos traseros": "205/55 R16",
+                    "Llantas delanteras": "6.5 x 16",
+                    "Llantas Traseras": "6.5 x 16"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)20.550 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "2.000 €",
+                    "Precio sin impuestos": "17.617 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "02/2007"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Airbag laterales delanteros": "De serie",
+                    "Airbag laterales traseros": "No disponible",
+                    "Anclajes Isofix en asientos laterales de segunda fila": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Asistencia de frenado de emergencia (EBA)": "De serie",
+                    "Cinturones delanteros con pretensores y limitadores de carga": "De serie",
+                    "Control de estabilidad (DSC)": "De serie",
+                    "Control de traccion (TCS)": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Distribución electrónica de frenado (EBD)": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Faros de xenón": "De serie",
+                    "Ordenador de viaje": "De serie",
+                    "Programador de velocidad": "No disponible",
+                    "Retrovisores exteriores termicos": "De serie",
+                    "Volante con ajuste horizontal": "De serie",
+                    "Volante con ajuste vertical": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Apertura portón trasero en dos etapas": "De serie",
+                    "Asiento del conductor con ajuste de altura": "De serie",
+                    "Asiento del conductor con ajuste eléctrico": "No disponible",
+                    "Asiento del conductor con ajuste lumbar": "De serie",
+                    "Asientos delanteros con calefacción": "No disponible",
+                    "Asientos segunda y tercera fila deslizantes": "De serie",
+                    "Cierre centralizado": "De serie",
+                    "Climatizador": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Elevalunas electricos traseros": "De serie",
+                    "Luces automáticas": "No disponible",
+                    "Mando de apertura a distancia": "De serie",
+                    "Retrovisores exteriores eléctricos": "De serie",
+                    "Sensor lluvia": "De serie"
+                },
+                {
+                    "Pintura metalizada": "400 €",
+                    "Tapiceria de cuero": "No disponible",
+                    "Volante de cuero": "De serie"
+                },
+                {
+                    "Asientos de la segunda fila plegables en dos partes": "De serie",
+                    "Asientos tercera fila abatibles 50:50": "De serie",
+                    "Puertas posteriores correderas": "De serie",
+                    "Tres asientos individuales en segunda fila": "De serie"
+                },
+                {
+                    "Cargador de CD": "No disponible",
+                    "Navegador": "No disponible",
+                    "Radio CD": "De serie",
+                    "Teléfono": "No disponible"
+                },
+                {},
+                {
+                    "Llantas de aleación 16\"": "De serie"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "5 Active+ 2.0 145cv",
+            "start_year": "2005",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/mazda/mazda5/2005/estandar/active/5-active-20-145cv/datos",
+            "price": "Precio",
+            "potencia": "145",
+            "consumo": "8,2",
+            "longitud": "4.505",
+            "maletero": "426",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "23.750 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "18.555 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "02/2007"
+                },
+                {
+                    "Velocidad máxima": "196 km/h",
+                    "Aceleración 0-100 km/h": "10,8 s",
+                    "Emisiones de CO₂ NEDC": "198 gr/km",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "C"
+                },
+                {
+                    "Tipo de Carrocería": "Monovolumen",
+                    "Número de puertas": "5",
+                    "Longitud": "4.505 mm",
+                    "Anchura": "1.755 mm",
+                    "Altura": "1.615 mm",
+                    "Batalla": "2.750 mm",
+                    "Vía delantera": "1.530 mm",
+                    "Vía trasera": "1.520 mm",
+                    "Coeficiente Cx": "0,29",
+                    "Superficie frontal": "2,46 m²",
+                    "Factor de resistencia": "0,71",
+                    "Peso": "1.475 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "7",
+                    "Distribución de asientos": "7"
+                },
+                {
+                    "Potencia máxima": "145 CV / 107 kW",
+                    "Par máximo": "185 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "145 CV / 107 kW",
+                    "Revoluciones potencia máxima": "6.000 rpm",
+                    "Par máximo": "185 Nm",
+                    "Revoluciones par máximo": "4.500 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "87,5 mm",
+                    "Carrera": "83,1 mm",
+                    "Cilindrada": "1.999 cm³",
+                    "Relación de compresión": "10,8 a 1",
+                    "Alimentación": "Inyección Indirecta.",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "5",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "300 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "302 mm",
+                    "Neumáticos delanteros": "205/55 R16",
+                    "Neumáticos traseros": "205/55 R16",
+                    "Llantas delanteras": "6.5 x 16",
+                    "Llantas Traseras": "6.5 x 16"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)23.750 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "18.555 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "02/2007"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Airbag laterales delanteros": "De serie",
+                    "Airbag laterales traseros": "No disponible",
+                    "Anclajes Isofix en asientos laterales de segunda fila": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Asistencia de frenado de emergencia (EBA)": "De serie",
+                    "Cinturones delanteros con pretensores y limitadores de carga": "De serie",
+                    "Control de estabilidad (DSC)": "De serie",
+                    "Control de traccion (TCS)": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Distribución electrónica de frenado (EBD)": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Faros de xenón": "De serie",
+                    "Ordenador de viaje": "De serie",
+                    "Programador de velocidad": "No disponible",
+                    "Retrovisores exteriores termicos": "De serie",
+                    "Volante con ajuste horizontal": "De serie",
+                    "Volante con ajuste vertical": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Apertura portón trasero en dos etapas": "De serie",
+                    "Asiento del conductor con ajuste de altura": "De serie",
+                    "Asiento del conductor con ajuste eléctrico": "No disponible",
+                    "Asiento del conductor con ajuste lumbar": "De serie",
+                    "Asientos delanteros con calefacción": "No disponible",
+                    "Asientos segunda y tercera fila deslizantes": "De serie",
+                    "Cierre centralizado": "De serie",
+                    "Climatizador": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Elevalunas electricos traseros": "De serie",
+                    "Luces automáticas": "No disponible",
+                    "Mando de apertura a distancia": "De serie",
+                    "Retrovisores exteriores eléctricos": "De serie",
+                    "Sensor lluvia": "De serie"
+                },
+                {
+                    "Pintura metalizada": "400 €",
+                    "Tapiceria de cuero": "No disponible",
+                    "Volante de cuero": "De serie"
+                },
+                {
+                    "Asientos de la segunda fila plegables en dos partes": "De serie",
+                    "Asientos tercera fila abatibles 50:50": "De serie",
+                    "Puertas posteriores correderas": "De serie",
+                    "Tres asientos individuales en segunda fila": "De serie"
+                },
+                {
+                    "Cargador de CD": "No disponible",
+                    "Navegador": "No disponible",
+                    "Radio CD": "De serie",
+                    "Teléfono": "No disponible"
+                },
+                {},
+                {
+                    "Llantas de aleación 16\"": "De serie"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "5 Active CRTD 110cv",
+            "start_year": "2005",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/mazda/mazda5/2005/estandar/active/5-active-crtd-110cv/datos",
+            "price": "Precio",
+            "potencia": "110",
+            "consumo": "6,3",
+            "longitud": "4.505",
+            "maletero": "426",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "24.250 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "19.715 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "7 %",
+                    "Tarifa de": "02/2007"
+                },
+                {
+                    "Velocidad máxima": "179 km/h",
+                    "Aceleración 0-100 km/h": "12,9 s",
+                    "Emisiones de CO₂ NEDC": "173 gr/km",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "B"
+                },
+                {
+                    "Tipo de Carrocería": "Monovolumen",
+                    "Número de puertas": "5",
+                    "Longitud": "4.505 mm",
+                    "Anchura": "1.755 mm",
+                    "Altura": "1.615 mm",
+                    "Batalla": "2.750 mm",
+                    "Vía delantera": "1.530 mm",
+                    "Vía trasera": "1.520 mm",
+                    "Coeficiente Cx": "0,29",
+                    "Superficie frontal": "2,46 m²",
+                    "Factor de resistencia": "0,71",
+                    "Peso": "1.610 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "7",
+                    "Distribución de asientos": "7"
+                },
+                {
+                    "Potencia máxima": "110 CV / 81 kW",
+                    "Par máximo": "310 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasóleo",
+                    "Potencia máxima": "110 CV / 81 kW",
+                    "Revoluciones potencia máxima": "3.500 rpm",
+                    "Par máximo": "310 Nm",
+                    "Revoluciones par máximo": "2.000 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "86 mm",
+                    "Carrera": "86 mm",
+                    "Cilindrada": "1.998 cm³",
+                    "Relación de compresión": "16,7 a 1",
+                    "Alimentación": "Inyección directa. Turbo. Geometría variable. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "6",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "300 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "302 mm",
+                    "Neumáticos delanteros": "205/55 R16",
+                    "Neumáticos traseros": "205/55 R16",
+                    "Llantas delanteras": "6.5 x 16",
+                    "Llantas Traseras": "6.5 x 16"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)24.250 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "19.715 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "7 %",
+                    "Tarifa de": "02/2007"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Airbag laterales delanteros": "De serie",
+                    "Airbag laterales traseros": "No disponible",
+                    "Anclajes Isofix en asientos laterales de segunda fila": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Asistencia de frenado de emergencia (EBA)": "De serie",
+                    "Cinturones delanteros con pretensores y limitadores de carga": "De serie",
+                    "Control de estabilidad (DSC)": "De serie",
+                    "Control de traccion (TCS)": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Distribución electrónica de frenado (EBD)": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Faros de xenón": "De serie",
+                    "Ordenador de viaje": "De serie",
+                    "Programador de velocidad": "No disponible",
+                    "Retrovisores exteriores termicos": "De serie",
+                    "Volante con ajuste horizontal": "De serie",
+                    "Volante con ajuste vertical": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Apertura portón trasero en dos etapas": "De serie",
+                    "Asiento del conductor con ajuste de altura": "De serie",
+                    "Asiento del conductor con ajuste eléctrico": "No disponible",
+                    "Asiento del conductor con ajuste lumbar": "De serie",
+                    "Asientos delanteros con calefacción": "No disponible",
+                    "Asientos segunda y tercera fila deslizantes": "De serie",
+                    "Cierre centralizado": "De serie",
+                    "Climatizador": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Elevalunas electricos traseros": "De serie",
+                    "Luces automáticas": "No disponible",
+                    "Mando de apertura a distancia": "De serie",
+                    "Retrovisores exteriores eléctricos": "De serie",
+                    "Sensor lluvia": "De serie"
+                },
+                {
+                    "Pintura metalizada": "400 €",
+                    "Tapiceria de cuero": "No disponible",
+                    "Volante de cuero": "De serie"
+                },
+                {
+                    "Asientos de la segunda fila plegables en dos partes": "De serie",
+                    "Asientos tercera fila abatibles 50:50": "De serie",
+                    "Puertas posteriores correderas": "De serie",
+                    "Tres asientos individuales en segunda fila": "De serie"
+                },
+                {
+                    "Cargador de CD": "No disponible",
+                    "Navegador": "No disponible",
+                    "Radio CD": "De serie",
+                    "Teléfono": "No disponible"
+                },
+                {},
+                {
+                    "Llantas de aleación 16\"": "De serie"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "5 Sportive 2.0 145cv",
+            "start_year": "2005",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/mazda/mazda5/2005/estandar/sportive/5-sportive-20-145cv/datos",
+            "price": "Precio",
+            "potencia": "145",
+            "consumo": "8,2",
+            "longitud": "4.555",
+            "maletero": "426",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "24.300 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "18.984 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "02/2007"
+                },
+                {
+                    "Velocidad máxima": "196 km/h",
+                    "Aceleración 0-100 km/h": "10,8 s",
+                    "Emisiones de CO₂ NEDC": "198 gr/km",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "C"
+                },
+                {
+                    "Tipo de Carrocería": "Monovolumen",
+                    "Número de puertas": "5",
+                    "Longitud": "4.555 mm",
+                    "Anchura": "1.755 mm",
+                    "Altura": "1.615 mm",
+                    "Batalla": "2.750 mm",
+                    "Vía delantera": "1.530 mm",
+                    "Vía trasera": "1.520 mm",
+                    "Coeficiente Cx": "0,29",
+                    "Superficie frontal": "2,46 m²",
+                    "Factor de resistencia": "0,71",
+                    "Peso": "1.475 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "7",
+                    "Distribución de asientos": "7"
+                },
+                {
+                    "Potencia máxima": "145 CV / 107 kW",
+                    "Par máximo": "185 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "145 CV / 107 kW",
+                    "Revoluciones potencia máxima": "6.000 rpm",
+                    "Par máximo": "185 Nm",
+                    "Revoluciones par máximo": "4.500 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "87,5 mm",
+                    "Carrera": "83,1 mm",
+                    "Cilindrada": "1.999 cm³",
+                    "Relación de compresión": "10,8 a 1",
+                    "Alimentación": "Inyección Indirecta.",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "5",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "300 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "302 mm",
+                    "Neumáticos delanteros": "205/50 R17",
+                    "Neumáticos traseros": "205/50 R17",
+                    "Llantas delanteras": "6.5 x 17",
+                    "Llantas Traseras": "6.5 x 17"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)24.300 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "18.984 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "02/2007"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Airbag laterales delanteros": "De serie",
+                    "Airbag laterales traseros": "No disponible",
+                    "Anclajes Isofix en asientos laterales de segunda fila": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Asistencia de frenado de emergencia (EBA)": "De serie",
+                    "Camara de visión trasera": "Sólo en paquete",
+                    "Cinturones delanteros con pretensores y limitadores de carga": "De serie",
+                    "Control de estabilidad (DSC)": "De serie",
+                    "Control de traccion (TCS)": "De serie",
+                    "Control velocidad": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Distribución electrónica de frenado (EBD)": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Faros de xenón": "De serie",
+                    "Ordenador de viaje": "De serie",
+                    "Retrovisores exteriores termicos": "De serie",
+                    "Volante con ajuste horizontal": "De serie",
+                    "Volante con ajuste vertical": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Apertura portón trasero en dos etapas": "De serie",
+                    "Asiento del conductor con ajuste de altura": "De serie",
+                    "Asiento del conductor con ajuste eléctrico": "No disponible",
+                    "Asiento del conductor con ajuste lumbar": "De serie",
+                    "Asientos delanteros con calefacción": "No disponible",
+                    "Asientos segunda y tercera fila deslizantes": "De serie",
+                    "Cierre centralizado": "De serie",
+                    "Climatizador": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Elevalunas electricos traseros": "De serie",
+                    "Luces automáticas": "No disponible",
+                    "Retrovisores exteriores eléctricos": "De serie",
+                    "Sensor lluvia": "De serie",
+                    "Tarjeta inteligente": "De serie",
+                    "Ventanas sobretintadas traseras": "De serie"
+                },
+                {
+                    "Pintura metalizada": "400 €",
+                    "Tapiceria de cuero": "No disponible",
+                    "Volante de cuero": "De serie"
+                },
+                {
+                    "Asientos de la segunda fila plegables en dos partes": "De serie",
+                    "Asientos tercera fila abatibles 50:50": "De serie",
+                    "Puertas posteriores correderas": "De serie",
+                    "Tres asientos individuales en segunda fila": "De serie"
+                },
+                {
+                    "Cargador de CD": "No disponible",
+                    "Navegador con DVD": "Sólo en paquete",
+                    "Radio CD": "De serie",
+                    "Servidor de música HDD": "Sólo en paquete",
+                    "Sistema de entretenimiento plazas traseras con DVD": "Sólo en paquete",
+                    "Teléfono": "No disponible"
+                },
+                {},
+                {
+                    "Llantas de aleación 17\"": "De serie"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "5 Active+ CRTD 143cv",
+            "start_year": "2005",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/mazda/mazda5/2005/estandar/active/5-active-crtd-143cv/datos",
+            "price": "Precio",
+            "potencia": "143",
+            "consumo": "6,3",
+            "longitud": "4.505",
+            "maletero": "426",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "25.450 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "20.691 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "7 %",
+                    "Tarifa de": "02/2007"
+                },
+                {
+                    "Velocidad máxima": "197 km/h",
+                    "Aceleración 0-100 km/h": "10,4 s",
+                    "Emisiones de CO₂ NEDC": "173 gr/km",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "B"
+                },
+                {
+                    "Tipo de Carrocería": "Monovolumen",
+                    "Número de puertas": "5",
+                    "Longitud": "4.505 mm",
+                    "Anchura": "1.755 mm",
+                    "Altura": "1.615 mm",
+                    "Batalla": "2.750 mm",
+                    "Vía delantera": "1.530 mm",
+                    "Vía trasera": "1.520 mm",
+                    "Coeficiente Cx": "0,29",
+                    "Superficie frontal": "2,46 m²",
+                    "Factor de resistencia": "0,71",
+                    "Peso": "1.610 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "7",
+                    "Distribución de asientos": "7"
+                },
+                {
+                    "Potencia máxima": "143 CV / 105 kW",
+                    "Par máximo": "360 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasóleo",
+                    "Potencia máxima": "143 CV / 105 kW",
+                    "Revoluciones potencia máxima": "3.500 rpm",
+                    "Par máximo": "360 Nm",
+                    "Revoluciones par máximo": "2.000 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "86 mm",
+                    "Carrera": "86 mm",
+                    "Cilindrada": "1.998 cm³",
+                    "Relación de compresión": "16,7 a 1",
+                    "Alimentación": "Inyección directa. Turbo. Geometría variable. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "6",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "300 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "302 mm",
+                    "Neumáticos delanteros": "205/55 R16",
+                    "Neumáticos traseros": "205/55 R16",
+                    "Llantas delanteras": "6.5 x 16",
+                    "Llantas Traseras": "6.5 x 16"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)25.450 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "20.691 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "7 %",
+                    "Tarifa de": "02/2007"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Airbag laterales delanteros": "De serie",
+                    "Airbag laterales traseros": "No disponible",
+                    "Anclajes Isofix en asientos laterales de segunda fila": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Asistencia de frenado de emergencia (EBA)": "De serie",
+                    "Cinturones delanteros con pretensores y limitadores de carga": "De serie",
+                    "Control de estabilidad (DSC)": "De serie",
+                    "Control de traccion (TCS)": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Distribución electrónica de frenado (EBD)": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Faros de xenón": "De serie",
+                    "Ordenador de viaje": "De serie",
+                    "Programador de velocidad": "No disponible",
+                    "Retrovisores exteriores termicos": "De serie",
+                    "Volante con ajuste horizontal": "De serie",
+                    "Volante con ajuste vertical": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Apertura portón trasero en dos etapas": "De serie",
+                    "Asiento del conductor con ajuste de altura": "De serie",
+                    "Asiento del conductor con ajuste eléctrico": "No disponible",
+                    "Asiento del conductor con ajuste lumbar": "De serie",
+                    "Asientos delanteros con calefacción": "No disponible",
+                    "Asientos segunda y tercera fila deslizantes": "De serie",
+                    "Cierre centralizado": "De serie",
+                    "Climatizador": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Elevalunas electricos traseros": "De serie",
+                    "Luces automáticas": "No disponible",
+                    "Mando de apertura a distancia": "De serie",
+                    "Retrovisores exteriores eléctricos": "De serie",
+                    "Sensor lluvia": "De serie"
+                },
+                {
+                    "Pintura metalizada": "400 €",
+                    "Tapiceria de cuero": "No disponible",
+                    "Volante de cuero": "De serie"
+                },
+                {
+                    "Asientos de la segunda fila plegables en dos partes": "De serie",
+                    "Asientos tercera fila abatibles 50:50": "De serie",
+                    "Puertas posteriores correderas": "De serie",
+                    "Tres asientos individuales en segunda fila": "De serie"
+                },
+                {
+                    "Cargador de CD": "No disponible",
+                    "Navegador": "No disponible",
+                    "Radio CD": "De serie",
+                    "Teléfono": "No disponible"
+                },
+                {},
+                {
+                    "Llantas de aleación 16\"": "De serie"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "5 Sportive CRTD 143cv",
+            "start_year": "2005",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/mazda/mazda5/2005/estandar/sportive/5-sportive-crtd-143cv/datos",
+            "price": "Precio",
+            "potencia": "143",
+            "consumo": "6,3",
+            "longitud": "4.555",
+            "maletero": "426",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "26.000 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "21.138 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "7 %",
+                    "Tarifa de": "02/2007"
+                },
+                {
+                    "Velocidad máxima": "197 km/h",
+                    "Aceleración 0-100 km/h": "10,4 s",
+                    "Emisiones de CO₂ NEDC": "173 gr/km",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "Sin distintivo"
+                },
+                {
+                    "Tipo de Carrocería": "Monovolumen",
+                    "Número de puertas": "5",
+                    "Longitud": "4.555 mm",
+                    "Anchura": "1.755 mm",
+                    "Altura": "1.615 mm",
+                    "Batalla": "2.750 mm",
+                    "Vía delantera": "1.530 mm",
+                    "Vía trasera": "1.520 mm",
+                    "Coeficiente Cx": "0,29",
+                    "Superficie frontal": "2,46 m²",
+                    "Factor de resistencia": "0,71",
+                    "Peso": "1.610 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "7",
+                    "Distribución de asientos": "7"
+                },
+                {
+                    "Potencia máxima": "143 CV / 105 kW",
+                    "Par máximo": "360 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasóleo",
+                    "Potencia máxima": "143 CV / 105 kW",
+                    "Revoluciones potencia máxima": "3.500 rpm",
+                    "Par máximo": "360 Nm",
+                    "Revoluciones par máximo": "2.000 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "86 mm",
+                    "Carrera": "86 mm",
+                    "Cilindrada": "1.998 cm³",
+                    "Relación de compresión": "16,7 a 1",
+                    "Alimentación": "Inyección directa. Turbo. Geometría variable. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "6",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "300 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "302 mm",
+                    "Neumáticos delanteros": "205/50 R17",
+                    "Neumáticos traseros": "205/50 R17",
+                    "Llantas delanteras": "6.5 x 17",
+                    "Llantas Traseras": "6.5 x 17"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)26.000 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "21.138 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "7 %",
+                    "Tarifa de": "02/2007"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Airbag laterales delanteros": "De serie",
+                    "Airbag laterales traseros": "No disponible",
+                    "Anclajes Isofix en asientos laterales de segunda fila": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Asistencia de frenado de emergencia (EBA)": "De serie",
+                    "Camara de visión trasera": "Sólo en paquete",
+                    "Cinturones delanteros con pretensores y limitadores de carga": "De serie",
+                    "Control de estabilidad (DSC)": "De serie",
+                    "Control de traccion (TCS)": "De serie",
+                    "Control velocidad": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Distribución electrónica de frenado (EBD)": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Faros de xenón": "De serie",
+                    "Ordenador de viaje": "De serie",
+                    "Retrovisores exteriores termicos": "De serie",
+                    "Volante con ajuste horizontal": "De serie",
+                    "Volante con ajuste vertical": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Apertura portón trasero en dos etapas": "De serie",
+                    "Asiento del conductor con ajuste de altura": "De serie",
+                    "Asiento del conductor con ajuste eléctrico": "No disponible",
+                    "Asiento del conductor con ajuste lumbar": "De serie",
+                    "Asientos delanteros con calefacción": "No disponible",
+                    "Asientos segunda y tercera fila deslizantes": "De serie",
+                    "Cierre centralizado": "De serie",
+                    "Climatizador": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Elevalunas electricos traseros": "De serie",
+                    "Luces automáticas": "No disponible",
+                    "Retrovisores exteriores eléctricos": "De serie",
+                    "Sensor lluvia": "De serie",
+                    "Tarjeta inteligente": "De serie",
+                    "Ventanas sobretintadas traseras": "De serie"
+                },
+                {
+                    "Pintura metalizada": "400 €",
+                    "Tapiceria de cuero": "No disponible",
+                    "Volante de cuero": "De serie"
+                },
+                {
+                    "Asientos de la segunda fila plegables en dos partes": "De serie",
+                    "Asientos tercera fila abatibles 50:50": "De serie",
+                    "Puertas posteriores correderas": "De serie",
+                    "Tres asientos individuales en segunda fila": "De serie"
+                },
+                {
+                    "Cargador de CD": "No disponible",
+                    "Navegador con DVD": "Sólo en paquete",
+                    "Radio CD": "De serie",
+                    "Servidor de música HDD": "Sólo en paquete",
+                    "Sistema de entretenimiento plazas traseras con DVD": "Sólo en paquete",
+                    "Teléfono": "No disponible"
+                },
+                {},
+                {
+                    "Llantas de aleación 17\"": "De serie"
+                },
+                {}
+            ]
+        }
+    ]
+}

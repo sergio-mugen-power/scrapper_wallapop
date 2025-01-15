@@ -1,0 +1,63 @@
+{
+    "name": "AMG GT Coupé",
+    "year": "2019",
+    "url": "https://www.km77.com/coches/mercedes/amg-gt/2019/coupe",
+    "price": "Desde 142.175 €",
+    "versions": [
+        {
+            "name": "Mercedes-AMG GT Coupé",
+            "start_year": "2018",
+            "end_year": "2019",
+            "url": "https://www.km77.com/coches/mercedes/amg-gt/2019/coupe/estandar/amg-gt-coupe/datos",
+            "price": "Precio",
+            "potencia": "476",
+            "consumo": "12,1",
+            "longitud": "4.544",
+            "maletero": "175"
+        },
+        {
+            "name": "Mercedes-AMG GT S Coupé",
+            "start_year": "2018",
+            "end_year": "2020",
+            "url": "https://www.km77.com/coches/mercedes/amg-gt/2019/coupe/s/amg-gt-s-coupe/datos",
+            "price": "Precio",
+            "potencia": "522",
+            "consumo": "12,2",
+            "longitud": "4.544",
+            "maletero": "175"
+        },
+        {
+            "name": "Mercedes-AMG GT C Coupé",
+            "start_year": "2018",
+            "end_year": "2022",
+            "url": "https://www.km77.com/coches/mercedes/amg-gt/2019/coupe/c/amg-gt-c-coupe/datos",
+            "price": "Precio",
+            "potencia": "557",
+            "consumo": "12,7",
+            "longitud": "4.551",
+            "maletero": "175"
+        },
+        {
+            "name": "Mercedes-AMG GT R Coupé",
+            "start_year": "2018",
+            "end_year": "2022",
+            "url": "https://www.km77.com/coches/mercedes/amg-gt/2019/coupe/r/amg-gt-r-coupe/datos",
+            "price": "Precio",
+            "potencia": "585",
+            "consumo": "12,7",
+            "longitud": "4.551",
+            "maletero": "175"
+        },
+        {
+            "name": "Mercedes-AMG GT Black Series Coupé",
+            "start_year": "2020",
+            "end_year": "2022",
+            "url": "https://www.km77.com/coches/mercedes/amg-gt/2019/coupe/black-series/amg-gt-black-series/datos",
+            "price": "Precio",
+            "potencia": "730",
+            "consumo": "12,8",
+            "longitud": "4.604",
+            "maletero": "170"
+        }
+    ]
+}

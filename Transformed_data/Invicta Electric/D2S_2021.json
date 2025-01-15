@@ -1,0 +1,30 @@
+{
+    "name": "D2S",
+    "year": "2021",
+    "url": "https://www.km77.com/coches/invicta-electric/d2s/2021/estandar",
+    "price": "Desde 16.995 €",
+    "versions": [
+        {
+            "name": "D2S 17 kWh (12/2020 - )",
+            "start_year": "2020",
+            "end_year": "",
+            "url": "https://www.km77.com/coches/invicta-electric/d2s/2021/estandar/estandar/d2s-17kw-m1/datos",
+            "price": "16.995",
+            "potencia": "49",
+            "consumo": "-",
+            "longitud": "2.811",
+            "maletero": "-"
+        },
+        {
+            "name": "D2S 27 kWh (12/2020 - )",
+            "start_year": "2020",
+            "end_year": "",
+            "url": "https://www.km77.com/coches/invicta-electric/d2s/2021/estandar/estandar/d2s-27-kw-m1/datos",
+            "price": "19.895",
+            "potencia": "49",
+            "consumo": "-",
+            "longitud": "2.811",
+            "maletero": "-"
+        }
+    ]
+}

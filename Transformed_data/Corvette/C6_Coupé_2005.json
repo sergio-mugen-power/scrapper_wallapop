@@ -1,0 +1,63 @@
+{
+    "name": "C6 Coupé",
+    "year": "2005",
+    "url": "https://www.km77.com/coches/corvette/c6/2005/coupe",
+    "price": "",
+    "versions": [
+        {
+            "name": "6.0 V8 Coupe Aut.",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/corvette/c6/2005/coupe/estandar/60-v8-coupe-aut/datos",
+            "price": "Precio",
+            "potencia": "404",
+            "consumo": "12,4",
+            "longitud": "4.435",
+            "maletero": "634"
+        },
+        {
+            "name": "C6 6.0 V8 Coupe Aut. Magnetic Selective Ride Control",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/corvette/c6/2005/coupe/estandar/c6-60-v8-coupe-aut-magnetic-selective-ride-control/datos",
+            "price": "Precio",
+            "potencia": "404",
+            "consumo": "12,4",
+            "longitud": "4.435",
+            "maletero": "634"
+        },
+        {
+            "name": "C6 6.0 V8 Coupe Magnetic Selective Ride Control",
+            "start_year": "2004",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/corvette/c6/2005/coupe/estandar/c6-60-v8-coupe-magnetic-selective-ride-control/datos",
+            "price": "Precio",
+            "potencia": "404",
+            "consumo": "11,7",
+            "longitud": "4.435",
+            "maletero": "634"
+        },
+        {
+            "name": "6.0 V8 Coupé",
+            "start_year": "2004",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/corvette/c6/2005/coupe/estandar/60-v8-coupe/datos",
+            "price": "Precio",
+            "potencia": "404",
+            "consumo": "13",
+            "longitud": "4.435",
+            "maletero": "634"
+        },
+        {
+            "name": "6.0 V8 Coupé Aut.",
+            "start_year": "2005",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/corvette/c6/2005/coupe/estandar/60-v8-coupe-aut2/datos",
+            "price": "Precio",
+            "potencia": "404",
+            "consumo": "13",
+            "longitud": "4.435",
+            "maletero": "634"
+        }
+    ]
+}

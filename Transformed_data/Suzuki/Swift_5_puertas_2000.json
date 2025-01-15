@@ -1,0 +1,60 @@
+{
+    "name": "Swift 5 puertas",
+    "year": "2000",
+    "url": "https://www.km77.com/coches/suzuki/swift/2000/5-puertas",
+    "price": "Desde 18.500 €",
+    "versions": [
+        {
+            "name": "Swift 1.3 16V 5p",
+            "start_year": "2000",
+            "end_year": "2001",
+            "url": "https://www.km77.com/coches/suzuki/swift/2000/5-puertas/estandar/swift-13-16v-5p/datos",
+            "price": "8.937",
+            "potencia": "68",
+            "consumo": "5,9",
+            "longitud": "3.845",
+            "maletero": "280",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "Swift 1.3 16V 5p",
+            "start_year": "2001",
+            "end_year": "2003",
+            "url": "https://www.km77.com/coches/suzuki/swift/2000/5-puertas/estandar/swift-13-16v-5p2/datos",
+            "price": "9.316",
+            "potencia": "86",
+            "consumo": "5,6",
+            "longitud": "3.845",
+            "maletero": "280",
+            "specs": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        }
+    ]
+}

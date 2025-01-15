@@ -1,0 +1,63 @@
+{
+    "name": "A110",
+    "year": "2018",
+    "url": "https://www.km77.com/coches/alpine/a110/2018/estandar",
+    "price": "Desde 60.700 €",
+    "versions": [
+        {
+            "name": "A110 (01/2022 - )",
+            "start_year": "2022",
+            "end_year": "",
+            "url": "https://www.km77.com/coches/alpine/a110/2018/estandar/estandar/a1102/datos",
+            "price": "67.800",
+            "potencia": "252",
+            "consumo": "6,7",
+            "longitud": "4.180",
+            "maletero": "196"
+        },
+        {
+            "name": "A110 GT (01/2022 - )",
+            "start_year": "2022",
+            "end_year": "",
+            "url": "https://www.km77.com/coches/alpine/a110/2018/estandar/estandar/a110-gt/datos",
+            "price": "79.100",
+            "potencia": "300",
+            "consumo": "6,8",
+            "longitud": "4.180",
+            "maletero": "196"
+        },
+        {
+            "name": "A110 S (01/2022 - )",
+            "start_year": "2022",
+            "end_year": "",
+            "url": "https://www.km77.com/coches/alpine/a110/2018/estandar/estandar/a110-s/datos",
+            "price": "80.900",
+            "potencia": "300",
+            "consumo": "6,9",
+            "longitud": "4.180",
+            "maletero": "196"
+        },
+        {
+            "name": "A110 R Turini (12/2023 - )",
+            "start_year": "2023",
+            "end_year": "",
+            "url": "https://www.km77.com/coches/alpine/a110/2018/estandar/r/a110-r-turini/datos",
+            "price": "108.000",
+            "potencia": "300",
+            "consumo": "6,8",
+            "longitud": "4.180",
+            "maletero": "196"
+        },
+        {
+            "name": "A110 R Ultime (10/2024 - )",
+            "start_year": "2024",
+            "end_year": "",
+            "url": "https://www.km77.com/coches/alpine/a110/2018/estandar/r-ultime/a110-r-ultime/datos",
+            "price": "265.000",
+            "potencia": "345",
+            "consumo": "-",
+            "longitud": "4.180",
+            "maletero": "196"
+        }
+    ]
+}

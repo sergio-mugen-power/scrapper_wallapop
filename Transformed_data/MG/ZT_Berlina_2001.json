@@ -1,0 +1,159 @@
+{
+    "name": "ZT Berlina",
+    "year": "2001",
+    "url": "https://www.km77.com/coches/mg/zt/2001/berlina",
+    "price": "",
+    "versions": [
+        {
+            "name": "ZT 190 Core",
+            "start_year": "2001",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/mg/zt/2001/berlina/core/zt-190-core/datos",
+            "price": "Precio",
+            "potencia": "190",
+            "consumo": "9,9",
+            "longitud": "4.747",
+            "maletero": "432",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "33.795 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "26.402 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "01/2003"
+                },
+                {
+                    "Velocidad máxima": "227 km/h",
+                    "Aceleración 0-100 km/h": "8,3 s",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "B"
+                },
+                {
+                    "Tipo de Carrocería": "Turismo",
+                    "Número de puertas": "4",
+                    "Longitud": "4.747 mm",
+                    "Anchura": "1.778 mm",
+                    "Altura": "1.424 mm",
+                    "Batalla": "2.746 mm",
+                    "Vía delantera": "1.505 mm",
+                    "Vía trasera": "1.505 mm",
+                    "Coeficiente Cx": "0,32",
+                    "Peso": "1.625 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Potencia máxima": "190 CV / 140 kW",
+                    "Par máximo": "245 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "190 CV / 140 kW",
+                    "Revoluciones potencia máxima": "6.500 rpm",
+                    "Par máximo": "245 Nm",
+                    "Revoluciones par máximo": "4.000 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "6",
+                    "Disposición de los cilindros": "En V",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "80 mm",
+                    "Carrera": "82,8 mm",
+                    "Cilindrada": "2.497 cm³",
+                    "Relación de compresión": "10,5 a 1",
+                    "Alimentación": "Inyección Indirecta. Admisión Variable",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "5",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "No disponible",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "325 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "280 mm",
+                    "Neumáticos delanteros": "225/45 R18",
+                    "Neumáticos traseros": "225/45 R18",
+                    "Llantas delanteras": "7.5 x 18",
+                    "Llantas Traseras": "7.5 x 18"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)33.795 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "26.402 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "01/2003"
+                },
+                {
+                    "Airbag de cabeza delantero": "220 €",
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Airbag lateral delantero": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Cuentavueltas": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Faros de xenón": "De serie",
+                    "Ordenador de viaje": "1 €",
+                    "Programador de velocidad": "313 €",
+                    "Regulación de altura de faros": "De serie",
+                    "Termómetro de agua": "De serie",
+                    "Volante con ajuste horizontal": "De serie",
+                    "Volante con ajuste vertical": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Asiento del conductor con ajuste de altura": "De serie",
+                    "Asientos delanteros con calefacción": "344 €",
+                    "Cierre centralizado": "De serie",
+                    "Climatizador": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Elevalunas electricos traseros": "De serie",
+                    "Espejos eléctricos": "De serie",
+                    "Limpiaparabrisas automático": "125 €",
+                    "Mando de apertura y cierre a distancia": "De serie",
+                    "Techo corredizo": "813 €"
+                },
+                {
+                    "Paragolpes pintados": "De serie",
+                    "Pintura metalizada": "513 €"
+                },
+                {
+                    "Respaldo posterior abatible": "De serie"
+                },
+                {
+                    "Cargador de CD": "De serie",
+                    "Diez altavoces": "De serie",
+                    "Navegador": "1.720 €",
+                    "Radiocasete": "De serie"
+                },
+                {},
+                {
+                    "Llantas de aleación": "De serie"
+                },
+                {
+                    "Alarma antirrobo": "De serie",
+                    "Inmovilizador": "De serie"
+                },
+                {}
+            ]
+        }
+    ]
+}

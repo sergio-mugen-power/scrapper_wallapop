@@ -1,0 +1,368 @@
+{
+    "name": "Barchetta",
+    "year": "1995",
+    "url": "https://www.km77.com/coches/fiat/barchetta/1995/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "Barchetta 1.8 16v Naxos",
+            "start_year": "2001",
+            "end_year": "2003",
+            "url": "https://www.km77.com/coches/fiat/barchetta/1995/estandar/naxos/barchetta-18-16v-naxos/datos",
+            "price": "Precio",
+            "potencia": "131",
+            "consumo": "8,4",
+            "longitud": "3.916",
+            "maletero": "165",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "19.780 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "15.453 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "12/2002"
+                },
+                {
+                    "Velocidad máxima": "200 km/h",
+                    "Aceleración 0-100 km/h": "8,9 s",
+                    "Distintivo ambiental DGT": "B"
+                },
+                {
+                    "Tipo de Carrocería": "Descapotable",
+                    "Número de puertas": "2",
+                    "Longitud": "3.916 mm",
+                    "Anchura": "1.640 mm",
+                    "Altura": "1.265 mm",
+                    "Batalla": "2.275 mm",
+                    "Vía delantera": "1.412 mm",
+                    "Vía trasera": "1.407 mm",
+                    "Peso": "1.210 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "2",
+                    "Distribución de asientos": "2"
+                },
+                {
+                    "Potencia máxima": "131 CV / 96 kW",
+                    "Par máximo": "164 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "131 CV / 96 kW",
+                    "Revoluciones potencia máxima": "6.300 rpm",
+                    "Par máximo": "164 Nm",
+                    "Revoluciones par máximo": "4.300 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "82 mm",
+                    "Carrera": "82,7 mm",
+                    "Cilindrada": "1.747 cm³",
+                    "Relación de compresión": "10,3 a 1",
+                    "Alimentación": "Inyección Indirecta. Admisión Variable",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "5"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "257 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "240 mm",
+                    "Neumáticos delanteros": "195/55 R15 V",
+                    "Neumáticos traseros": "195/55 R15 V",
+                    "Llantas delanteras": "6.5 x 15",
+                    "Llantas Traseras": "6.5 x 15"
+                },
+                {
+                    "Precio (con descuento y equipamiento seleccionado)19.780 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "15.453 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "12/2002"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Cuentavueltas": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Faros antiniebla": "97 €",
+                    "Volante con ajuste vertical": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Cierre centralizado": "325 €",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Espejos eléctricos": "1 €"
+                },
+                {
+                    "Paragolpes pintados": "De serie",
+                    "Pintura metalizada": "211 €",
+                    "Tapiceria de cuero": "968 €"
+                },
+                {
+                    "Radiocasete": "De serie"
+                },
+                {
+                    "Llantas de aleación": "De serie"
+                },
+                {},
+                {
+                    "Alarma antirrobo": "313 €",
+                    "Inmovilizador": "De serie"
+                }
+            ]
+        },
+        {
+            "name": "Barchetta 1.8 16v",
+            "start_year": "1995",
+            "end_year": "2001",
+            "url": "https://www.km77.com/coches/fiat/barchetta/1995/estandar/estandar/barchetta-18-16v/datos",
+            "price": "Precio",
+            "potencia": "131",
+            "consumo": "8,4",
+            "longitud": "3.916",
+            "maletero": "165",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "21.546 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "16.833 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "01/2000"
+                },
+                {
+                    "Velocidad máxima": "200 km/h",
+                    "Aceleración 0-100 km/h": "8,9 s",
+                    "Distintivo ambiental DGT": "Sin distintivo"
+                },
+                {
+                    "Tipo de Carrocería": "Descapotable",
+                    "Número de puertas": "2",
+                    "Longitud": "3.916 mm",
+                    "Anchura": "1.640 mm",
+                    "Altura": "1.265 mm",
+                    "Batalla": "2.275 mm",
+                    "Vía delantera": "1.412 mm",
+                    "Vía trasera": "1.407 mm",
+                    "Peso": "1.135 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "2",
+                    "Distribución de asientos": "2"
+                },
+                {
+                    "Potencia máxima": "131 CV / 96 kW",
+                    "Par máximo": "164 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "131 CV / 96 kW",
+                    "Revoluciones potencia máxima": "6.300 rpm",
+                    "Par máximo": "164 Nm",
+                    "Revoluciones par máximo": "4.300 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "82 mm",
+                    "Carrera": "82,7 mm",
+                    "Cilindrada": "1.747 cm³",
+                    "Relación de compresión": "10,3 a 1",
+                    "Alimentación": "Inyección Indirecta. Admisión Variable",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "5"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "257 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "240 mm",
+                    "Neumáticos delanteros": "195/55 R15 V",
+                    "Neumáticos traseros": "195/55 R15 V",
+                    "Llantas delanteras": "6.5 x 15",
+                    "Llantas Traseras": "6.5 x 15"
+                },
+                {
+                    "Precio (con descuento y equipamiento seleccionado)21.546 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "16.833 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "01/2000"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "360 €",
+                    "Antibloqueo de frenos (ABS)": "781 €",
+                    "Direccion asistida": "De serie",
+                    "Faros antiniebla": "96 €"
+                },
+                {
+                    "Aire acondicionado": "991 €",
+                    "Cierre centralizado": "324 €",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Espejos eléctricos": "0 €"
+                },
+                {
+                    "Paragolpes pintados": "De serie",
+                    "Pintura metalizada": "210 €",
+                    "Tapiceria de cuero": "967 €"
+                },
+                {
+                    "Llantas de aleación": "360 €"
+                },
+                {
+                    "Alarma antirrobo": "312 €",
+                    "Inmovilizador": "De serie"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "Barchetta 1.8 16V Lido",
+            "start_year": "2001",
+            "end_year": "2001",
+            "url": "https://www.km77.com/coches/fiat/barchetta/1995/estandar/lido/barchetta-18-16v-lido/datos",
+            "price": "Precio",
+            "potencia": "131",
+            "consumo": "8,4",
+            "longitud": "3.916",
+            "maletero": "165",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "21.757 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "16.997 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "02/2001"
+                },
+                {
+                    "Velocidad máxima": "200 km/h",
+                    "Aceleración 0-100 km/h": "8,9 s",
+                    "Distintivo ambiental DGT": "B"
+                },
+                {
+                    "Tipo de Carrocería": "Descapotable",
+                    "Número de puertas": "2",
+                    "Longitud": "3.916 mm",
+                    "Anchura": "1.640 mm",
+                    "Altura": "1.265 mm",
+                    "Batalla": "2.275 mm",
+                    "Vía delantera": "1.412 mm",
+                    "Vía trasera": "1.407 mm",
+                    "Peso": "1.135 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "2",
+                    "Distribución de asientos": "2"
+                },
+                {
+                    "Potencia máxima": "131 CV / 96 kW",
+                    "Par máximo": "164 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "131 CV / 96 kW",
+                    "Revoluciones potencia máxima": "6.300 rpm",
+                    "Par máximo": "164 Nm",
+                    "Revoluciones par máximo": "4.300 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "82 mm",
+                    "Carrera": "82,7 mm",
+                    "Cilindrada": "1.747 cm³",
+                    "Relación de compresión": "10,3 a 1",
+                    "Alimentación": "Inyección Indirecta. Admisión Variable",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "5"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "257 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "240 mm",
+                    "Neumáticos delanteros": "195/55 R15 V",
+                    "Neumáticos traseros": "195/55 R15 V",
+                    "Llantas delanteras": "6.5 x 15",
+                    "Llantas Traseras": "6.5 x 15"
+                },
+                {
+                    "Precio (con descuento y equipamiento seleccionado)21.757 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "16.997 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "02/2001"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "360 €",
+                    "Antibloqueo de frenos (ABS)": "781 €",
+                    "Cuentavueltas": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Faros antiniebla": "96 €"
+                },
+                {
+                    "Aire acondicionado": "991 €",
+                    "Cierre centralizado": "324 €",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Espejos eléctricos": "0 €"
+                },
+                {
+                    "Paragolpes pintados": "De serie",
+                    "Pintura metalizada": "210 €",
+                    "Tapiceria de cuero": "967 €"
+                },
+                {
+                    "Llantas de aleación": "360 €"
+                },
+                {
+                    "Alarma antirrobo": "312 €",
+                    "Inmovilizador": "De serie"
+                },
+                {}
+            ]
+        }
+    ]
+}
