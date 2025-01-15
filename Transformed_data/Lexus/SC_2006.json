@@ -1,0 +1,532 @@
+{
+    "name": "SC",
+    "year": "2006",
+    "url": "https://www.km77.com/coches/lexus/sc/2006/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "SC 430",
+            "start_year": "2005",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/lexus/sc/2006/estandar/estandar/sc-430/datos",
+            "price": "87.560",
+            "potencia": "286",
+            "consumo": "11,4",
+            "longitud": "4.535",
+            "maletero": "368",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "87.560 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "68.406 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "07/2007"
+                },
+                {
+                    "Velocidad máxima": "250 km/h",
+                    "Aceleración 0-100 km/h": "6,2 s",
+                    "Emisiones de CO₂ NEDC": "269 gr/km",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "C"
+                },
+                {
+                    "Tipo de Carrocería": "Descapotable",
+                    "Número de puertas": "2",
+                    "Longitud": "4.535 mm",
+                    "Anchura": "1.825 mm",
+                    "Altura": "1.370 mm",
+                    "Batalla": "2.620 mm",
+                    "Vía delantera": "1.550 mm",
+                    "Vía trasera": "1.535 mm",
+                    "Coeficiente Cx": "0,29",
+                    "Peso": "1.815 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "4",
+                    "Distribución de asientos": "2 + 2"
+                },
+                {
+                    "Potencia máxima": "286 CV / 210 kW",
+                    "Par máximo": "419 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "286 CV / 210 kW",
+                    "Revoluciones potencia máxima": "5.600 rpm",
+                    "Par máximo": "419 Nm",
+                    "Revoluciones par máximo": "3.500 rpm",
+                    "Situación": "Delantero longitudinal",
+                    "Número de cilindros": "8",
+                    "Disposición de los cilindros": "En V",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "91 mm",
+                    "Carrera": "82,5 mm",
+                    "Cilindrada": "4.293 cm³",
+                    "Relación de compresión": "10,5 a 1",
+                    "Alimentación": "Inyección Indirecta. Admisión Variable",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Trasera",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "6",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "296 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "307 mm",
+                    "Neumáticos delanteros": "245/40 R18 Z",
+                    "Neumáticos traseros": "245/40 R18 Z",
+                    "Llantas delanteras": "x 18",
+                    "Llantas Traseras": "x 18"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)87.560 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "68.406 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "07/2007"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Airbag laterales delanteros": "De serie",
+                    "Airbag laterales traseros": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Asientos delanteros con sistema WIL (disminución de lesiones en cuello)": "De serie",
+                    "Asistente de frenado (BA)": "De serie",
+                    "Barras antivuelco integradas": "De serie",
+                    "Cinturones de seguridad delanteros con pretensores": "De serie",
+                    "Control de crucero": "De serie",
+                    "Control de estabilidad (VSC)": "De serie",
+                    "Control de presión en neumáticos (TPWS)": "De serie",
+                    "Control de tracción (TRC)": "De serie",
+                    "Direccion asistida variable según velocidad": "De serie",
+                    "Distribución electrónica de frenado (EBD)": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Faros de xenón": "De serie",
+                    "Iluminación frontal activa inteligente (AFS)": "De serie",
+                    "Lunas laterales delanteras repelentes al agua": "De serie",
+                    "Ordenador de viaje": "De serie",
+                    "Retrovisor interior electrocrómico": "De serie",
+                    "Retrovisores exteriores calefactados": "De serie",
+                    "Retrovisores exteriores electrocrómicos": "De serie",
+                    "Volante con ajuste horizontal": "De serie",
+                    "Volante con ajuste vertical": "De serie",
+                    "Volante con ajustes eléctricos": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Apertura remota del depósito de combustible": "De serie",
+                    "Apoyabrazos central delantero": "De serie",
+                    "Asiento del conductor con ajuste de altura": "De serie",
+                    "Asientos delanteros con calefacción": "De serie",
+                    "Asientos delanteros con soporte lumbar": "De serie",
+                    "Asientos delanteros eléctricos": "De serie",
+                    "Cierre centralizado": "De serie",
+                    "Climatizador bizona": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Elevalunas electricos traseros": "No disponible",
+                    "Filtro de habitáculo": "De serie",
+                    "Limpiaparabrisas con sensor de lluvia": "De serie",
+                    "Luces automáticas": "No disponible",
+                    "Lunas con filtro UV": "De serie",
+                    "Memoria de ajustes en asientos delanteros": "De serie",
+                    "Recirculación automática de aire": "De serie",
+                    "Retrovisores exteriores eléctricos": "De serie",
+                    "Techo duro retráctil de accionamiento eléctrico": "De serie"
+                },
+                {
+                    "Pintura metalizada": "0 €",
+                    "Tapiceria de cuero": "De serie"
+                },
+                {
+                    "Asientos posteriores (segunda fila) abatibles": "No disponible"
+                },
+                {
+                    "9 altavoces": "De serie",
+                    "Cargador frontal de 6 CD": "De serie",
+                    "Conexión Bluetooth para teléfono": "De serie",
+                    "Navegador DVD con pantalla táctil": "De serie",
+                    "Radio cassette": "De serie",
+                    "Reconocimiento de voz": "De serie",
+                    "Sonido premium Mark Levinson de 8 canales": "De serie",
+                    "Teléfono": "No disponible"
+                },
+                {},
+                {
+                    "Llantas de aleación 18\"": "De serie",
+                    "Neumáticos con sistema antipinchazo": "De serie"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "SC 430",
+            "start_year": "2008",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/lexus/sc/2006/estandar/estandar/sc-4302/datos",
+            "price": "89.440",
+            "potencia": "286",
+            "consumo": "11,4",
+            "longitud": "4.535",
+            "maletero": "368",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "89.440 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "68.405 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "14,75 %",
+                    "Tarifa de": "05/2010"
+                },
+                {
+                    "Velocidad máxima": "250 km/h",
+                    "Aceleración 0-100 km/h": "6,2 s",
+                    "Emisiones de CO₂ NEDC": "269 gr/km",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "C"
+                },
+                {
+                    "Tipo de Carrocería": "Descapotable",
+                    "Número de puertas": "2",
+                    "Longitud": "4.535 mm",
+                    "Anchura": "1.825 mm",
+                    "Altura": "1.370 mm",
+                    "Batalla": "2.620 mm",
+                    "Vía delantera": "1.550 mm",
+                    "Vía trasera": "1.535 mm",
+                    "Coeficiente Cx": "0,29",
+                    "Peso": "1.815 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "4",
+                    "Distribución de asientos": "2 + 2"
+                },
+                {
+                    "Potencia máxima": "286 CV / 210 kW",
+                    "Par máximo": "419 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "286 CV / 210 kW",
+                    "Revoluciones potencia máxima": "5.600 rpm",
+                    "Par máximo": "419 Nm",
+                    "Revoluciones par máximo": "3.500 rpm",
+                    "Situación": "Delantero longitudinal",
+                    "Número de cilindros": "8",
+                    "Disposición de los cilindros": "En V",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "91 mm",
+                    "Carrera": "82,5 mm",
+                    "Cilindrada": "4.293 cm³",
+                    "Relación de compresión": "10,5 a 1",
+                    "Alimentación": "Inyección Indirecta. Admisión Variable",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Trasera",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "6",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "296 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "307 mm",
+                    "Neumáticos delanteros": "245/40 R18 Z",
+                    "Neumáticos traseros": "245/40 R18 Z",
+                    "Llantas delanteras": "x",
+                    "Llantas Traseras": "x"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)89.440 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "68.405 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "14,75 %",
+                    "Tarifa de": "05/2010"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Airbag laterales delanteros": "De serie",
+                    "Airbag laterales traseros": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Asientos delanteros con sistema WIL (disminución de lesiones en cuello)": "De serie",
+                    "Asistente de frenado (BA)": "De serie",
+                    "Barras antivuelco integradas": "De serie",
+                    "Cinturones de seguridad delanteros con pretensores": "De serie",
+                    "Control de crucero": "De serie",
+                    "Control de estabilidad (VSC)": "De serie",
+                    "Control de presión en neumáticos (TPWS)": "De serie",
+                    "Control de tracción (TRC)": "De serie",
+                    "Direccion asistida variable según velocidad": "De serie",
+                    "Distribución electrónica de frenado (EBD)": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Faros de xenón": "De serie",
+                    "Iluminación frontal activa inteligente (AFS)": "De serie",
+                    "Lunas laterales delanteras repelentes al agua": "De serie",
+                    "Ordenador de viaje": "De serie",
+                    "Retrovisor interior electrocrómico": "De serie",
+                    "Retrovisores exteriores calefactados": "De serie",
+                    "Retrovisores exteriores electrocrómicos": "De serie",
+                    "Volante con ajuste horizontal": "De serie",
+                    "Volante con ajuste vertical": "De serie",
+                    "Volante con ajustes eléctricos": "De serie"
+                },
+                {
+                    "Acceso y arranque sin llave": "No disponible",
+                    "Aire acondicionado": "De serie",
+                    "Apertura remota del depósito de combustible": "De serie",
+                    "Apoyabrazos central delantero": "De serie",
+                    "Asiento del conductor con ajuste de altura": "De serie",
+                    "Asientos delanteros con calefacción": "De serie",
+                    "Asientos delanteros con soporte lumbar": "De serie",
+                    "Asientos delanteros eléctricos": "De serie",
+                    "Cierre centralizado": "De serie",
+                    "Climatizador bizona": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Elevalunas electricos traseros": "No disponible",
+                    "Espejos exteriores plegables eléctricamente": "No disponible",
+                    "Filtro de habitáculo": "De serie",
+                    "Limpiaparabrisas con sensor de lluvia": "De serie",
+                    "Luces automáticas": "No disponible",
+                    "Lunas con filtro UV": "De serie",
+                    "Memoria de ajustes en asientos delanteros": "De serie",
+                    "Recirculación automática de aire": "De serie",
+                    "Retrovisores exteriores eléctricos": "De serie",
+                    "Techo duro retráctil de accionamiento eléctrico": "De serie"
+                },
+                {
+                    "Pintura metalizada": "0 €",
+                    "Tapiceria de cuero": "De serie"
+                },
+                {
+                    "Asientos posteriores (segunda fila) abatibles": "No disponible"
+                },
+                {
+                    "9 altavoces": "De serie",
+                    "Cargador frontal de 6 CD": "De serie",
+                    "Conexión Bluetooth para teléfono": "De serie",
+                    "Navegador DVD con pantalla táctil": "De serie",
+                    "Radio cassette": "De serie",
+                    "Reconocimiento de voz": "De serie",
+                    "Sonido premium Mark Levinson de 8 canales": "De serie"
+                },
+                {},
+                {
+                    "Llantas de aleación 18\"": "De serie",
+                    "Neumáticos con sistema antipinchazo": "De serie"
+                },
+                {
+                    "Alarma antirrobo": "No disponible"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "SC 430",
+            "start_year": "2010",
+            "end_year": "2010",
+            "url": "https://www.km77.com/coches/lexus/sc/2006/estandar/estandar/sc-4303/datos",
+            "price": "90.810",
+            "potencia": "286",
+            "consumo": "11,4",
+            "longitud": "4.535",
+            "maletero": "368",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "90.810 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "68.407 €",
+                    "IVA": "18 %",
+                    "Impuesto de matriculación": "14,75 %",
+                    "Tarifa de": "08/2010"
+                },
+                {
+                    "Velocidad máxima": "250 km/h",
+                    "Aceleración 0-100 km/h": "6,2 s",
+                    "Emisiones de CO₂ NEDC": "269 gr/km",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "C"
+                },
+                {
+                    "Tipo de Carrocería": "Descapotable",
+                    "Número de puertas": "2",
+                    "Longitud": "4.535 mm",
+                    "Anchura": "1.825 mm",
+                    "Altura": "1.370 mm",
+                    "Batalla": "2.620 mm",
+                    "Vía delantera": "1.550 mm",
+                    "Vía trasera": "1.535 mm",
+                    "Coeficiente Cx": "0,29",
+                    "Peso": "1.815 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "4",
+                    "Distribución de asientos": "2 + 2"
+                },
+                {
+                    "Potencia máxima": "286 CV / 210 kW",
+                    "Par máximo": "419 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "286 CV / 210 kW",
+                    "Revoluciones potencia máxima": "5.600 rpm",
+                    "Par máximo": "419 Nm",
+                    "Revoluciones par máximo": "3.500 rpm",
+                    "Situación": "Delantero longitudinal",
+                    "Número de cilindros": "8",
+                    "Disposición de los cilindros": "En V",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "91 mm",
+                    "Carrera": "82,5 mm",
+                    "Cilindrada": "4.293 cm³",
+                    "Relación de compresión": "10,5 a 1",
+                    "Alimentación": "Inyección Indirecta. Admisión Variable",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Trasera",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "6",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "296 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "307 mm",
+                    "Neumáticos delanteros": "245/40 R18 Z",
+                    "Neumáticos traseros": "245/40 R18 Z",
+                    "Llantas delanteras": "x",
+                    "Llantas Traseras": "x"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)90.810 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "68.407 €",
+                    "IVA": "18 %",
+                    "Impuesto de matriculación": "14,75 %",
+                    "Tarifa de": "08/2010"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Airbag laterales delanteros": "De serie",
+                    "Airbag laterales traseros": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Asientos delanteros con sistema WIL (disminución de lesiones en cuello)": "De serie",
+                    "Asistente de frenado (BA)": "De serie",
+                    "Barras antivuelco integradas": "De serie",
+                    "Cinturones de seguridad delanteros con pretensores": "De serie",
+                    "Control de crucero": "De serie",
+                    "Control de estabilidad (VSC)": "De serie",
+                    "Control de presión en neumáticos (TPWS)": "De serie",
+                    "Control de tracción (TRC)": "De serie",
+                    "Direccion asistida variable según velocidad": "De serie",
+                    "Distribución electrónica de frenado (EBD)": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Faros de xenón (HID)": "De serie",
+                    "Iluminación frontal activa inteligente (AFS)": "De serie",
+                    "Lunas laterales delanteras repelentes al agua": "De serie",
+                    "Ordenador de viaje": "De serie",
+                    "Retrovisor interior electrocrómico": "De serie",
+                    "Retrovisores exteriores calefactados": "De serie",
+                    "Retrovisores exteriores electrocrómicos": "De serie",
+                    "Volante con ajuste horizontal": "De serie",
+                    "Volante con ajuste vertical": "De serie",
+                    "Volante con ajustes eléctricos": "De serie"
+                },
+                {
+                    "Acceso y arranque sin llave": "No disponible",
+                    "Aire acondicionado": "De serie",
+                    "Apertura remota del depósito de combustible": "De serie",
+                    "Apoyabrazos central delantero": "De serie",
+                    "Asiento del conductor con ajuste de altura": "De serie",
+                    "Asientos delanteros con calefacción": "De serie",
+                    "Asientos delanteros con soporte lumbar": "De serie",
+                    "Asientos delanteros eléctricos": "De serie",
+                    "Cierre centralizado": "De serie",
+                    "Climatizador bizona": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Elevalunas electricos traseros": "No disponible",
+                    "Espejos exteriores plegables eléctricamente": "No disponible",
+                    "Filtro de habitáculo": "De serie",
+                    "Limpiaparabrisas con sensor de lluvia": "De serie",
+                    "Luces automáticas": "No disponible",
+                    "Lunas con filtro UV": "De serie",
+                    "Memoria de ajustes en asientos delanteros": "De serie",
+                    "Recirculación automática de aire": "De serie",
+                    "Retrovisores exteriores eléctricos": "De serie",
+                    "Techo duro retráctil de accionamiento eléctrico": "De serie"
+                },
+                {
+                    "Pintura metalizada": "0 €",
+                    "Tapiceria de cuero": "De serie"
+                },
+                {
+                    "Asientos posteriores (segunda fila) abatibles": "No disponible"
+                },
+                {
+                    "9 altavoces": "De serie",
+                    "Cargador frontal de 6 CD": "De serie",
+                    "Conexión Bluetooth para teléfono": "De serie",
+                    "Navegador DVD con pantalla táctil": "De serie",
+                    "Radio cassette": "De serie",
+                    "Reconocimiento de voz": "De serie",
+                    "Sonido premium Mark Levinson de 8 canales": "De serie"
+                },
+                {},
+                {
+                    "Llantas de aleación 18\"": "De serie",
+                    "Neumáticos con sistema antipinchazo": "De serie"
+                },
+                {
+                    "Alarma antirrobo": "No disponible"
+                },
+                {}
+            ]
+        }
+    ]
+}

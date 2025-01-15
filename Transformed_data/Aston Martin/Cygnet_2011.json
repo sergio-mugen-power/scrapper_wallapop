@@ -1,0 +1,52 @@
+{
+    "name": "Cygnet",
+    "year": "2011",
+    "url": "https://www.km77.com/coches/aston-martin/cygnet/2011/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "Cygnet",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/aston-martin/cygnet/2011/estandar/estandar/cygnet-133-dual-vvt-i/datos",
+            "price": "39.959",
+            "potencia": "98",
+            "consumo": "5",
+            "longitud": "3.000",
+            "maletero": "-"
+        },
+        {
+            "name": "Cygnet",
+            "start_year": "2012",
+            "end_year": "2014",
+            "url": "https://www.km77.com/coches/aston-martin/cygnet/2011/estandar/estandar/cygnet/datos",
+            "price": "40.960",
+            "potencia": "98",
+            "consumo": "5",
+            "longitud": "3.000",
+            "maletero": "-"
+        },
+        {
+            "name": "Cygnet CVT",
+            "start_year": "2011",
+            "end_year": "2012",
+            "url": "https://www.km77.com/coches/aston-martin/cygnet/2011/estandar/estandar/cygnet-133-dual-vvt-i-multidrive/datos",
+            "price": "41.394",
+            "potencia": "98",
+            "consumo": "5,2",
+            "longitud": "3.000",
+            "maletero": "-"
+        },
+        {
+            "name": "Cygnet CVT",
+            "start_year": "2012",
+            "end_year": "2014",
+            "url": "https://www.km77.com/coches/aston-martin/cygnet/2011/estandar/estandar/cygnet-cvt/datos",
+            "price": "42.434",
+            "potencia": "98",
+            "consumo": "5,2",
+            "longitud": "3.000",
+            "maletero": "-"
+        }
+    ]
+}

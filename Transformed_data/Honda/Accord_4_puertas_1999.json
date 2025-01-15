@@ -1,0 +1,96 @@
+{
+    "name": "Accord 4 puertas",
+    "year": "1999",
+    "url": "https://www.km77.com/coches/honda/accord/1999/4-puertas",
+    "price": "",
+    "versions": [
+        {
+            "name": "Accord 4p 1.6i S",
+            "start_year": "2000",
+            "end_year": "2001",
+            "url": "https://www.km77.com/coches/honda/accord/1999/4-puertas/s/accord-4p-16i-s/datos",
+            "price": "Precio",
+            "potencia": "116",
+            "consumo": "8,2",
+            "longitud": "4.595",
+            "maletero": "427"
+        },
+        {
+            "name": "Accord 4p 1.6i LS",
+            "start_year": "2001",
+            "end_year": "2002",
+            "url": "https://www.km77.com/coches/honda/accord/1999/4-puertas/ls/accord-4p-16i-ls/datos",
+            "price": "Precio",
+            "potencia": "116",
+            "consumo": "8,2",
+            "longitud": "4.595",
+            "maletero": "427"
+        },
+        {
+            "name": "Accord 4p 1.8i LS VTEC",
+            "start_year": "2000",
+            "end_year": "2003",
+            "url": "https://www.km77.com/coches/honda/accord/1999/4-puertas/ls/accord-4p-18i-ls-vtec/datos",
+            "price": "Precio",
+            "potencia": "136",
+            "consumo": "8,6",
+            "longitud": "4.595",
+            "maletero": "427"
+        },
+        {
+            "name": "Accord 4p 1.8i LS VTEC SSS",
+            "start_year": "2000",
+            "end_year": "2002",
+            "url": "https://www.km77.com/coches/honda/accord/1999/4-puertas/ls/accord-4p-18i-ls-vtec-sss/datos",
+            "price": "Precio",
+            "potencia": "136",
+            "consumo": "9,3",
+            "longitud": "4.595",
+            "maletero": "427"
+        },
+        {
+            "name": "Accord 4p 2.0i TD",
+            "start_year": "2000",
+            "end_year": "2001",
+            "url": "https://www.km77.com/coches/honda/accord/1999/4-puertas/estandar/accord-4p-20i-td/datos",
+            "price": "Precio",
+            "potencia": "105",
+            "consumo": "6,4",
+            "longitud": "4.595",
+            "maletero": "427"
+        },
+        {
+            "name": "Accord 4p 2.3i ES VTEC",
+            "start_year": "2001",
+            "end_year": "2002",
+            "url": "https://www.km77.com/coches/honda/accord/1999/4-puertas/es/accord-4p-23i-es-vtec/datos",
+            "price": "Precio",
+            "potencia": "154",
+            "consumo": "8,8",
+            "longitud": "4.595",
+            "maletero": "427"
+        },
+        {
+            "name": "Accord 4p 2.0i ES VTEC",
+            "start_year": "2000",
+            "end_year": "2001",
+            "url": "https://www.km77.com/coches/honda/accord/1999/4-puertas/es/accord-4p-20i-es-vtec/datos",
+            "price": "Precio",
+            "potencia": "147",
+            "consumo": "8,6",
+            "longitud": "4.595",
+            "maletero": "427"
+        },
+        {
+            "name": "Accord 4p 2.2i Type R VTEC",
+            "start_year": "2000",
+            "end_year": "2001",
+            "url": "https://www.km77.com/coches/honda/accord/1999/4-puertas/type-r/accord-4p-22i-type-r-vtec/datos",
+            "price": "Precio",
+            "potencia": "212",
+            "consumo": "9,6",
+            "longitud": "4.595",
+            "maletero": "427"
+        }
+    ]
+}

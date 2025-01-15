@@ -1,0 +1,41 @@
+{
+    "name": "Serie 8 Coupé",
+    "year": "1999",
+    "url": "https://www.km77.com/coches/bmw/serie-8/1999/coupe",
+    "price": "Desde 112.750 €",
+    "versions": [
+        {
+            "name": "840Ci",
+            "start_year": "1999",
+            "end_year": "2000",
+            "url": "https://www.km77.com/coches/bmw/serie-8/1999/coupe/estandar/840ci/datos",
+            "price": "Precio",
+            "potencia": "286",
+            "consumo": "12,8",
+            "longitud": "4.780",
+            "maletero": "320"
+        },
+        {
+            "name": "840Ci Aut.",
+            "start_year": "1999",
+            "end_year": "2000",
+            "url": "https://www.km77.com/coches/bmw/serie-8/1999/coupe/estandar/840ci-aut/datos",
+            "price": "Precio",
+            "potencia": "286",
+            "consumo": "12,8",
+            "longitud": "4.780",
+            "maletero": "320"
+        },
+        {
+            "name": "850Ci Aut.",
+            "start_year": "1999",
+            "end_year": "2000",
+            "url": "https://www.km77.com/coches/bmw/serie-8/1999/coupe/estandar/850ci-aut/datos",
+            "price": "Precio",
+            "potencia": "326",
+            "consumo": "14",
+            "longitud": "4.780",
+            "maletero": "320"
+        }
+    ]
+}

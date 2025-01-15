@@ -1,0 +1,87 @@
+{
+    "name": "F8 Spider",
+    "year": "2020",
+    "url": "https://www.km77.com/coches/ferrari/f8/2020/spider",
+    "price": "",
+    "versions": [
+        {
+            "name": "F8 Spider\n( - )",
+            "start_year": "Desconocido",
+            "end_year": "Desconocido",
+            "url": "https://www.km77.com/coches/ferrari/f8/2020/spider/estandar/f8-spider/datos",
+            "price": "",
+            "potencia": "721",
+            "consumo": "-",
+            "longitud": "4.611",
+            "maletero": "200",
+            "specs": [
+                {
+                    "Velocidad máxima": "340 km/h",
+                    "Aceleración 0-100 km/h": "2,9 s",
+                    "Emisiones de CO₂ NEDC": "300 gr/km",
+                    "Normativa de emisiones": "Euro 6"
+                },
+                {
+                    "Tipo de Carrocería": "Descapotable",
+                    "Número de puertas": "2",
+                    "Longitud": "4.611 mm",
+                    "Anchura": "1.979 mm",
+                    "Altura": "1.206 mm",
+                    "Batalla": "2.650 mm",
+                    "Vía delantera": "1.677 mm",
+                    "Vía trasera": "1.646 mm",
+                    "Filtro de partículas": "Sí",
+                    "Número de plazas": "2",
+                    "Distribución de asientos": "2"
+                },
+                {
+                    "Potencia máxima": "721 CV / 530 kW",
+                    "Par máximo": "770 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "721 CV / 530 kW",
+                    "Revoluciones potencia máxima": "7.000 rpm",
+                    "Par máximo": "770 Nm",
+                    "Revoluciones par máximo": "3.250 rpm",
+                    "Situación": "Central trasero longitudinal",
+                    "Número de cilindros": "8",
+                    "Disposición de los cilindros": "En V",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "86,5 mm",
+                    "Carrera": "83 mm",
+                    "Cilindrada": "3.902 cm³",
+                    "Relación de compresión": "9,6 a 1",
+                    "Alimentación": "Inyección directa. Turbo. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Trasera",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "7",
+                    "Tipo de Embrague": "Dos embragues multidisco bañados en aceite",
+                    "Tipo de mecanismo": "Pares de engranajes"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "No",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "Disco ventilado cerámico",
+                    "Diámetro de frenos delanteros": "398 mm",
+                    "Tipo de frenos traseros": "Disco ventilado cerámico",
+                    "Diámetro de frenos traseros": "360 mm",
+                    "Neumáticos delanteros": "245/35 R20",
+                    "Neumáticos traseros": "305/30 R20",
+                    "Llantas delanteras": "9 x 20",
+                    "Llantas Traseras": "11 x 20"
+                }
+            ]
+        }
+    ]
+}

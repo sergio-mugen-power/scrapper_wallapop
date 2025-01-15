@@ -1,0 +1,99 @@
+{
+    "name": "Sián Coupé",
+    "year": "2020",
+    "url": "https://www.km77.com/coches/lamborghini/sian/2020/coupe",
+    "price": "",
+    "versions": [
+        {
+            "name": "Sián",
+            "start_year": "2019",
+            "end_year": "2023",
+            "url": "https://www.km77.com/coches/lamborghini/sian/2020/coupe/estandar/sian/datos",
+            "price": "",
+            "potencia": "819",
+            "consumo": "-",
+            "longitud": "4.980",
+            "maletero": "-",
+            "specs": [
+                {
+                    "Velocidad máxima": "350 km/h",
+                    "Aceleración 0-100 km/h": "2,8 s",
+                    "Emisiones de CO₂ NEDC": "300 gr/km",
+                    "Normativa de emisiones": "Euro 6",
+                    "Distintivo ambiental DGT": "ECO"
+                },
+                {
+                    "Tipo de Carrocería": "Coupé",
+                    "Número de puertas": "2",
+                    "Longitud": "4.980 mm",
+                    "Anchura": "2.101 mm",
+                    "Altura": "1.133 mm",
+                    "Batalla": "2.700 mm",
+                    "Número de plazas": "2",
+                    "Distribución de asientos": "2"
+                },
+                {
+                    "Potencia máxima": "819 CV / 602,5 kW",
+                    "Par máximo": "No disponible"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "785 CV / 577 kW",
+                    "Revoluciones potencia máxima": "8.500 rpm",
+                    "Par máximo": "720 Nm",
+                    "Revoluciones par máximo": "6.750 rpm",
+                    "Situación": "Central trasero longitudinal",
+                    "Número de cilindros": "12",
+                    "Disposición de los cilindros": "En V",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "95 mm",
+                    "Carrera": "76,4 mm",
+                    "Cilindrada": "6.498 cm³",
+                    "Relación de compresión": "11,8 a 1",
+                    "Alimentación": "Inyección Indirecta. Admisión Variable",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "Sí"
+                },
+                {
+                    "Propósito": "Impulsar al vehículo / generar corriente eléc",
+                    "Potencia máxima": "34 CV / 25 kW",
+                    "Revoluciones potencia máxima": "No disponible",
+                    "Par máximo": "38 Nm",
+                    "Revoluciones par máximo": "No disponible",
+                    "Ubicación": "Central trasero longitudinal",
+                    "Tensión nominal": "48 V"
+                },
+                {},
+                {
+                    "Tipo": "Condensadores",
+                    "Ubicación": "Central",
+                    "Capacidad": "No disponible",
+                    "Capacidad útil": "No disponible"
+                },
+                {
+                    "Tracción": "Total",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "7",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "Embrague bidisco en seco",
+                    "Tipo de mecanismo": "Pares de engranajes"
+                },
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado cerámico",
+                    "Tipo de frenos traseros": "Disco ventilado cerámico",
+                    "Neumáticos delanteros": "255/30 R20 92Y",
+                    "Neumáticos traseros": "355/25 R21 107Y",
+                    "Llantas delanteras": "9 x 20",
+                    "Llantas Traseras": "13 x 21"
+                }
+            ]
+        }
+    ]
+}

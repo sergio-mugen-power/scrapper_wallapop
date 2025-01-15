@@ -1,0 +1,112 @@
+{
+    "name": "Evija",
+    "year": "2020",
+    "url": "https://www.km77.com/coches/lotus/evija/2020/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "Evija ( - )",
+            "start_year": "Desconocido",
+            "end_year": "Desconocido",
+            "url": "https://www.km77.com/coches/lotus/evija/2020/estandar/estandar/evija/datos",
+            "price": "",
+            "potencia": "2.000",
+            "consumo": "-",
+            "longitud": "4.459",
+            "maletero": "-",
+            "specs": [
+                {
+                    "Velocidad máxima": "320 km/h",
+                    "Aceleración 0-100 km/h": "3 s",
+                    "Autonomía eléctrica WLTP": "346 km",
+                    "Emisiones de CO₂ WLTP": "No disponible",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "0 emisiones"
+                },
+                {
+                    "Tipo de Carrocería": "Coupé",
+                    "Número de puertas": "2",
+                    "Longitud": "4.459 mm",
+                    "Anchura": "2.000 mm",
+                    "Altura": "1.122 mm",
+                    "Número de plazas": "2",
+                    "Distribución de asientos": "2"
+                },
+                {
+                    "Potencia máxima": "2.000 CV / 1.471 kW",
+                    "Par máximo": "1.700 Nm"
+                },
+                {
+                    "Propósito": "Impulsar al vehículo / generar corriente eléc",
+                    "Potencia máxima": "500 CV / 368 kW",
+                    "Revoluciones potencia máxima": "No disponible",
+                    "Par máximo": "No disponible",
+                    "Revoluciones par máximo": "No disponible",
+                    "Ubicación": "Delantero transversal",
+                    "Tensión nominal": "No disponible"
+                },
+                {
+                    "Propósito": "Impulsar al vehículo / generar corriente eléc",
+                    "Potencia máxima": "500 CV / 368 kW",
+                    "Revoluciones potencia máxima": "No disponible",
+                    "Par máximo": "No disponible",
+                    "Revoluciones par máximo": "No disponible",
+                    "Ubicación": "Delantero transversal",
+                    "Tensión nominal": "No disponible"
+                },
+                {},
+                {
+                    "Propósito": "Impulsar al vehículo / generar corriente eléc",
+                    "Potencia máxima": "500 CV / 368 kW",
+                    "Revoluciones potencia máxima": "No disponible",
+                    "Par máximo": "No disponible",
+                    "Revoluciones par máximo": "No disponible",
+                    "Ubicación": "Trasero transversal",
+                    "Tensión nominal": "No disponible"
+                },
+                {
+                    "Propósito": "Impulsar al vehículo / generar corriente eléc",
+                    "Potencia máxima": "500 CV / 368 kW",
+                    "Revoluciones potencia máxima": "No disponible",
+                    "Par máximo": "No disponible",
+                    "Revoluciones par máximo": "No disponible",
+                    "Ubicación": "Trasero transversal",
+                    "Tensión nominal": "No disponible"
+                },
+                {
+                    "Tipo": "Acumulador de iones de litio",
+                    "Ubicación": "Central trasero",
+                    "Capacidad": "70 kWh",
+                    "Capacidad útil": "No disponible"
+                },
+                {
+                    "Potencia de recarga máxima en C.C.": "No disponible",
+                    "Potencia de recarga máxima en C.A.": "No disponible",
+                    "Tiempo de recarga del 0 al 80 % en C.C": "12 min (350 kW)"
+                },
+                {
+                    "Tracción": "Total",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "1",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "Sin embrague",
+                    "Tipo de mecanismo": "Epicicloidal"
+                },
+                {
+                    "Estructura suspensión delantera": "No disponible",
+                    "Muelle suspensión delantera": "No disponible",
+                    "Estructura suspensión trasera": "No disponible",
+                    "Muelle suspensión trasera": "No disponible",
+                    "Barra estabilizadora delantera": "No",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "Disco ventilado cerámico",
+                    "Tipo de frenos traseros": "Disco ventilado cerámico",
+                    "Neumáticos delanteros": "/ R20",
+                    "Neumáticos traseros": "/ R21",
+                    "Llantas delanteras": "x 20",
+                    "Llantas Traseras": "x 21"
+                }
+            ]
+        }
+    ]
+}

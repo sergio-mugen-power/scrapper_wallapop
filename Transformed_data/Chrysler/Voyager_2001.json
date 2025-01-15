@@ -1,0 +1,822 @@
+{
+    "name": "Voyager",
+    "year": "2001",
+    "url": "https://www.km77.com/coches/chrysler/voyager/2001/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "Voyager SE 2.4",
+            "start_year": "2001",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/chrysler/voyager/2001/estandar/estandar/voyager-se-24/datos",
+            "price": "Precio",
+            "potencia": "152",
+            "consumo": "10,1",
+            "longitud": "4.804",
+            "maletero": "400",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "27.950 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "21.836 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "05/2004"
+                },
+                {
+                    "Velocidad máxima": "183 km/h",
+                    "Aceleración 0-100 km/h": "15,8 s",
+                    "Distintivo ambiental DGT": "B"
+                },
+                {
+                    "Tipo de Carrocería": "Monovolumen",
+                    "Número de puertas": "5",
+                    "Longitud": "4.804 mm",
+                    "Anchura": "1.997 mm",
+                    "Altura": "1.749 mm",
+                    "Batalla": "2.878 mm",
+                    "Vía delantera": "1.600 mm",
+                    "Vía trasera": "1.626 mm",
+                    "Coeficiente Cx": "0,35",
+                    "Superficie frontal": "2,9 m²",
+                    "Factor de resistencia": "1,02",
+                    "Peso": "1.839 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "7",
+                    "Distribución de asientos": "7"
+                },
+                {
+                    "Potencia máxima": "152 CV / 112 kW",
+                    "Par máximo": "226 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "152 CV / 112 kW",
+                    "Revoluciones potencia máxima": "5.200 rpm",
+                    "Par máximo": "226 Nm",
+                    "Revoluciones par máximo": "4.000 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "87,5 mm",
+                    "Carrera": "101 mm",
+                    "Cilindrada": "2.429 cm³",
+                    "Relación de compresión": "9,4 a 1",
+                    "Alimentación": "Inyección Indirecta.",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "5"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Eje rígido",
+                    "Muelle suspensión trasera": "Ballestas",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "281 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "290 mm",
+                    "Neumáticos delanteros": "215/65 R16 H",
+                    "Neumáticos traseros": "215/65 R16 H",
+                    "Llantas delanteras": "6.5 x 16",
+                    "Llantas Traseras": "6.5 x 16"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)27.950 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "21.836 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "05/2004"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Airbag lateral delantero": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Cuentavueltas": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Regulación de altura de faros": "De serie",
+                    "Termómetro de agua": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Cierre centralizado": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Espejos eléctricos": "De serie",
+                    "Mando de apertura y cierre a distancia": "De serie"
+                },
+                {
+                    "Paragolpes pintados": "De serie",
+                    "Pintura metalizada": "331 €"
+                },
+                {
+                    "Respaldo posterior abatible": "De serie"
+                },
+                {
+                    "Radiocasete": "De serie",
+                    "Seis altavoces": "De serie"
+                },
+                {},
+                {
+                    "Inmovilizador": "De serie"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "Voyager SE 2.4 Aut.",
+            "start_year": "2001",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/chrysler/voyager/2001/estandar/estandar/voyager-se-24-aut/datos",
+            "price": "Precio",
+            "potencia": "152",
+            "consumo": "12",
+            "longitud": "4.804",
+            "maletero": "400",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "29.300 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "22.891 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "05/2004"
+                },
+                {
+                    "Velocidad máxima": "177 km/h",
+                    "Aceleración 0-100 km/h": "16 s",
+                    "Distintivo ambiental DGT": "B"
+                },
+                {
+                    "Tipo de Carrocería": "Monovolumen",
+                    "Número de puertas": "5",
+                    "Longitud": "4.804 mm",
+                    "Anchura": "1.997 mm",
+                    "Altura": "1.749 mm",
+                    "Batalla": "2.878 mm",
+                    "Vía delantera": "1.600 mm",
+                    "Vía trasera": "1.626 mm",
+                    "Coeficiente Cx": "0,35",
+                    "Superficie frontal": "2,9 m²",
+                    "Factor de resistencia": "1,02",
+                    "Peso": "1.839 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "7",
+                    "Distribución de asientos": "7"
+                },
+                {
+                    "Potencia máxima": "152 CV / 112 kW",
+                    "Par máximo": "226 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "152 CV / 112 kW",
+                    "Revoluciones potencia máxima": "5.200 rpm",
+                    "Par máximo": "226 Nm",
+                    "Revoluciones par máximo": "4.000 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "87,5 mm",
+                    "Carrera": "101 mm",
+                    "Cilindrada": "2.429 cm³",
+                    "Relación de compresión": "9,4 a 1",
+                    "Alimentación": "Inyección Indirecta.",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "4"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Eje rígido",
+                    "Muelle suspensión trasera": "Ballestas",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "281 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "290 mm",
+                    "Neumáticos delanteros": "215/65 R16 H",
+                    "Neumáticos traseros": "215/65 R16 H",
+                    "Llantas delanteras": "6.5 x 16",
+                    "Llantas Traseras": "6.5 x 16"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)29.300 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "22.891 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "05/2004"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Airbag lateral delantero": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Cuentavueltas": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Regulación de altura de faros": "De serie",
+                    "Termómetro de agua": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Cierre centralizado": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Espejos eléctricos": "De serie",
+                    "Mando de apertura y cierre a distancia": "De serie"
+                },
+                {
+                    "Paragolpes pintados": "De serie",
+                    "Pintura metalizada": "331 €"
+                },
+                {
+                    "Respaldo posterior abatible": "De serie"
+                },
+                {
+                    "Radiocasete": "De serie",
+                    "Seis altavoces": "De serie"
+                },
+                {},
+                {
+                    "Inmovilizador": "De serie"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "Voyager SE 2.5 CRD",
+            "start_year": "2001",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/chrysler/voyager/2001/estandar/estandar/voyager-se-25-crd/datos",
+            "price": "Precio",
+            "potencia": "141",
+            "consumo": "7,7",
+            "longitud": "4.804",
+            "maletero": "400",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "30.425 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "23.770 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "05/2004"
+                },
+                {
+                    "Velocidad máxima": "185 km/h",
+                    "Aceleración 0-100 km/h": "12,6 s",
+                    "Distintivo ambiental DGT": "Sin distintivo"
+                },
+                {
+                    "Tipo de Carrocería": "Monovolumen",
+                    "Número de puertas": "5",
+                    "Longitud": "4.804 mm",
+                    "Anchura": "1.997 mm",
+                    "Altura": "1.749 mm",
+                    "Batalla": "2.878 mm",
+                    "Vía delantera": "1.600 mm",
+                    "Vía trasera": "1.626 mm",
+                    "Coeficiente Cx": "0,35",
+                    "Superficie frontal": "2,9 m²",
+                    "Factor de resistencia": "1,02",
+                    "Peso": "1.839 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "7",
+                    "Distribución de asientos": "7"
+                },
+                {
+                    "Potencia máxima": "141 CV / 104 kW",
+                    "Par máximo": "312 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasóleo",
+                    "Potencia máxima": "141 CV / 104 kW",
+                    "Revoluciones potencia máxima": "4.000 rpm",
+                    "Par máximo": "312 Nm",
+                    "Revoluciones par máximo": "1.800 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "92 mm",
+                    "Carrera": "94 mm",
+                    "Cilindrada": "2.500 cm³",
+                    "Relación de compresión": "17,5 a 1",
+                    "Alimentación": "Inyección directa por conducto común. Turbo. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "5"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Eje rígido",
+                    "Muelle suspensión trasera": "Ballestas",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "281 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "290 mm",
+                    "Neumáticos delanteros": "215/65 R16 H",
+                    "Neumáticos traseros": "215/65 R16 H",
+                    "Llantas delanteras": "6.5 x 16",
+                    "Llantas Traseras": "6.5 x 16"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)30.425 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "23.770 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "05/2004"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Airbag lateral delantero": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Cuentavueltas": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Regulación de altura de faros": "De serie",
+                    "Termómetro de agua": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Cierre centralizado": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Espejos eléctricos": "De serie",
+                    "Mando de apertura y cierre a distancia": "De serie"
+                },
+                {
+                    "Paragolpes pintados": "De serie",
+                    "Pintura metalizada": "331 €"
+                },
+                {
+                    "Respaldo posterior abatible": "De serie"
+                },
+                {
+                    "Radiocasete": "De serie",
+                    "Seis altavoces": "De serie"
+                },
+                {},
+                {
+                    "Inmovilizador": "De serie"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "Voyager LX 2.4",
+            "start_year": "2001",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/chrysler/voyager/2001/estandar/estandar/voyager-lx-24/datos",
+            "price": "Precio",
+            "potencia": "152",
+            "consumo": "10,1",
+            "longitud": "4.804",
+            "maletero": "400",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "35.539 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "27.765 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "05/2004"
+                },
+                {
+                    "Velocidad máxima": "183 km/h",
+                    "Aceleración 0-100 km/h": "15,8 s",
+                    "Distintivo ambiental DGT": "B"
+                },
+                {
+                    "Tipo de Carrocería": "Monovolumen",
+                    "Número de puertas": "5",
+                    "Longitud": "4.804 mm",
+                    "Anchura": "1.997 mm",
+                    "Altura": "1.749 mm",
+                    "Batalla": "2.878 mm",
+                    "Vía delantera": "1.600 mm",
+                    "Vía trasera": "1.626 mm",
+                    "Coeficiente Cx": "0,35",
+                    "Superficie frontal": "2,9 m²",
+                    "Factor de resistencia": "1,02",
+                    "Peso": "1.874 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "7",
+                    "Distribución de asientos": "7"
+                },
+                {
+                    "Potencia máxima": "152 CV / 112 kW",
+                    "Par máximo": "226 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "152 CV / 112 kW",
+                    "Revoluciones potencia máxima": "5.200 rpm",
+                    "Par máximo": "226 Nm",
+                    "Revoluciones par máximo": "4.000 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "87,5 mm",
+                    "Carrera": "101 mm",
+                    "Cilindrada": "2.429 cm³",
+                    "Relación de compresión": "9,4 a 1",
+                    "Alimentación": "Inyección Indirecta.",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "5"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Eje rígido",
+                    "Muelle suspensión trasera": "Ballestas",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "281 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "290 mm",
+                    "Neumáticos delanteros": "215/65 R16 H",
+                    "Neumáticos traseros": "215/65 R16 H",
+                    "Llantas delanteras": "6.5 x 16",
+                    "Llantas Traseras": "6.5 x 16"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)35.539 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "27.765 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "05/2004"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Airbag lateral delantero": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Cuentavueltas": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Ordenador de viaje": "De serie",
+                    "Programador de velocidad": "De serie",
+                    "Regulación de altura de faros": "De serie",
+                    "Termómetro de agua": "De serie",
+                    "Volante con ajuste vertical": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Asiento conductor eléctrico": "De serie",
+                    "Asiento del conductor con ajuste de altura": "De serie",
+                    "Asientos delanteros con calefacción": "2 €",
+                    "Cierre centralizado": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Espejos eléctricos": "De serie",
+                    "Mando de apertura y cierre a distancia": "De serie"
+                },
+                {
+                    "Paragolpes pintados": "De serie",
+                    "Pintura metalizada": "331 €",
+                    "Tapiceria de cuero": "1.870 €"
+                },
+                {
+                    "Respaldo posterior abatible": "De serie"
+                },
+                {
+                    "Diez altavoces": "De serie",
+                    "Radiocasete": "De serie"
+                },
+                {},
+                {
+                    "Llantas de aleación": "De serie"
+                },
+                {
+                    "Inmovilizador": "De serie"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "Voyager LX 3.3",
+            "start_year": "2001",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/chrysler/voyager/2001/estandar/estandar/voyager-lx-33/datos",
+            "price": "Precio",
+            "potencia": "182",
+            "consumo": "12,2",
+            "longitud": "4.804",
+            "maletero": "400",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "36.714 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "28.683 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "05/2004"
+                },
+                {
+                    "Velocidad máxima": "179 km/h",
+                    "Aceleración 0-100 km/h": "11,7 s",
+                    "Distintivo ambiental DGT": "B"
+                },
+                {
+                    "Tipo de Carrocería": "Monovolumen",
+                    "Número de puertas": "5",
+                    "Longitud": "4.804 mm",
+                    "Anchura": "1.997 mm",
+                    "Altura": "1.749 mm",
+                    "Batalla": "2.878 mm",
+                    "Vía delantera": "1.600 mm",
+                    "Vía trasera": "1.626 mm",
+                    "Coeficiente Cx": "0,35",
+                    "Superficie frontal": "2,9 m²",
+                    "Factor de resistencia": "1,02",
+                    "Peso": "1.874 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "7",
+                    "Distribución de asientos": "7"
+                },
+                {
+                    "Potencia máxima": "182 CV / 134 kW",
+                    "Par máximo": "285 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "182 CV / 134 kW",
+                    "Revoluciones potencia máxima": "5.000 rpm",
+                    "Par máximo": "285 Nm",
+                    "Revoluciones par máximo": "4.000 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "6",
+                    "Disposición de los cilindros": "En V",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "93 mm",
+                    "Carrera": "81 mm",
+                    "Cilindrada": "3.301 cm³",
+                    "Relación de compresión": "9,3 a 1",
+                    "Alimentación": "Inyección Indirecta.",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "4"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Eje rígido",
+                    "Muelle suspensión trasera": "Ballestas",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "281 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "290 mm",
+                    "Neumáticos delanteros": "215/65 R16 H",
+                    "Neumáticos traseros": "215/65 R16 H",
+                    "Llantas delanteras": "6.5 x 16",
+                    "Llantas Traseras": "6.5 x 16"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)36.714 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "28.683 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "05/2004"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Airbag lateral delantero": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Cuentavueltas": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Ordenador de viaje": "De serie",
+                    "Programador de velocidad": "De serie",
+                    "Regulación de altura de faros": "De serie",
+                    "Termómetro de agua": "De serie",
+                    "Volante con ajuste vertical": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Asiento conductor eléctrico": "De serie",
+                    "Asiento del conductor con ajuste de altura": "De serie",
+                    "Asientos delanteros con calefacción": "2 €",
+                    "Cierre centralizado": "De serie",
+                    "Climatizador": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Espejos eléctricos": "De serie",
+                    "Mando de apertura y cierre a distancia": "De serie"
+                },
+                {
+                    "Paragolpes pintados": "De serie",
+                    "Pintura metalizada": "331 €",
+                    "Tapiceria de cuero": "1.870 €"
+                },
+                {
+                    "Respaldo posterior abatible": "De serie"
+                },
+                {
+                    "Diez altavoces": "De serie",
+                    "Radiocasete": "De serie"
+                },
+                {},
+                {
+                    "Llantas de aleación": "De serie"
+                },
+                {
+                    "Inmovilizador": "De serie"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "Voyager LX 2.5 CRD",
+            "start_year": "2001",
+            "end_year": "2004",
+            "url": "https://www.km77.com/coches/chrysler/voyager/2001/estandar/estandar/voyager-lx-25-crd/datos",
+            "price": "Precio",
+            "potencia": "141",
+            "consumo": "7,7",
+            "longitud": "4.804",
+            "maletero": "400",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "38.504 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "30.081 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "05/2004"
+                },
+                {
+                    "Velocidad máxima": "185 km/h",
+                    "Aceleración 0-100 km/h": "12,6 s",
+                    "Distintivo ambiental DGT": "Sin distintivo"
+                },
+                {
+                    "Tipo de Carrocería": "Monovolumen",
+                    "Número de puertas": "5",
+                    "Longitud": "4.804 mm",
+                    "Anchura": "1.997 mm",
+                    "Altura": "1.749 mm",
+                    "Batalla": "2.878 mm",
+                    "Vía delantera": "1.600 mm",
+                    "Vía trasera": "1.626 mm",
+                    "Coeficiente Cx": "0,35",
+                    "Superficie frontal": "2,9 m²",
+                    "Factor de resistencia": "1,02",
+                    "Peso": "1.874 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "7",
+                    "Distribución de asientos": "7"
+                },
+                {
+                    "Potencia máxima": "141 CV / 104 kW",
+                    "Par máximo": "312 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasóleo",
+                    "Potencia máxima": "141 CV / 104 kW",
+                    "Revoluciones potencia máxima": "4.000 rpm",
+                    "Par máximo": "312 Nm",
+                    "Revoluciones par máximo": "1.800 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "92 mm",
+                    "Carrera": "94 mm",
+                    "Cilindrada": "2.500 cm³",
+                    "Relación de compresión": "17,5 a 1",
+                    "Alimentación": "Inyección directa por conducto común. Turbo. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "5"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Eje rígido",
+                    "Muelle suspensión trasera": "Ballestas",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "281 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "290 mm",
+                    "Neumáticos delanteros": "215/65 R16 H",
+                    "Neumáticos traseros": "215/65 R16 H",
+                    "Llantas delanteras": "6.5 x 16",
+                    "Llantas Traseras": "6.5 x 16"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)38.504 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "30.081 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "05/2004"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Airbag lateral delantero": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Cuentavueltas": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Ordenador de viaje": "De serie",
+                    "Programador de velocidad": "De serie",
+                    "Regulación de altura de faros": "De serie",
+                    "Termómetro de agua": "De serie",
+                    "Volante con ajuste vertical": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Asiento conductor eléctrico": "De serie",
+                    "Asiento del conductor con ajuste de altura": "De serie",
+                    "Asientos delanteros con calefacción": "2 €",
+                    "Cierre centralizado": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Espejos eléctricos": "De serie",
+                    "Mando de apertura y cierre a distancia": "De serie"
+                },
+                {
+                    "Paragolpes pintados": "De serie",
+                    "Pintura metalizada": "331 €",
+                    "Tapiceria de cuero": "1.870 €"
+                },
+                {
+                    "Respaldo posterior abatible": "De serie"
+                },
+                {
+                    "Diez altavoces": "De serie",
+                    "Radiocasete": "De serie"
+                },
+                {},
+                {
+                    "Llantas de aleación": "De serie"
+                },
+                {
+                    "Inmovilizador": "De serie"
+                },
+                {}
+            ]
+        }
+    ]
+}

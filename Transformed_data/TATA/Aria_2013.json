@@ -1,0 +1,30 @@
+{
+    "name": "Aria",
+    "year": "2013",
+    "url": "https://www.km77.com/coches/tata/aria/2013/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "Aria 4x2",
+            "start_year": "2012",
+            "end_year": "2015",
+            "url": "https://www.km77.com/coches/tata/aria/2013/estandar/estandar/aria-4x2/datos",
+            "price": "17.900",
+            "potencia": "150",
+            "consumo": "7,2",
+            "longitud": "4.780",
+            "maletero": "588"
+        },
+        {
+            "name": "Aria 4x4",
+            "start_year": "2012",
+            "end_year": "2015",
+            "url": "https://www.km77.com/coches/tata/aria/2013/estandar/estandar/aria-4x4/datos",
+            "price": "19.990",
+            "potencia": "150",
+            "consumo": "7,2",
+            "longitud": "4.780",
+            "maletero": "588"
+        }
+    ]
+}

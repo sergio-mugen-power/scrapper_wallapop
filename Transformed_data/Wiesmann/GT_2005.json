@@ -1,0 +1,132 @@
+{
+    "name": "GT",
+    "year": "2005",
+    "url": "https://www.km77.com/coches/wiesmann/gt/2005/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "GT",
+            "start_year": "2005",
+            "end_year": "2008",
+            "url": "https://www.km77.com/coches/wiesmann/gt/2005/estandar/estandar/gt/datos",
+            "price": "115.968",
+            "potencia": "367",
+            "consumo": "11,7",
+            "longitud": "4.230",
+            "maletero": "250",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "115.968 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "90.600 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "12/2005"
+                },
+                {
+                    "Velocidad máxima": "280 km/h",
+                    "Aceleración 0-100 km/h": "4,6 s",
+                    "Emisiones de CO₂ NEDC": "267 gr/km",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "C"
+                },
+                {
+                    "Tipo de Carrocería": "Coupé",
+                    "Número de puertas": "2",
+                    "Longitud": "4.230 mm",
+                    "Anchura": "1.850 mm",
+                    "Altura": "1.160 mm",
+                    "Batalla": "2.510 mm",
+                    "Vía delantera": "1.565 mm",
+                    "Vía trasera": "1.620 mm",
+                    "Peso": "1.240 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "2",
+                    "Distribución de asientos": "2"
+                },
+                {
+                    "Potencia máxima": "367 CV / 270 kW",
+                    "Par máximo": "490 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "367 CV / 270 kW",
+                    "Revoluciones potencia máxima": "6.300 rpm",
+                    "Par máximo": "490 Nm",
+                    "Revoluciones par máximo": "3.400 rpm",
+                    "Situación": "Delantero longitudinal",
+                    "Número de cilindros": "8",
+                    "Disposición de los cilindros": "En V",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "93 mm",
+                    "Carrera": "88,3 mm",
+                    "Cilindrada": "4.799 cm³",
+                    "Relación de compresión": "10,5 a 1",
+                    "Alimentación": "Inyección Indirecta.",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Trasera",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "6",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "332 mm",
+                    "Tipo de frenos traseros": "Disco ventilado",
+                    "Diámetro de frenos traseros": "328 mm",
+                    "Neumáticos delanteros": "245/35 R20 Z",
+                    "Neumáticos traseros": "275/30 R20 Z",
+                    "Llantas delanteras": "x 20",
+                    "Llantas Traseras": "x 20"
+                },
+                {
+                    "Precio (con descuento y equipamiento seleccionado)115.968 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "90.600 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "12/2005"
+                },
+                {
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Control de estabilidad (ESP)": "De serie",
+                    "Control de presión en neumáticos": "No disponible",
+                    "Control de tracción": "De serie",
+                    "Faros de xenón": "De serie"
+                },
+                {
+                    "Acceso y arranque sin llave": "No disponible",
+                    "Aire acondicionado": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Espejos exteriores plegables eléctricamente": "No disponible"
+                },
+                {
+                    "Tapiceria de cuero": "De serie"
+                },
+                {
+                    "Navegador": "De serie"
+                },
+                {
+                    "Llantas de aleación": "De serie"
+                },
+                {},
+                {
+                    "Alarma antirrobo": "No disponible"
+                }
+            ]
+        }
+    ]
+}

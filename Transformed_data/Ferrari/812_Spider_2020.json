@@ -1,0 +1,88 @@
+{
+    "name": "812 Spider",
+    "year": "2020",
+    "url": "https://www.km77.com/coches/ferrari/812/2020/spider",
+    "price": "",
+    "versions": [
+        {
+            "name": "812 GTS",
+            "start_year": "2019",
+            "end_year": "2024",
+            "url": "https://www.km77.com/coches/ferrari/812/2020/spider/gts/812-gts/datos",
+            "price": "",
+            "potencia": "799",
+            "consumo": "16,4",
+            "longitud": "4.693",
+            "maletero": "210",
+            "specs": [
+                {
+                    "Velocidad máxima": "340 km/h",
+                    "Aceleración 0-100 km/h": "3 s",
+                    "Emisiones de CO₂ WLTP": "373 gr/km",
+                    "Normativa de emisiones": "Euro 6",
+                    "Distintivo ambiental DGT": "C"
+                },
+                {
+                    "Tipo de Carrocería": "Descapotable",
+                    "Número de puertas": "2",
+                    "Longitud": "4.693 mm",
+                    "Anchura": "1.971 mm",
+                    "Altura": "1.276 mm",
+                    "Batalla": "2.720 mm",
+                    "Vía delantera": "1.672 mm",
+                    "Vía trasera": "1.645 mm",
+                    "Filtro de partículas": "Sí",
+                    "Número de plazas": "2",
+                    "Distribución de asientos": "2"
+                },
+                {
+                    "Potencia máxima": "799 CV / 588 kW",
+                    "Par máximo": "718 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "799 CV / 588 kW",
+                    "Revoluciones potencia máxima": "8.500 rpm",
+                    "Par máximo": "718 Nm",
+                    "Revoluciones par máximo": "7.000 rpm",
+                    "Situación": "Central delantero longitudinal",
+                    "Número de cilindros": "12",
+                    "Disposición de los cilindros": "En V",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "94 mm",
+                    "Carrera": "78 mm",
+                    "Cilindrada": "6.496 cm³",
+                    "Relación de compresión": "13,6 a 1",
+                    "Alimentación": "Inyección directa. Admisión Variable",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "Sí"
+                },
+                {
+                    "Tracción": "Trasera",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "7",
+                    "Tipo de Embrague": "Dos embragues multidisco bañados en aceite",
+                    "Tipo de mecanismo": "Pares de engranajes"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte helicoidal",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado cerámico",
+                    "Diámetro de frenos delanteros": "398 mm",
+                    "Tipo de frenos traseros": "Disco ventilado cerámico",
+                    "Diámetro de frenos traseros": "360 mm",
+                    "Neumáticos delanteros": "275/35 R20",
+                    "Neumáticos traseros": "315/35 R20",
+                    "Llantas delanteras": "10 x 20",
+                    "Llantas Traseras": "11.5 x 20"
+                }
+            ]
+        }
+    ]
+}

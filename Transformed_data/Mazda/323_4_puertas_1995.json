@@ -1,0 +1,41 @@
+{
+    "name": "323 4 puertas",
+    "year": "1995",
+    "url": "https://www.km77.com/coches/mazda/323/1995/4-puertas",
+    "price": "",
+    "versions": [
+        {
+            "name": "323 Exclusive 1.5 16V 4p",
+            "start_year": "2000",
+            "end_year": "2001",
+            "url": "https://www.km77.com/coches/mazda/323/1995/4-puertas/exclusive/323-exclusive-15-16v-4p/datos",
+            "price": "14.605",
+            "potencia": "88",
+            "consumo": "7,5",
+            "longitud": "4.315",
+            "maletero": "416"
+        },
+        {
+            "name": "323 Exclusive DTD 16V 4p",
+            "start_year": "2000",
+            "end_year": "2001",
+            "url": "https://www.km77.com/coches/mazda/323/1995/4-puertas/exclusive/323-exclusive-dtd-16v-4p/datos",
+            "price": "16.408",
+            "potencia": "90",
+            "consumo": "5,1",
+            "longitud": "4.315",
+            "maletero": "416"
+        },
+        {
+            "name": "323 Touring 1.8 16V 4p",
+            "start_year": "2000",
+            "end_year": "2001",
+            "url": "https://www.km77.com/coches/mazda/323/1995/4-puertas/touring/323-touring-18-16v-4p/datos",
+            "price": "16.408",
+            "potencia": "114",
+            "consumo": "8",
+            "longitud": "4.315",
+            "maletero": "416"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "name": "X1",
+    "year": "2023",
+    "url": "https://www.km77.com/coches/bmw/x1/2023/estandar",
+    "price": "Desde 44.200 €",
+    "versions": [
+        {
+            "name": "X1 sDrive18d\n(06/2022 - )",
+            "start_year": "2022",
+            "end_year": "",
+            "url": "https://www.km77.com/coches/bmw/x1/2023/estandar/estandar/x1-sdrive18d/datos",
+            "price": "Precio",
+            "potencia": "150",
+            "consumo": "4,9",
+            "longitud": "4.500",
+            "maletero": "540"
+        },
+        {
+            "name": "X1 sDrive18i\n(06/2022 - )",
+            "start_year": "2022",
+            "end_year": "",
+            "url": "https://www.km77.com/coches/bmw/x1/2023/estandar/estandar/x1-sdrive18i/datos",
+            "price": "Precio",
+            "potencia": "136",
+            "consumo": "6,3",
+            "longitud": "4.500",
+            "maletero": "540"
+        },
+        {
+            "name": "X1 sDrive20i\n(11/2022 - )",
+            "start_year": "2022",
+            "end_year": "",
+            "url": "https://www.km77.com/coches/bmw/x1/2023/estandar/estandar/x1-sdrive20i/datos",
+            "price": "Precio",
+            "potencia": "170",
+            "consumo": "5,9",
+            "longitud": "4.500",
+            "maletero": "500"
+        },
+        {
+            "name": "X1 xDrive20d\n(11/2022 - )",
+            "start_year": "2022",
+            "end_year": "",
+            "url": "https://www.km77.com/coches/bmw/x1/2023/estandar/estandar/x1-xdrive20d/datos",
+            "price": "Precio",
+            "potencia": "163",
+            "consumo": "4,8",
+            "longitud": "4.500",
+            "maletero": "500"
+        },
+        {
+            "name": "X1 xDrive25e\n(06/2022 - )",
+            "start_year": "2022",
+            "end_year": "",
+            "url": "https://www.km77.com/coches/bmw/x1/2023/estandar/e/x1-xdrive25e/datos",
+            "price": "Precio",
+            "potencia": "245",
+            "consumo": "0,7",
+            "longitud": "4.500",
+            "maletero": "490"
+        },
+        {
+            "name": "X1 xDrive30e\n(06/2022 - )",
+            "start_year": "2022",
+            "end_year": "",
+            "url": "https://www.km77.com/coches/bmw/x1/2023/estandar/e/x1-xdrive30e/datos",
+            "price": "Precio",
+            "potencia": "326",
+            "consumo": "0,7",
+            "longitud": "4.500",
+            "maletero": "490"
+        },
+        {
+            "name": "X1 M35i xDrive\n(09/2023 - )",
+            "start_year": "2023",
+            "end_year": "",
+            "url": "https://www.km77.com/coches/bmw/x1/2023/estandar/estandar/x1-m35i-xdrive/datos",
+            "price": "Precio",
+            "potencia": "300",
+            "consumo": "7,8",
+            "longitud": "4.505",
+            "maletero": "540"
+        }
+    ]
+}

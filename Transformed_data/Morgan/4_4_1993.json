@@ -1,0 +1,41 @@
+{
+    "name": "4/4",
+    "year": "1993",
+    "url": "https://www.km77.com/coches/morgan/4-4/1993/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "4/4 2 asientos 1.8 litros Runabout",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/morgan/4-4/1993/estandar/runabout/44-2-asientos-18-litros-runabout/datos",
+            "price": "38.419",
+            "potencia": "114",
+            "consumo": "8,2",
+            "longitud": "3.890",
+            "maletero": "-"
+        },
+        {
+            "name": "4/4 2 asientos 1.8 litros Lowline",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/morgan/4-4/1993/estandar/lowline/44-2-asientos-18-litros-lowline/datos",
+            "price": "43.352",
+            "potencia": "114",
+            "consumo": "8,2",
+            "longitud": "3.890",
+            "maletero": "-"
+        },
+        {
+            "name": "4/4 4 asientos 1.8 litros",
+            "start_year": "2003",
+            "end_year": "2005",
+            "url": "https://www.km77.com/coches/morgan/4-4/1993/estandar/estandar/44-4-asientos-18-litros/datos",
+            "price": "50.378",
+            "potencia": "111",
+            "consumo": "8,2",
+            "longitud": "4.025",
+            "maletero": "-"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Serie 8 Coupé",
+    "year": "2018",
+    "url": "https://www.km77.com/coches/bmw/serie-8/2018/coupe",
+    "price": "Desde 112.750 €",
+    "versions": [
+        {
+            "name": "840d xDrive Coupé",
+            "start_year": "2018",
+            "end_year": "2020",
+            "url": "https://www.km77.com/coches/bmw/serie-8/2018/coupe/estandar/840d-xdrive/datos",
+            "price": "Precio",
+            "potencia": "320",
+            "consumo": "6,7",
+            "longitud": "4.843",
+            "maletero": "420"
+        },
+        {
+            "name": "M850i xDrive Coupé",
+            "start_year": "2018",
+            "end_year": "2022",
+            "url": "https://www.km77.com/coches/bmw/serie-8/2018/coupe/m-performance/m850i-xdrive/datos",
+            "price": "Precio",
+            "potencia": "530",
+            "consumo": "10,7",
+            "longitud": "4.851",
+            "maletero": "420"
+        },
+        {
+            "name": "M8 Competition Coupé",
+            "start_year": "2019",
+            "end_year": "2022",
+            "url": "https://www.km77.com/coches/bmw/serie-8/2018/coupe/m8-competition/m8-competition-coupe/datos",
+            "price": "Precio",
+            "potencia": "625",
+            "consumo": "11,3",
+            "longitud": "4.867",
+            "maletero": "420"
+        }
+    ]
+}

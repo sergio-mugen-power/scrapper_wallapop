@@ -1,0 +1,74 @@
+{
+    "name": "D-MAX Space",
+    "year": "2017",
+    "url": "https://www.km77.com/coches/isuzu/d-max/2017/space",
+    "price": "Desde 47.419 €",
+    "versions": [
+        {
+            "name": "D-MAX Space Satellite 4x4 1.9",
+            "start_year": "2016",
+            "end_year": "2020",
+            "url": "https://www.km77.com/coches/isuzu/d-max/2017/space/satellite/space-satellite-4x4-19/datos",
+            "price": "29.385",
+            "potencia": "163",
+            "consumo": "7",
+            "longitud": "5.295",
+            "maletero": "-"
+        },
+        {
+            "name": "D-MAX Space Planet 4x4 1.9",
+            "start_year": "2016",
+            "end_year": "2020",
+            "url": "https://www.km77.com/coches/isuzu/d-max/2017/space/planet/space-planet-4x4-19/datos",
+            "price": "32.785",
+            "potencia": "163",
+            "consumo": "7",
+            "longitud": "5.295",
+            "maletero": "-"
+        },
+        {
+            "name": "D-MAX Space Solar 4x4 1.9",
+            "start_year": "2016",
+            "end_year": "2020",
+            "url": "https://www.km77.com/coches/isuzu/d-max/2017/space/solar/space-solar-4x4-19/datos",
+            "price": "34.550",
+            "potencia": "163",
+            "consumo": "7",
+            "longitud": "5.295",
+            "maletero": "-"
+        },
+        {
+            "name": "D-MAX Space Solar Plus 4x4 1.9",
+            "start_year": "2016",
+            "end_year": "2020",
+            "url": "https://www.km77.com/coches/isuzu/d-max/2017/space/solar-plus/space-solar-plus-4x4-19/datos",
+            "price": "35.060",
+            "potencia": "163",
+            "consumo": "7",
+            "longitud": "5.295",
+            "maletero": "-"
+        },
+        {
+            "name": "D-MAX Space Solar 4x4 1.9 Aut.",
+            "start_year": "2016",
+            "end_year": "2020",
+            "url": "https://www.km77.com/coches/isuzu/d-max/2017/space/solar/space-solar-4x4-19-aut/datos",
+            "price": "37.437",
+            "potencia": "163",
+            "consumo": "7,8",
+            "longitud": "5.295",
+            "maletero": "-"
+        },
+        {
+            "name": "D-MAX Space Solar Plus 4x4 1.9 Aut.",
+            "start_year": "2016",
+            "end_year": "2020",
+            "url": "https://www.km77.com/coches/isuzu/d-max/2017/space/solar-plus/space-solar-plus-4x4-19-aut/datos",
+            "price": "37.967",
+            "potencia": "163",
+            "consumo": "7,8",
+            "longitud": "5.295",
+            "maletero": "-"
+        }
+    ]
+}

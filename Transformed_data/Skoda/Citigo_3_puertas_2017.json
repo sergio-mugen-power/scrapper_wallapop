@@ -1,0 +1,107 @@
+{
+    "name": "Citigo 3 puertas",
+    "year": "2017",
+    "url": "https://www.km77.com/coches/skoda/citigo/2017/3-puertas",
+    "price": "",
+    "versions": [
+        {
+            "name": "Citigo 3p 1.0 MPI 44kW (60 CV) Active",
+            "start_year": "2017",
+            "end_year": "2019",
+            "url": "https://www.km77.com/coches/skoda/citigo/2017/3-puertas/active/citigo-3p-10-mpi-44kw-60-cv-active/datos",
+            "price": "8.810",
+            "potencia": "60",
+            "consumo": "4,4",
+            "longitud": "3.597",
+            "maletero": "251"
+        },
+        {
+            "name": "Citigo 3p 1.0 MPI 44kW (60 CV) ASG Active",
+            "start_year": "2017",
+            "end_year": "2019",
+            "url": "https://www.km77.com/coches/skoda/citigo/2017/3-puertas/active/citigo-3p-10-mpi-44kw-60-cv-asg-active/datos",
+            "price": "9.550",
+            "potencia": "60",
+            "consumo": "4,3",
+            "longitud": "3.597",
+            "maletero": "251"
+        },
+        {
+            "name": "Citigo 3p 1.0 MPI 44kW (60 CV) Ambition",
+            "start_year": "2017",
+            "end_year": "2019",
+            "url": "https://www.km77.com/coches/skoda/citigo/2017/3-puertas/ambition/citigo-3p-10-mpi-44kw-60-cv-ambition/datos",
+            "price": "10.480",
+            "potencia": "60",
+            "consumo": "4,4",
+            "longitud": "3.597",
+            "maletero": "251"
+        },
+        {
+            "name": "Citigo 3p 1.0 MPI 55kW (75 CV) Ambition",
+            "start_year": "2017",
+            "end_year": "2019",
+            "url": "https://www.km77.com/coches/skoda/citigo/2017/3-puertas/ambition/citigo-3p-10-mpi-55kw-75-cv-ambition/datos",
+            "price": "11.020",
+            "potencia": "75",
+            "consumo": "4,4",
+            "longitud": "3.597",
+            "maletero": "251"
+        },
+        {
+            "name": "Citigo 3p 1.0 MPI 44kW (60 CV) ASG Ambition",
+            "start_year": "2017",
+            "end_year": "2019",
+            "url": "https://www.km77.com/coches/skoda/citigo/2017/3-puertas/ambition/citigo-3p-10-mpi-44kw-60-cv-asg-ambition/datos",
+            "price": "11.220",
+            "potencia": "60",
+            "consumo": "4,3",
+            "longitud": "3.597",
+            "maletero": "251"
+        },
+        {
+            "name": "Citigo 3p 1.0 MPI 55kW (75 CV) Style",
+            "start_year": "2017",
+            "end_year": "2019",
+            "url": "https://www.km77.com/coches/skoda/citigo/2017/3-puertas/style/citigo-3p-10-mpi-55kw-75-cv-style/datos",
+            "price": "11.510",
+            "potencia": "75",
+            "consumo": "4,4",
+            "longitud": "3.597",
+            "maletero": "251"
+        },
+        {
+            "name": "Citigo 3p 1.0 MPI 44kW (60 CV) Monte Carlo",
+            "start_year": "2017",
+            "end_year": "2019",
+            "url": "https://www.km77.com/coches/skoda/citigo/2017/3-puertas/monte-carlo/citigo-3p-10-mpi-44kw-60-cv-monte-carlo/datos",
+            "price": "11.740",
+            "potencia": "60",
+            "consumo": "4,5",
+            "longitud": "3.597",
+            "maletero": "251"
+        },
+        {
+            "name": "Citigo 3p 1.0 MPI 55kW (75 CV) ASG Ambition",
+            "start_year": "2017",
+            "end_year": "2019",
+            "url": "https://www.km77.com/coches/skoda/citigo/2017/3-puertas/ambition/citigo-3p-10-mpi-55kw-75-cv-asg-ambition/datos",
+            "price": "11.750",
+            "potencia": "75",
+            "consumo": "4,4",
+            "longitud": "3.597",
+            "maletero": "251"
+        },
+        {
+            "name": "Citigo 3p 1.0 MPI 55kW (75 CV) ASG Style",
+            "start_year": "2017",
+            "end_year": "2019",
+            "url": "https://www.km77.com/coches/skoda/citigo/2017/3-puertas/style/citigo-3p-10-mpi-55kw-75-cv-asg-style/datos",
+            "price": "12.250",
+            "potencia": "75",
+            "consumo": "4,4",
+            "longitud": "3.597",
+            "maletero": "251"
+        }
+    ]
+}

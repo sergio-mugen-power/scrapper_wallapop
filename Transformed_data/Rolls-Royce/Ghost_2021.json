@@ -1,0 +1,86 @@
+{
+    "name": "Ghost",
+    "year": "2021",
+    "url": "https://www.km77.com/coches/rolls-royce/ghost/2021/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "Ghost",
+            "start_year": "2020",
+            "end_year": "2024",
+            "url": "https://www.km77.com/coches/rolls-royce/ghost/2021/estandar/estandar/ghost/datos",
+            "price": "",
+            "potencia": "571",
+            "consumo": "15,2",
+            "longitud": "5.546",
+            "maletero": "-",
+            "specs": [
+                {
+                    "Velocidad máxima": "250 km/h",
+                    "Aceleración 0-100 km/h": "4,8 s",
+                    "Emisiones de CO₂ WLTP": "347 gr/km",
+                    "Normativa de emisiones": "Euro 6",
+                    "Distintivo ambiental DGT": "C"
+                },
+                {
+                    "Tipo de Carrocería": "Turismo",
+                    "Número de puertas": "4",
+                    "Longitud": "5.546 mm",
+                    "Altura": "1.571 mm",
+                    "Batalla": "3.295 mm",
+                    "Coeficiente Cx": "No disponible",
+                    "Superficie frontal": "No disponible",
+                    "Peso": "2.565 kg",
+                    "Filtro de partículas": "Sí",
+                    "Número de plazas": "5",
+                    "Distribución de asientos": "2 + 3"
+                },
+                {
+                    "Potencia máxima": "571 CV / 420 kW",
+                    "Par máximo": "850 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "571 CV / 420 kW",
+                    "Revoluciones potencia máxima": "5.000 rpm",
+                    "Par máximo": "850 Nm",
+                    "Revoluciones par máximo": "1.600 rpm",
+                    "Situación": "Delantero longitudinal",
+                    "Número de cilindros": "12",
+                    "Disposición de los cilindros": "En V",
+                    "Material del bloque": "Aluminio",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "89 mm",
+                    "Carrera": "88,3 mm",
+                    "Cilindrada": "6.592 cm³",
+                    "Alimentación": "Inyección directa. Turbo. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Total",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "8",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "Convertidor de par",
+                    "Tipo de mecanismo": "Epicicloidal"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Paralelogramo deformable",
+                    "Muelle suspensión delantera": "Resorte neumático",
+                    "Estructura suspensión trasera": "Paralelogramo deformable",
+                    "Muelle suspensión trasera": "Resorte neumático",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "Sí",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Tipo de frenos traseros": "Disco ventilado",
+                    "Neumáticos delanteros": "/ R",
+                    "Neumáticos traseros": "/ R",
+                    "Llantas delanteras": "x",
+                    "Llantas Traseras": "x"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "AMG GT Roadster",
+    "year": "2019",
+    "url": "https://www.km77.com/coches/mercedes/amg-gt/2019/roadster",
+    "price": "Desde 142.175 €",
+    "versions": [
+        {
+            "name": "Mercedes-AMG GT Roadster",
+            "start_year": "2018",
+            "end_year": "2019",
+            "url": "https://www.km77.com/coches/mercedes/amg-gt/2019/roadster/estandar/amg-gt-roadster/datos",
+            "price": "Precio",
+            "potencia": "476",
+            "consumo": "12,2",
+            "longitud": "4.544",
+            "maletero": "165"
+        },
+        {
+            "name": "Mercedes-AMG GT S Roadster",
+            "start_year": "2019",
+            "end_year": "2020",
+            "url": "https://www.km77.com/coches/mercedes/amg-gt/2019/roadster/s/amg-gt-s-roadster/datos",
+            "price": "Precio",
+            "potencia": "522",
+            "consumo": "12,2",
+            "longitud": "4.544",
+            "maletero": "165"
+        },
+        {
+            "name": "Mercedes-AMG GT C Roadster",
+            "start_year": "2018",
+            "end_year": "2022",
+            "url": "https://www.km77.com/coches/mercedes/amg-gt/2019/roadster/c/amg-gt-c-roadster/datos",
+            "price": "Precio",
+            "potencia": "557",
+            "consumo": "12,8",
+            "longitud": "4.551",
+            "maletero": "165"
+        },
+        {
+            "name": "Mercedes-AMG GT R Roadster",
+            "start_year": "2019",
+            "end_year": "2020",
+            "url": "https://www.km77.com/coches/mercedes/amg-gt/2019/roadster/r/amg-gt-r-roadster/datos",
+            "price": "Precio",
+            "potencia": "585",
+            "consumo": "12,9",
+            "longitud": "4.551",
+            "maletero": "165"
+        }
+    ]
+}

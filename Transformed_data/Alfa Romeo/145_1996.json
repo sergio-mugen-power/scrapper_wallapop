@@ -1,0 +1,52 @@
+{
+    "name": "145",
+    "year": "1996",
+    "url": "https://www.km77.com/coches/alfa-romeo/145/1996/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "145 1.4 TS",
+            "start_year": "2000",
+            "end_year": "2001",
+            "url": "https://www.km77.com/coches/alfa-romeo/145/1996/estandar/estandar/145-14-ts/datos",
+            "price": "13.553",
+            "potencia": "103",
+            "consumo": "7,9",
+            "longitud": "4.061",
+            "maletero": "320"
+        },
+        {
+            "name": "145 1.6 TS",
+            "start_year": "2000",
+            "end_year": "2001",
+            "url": "https://www.km77.com/coches/alfa-romeo/145/1996/estandar/estandar/145-16-ts/datos",
+            "price": "14.454",
+            "potencia": "120",
+            "consumo": "8,2",
+            "longitud": "4.061",
+            "maletero": "320"
+        },
+        {
+            "name": "145 2.0 JTD",
+            "start_year": "2000",
+            "end_year": "2001",
+            "url": "https://www.km77.com/coches/alfa-romeo/145/1996/estandar/estandar/145-20-jtd/datos",
+            "price": "16.257",
+            "potencia": "105",
+            "consumo": "5,7",
+            "longitud": "4.061",
+            "maletero": "320"
+        },
+        {
+            "name": "145 2.0 Quadrifoglio",
+            "start_year": "2000",
+            "end_year": "2001",
+            "url": "https://www.km77.com/coches/alfa-romeo/145/1996/estandar/quadrifoglio/145-20-quadrifoglio/datos",
+            "price": "17.652",
+            "potencia": "155",
+            "consumo": "8,7",
+            "longitud": "4.061",
+            "maletero": "320"
+        }
+    ]
+}

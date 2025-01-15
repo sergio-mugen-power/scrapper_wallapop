@@ -1,0 +1,962 @@
+{
+    "name": "Clase V",
+    "year": "1999",
+    "url": "https://www.km77.com/coches/mercedes/clase-v/1999/estandar",
+    "price": "Desde 75.135 €",
+    "versions": [
+        {
+            "name": "V 200 CDI",
+            "start_year": "1999",
+            "end_year": "2003",
+            "url": "https://www.km77.com/coches/mercedes/clase-v/1999/estandar/estandar/v-200-cdi/datos",
+            "price": "Precio",
+            "potencia": "102",
+            "consumo": "8",
+            "longitud": "4.660",
+            "maletero": "581",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "32.910 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "25.711 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "01/2003"
+                },
+                {
+                    "Velocidad máxima": "155 km/h",
+                    "Aceleración 0-100 km/h": "20,6 s",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "Sin distintivo"
+                },
+                {
+                    "Tipo de Carrocería": "Monovolumen",
+                    "Número de puertas": "5",
+                    "Longitud": "4.660 mm",
+                    "Anchura": "1.880 mm",
+                    "Altura": "1.844 mm",
+                    "Batalla": "3.000 mm",
+                    "Vía delantera": "1.620 mm",
+                    "Vía trasera": "1.630 mm",
+                    "Coeficiente Cx": "0,34",
+                    "Peso": "2.010 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "7",
+                    "Distribución de asientos": "7"
+                },
+                {
+                    "Potencia máxima": "102 CV / 75 kW",
+                    "Par máximo": "250 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasóleo",
+                    "Potencia máxima": "102 CV / 75 kW",
+                    "Revoluciones potencia máxima": "3.800 rpm",
+                    "Par máximo": "250 Nm",
+                    "Revoluciones par máximo": "1.600 - 2.400 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "88 mm",
+                    "Carrera": "88,4 mm",
+                    "Cilindrada": "2.151 cm³",
+                    "Relación de compresión": "19 a 1",
+                    "Alimentación": "Inyección directa por conducto común. Turbo. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "5",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "No disponible",
+                    "Muelle suspensión trasera": "Resorte neumático",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "276 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "280 mm",
+                    "Neumáticos delanteros": "195/70 R15 T",
+                    "Neumáticos traseros": "195/70 R15 T",
+                    "Llantas delanteras": "6 x 15",
+                    "Llantas Traseras": "6 x 15"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)32.910 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "25.711 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "01/2003"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Control de tracción": "De serie",
+                    "Cuentavueltas": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Programador de velocidad": "524 €",
+                    "Termómetro de agua": "De serie",
+                    "Volante con ajuste horizontal": "De serie",
+                    "Volante con ajuste vertical": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Asiento conductor eléctrico": "881 €",
+                    "Asientos delanteros con calefacción": "416 €",
+                    "Cierre centralizado": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Espejos eléctricos": "De serie",
+                    "Mando de apertura y cierre a distancia": "De serie",
+                    "Techo corredizo": "500 €"
+                },
+                {
+                    "Paragolpes pintados": "De serie",
+                    "Pintura metalizada": "570 €",
+                    "Tapiceria de cuero": "2.807 €"
+                },
+                {
+                    "Cargador de CD": "733 €",
+                    "Navegador": "2.880 €",
+                    "Radiocasete": "421 €"
+                },
+                {
+                    "Llantas de aleación": "922 €"
+                },
+                {},
+                {
+                    "Alarma antirrobo": "349 €",
+                    "Inmovilizador": "De serie"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "V 230",
+            "start_year": "1999",
+            "end_year": "2003",
+            "url": "https://www.km77.com/coches/mercedes/clase-v/1999/estandar/estandar/v-230/datos",
+            "price": "Precio",
+            "potencia": "143",
+            "consumo": "11,5",
+            "longitud": "4.660",
+            "maletero": "581",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "32.910 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "25.711 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "01/2003"
+                },
+                {
+                    "Velocidad máxima": "174 km/h",
+                    "Aceleración 0-100 km/h": "15,1 s",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "Sin distintivo"
+                },
+                {
+                    "Tipo de Carrocería": "Monovolumen",
+                    "Número de puertas": "5",
+                    "Longitud": "4.660 mm",
+                    "Anchura": "1.880 mm",
+                    "Altura": "1.844 mm",
+                    "Batalla": "3.000 mm",
+                    "Vía delantera": "1.620 mm",
+                    "Vía trasera": "1.630 mm",
+                    "Peso": "1.971 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "7",
+                    "Distribución de asientos": "7"
+                },
+                {
+                    "Potencia máxima": "143 CV / 105 kW",
+                    "Par máximo": "215 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "143 CV / 105 kW",
+                    "Revoluciones potencia máxima": "5.000 rpm",
+                    "Par máximo": "215 Nm",
+                    "Revoluciones par máximo": "3.500 - 4.500 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "90,9 mm",
+                    "Carrera": "88,4 mm",
+                    "Cilindrada": "2.295 cm³",
+                    "Relación de compresión": "10,4 a 1",
+                    "Alimentación": "Inyección Indirecta.",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "5",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "No disponible",
+                    "Muelle suspensión trasera": "Resorte neumático",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "276 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "280 mm",
+                    "Neumáticos delanteros": "195/70 R15 T",
+                    "Neumáticos traseros": "195/70 R15 T",
+                    "Llantas delanteras": "6 x 15",
+                    "Llantas Traseras": "6 x 15"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)32.910 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "25.711 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "01/2003"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Control de tracción": "De serie",
+                    "Cuentavueltas": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Programador de velocidad": "524 €",
+                    "Termómetro de agua": "De serie",
+                    "Volante con ajuste horizontal": "De serie",
+                    "Volante con ajuste vertical": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Asiento conductor eléctrico": "881 €",
+                    "Asientos delanteros con calefacción": "416 €",
+                    "Cierre centralizado": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Espejos eléctricos": "De serie",
+                    "Mando de apertura y cierre a distancia": "De serie",
+                    "Techo corredizo": "500 €"
+                },
+                {
+                    "Paragolpes pintados": "De serie",
+                    "Pintura metalizada": "570 €",
+                    "Tapiceria de cuero": "2.807 €"
+                },
+                {
+                    "Cargador de CD": "733 €",
+                    "Navegador": "2.888 €",
+                    "Radiocasete": "421 €"
+                },
+                {
+                    "Llantas de aleación": "922 €"
+                },
+                {},
+                {
+                    "Alarma antirrobo": "349 €",
+                    "Inmovilizador": "De serie"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "V 220 CDI",
+            "start_year": "1999",
+            "end_year": "2003",
+            "url": "https://www.km77.com/coches/mercedes/clase-v/1999/estandar/estandar/v-220-cdi/datos",
+            "price": "Precio",
+            "potencia": "122",
+            "consumo": "8",
+            "longitud": "4.660",
+            "maletero": "581",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "34.200 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "26.719 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "01/2003"
+                },
+                {
+                    "Velocidad máxima": "164 km/h",
+                    "Aceleración 0-100 km/h": "17,5 s",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "Sin distintivo"
+                },
+                {
+                    "Tipo de Carrocería": "Monovolumen",
+                    "Número de puertas": "5",
+                    "Longitud": "4.660 mm",
+                    "Anchura": "1.880 mm",
+                    "Altura": "1.844 mm",
+                    "Batalla": "3.000 mm",
+                    "Vía delantera": "1.620 mm",
+                    "Vía trasera": "1.630 mm",
+                    "Coeficiente Cx": "0,34",
+                    "Peso": "2.010 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "7",
+                    "Distribución de asientos": "7"
+                },
+                {
+                    "Potencia máxima": "122 CV / 90 kW",
+                    "Par máximo": "300 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasóleo",
+                    "Potencia máxima": "122 CV / 90 kW",
+                    "Revoluciones potencia máxima": "3.800 rpm",
+                    "Par máximo": "300 Nm",
+                    "Revoluciones par máximo": "1.800 - 2.500 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "88 mm",
+                    "Carrera": "88,4 mm",
+                    "Cilindrada": "2.151 cm³",
+                    "Relación de compresión": "19 a 1",
+                    "Alimentación": "Inyección directa por conducto común. Turbo. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Manual",
+                    "Número de velocidades": "5",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "No disponible",
+                    "Muelle suspensión trasera": "Resorte neumático",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "276 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "280 mm",
+                    "Neumáticos delanteros": "195/70 R15 T",
+                    "Neumáticos traseros": "195/70 R15 T",
+                    "Llantas delanteras": "6 x 15",
+                    "Llantas Traseras": "6 x 15"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)34.200 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "26.719 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "01/2003"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Control de tracción": "De serie",
+                    "Cuentavueltas": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Programador de velocidad": "524 €",
+                    "Termómetro de agua": "De serie",
+                    "Volante con ajuste horizontal": "De serie",
+                    "Volante con ajuste vertical": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Asiento conductor eléctrico": "881 €",
+                    "Asientos delanteros con calefacción": "416 €",
+                    "Cierre centralizado": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Espejos eléctricos": "De serie",
+                    "Mando de apertura y cierre a distancia": "De serie",
+                    "Techo corredizo": "500 €"
+                },
+                {
+                    "Paragolpes pintados": "De serie",
+                    "Pintura metalizada": "570 €",
+                    "Tapiceria de cuero": "2.807 €"
+                },
+                {
+                    "Cargador de CD": "733 €",
+                    "Navegador": "2.888 €",
+                    "Radiocasete": "421 €"
+                },
+                {
+                    "Llantas de aleación": "922 €"
+                },
+                {},
+                {
+                    "Alarma antirrobo": "349 €",
+                    "Inmovilizador": "De serie"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "V 200 CDI Aut.",
+            "start_year": "1999",
+            "end_year": "2003",
+            "url": "https://www.km77.com/coches/mercedes/clase-v/1999/estandar/estandar/v-200-cdi-aut/datos",
+            "price": "Precio",
+            "potencia": "102",
+            "consumo": "8,3",
+            "longitud": "4.660",
+            "maletero": "581",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "34.995 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "27.340 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "01/2003"
+                },
+                {
+                    "Velocidad máxima": "155 km/h",
+                    "Aceleración 0-100 km/h": "18,2 s",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "Sin distintivo"
+                },
+                {
+                    "Tipo de Carrocería": "Monovolumen",
+                    "Número de puertas": "5",
+                    "Longitud": "4.660 mm",
+                    "Anchura": "1.880 mm",
+                    "Altura": "1.844 mm",
+                    "Batalla": "3.000 mm",
+                    "Vía delantera": "1.620 mm",
+                    "Vía trasera": "1.630 mm",
+                    "Coeficiente Cx": "0,34",
+                    "Peso": "2.010 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "7",
+                    "Distribución de asientos": "7"
+                },
+                {
+                    "Potencia máxima": "102 CV / 75 kW",
+                    "Par máximo": "250 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasóleo",
+                    "Potencia máxima": "102 CV / 75 kW",
+                    "Revoluciones potencia máxima": "3.800 rpm",
+                    "Par máximo": "250 Nm",
+                    "Revoluciones par máximo": "1.600 - 2.400 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "88 mm",
+                    "Carrera": "88,4 mm",
+                    "Cilindrada": "2.151 cm³",
+                    "Relación de compresión": "19 a 1",
+                    "Alimentación": "Inyección directa por conducto común. Turbo. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "4",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "No disponible",
+                    "Muelle suspensión trasera": "Resorte neumático",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "276 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "280 mm",
+                    "Neumáticos delanteros": "195/70 R15 T",
+                    "Neumáticos traseros": "195/70 R15 T",
+                    "Llantas delanteras": "6 x 15",
+                    "Llantas Traseras": "6 x 15"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)34.995 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "27.340 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "01/2003"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Control de tracción": "De serie",
+                    "Cuentavueltas": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Programador de velocidad": "524 €",
+                    "Termómetro de agua": "De serie",
+                    "Volante con ajuste horizontal": "De serie",
+                    "Volante con ajuste vertical": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Asiento conductor eléctrico": "881 €",
+                    "Asientos delanteros con calefacción": "416 €",
+                    "Cierre centralizado": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Espejos eléctricos": "De serie",
+                    "Mando de apertura y cierre a distancia": "De serie",
+                    "Techo corredizo": "500 €"
+                },
+                {
+                    "Paragolpes pintados": "De serie",
+                    "Pintura metalizada": "570 €",
+                    "Tapiceria de cuero": "2.807 €"
+                },
+                {
+                    "Cargador de CD": "733 €",
+                    "Navegador": "2.880 €",
+                    "Radiocasete": "421 €"
+                },
+                {
+                    "Llantas de aleación": "922 €"
+                },
+                {},
+                {
+                    "Alarma antirrobo": "349 €",
+                    "Inmovilizador": "De serie"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "V 230 Aut.",
+            "start_year": "1999",
+            "end_year": "2003",
+            "url": "https://www.km77.com/coches/mercedes/clase-v/1999/estandar/estandar/v-230-aut/datos",
+            "price": "Precio",
+            "potencia": "143",
+            "consumo": "11,9",
+            "longitud": "4.660",
+            "maletero": "581",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "34.995 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "27.340 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "01/2003"
+                },
+                {
+                    "Velocidad máxima": "173 km/h",
+                    "Aceleración 0-100 km/h": "14,2 s",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "Sin distintivo"
+                },
+                {
+                    "Tipo de Carrocería": "Monovolumen",
+                    "Número de puertas": "5",
+                    "Longitud": "4.660 mm",
+                    "Anchura": "1.880 mm",
+                    "Altura": "1.844 mm",
+                    "Batalla": "3.000 mm",
+                    "Vía delantera": "1.620 mm",
+                    "Vía trasera": "1.630 mm",
+                    "Peso": "1.971 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "7",
+                    "Distribución de asientos": "7"
+                },
+                {
+                    "Potencia máxima": "143 CV / 105 kW",
+                    "Par máximo": "215 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "143 CV / 105 kW",
+                    "Revoluciones potencia máxima": "5.000 rpm",
+                    "Par máximo": "215 Nm",
+                    "Revoluciones par máximo": "3.500 - 4.500 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "90,9 mm",
+                    "Carrera": "88,4 mm",
+                    "Cilindrada": "2.295 cm³",
+                    "Relación de compresión": "10,4 a 1",
+                    "Alimentación": "Inyección Indirecta.",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "4",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "No disponible",
+                    "Muelle suspensión trasera": "Resorte neumático",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "276 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "280 mm",
+                    "Neumáticos delanteros": "195/70 R15 T",
+                    "Neumáticos traseros": "195/70 R15 T",
+                    "Llantas delanteras": "6 x 15",
+                    "Llantas Traseras": "6 x 15"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)34.995 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "27.340 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "01/2003"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Control de tracción": "De serie",
+                    "Cuentavueltas": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Programador de velocidad": "524 €",
+                    "Termómetro de agua": "De serie",
+                    "Volante con ajuste horizontal": "De serie",
+                    "Volante con ajuste vertical": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Asiento conductor eléctrico": "881 €",
+                    "Asientos delanteros con calefacción": "416 €",
+                    "Cierre centralizado": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Espejos eléctricos": "De serie",
+                    "Mando de apertura y cierre a distancia": "De serie",
+                    "Techo corredizo": "500 €"
+                },
+                {
+                    "Paragolpes pintados": "De serie",
+                    "Pintura metalizada": "570 €",
+                    "Tapiceria de cuero": "2.807 €"
+                },
+                {
+                    "Cargador de CD": "733 €",
+                    "Navegador": "2.888 €",
+                    "Radiocasete": "421 €"
+                },
+                {
+                    "Llantas de aleación": "922 €"
+                },
+                {},
+                {
+                    "Alarma antirrobo": "349 €",
+                    "Inmovilizador": "De serie"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "V 220 CDI Aut.",
+            "start_year": "1999",
+            "end_year": "2003",
+            "url": "https://www.km77.com/coches/mercedes/clase-v/1999/estandar/estandar/v-220-cdi-aut/datos",
+            "price": "Precio",
+            "potencia": "122",
+            "consumo": "8,3",
+            "longitud": "4.660",
+            "maletero": "581",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "36.285 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "28.348 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "01/2003"
+                },
+                {
+                    "Velocidad máxima": "164 km/h",
+                    "Aceleración 0-100 km/h": "14,9 s",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "Sin distintivo"
+                },
+                {
+                    "Tipo de Carrocería": "Monovolumen",
+                    "Número de puertas": "5",
+                    "Longitud": "4.660 mm",
+                    "Anchura": "1.880 mm",
+                    "Altura": "1.844 mm",
+                    "Batalla": "3.000 mm",
+                    "Vía delantera": "1.620 mm",
+                    "Vía trasera": "1.630 mm",
+                    "Coeficiente Cx": "0,34",
+                    "Peso": "2.010 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "7",
+                    "Distribución de asientos": "7"
+                },
+                {
+                    "Potencia máxima": "122 CV / 90 kW",
+                    "Par máximo": "300 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasóleo",
+                    "Potencia máxima": "122 CV / 90 kW",
+                    "Revoluciones potencia máxima": "3.800 rpm",
+                    "Par máximo": "300 Nm",
+                    "Revoluciones par máximo": "1.800 - 2.500 rpm",
+                    "Situación": "Delantero transversal",
+                    "Número de cilindros": "4",
+                    "Disposición de los cilindros": "En línea",
+                    "Material del bloque": "Hierro",
+                    "Material de la culata": "Aluminio",
+                    "Diámetro": "88 mm",
+                    "Carrera": "88,4 mm",
+                    "Cilindrada": "2.151 cm³",
+                    "Relación de compresión": "19 a 1",
+                    "Alimentación": "Inyección directa por conducto común. Turbo. Intercooler",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "4",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "No disponible",
+                    "Muelle suspensión trasera": "Resorte neumático",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "276 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "280 mm",
+                    "Neumáticos delanteros": "195/70 R15 T",
+                    "Neumáticos traseros": "195/70 R15 T",
+                    "Llantas delanteras": "6 x 15",
+                    "Llantas Traseras": "6 x 15"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)36.285 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "28.348 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "01/2003"
+                },
+                {
+                    "Airbag frontal conductor": "De serie",
+                    "Airbag frontal pasajero": "De serie",
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Control de tracción": "De serie",
+                    "Cuentavueltas": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Programador de velocidad": "524 €",
+                    "Termómetro de agua": "De serie",
+                    "Volante con ajuste horizontal": "De serie",
+                    "Volante con ajuste vertical": "De serie"
+                },
+                {
+                    "Aire acondicionado": "De serie",
+                    "Asiento conductor eléctrico": "881 €",
+                    "Asientos delanteros con calefacción": "416 €",
+                    "Cierre centralizado": "De serie",
+                    "Elevalunas electricos delanteros": "De serie",
+                    "Espejos eléctricos": "De serie",
+                    "Mando de apertura y cierre a distancia": "De serie",
+                    "Techo corredizo": "500 €"
+                },
+                {
+                    "Paragolpes pintados": "De serie",
+                    "Pintura metalizada": "570 €",
+                    "Tapiceria de cuero": "2.807 €"
+                },
+                {
+                    "Cargador de CD": "733 €",
+                    "Navegador": "2.888 €",
+                    "Radiocasete": "421 €"
+                },
+                {
+                    "Llantas de aleación": "922 €"
+                },
+                {},
+                {
+                    "Alarma antirrobo": "349 €",
+                    "Inmovilizador": "De serie"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "V 280",
+            "start_year": "1999",
+            "end_year": "2002",
+            "url": "https://www.km77.com/coches/mercedes/clase-v/1999/estandar/estandar/v-280/datos",
+            "price": "Precio",
+            "potencia": "174",
+            "consumo": "13,8",
+            "longitud": "4.660",
+            "maletero": "581",
+            "specs": [
+                {
+                    "Precio (con descuento y equipamiento seleccionado)": "37.200 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "29.063 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "01/2001"
+                },
+                {
+                    "Velocidad máxima": "184 km/h",
+                    "Aceleración 0-100 km/h": "12,7 s",
+                    "Normativa de emisiones": "No disponible",
+                    "Distintivo ambiental DGT": "Sin distintivo"
+                },
+                {
+                    "Tipo de Carrocería": "Monovolumen",
+                    "Número de puertas": "5",
+                    "Longitud": "4.660 mm",
+                    "Anchura": "1.880 mm",
+                    "Altura": "1.844 mm",
+                    "Batalla": "3.000 mm",
+                    "Vía delantera": "1.620 mm",
+                    "Vía trasera": "1.630 mm",
+                    "Peso": "2.070 kg",
+                    "Filtro de partículas": "No",
+                    "Número de plazas": "7",
+                    "Distribución de asientos": "7"
+                },
+                {
+                    "Potencia máxima": "174 CV / 128 kW",
+                    "Par máximo": "237 Nm"
+                },
+                {
+                    "Propósito": "Impulsar el vehículo",
+                    "Combustible": "Gasolina",
+                    "Potencia máxima": "174 CV / 128 kW",
+                    "Revoluciones potencia máxima": "6.000 rpm",
+                    "Par máximo": "237 Nm",
+                    "Revoluciones par máximo": "2.800 - 3.200 rpm",
+                    "Situación": "Delantero transversal",
+                    "Disposición de los cilindros": "No disponible",
+                    "Material del bloque": "No disponible",
+                    "Material de la culata": "No disponible",
+                    "Cilindrada": "2.792 cm³",
+                    "Relación de compresión": "10,1 a 1",
+                    "Alimentación": "- - .",
+                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
+                },
+                {
+                    "Tracción": "Delantera",
+                    "Caja de cambios": "Automático",
+                    "Número de velocidades": "4",
+                    "Tipo de mando": "No disponible",
+                    "Tipo de Embrague": "No disponible",
+                    "Tipo de mecanismo": "No disponible"
+                },
+                {},
+                {
+                    "Estructura suspensión delantera": "Tipo McPherson",
+                    "Muelle suspensión delantera": "Resorte helicoidal",
+                    "Estructura suspensión trasera": "No disponible",
+                    "Muelle suspensión trasera": "Resorte neumático",
+                    "Barra estabilizadora delantera": "Sí",
+                    "Barra estabilizadora trasera": "No",
+                    "Tipo de frenos delanteros": "Disco ventilado",
+                    "Diámetro de frenos delanteros": "276 mm",
+                    "Tipo de frenos traseros": "Disco",
+                    "Diámetro de frenos traseros": "280 mm",
+                    "Neumáticos delanteros": "205/60 R16 H",
+                    "Neumáticos traseros": "205/60 R16 H",
+                    "Llantas delanteras": "7 x 16",
+                    "Llantas Traseras": "7 x 16"
+                },
+                {},
+                {
+                    "Precio (con descuento y equipamiento seleccionado)37.200 €": "Coste opciones seleccionadas: 0 €",
+                    "Descuento oficial": "0 €",
+                    "Precio sin impuestos": "29.063 €",
+                    "IVA": "16 %",
+                    "Impuesto de matriculación": "12 %",
+                    "Tarifa de": "01/2001"
+                },
+                {
+                    "Antibloqueo de frenos (ABS)": "De serie",
+                    "Cuentavueltas": "De serie",
+                    "Direccion asistida": "De serie",
+                    "Faros antiniebla": "De serie",
+                    "Termómetro de agua": "De serie"
+                },
+                {
+                    "Paragolpes pintados": "De serie"
+                },
+                {
+                    "Inmovilizador": "De serie"
+                },
+                {},
+                {}
+            ]
+        }
+    ]
+}

@@ -1,0 +1,228 @@
+{
+    "name": "9-3 Cabrio",
+    "year": "1998",
+    "url": "https://www.km77.com/coches/saab/9-3/1998/cabrio",
+    "price": "",
+    "versions": [
+        {
+            "name": "9-3 2.0i Cabrio",
+            "start_year": "1998",
+            "end_year": "2000",
+            "url": "https://www.km77.com/coches/saab/9-3/1998/cabrio/estandar/9-3-20i-cabrio/datos",
+            "price": "33.030",
+            "potencia": "131",
+            "consumo": "9,4",
+            "longitud": "4.639",
+            "maletero": "295"
+        },
+        {
+            "name": "9-3 2.0t Cabrio",
+            "start_year": "2000",
+            "end_year": "2001",
+            "url": "https://www.km77.com/coches/saab/9-3/1998/cabrio/estandar/9-3-20t-cabrio/datos",
+            "price": "34.246",
+            "potencia": "150",
+            "consumo": "8,8",
+            "longitud": "4.639",
+            "maletero": "295"
+        },
+        {
+            "name": "9-3 Cabrio 2.0 t Ecopower (150CV) S",
+            "start_year": "2001",
+            "end_year": "2003",
+            "url": "https://www.km77.com/coches/saab/9-3/1998/cabrio/s/9-3-cabrio-20-t-ecopower-150cv-s/datos",
+            "price": "34.800",
+            "potencia": "150",
+            "consumo": "8,8",
+            "longitud": "4.639",
+            "maletero": "295"
+        },
+        {
+            "name": "9-3 2.0i Cabrio Aut.",
+            "start_year": "1998",
+            "end_year": "2000",
+            "url": "https://www.km77.com/coches/saab/9-3/1998/cabrio/estandar/9-3-20i-cabrio-aut/datos",
+            "price": "34.872",
+            "potencia": "131",
+            "consumo": "10,1",
+            "longitud": "4.639",
+            "maletero": "295"
+        },
+        {
+            "name": "9-3 2.0t Cabrio Aut.",
+            "start_year": "2000",
+            "end_year": "2001",
+            "url": "https://www.km77.com/coches/saab/9-3/1998/cabrio/estandar/9-3-20t-cabrio-aut/datos",
+            "price": "36.092",
+            "potencia": "150",
+            "consumo": "10,2",
+            "longitud": "4.639",
+            "maletero": "295"
+        },
+        {
+            "name": "9-3 Cabrio 2.0 t Ecopower (150CV) S Aut.",
+            "start_year": "2001",
+            "end_year": "2003",
+            "url": "https://www.km77.com/coches/saab/9-3/1998/cabrio/s/9-3-cabrio-20-t-ecopower-150cv-s-aut/datos",
+            "price": "36.700",
+            "potencia": "150",
+            "consumo": "10,1",
+            "longitud": "4.639",
+            "maletero": "295"
+        },
+        {
+            "name": "9-3 Aero 2.0 TS 5p Aut.",
+            "start_year": "2000",
+            "end_year": "2001",
+            "url": "https://www.km77.com/coches/saab/9-3/1998/cabrio/aero/9-3-aero-20-ts-5p-aut/datos",
+            "price": "37.228",
+            "potencia": "205",
+            "consumo": "10",
+            "longitud": "4.639",
+            "maletero": "295"
+        },
+        {
+            "name": "9-3 SE 2.0t Cabrio",
+            "start_year": "1998",
+            "end_year": "2000",
+            "url": "https://www.km77.com/coches/saab/9-3/1998/cabrio/se/9-3-se-20t-cabrio/datos",
+            "price": "38.438",
+            "potencia": "154",
+            "consumo": "9,4",
+            "longitud": "4.639",
+            "maletero": "295"
+        },
+        {
+            "name": "9-3 SE 2.0 T Cabrio",
+            "start_year": "2000",
+            "end_year": "2001",
+            "url": "https://www.km77.com/coches/saab/9-3/1998/cabrio/se/9-3-se-20-t-cabrio/datos",
+            "price": "39.054",
+            "potencia": "185",
+            "consumo": "8,8",
+            "longitud": "4.639",
+            "maletero": "295"
+        },
+        {
+            "name": "9-3 Cabrio 2.0 T Ecopower (185CV) SE",
+            "start_year": "2001",
+            "end_year": "2003",
+            "url": "https://www.km77.com/coches/saab/9-3/1998/cabrio/se/9-3-cabrio-20-t-ecopower-185cv-se/datos",
+            "price": "39.600",
+            "potencia": "185",
+            "consumo": "8,8",
+            "longitud": "4.639",
+            "maletero": "295"
+        },
+        {
+            "name": "9-3 SE 2.0t Cabrio Aut.",
+            "start_year": "1998",
+            "end_year": "2000",
+            "url": "https://www.km77.com/coches/saab/9-3/1998/cabrio/se/9-3-se-20t-cabrio-aut/datos",
+            "price": "40.281",
+            "potencia": "154",
+            "consumo": "10,6",
+            "longitud": "4.639",
+            "maletero": "295"
+        },
+        {
+            "name": "9-3 SE 2.0 T Cabrio Aut.",
+            "start_year": "2000",
+            "end_year": "2001",
+            "url": "https://www.km77.com/coches/saab/9-3/1998/cabrio/se/9-3-se-20-t-cabrio-aut/datos",
+            "price": "40.900",
+            "potencia": "185",
+            "consumo": "10,1",
+            "longitud": "4.639",
+            "maletero": "295"
+        },
+        {
+            "name": "9-3 Cabrio 2.0 T Ecopower (185CV) SE Aut.",
+            "start_year": "2001",
+            "end_year": "2003",
+            "url": "https://www.km77.com/coches/saab/9-3/1998/cabrio/se/9-3-cabrio-20-t-ecopower-185cv-se-aut/datos",
+            "price": "41.500",
+            "potencia": "185",
+            "consumo": "10,1",
+            "longitud": "4.639",
+            "maletero": "295"
+        },
+        {
+            "name": "9-3 SE 2.0 TS Cabrio",
+            "start_year": "1998",
+            "end_year": "2000",
+            "url": "https://www.km77.com/coches/saab/9-3/1998/cabrio/se/9-3-se-20-ts-cabrio/datos",
+            "price": "42.346",
+            "potencia": "205",
+            "consumo": "9",
+            "longitud": "4.639",
+            "maletero": "295"
+        },
+        {
+            "name": "9-3 SE 2.0 TS Cabrio Aut.",
+            "start_year": "1998",
+            "end_year": "2000",
+            "url": "https://www.km77.com/coches/saab/9-3/1998/cabrio/se/9-3-se-20-ts-cabrio-aut/datos",
+            "price": "44.188",
+            "potencia": "205",
+            "consumo": "10,3",
+            "longitud": "4.639",
+            "maletero": "295"
+        },
+        {
+            "name": "9-3 Cabrio 2.0 TS Ecopower (205CV) Aero",
+            "start_year": "2001",
+            "end_year": "2003",
+            "url": "https://www.km77.com/coches/saab/9-3/1998/cabrio/aero/9-3-cabrio-20-ts-ecopower-205cv-aero/datos",
+            "price": "44.400",
+            "potencia": "205",
+            "consumo": "9",
+            "longitud": "4.629",
+            "maletero": "295"
+        },
+        {
+            "name": "9-3 Aero 2.0 TS Cabrio",
+            "start_year": "1998",
+            "end_year": "2001",
+            "url": "https://www.km77.com/coches/saab/9-3/1998/cabrio/aero/9-3-aero-20-ts-cabrio/datos",
+            "price": "44.457",
+            "potencia": "205",
+            "consumo": "9",
+            "longitud": "4.639",
+            "maletero": "295"
+        },
+        {
+            "name": "9-3 Cabrio 2.0 TS Ecopower (205CV) Aero Aut.",
+            "start_year": "2001",
+            "end_year": "2003",
+            "url": "https://www.km77.com/coches/saab/9-3/1998/cabrio/aero/9-3-cabrio-20-ts-ecopower-205cv-aero-aut/datos",
+            "price": "46.300",
+            "potencia": "205",
+            "consumo": "10",
+            "longitud": "4.629",
+            "maletero": "295"
+        },
+        {
+            "name": "9-3 Aero 2.0 TS Cabrio Aut.",
+            "start_year": "1998",
+            "end_year": "2001",
+            "url": "https://www.km77.com/coches/saab/9-3/1998/cabrio/aero/9-3-aero-20-ts-cabrio-aut/datos",
+            "price": "46.303",
+            "potencia": "205",
+            "consumo": "10",
+            "longitud": "4.639",
+            "maletero": "295"
+        },
+        {
+            "name": "9-3 Viggen 2.3 TS Cabrio",
+            "start_year": "1998",
+            "end_year": "2000",
+            "url": "https://www.km77.com/coches/saab/9-3/1998/cabrio/viggen/9-3-viggen-23-ts-cabrio/datos",
+            "price": "49.770",
+            "potencia": "224",
+            "consumo": "9,6",
+            "longitud": "4.640",
+            "maletero": "495"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "3200 GT",
+    "year": "1998",
+    "url": "https://www.km77.com/coches/maserati/3200-gt/1998/estandar",
+    "price": "",
+    "versions": [
+        {
+            "name": "3200 GT",
+            "start_year": "1998",
+            "end_year": "2002",
+            "url": "https://www.km77.com/coches/maserati/3200-gt/1998/estandar/estandar/3200-gt/datos",
+            "price": "Precio",
+            "potencia": "368",
+            "consumo": "-",
+            "longitud": "4.510",
+            "maletero": "220"
+        },
+        {
+            "name": "3200 GT Aut.",
+            "start_year": "1998",
+            "end_year": "2002",
+            "url": "https://www.km77.com/coches/maserati/3200-gt/1998/estandar/estandar/3200-gt-aut/datos",
+            "price": "Precio",
+            "potencia": "368",
+            "consumo": "-",
+            "longitud": "4.510",
+            "maletero": "220"
+        }
+    ]
+}
