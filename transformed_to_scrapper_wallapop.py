@@ -1,21 +1,13 @@
 import os
 import json
-<<<<<<< HEAD
 import unicodedata
 # Directorios base
 input_dir = "transformed_data"
 output_dir = "parameters_scrapper"
-=======
-
-# Directorios base
-input_dir = "../transformed_data"
-output_dir = "../parameters_scrapper_wallapop"
->>>>>>> 36901b948494745d7362fd5dc38ae4a5c2c80afe
 
 # Crear directorio de salida si no existe
 os.makedirs(output_dir, exist_ok=True)
 
-<<<<<<< HEAD
 def normalize_text(text):
     """
     Normaliza el texto para eliminar inconsistencias en caracteres con acentos.
@@ -91,62 +83,6 @@ def process_json(file_path, brand, output_path):
     except Exception as e:
         print(f"Error procesando {file_path}: {e}")
 
-=======
-def transformar_combustible(data):
-    """
-    Transforma el tipo de combustible según las reglas especificadas.
-    """
-    if 'specs' in data:
-        specs = data['specs']
-        
-        # Transformar el combustible
-        if 'combustible' in specs:
-            combustible = specs['combustible']
-            if 'Gasolina' in combustible:
-                specs['combustible'] = 'gasoline'
-            elif 'Gasóleo' in combustible:
-                specs['combustible'] = 'gasoil'
-        
-        # Verificar el distintivo ambiental y asignar combustible 'electric-hybrid'
-        if 'Distintivo ambiental DGT' in specs:
-            distintivo = specs['Distintivo ambiental DGT']
-            if '0 emisiones' in distintivo or 'ECO' in distintivo:
-                specs['combustible'] = 'electric-hybrid'
-
-    return data
-
-def process_json(file_path, brand):
-    """
-    Procesa un archivo JSON para extraer los parámetros necesarios.
-    """
-    try:
-        with open(file_path, 'r') as file:
-            data = json.load(file)
-        
-        # Aplicar la transformación del combustible
-        data = transformar_combustible(data)
-        
-        # Extraer datos
-        model = data.get("name")
-        versions = data.get("versions", [])
-        
-        # Extraer años y keywords de las versiones
-        min_year = min(v.get("start_year", 0) for v in versions)
-        max_year = max(v.get("end_year", 0) for v in versions)
-        keywords = [v.get("name", "") for v in versions]
-        
-        # Construir estructura de parámetros
-        return {
-            "brand": brand,
-            "model": model,
-            "min_year": min_year,
-            "max_year": max_year,
-            "keywords": keywords
-        }
-    except Exception as e:
-        print(f"Error procesando {file_path}: {e}")
-        return None
->>>>>>> 36901b948494745d7362fd5dc38ae4a5c2c80afe
 
 def process_directory(input_dir, output_dir):
     """
@@ -165,20 +101,9 @@ def process_directory(input_dir, output_dir):
         for file in files:
             if file.endswith('.json'):
                 file_path = os.path.join(root, file)
-<<<<<<< HEAD
                 
                 # Procesar el archivo JSON
                 process_json(file_path, brand, output_path)
-=======
-                output_file = os.path.join(output_path, file)
-                
-                # Procesar el archivo JSON
-                parameters = process_json(file_path, brand)
-                if parameters:
-                    # Guardar parámetros en JSON
-                    with open(output_file, 'w') as out_file:
-                        json.dump(parameters, out_file, indent=4)
->>>>>>> 36901b948494745d7362fd5dc38ae4a5c2c80afe
 
 if __name__ == "__main__":
     process_directory(input_dir, output_dir)
