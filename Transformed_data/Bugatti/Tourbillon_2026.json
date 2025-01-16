@@ -15,84 +15,49 @@
             "consumo": "-",
             "longitud": "4.671",
             "maletero": "-",
-            "specs": [
-                {
-                    "Velocidad máxima": "445 km/h",
-                    "Aceleración 0-100 km/h": "2 s",
-                    "Autonomía eléctrica WLTP": "60 km",
-                    "Normativa de emisiones": "Euro 6",
-                    "Distintivo ambiental DGT": "0 emisiones"
-                },
-                {
-                    "Tipo de Carrocería": "Coupé",
-                    "Número de puertas": "2",
-                    "Longitud": "4.671 mm",
-                    "Anchura": "2.051 mm",
-                    "Altura": "1.189 mm",
-                    "Batalla": "2.740 mm",
-                    "Peso": "2.070 kg",
-                    "Número de plazas": "2",
-                    "Distribución de asientos": "2"
-                },
-                {
-                    "Potencia máxima": "1.800 CV / 1.324 kW"
-                },
-                {
-                    "Propósito": "Impulsar el vehículo",
-                    "Combustible": "Gasolina",
-                    "Potencia máxima": "1.000 CV / 735,5 kW",
-                    "Par máximo": "900 Nm",
-                    "Situación": "Central trasero longitudinal",
-                    "Número de cilindros": "16",
-                    "Disposición de los cilindros": "En V",
-                    "Cilindrada": "8.300 cm³",
-                    "Alimentación": "- - .",
-                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No"
-                },
-                {
-                    "Propósito": "Impulsar al vehículo / generar corriente eléc",
-                    "Potencia máxima": "340 CV / 250 kW",
-                    "Ubicación": "Delantero transversal"
-                },
-                {},
-                {
-                    "Propósito": "Impulsar al vehículo / generar corriente eléc",
-                    "Potencia máxima": "340 CV / 250 kW",
-                    "Ubicación": "Delantero transversal"
-                },
-                {
-                    "Propósito": "Impulsar al vehículo / generar corriente eléc",
-                    "Potencia máxima": "340 CV / 250 kW",
-                    "Par máximo": "240 Nm",
-                    "Ubicación": "Trasero transversal"
-                },
-                {
-                    "Ubicación": "Central delantero",
-                    "Capacidad": "24,8 kWh"
-                },
-                {},
-                {
-                    "Tracción": "Total",
-                    "Caja de cambios": "Automático",
-                    "Número de velocidades": "8",
-                    "Tipo de Embrague": "Dos embragues multidisco bañados en aceite",
-                    "Tipo de mecanismo": "Pares de engranajes"
-                },
-                {
-                    "Estructura suspensión delantera": "Paralelogramo deformable",
-                    "Muelle suspensión delantera": "Resorte helicoidal",
-                    "Estructura suspensión trasera": "Paralelogramo deformable",
-                    "Muelle suspensión trasera": "Resorte helicoidal",
-                    "Barra estabilizadora delantera": "Sí",
-                    "Barra estabilizadora trasera": "Sí",
-                    "Tipo de frenos delanteros": "Disco ventilado cerámico",
-                    "Tipo de frenos traseros": "Disco ventilado cerámico",
-                    "Neumáticos delanteros": "285/35 R20",
-                    "Neumáticos traseros": "345/30 R21",
-                    "Llantas delanteras": "x 20",
-                    "Llantas Traseras": "x 21"
-                }
-            ]
+            "Velocidad máxima": "445 km/h",
+            "Aceleración 0-100 km/h": "2 s",
+            "Autonomía eléctrica WLTP": "60 km",
+            "Normativa de emisiones": "Euro 6",
+            "Distintivo ambiental DGT": "0 emisiones",
+            "Tipo de Carrocería": "Coupé",
+            "Número de puertas": "2",
+            "Longitud": "4.671 mm",
+            "Anchura": "2.051 mm",
+            "Altura": "1.189 mm",
+            "Batalla": "2.740 mm",
+            "Peso": "2.070 kg",
+            "Número de plazas": "2",
+            "Distribución de asientos": "2",
+            "Potencia máxima": "340 CV / 250 kW",
+            "Propósito": "Impulsar al vehículo / generar corriente eléc",
+            "Combustible": "Gasolina",
+            "Par máximo": "240 Nm",
+            "Situación": "Central trasero longitudinal",
+            "Número de cilindros": "16",
+            "Disposición de los cilindros": "En V",
+            "Cilindrada": "8.300 cm³",
+            "Alimentación": "- - .",
+            "Automatismo de parada y arranque del motor (\"Stop/Start\")": "No",
+            "Ubicación": "Central delantero",
+            "Capacidad": "24,8 kWh",
+            "Tracción": "Total",
+            "Caja de cambios": "Automático",
+            "Número de velocidades": "8",
+            "Tipo de Embrague": "Dos embragues multidisco bañados en aceite",
+            "Tipo de mecanismo": "Pares de engranajes",
+            "Estructura suspensión delantera": "Paralelogramo deformable",
+            "Muelle suspensión delantera": "Resorte helicoidal",
+            "Estructura suspensión trasera": "Paralelogramo deformable",
+            "Muelle suspensión trasera": "Resorte helicoidal",
+            "Barra estabilizadora delantera": "Sí",
+            "Barra estabilizadora trasera": "Sí",
+            "Tipo de frenos delanteros": "Disco ventilado cerámico",
+            "Tipo de frenos traseros": "Disco ventilado cerámico",
+            "Neumáticos delanteros": "285/35 R20",
+            "Neumáticos traseros": "345/30 R21",
+            "Llantas delanteras": "x 20",
+            "Llantas Traseras": "x 21"
         }
     ]
 }
