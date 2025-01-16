@@ -12,7 +12,7 @@ def normalize_text(text):
     """
     Normaliza el texto para eliminar inconsistencias en caracteres con acentos.
     """
-    return unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode('utf-8')
+    return unicodedata.normalize('NFKD', text).encode('utf-8').decode('utf-8')
 
 def transformar_combustible(version):
     """
@@ -30,7 +30,18 @@ def transformar_combustible(version):
         if '0 emisiones' in distintivo or 'ECO' in distintivo:
             version['Combustible'] = 'electric-hybrid'
 
-    return version.get('Combustible', 'unknown')
+    return version.get('Combustible', '')
+def transformar_caja_de_cambios(version):
+    """
+    Transforma el valor de la caja de cambios
+    """
+    if "Caja de cambios" in version:
+        cajacambios = normalize_text(version['Caja de cambios'])
+        if 'Manual' in cajacambios:
+            version['Caja de cambios'] = 'manual'
+        else:
+            version['Caja de cambios'] = 'automatic'
+    return version.get('Caja de cambios', '')
 def process_version(version, brand, model, output_path):
     """
     Procesa una versión individual y guarda un archivo JSON con sus datos.
@@ -43,7 +54,7 @@ def process_version(version, brand, model, output_path):
 
         # Transformar el combustible directamente aquí
         fuel_type = transformar_combustible(version)
-
+        gearbox_type = transformar_caja_de_cambios(version)
         # Crear datos para la versión
         version_data = {
             "brand": brand,
@@ -52,7 +63,9 @@ def process_version(version, brand, model, output_path):
             "start_year": version.get("start_year", 0),
             "end_year": version.get("end_year", 0),
             "keywords": version.get("name", ""),
-            "fuel_type": fuel_type  # Combustible procesado
+            "fuel_type": fuel_type,  # Combustible procesado
+            "gearbox_type": gearbox_type
+
         }
 
         # Guardar la versión como JSON
