@@ -15,87 +15,55 @@
             "consumo": "-",
             "longitud": "4.727",
             "maletero": "-",
-            "specs": [
-                {
-                    "Velocidad máxima": "350 km/h",
-                    "Aceleración 0-100 km/h": "2,5 s",
-                    "Autonomía eléctrica WLTP": "14 km",
-                    "Normativa de emisiones": "Euro 6",
-                    "Distintivo ambiental DGT": "ECO"
-                },
-                {
-                    "Tipo de Carrocería": "Coupé",
-                    "Número de puertas": "2",
-                    "Longitud": "4.727 mm",
-                    "Anchura": "2.014 mm",
-                    "Altura": "1.161 mm",
-                    "Batalla": "2.760 mm",
-                    "Número de plazas": "2",
-                    "Distribución de asientos": "2"
-                },
-                {
-                    "Potencia máxima": "1.078 CV / 793 kW",
-                    "Par máximo": "1.100 Nm"
-                },
-                {
-                    "Propósito": "Impulsar el vehículo",
-                    "Combustible": "Gasolina",
-                    "Potencia máxima": "828 CV / 609 kW",
-                    "Par máximo": "857 Nm",
-                    "Revoluciones par máximo": "6.700 rpm",
-                    "Situación": "Central trasero longitudinal",
-                    "Número de cilindros": "8",
-                    "Disposición de los cilindros": "En V",
-                    "Material del bloque": "Aluminio",
-                    "Material de la culata": "Aluminio",
-                    "Diámetro": "83 mm",
-                    "Carrera": "92 mm",
-                    "Cilindrada": "3.982 cm³",
-                    "Alimentación": "Inyección directa. Turbo. Intercooler",
-                    "Automatismo de parada y arranque del motor (\"Stop/Start\")": "Sí"
-                },
-                {
-                    "Propósito": "Impulsar al vehículo / generar corriente eléc",
-                    "Ubicación": "Delantero transversal"
-                },
-                {},
-                {
-                    "Propósito": "Impulsar al vehículo / generar corriente eléc",
-                    "Ubicación": "Delantero transversal"
-                },
-                {
-                    "Propósito": "Impulsar al vehículo / generar corriente eléc",
-                    "Ubicación": "Central trasero longitudinal"
-                },
-                {
-                    "Ubicación": "Central trasero",
-                    "Capacidad": "6,1 kWh"
-                },
-                {},
-                {
-                    "Tracción": "Total",
-                    "Caja de cambios": "Automático",
-                    "Número de velocidades": "8",
-                    "Tipo de Embrague": "Dos embragues multidisco bañados en aceite",
-                    "Tipo de mecanismo": "Pares de engranajes"
-                },
-                {
-                    "Estructura suspensión delantera": "Paralelogramo deformable",
-                    "Muelle suspensión delantera": "Resorte helicoidal",
-                    "Estructura suspensión trasera": "Paralelogramo deformable",
-                    "Muelle suspensión trasera": "Resorte helicoidal",
-                    "Barra estabilizadora delantera": "Sí",
-                    "Barra estabilizadora trasera": "Sí",
-                    "Tipo de frenos delanteros": "Disco ventilado cerámico",
-                    "Diámetro de frenos delanteros": "410 mm",
-                    "Tipo de frenos traseros": "Disco ventilado cerámico",
-                    "Diámetro de frenos traseros": "390 mm",
-                    "Neumáticos delanteros": "285/30 R20",
-                    "Neumáticos traseros": "335/30 R21",
-                    "Llantas delanteras": "10 x 20",
-                    "Llantas Traseras": "12.5 x 21"
-                }
-            ]
+            "Velocidad máxima": "350 km/h",
+            "Aceleración 0-100 km/h": "2,5 s",
+            "Autonomía eléctrica WLTP": "14 km",
+            "Normativa de emisiones": "Euro 6",
+            "Distintivo ambiental DGT": "ECO",
+            "Tipo de Carrocería": "Coupé",
+            "Número de puertas": "2",
+            "Longitud": "4.727 mm",
+            "Anchura": "2.014 mm",
+            "Altura": "1.161 mm",
+            "Batalla": "2.760 mm",
+            "Número de plazas": "2",
+            "Distribución de asientos": "2",
+            "Potencia máxima": "828 CV / 609 kW",
+            "Par máximo": "857 Nm",
+            "Propósito": "Impulsar al vehículo / generar corriente eléc",
+            "Combustible": "Gasolina",
+            "Revoluciones par máximo": "6.700 rpm",
+            "Situación": "Central trasero longitudinal",
+            "Número de cilindros": "8",
+            "Disposición de los cilindros": "En V",
+            "Material del bloque": "Aluminio",
+            "Material de la culata": "Aluminio",
+            "Diámetro": "83 mm",
+            "Carrera": "92 mm",
+            "Cilindrada": "3.982 cm³",
+            "Alimentación": "Inyección directa. Turbo. Intercooler",
+            "Automatismo de parada y arranque del motor (\"Stop/Start\")": "Sí",
+            "Ubicación": "Central trasero",
+            "Capacidad": "6,1 kWh",
+            "Tracción": "Total",
+            "Caja de cambios": "Automático",
+            "Número de velocidades": "8",
+            "Tipo de Embrague": "Dos embragues multidisco bañados en aceite",
+            "Tipo de mecanismo": "Pares de engranajes",
+            "Estructura suspensión delantera": "Paralelogramo deformable",
+            "Muelle suspensión delantera": "Resorte helicoidal",
+            "Estructura suspensión trasera": "Paralelogramo deformable",
+            "Muelle suspensión trasera": "Resorte helicoidal",
+            "Barra estabilizadora delantera": "Sí",
+            "Barra estabilizadora trasera": "Sí",
+            "Tipo de frenos delanteros": "Disco ventilado cerámico",
+            "Diámetro de frenos delanteros": "410 mm",
+            "Tipo de frenos traseros": "Disco ventilado cerámico",
+            "Diámetro de frenos traseros": "390 mm",
+            "Neumáticos delanteros": "285/30 R20",
+            "Neumáticos traseros": "335/30 R21",
+            "Llantas delanteras": "10 x 20",
+            "Llantas Traseras": "12.5 x 21"
         }
     ]
 }

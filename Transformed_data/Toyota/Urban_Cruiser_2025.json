@@ -15,79 +15,48 @@
             "consumo": "-",
             "longitud": "4.285",
             "maletero": "-",
-            "specs": [
-                {
-                    "Emisiones de CO₂ WLTP": "No disponible",
-                    "Normativa de emisiones": "No disponible",
-                    "Distintivo ambiental DGT": "0 emisiones"
-                },
-                {
-                    "Tipo de Carrocería": "Todoterreno",
-                    "Número de puertas": "5",
-                    "Longitud": "4.285 mm",
-                    "Anchura": "1.800 mm",
-                    "Altura": "1.640 mm",
-                    "Batalla": "2.700 mm",
-                    "Número de plazas": "5",
-                    "Distribución de asientos": "2 + 3"
-                },
-                {
-                    "Potencia máxima": "184 CV / 135 kW",
-                    "Par máximo": "300 Nm"
-                },
-                {
-                    "Propósito": "Impulsar al vehículo / generar corriente eléc",
-                    "Potencia máxima": "174 CV / 128 kW",
-                    "Revoluciones potencia máxima": "No disponible",
-                    "Par máximo": "189 Nm",
-                    "Revoluciones par máximo": "No disponible",
-                    "Ubicación": "Delantero transversal",
-                    "Tensión nominal": "No disponible"
-                },
-                {
-                    "Propósito": "Impulsar al vehículo / generar corriente eléc",
-                    "Potencia máxima": "65 CV / 48 kW",
-                    "Revoluciones potencia máxima": "No disponible",
-                    "Par máximo": "111 Nm",
-                    "Revoluciones par máximo": "No disponible",
-                    "Ubicación": "Trasero transversal",
-                    "Tensión nominal": "No disponible"
-                },
-                {},
-                {
-                    "Tipo": "Acumulador de litio hierro fosfato (LFP)",
-                    "Ubicación": "Central",
-                    "Capacidad": "61 kWh",
-                    "Capacidad útil": "No disponible"
-                },
-                {
-                    "Potencia de recarga máxima en C.C.": "No disponible",
-                    "Potencia de recarga máxima en C.A.": "No disponible",
-                    "Tiempo de recarga total a 7,4 kW": "No disponible"
-                },
-                {
-                    "Tracción": "Total",
-                    "Caja de cambios": "Automático",
-                    "Número de velocidades": "1",
-                    "Tipo de mando": "No disponible",
-                    "Tipo de Embrague": "Sin embrague",
-                    "Tipo de mecanismo": "Pares de engranajes"
-                },
-                {
-                    "Estructura suspensión delantera": "No disponible",
-                    "Muelle suspensión delantera": "No disponible",
-                    "Estructura suspensión trasera": "No disponible",
-                    "Muelle suspensión trasera": "No disponible",
-                    "Barra estabilizadora delantera": "No",
-                    "Barra estabilizadora trasera": "No",
-                    "Tipo de frenos delanteros": "Disco ventilado",
-                    "Tipo de frenos traseros": "Disco ventilado",
-                    "Neumáticos delanteros": "/ R18",
-                    "Neumáticos traseros": "/ R18",
-                    "Llantas delanteras": "x 18",
-                    "Llantas Traseras": "x 18"
-                }
-            ]
+            "Emisiones de CO₂ WLTP": "No disponible",
+            "Normativa de emisiones": "No disponible",
+            "Distintivo ambiental DGT": "0 emisiones",
+            "Tipo de Carrocería": "Todoterreno",
+            "Número de puertas": "5",
+            "Longitud": "4.285 mm",
+            "Anchura": "1.800 mm",
+            "Altura": "1.640 mm",
+            "Batalla": "2.700 mm",
+            "Número de plazas": "5",
+            "Distribución de asientos": "2 + 3",
+            "Potencia máxima": "65 CV / 48 kW",
+            "Par máximo": "111 Nm",
+            "Propósito": "Impulsar al vehículo / generar corriente eléc",
+            "Revoluciones potencia máxima": "No disponible",
+            "Revoluciones par máximo": "No disponible",
+            "Ubicación": "Central",
+            "Tensión nominal": "No disponible",
+            "Tipo": "Acumulador de litio hierro fosfato (LFP)",
+            "Capacidad": "61 kWh",
+            "Capacidad útil": "No disponible",
+            "Potencia de recarga máxima en C.C.": "No disponible",
+            "Potencia de recarga máxima en C.A.": "No disponible",
+            "Tiempo de recarga total a 7,4 kW": "No disponible",
+            "Tracción": "Total",
+            "Caja de cambios": "Automático",
+            "Número de velocidades": "1",
+            "Tipo de mando": "No disponible",
+            "Tipo de Embrague": "Sin embrague",
+            "Tipo de mecanismo": "Pares de engranajes",
+            "Estructura suspensión delantera": "No disponible",
+            "Muelle suspensión delantera": "No disponible",
+            "Estructura suspensión trasera": "No disponible",
+            "Muelle suspensión trasera": "No disponible",
+            "Barra estabilizadora delantera": "No",
+            "Barra estabilizadora trasera": "No",
+            "Tipo de frenos delanteros": "Disco ventilado",
+            "Tipo de frenos traseros": "Disco ventilado",
+            "Neumáticos delanteros": "/ R18",
+            "Neumáticos traseros": "/ R18",
+            "Llantas delanteras": "x 18",
+            "Llantas Traseras": "x 18"
         },
         {
             "name": "FWD 49 kWh ( - )",
@@ -99,70 +68,48 @@
             "consumo": "-",
             "longitud": "4.285",
             "maletero": "-",
-            "specs": [
-                {
-                    "Emisiones de CO₂ WLTP": "No disponible",
-                    "Normativa de emisiones": "No disponible",
-                    "Distintivo ambiental DGT": "0 emisiones"
-                },
-                {
-                    "Tipo de Carrocería": "Todoterreno",
-                    "Número de puertas": "5",
-                    "Longitud": "4.285 mm",
-                    "Anchura": "1.800 mm",
-                    "Altura": "1.640 mm",
-                    "Batalla": "2.700 mm",
-                    "Número de plazas": "5",
-                    "Distribución de asientos": "2 + 3"
-                },
-                {
-                    "Potencia máxima": "144 CV / 106 kW",
-                    "Par máximo": "189 Nm"
-                },
-                {
-                    "Propósito": "Impulsar al vehículo / generar corriente eléc",
-                    "Potencia máxima": "144 CV / 106 kW",
-                    "Revoluciones potencia máxima": "No disponible",
-                    "Par máximo": "189 Nm",
-                    "Revoluciones par máximo": "No disponible",
-                    "Ubicación": "Delantero transversal",
-                    "Tensión nominal": "No disponible"
-                },
-                {
-                    "Tipo": "Acumulador de litio hierro fosfato (LFP)",
-                    "Ubicación": "Central",
-                    "Capacidad": "49 kWh",
-                    "Capacidad útil": "No disponible"
-                },
-                {},
-                {
-                    "Potencia de recarga máxima en C.C.": "No disponible",
-                    "Potencia de recarga máxima en C.A.": "No disponible",
-                    "Tiempo de recarga total a 7,4 kW": "No disponible"
-                },
-                {
-                    "Tracción": "Delantera",
-                    "Caja de cambios": "Automático",
-                    "Número de velocidades": "1",
-                    "Tipo de mando": "No disponible",
-                    "Tipo de Embrague": "Sin embrague",
-                    "Tipo de mecanismo": "Pares de engranajes"
-                },
-                {
-                    "Estructura suspensión delantera": "No disponible",
-                    "Muelle suspensión delantera": "No disponible",
-                    "Estructura suspensión trasera": "No disponible",
-                    "Muelle suspensión trasera": "No disponible",
-                    "Barra estabilizadora delantera": "No",
-                    "Barra estabilizadora trasera": "No",
-                    "Tipo de frenos delanteros": "Disco ventilado",
-                    "Tipo de frenos traseros": "Disco ventilado",
-                    "Neumáticos delanteros": "/ R18",
-                    "Neumáticos traseros": "/ R18",
-                    "Llantas delanteras": "x 18",
-                    "Llantas Traseras": "x 18"
-                }
-            ]
+            "Emisiones de CO₂ WLTP": "No disponible",
+            "Normativa de emisiones": "No disponible",
+            "Distintivo ambiental DGT": "0 emisiones",
+            "Tipo de Carrocería": "Todoterreno",
+            "Número de puertas": "5",
+            "Longitud": "4.285 mm",
+            "Anchura": "1.800 mm",
+            "Altura": "1.640 mm",
+            "Batalla": "2.700 mm",
+            "Número de plazas": "5",
+            "Distribución de asientos": "2 + 3",
+            "Potencia máxima": "144 CV / 106 kW",
+            "Par máximo": "189 Nm",
+            "Propósito": "Impulsar al vehículo / generar corriente eléc",
+            "Revoluciones potencia máxima": "No disponible",
+            "Revoluciones par máximo": "No disponible",
+            "Ubicación": "Central",
+            "Tensión nominal": "No disponible",
+            "Tipo": "Acumulador de litio hierro fosfato (LFP)",
+            "Capacidad": "49 kWh",
+            "Capacidad útil": "No disponible",
+            "Potencia de recarga máxima en C.C.": "No disponible",
+            "Potencia de recarga máxima en C.A.": "No disponible",
+            "Tiempo de recarga total a 7,4 kW": "No disponible",
+            "Tracción": "Delantera",
+            "Caja de cambios": "Automático",
+            "Número de velocidades": "1",
+            "Tipo de mando": "No disponible",
+            "Tipo de Embrague": "Sin embrague",
+            "Tipo de mecanismo": "Pares de engranajes",
+            "Estructura suspensión delantera": "No disponible",
+            "Muelle suspensión delantera": "No disponible",
+            "Estructura suspensión trasera": "No disponible",
+            "Muelle suspensión trasera": "No disponible",
+            "Barra estabilizadora delantera": "No",
+            "Barra estabilizadora trasera": "No",
+            "Tipo de frenos delanteros": "Disco ventilado",
+            "Tipo de frenos traseros": "Disco ventilado",
+            "Neumáticos delanteros": "/ R18",
+            "Neumáticos traseros": "/ R18",
+            "Llantas delanteras": "x 18",
+            "Llantas Traseras": "x 18"
         },
         {
             "name": "FWD 61 kWh ( - )",
@@ -174,70 +121,48 @@
             "consumo": "-",
             "longitud": "4.285",
             "maletero": "-",
-            "specs": [
-                {
-                    "Emisiones de CO₂ WLTP": "No disponible",
-                    "Normativa de emisiones": "No disponible",
-                    "Distintivo ambiental DGT": "0 emisiones"
-                },
-                {
-                    "Tipo de Carrocería": "Todoterreno",
-                    "Número de puertas": "5",
-                    "Longitud": "4.285 mm",
-                    "Anchura": "1.800 mm",
-                    "Altura": "1.640 mm",
-                    "Batalla": "2.700 mm",
-                    "Número de plazas": "5",
-                    "Distribución de asientos": "2 + 3"
-                },
-                {
-                    "Potencia máxima": "174 CV / 128 kW",
-                    "Par máximo": "189 Nm"
-                },
-                {
-                    "Propósito": "Impulsar al vehículo / generar corriente eléc",
-                    "Potencia máxima": "174 CV / 128 kW",
-                    "Revoluciones potencia máxima": "No disponible",
-                    "Par máximo": "189 Nm",
-                    "Revoluciones par máximo": "No disponible",
-                    "Ubicación": "Delantero transversal",
-                    "Tensión nominal": "No disponible"
-                },
-                {
-                    "Tipo": "Acumulador de litio hierro fosfato (LFP)",
-                    "Ubicación": "Central",
-                    "Capacidad": "61 kWh",
-                    "Capacidad útil": "No disponible"
-                },
-                {},
-                {
-                    "Potencia de recarga máxima en C.C.": "No disponible",
-                    "Potencia de recarga máxima en C.A.": "No disponible",
-                    "Tiempo de recarga total a 7,4 kW": "No disponible"
-                },
-                {
-                    "Tracción": "Delantera",
-                    "Caja de cambios": "Automático",
-                    "Número de velocidades": "1",
-                    "Tipo de mando": "No disponible",
-                    "Tipo de Embrague": "Sin embrague",
-                    "Tipo de mecanismo": "Pares de engranajes"
-                },
-                {
-                    "Estructura suspensión delantera": "No disponible",
-                    "Muelle suspensión delantera": "No disponible",
-                    "Estructura suspensión trasera": "No disponible",
-                    "Muelle suspensión trasera": "No disponible",
-                    "Barra estabilizadora delantera": "No",
-                    "Barra estabilizadora trasera": "No",
-                    "Tipo de frenos delanteros": "Disco ventilado",
-                    "Tipo de frenos traseros": "Disco ventilado",
-                    "Neumáticos delanteros": "/ R18",
-                    "Neumáticos traseros": "/ R18",
-                    "Llantas delanteras": "x 18",
-                    "Llantas Traseras": "x 18"
-                }
-            ]
+            "Emisiones de CO₂ WLTP": "No disponible",
+            "Normativa de emisiones": "No disponible",
+            "Distintivo ambiental DGT": "0 emisiones",
+            "Tipo de Carrocería": "Todoterreno",
+            "Número de puertas": "5",
+            "Longitud": "4.285 mm",
+            "Anchura": "1.800 mm",
+            "Altura": "1.640 mm",
+            "Batalla": "2.700 mm",
+            "Número de plazas": "5",
+            "Distribución de asientos": "2 + 3",
+            "Potencia máxima": "174 CV / 128 kW",
+            "Par máximo": "189 Nm",
+            "Propósito": "Impulsar al vehículo / generar corriente eléc",
+            "Revoluciones potencia máxima": "No disponible",
+            "Revoluciones par máximo": "No disponible",
+            "Ubicación": "Central",
+            "Tensión nominal": "No disponible",
+            "Tipo": "Acumulador de litio hierro fosfato (LFP)",
+            "Capacidad": "61 kWh",
+            "Capacidad útil": "No disponible",
+            "Potencia de recarga máxima en C.C.": "No disponible",
+            "Potencia de recarga máxima en C.A.": "No disponible",
+            "Tiempo de recarga total a 7,4 kW": "No disponible",
+            "Tracción": "Delantera",
+            "Caja de cambios": "Automático",
+            "Número de velocidades": "1",
+            "Tipo de mando": "No disponible",
+            "Tipo de Embrague": "Sin embrague",
+            "Tipo de mecanismo": "Pares de engranajes",
+            "Estructura suspensión delantera": "No disponible",
+            "Muelle suspensión delantera": "No disponible",
+            "Estructura suspensión trasera": "No disponible",
+            "Muelle suspensión trasera": "No disponible",
+            "Barra estabilizadora delantera": "No",
+            "Barra estabilizadora trasera": "No",
+            "Tipo de frenos delanteros": "Disco ventilado",
+            "Tipo de frenos traseros": "Disco ventilado",
+            "Neumáticos delanteros": "/ R18",
+            "Neumáticos traseros": "/ R18",
+            "Llantas delanteras": "x 18",
+            "Llantas Traseras": "x 18"
         }
     ]
 }

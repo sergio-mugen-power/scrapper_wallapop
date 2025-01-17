@@ -14,16 +14,7 @@
             "potencia": "60",
             "consumo": "4,4",
             "longitud": "3.600",
-            "maletero": "251",
-            "specs": [
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {}
-            ]
+            "maletero": "251"
         },
         {
             "name": "Move up! 5p 1.0 55 kW (75 CV)",
@@ -34,16 +25,7 @@
             "potencia": "75",
             "consumo": "4,4",
             "longitud": "3.600",
-            "maletero": "251",
-            "specs": [
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {}
-            ]
+            "maletero": "251"
         },
         {
             "name": "High up! 5p 1.0 44 kW (60 CV)",
@@ -54,16 +36,7 @@
             "potencia": "60",
             "consumo": "4,4",
             "longitud": "3.600",
-            "maletero": "251",
-            "specs": [
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {}
-            ]
+            "maletero": "251"
         },
         {
             "name": "High up! 5p 1.0 55 kW (75 CV)",
@@ -74,16 +47,7 @@
             "potencia": "75",
             "consumo": "4,4",
             "longitud": "3.600",
-            "maletero": "251",
-            "specs": [
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {}
-            ]
+            "maletero": "251"
         },
         {
             "name": "Move up! 5p 1.0 55 kW (75 CV) ASG BMT",
@@ -94,16 +58,7 @@
             "potencia": "75",
             "consumo": "4,2",
             "longitud": "3.600",
-            "maletero": "251",
-            "specs": [
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {}
-            ]
+            "maletero": "251"
         },
         {
             "name": "High up! 5p 1.0 TSI 66 kW (90 CV)",
@@ -114,16 +69,7 @@
             "potencia": "90",
             "consumo": "4,7",
             "longitud": "3.600",
-            "maletero": "251",
-            "specs": [
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {}
-            ]
+            "maletero": "251"
         },
         {
             "name": "Move up! 5p 1.0 60 CV ASG BMT",
@@ -134,16 +80,7 @@
             "potencia": "60",
             "consumo": "4,1",
             "longitud": "3.600",
-            "maletero": "251",
-            "specs": [
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {}
-            ]
+            "maletero": "251"
         },
         {
             "name": "High up! 5p 1.0 55 kW (75 CV) ASG BMT",
@@ -154,16 +91,7 @@
             "potencia": "75",
             "consumo": "4,2",
             "longitud": "3.600",
-            "maletero": "251",
-            "specs": [
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {}
-            ]
+            "maletero": "251"
         },
         {
             "name": "up! Beats 5p 1.0 55 kW (75 CV)",
@@ -174,16 +102,7 @@
             "potencia": "75",
             "consumo": "4,4",
             "longitud": "3.600",
-            "maletero": "251",
-            "specs": [
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {}
-            ]
+            "maletero": "251"
         },
         {
             "name": "High up! 5p 1.0 60 CV ASG BMT",
@@ -194,16 +113,7 @@
             "potencia": "60",
             "consumo": "4,1",
             "longitud": "3.600",
-            "maletero": "251",
-            "specs": [
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {}
-            ]
+            "maletero": "251"
         },
         {
             "name": "High up! 5p eco 1.0 GNC 50 kW (68 CV) BMT",
@@ -214,16 +124,7 @@
             "potencia": "68",
             "consumo": "2,9",
             "longitud": "3.600",
-            "maletero": "213",
-            "specs": [
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {}
-            ]
+            "maletero": "213"
         },
         {
             "name": "e-up!",
@@ -234,18 +135,7 @@
             "potencia": "82",
             "consumo": "-",
             "longitud": "3.600",
-            "maletero": "250",
-            "specs": [
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {}
-            ]
+            "maletero": "250"
         }
     ]
 }
