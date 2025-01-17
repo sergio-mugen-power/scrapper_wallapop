@@ -243,23 +243,34 @@ def get_wallapop_car_data(min_year, max_year, min_km, max_km, min_sale_price, ma
 
     driver.quit()
     return car_data
-
-# Parámetros de búsqueda
-min_year = 1940
-max_year = 2007
+#Parametros de busqueda
+#min_year = 1940
+#max_year = 2007
 min_km = 2007
 max_km = 300000
 min_sale_price = 1
 max_sale_price = 90000
-keywords = "Cooper"  # Palabra clave externa
+keywords = ""  # Palabra clave externa
 gearbox_types = ['automatic', 'manual']
 engine_types = ['gasoline','gasoil','electric-hybrid','others']
-brand = "MINI"
-model = "MINI"  # Modelo en la URL
+#brand = "MINI"
+#model = "MINI"  # Modelo en la URL
 latitude = 40.578494
 longitude = -3.892771
 min_horsepower = 1
-max_horsepower = 1000
-
-# Ejecutar la función de scraping
-get_wallapop_car_data(min_year, max_year, min_km, max_km, min_sale_price, max_sale_price, brand, model, latitude, longitude, keywords, gearbox_types, engine_types, max_horsepower, min_horsepower)
+#max_horsepower = 1000
+base_directory = 'parameters_scrapper'
+for subdir, _, files in os.walk(base_directory):
+    for file in files:
+        if file.endswith('.json'):
+            file_path = os.path.join(subdir, file)
+            with open(file_path, 'r', encoding='utf-8') as json_file:
+                data = json.load(json_file)
+                brand = data.get('brand', '')
+                model = data.get('model', '')
+                min_year = int(data.get('start_year', '1940'))
+                max_year = int(data.get('end_year', '2025'))
+                max_horsepower = int(data.get('potencia', '1000'))
+                
+                # Llamada a la función con los parámetros obtenidos del JSON
+                get_wallapop_car_data(min_year, max_year, min_km, max_km, min_sale_price, max_sale_price, brand, model, latitude, longitude, keywords, gearbox_types, engine_types, max_horsepower, min_horsepower)
