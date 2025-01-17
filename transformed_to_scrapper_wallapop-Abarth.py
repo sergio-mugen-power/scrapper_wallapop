@@ -133,32 +133,30 @@ def process_json(file_path, brand, output_path):
     except Exception as e:
         print(f"Error procesando {file_path}: {e}")
 
-def process_directory(input_dir, output_dir, target_brand="Abarth"):
-    """
-    Recorre el directorio de entrada, filtra el subdirectorio especificado (target_brand),
-    procesa los archivos JSON y guarda los parámetros.
-    """
-    for root, _, files in os.walk(input_dir):
-        # Filtrar solo el directorio del target_brand
-        if os.path.basename(root) != target_brand:
-            continue
+def process_abarth_directories(base_directory):
+    for subdir, _, files in os.walk(base_directory):
+        # Verificar si "abarth" está en el nombre del directorio
+        if "abarth" in os.path.basename(subdir).lower():  # Convertir a minúsculas para una comparación case-insensitive
+            for file in files:
+                if file.endswith('.json'):
+                    file_path = os.path.join(subdir, file)
+                    with open(file_path, 'r', encoding='utf-8') as json_file:
+                        data = json.load(json_file)
+                        brand = data.get('brand', '')
+                        model = data.get('model', '')
+                        min_year = int(data.get('start_year', '1940'))
+                        max_year = int(data.get('end_year', '2025'))
+                        max_horsepower = int(data.get('potencia', '1000'))
 
-        # Obtener la ruta relativa para replicar la estructura
-        relative_path = os.path.relpath(root, input_dir)
-        output_path = os.path.join(output_dir, relative_path)
-        
-        # Crear directorio de salida si no existe
-        os.makedirs(output_path, exist_ok=True)
-        
-        # Procesar cada archivo JSON
-        for file in files:
-            if file.endswith('.json'):
-                file_path = os.path.join(root, file)
-                
-                # Procesar el archivo JSON
-                process_json(file_path, target_brand, output_path)
+                        # Llamada a la función con los parámetros obtenidos del JSON
+                        get_wallapop_car_data(
+                            min_year, max_year, min_km, max_km, 
+                            min_sale_price, max_sale_price, brand, model, 
+                            latitude, longitude, keywords, gearbox_types, 
+                            engine_types, max_horsepower, min_horsepower
+                        )
 
 if __name__ == "__main__":
-    process_directory(input_dir, output_dir)
+    process_abarth_directories(input_dir, output_dir)
     print(f"Parámetros guardados en la carpeta '{output_dir}'")
 
