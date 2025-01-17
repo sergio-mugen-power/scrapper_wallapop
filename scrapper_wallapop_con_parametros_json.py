@@ -8,12 +8,30 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from datetime import datetime
 import time
+import os
 
 # Función para guardar los datos en un archivo JSON
-def save_to_json(path, data):
-    """Guarda los datos, incluyendo las especificaciones de búsqueda, en un archivo JSON."""
-    with open(path, 'w', encoding='utf-8') as f:
+def save_to_json(base_path, data, brand, model):
+    """
+    Guarda los datos, incluyendo las especificaciones de búsqueda, en un archivo JSON.
+    Crea una estructura de directorios basada en la marca y el modelo.
+    """
+    # Define la ruta completa para guardar el archivo
+    brand_dir = os.path.join(base_path, "wallapop_ads", brand)
+    model_dir = os.path.join(brand_dir, model)
+    
+    # Crea los directorios si no existen
+    os.makedirs(model_dir, exist_ok=True)
+    timestamp = datetime.now().strftime("%d-%m-%Y_%Hh_%Mm")
+    # Define el nombre del archivo (puedes ajustarlo según tu lógica)
+    file_name = f"./{brand}_{model}_price_list_{timestamp}.json"
+    file_path = os.path.join(model_dir, file_name)
+    
+    # Guarda los datos en formato JSON
+    with open(file_path, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
+    
+    print(f"Datos guardados en: {file_path}")
 #Ignorar errores de SSL
 def setup_driver():
     options = Options()
@@ -26,10 +44,9 @@ def setup_driver():
 # Función principal para obtener datos de Wallapop
 def get_wallapop_car_data(min_year, max_year, min_km, max_km, min_sale_price, max_sale_price, brand, model, latitude, longitude, keywords, gearbox_types, engine_types, max_horsepower, min_horsepower):
     base_url = "https://es.wallapop.com/app/search?"
-
-    # Convertir las listas de caja de cambios y motores en cadenas separadas por comas
     gearbox_type_str = ','.join(gearbox_types)
     engine_types_str = ','.join(engine_types)
+    # Convertir las listas de caja de cambios y motores en cadenas separadas por comas
     keywords_with_spaces = keywords.replace(" ", "%20")
     
     params = {
@@ -195,6 +212,7 @@ def get_wallapop_car_data(min_year, max_year, min_km, max_km, min_sale_price, ma
     print(f"Tiempo total de ejecución: {elapsed_time:.2f} segundos")
     # Obtener la fecha y hora actuales
     timestamp = datetime.now().strftime("%d-%m-%Y_%Hh_%Mm")
+    base_path = "./wallapop_ads"
     output_path = f"./{brand}_{model}_{keywords}_price_list_{timestamp}.json"
 
     # Guardar los datos con la especificación de la búsqueda y fecha
@@ -220,7 +238,7 @@ def get_wallapop_car_data(min_year, max_year, min_km, max_km, min_sale_price, ma
     }
 
     # Guardar todos los resultados acumulados en un solo JSON
-    save_to_json(output_path, search_info)
+    save_to_json(base_path, search_info, brand, model)
     print(f"Se extrajeron {len(car_data)} anuncios. Datos guardados en {output_path}")
 
     driver.quit()
