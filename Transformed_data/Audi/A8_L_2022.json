@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A8 L",
-    "year": "2022",
+    "year": 2022,
     "url": "https://www.km77.com/coches/audi/a8/2022/l",
     "price": "Desde 115.850 €",
     "versions": [
@@ -605,5 +605,6 @@
             "Recuperación de la energía de frenado": "De serie",
             "connect Remote & Control (acceso remoto y funciones a distancia)": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A8"
 }

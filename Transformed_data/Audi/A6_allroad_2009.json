@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A6 allroad",
-    "year": "2009",
+    "year": 2009,
     "url": "https://www.km77.com/coches/audi/a6/2009/allroad",
     "price": "Desde 70.480 €",
     "versions": [
@@ -2344,5 +2344,6 @@
             "Moldura de umbral de puertas delanteras y traseras en aluminio": "De serie",
             "Protector de bajos de acero inoxidable en parachoques": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A6 Allroad"
 }

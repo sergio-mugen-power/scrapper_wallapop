@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A6 allroad",
-    "year": "2020",
+    "year": 2020,
     "url": "https://www.km77.com/coches/audi/a6/2020/allroad",
     "price": "Desde 70.480 €",
     "versions": [
@@ -1116,5 +1116,6 @@
             "MyCarManager (conexión a vehículo desde smartphone)": "De serie",
             "Paquete fumador": "80 €"
         }
-    ]
+    ],
+    "cleaned_name": "A6 Allroad"
 }

@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "Q5",
-    "year": "2017",
+    "year": 2017,
     "url": "https://www.km77.com/coches/audi/q5/2017/estandar",
     "price": "Desde 63.910 €",
     "versions": [
@@ -4823,5 +4823,6 @@
             "MyCarManager (3 años) (permite la conexión con vehículo desde smartphone)": "De serie",
             "Recuperación de la energía de frenado": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "Q5"
 }

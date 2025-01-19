@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A4 Berlina",
-    "year": "2005",
+    "year": 2005,
     "url": "https://www.km77.com/coches/audi/a4/2005/berlina",
     "price": "",
     "versions": [
@@ -6885,5 +6885,6 @@
             "Brújula": "125 €",
             "Inmovilizador": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A4 Berlina"
 }

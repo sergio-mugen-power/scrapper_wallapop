@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A4 allroad",
-    "year": "2009",
+    "year": 2009,
     "url": "https://www.km77.com/coches/audi/a4/2009/allroad",
     "price": "",
     "versions": [
@@ -2728,5 +2728,6 @@
             "Protector de bajos de acero inoxidable en parachoques delantero y trasero": "De serie",
             "Recuperación de la energía de frenado": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A4 Allroad"
 }

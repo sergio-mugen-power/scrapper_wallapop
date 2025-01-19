@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A4 Avant",
-    "year": "2016",
+    "year": 2016,
     "url": "https://www.km77.com/coches/audi/a4/2016/avant",
     "price": "",
     "versions": [
@@ -10841,5 +10841,6 @@
             "MyCarManager (informe de estado del vehículo, control remoto, lugar de aparcamiento) (3 años)": "De serie",
             "Recuperación de la energía de frenado": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A4 Avant"
 }

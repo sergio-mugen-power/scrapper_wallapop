@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "TT Coupé",
-    "year": "1999",
+    "year": 1999,
     "url": "https://www.km77.com/coches/audi/tt/1999/coupe",
     "price": "",
     "versions": [
@@ -1841,5 +1841,6 @@
             "Botiquín y triángulo de emergencia": "De serie",
             "Inmovilizador": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "TT Coupe"
 }

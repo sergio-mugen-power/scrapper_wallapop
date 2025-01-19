@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "Q7",
-    "year": "2024",
+    "year": 2024,
     "url": "https://www.km77.com/coches/audi/q7/2024/estandar",
     "price": "Desde 80.570 €",
     "versions": [
@@ -4068,5 +4068,6 @@
             "Protección del umbral de carga en acero inoxidable": "De serie",
             "Servicios remotos": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "Q7"
 }

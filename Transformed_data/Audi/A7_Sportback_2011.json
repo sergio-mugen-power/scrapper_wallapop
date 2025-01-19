@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A7 Sportback",
-    "year": "2011",
+    "year": 2011,
     "url": "https://www.km77.com/coches/audi/a7/2011/sportback",
     "price": "",
     "versions": [
@@ -6365,5 +6365,6 @@
             "Preinstalación para localizador de vehículos robados": "140 €",
             "Recuperación de la energía de frenado": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A7 Sportback"
 }

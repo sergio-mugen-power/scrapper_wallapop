@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A8 L",
-    "year": "2018",
+    "year": 2018,
     "url": "https://www.km77.com/coches/audi/a8/2018/l",
     "price": "Desde 115.850 €",
     "versions": [
@@ -2172,5 +2172,6 @@
             "Televisión digital": "1.689 €",
             "Televisión digital con sistema de televisión de pago": "1.976 €"
         }
-    ]
+    ],
+    "cleaned_name": "A8"
 }

@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A4 allroad",
-    "year": "2012",
+    "year": 2012,
     "url": "https://www.km77.com/coches/audi/a4/2012/allroad",
     "price": "",
     "versions": [
@@ -5093,5 +5093,6 @@
             "Protector de bajos de acero inoxidable en parachoques delantero y trasero": "De serie",
             "Recuperación de la energía de frenado": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A4 Allroad"
 }

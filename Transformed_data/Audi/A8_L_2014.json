@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A8 L",
-    "year": "2014",
+    "year": 2014,
     "url": "https://www.km77.com/coches/audi/a8/2014/l",
     "price": "Desde 115.850 €",
     "versions": [
@@ -2804,5 +2804,6 @@
             "Preinstalación para localización de vehículos": "140 €",
             "Recuperación de la energía de frenado": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A8"
 }

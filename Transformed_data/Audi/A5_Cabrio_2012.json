@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A5 Cabrio",
-    "year": "2012",
+    "year": 2012,
     "url": "https://www.km77.com/coches/audi/a5/2012/cabrio",
     "price": "Desde 53.310 €",
     "versions": [
@@ -9152,5 +9152,6 @@
             "Recuperación de la energía de frenado": "De serie",
             "Umbral de las puertas en estética aluminio con inscripción \"RS 5\"": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A5 Cabrio"
 }

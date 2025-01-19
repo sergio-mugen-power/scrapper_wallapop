@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "R8 Spyder",
-    "year": "2010",
+    "year": 2010,
     "url": "https://www.km77.com/coches/audi/r8/2010/spyder",
     "price": "",
     "versions": [
@@ -2007,5 +2007,6 @@
             "Interfaz para sistemas de localización de vehículos": "De serie",
             "Umbral de puertas ultrabrillante con emblema R8 GT": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "R8 Spyder"
 }

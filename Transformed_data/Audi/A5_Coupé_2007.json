@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A5 Coupé",
-    "year": "2007",
+    "year": 2007,
     "url": "https://www.km77.com/coches/audi/a5/2007/coupe",
     "price": "Desde 53.310 €",
     "versions": [
@@ -11468,5 +11468,6 @@
             "Recuperación de la energía de frenado": "De serie",
             "Umbral de puertas en aluminio": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A5 Coupe"
 }

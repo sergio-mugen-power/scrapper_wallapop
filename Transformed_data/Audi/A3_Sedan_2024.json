@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A3 Sedan",
-    "year": "2024",
+    "year": 2024,
     "url": "https://www.km77.com/coches/audi/a3/2024/sedan",
     "price": "Desde 33.890 €",
     "versions": [
@@ -4079,5 +4079,6 @@
             "Servicios remotos": "De serie",
             "Umbrales de puertas delanteras iluminados con inserción de aluminio e inscripción S": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A3"
 }

@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A4 allroad",
-    "year": "2020",
+    "year": 2020,
     "url": "https://www.km77.com/coches/audi/a4/2020/allroad",
     "price": "",
     "versions": [
@@ -1517,5 +1517,6 @@
             "Molduras de entrada allroad": "De serie",
             "Recuperación de la energía de frenado": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A4 Allroad"
 }

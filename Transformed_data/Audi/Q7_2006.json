@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "Q7",
-    "year": "2006",
+    "year": 2006,
     "url": "https://www.km77.com/coches/audi/q7/2006/estandar",
     "price": "Desde 80.570 €",
     "versions": [
@@ -3142,5 +3142,6 @@
             "Paquete fumador": "0 €",
             "Triángulos de emergencia y botiquín": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "Q7"
 }

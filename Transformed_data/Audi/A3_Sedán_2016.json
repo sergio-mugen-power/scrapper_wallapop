@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A3 Sedán",
-    "year": "2016",
+    "year": 2016,
     "url": "https://www.km77.com/coches/audi/a3/2016/sedan",
     "price": "Desde 33.890 €",
     "versions": [
@@ -8314,5 +8314,6 @@
             "Recuperación de la energía de frenado": "De serie",
             "Umbrales de puertas de aluminio retroiluminados con logo RS": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A3"
 }

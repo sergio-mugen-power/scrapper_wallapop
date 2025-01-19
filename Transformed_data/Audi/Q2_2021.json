@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "Q2",
-    "year": "2021",
+    "year": 2021,
     "url": "https://www.km77.com/coches/audi/q2/2021/estandar",
     "price": "",
     "versions": [
@@ -2994,5 +2994,6 @@
             "Molduras de entrada en aluminio iluminadas con logotipo S": "De serie",
             "Servicios remotos": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "Q2"
 }

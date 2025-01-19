@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A5 Coupé",
-    "year": "2020",
+    "year": 2020,
     "url": "https://www.km77.com/coches/audi/a5/2020/coupe",
     "price": "Desde 53.310 €",
     "versions": [
@@ -5815,5 +5815,6 @@
             "MyCarManager (informe de estado del vehículo, control remoto, lugar de aparcamiento) (3 años)": "De serie",
             "Recuperación de la energía de frenado": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A5 Coupe"
 }

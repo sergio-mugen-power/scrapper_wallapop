@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "Q5",
-    "year": "2025",
+    "year": 2025,
     "url": "https://www.km77.com/coches/audi/q5/2025/estandar",
     "price": "Desde 63.910 €",
     "versions": [
@@ -2491,5 +2491,6 @@
             "Recuperación de la energía de frenado": "De serie",
             "Servicios remotos": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "Q5"
 }

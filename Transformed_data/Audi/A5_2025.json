@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A5",
-    "year": "2025",
+    "year": 2025,
     "url": "https://www.km77.com/coches/audi/a5/2025/estandar",
     "price": "Desde 53.310 €",
     "versions": [
@@ -2875,5 +2875,6 @@
             "Recuperación de la energía de frenado": "De serie",
             "Servicios remotos": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A5"
 }

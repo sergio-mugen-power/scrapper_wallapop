@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A4 Berlina",
-    "year": "2020",
+    "year": 2020,
     "url": "https://www.km77.com/coches/audi/a4/2020/berlina",
     "price": "",
     "versions": [
@@ -9950,5 +9950,6 @@
             "Inserciones en las puertas delanteras en aluminio con logo S": "De serie",
             "Recuperación de la energía de frenado": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A4 Berlina"
 }

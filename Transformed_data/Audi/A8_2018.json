@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A8",
-    "year": "2018",
+    "year": 2018,
     "url": "https://www.km77.com/coches/audi/a8/2018/estandar",
     "price": "Desde 115.850 €",
     "versions": [
@@ -2437,5 +2437,6 @@
             "Alarma antirrobo con protección contra remolcado": "De serie",
             "Botiquín de primeros auxilios": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A8"
 }

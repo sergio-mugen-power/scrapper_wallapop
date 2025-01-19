@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A8",
-    "year": "2010",
+    "year": 2010,
     "url": "https://www.km77.com/coches/audi/a8/2010/estandar",
     "price": "Desde 115.850 €",
     "versions": [
@@ -5491,5 +5491,6 @@
             "Parabrisas preparado para dispositivos de tele-peaje": "660 €",
             "Recuperación de la energía de frenado": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A8"
 }

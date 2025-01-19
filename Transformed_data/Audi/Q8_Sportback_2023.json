@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "Q8 Sportback",
-    "year": "2023",
+    "year": 2023,
     "url": "https://www.km77.com/coches/audi/q8/2023/sportback",
     "price": "Desde 98.495 €",
     "versions": [
@@ -1238,5 +1238,6 @@
             "Servicios Audi Connect Remote & Control": "De serie",
             "e-tron charging compact hasta 11 kW": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "Q8 Sportback"
 }

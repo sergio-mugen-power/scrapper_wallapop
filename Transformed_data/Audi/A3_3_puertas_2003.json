@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A3 3 puertas",
-    "year": "2003",
+    "year": 2003,
     "url": "https://www.km77.com/coches/audi/a3/2003/3-puertas",
     "price": "Desde 33.890 €",
     "versions": [
@@ -5446,5 +5446,6 @@
             "Triángulo de emergencia y botiquín": "De serie",
             "Umbrales de las puertas en aluminio": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A3"
 }

@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "Q3",
-    "year": "2015",
+    "year": 2015,
     "url": "https://www.km77.com/coches/audi/q3/2015/estandar",
     "price": "",
     "versions": [
@@ -21177,5 +21177,6 @@
             "Paquete fumador": "40 €",
             "Protección de cantos de maletero de acero fino": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "Q3"
 }

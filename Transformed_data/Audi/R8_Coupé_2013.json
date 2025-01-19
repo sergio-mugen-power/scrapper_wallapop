@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "R8 Coupé",
-    "year": "2013",
+    "year": 2013,
     "url": "https://www.km77.com/coches/audi/r8/2013/coupe",
     "price": "",
     "versions": [
@@ -1134,5 +1134,6 @@
             "Interfaz para sistema de localización de vehículos": "140 €",
             "Umbral de puertas ultrabrillantes con emblema R8": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "R8 Coupe"
 }

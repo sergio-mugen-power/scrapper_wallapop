@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "e-tron GT",
-    "year": "2021",
+    "year": 2021,
     "url": "https://www.km77.com/coches/audi/e-tron-gt/2021/estandar",
     "price": "Desde 130.280 €",
     "versions": [
@@ -514,5 +514,6 @@
             "Sonido deportivo e-tron": "De serie",
             "Turbocargador de 400 voltios plus (hasta 270 kW)": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "e-tron GT"
 }

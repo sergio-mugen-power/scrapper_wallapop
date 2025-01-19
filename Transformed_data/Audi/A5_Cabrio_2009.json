@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A5 Cabrio",
-    "year": "2009",
+    "year": 2009,
     "url": "https://www.km77.com/coches/audi/a5/2009/cabrio",
     "price": "Desde 53.310 €",
     "versions": [
@@ -5557,5 +5557,6 @@
             "Recuperación de la energía de frenado": "De serie",
             "Umbral de puertas en aluminio": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A5 Cabrio"
 }

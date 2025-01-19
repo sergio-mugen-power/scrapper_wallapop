@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A7 Sportback",
-    "year": "2018",
+    "year": 2018,
     "url": "https://www.km77.com/coches/audi/a7/2018/sportback",
     "price": "",
     "versions": [
@@ -2323,5 +2323,6 @@
             "Molduras estriberas con inserciones en aluminio e inscripción iluminada": "De serie",
             "Recuperación de la energía de frenado": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A7 Sportback"
 }

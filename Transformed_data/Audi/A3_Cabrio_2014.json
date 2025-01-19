@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A3 Cabrio",
-    "year": "2014",
+    "year": 2014,
     "url": "https://www.km77.com/coches/audi/a3/2014/cabrio",
     "price": "Desde 33.890 €",
     "versions": [
@@ -1937,5 +1937,6 @@
             "Recuperación de la energía de frenado": "De serie",
             "Umbrales de las puertas con placas de aluminio \"S\"": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A3 Cabrio"
 }

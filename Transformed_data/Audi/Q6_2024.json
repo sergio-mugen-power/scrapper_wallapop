@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "Q6",
-    "year": "2024",
+    "year": 2024,
     "url": "https://www.km77.com/coches/audi/q6/2024/estandar",
     "price": "",
     "versions": [
@@ -2284,5 +2284,6 @@
             "Recuperación de energía ajustable mediante levas en volante": "De serie",
             "Sonido deportivo e-tron": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "Q6"
 }

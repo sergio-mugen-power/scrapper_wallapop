@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A4 Avant",
-    "year": "2012",
+    "year": 2012,
     "url": "https://www.km77.com/coches/audi/a4/2012/avant",
     "price": "",
     "versions": [
@@ -20630,5 +20630,6 @@
             "Recuperación de la energía de frenado": "De serie",
             "Umbral de puertas en aluminio con inscripción \"RS 4\"": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A4 Avant"
 }

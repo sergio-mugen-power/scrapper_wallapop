@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A8 L",
-    "year": "1999",
+    "year": 1999,
     "url": "https://www.km77.com/coches/audi/a8/1999/l",
     "price": "Desde 115.850 €",
     "versions": [
@@ -216,5 +216,6 @@
             "Alarma antirrobo": "De serie",
             "Inmovilizador": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A8"
 }

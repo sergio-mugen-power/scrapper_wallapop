@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A4 Berlina",
-    "year": "2008",
+    "year": 2008,
     "url": "https://www.km77.com/coches/audi/a4/2008/berlina",
     "price": "",
     "versions": [
@@ -15078,5 +15078,6 @@
             "Dos triángulos de emergencia y botiquín": "De serie",
             "Interfaz para sistema de localización": "135 €"
         }
-    ]
+    ],
+    "cleaned_name": "A4 Berlina"
 }

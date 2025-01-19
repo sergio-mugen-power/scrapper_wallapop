@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A6 Berlina",
-    "year": "2011",
+    "year": 2011,
     "url": "https://www.km77.com/coches/audi/a6/2011/berlina",
     "price": "Desde 70.480 €",
     "versions": [
@@ -8610,5 +8610,6 @@
             "Preinstalación para localizador de vehículos robados": "140 €",
             "Recuperación de la energía de frenado": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A6 Berlina"
 }
