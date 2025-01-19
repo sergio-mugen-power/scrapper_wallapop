@@ -5,6 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
+from selenium.common.exceptions import TimeoutException
 from webdriver_manager.chrome import ChromeDriverManager
 from datetime import datetime
 import time
@@ -152,10 +153,13 @@ def get_wallapop_car_data(min_year, max_year, min_km, max_km, min_sale_price, ma
             last_position = new_position  # Actualizar la última posición para la siguiente iteración
 
         # Extraer anuncios después de hacer el scroll
-        WebDriverWait(driver, 20).until(
-            EC.presence_of_all_elements_located((By.CSS_SELECTOR, "a.ItemCardList__item"))
-        )
-        
+        try:
+            WebDriverWait(driver, 20).until(
+                EC.presence_of_all_elements_located((By.CSS_SELECTOR, "a.ItemCardList__item"))
+            )
+        except TimeoutException as e:
+            print("Error: Tiempo de espera agotado. No se encontró el elemento.")
+            print(e)
         cards = driver.find_elements(By.CSS_SELECTOR, "a.ItemCardList__item")
         
         # Si hay anuncios, extraemos los datos
