@@ -223,6 +223,7 @@ def get_wallapop_car_data(driver,min_year, max_year, min_km, max_km, min_sale_pr
         "búsqueda": {
             "marca": brand,
             "modelo": model,
+            "version": keywords,
             "año mínimo": min_year,
             "año máximo": max_year,
             "km mínimo": min_km,
@@ -270,7 +271,7 @@ for subdir, _, files in os.walk(base_directory):
             with open(file_path, 'r', encoding='utf-8') as json_file:
                 data = json.load(json_file)
                 brand = data.get('brand', '')
-                model = data.get('cleaned_name', '')
+                model = data.get('model', '')
                 min_year = int(data.get('start_year', '1940'))
                 max_year = int(data.get('end_year', '2025'))
                 max_horsepower = int(data.get('potencia', '1000'))
