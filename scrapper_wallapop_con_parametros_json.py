@@ -253,7 +253,7 @@ min_km = 2007
 max_km = 300000
 min_sale_price = 1
 max_sale_price = 90000
-keywords = ""  # Palabra clave externa
+#keywords = ""  # Palabra clave externa
 gearbox_types = ['automatic', 'manual']
 engine_types = ['gasoline','gasoil','electric-hybrid','others']
 #brand = "MINI"
@@ -270,10 +270,11 @@ for subdir, _, files in os.walk(base_directory):
             with open(file_path, 'r', encoding='utf-8') as json_file:
                 data = json.load(json_file)
                 brand = data.get('brand', '')
-                model = data.get('model', '')
+                model = data.get('cleaned_name', '')
                 min_year = int(data.get('start_year', '1940'))
                 max_year = int(data.get('end_year', '2025'))
                 max_horsepower = int(data.get('potencia', '1000'))
+                keywords = data.get('version_name', '')
                 
                 # Llamada a la función con los parámetros obtenidos del JSON
                 get_wallapop_car_data(driver,min_year, max_year, min_km, max_km, min_sale_price, max_sale_price, brand, model, latitude, longitude, keywords, gearbox_types, engine_types, max_horsepower, min_horsepower)
