@@ -42,8 +42,10 @@ def setup_driver():
     options.add_argument("--headless")                  # Opcional: Modo sin ventana (para mayor velocidad)
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     return driver
+    # Iniciar el navegador
+driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 # Función principal para obtener datos de Wallapop
-def get_wallapop_car_data(min_year, max_year, min_km, max_km, min_sale_price, max_sale_price, brand, model, latitude, longitude, keywords, gearbox_types, engine_types, max_horsepower, min_horsepower):
+def get_wallapop_car_data(driver,min_year, max_year, min_km, max_km, min_sale_price, max_sale_price, brand, model, latitude, longitude, keywords, gearbox_types, engine_types, max_horsepower, min_horsepower):
     base_url = "https://es.wallapop.com/app/search?"
     gearbox_type_str = ','.join(gearbox_types)
     engine_types_str = ','.join(engine_types)
@@ -74,9 +76,6 @@ def get_wallapop_car_data(min_year, max_year, min_km, max_km, min_sale_price, ma
 
     # Inicializamos una lista vacía para almacenar los anuncios
     car_data = []
-
-    # Iniciar el navegador
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
     
     first_run = True  # Variable para indicar si es la primera ejecución
     
@@ -245,8 +244,8 @@ def get_wallapop_car_data(min_year, max_year, min_km, max_km, min_sale_price, ma
     save_to_json(base_path, search_info, brand, model)
     print(f"Se extrajeron {len(car_data)} anuncios. Datos guardados en {output_path}")
 
-    driver.quit()
     return car_data
+
 #Parametros de busqueda
 #min_year = 1940
 #max_year = 2007
@@ -277,4 +276,5 @@ for subdir, _, files in os.walk(base_directory):
                 max_horsepower = int(data.get('potencia', '1000'))
                 
                 # Llamada a la función con los parámetros obtenidos del JSON
-                get_wallapop_car_data(min_year, max_year, min_km, max_km, min_sale_price, max_sale_price, brand, model, latitude, longitude, keywords, gearbox_types, engine_types, max_horsepower, min_horsepower)
+                get_wallapop_car_data(driver,min_year, max_year, min_km, max_km, min_sale_price, max_sale_price, brand, model, latitude, longitude, keywords, gearbox_types, engine_types, max_horsepower, min_horsepower)
+driver.quit()
