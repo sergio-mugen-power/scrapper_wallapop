@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "TT Roadster",
-    "year": "2019",
+    "year": 2019,
     "url": "https://www.km77.com/coches/audi/tt/2019/roadster",
     "price": "",
     "versions": [
@@ -2421,5 +2421,6 @@
             "Molduras de entrada en puertas con iluminación LED y logotipo 25RS": "Sólo en paquete",
             "Paquete fumador": "40 €"
         }
-    ]
+    ],
+    "cleaned_name": "TT Roadster"
 }

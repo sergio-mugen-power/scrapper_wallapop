@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "TT Coupé",
-    "year": "2006",
+    "year": 2006,
     "url": "https://www.km77.com/coches/audi/tt/2006/coupe",
     "price": "",
     "versions": [
@@ -2492,5 +2492,6 @@
             "Triángulos de emergencia/ gato y botiquín": "De serie",
             "Umbral puertas delanteras en aluminio": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "TT Coupe"
 }

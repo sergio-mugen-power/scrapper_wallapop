@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A4 Avant",
-    "year": "2005",
+    "year": 2005,
     "url": "https://www.km77.com/coches/audi/a4/2005/avant",
     "price": "",
     "versions": [
@@ -8952,5 +8952,6 @@
             "Llantas Traseras": "9 x 19",
             "Precio (con descuento y equipamiento seleccionado)85.290 €": "Coste opciones seleccionadas: 0 €"
         }
-    ]
+    ],
+    "cleaned_name": "A4 Avant"
 }

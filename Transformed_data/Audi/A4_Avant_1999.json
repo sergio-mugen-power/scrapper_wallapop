@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A4 Avant",
-    "year": "1999",
+    "year": 1999,
     "url": "https://www.km77.com/coches/audi/a4/1999/avant",
     "price": "",
     "versions": [
@@ -2727,5 +2727,6 @@
             "Alarma antirrobo": "De serie",
             "Inmovilizador": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A4 Avant"
 }

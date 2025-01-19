@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "e-tron GT",
-    "year": "2025",
+    "year": 2025,
     "url": "https://www.km77.com/coches/audi/e-tron-gt/2025/estandar",
     "price": "Desde 130.280 €",
     "versions": [
@@ -720,5 +720,6 @@
             "Servicios remotos": "De serie",
             "Sonido deportivo e-tron": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "e-tron GT"
 }

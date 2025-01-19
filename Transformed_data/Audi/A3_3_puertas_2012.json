@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A3 3 puertas",
-    "year": "2012",
+    "year": 2012,
     "url": "https://www.km77.com/coches/audi/a3/2012/3-puertas",
     "price": "Desde 33.890 €",
     "versions": [
@@ -27517,5 +27517,6 @@
             "Paquete fumador": "40 €",
             "Umbrales de las puertas con placas de aluminio \"S\"": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A3"
 }

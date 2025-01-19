@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "Q8",
-    "year": "2019",
+    "year": 2019,
     "url": "https://www.km77.com/coches/audi/q8/2019/estandar",
     "price": "Desde 98.495 €",
     "versions": [
@@ -2480,5 +2480,6 @@
             "Recuperación de la energía de frenado": "De serie",
             "Umbrales de puertas iluminados en aluminio delante y detrás con inscripción RS": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "Q8"
 }

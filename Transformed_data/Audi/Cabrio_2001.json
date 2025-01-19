@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "Cabrio",
-    "year": "2001",
+    "year": 2001,
     "url": "https://www.km77.com/coches/audi/cabrio/2001/estandar",
     "price": "",
     "versions": [
@@ -2681,5 +2681,6 @@
             "Botiquín de primeros auxilios": "De serie",
             "Inmovilizador electrónico": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "Cabrio"
 }

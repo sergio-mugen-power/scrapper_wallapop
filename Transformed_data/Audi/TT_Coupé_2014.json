@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "TT Coupé",
-    "year": "2014",
+    "year": 2014,
     "url": "https://www.km77.com/coches/audi/tt/2014/coupe",
     "price": "",
     "versions": [
@@ -2356,5 +2356,6 @@
             "Moldura de entrada con logo RS": "De serie",
             "Paquete fumador": "40 €"
         }
-    ]
+    ],
+    "cleaned_name": "TT Coupe"
 }

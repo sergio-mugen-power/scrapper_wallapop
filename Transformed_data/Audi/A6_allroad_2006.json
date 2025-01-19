@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A6 allroad",
-    "year": "2006",
+    "year": 2006,
     "url": "https://www.km77.com/coches/audi/a6/2006/allroad",
     "price": "Desde 70.480 €",
     "versions": [
@@ -3419,5 +3419,6 @@
             "Protección especial de bajos del motor": "380 €",
             "Umbral de puertas en aluminio": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A6 Allroad"
 }

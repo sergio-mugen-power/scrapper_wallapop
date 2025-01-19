@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A8 L",
-    "year": "2008",
+    "year": 2008,
     "url": "https://www.km77.com/coches/audi/a8/2008/l",
     "price": "Desde 115.850 €",
     "versions": [
@@ -2249,5 +2249,6 @@
             "Interface para localización de vehículos robados": "135 €",
             "Parabrisas para dispositivos electrónicos": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A8"
 }

@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "TT Coupé",
-    "year": "2010",
+    "year": 2010,
     "url": "https://www.km77.com/coches/audi/tt/2010/coupe",
     "price": "",
     "versions": [
@@ -4984,5 +4984,6 @@
             "Triángulo de emergencia y botiquín": "De serie",
             "Umbral de puertas en aluminio": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "TT Coupe"
 }

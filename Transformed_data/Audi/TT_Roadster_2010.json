@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "TT Roadster",
-    "year": "2010",
+    "year": 2010,
     "url": "https://www.km77.com/coches/audi/tt/2010/roadster",
     "price": "",
     "versions": [
@@ -5072,5 +5072,6 @@
             "Interfaz para sistema de localización de vehículos": "135 €",
             "Umbral de puertas en aluminio": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "TT Roadster"
 }

@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "Cabrio",
-    "year": "2006",
+    "year": 2006,
     "url": "https://www.km77.com/coches/audi/cabrio/2006/estandar",
     "price": "",
     "versions": [
@@ -5701,5 +5701,6 @@
             "Capota acústica": "De serie",
             "Inmovilizador": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "Cabrio"
 }

@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A4 Berlina",
-    "year": "2012",
+    "year": 2012,
     "url": "https://www.km77.com/coches/audi/a4/2012/berlina",
     "price": "",
     "versions": [
@@ -18844,5 +18844,6 @@
             "Moldura en umbral de puertas delanteras y traseras": "De serie",
             "Recuperación de la energía de frenado": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A4 Berlina"
 }

@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A6 allroad",
-    "year": "2012",
+    "year": 2012,
     "url": "https://www.km77.com/coches/audi/a6/2012/allroad",
     "price": "Desde 70.480 €",
     "versions": [
@@ -2461,5 +2461,6 @@
             "Preinstalación para localizador de vehículos robados": "135 €",
             "Recuperación de la energía de frenado": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A6 Allroad"
 }

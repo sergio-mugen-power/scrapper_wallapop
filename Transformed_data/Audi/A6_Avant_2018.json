@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A6 Avant",
-    "year": "2018",
+    "year": 2018,
     "url": "https://www.km77.com/coches/audi/a6/2018/avant",
     "price": "Desde 70.480 €",
     "versions": [
@@ -2699,5 +2699,6 @@
             "Molduras de entrada iluminadas": "De serie",
             "MyCarManager (conexión a vehículo desde smartphone)": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A6 Avant"
 }

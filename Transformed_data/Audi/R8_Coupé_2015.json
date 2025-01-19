@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "R8 Coupé",
-    "year": "2015",
+    "year": 2015,
     "url": "https://www.km77.com/coches/audi/r8/2015/coupe",
     "price": "",
     "versions": [
@@ -585,5 +585,6 @@
             "Umbrales de puerta en aluminio con logo R8": "De serie",
             "Umbrales de puerta retroiluminados": "855 €"
         }
-    ]
+    ],
+    "cleaned_name": "R8 Coupe"
 }

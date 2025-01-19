@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A6 Avant",
-    "year": "2025",
+    "year": 2025,
     "url": "https://www.km77.com/coches/audi/a6/2025/avant",
     "price": "Desde 70.480 €",
     "versions": [
@@ -2212,5 +2212,6 @@
             "Recuperación de la energía de frenado": "De serie",
             "Sonido deportivo e-tron": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A6 Avant"
 }

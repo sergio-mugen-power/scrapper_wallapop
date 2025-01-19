@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "Q2",
-    "year": "2016",
+    "year": 2016,
     "url": "https://www.km77.com/coches/audi/q2/2016/estandar",
     "price": "",
     "versions": [
@@ -13363,5 +13363,6 @@
             "Molduras de entrada de aluminio iluminadas": "De serie",
             "Recuperación de la energía de frenado": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "Q2"
 }

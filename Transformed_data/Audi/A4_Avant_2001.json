@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A4 Avant",
-    "year": "2001",
+    "year": 2001,
     "url": "https://www.km77.com/coches/audi/a4/2001/avant",
     "price": "",
     "versions": [
@@ -10016,5 +10016,6 @@
             "Botiquín de primeros auxilios": "De serie",
             "Inmovilizador electrónico": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A4 Avant"
 }

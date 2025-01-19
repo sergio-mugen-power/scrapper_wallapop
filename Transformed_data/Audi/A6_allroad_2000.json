@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A6 allroad",
-    "year": "2000",
+    "year": 2000,
     "url": "https://www.km77.com/coches/audi/a6/2000/allroad",
     "price": "Desde 70.480 €",
     "versions": [
@@ -1539,5 +1539,6 @@
             "Botiquín en apoyabrazos central trasero": "De serie",
             "Inmovilizador electrónico": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A6 Allroad"
 }

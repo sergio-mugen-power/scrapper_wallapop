@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A6",
-    "year": "2018",
+    "year": 2018,
     "url": "https://www.km77.com/coches/audi/a6/2018/estandar",
     "price": "Desde 70.480 €",
     "versions": [
@@ -1968,5 +1968,6 @@
             "MyCarManager (conexión a vehículo desde smartphone)": "De serie",
             "Paquete fumador": "80 €"
         }
-    ]
+    ],
+    "cleaned_name": "A6"
 }

@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "e-tron Sportback",
-    "year": "2020",
+    "year": 2020,
     "url": "https://www.km77.com/coches/audi/e-tron/2020/sportback",
     "price": "",
     "versions": [
@@ -2382,5 +2382,6 @@
             "Recuperación de energía con levas en el volante": "De serie",
             "Segunda toma de carga AC (lado de acompañante)": "560 €"
         }
-    ]
+    ],
+    "cleaned_name": "e-tron Sportback"
 }

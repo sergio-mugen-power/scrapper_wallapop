@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "TT Roadster",
-    "year": "1999",
+    "year": 1999,
     "url": "https://www.km77.com/coches/audi/tt/1999/roadster",
     "price": "",
     "versions": [
@@ -1591,5 +1591,6 @@
             "Botiquín y triángulo de emergencia": "De serie",
             "Inmovilizador": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "TT Roadster"
 }

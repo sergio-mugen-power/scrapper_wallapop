@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A2",
-    "year": "2000",
+    "year": 2000,
     "url": "https://www.km77.com/coches/audi/a2/2000/estandar",
     "price": "",
     "versions": [
@@ -1826,5 +1826,6 @@
             "Cenicero y encendedor": "0 €",
             "Inmovilizador electrónico": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A2"
 }

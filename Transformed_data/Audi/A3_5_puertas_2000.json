@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A3 5 puertas",
-    "year": "2000",
+    "year": 2000,
     "url": "https://www.km77.com/coches/audi/a3/2000/5-puertas",
     "price": "Desde 33.890 €",
     "versions": [
@@ -5754,5 +5754,6 @@
             "Alarma antirrobo": "De serie",
             "Inmovilizador": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A3"
 }

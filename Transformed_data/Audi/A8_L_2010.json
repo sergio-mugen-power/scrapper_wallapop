@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A8 L",
-    "year": "2010",
+    "year": 2010,
     "url": "https://www.km77.com/coches/audi/a8/2010/l",
     "price": "Desde 115.850 €",
     "versions": [
@@ -4623,5 +4623,6 @@
             "Paquete fumador (ceniceros delante y detrás)": "De serie",
             "Recuperación de la energía de frenado": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A8"
 }

@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A3 Sedan",
-    "year": "2013",
+    "year": 2013,
     "url": "https://www.km77.com/coches/audi/a3/2013/sedan",
     "price": "Desde 33.890 €",
     "versions": [
@@ -14868,5 +14868,6 @@
             "Triángulo de emergencia y botiquín": "De serie",
             "Umbrales de las puertas con placas de aluminio \"S\"": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A3"
 }

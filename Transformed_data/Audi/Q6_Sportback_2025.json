@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "Q6 Sportback",
-    "year": "2025",
+    "year": 2025,
     "url": "https://www.km77.com/coches/audi/q6/2025/sportback",
     "price": "",
     "versions": [
@@ -2258,5 +2258,6 @@
             "Recuperación de energía ajustable mediante levas en volante": "De serie",
             "Sonido deportivo e-tron": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "Q6 Sportback"
 }

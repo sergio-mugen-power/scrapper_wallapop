@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A3 Sportback",
-    "year": "2013",
+    "year": 2013,
     "url": "https://www.km77.com/coches/audi/a3/2013/sportback",
     "price": "Desde 33.890 €",
     "versions": [
@@ -24559,5 +24559,6 @@
             "Paquete fumador": "40 €",
             "Umbrales de las puertas con placas de aluminio \"S\"": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A3 Sportback"
 }

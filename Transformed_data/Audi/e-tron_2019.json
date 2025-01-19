@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "e-tron",
-    "year": "2019",
+    "year": 2019,
     "url": "https://www.km77.com/coches/audi/e-tron/2019/estandar",
     "price": "",
     "versions": [
@@ -3626,5 +3626,6 @@
             "Recuperación de energía variable": "De serie",
             "Toma de carga rápida Combined Charging System tipo 2 (CCS2)": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "e-tron"
 }

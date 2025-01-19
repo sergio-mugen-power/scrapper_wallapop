@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "Q5",
-    "year": "2021",
+    "year": 2021,
     "url": "https://www.km77.com/coches/audi/q5/2021/estandar",
     "price": "Desde 63.910 €",
     "versions": [
@@ -3752,5 +3752,6 @@
             "Servicios remotos": "De serie",
             "Umbral de puertas delanteras iluminadas con logotipo S": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "Q5"
 }

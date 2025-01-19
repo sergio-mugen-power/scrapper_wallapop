@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A6 Berlina",
-    "year": "2004",
+    "year": 2004,
     "url": "https://www.km77.com/coches/audi/a6/2004/berlina",
     "price": "Desde 70.480 €",
     "versions": [
@@ -12256,5 +12256,6 @@
             "Retrovisor int. con antideslumbramiento automático con brújula integrada": "330 €",
             "Umbral puertas en aluminio con emblema S6": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A6 Berlina"
 }

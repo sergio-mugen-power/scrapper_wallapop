@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A4 Avant",
-    "year": "2020",
+    "year": 2020,
     "url": "https://www.km77.com/coches/audi/a4/2020/avant",
     "price": "",
     "versions": [
@@ -11339,5 +11339,6 @@
             "Recuperación de la energía de frenado": "De serie",
             "Servicios remotos": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A4 Avant"
 }

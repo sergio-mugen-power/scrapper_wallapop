@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A3 Sportback",
-    "year": "2010",
+    "year": 2010,
     "url": "https://www.km77.com/coches/audi/a3/2010/sportback",
     "price": "Desde 33.890 €",
     "versions": [
@@ -17722,5 +17722,6 @@
             "Llantas delanteras": "8 x 19",
             "Llantas Traseras": "8 x 19"
         }
-    ]
+    ],
+    "cleaned_name": "A3 Sportback"
 }

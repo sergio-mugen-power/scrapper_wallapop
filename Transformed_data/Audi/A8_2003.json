@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A8",
-    "year": "2003",
+    "year": 2003,
     "url": "https://www.km77.com/coches/audi/a8/2003/estandar",
     "price": "Desde 115.850 €",
     "versions": [
@@ -3310,5 +3310,6 @@
             "Alarma antirrobo": "De serie",
             "Alarma antirrobo con protección contra remolcado": "135 €"
         }
-    ]
+    ],
+    "cleaned_name": "A8"
 }

@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A3 3 puertas",
-    "year": "2010",
+    "year": 2010,
     "url": "https://www.km77.com/coches/audi/a3/2010/3-puertas",
     "price": "Desde 33.890 €",
     "versions": [
@@ -9182,5 +9182,6 @@
             "Triángulo de emergencia y botiquín": "De serie",
             "Umbrales de puertas en aluminio": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A3"
 }

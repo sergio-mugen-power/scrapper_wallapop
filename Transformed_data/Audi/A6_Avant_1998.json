@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A6 Avant",
-    "year": "1998",
+    "year": 1998,
     "url": "https://www.km77.com/coches/audi/a6/1998/avant",
     "price": "Desde 70.480 €",
     "versions": [
@@ -5806,5 +5806,6 @@
             "Alarma antirrobo": "De serie",
             "Umbral puertas en aluminio con emblema RS 6": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A6 Avant"
 }

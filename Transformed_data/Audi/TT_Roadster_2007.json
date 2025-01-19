@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "TT Roadster",
-    "year": "2007",
+    "year": 2007,
     "url": "https://www.km77.com/coches/audi/tt/2007/roadster",
     "price": "",
     "versions": [
@@ -2461,5 +2461,6 @@
             "Triángulos de emergencia/ gato y botiquín": "De serie",
             "Umbral puertas delanteras en aluminio": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "TT Roadster"
 }

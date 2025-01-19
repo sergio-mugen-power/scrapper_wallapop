@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "A5 Sportback",
-    "year": "2010",
+    "year": 2010,
     "url": "https://www.km77.com/coches/audi/a5/2010/sportback",
     "price": "Desde 53.310 €",
     "versions": [
@@ -6853,5 +6853,6 @@
             "Molduras en umbral de puertas en aluminio con inscripción \"S\"": "De serie",
             "Recuperación de la energía de frenado": "De serie"
         }
-    ]
+    ],
+    "cleaned_name": "A5 Sportback"
 }

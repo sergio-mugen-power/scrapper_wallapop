@@ -1,7 +1,7 @@
 {
     "brand": "Audi",
     "name": "TT Coupé",
-    "year": "2019",
+    "year": 2019,
     "url": "https://www.km77.com/coches/audi/tt/2019/coupe",
     "price": "",
     "versions": [
@@ -2669,5 +2669,6 @@
             "Molduras de entrada en bordes de puertas": "De serie",
             "Paquete fumador": "40 €"
         }
-    ]
+    ],
+    "cleaned_name": "TT Coupe"
 }
