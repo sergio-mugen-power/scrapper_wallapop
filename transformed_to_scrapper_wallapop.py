@@ -121,7 +121,7 @@ def process_json(file_path, brand, output_path):
             data = json.load(file)
 
         # Obtener modelo y versiones
-        model = data.get("name", "unknown_model")
+        model = data.get("cleaned_name", "unknown_model")
         versions = data.get("versions", [])
 
         # Procesar cada versión
