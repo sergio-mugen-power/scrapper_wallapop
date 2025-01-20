@@ -5,7 +5,7 @@ import json
 directory = 'Transformed_data/BMW'
 
 # Define the words to be removed from the 'cleaned_name' field
-words_to_remove = ["3p", "5p", "Berlina", "Gran Coupé", "Touring", "Cabrio", "Coupé", "Compact","5 puertas","3 puertas","4 puertas","Batalla normal", "Gran Turismo", "Batalla larga", "Active Tourer","Gran Tourer","Batalla", "Roadster"]
+words_to_remove = ["3p", "5p", "Berlina", "Gran Coupé","4 puertas", "Touring", "Cabrio", "Coupé", "Compact","5 puertas","3 puertas","4 puertas","Batalla normal", "Gran Turismo", "Batalla larga", "Active Tourer","Gran Tourer","Batalla", "Roadster"]
 
 # Function to clean the 'cleaned_name' field
 def clean_name(name):

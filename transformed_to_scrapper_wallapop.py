@@ -77,8 +77,7 @@ def process_version(version, brand, model, output_path):
     """
     try:
         # Obtener nombre único para la versión
-        version_name_sin_limpiar = version.get("name", "unknown_version")
-        version_name = limpiar_version_name(version_name_sin_limpiar)  # Limpiar el nombre de la versión
+        version_name = version.get("name", "")  # Usar el nombre original aquí
         # Transformar el combustible directamente aquí
         fuel_type = transformar_combustible(version)
         gearbox_type = transformar_caja_de_cambios(version)
@@ -90,7 +89,7 @@ def process_version(version, brand, model, output_path):
         if end_year == "":
             end_year = current_year
         print(f"El año final es: {end_year}")
-
+        
         version_data = {
             "brand": brand,
             "model": model,

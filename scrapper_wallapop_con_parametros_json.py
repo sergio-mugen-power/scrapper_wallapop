@@ -266,7 +266,7 @@ min_horsepower = 1
 base_directory = 'parameters_scrapper'
 for subdir, _, files in os.walk(base_directory):
     for file in files:
-        if file.endswith('.json'):
+        if file.endswith('.json') and file.startswith('A3'):
             file_path = os.path.join(subdir, file)
             with open(file_path, 'r', encoding='utf-8') as json_file:
                 data = json.load(json_file)
