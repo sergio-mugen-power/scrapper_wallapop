@@ -71,15 +71,13 @@ def transformar_caja_de_cambios(version):
         print(f"Claves disponibles en el JSON: {list(version.keys())}")  # Muestra todas las claves
         version["Caja de cambios"] = "unknown"
     return version.get("Caja de cambios", "unknown")
-
 def process_version(version, brand, model, output_path):
     """
     Procesa una versión individual y guarda un archivo JSON con sus datos.
     """
     try:
         # Obtener nombre único para la versión
-        version_name_sin_limpiar = version.get("name", "unknown_version")
-        version_name = limpiar_version_name(version_name_sin_limpiar)  # Limpiar el nombre de la versión
+        version_name = version.get("name", "")  # Usar el nombre original aquí
         # Transformar el combustible directamente aquí
         fuel_type = transformar_combustible(version)
         gearbox_type = transformar_caja_de_cambios(version)
@@ -91,7 +89,7 @@ def process_version(version, brand, model, output_path):
         if end_year == "":
             end_year = current_year
         print(f"El año final es: {end_year}")
-
+        
         version_data = {
             "brand": brand,
             "model": model,
@@ -121,7 +119,7 @@ def process_json(file_path, brand, output_path):
             data = json.load(file)
 
         # Obtener modelo y versiones
-        model = data.get("cleaned_name", "unknown_model")
+        model = data.get("name", "unknown_model")
         versions = data.get("versions", [])
 
         # Procesar cada versión

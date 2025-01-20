@@ -47,14 +47,14 @@ driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 # Función principal para obtener datos de Wallapop
 def get_wallapop_car_data(driver,min_year, max_year, min_km, max_km, min_sale_price, max_sale_price, brand, model, latitude, longitude, keywords, gearbox_types, engine_types, max_horsepower, min_horsepower):
     base_url = "https://es.wallapop.com/app/search?"
-    gearbox_type_str = ','.join(gearbox_types)
-    engine_types_str = ','.join(engine_types)
+    """gearbox_type_str = ','.join(gearbox_types)
+    engine_types_str = ','.join(engine_types)"""
     # Convertir las listas de caja de cambios y motores en cadenas separadas por comas
     keywords_with_spaces = keywords.replace(" ", "%20")
     
     params = {
         'filters_source': 'default_filters',
-        'keywords': keywords_with_spaces,
+        'keywords': "",
         'category_ids': '100',
         'latitude': latitude,
         'longitude': longitude,
@@ -67,8 +67,8 @@ def get_wallapop_car_data(driver,min_year, max_year, min_km, max_km, min_sale_pr
         'max_km': max_km,
         'min_sale_price': min_sale_price,
         'max_sale_price': max_sale_price,
-        'gearbox': gearbox_type_str,  # Filtros de tipo de caja de cambios (automático, manual)
-        'engine': engine_types_str,
+        'gearbox': gearbox_types,  # Filtros de tipo de caja de cambios (automático, manual)
+        'engine': engine_types,
         'body_type': 'others,van,4X4,mini_van,small_car,coupe_cabrio,sedan,family_car',  # Tipos de carrocería
         'min_horse_power': min_horsepower, #Potencia minima
         'max_horse_power': max_horsepower #Potencia máxima
@@ -223,6 +223,7 @@ def get_wallapop_car_data(driver,min_year, max_year, min_km, max_km, min_sale_pr
         "búsqueda": {
             "marca": brand,
             "modelo": model,
+            "version": keywords,
             "año mínimo": min_year,
             "año máximo": max_year,
             "km mínimo": min_km,
@@ -254,8 +255,8 @@ max_km = 300000
 min_sale_price = 1
 max_sale_price = 90000
 #keywords = ""  # Palabra clave externa
-gearbox_types = ['automatic', 'manual']
-engine_types = ['gasoline','gasoil','electric-hybrid','others']
+#gearbox_types = ['automatic', 'manual']
+#engine_types = ['gasoline','gasoil','electric-hybrid','others']
 #brand = "MINI"
 #model = "MINI"  # Modelo en la URL
 latitude = 40.578494
@@ -265,16 +266,18 @@ min_horsepower = 1
 base_directory = 'parameters_scrapper'
 for subdir, _, files in os.walk(base_directory):
     for file in files:
-        if file.endswith('.json'):
+        if file.endswith('.json') and file.startswith('A3'):
             file_path = os.path.join(subdir, file)
             with open(file_path, 'r', encoding='utf-8') as json_file:
                 data = json.load(json_file)
                 brand = data.get('brand', '')
-                model = data.get('cleaned_name', '')
+                model = data.get('model', '')
                 min_year = int(data.get('start_year', '1940'))
                 max_year = int(data.get('end_year', '2025'))
                 max_horsepower = int(data.get('potencia', '1000'))
-                keywords = data.get('version_name', '')
+                keywords = ""#data.get('version_name', '')
+                gearbox_types = data.get('gearbox_type', ['automatic', 'manual'])
+                engine_types = data.get('fuel_type', ['gasoline','gasoil','electric-hybrid','others'])
                 
                 # Llamada a la función con los parámetros obtenidos del JSON
                 get_wallapop_car_data(driver,min_year, max_year, min_km, max_km, min_sale_price, max_sale_price, brand, model, latitude, longitude, keywords, gearbox_types, engine_types, max_horsepower, min_horsepower)
