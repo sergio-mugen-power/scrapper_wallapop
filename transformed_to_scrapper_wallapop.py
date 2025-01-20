@@ -71,7 +71,6 @@ def transformar_caja_de_cambios(version):
         print(f"Claves disponibles en el JSON: {list(version.keys())}")  # Muestra todas las claves
         version["Caja de cambios"] = "unknown"
     return version.get("Caja de cambios", "unknown")
-
 def process_version(version, brand, model, output_path):
     """
     Procesa una versión individual y guarda un archivo JSON con sus datos.
@@ -121,7 +120,7 @@ def process_json(file_path, brand, output_path):
             data = json.load(file)
 
         # Obtener modelo y versiones
-        model = data.get("cleaned_name", "unknown_model")
+        model = data.get("name", "unknown_model")
         versions = data.get("versions", [])
 
         # Procesar cada versión

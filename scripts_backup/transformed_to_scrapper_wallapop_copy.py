@@ -8,7 +8,7 @@ output_dir = "../parameters_scrapper_wallapop"
 # Crear directorio de salida si no existe
 os.makedirs(output_dir, exist_ok=True)
 
-def transformar_combustible(data):
+def transformar_datos(data):
     """
     Transforma el tipo de combustible según las reglas especificadas.
     """
@@ -28,6 +28,12 @@ def transformar_combustible(data):
             distintivo = specs['Distintivo ambiental DGT']
             if '0 emisiones' in distintivo or 'ECO' in distintivo:
                 specs['combustible'] = 'electric-hybrid'
+        if 'Tipo de Carrocería' in specs:
+            if 'Tipo de Carrocería' in specs:
+                carroceria = specs['Tipo de Carrocería']
+                if 'SUV' in carroceria:
+                    specs['Tipo de Carrocería'] = 'suv'
+
 
     return data
 
@@ -40,7 +46,7 @@ def process_json(file_path, brand):
             data = json.load(file)
         
         # Aplicar la transformación del combustible
-        data = transformar_combustible(data)
+        data = transformar_datos(data)
         
         # Extraer datos
         model = data.get("name")
