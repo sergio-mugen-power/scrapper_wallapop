@@ -12,7 +12,7 @@ import time
 import os
 
 # Función para guardar los datos en un archivo JSON
-def save_to_json(base_path, data, brand, model):
+def save_to_json(base_path, data, brand, model, keywords,min_year, max_year, gearbox_types, engine_types):
     """
     Guarda los datos, incluyendo las especificaciones de búsqueda, en un archivo JSON.
     Crea una estructura de directorios basada en la marca y el modelo.
@@ -23,9 +23,8 @@ def save_to_json(base_path, data, brand, model):
     
     # Crea los directorios si no existen
     os.makedirs(model_dir, exist_ok=True)
-    timestamp = datetime.now().strftime("%d-%m-%Y_%Hh_%Mm")
     # Define el nombre del archivo (puedes ajustarlo según tu lógica)
-    file_name = f"./{brand}_{model}_price_list_{timestamp}.json"
+    file_name = f"./{brand}_{model}_{keywords}-{min_year}-{max_year}_{gearbox_types}_{engine_types}_price_list_.json"
     file_path = os.path.join(model_dir, file_name)
     
     # Guarda los datos en formato JSON
@@ -242,7 +241,7 @@ def get_wallapop_car_data(driver,min_year, max_year, min_km, max_km, min_sale_pr
     }
 
     # Guardar todos los resultados acumulados en un solo JSON
-    save_to_json(base_path, search_info, brand, model)
+    save_to_json(base_path, search_info, brand, model, keywords, min_year, max_year, gearbox_types, engine_types)
     print(f"Se extrajeron {len(car_data)} anuncios. Datos guardados en {output_path}")
 
     return car_data
@@ -275,7 +274,7 @@ for subdir, _, files in os.walk(base_directory):
                 min_year = int(data.get('start_year', '1940'))
                 max_year = int(data.get('end_year', '2025'))
                 max_horsepower = int(data.get('potencia', '1000'))
-                keywords = ""#data.get('version_name', '')
+                keywords = data.get('version_name', '')
                 gearbox_types = data.get('gearbox_type', ['automatic', 'manual'])
                 engine_types = data.get('fuel_type', ['gasoline','gasoil','electric-hybrid','others'])
                 
