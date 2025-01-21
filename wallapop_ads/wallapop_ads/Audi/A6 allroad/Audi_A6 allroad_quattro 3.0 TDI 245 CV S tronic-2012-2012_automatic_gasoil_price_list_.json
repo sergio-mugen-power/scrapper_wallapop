@@ -1,0 +1,80 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A6 allroad",
+        "version": "quattro 3.0 TDI 245 CV S tronic",
+        "año mínimo": 2012,
+        "año máximo": 2012,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 245,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=245&min_year=2012&max_year=2012&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A6 allroad&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A6 Allroad 2012",
+            "enlace": "https://es.wallapop.com/item/audi-a6-allroad-2012-991746657",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "245 cv",
+            "año": "2012",
+            "kilómetros": "195000 km",
+            "precio": 21500.0
+        },
+        {
+            "titulo": "AUDI A6 allroad quattro 3.0 TDI 245cv quattro S tr",
+            "enlace": "https://es.wallapop.com/item/audi-a6-allroad-quattro-3-0-tdi-245cv-quattro-s-tr-1082099448",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "245 cv",
+            "año": "2012",
+            "kilómetros": "282735 km",
+            "precio": 17900.0
+        },
+        {
+            "titulo": "Audi A6 Allroad 2012 (Nacional)",
+            "enlace": "https://es.wallapop.com/item/audi-a6-allroad-2012-994786047",
+            "descripcion": "Audi A6 Allroad Quattro 3.0cc 245cv, 282735 kilometros, año 2012, cambio automatico con modo secuencial, traccion 4x4, climatizador cuatrizona en parte delantera y trasera, Radio/Cd audi multimedia, navegador, sistema manos libres, sensores de luces, lluvia y parking, volante multifuncion, control de velocidad, faros de xenon, audi drive select con varios modos de suspension en conduccion, asientos de piel en color beige con sistema electrico y memorias de posicionamiento, cortinilla en ventanillas traseras, llantas de 19 pulgadas,Transferencia y Garantía de 12 meses incluidos en el precio.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "245 cv",
+            "año": "2012",
+            "kilómetros": "282735 km",
+            "precio": 17900.0
+        },
+        {
+            "titulo": "Audi A6 Allroad 2012",
+            "enlace": "https://es.wallapop.com/item/audi-a6-allroad-2012-1072228285",
+            "descripcion": "se vende coche va perfecto tienes itv todo bien tienes todos mantinemientos ok .con facturas hablamos por prevado mas information tele 603738336",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "204 cv",
+            "año": "2012",
+            "kilómetros": "198000 km",
+            "precio": 15666.0
+        },
+        {
+            "titulo": "Audi A6 Allroad 2012",
+            "enlace": "https://es.wallapop.com/item/audi-a6-allroad-2012-1068229154",
+            "descripcion": "Se vende coche en muy buen estado , itv y mantenimiento al día . Lugo",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "204 cv",
+            "año": "2012",
+            "kilómetros": "296000 km",
+            "precio": 10700.0
+        }
+    ]
+}

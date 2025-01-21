@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A6 allroad",
+        "version": "quattro 2.7 TDI tiptronic DPF",
+        "año mínimo": 2010,
+        "año máximo": 2012,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 190,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=190&min_year=2010&max_year=2012&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A6 allroad&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A6 Allroad 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a6-allroad-2010-1055666840",
+            "descripcion": "Audi A6 allroad quattro 2.7tdi 190cv año 2010 - Asientos de cuero electricos y calefactables - isofix - caja cambios automatica 6 velocidades - volante multifuncion con levas - control de velocidad - navegador - climatizador bizona - faros bixenon autodirecionables - 4 neumaticos michelin pilot sport 5 recien montados - suspension neumatica dynamic,automatic,comfort,allroad,lift - espejos anti deslumbramiento y calefactables - itv hasta octubre del 2025 - altavoces bose - bola remolque electrica - sensores de lluvia y luz -pantalla MMI",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "190 cv",
+            "año": "2010",
+            "kilómetros": "230000 km",
+            "precio": 11500.0
+        }
+    ]
+}

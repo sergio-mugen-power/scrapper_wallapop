@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A6",
+        "version": "A6 2.8 FSI 190 CV multitronic",
+        "año mínimo": 2008,
+        "año máximo": 2010,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 190,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=190&min_year=2008&max_year=2010&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A6&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A6 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2010-1086080476",
+            "descripcion": "AUDI A6 . en perfectas condiciones , ITV recien pasada . todos los extras . interesados atiendo whaatsap . abtenerse curiosos.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2010",
+            "kilómetros": "170000 km",
+            "precio": 10500.0
+        },
+        {
+            "titulo": "Audi A6 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2008-1088271706",
+            "descripcion": "coche nacionsl con dolo 140000km perfecto de estado con tapiceria de cuero .sus dos llaves originales y mas cosas",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "177 cv",
+            "año": "2008",
+            "kilómetros": "140000 km",
+            "precio": 7900.0
+        },
+        {
+            "titulo": "Audi A6 2009",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2009-1078873357",
+            "descripcion": "PRECIOSO A6 AUTOMÁTICO NACIONAL UN SÓLO PROPIETARIO SÚPER BIEN CUIDADO VA COMO EL PRIMER DIA NI UN RUIDO MUY FINO Y TODO PERFECTO PROCEDE DE CONCESIONARIO ADMITO PRUEBA EN TALLER PROFESIONAL MUY BUEN ESTADO NO NEGOCIABLE 12 MESES DE GARANTÍA MAS INFO PRIVADO",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2009",
+            "kilómetros": "245230 km",
+            "precio": 5900.0
+        }
+    ]
+}

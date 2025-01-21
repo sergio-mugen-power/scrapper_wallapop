@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A6 allroad",
+        "version": "allroad quattro 2.7 T Low Range 6 vel.",
+        "año mínimo": 2000,
+        "año máximo": 2006,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 250,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=250&min_year=2000&max_year=2006&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A6 allroad&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A6 Allroad 2002",
+            "enlace": "https://es.wallapop.com/item/audi-a6-allroad-2002-1089725019",
+            "descripcion": "Vendo espectacular audi a6 allroad, pocas unidades con este motor y caja manual. Extras: -Techo solar con placas solares -Asientos en cuero bicolor -Climatizador Bizona -Espejos abatibles electricos -Brujula en espejo interior -Cambio manual de 6v -Motor 2.7T biturbo motor de s4 -Suspension neumatica inteligente Mantenimientos: -Se entrega con filtros y aceite -Ruedas traseras nuevas YOKOHAMA 4s con 4000km (Se montarian las 2 delanteras nuevas para que se fuese perfecto) -Distribucion a los 250.000km -Turbos echos -Refrigerante nuevo -ITV pasada con 0 fallos hasta octubre Informacion adicional: -Se adjuntará video del coche y del interior por Whatsapp 612230385-617383662 -Algo negociable",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "250 cv",
+            "año": "2002",
+            "kilómetros": "218000 km",
+            "precio": 5000.0
+        },
+        {
+            "titulo": "Audi A6 Allroad 2001",
+            "enlace": "https://es.wallapop.com/item/audi-a6-allroad-2001-1075400171",
+            "descripcion": "Motor ARE 2700 biturbo.itv al dia. 2 llaves. Bien cuidado. Etiqueta B",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "250 cv",
+            "año": "2001",
+            "kilómetros": "230000 km",
+            "precio": 3500.0
+        }
+    ]
+}

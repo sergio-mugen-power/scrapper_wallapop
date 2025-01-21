@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A6 allroad",
+        "version": "3.0 TFSI 333 CV quattro S tronic 7 vel.",
+        "año mínimo": 2014,
+        "año máximo": 2017,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 333,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=333&min_year=2014&max_year=2017&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A6 allroad&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A6 Allroad Quatro – 3.0 TFSI  S-TRONIC ADV ED",
+            "enlace": "https://es.wallapop.com/item/audi-a6-allroad-quatro-3-0-tfsi-s-tronic-adv-ed-1071787298",
+            "descripcion": "Coche nacional, en perfecto estado, libro revisiones Audi recién hecha, discos, pastillas, filtros,acite, caja cambios todo al dia de mantenimiento, ruedas en perfecto estado, se acepta prueba en mecánico. Techo solar. GASOLINA 228.550 Km Automatico MARZO 2014 330 cv",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "333 cv",
+            "año": "2014",
+            "kilómetros": "228500 km",
+            "precio": 25000.0
+        }
+    ]
+}
