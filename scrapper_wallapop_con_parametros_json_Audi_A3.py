@@ -41,7 +41,6 @@ def setup_driver():
     options.add_argument("--headless")                  # Opcional: Modo sin ventana (para mayor velocidad)
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     return driver
-    # Iniciar el navegador
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 # Función principal para obtener datos de Wallapop
 def get_wallapop_car_data(driver,min_year, max_year, min_km, max_km, min_sale_price, max_sale_price, brand, model, latitude, longitude, keywords, gearbox_types, engine_types, max_horsepower, min_horsepower):
@@ -265,7 +264,7 @@ min_horsepower = 1
 base_directory = 'parameters_scrapper'
 for subdir, _, files in os.walk(base_directory):
     for file in files:
-        if file.endswith('.json') and file.startswith('Audi_A3'):
+        if file.endswith('.json') and file.startswith('Audi_A4'):
             file_path = os.path.join(subdir, file)
             with open(file_path, 'r', encoding='utf-8') as json_file:
                 data = json.load(json_file)
