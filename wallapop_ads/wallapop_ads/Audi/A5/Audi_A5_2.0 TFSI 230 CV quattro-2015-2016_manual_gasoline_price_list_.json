@@ -1,0 +1,91 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A5",
+        "version": "2.0 TFSI 230 CV quattro",
+        "año mínimo": 2015,
+        "año máximo": 2016,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 230,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=230&min_year=2015&max_year=2016&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A5 2016",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2016-1046474509",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "230 cv",
+            "año": "2016",
+            "kilómetros": "73000 km",
+            "precio": 27990.0
+        },
+        {
+            "titulo": "Audi A5 Sline 2016",
+            "enlace": "https://es.wallapop.com/item/audi-a5-sportback-sline-black-edition-1088263176",
+            "descripcion": "Se vende Audi A5 sportback Sline “black edition” 21490€ Año 10/2016 1.8 TFSI 177 CV 106.000 kms Particular (Madrid) Etiqueta C **Interior edición especial “black edition” (todos los detalles en negro brillo) -Cambio manual de 6 velocidades con pomo Sline -Volante multifunción con achatado inferior Sline -Velocidad de crucero -Limitador de velocidad -Ordenador a bordo -Sensores de aparcamiento delanteros y traseros -Bluetooth y manos libes -Climatizador -Asientos deportivos calefactables con regulación extra de profundidad en piernas -Alfombrillas goma A5 S line -Elevalunas eléctrico -Retrovisores con regulación eléctrica -Start/stop -Dirección asistida -ABS -ESP -Cierre centralizado -Freno de estacionamiento eléctrico -Asistente de arranque en pendiente -Sensor de lluvia -Encendido de faros automático -Sensor de presión de neumáticos -Conexión eléctrica -Reposabrazos central con almacenaje -Sistema Isofix -Salpicadero en material premium -Sistema completo de airbags -Faros antiniebla delanteros y traseros -Sistema de sonido AudiConcert -CD **Exterior Sline -Llantas de aleación ROTOR 255/35 R19 originales color antracita -Gomas en buenas condiciones -Faros bixenon -Luces diurnas -Taloneras S line -Salidas de escape en ambos lados con parrilla Sline -Lunas tintadas traseras y maletero -Portón maletero apertura completa **Siempre en garaje, en perfecto estado y muy bien cuidado. ITV recién pasada y mantenimiento hecho. Color original, sin siniestros. + info solo gente seria. Preguntad y doy número teléfono.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "177 cv",
+            "año": "2016",
+            "kilómetros": "106000 km",
+            "precio": 21490.0
+        },
+        {
+            "titulo": "Audi A5 2016",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2016-784072946",
+            "descripcion": "coche impecable",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "177 cv",
+            "año": "2016",
+            "kilómetros": "120000 km",
+            "precio": 20000.0
+        },
+        {
+            "titulo": "Audi A5 2016",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2016-1050459884",
+            "descripcion": "(Coche Alemán, Matrícula Alemana) **Audi A5 en venta en excelentes condiciones** Estoy vendiendo mi Audi A5 que está en perfectas condiciones tanto por dentro como por fuera. Se ha mantenido meticulosamente y recientemente tuvo los neumáticos delanteros y discos de freno traseros y pastillas reemplazado. Todo el mantenimiento está al día. El coche tiene los siguientes extras: - Asientos calefactables - Sistema de sonido Bang & Olufsen - Exterior S-Line Para más información o para concertar una cita de visita por favor póngase en contacto conmigo.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "177 cv",
+            "año": "2016",
+            "kilómetros": "120000 km",
+            "precio": 16000.0
+        },
+        {
+            "titulo": "Audi A5 2015",
+            "enlace": "https://es.wallapop.com/item/audi-a5-sline-1064668322",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "177 cv",
+            "año": "2015",
+            "kilómetros": "103000 km",
+            "precio": 15900.0
+        },
+        {
+            "titulo": "Audi A5 2015",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2015-638259435",
+            "descripcion": "Se vende A5 Sportback gasolina 170 en perfecto estado y mantenimiento al día, neumáticos nuevos.discos y pastillas de frenos nuevos . Abstenerse curiosos, no es una venta de socorro y no acepto cambio. Itv hasta agosto 2025.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "177 cv",
+            "año": "2015",
+            "kilómetros": "239500 km",
+            "precio": 12500.0
+        }
+    ]
+}
