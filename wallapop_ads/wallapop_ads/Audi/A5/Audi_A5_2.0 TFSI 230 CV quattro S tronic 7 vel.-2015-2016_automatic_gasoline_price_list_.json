@@ -1,0 +1,69 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A5",
+        "version": "2.0 TFSI 230 CV quattro S tronic 7 vel.",
+        "año mínimo": 2015,
+        "año máximo": 2016,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 230,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=230&min_year=2015&max_year=2016&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A5 2016",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2015-926190839",
+            "descripcion": "NO NEGOCIABLE!!! NO CAMBIOS!!! ***GRACIAS*** Coche impecable, se vende con la revisión hecha ,llaves en el bolsillo, kms reales (se puede pedir certificado),muy buena oportunidad...reestreno, como nuevo,sin golpes El coche tiene las 3 llaves 🔑,llantas 20\" ,fabricación 2015 y primera matriculación 2017 se puede ver sin compromiso Matrícula extranjera, cambio de nombre y impuestos a mi cargo",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "177 cv",
+            "año": "2016",
+            "kilómetros": "83000 km",
+            "precio": 20000.0
+        },
+        {
+            "titulo": "Audi A5 2016",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2016-1088301308",
+            "descripcion": "Audi A5 Sportback 2.0 TDI 190 CV S tronic 2016 – Estado Impecable y Equipamiento Exclusivo Se ofrece en venta un Audi A5 Sportback del año 2016, equipado con un motor diésel 2.0 TDI de 190 CV y transmisión automática S tronic de 7 velocidades. Este vehículo destaca por su rendimiento eficiente y un conjunto de características adicionales que mejoran la experiencia de conducción. Características principales: Sistema de escape con válvula de sonido a control remoto: Permite seleccionar entre seis configuraciones de sonido para una experiencia personalizada. Cámara trasera y sensores de estacionamiento: Integrados para facilitar las maniobras de aparcamiento con mayor seguridad. Pantalla multimedia original compatible con Android Auto y Apple CarPlay: Ofrece conectividad avanzada y acceso a aplicaciones móviles. Faros LED de alto rendimiento: Proporcionan una iluminación óptima y un diseño moderno. Llantas de alta gama: Mejoran la estética y el rendimiento del vehículo. Sistema de escape deportivo con cuatro salidas: Dos a cada lado, que realzan su carácter deportivo. Especificaciones técnicas: Aceleración de 0 a 100 km/h: 7,9 segundos. Velocidad máxima: 235 km/h. Consumo de combustible combinado: 4,2-4,4 l/100 km. Emisiones de CO₂: 109-114 g/km. Clasificación de emisiones: Euro 6. Estado del vehículo: El coche se encuentra en condiciones impecables, tanto en el interior como en el exterior. La tapicería, los asientos y el volante están en perfecto estado, al igual que la carrocería y la pintura, reflejando un mantenimiento meticuloso. El vehículo ha sido resguardado en garaje de forma constante, evidenciando el cuidado recibido. 633767576",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "190 cv",
+            "año": "2016",
+            "kilómetros": "173000 km",
+            "precio": 19000.0
+        },
+        {
+            "titulo": "Audi A5 sportback TFSI",
+            "enlace": "https://es.wallapop.com/item/audi-a5-sportback-2-0-tfsi-225-quatro-str-adv-1060613699",
+            "descripcion": "Entrega inmediata. Seguro en vigor. ITV en vigor hasta septiembre 2025. Matriculado en abril de 2015. Asientos delanteros con regulación eléctrica, Banqueta trasera de tres plazas, Climatizador de confort de 3 zonas, Pintura metalizada.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "225 cv",
+            "año": "2015",
+            "kilómetros": "181000 km",
+            "precio": 16900.0
+        },
+        {
+            "titulo": "Audi A5 2015",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2015-1091863740",
+            "descripcion": "Audi A5 Cabrio 1.8 TFSI de 177cv y con 104.000kms! Está listo para conducir y disfrutar, no hay que hacerle nada. Funciona todo correctamente. Se puede ver y probar sin problema. Extras: climatizador bizona, asientos calefactables y eléctricos, cuero/alcántara, etc.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "177 cv",
+            "año": "2015",
+            "kilómetros": "104000 km",
+            "precio": 16000.0
+        }
+    ]
+}

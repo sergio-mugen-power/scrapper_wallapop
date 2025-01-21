@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A5",
+        "version": "RS 5 Coupé Competition Plus TFSI quattro 331 kW (450 CV) tiptronic",
+        "año mínimo": 2022,
+        "año máximo": 2024,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 450,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=450&min_year=2022&max_year=2024&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A5 Sportback 40TFSI",
+            "enlace": "https://es.wallapop.com/item/audi-a5-sportback-40tfsi-1055232851",
+            "descripcion": "Audi A5 Sportback 4.0 TFSI 204 CV. S Tronic Sline Vehículo con tan solo 20.000km, de agosto de 2023 IVA incluido Cambio de nombre incluido. Equipamiento Pintura Negro Mitos metalizado Audi phone box Faros Matrix LED y grupos ópticos traseros LED Paquete de asistencia en conducción Sline exterior Sistema de apoyo LTE para Audi phone box Arranque sin llave Maletero apertura y cierre eléctrico Asientos delanteros con función masaje Asientos calefactables Audi Application Store y smartphone interface Apertura y cierre desde el móvil Audi connect Reconocimiento de señales de tráfico Cámara de visión trasera Audi Parking System plus Regulador automático de distancia (con funcio´n follow to stop) y limitador de velocidad Climatizador automático confort 3 zonas Faros Matrix LED con intermitentes dinámicos Etc….",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "204 cv",
+            "año": "2023",
+            "kilómetros": "22000 km",
+            "precio": 41900.0
+        },
+        {
+            "titulo": "Audi A5 2022",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2022-1089232219",
+            "descripcion": "Automóvil en perfecto estado y con muchos extras",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "2022",
+            "kilómetros": "36000 km",
+            "precio": 39000.0
+        },
+        {
+            "titulo": "Audi A5 Sportback- reparado",
+            "enlace": "https://es.wallapop.com/item/audi-a5-sportback-1089548567",
+            "descripcion": "LEER BIEN LA DESCRIPCIÒN: Audi A5 Sportback del 2023, aún tiene garantia oficial de Audi hasta Noviembre del 2025. vehiculo hibrido+Gasolina el vehiculo tuvo un accidente, pero no toco nada estructural. se sustituyo capo, y paragolpes delantero y se reparo la aleta trasera derecha.Queda por reparar la talonera derecha, ya que el chapista no la dejo bien terminada",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "2023",
+            "kilómetros": "14000 km",
+            "precio": 33000.0
+        }
+    ]
+}

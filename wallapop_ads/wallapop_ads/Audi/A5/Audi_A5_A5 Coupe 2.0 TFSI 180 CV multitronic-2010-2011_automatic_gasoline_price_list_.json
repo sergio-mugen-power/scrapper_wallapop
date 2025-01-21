@@ -1,0 +1,102 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A5",
+        "version": "A5 Coupe 2.0 TFSI 180 CV multitronic",
+        "año mínimo": 2010,
+        "año máximo": 2011,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 179,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=179&min_year=2010&max_year=2011&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A5 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2010-1077069045",
+            "descripcion": "el vehiculo esta en sant feliu de guixols perfectas condiciones asientos de piel Revisiones al dia siempre en Audi unico propietario, se vende por ser de persona mayor No se rebaja precio !!!!",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "160 cv",
+            "año": "2010",
+            "kilómetros": "55000 km",
+            "precio": 15000.0
+        },
+        {
+            "titulo": "Audi A5 2011",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2011-964000287",
+            "descripcion": "S-line interior y exterior",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2011",
+            "kilómetros": "190000 km",
+            "precio": 14500.0
+        },
+        {
+            "titulo": "Audi A5 1.8 TFSi 2011 90.000km.",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2011-1087312477",
+            "descripcion": "12 meses de garantia 96.000km. reales ańo 2011 etiqueta C AUDI A5 1.8 TFSi 170cv. cambio automatico multitronic. 7 velocidades,faros de xenon,asientos de cuero, pantalla, multimedia con afinación GPS, climatizador digital, llantas de aluminio, volante, multifunción, control de velocidad,sensores de aparcamiento,asientos calefactables,etc..",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2011",
+            "kilómetros": "96000 km",
+            "precio": 14000.0
+        },
+        {
+            "titulo": "Audi A5 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2010-999012749",
+            "descripcion": "Coche muy bien cuidado y muy pocos KMs. Motor: 160 CV. 1.8 TFSI. Cambio: Automatico multitronic. Mantenimiento al día. El coche esta en perfecto estado, mejor ver y probar. 2 Llaves. Luces automáticas Limpiaparabrisas automáticas. Volante multifunción. Asientos de cuero mixto. Sensores de aparcamiento traseros. Pantalla multimedia Bluetooth y Aux. Climatizador...",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "160 cv",
+            "año": "2010",
+            "kilómetros": "99500 km",
+            "precio": 12900.0
+        },
+        {
+            "titulo": "Audi A5 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2010-1026438065",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "143 cv",
+            "año": "2010",
+            "kilómetros": "258000 km",
+            "precio": 12200.0
+        },
+        {
+            "titulo": "Audi A5 2011",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2011-1063813994",
+            "descripcion": "En muy buen estado. Pegatina C. Soporte carplay con android y apple. Para mas fotos whatsapp. Precio negociable.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2011",
+            "kilómetros": "214500 km",
+            "precio": 9000.0
+        },
+        {
+            "titulo": "Audi A5 2011",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2011-1062713485",
+            "descripcion": "Vendo o cambio coche por necesidad de un coche mas amplio y grande. Todos los mantenimientos echo al dia revisiones en la ficha registrada. Muy buen cuidado. Mas informacion privado.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2011",
+            "kilómetros": "223000 km",
+            "precio": 1.0
+        }
+    ]
+}
