@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A3",
+        "version": "Ambition 1.2 TFSI",
+        "año mínimo": 2012,
+        "año máximo": 2012,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 105,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=105&min_year=2012&max_year=2012&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A3 2012",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2012-1087542429",
+            "descripcion": "Audi A3 Sportback - Cambio manual - 6 velocidades - Navegador a bordo - Control velocidad - Volante multifunción - 2 llaves - Llantas aluminio - Sensor aparcamiento - Asientos calefactables delanteros y traseros ITV en vigor hasta diciembre de 2025. Cambio de cadena de distribución, bomba de agua, filtros y aceite recién hechos, con factura y garantía. El coche está en perfecto estado, tanto interior como exterior, cualquier duda consultar sin compromiso.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "105 cv",
+            "año": "2012",
+            "kilómetros": "129000 km",
+            "precio": 8500.0
+        },
+        {
+            "titulo": "Audi A3 2012",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2012-1050345848",
+            "descripcion": "Vendo Audi A3 en un estado muy bueno, pintura, mecánica, interior... lo compré hace dos años procedente de Alemania, todo funciona correctamenteno me ha dado ningún problema, no tiene desgastes de interior ni rozaduras en carrocería. En el año 2021 se le cambió la distribución ( tenía 160.000kms, tengo la factura). Tengo el Informe Carfax que entrego con el coche, podemos llevarlo a un taller de confianza para verificar su estado. Asientos calefactables. Techo solar. Volante multifunción. Ayuda arranque en pendiente. Sensores de aparcamiento trasero. Luces automáticas. Etc..",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "105 cv",
+            "año": "2012",
+            "kilómetros": "200000 km",
+            "precio": 6800.0
+        },
+        {
+            "titulo": "Audi A3 2012",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1-2-tfsi-1073771504",
+            "descripcion": "Audi 1.2 tfsi gasolina 6 velocidades ITV hasta Julio Cadena, aceite y bujías recién cambiadas No tiene apenas desgaste y está en perfecto estado Extras: -Sensores de aparcamiento trasero -Llantas aluminio -Control de crucero -Volante multifuncional -Altavoces traseros -Asientos calefactables",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "105 cv",
+            "año": "2012",
+            "kilómetros": "226000 km",
+            "precio": 6500.0
+        }
+    ]
+}

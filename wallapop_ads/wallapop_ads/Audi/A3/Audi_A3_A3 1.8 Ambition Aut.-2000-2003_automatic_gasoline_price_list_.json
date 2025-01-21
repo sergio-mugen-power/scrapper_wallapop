@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A3",
+        "version": "A3 1.8 Ambition Aut.",
+        "año mínimo": 2000,
+        "año máximo": 2003,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 125,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=125&min_year=2000&max_year=2003&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A3 Attraction 1.8 92 kW (125 CV) Auto",
+            "enlace": "https://es.wallapop.com/item/audi-a3-attraction-1-8-92-kw-125-cv-auto-1028213851",
+            "descripcion": "Precio oferta sujeto a financiación: 2950 EUR. Precio al contado: 2950 EUR. *MAL* LLEGA LA REVOLUPLUS A OCASIONPLUS LA REVOLUCIÓN DE LOS PRECIOS BAJOS SÓLO ESTA SEMANA, ENCUENTRA TU DESCUENTO DE HASTA 8000€ OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 400€ de descuento en este coche ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Aire Acondicionado (Climatizador), Isofix, Llantas de aleación (15\"). - Coche Nacional. COCHE SIN GARANTÍA, Vehículo sin Garantía para uso Profesional o Empresarial (Realizando Actividades Económicas Comerciales, Transportistas, Fontaneros, Albañiles, etc). - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "125 cv",
+            "año": "2003",
+            "kilómetros": "182024 km",
+            "precio": 2950.0
+        },
+        {
+            "titulo": "Audi A3 2003",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2003-1080646313",
+            "descripcion": "COCHE AVERIADO IDEAL PARA MECANICOS O ESPECIALISTAS El coche se encuentra en buen estado , excepto que presenta es por el cambio. Arranca perfectamente y funciona bien. Me comentan que lo costoso es desmontar para reparar.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "125 cv",
+            "año": "2003",
+            "kilómetros": "210000 km",
+            "precio": 1250.0
+        }
+    ]
+}

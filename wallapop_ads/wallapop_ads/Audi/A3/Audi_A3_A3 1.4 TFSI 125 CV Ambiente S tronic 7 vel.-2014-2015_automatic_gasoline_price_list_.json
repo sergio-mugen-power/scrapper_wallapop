@@ -1,0 +1,91 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A3",
+        "version": "A3 1.4 TFSI 125 CV Ambiente S tronic 7 vel.",
+        "año mínimo": 2014,
+        "año máximo": 2015,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 125,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=125&min_year=2014&max_year=2015&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A3 8V SPORTBACK 1.4 TFSI PACK S3",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2015-945285575",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "125 cv",
+            "año": "2015",
+            "kilómetros": "155000 km",
+            "precio": 15450.0
+        },
+        {
+            "titulo": "Audi A3 S-line Sportback",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2014-1086532432",
+            "descripcion": "vendo mi coche simplemente porque compre otro , a quien le interesa y para más informaciones que venga en privado, solo interesados wtsp: 603367714 el que no le interesa que no me escriba nada porfavor ya estoy recebiendo tantas choradas y precios riducolos",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "115 cv",
+            "año": "2014",
+            "kilómetros": "246000 km",
+            "precio": 13999.0
+        },
+        {
+            "titulo": "Audi A3 2014",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2014-1053016180",
+            "descripcion": "Vendo mi Audi A3 S Line Sportback 2014. Tiene 245,000 km , muy ecomico Muy limpio y bien cuidado. ¡Un coche económico y listo para nuevas aventuras!",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "110 cv",
+            "año": "2014",
+            "kilómetros": "244580 km",
+            "precio": 13999.0
+        },
+        {
+            "titulo": "Audi A3 Sportback Sline",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-s-line-1074502742",
+            "descripcion": "Audi A3 1.4 TFSI Sportback etiqueta ECO funciona con gasolina el coche es de particular esta todo acabado de revisar, con historial de facturas y funcionando diariamente distribucion hecha hace 1 año y medio -Características ITV hasta 2025 Etiqueta ECO -Equipamiento Faros led y xenon Paquete S/Line interior y exterior Llantas 16’ S/ Line Climatizador bi-zona Retrovisores eléctricos y calefactables Modos de conducción adaptativos Control de crucero Luces automáticas Volante multifunction 2 llaves Aire acondicionado acabado de cargar Cambio de nombre no incluido. Máxima seriedad",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "125 cv",
+            "año": "2015",
+            "kilómetros": "98500 km",
+            "precio": 13990.0
+        },
+        {
+            "titulo": "Audi A3 S-line full equip 2014",
+            "enlace": "https://es.wallapop.com/item/audi-a3-s-line-full-opcion-2014-1078590711",
+            "descripcion": "vendo mi Audi A3 S-line full equipe G-tron 1.4 del 2014 esta impecable como nuevo el coche funciona con gas natural comprimido (GNC) como combustible principal, aunque también tiene un depósito de gasolina como respaldo. Es muy eficiente y ecológico ITV recién pasada tiene etiqueta verde ECO Mantenimiento al día en taller de Audi con 2 llaves originales",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "125 cv",
+            "año": "2014",
+            "kilómetros": "186000 km",
+            "precio": 13900.0
+        },
+        {
+            "titulo": "Audi A3 2014",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2014-1029847784",
+            "descripcion": "Audi a3 sportback 2014, 1.6 TDI, automático de 7 velocidades con levas, volante y asientos deportivos, faros delanteros bixenon automatico, limpiaparabrisas automático, modos de conducción y sensor de marcha atrás. Correa de distribucion, batería, pastillas y neumáticos recien cambiados.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "105 cv",
+            "año": "2014",
+            "kilómetros": "168000 km",
+            "precio": 13500.0
+        }
+    ]
+}

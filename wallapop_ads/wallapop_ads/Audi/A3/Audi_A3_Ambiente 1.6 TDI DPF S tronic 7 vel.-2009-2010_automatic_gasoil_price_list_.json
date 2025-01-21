@@ -1,0 +1,102 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A3",
+        "version": "Ambiente 1.6 TDI DPF S tronic 7 vel.",
+        "año mínimo": 2009,
+        "año máximo": 2010,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 105,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=105&min_year=2009&max_year=2010&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A3 2009",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2009-1074296164",
+            "descripcion": "Se vende Audi A3 en optimas condiciones, con revisiones y mecanica totalmente al dia, es de UNICA PROPIETARIA, no ha podido tener mejores manos ( si lo primero que quieres es regatear el precio, no es tu vehiculo)",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "105 cv",
+            "año": "2009",
+            "kilómetros": "166000 km",
+            "precio": 10500.0
+        },
+        {
+            "titulo": "Audi A3 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1075027600",
+            "descripcion": "Coche como nuevo buen cuidado",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "105 cv",
+            "año": "2010",
+            "kilómetros": "126000 km",
+            "precio": 10000.0
+        },
+        {
+            "titulo": "Audi A3 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1058831485",
+            "descripcion": "vendo coche en perfecto estado por cambio de coche precio algo negociable",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "105 cv",
+            "año": "2010",
+            "kilómetros": "224541 km",
+            "precio": 9000.0
+        },
+        {
+            "titulo": "Audi A3 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2010-982906269",
+            "descripcion": "Nuevo proyecto de compra y venta de coches a la carta desde Alemania, envía un mensaje con la marca y modelo con características que necesita tener el coche, te lo buscamos y te tramitamos todo el papeleo y te lo llevamos o te vienes tú mismo a recogerlo. Para más información al privado. Gracias",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "105 cv",
+            "año": "2010",
+            "kilómetros": "210000 km",
+            "precio": 9000.0
+        },
+        {
+            "titulo": "Audi A3 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2010-998969529",
+            "descripcion": "Vendo Audi a3 Sportback 1.6 del año 2010, el coche es automático y cuenta con 7 marchas lo que hace que sea un coche súper cómodo para conducir y con un consumo bajo. El coche se encuentra en perfecto estado ya que paso la revisión hace menos de un mes.Tiene la ITV recién pasada, el día 22 de abril.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "105 cv",
+            "año": "2010",
+            "kilómetros": "196000 km",
+            "precio": 8500.0
+        },
+        {
+            "titulo": "Audi A3 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1031869660",
+            "descripcion": "Audi A3 como nuevo Precio NO NEGOCIABLE itv junio 2024 ruedas delanteras mayo 2024 interior/carroceria como nuevo abstenerse negociaciones, precio no negociable",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "105 cv",
+            "año": "2010",
+            "kilómetros": "285559 km",
+            "precio": 7200.0
+        },
+        {
+            "titulo": "Audi A3 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1087559203",
+            "descripcion": "audi a3 diesel y automatico mas detalles por privado",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "105 cv",
+            "año": "2010",
+            "kilómetros": "260000 km",
+            "precio": 4800.0
+        }
+    ]
+}

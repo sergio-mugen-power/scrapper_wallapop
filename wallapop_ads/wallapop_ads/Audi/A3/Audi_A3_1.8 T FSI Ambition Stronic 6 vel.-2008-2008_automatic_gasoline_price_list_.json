@@ -1,0 +1,91 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A3",
+        "version": "1.8 T FSI Ambition Stronic 6 vel.",
+        "año mínimo": 2008,
+        "año máximo": 2008,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 160,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=160&min_year=2008&max_year=2008&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A3 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-4-tfsi-1061514731",
+            "descripcion": "Impecable de mecánica y carroceria. Acepto cualquier tipo de prueba mecánica. Mantenimiento al dia. Distribución por cadena. Carroceria sin un solo rasguño. Duerme en garaje. Techo panorámico abatible y pantalla con navegador. Automático.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "125 cv",
+            "año": "2008",
+            "kilómetros": "166000 km",
+            "precio": 7990.0
+        },
+        {
+            "titulo": "Audi A3 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2008-1084144032",
+            "descripcion": "Audi A3 Sportback 160CV, techo panorámico, automático, modo Sport, seis marchas, levas, siempre en garaje, revisiones y ITV al día. Ruedas de invierno y de verano",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "160 cv",
+            "año": "2008",
+            "kilómetros": "170000 km",
+            "precio": 7500.0
+        },
+        {
+            "titulo": "Audi A3 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1073859138",
+            "descripcion": "Audi A3 Sportback 160CV, techo panoramico, automatico, Modo Sport, 6 marchas, Levas, siempre en garaje, revisiones, ITV al dia. Ruedas de invierno y de verano",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "160 cv",
+            "año": "2008",
+            "kilómetros": "170000 km",
+            "precio": 7500.0
+        },
+        {
+            "titulo": "Audi A3 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-4-tfsi-s-tronic-attraction-5p-1065152485",
+            "descripcion": "Vehículo nacional particular revisado periódicamente en incluso antes de tiempo en muchas ocasiones. Tiene etiqueta verde, lo vas a poder conducir más tiempo que un diesel. Excelente estado de carrocería e interior. Duerme en garaje siempre. Incluyo el cambio de nombre. No se ha usado mucho en ciudad, solo para viajes.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "125 cv",
+            "año": "2008",
+            "kilómetros": "241000 km",
+            "precio": 6600.0
+        },
+        {
+            "titulo": "Audi A3 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2008-1067042551",
+            "descripcion": "Audi A3 en buen importado de Holanda. Con libro de revisiones sellado en la Audi Motor 1.4TSI 125cv caja 6 velocidades automática Mantenimiento de aceites y filtros hecho Mantenimiento de aceite en la caja de cambios hecha Itv hasta octubre de 2025 Extras: Faros delanteros bi-xenon Pilotos traseros Led Asientos de cuero Volante multifuncion Control de velocidad crucero Luces automáticas",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "125 cv",
+            "año": "2008",
+            "kilómetros": "256000 km",
+            "precio": 5999.0
+        },
+        {
+            "titulo": "Audi A3 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2008-1058320051",
+            "descripcion": "Coche en buen estado, automático con levas,160 cv,tiene mucha fuerza,algún roce de estar en la calle,bola remolque, aceptó cambios 4x4,coupe,moto,quad,etc",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "160 cv",
+            "año": "2008",
+            "kilómetros": "195000 km",
+            "precio": 5000.0
+        }
+    ]
+}

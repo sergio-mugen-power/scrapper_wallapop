@@ -1,0 +1,91 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A3",
+        "version": "A3 1.4 TFSI 122 CV Ambition S tronic 7 vel.",
+        "año mínimo": 2012,
+        "año máximo": 2014,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 122,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=122&min_year=2012&max_year=2014&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A3 S-line Sportback",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2014-1086532432",
+            "descripcion": "vendo mi coche simplemente porque compre otro , a quien le interesa y para más informaciones que venga en privado, solo interesados wtsp: 603367714 el que no le interesa que no me escriba nada porfavor ya estoy recebiendo tantas choradas y precios riducolos",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "115 cv",
+            "año": "2014",
+            "kilómetros": "246000 km",
+            "precio": 13999.0
+        },
+        {
+            "titulo": "Audi A3 2014",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2014-1053016180",
+            "descripcion": "Vendo mi Audi A3 S Line Sportback 2014. Tiene 245,000 km , muy ecomico Muy limpio y bien cuidado. ¡Un coche económico y listo para nuevas aventuras!",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "110 cv",
+            "año": "2014",
+            "kilómetros": "244580 km",
+            "precio": 13999.0
+        },
+        {
+            "titulo": "Audi A3 2014",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2014-1029847784",
+            "descripcion": "Audi a3 sportback 2014, 1.6 TDI, automático de 7 velocidades con levas, volante y asientos deportivos, faros delanteros bixenon automatico, limpiaparabrisas automático, modos de conducción y sensor de marcha atrás. Correa de distribucion, batería, pastillas y neumáticos recien cambiados.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "105 cv",
+            "año": "2014",
+            "kilómetros": "168000 km",
+            "precio": 13500.0
+        },
+        {
+            "titulo": "Audi A3 2013",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2013-1077165410",
+            "descripcion": "coche en perfectas condiciones. Todo el historial en casa oficial audi. Garantía 12 meses. Servicio de entrega a todo España.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "122 cv",
+            "año": "2013",
+            "kilómetros": "153000 km",
+            "precio": 12900.0
+        },
+        {
+            "titulo": "Audi A3 2013",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2013-en-perfecto-estado-627406492",
+            "descripcion": "Perfecto funcionamiento con aceite y filtro cambiado con un tratamiento cerámico para el motor, asientos en tela , bluetooth, GPS, sistema de audio Audi, ayuda en pendiente, cambio secuencial y automático ,sensores de aparcamiento, asientos con Isofix (amarre para silletas de niños),ruedas delanteras 80% traseras a 60% De pintura está perfecto.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "122 cv",
+            "año": "2013",
+            "kilómetros": "152000 km",
+            "precio": 11400.0
+        },
+        {
+            "titulo": "AUDI A3 SPORTBACK  S TRONIC 1.4 TFSI 92kW ( 122cv)",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-s-tronic-1-4-tfsi-92kw-122cv-1066498201",
+            "descripcion": "ENTREGA A DOMICILIO DEL VEHÍCULO EN TODA LA PENÍNSULA. FINANCIACIÓN 100% A TU MEDIDA. ENTREGA TU COCHE COMO FORMA DE PAGO, MÁXIMA TASACIÓN DEL MERCADO TANTO PRESENCIAL COMO ONLINE. Espectacular AUDI A3 SPORTBACK S TRONIC 1.4 TFSI 92kW ( 122cv) Equipamiento destacado: Start/Stop Climatizador Volante multifunción Auxiliar, USB, CD Elevalunas eléctricos Sistema sonido Bose Sound System Llantas de aleación ... PARA AMPLIAR LA INFORMACIÓN, NO DUDES EN CONTACTAR CON NOSOTROS Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "122 cv",
+            "año": "2013",
+            "kilómetros": "178647 km",
+            "precio": 10999.0
+        }
+    ]
+}

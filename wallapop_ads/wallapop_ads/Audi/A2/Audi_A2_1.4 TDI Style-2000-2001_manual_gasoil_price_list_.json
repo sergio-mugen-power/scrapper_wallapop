@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A2",
+        "version": "1.4 TDI Style",
+        "año mínimo": 2000,
+        "año máximo": 2001,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 75,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=75&min_year=2000&max_year=2001&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A2  1.4 TDI 75CV ",
+            "enlace": "https://es.wallapop.com/item/audi-a2-1-4-tdi-75cv-1069515078",
+            "descripcion": "AUDI A2 1.4 TDI 75CV DEL 19/02/2001 CON 187.000KM, RECIEN PINTADO COMPLETO, DISTRIBUCION HECHA, DISCOS Y PASTILLAS DE FRENO NUEVOS, ROTULAS CAMBIADAS, REVISION COMPLETA DE ACEITE Y FILTROS, TECHO TAPIZADO, ITV AL DIA, PERFECTO FUNCIONAMIENTO, MUY BAJO CONSUMO. EN STOCK EN MUSEROS-VALENCIA, CONCERTAR CITA PREVIA .",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "75 cv",
+            "año": "2001",
+            "kilómetros": "187000 km",
+            "precio": 6500.0
+        },
+        {
+            "titulo": "Audi A2 2001",
+            "enlace": "https://es.wallapop.com/item/audi-a2-2001-1024270062",
+            "descripcion": "Se vende audi A2 1.4tdi, en buen estado, con 126.000km reales, solo 2 propietarios misma familia,climatizador, elevalunas delanteros eléctricos, radio con CD, cierre centralizado y dos llaves, se puede ver sin compromiso. Audi A2 en Madrid. Venta de particulares a particular, abstenerse reventa.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "75 cv",
+            "año": "2001",
+            "kilómetros": "125966 km",
+            "precio": 3000.0
+        },
+        {
+            "titulo": "Audi A2 2001",
+            "enlace": "https://es.wallapop.com/item/audi-a2-2001-1090793464",
+            "descripcion": "Vendo macchina per non inutilizzabile con motore rifatto",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "75 cv",
+            "año": "2001",
+            "kilómetros": "200000 km",
+            "precio": 1300.0
+        }
+    ]
+}
