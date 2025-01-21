@@ -1,0 +1,91 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A3",
+        "version": "Attraction 1.6 TDI S tronic 7 vel.",
+        "año mínimo": 2012,
+        "año máximo": 2012,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 105,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=105&min_year=2012&max_year=2012&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A3 2012",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2012-1068416544",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "105 cv",
+            "año": "2012",
+            "kilómetros": "185000 km",
+            "precio": 11990.0
+        },
+        {
+            "titulo": "Audi A3 2012",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2012-999333172",
+            "descripcion": "AUDI A3 SPORTBACK -paquete S-LINE -caja cambios automática (s-tronic) -espejos eléctricos -volante deportivo MULTIFUNCION -asientos deportivos en tela -climatizador -Llantas 17 -etc",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "105 cv",
+            "año": "2012",
+            "kilómetros": "185000 km",
+            "precio": 11990.0
+        },
+        {
+            "titulo": "AUDI A3 Sportback 1.6 TDI 105 Stronic Attraction",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-6-tdi-105-stronic-attraction-1079916378",
+            "descripcion": "Nacional, unica dueña, exageradamente bien cuidado, se encuentra completamente perfecto de todo. Se puede realizar cualquier tipo de prueba mecánica. No negociable, no cambios No se atiende sin cita previa.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "105 cv",
+            "año": "2012",
+            "kilómetros": "156000 km",
+            "precio": 9999.0
+        },
+        {
+            "titulo": "Audi A3 2012",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-stronic-1066296723",
+            "descripcion": "Audi A3 matriculado 11/09/2012 Sportback 1.6 TDI Atracction Vehiculo nacional Cambio automatico Climatizador bizona Apoyabrazos delantero Libro revisones oficial, con revisiones en talleres Audi Incluye 2 llaves originales Correa distribucion nueva Octubre 23 Itv pasada el Septiembre 2024",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "105 cv",
+            "año": "2012",
+            "kilómetros": "173000 km",
+            "precio": 9000.0
+        },
+        {
+            "titulo": "Audi A3 2012",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2012-1-6-tdi-105cv-1074511074",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "105 cv",
+            "año": "2012",
+            "kilómetros": "165000 km",
+            "precio": 8500.0
+        },
+        {
+            "titulo": "Audi A3 1.6 TDI DSG SPORTBACK",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1-6-tdi-dsg-sportback-1091433237",
+            "descripcion": "cambio dsg averiado ( hay uwe cambiar mecatronica( lo tengo en taller hace ya 1 año parado casi , motor bien , itv caducada .",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "105 cv",
+            "año": "2012",
+            "kilómetros": "201000 km",
+            "precio": 3200.0
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A3",
+        "version": "A3 1.6 tiptronic Ambiente",
+        "año mínimo": 2004,
+        "año máximo": 2005,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 102,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=102&min_year=2004&max_year=2005&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A3 2004",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2004-1089691683",
+            "descripcion": "Audi A3(8P) 1.6i 102cv Cambio Automático del Año 2004 con 155.000km, Vehículo en un Estado Excepcional y Revisado. Dispone de Sistema de Entretenimiento de Audio Radio Pioneer con(Bluetooth, Entrada USB, AUX, MP3), Sistema de Aire Climatizado Automático 2-Zonas, Sensores de Lluvia y Luz, Velocidad de Crucero(Tempomat), Indicador Central Multifunción Plus, Retrovisor Interior con Sistema Antideslumbramiento, Retrovisores Exteriores Eléctricos y Calefactables, Cierre Centralizado con Mando de Apertura Automática y 2 Juegos de Llaves, Elevalunas Eléctricos Delanteros Confort, Llantas de Aluminio Originales, Reposabrazos Central Abatible, etc...",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "102 cv",
+            "año": "2004",
+            "kilómetros": "155000 km",
+            "precio": 4490.0
+        },
+        {
+            "titulo": "Audi A3 2005",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2005-1049412337",
+            "descripcion": "Audi A3 2005 en muy buen estado. Revisiones al día, ITV pasada, interior cuidado. Todo funciona perfecto, Listo para utilizar. coche audi bmw motor gasolina automatico sportback seat golf",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "102 cv",
+            "año": "2005",
+            "kilómetros": "193000 km",
+            "precio": 4450.0
+        },
+        {
+            "titulo": "Audi A3 2005",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2005-1079003098",
+            "descripcion": "halo vaneso awd A3 de 2005 con matrrcol de suac faicnan bain itv acet an quvan",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "102 cv",
+            "año": "2005",
+            "kilómetros": "210963 km",
+            "precio": 2000.0
+        }
+    ]
+}

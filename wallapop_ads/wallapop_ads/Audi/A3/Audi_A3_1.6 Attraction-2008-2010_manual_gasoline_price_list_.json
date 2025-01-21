@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A3",
+        "version": "1.6 Attraction",
+        "año mínimo": 2008,
+        "año máximo": 2010,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 102,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=102&min_year=2008&max_year=2010&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A3 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2008-803758520",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "102 cv",
+            "año": "2008",
+            "kilómetros": "172000 km",
+            "precio": 5300.0
+        },
+        {
+            "titulo": "Audi A3 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2008-1079824011",
+            "descripcion": "Audi A3 3 puertas 5 plazas radio original estado muy bien cuidado va super bien , etiquetaC medioambiental neumaticos nuevos tapiceria muy bien , garantia 12 meses",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "102 cv",
+            "año": "2008",
+            "kilómetros": "181000 km",
+            "precio": 4900.0
+        },
+        {
+            "titulo": "Audi A3 2008 1.6 etiqueta C verde",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2008-1087905233",
+            "descripcion": "Se vende Audi A3 gasolina 1.6 102cv en buen estado motor embrague caja de cambio ect.mas información por teléfono o WhatsApp.698346362. PRECIO INCLUYE TODO LOS GASTOS DE GESTORIA Y MATRICULACIÓN.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "102 cv",
+            "año": "2008",
+            "kilómetros": "216794 km",
+            "precio": 4499.0
+        }
+    ]
+}

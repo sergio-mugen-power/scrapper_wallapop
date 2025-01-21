@@ -1,0 +1,69 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A3",
+        "version": "A3 1.9 TDI tiptronic Attraction 5 vel.",
+        "año mínimo": 2001,
+        "año máximo": 2003,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 101,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=101&min_year=2001&max_year=2003&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A3 2003",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2003-1069207852",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "100 cv",
+            "año": "2003",
+            "kilómetros": "175000 km",
+            "precio": 4800.0
+        },
+        {
+            "titulo": "Audi A3 2001",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2001-1026590491",
+            "descripcion": "Estado de motor perfecto C/A funcionan correctamente Conexión Bluetooth con Parrot instalado Kit de distribución cambiado recientemente (280000 km) Motor automático ITV hasta febrero de 2025 Accesorios e interiores de serie, sin ninguna modificación Elevalunas electricos, con apertura a distancia desde llave Mecánica perfecta, ninguna reparación o arreglo importante. Mantenimiento anual de sustitución de filtros y cuidado general Segundo propietario Pintura y chapa necesitan una mano Se entrega con llave proncipal y de repuesto originales",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "100 cv",
+            "año": "2001",
+            "kilómetros": "300000 km",
+            "precio": 3100.0
+        },
+        {
+            "titulo": "Audi A3 2001",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2001-1074354970",
+            "descripcion": "Se cambia Audi A3 en buen estado por Furgoneta interesado ablarme gracias",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "100 cv",
+            "año": "2001",
+            "kilómetros": "180000 km",
+            "precio": 2500.0
+        },
+        {
+            "titulo": "Audi A3 2002",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2002-1038985266",
+            "descripcion": "Para exportación o para piezas",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "100 cv",
+            "año": "2002",
+            "kilómetros": "30000 km",
+            "precio": 750.0
+        }
+    ]
+}

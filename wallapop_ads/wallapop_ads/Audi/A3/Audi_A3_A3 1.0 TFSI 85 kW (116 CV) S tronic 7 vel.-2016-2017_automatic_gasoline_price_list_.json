@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A3",
+        "version": "A3 1.0 TFSI 85 kW (116 CV) S tronic 7 vel.",
+        "año mínimo": 2016,
+        "año máximo": 2017,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 116,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=116&min_year=2016&max_year=2017&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "AUDI A3 S-TRONIC 3p. 1.0 TFSI 115 CV DESIGN",
+            "enlace": "https://es.wallapop.com/item/audi-a3-s-tronic-3p-1-0-tfsi-115-cv-design-1085121640",
+            "descripcion": "Audi A3 S-tronic Gasolina 1.0 TFSI 115 CV Design,con Etiqueta Medioambiental \"C\", matriculado Enero 2017. Disponible en Automoció Costa Daurada en El Vendrell (Tarragona) ENTREGA INMEDIATA. - Garantía 12 meses - Entrega a domicilio ( consultar condiciones ) *EXTRAS A DESTACAR : -Conectividad Apple Car-Play - Android Auto -Climatizador bi-zona. -Caja de cambios 7 velocidades - Caja cambios doble embrague S-tronic -Freno de estacionamiento electromecánico. -Retrovisores abatibles y regulables eléctricamente -Tapicería asientos: Tela Regatta / mono.pur (cuero) -Asistente a la conducción: Ayuda para arranque (hold assist) -Control de crucero (Tempomat) -Sensor de luz y de lluvia -Pintura metalizada. PRECIO CONTADO: 17.500€ PRECIO FINANCIADO: 17.500€ *FINANCIAMOS EL 100% APORTANDO DNI, ULTIMA NOMINA, DATOS BANCARIOS Y VIDA LABORAL ACTUALIZADA. Aceptamos vehículo como parte del pago (oferta válida salvo error tipográfico) #audia3ocasion #audia3segundamano #audiocasionenelvendrell #cochesdeocasion #cochesseminuevos #audigasolinaocasion #cochesegundamano #audia3socasion",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "115 cv",
+            "año": "2017",
+            "kilómetros": "41240 km",
+            "precio": 17500.0
+        },
+        {
+            "titulo": "Audi A3 S LINE 2017",
+            "enlace": "https://es.wallapop.com/item/audi-a3-s-line-2017-1089108160",
+            "descripcion": "CUOTA A PARTIR DE 260 E/MES, PRECIO FINANCIADO 14.900 E, PRECIO CONTADO 15.500 E. SE AUDI A3 5P S-LINE. - JULIO 2017. REMATRICULADO EN ENERO DE 2022. - 1.6 TDI 116CV - TRANSMISIÓN AUTOMÁTICA DSG. - 171.000 KMS. - 5 PLAZAS. - START-STOP . - RADIO CON PANTALLA NAVEGADOR + TELEFONO. - TOMAS USB. - CLIMATIZADOR. - ORDENADOR DE ABORDO. - CONTROL DE CRUCERO. - CONTROL DE TRACCIÓN. - FAROS DE XENON. - LUCES ENCENDIDO AUT. - LIMPIAS ENCENDIDO AUT. - ELEVALUNAS ELÉCT. X4 - RETROVISORES ELÉCT. - LLANTAS DE ALEACIÓN 18\" - SENSORES DE APARCAMIENTO CON PANTALLA. - FRENO MANO ELECTRÓNICO - ASIENTOS ISOFIX. - ETIQUETA MEDIOAMB C. - MANTENIMIENTO AL DIA. Audi A3 Small in Sabadell",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "116 cv",
+            "año": "2017",
+            "kilómetros": "181000 km",
+            "precio": 15500.0
+        }
+    ]
+}
