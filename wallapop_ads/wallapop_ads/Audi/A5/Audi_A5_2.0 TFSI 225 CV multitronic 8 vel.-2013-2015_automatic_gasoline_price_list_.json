@@ -1,0 +1,91 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A5",
+        "version": "2.0 TFSI 225 CV multitronic 8 vel.",
+        "año mínimo": 2013,
+        "año máximo": 2015,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 224,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=224&min_year=2013&max_year=2015&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A5 2014",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2014-1091802504",
+            "descripcion": "Coche muy cuidado, todos los mantenimientos en servicio oficial Audi, último realizado 01/2025 ITV pasada el 01/2025 sin defectos",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2014",
+            "kilómetros": "59000 km",
+            "precio": 23000.0
+        },
+        {
+            "titulo": "Audi A5 2014",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2014-1022019897",
+            "descripcion": "Coche en buen estado como se aprecia en las fotos. Tiene hecha la Stage 1 con 220cv. Mantenimientos al día.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2014",
+            "kilómetros": "159000 km",
+            "precio": 20000.0
+        },
+        {
+            "titulo": "Audi A5 2014",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2014-1037152972",
+            "descripcion": "Se vende Audi A5 Sportback gasolina turbo. Vehículo nacional. Casi todos los extras, 3 llaves originales, mantenimientos al día, ITV recién pasada, etiqueta medioambiental C, 4 neumáticos nuevos michelín pilot sport 5, llanta 19 pulgadas audi lemans, en muy buen estado siempre en garaje, se puede ver y revisar sin problema.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2014",
+            "kilómetros": "125000 km",
+            "precio": 17500.0
+        },
+        {
+            "titulo": "Audi A5 2013",
+            "enlace": "https://es.wallapop.com/item/audi-a5-quattro-coupe-1046493017",
+            "descripcion": "Audi A5 2.0 Coupé Quattro nacional. Cuenta con 211 cv de potencia, cambio automático con modo Sport y etiqueta medioambiental C. El coche actualmente tiene 164.000km, ITV pasada hasta el mes de mayo 2025, revisiones y mantenimiento realizadas hace 1 mes, con lo cual hasta dentro de 11500 no sería necesario. Se aporta todo tipo de documentación, informe de la DGT y facturas. El color exterior es azul marino, tiene techo solar, y el interior en beige y marrón. Está en muy buen estado, sólo se ha aparcado en garaje y tiene toda la documentación y mantenimientos al día.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "211 cv",
+            "año": "2013",
+            "kilómetros": "164000 km",
+            "precio": 16600.0
+        },
+        {
+            "titulo": "Audi A5 2015",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2015-1091863740",
+            "descripcion": "Audi A5 Cabrio 1.8 TFSI de 177cv y con 104.000kms! Está listo para conducir y disfrutar, no hay que hacerle nada. Funciona todo correctamente. Se puede ver y probar sin problema. Extras: climatizador bizona, asientos calefactables y eléctricos, cuero/alcántara, etc.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "177 cv",
+            "año": "2015",
+            "kilómetros": "104000 km",
+            "precio": 16000.0
+        },
+        {
+            "titulo": "Audi A5 2013",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2013-1090709079",
+            "descripcion": "audi A5 kit estetico S line. itv en vigor. el coche se encuentra en perfectas condiciones tanto esteticas como de mecanica, esta muy bien cuidado y estos motores son muy duros. se acepta prueba mecanica.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2013",
+            "kilómetros": "274000 km",
+            "precio": 8700.0
+        }
+    ]
+}

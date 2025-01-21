@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A5",
+        "version": "2.0 TDI 143 CV multitronic 8 vel.",
+        "año mínimo": 2012,
+        "año máximo": 2013,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 143,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=143&min_year=2012&max_year=2013&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A5 2012",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2012-1047136525",
+            "descripcion": "Audi A5 Sportback Multitronic 147.000 Kms. Navegador Paquete S-line interior y exterior Stage 1 centralita 190 cv. Sonido Bosé Neumáticos Michelin Pilot Sport 5 Llantas 18” originales AUDI Lunas tintadas homologadas Excelente estado interior y exterior",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "143 cv",
+            "año": "2012",
+            "kilómetros": "147000 km",
+            "precio": 17000.0
+        },
+        {
+            "titulo": "Audi A5 2013",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2013-1078820941",
+            "descripcion": "Perfecto estado vehículo nacional, cambio automatico motor 2.0 tdi 143 cv el mejor motor y el más económico tapicería interior piel beige,llantas 19 ,mantenimiento de caja de cambios posiilidad de furgoneta como parte de pago seriedad por favor",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "143 cv",
+            "año": "2013",
+            "kilómetros": "191711 km",
+            "precio": 15900.0
+        },
+        {
+            "titulo": "Audi A5 2.0 TDI 143CV S-line con Garantia",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2-0-tdi-143cv-s-line-con-garantia-1042403349",
+            "descripcion": "Audi A5 2.0 TDI 143cv.AÑO 09/2012.-206.000 km.S-line.Automatico.Nacional.4 elevalunas eléctricos.Cierre centralizado.Faros xenon.Espejos eléctricos.Isofix.Control velocidad crucero.Ordenador abordo.Sensor luces y aparcamiento.Volante multifunción.Antinieblas.Maletero amplio.Llantas aluminio.Equipo sonido Audi toma auxiliar.Climatizador.Manos libres.Cristales tintados.Tapicería y chapa perfecto estado.Dueño no fumador.Aceite y filtros cambiados.Posibilidad de financiación sin dar entrada,NO OBLIGATORIO EN LA COMPRA.12 meses póliza garantía mecánica incluída.Más vehículos en stock en nuestras instalaciones,siganos en Facebook e Instagram.Whatsapp.Rc9 Autos.Etiqueta B",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "143 cv",
+            "año": "2012",
+            "kilómetros": "206000 km",
+            "precio": 14950.0
+        }
+    ]
+}
