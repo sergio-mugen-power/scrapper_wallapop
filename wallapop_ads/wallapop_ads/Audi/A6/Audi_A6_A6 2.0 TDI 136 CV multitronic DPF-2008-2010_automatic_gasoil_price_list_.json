@@ -1,0 +1,80 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A6",
+        "version": "A6 2.0 TDI 136 CV multitronic DPF",
+        "año mínimo": 2008,
+        "año máximo": 2010,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 136,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=136&min_year=2008&max_year=2010&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A6&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A6 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2008-1091825772",
+            "descripcion": "ITV RECIEN PASADA CAMBIO DE ACEITE Y FILTROS RECIEN HECHOS NEUMATICOS MUY BUEN ESTADO AUTOMATICO SIN GOLPES NI ARAÑAZOS SLINE",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2008",
+            "kilómetros": "126000 km",
+            "precio": 8900.0
+        },
+        {
+            "titulo": "Audi A6 2.0 tdi multitronic 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2-0-tdi-multitronic-2008-1086273719",
+            "descripcion": "CONCERTAR VISITA CON ANTELACIÓN . Precio final con iva incluido , garantía , revisión completa , limpieza y desinfección Servicio de financiación a tu medida. Servicio de transporte a toda España. Kms certificados en factura. Aceptamos vehículos a cambio. Aceptamos prueba mecánica. Este anuncio no es vinculante , puede contener errores. Se muestra a nivel informativo y no contractual",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2008",
+            "kilómetros": "250000 km",
+            "precio": 7990.0
+        },
+        {
+            "titulo": "Audi A6 2009",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2009-923727111",
+            "descripcion": "Vehículo nacional, libro de mantenimiento sellado en concesionario oficial, cambio Stronic de 7 velocidades, faros xenón, navegación GPS etc etc.. NEGOCIABLE. Acepto coche como parte de pago.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2009",
+            "kilómetros": "267000 km",
+            "precio": 7500.0
+        },
+        {
+            "titulo": "Audi A6 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2010-1075668412",
+            "descripcion": "Se vende Audi A6 con motor 2.0, 140CV, cambio de marchas AUTOMÁTICO y TECHO SOLAR. El vehículo está en perfecto estado tanto de mecánica como de chapa. Se acepta prueba mecánica. Precio negociable, por favor solo gente interesada. Gracias.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2010",
+            "kilómetros": "230000 km",
+            "precio": 7200.0
+        },
+        {
+            "titulo": "Audi A6 2009",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2009-1090354545",
+            "descripcion": "Matricula inglesa volante a derchea el coche esta impecable listo para matricular los papeles en regla itv recien echa cubiertas nuevas corea de distribucion recien cambiada acepto cambio por algo que me interesa",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2009",
+            "kilómetros": "241000 km",
+            "precio": 3950.0
+        }
+    ]
+}

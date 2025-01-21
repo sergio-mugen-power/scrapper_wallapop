@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A6",
+        "version": "2.8 FSI 190 CV",
+        "año mínimo": 2010,
+        "año máximo": 2011,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 190,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=190&min_year=2010&max_year=2011&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A6&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A6 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2010-1049259495",
+            "descripcion": "Vehículo muy cuidado y en buen estado, aquí unos datos destacados: -Audi A6 2.0 TFSI 170 CV -Prestaciones y consumos homologados Velocidad máxima: 228 km/h Aceleración 0-100 km/h: 8,2 s Consumo NEDC Extraurbano: 5,9 l/100 km Urbano: 10,2 l/100 km Medio: 7,5 l/100 km Distintivo ambiental DGT: C Combustible: Gasolina Longitud: 4.972 m Volumen de maletero: 546 litros Capacidad gasolina: 70 litros -Kilometraje: 119.523 (verificado en Alemania cuando se trajo por empresa) -Vehículo con dos propietarios: 1 (ALEMANIA) , 1 (ESPAÑA) -ITV pasada 19/09/2024 -Cambio aceite, filtro habitáculo, filtro aire y revision niveles 05/12/2024 -Discos y pastillas delanteros cambiados: 8/7/2024 (BREMBO con factura) -4 Ruedas nuevas cambiadas: 10/06/2024 (Con equilibrado y paralelo) (225/55 R16) -Dos llaves -Asientos calefactables delanteros -Sensores de aparcamiento delanteros y traseros -GPS integrado -Climatizador Bizona -Retrovisores calefactables -Control de crucero -Iluminación interior zona inferior -Lunas tintadas -Manos libres llamadas -Caja manual con 6 marchas. -Rueda de respuesto -Faros Xenon -Retrovisores con luz de intermitencia Dispongo de 4 ruedas (neumático y llanta) 245/40 ZR18 97Y El vehículo se puede revisar en taller y/o meterle máquina de diagnosis. Cualquier duda, no dudéis en preguntarme.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "170 cv",
+            "año": "2010",
+            "kilómetros": "119523 km",
+            "precio": 11400.0
+        },
+        {
+            "titulo": "Audi A6 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2010-1048170846",
+            "descripcion": "Se vende coche con todos los extras SENSOR DE APARCAMIENTO VELOCIDAD DE CRUCERO NAVIGACION LO MAS ALTO DE LA GAMA SIEPRE EN GARAJE SE ACCEPTAN TODAS LAS PRUEBAS ☎️.643354855.☎️Mario",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "190 cv",
+            "año": "2010",
+            "kilómetros": "280000 km",
+            "precio": 9700.0
+        },
+        {
+            "titulo": "Audi A6 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2010-990217991",
+            "descripcion": "Coche nacional no importado",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "170 cv",
+            "año": "2010",
+            "kilómetros": "220000 km",
+            "precio": 7000.0
+        }
+    ]
+}

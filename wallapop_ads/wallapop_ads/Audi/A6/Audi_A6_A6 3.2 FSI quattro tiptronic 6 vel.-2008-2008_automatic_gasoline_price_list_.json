@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A6",
+        "version": "A6 3.2 FSI quattro tiptronic 6 vel.",
+        "año mínimo": 2008,
+        "año máximo": 2008,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 256,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=256&min_year=2008&max_year=2008&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A6&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A6 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2008-1088271706",
+            "descripcion": "coche nacionsl con dolo 140000km perfecto de estado con tapiceria de cuero .sus dos llaves originales y mas cosas",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "177 cv",
+            "año": "2008",
+            "kilómetros": "140000 km",
+            "precio": 7900.0
+        },
+        {
+            "titulo": "Audi A6 3.2 FSI Quattro Tiptronic 255 CV",
+            "enlace": "https://es.wallapop.com/item/audi-a6-3-2-fsi-quattro-tiptronic-255-cv-1024624218",
+            "descripcion": "Audi A6 3.2 V6 FSI Quattro 255 CV Automático, 6700 €. Muy buen estado general, nacional, ITV hasta el 25 de enero de 2025. Matrícula: 3305FYC del 7 de diciembre de 2007, 266000 kms. Bastidor: WAUZZZ4F08N072151. Motor gasolina de 3123 cc, 255 CV. Cambio automático, llantas de aleación, tracción Quattro, clima automático, pantalla central con navegador, ordenador, tapicería de piel beige, sonido envolvente, control de velocidad, retrovisores y elevalunas eléctricos, ABS, ESP, etc. IMPRESCINDIBLE CITA PREVIA. Atendemos de lunes a viernes de 9:30 a 20 hs, y sábados de 10 a 14 hs en Málaga Capital, próximo a Leroy Merlin,",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "255 cv",
+            "año": "2008",
+            "kilómetros": "266000 km",
+            "precio": 6700.0
+        }
+    ]
+}

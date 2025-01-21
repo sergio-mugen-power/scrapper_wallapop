@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A6 allroad",
+        "version": "allroad quattro 2.5 TDI 180 CV manual 6 vel.",
+        "año mínimo": 2000,
+        "año máximo": 2005,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 179,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=179&min_year=2000&max_year=2005&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A6 allroad&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A6 Allroad 2002",
+            "enlace": "https://es.wallapop.com/item/audi-a6-allroad-2002-1003963857",
+            "descripcion": "Año 2002, Con 219000 kilómetros. Motor 2.5 qlroad Recién cambiada correa y ruedas nuevas ITV recién pasada coche en buen estado , duerme siempre en garaje.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "2.5 cv",
+            "año": "2002",
+            "kilómetros": "219000 km",
+            "precio": 6900.0
+        },
+        {
+            "titulo": "Audi A6 Allroad quatro",
+            "enlace": "https://es.wallapop.com/item/audi-a6-allroad-quatro-1082406586",
+            "descripcion": "Audi A6 allroad quatro, tapicería de cuero, asientos delanteros con ajuste eléctrico, climatizador bizona, techo solar. Siempre en cochera y revisado en casa oficial. Pintura original. Precio negociable.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "175 cv",
+            "año": "2002",
+            "kilómetros": "275000 km",
+            "precio": 4500.0
+        },
+        {
+            "titulo": "Audi A6 Allroad 2003",
+            "enlace": "https://es.wallapop.com/item/audi-a6-allroad-2003-1077198786",
+            "descripcion": "All Road con motor desmontado, lo tengo para montarlo",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "164 cv",
+            "año": "2003",
+            "kilómetros": "220000 km",
+            "precio": 1000.0
+        }
+    ]
+}
