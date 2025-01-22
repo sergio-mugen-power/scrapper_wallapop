@@ -1,0 +1,80 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A4",
+        "version": "2.0 TDI 136 CV",
+        "año mínimo": 2015,
+        "año máximo": 2015,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 136,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=136&min_year=2015&max_year=2015&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A4&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A4 2015",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2015-1082135281",
+            "descripcion": "Audi A4 2.0 Tdi ,120cv, diésel,con caja de cambios manual . Año 2015 , 119.000 kms, garantizados y con 12 meses de garantía Premium Total.Cambio de titularidad incluida en el precio, mantenimiento completo recién realizados y financiación a su medida al mejor interés del mercado. Todos nuestros coches disponen de: - Garantía premium a nivel nacional de 12 meses, ampliable a 24. - Histórico de mantenimiento completo. - Financiación en 24h, incluso sin entrada inicial. - Entrega a domicilio sin coste adicional. - Revisión de pre entrega de 120 puntos. - Atendemos visita fines de semana (bajo cita previa). en Aguilar de la Frontera.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "120 cv",
+            "año": "2015",
+            "kilómetros": "11900 km",
+            "precio": 20900.0
+        },
+        {
+            "titulo": "Audi A4 Sline Edition",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2015-1088846468",
+            "descripcion": "Audi A 4 limousine 2015 6 velocidades llantas 19\" Originales,Sline interior y exterior completo ,asientos cuero milano calefactables,techo solar eléctrico,volante partido multifuncional, climatizador bizona ,Audi multimedia, subwoofer integrado en la bandeja trasera Audi,bluetooth,velocidad crucero,navegador, sensores de lluvia y luces automático.Revisiones y mantenimiento echo perfectamente.Itv hasta agosto 2025, 4 Ruedas Pirelli recién puestas, 4 suspensiones y pastillas de freno.Se acepta pruebas mecánicas. Se recoge moto 125 -300 scooter como parte del pago.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "120 cv",
+            "año": "2015",
+            "kilómetros": "125000 km",
+            "precio": 19500.0
+        },
+        {
+            "titulo": "Audi A4 Avant 2015",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2015-1087691896",
+            "descripcion": "Vendo Audi A4 avant en muy buenas condiciones y muy bien cuidado. Viene con: Faros xenón, control de velocidad y de salida de carril. Sensores de aparcamiento delanteros y traseros con alarma integrada. Navegador y asiste de de voz. Asientos de cuero siendo los delanteros calefactables. Etiqueta medioambiental C (verde) y un consumo bajo ideal para viajar. Mantenimientos al día, correa recien cambiada. ITV pasada hasta agosto del 2025 con 215.000km verificados mediante facturas, revisiones e ITV.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "136 cv",
+            "año": "2015",
+            "kilómetros": "199999 km",
+            "precio": 13500.0
+        },
+        {
+            "titulo": "Audi A4 2015",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2015-1040847364",
+            "descripcion": "vendo Audi A4 con todos los mantenimientos al día, ITV recién pasada, motor muy fiable está en perfecto estado de interior y exterior muy cuidado, por favor gente seria precio algo negociable.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "136 cv",
+            "año": "2015",
+            "kilómetros": "239000 km",
+            "precio": 11999.0
+        },
+        {
+            "titulo": "Audi A4 2015",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2015-1068362895",
+            "descripcion": "Vendo Audi A4 sline en estado impecable. Siempre a dormido en garaje. Revisado de todo con todos sus mantenimientos al dia. - Correa distribucion y bomba cambiada 190.000 km - Gomas en muy buen estado - Aceite y filtros cambiados hace 5000km - Ultimo que se le ha hecho, cambio de calentadores Esta para hacerle km, Itv hasta 2025, acepto cualquier prueba mecánica. Porfavor solo gente sería. Preguntar sin compromiso y algo negociable.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "136 cv",
+            "año": "2015",
+            "kilómetros": "239000 km",
+            "precio": 10500.0
+        }
+    ]
+}

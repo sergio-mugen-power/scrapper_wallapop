@@ -1,0 +1,102 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A4",
+        "version": "2.0 multitronic 6 vel.",
+        "año mínimo": 2001,
+        "año máximo": 2004,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 131,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=131&min_year=2001&max_year=2004&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A4&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A4 2003",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2003-1058926566",
+            "descripcion": "Garantia 12 meses, cambio de nombre y revision pre entrega mas lavado incluido, cambio de aceite y los filtros incluido. ITV en vigor. Extras: A/C, espejos eléctricos, elevalunas delanteras eléctricas, AUX, BT música, volante multifuncional. UNIDAD EXCLUSIVA CON POCOS KM REALES. UN COCHE NUEVO DE 2003.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "130 cv",
+            "año": "2003",
+            "kilómetros": "22000 km",
+            "precio": 7490.0
+        },
+        {
+            "titulo": "Audi A4 2002",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2002-1078554749",
+            "descripcion": "Color plata",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "130 cv",
+            "año": "2002",
+            "kilómetros": "130000 km",
+            "precio": 4300.0
+        },
+        {
+            "titulo": "Audi A4 2002",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2002-1078552699",
+            "descripcion": "Color plata",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "130 cv",
+            "año": "2002",
+            "kilómetros": "130000 km",
+            "precio": 4300.0
+        },
+        {
+            "titulo": "Audi A4 2002",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2002-1079995955",
+            "descripcion": "Vehiculo nacional, unico dueño Dispone de los siguientes extras: - Manos libres - Radio con lector de USB/Micro SD integrado en el sistema de sonido del coche - Isofix en una de las plazas traseras - Perfecto estado sin apenas uso - Se entrega con aceite y filtro recién cambiado - ITV en vigor - Siempre en garaje, sin ninguna avería a reseñar Más información por privado",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "130 cv",
+            "año": "2002",
+            "kilómetros": "130000 km",
+            "precio": 3500.0
+        },
+        {
+            "titulo": "Audi A4 2004",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2004-1035777911",
+            "descripcion": "Vehiculo en muy buen estado general, pequeños desperfectos de pintura e interior en muy buen estado. Mecanica impecable, revision hecha hace pocos km. Si quieres meterlo antes en el mecanico antes de comprarlo, no hay problema. Transferencia incluida en el precio.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "130 cv",
+            "año": "2004",
+            "kilómetros": "144000 km",
+            "precio": 3200.0
+        },
+        {
+            "titulo": "Audi A4 2004",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2004-1088260329",
+            "descripcion": "urge vendo audi a 4 es muy bien de todo limpio solo tene fallo en la range se tarda de subir el gasoy no se lo que es",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "130 cv",
+            "año": "2004",
+            "kilómetros": "231808 km",
+            "precio": 1800.0
+        },
+        {
+            "titulo": "Audi A4 2003",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2003-1073723400",
+            "descripcion": "LEER BIEN! El coche arrqnca perfectamente y FUNCIONA PERO, está para arreglar, ((SE SOBRECALIENTA)) (Caja de Cambio, regular) Se vende como está. Recomiendo para despiece! NO NEGOCIABLE! Radiador nuevo, Ruedas delanteras nuevas,",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "130 cv",
+            "año": "2003",
+            "kilómetros": "280000 km",
+            "precio": 800.0
+        }
+    ]
+}

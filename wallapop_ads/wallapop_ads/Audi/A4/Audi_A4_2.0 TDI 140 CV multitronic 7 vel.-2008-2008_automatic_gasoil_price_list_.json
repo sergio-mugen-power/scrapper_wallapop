@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A4",
+        "version": "2.0 TDI 140 CV multitronic 7 vel.",
+        "año mínimo": 2008,
+        "año máximo": 2008,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 140,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=140&min_year=2008&max_year=2008&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A4&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A4 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2008-1085993873",
+            "descripcion": "Audi a4 2.0tdi 140 cv Año 2008 El coche en perfecto estado, acaba de pasar la itv. Se le acaba de sustituir las ruedas delanteras el aceite y los filtros. Exterior e interior en buen estado Kit de distribución con bomba de agua sustituido a los 193.000km 2 llaves Coche muy cuidado y recien revisado. No marear.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "140 cv",
+            "año": "2008",
+            "kilómetros": "198000 km",
+            "precio": 7500.0
+        },
+        {
+            "titulo": "✅ Audi A4 2.0TDI 140CV AUTOMÁTICO TECHO PANORÁMICO",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2-0tdi-140cv-automatico-techo-panoramico-1073420570",
+            "descripcion": "6️⃣7️⃣4️⃣1️⃣8️⃣7️⃣1️⃣4️⃣7️⃣ No negociable. 🚗 COCHE: AUDI A4 AVANT 2.0 TDI AUTOMÁTICO ✅ ITV: EN VIGOR ✅ AÑO: 2008 ✅ KILÓMETROS: 269.000 ✅ POTENCIA: 140 cv ⛽ COMBUSTIBLE: DIÉSEL 🕹️ CAMBIO: AUTOMÁTICO ✅ Funciona perfecto. ✅ CONTROL DE CRUCERO LIMITADOR, CLIMATIZADOR DIGITAL BIZONA Y AUTOMÁTICO, PARROT MANOS LIBRE, FRENO ELÉCTRICO, VOLANTE MULTIFUNCIÓN, LUCES AUTOMÁTICAS, TECHO PANORÁMICA, ✅ Recién revisado para su venta ✅ GARANTÍA 1 AÑO TAGS : Sportage niro Hyundai Tucson leon golf Arona c3 tesla taigo t cross BMW audi Mercedes peugeot Citroen batería Toyota corolla volkswagen seat ibiza leon golf diesel gasolina manual automático híbrido enchufable oficial libro sellado turbo stage downpipe escape homologado nuevo garantía financiación . KIA Stonic en Castello/Castellon de La Plana. KIA Stonic en Castello/Castellon de La Plana. KIA Stonic en Castello/Castellon de La Plana",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "140 cv",
+            "año": "2008",
+            "kilómetros": "269000 km",
+            "precio": 4900.0
+        }
+    ]
+}

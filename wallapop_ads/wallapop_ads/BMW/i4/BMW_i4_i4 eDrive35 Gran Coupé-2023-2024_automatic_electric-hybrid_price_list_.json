@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "i4",
+        "version": "i4 eDrive35 Gran Coupé",
+        "año mínimo": 2023,
+        "año máximo": 2024,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "electric-hybrid",
+        "potencia máxima": 286,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=electric-hybrid&min_horse_power=1&max_horse_power=286&min_year=2023&max_year=2024&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=i4&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW i4 Serie Coupe 35 eDrive",
+            "enlace": "https://es.wallapop.com/item/bmw-i4-serie-coupe-35-edrive-1027341168",
+            "descripcion": "? Vehículos con certificación de la marca y garantía de hasta 24 meses ? Compra online o en tienda ? Entrega inmediata o a domicilio ?? Financiación a su medida ?? La cuota mostrada en el anuncio es orientativa, precio de la oferta sujeto a financiar con BMW BANK con tipo de financiación SELECT, para el resto de modalidades de compra consultar condiciones ?? Aceptamos su vehículo como parte de pago. ?? Pruna Motor S.L, no se responsabiliza de los posibles errores derivados del volcado de datos al portal online. Pruna Motor S.L, no se responsabiliza de los posibles errores derivados del volcado de datos al portal online. Confirmar información del vehículo en el concesionario. EQUIPAMIENTO DE SERIE - ABS - Acabados de lujo: pomo de la palanca de cambios en negro piano, consola central en negro piano y tablero en cuero sintético - Airbag frontal del conductor, airbag frontal del acompañante desconectable - Airbag lateral de cortina delantero y trasero - Airbags laterales delanteros - Aire acondicionado trizona de automático - Alerta de cambio de carril: activa la dirección - Alfombrillas - Apoyabrazos central delantero - Apoyabrazos trasero - Asiento delantero del conductor y acompañante deportivo, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo y ajuste manual del suplemento de la banqueta - Asientos de tela (material principal) y de cuero sintético (material secundario) - Asientos traseros de tres plazas de tipo banco de orientación delantera con banqueta fija y respaldo abatible 40/20/40 con plegado remoto - Bandeja trasera rígida - Bluetooth - Botón de arranque del vehículo - Caja de cambios para electroauto - Carrocería: 5 puertas - Cierre centralizado con teléfono móvil (NFC) y contról de los elevalunas - Cinturón de seguridad delantero en asiento conductor y ajustable en altura con pretensores, cinturón de seguridad delantero en asiento acompañante con pretensores - Cinturón de seguridad trasero en lado conductor, cinturón de",
+            "combustible": "Eléctrico",
+            "cambio": "Automático",
+            "potencia": "286 cv",
+            "año": "2023",
+            "kilómetros": "4993 km",
+            "precio": 45150.0
+        },
+        {
+            "titulo": "BMW i4 2023",
+            "enlace": "https://es.wallapop.com/item/bmw-i4-2023-1074135838",
+            "descripcion": "BMW i4 eDrive M Performance 2023 – 40.500€ | 10.500 km Se vende un elegante y potente BMW i4 eDrive M Performance del año 2023 en versión Gran Coupé. El coche está en estado impecable, con un recorrido mínimo de solo 10.500 km. Esta joya combina diseño deportivo, tecnología avanzada y la dinámica característica de la línea M Performance de BMW.",
+            "combustible": "Eléctrico",
+            "cambio": "Automático",
+            "potencia": "286 cv",
+            "año": "2023",
+            "kilómetros": "10500 km",
+            "precio": 40500.0
+        }
+    ]
+}
