@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A5",
+        "version": "1.8 TFSI 177 CV multitronic 8 vel.",
+        "año mínimo": 2015,
+        "año máximo": 2016,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 177,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=177&min_year=2015&max_year=2016&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A5 2016",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2015-926190839",
+            "descripcion": "NO NEGOCIABLE!!! NO CAMBIOS!!! ***GRACIAS*** Coche impecable, se vende con la revisión hecha ,llaves en el bolsillo, kms reales (se puede pedir certificado),muy buena oportunidad...reestreno, como nuevo,sin golpes El coche tiene las 3 llaves 🔑,llantas 20\" ,fabricación 2015 y primera matriculación 2017 se puede ver sin compromiso Matrícula extranjera, cambio de nombre y impuestos a mi cargo",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "177 cv",
+            "año": "2016",
+            "kilómetros": "83000 km",
+            "precio": 20000.0
+        },
+        {
+            "titulo": "Audi A5 2015",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2015-1091863740",
+            "descripcion": "Audi A5 Cabrio 1.8 TFSI de 177cv y con 104.000kms! Está listo para conducir y disfrutar, no hay que hacerle nada. Funciona todo correctamente. Se puede ver y probar sin problema. Extras: climatizador bizona, asientos calefactables y eléctricos, cuero/alcántara, etc.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "177 cv",
+            "año": "2015",
+            "kilómetros": "104000 km",
+            "precio": 16000.0
+        }
+    ]
+}

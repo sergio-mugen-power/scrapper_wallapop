@@ -1,0 +1,102 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A6",
+        "version": "2.7 T tiptronic 5 vel.",
+        "año mínimo": 2000,
+        "año máximo": 2001,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 230,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=230&min_year=2000&max_year=2001&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A6&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A6 2001",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2001-640062444",
+            "descripcion": "particular, un solo propietario ITV al día, mantenimiento al día. ningún fallo eléctrico venta por no uso,señor mayor buen estado. tapicería de cuero, madera, autm.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "148 cv",
+            "año": "2001",
+            "kilómetros": "152000 km",
+            "precio": 4500.0
+        },
+        {
+            "titulo": "Audi A6 2001",
+            "enlace": "https://es.wallapop.com/item/audi-a6-973921040",
+            "descripcion": "En perfecto estado. ITV pasada. Catalizadores nuevos, Batería recién cambiada. Guardado siempre en garaje. Todos los kilómetros hechos por carretera.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "220 cv",
+            "año": "2001",
+            "kilómetros": "211000 km",
+            "precio": 4200.0
+        },
+        {
+            "titulo": "Audi A6 2000",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2000-1062690707",
+            "descripcion": "vendo A6 en muy buen estado, muy cuidado mantenimientos al día, libros originales, dos llaves, toda la vida en la familia(básicamente único dueño) -elevalunas, CC, alarma , ruedas nuevas, sensor de proximidad, asientos eléctricos, cargador de CD, climatizador bizona, todo de serie, sin modificaciones Funciona todo perfecto y va muy fino vendo porque he cambiado de vivienda y no me entra bien en la plaza de garaje Solo gente interesada, ni cambios, ni regateos(ni contesto)",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "193 cv",
+            "año": "2000",
+            "kilómetros": "286000 km",
+            "precio": 3200.0
+        },
+        {
+            "titulo": "Audi A6 2000",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2000-1086948829",
+            "descripcion": "Audi A6 como nuevo v6 gasolina ITV recién pasada y al día.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "193 cv",
+            "año": "2000",
+            "kilómetros": "293000 km",
+            "precio": 2100.0
+        },
+        {
+            "titulo": "Audi A6 2000",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2000-1078181280",
+            "descripcion": "ITV pasada , llantas 19, funciona todo perfecto",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "165 cv",
+            "año": "2000",
+            "kilómetros": "220000 km",
+            "precio": 2000.0
+        },
+        {
+            "titulo": "Audi A6 2000",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2000-941022158",
+            "descripcion": "Coche en buenas condiciones mecánicas, 2.4 V6, interior en perfecto estado y motor muy cuidado. Con un repaso de chapa queda como nuevo. Pocos km, ITV hasta el 10/2025. Escucho ofertas y cambios.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "165 cv",
+            "año": "2000",
+            "kilómetros": "174000 km",
+            "precio": 2000.0
+        },
+        {
+            "titulo": "Audi A6 2001",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2001-726330316",
+            "descripcion": "ver y probar",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "185 cv",
+            "año": "2001",
+            "kilómetros": "250000 km",
+            "precio": 1700.0
+        }
+    ]
+}

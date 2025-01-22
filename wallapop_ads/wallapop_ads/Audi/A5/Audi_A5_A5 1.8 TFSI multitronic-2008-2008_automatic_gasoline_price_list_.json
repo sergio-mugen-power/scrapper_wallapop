@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A5",
+        "version": "A5 1.8 TFSI multitronic",
+        "año mínimo": 2008,
+        "año máximo": 2008,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 170,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=170&min_year=2008&max_year=2008&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A5 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2008-1042536996",
+            "descripcion": "audi a5 itv recien pasada !! 0 problema cambio por rolex-cartier-dunhill-dupont-",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2008",
+            "kilómetros": "192000 km",
+            "precio": 12000.0
+        },
+        {
+            "titulo": "Audi A5 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2008-1049128030",
+            "descripcion": "AutomóvilesMK Vende Audi a5 1.8Tfsi 170cv automatico, del año 2008, en muy buen estado generalmente, itv en vigor, etiqueta medioambiente C Equipamiento: -Asientos cuero -Sensor de luces -Sensor de lluvia -Cierre centralizado -Volante multifuncion -Elevalunas eléctricos -Radio mp3 (Audi concert) -Climatizador bi-zona -Llantas 19” -Abs/Esp -Ordenador abordo Se entrega con 12 meses de garantía (Consultar condiciones) FINANCIACIÓN A MEDIDA! Cambio de titularidad (220€) Se entrega en cualquier parte de España. Este anuncio se muestra a título informativo y no contractual.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2008",
+            "kilómetros": "207000 km",
+            "precio": 8990.0
+        }
+    ]
+}

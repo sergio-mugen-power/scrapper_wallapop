@@ -1,0 +1,80 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A6",
+        "version": "2.0 TDIe 136 CV DPF",
+        "año mínimo": 2008,
+        "año máximo": 2010,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 136,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=136&min_year=2008&max_year=2010&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A6&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A6 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2010-1091037428",
+            "descripcion": "excepcional vehiculo con todos los mantenimientos al dia, itv al dia y sin fallos, listo para disfrutar, piel, xenon, navegador y todos los extras incluida bola de remolque, aun por extrenar se entrga con llantas de verano tambien, kms certificados un gran coche por su estado de conservacion consumo muy bajo y motor de garantia se puede llevar a la casa para comprobarlo",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "136 cv",
+            "año": "2010",
+            "kilómetros": "115000 km",
+            "precio": 14999.0
+        },
+        {
+            "titulo": "Audi A6 2009",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2009-1072825694",
+            "descripcion": "Se vende estupendo audi A6 motor 2.0 TDI. Camon rail. Código de motor CAG. Todo al día. Está perfecto. Se acepta cualquier prueba mecánica, se puede ver sin compromiso. Dispone de llantas originales en 19' y el volante es achatado. Abstenerse de ofertas.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "136 cv",
+            "año": "2009",
+            "kilómetros": "270000 km",
+            "precio": 9200.0
+        },
+        {
+            "titulo": "Audi A6 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2010-1021392735",
+            "descripcion": "vehículo importado de Alemania en muy buenas condiciones revisiones todo al día km originales demostrado de la casa Audi. mejor ver y probar.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "136 cv",
+            "año": "2010",
+            "kilómetros": "205000 km",
+            "precio": 8900.0
+        },
+        {
+            "titulo": "Audi A6 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2010-839341601",
+            "descripcion": "Vehículo muy cuidado, nacional, no fumador, impecable, ruedas al 90%, correa distribución y filtros recién cambiados. Se podría valorar cambio por Suv de mi interés más dinero si tuviera más valor.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "136 cv",
+            "año": "2010",
+            "kilómetros": "220000 km",
+            "precio": 8500.0
+        },
+        {
+            "titulo": "Audi A6 2009",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2009-1082645328",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "136 cv",
+            "año": "2009",
+            "kilómetros": "300000 km",
+            "precio": 4500.0
+        }
+    ]
+}

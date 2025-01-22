@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A6",
+        "version": "A6 2.4 tiptronic 5 vel.",
+        "año mínimo": 2000,
+        "año máximo": 2000,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 165,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=165&min_year=2000&max_year=2000&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A6&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A6 2000",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2000-1078181280",
+            "descripcion": "ITV pasada , llantas 19, funciona todo perfecto",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "165 cv",
+            "año": "2000",
+            "kilómetros": "220000 km",
+            "precio": 2000.0
+        },
+        {
+            "titulo": "Audi A6 2000",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2000-941022158",
+            "descripcion": "Coche en buenas condiciones mecánicas, 2.4 V6, interior en perfecto estado y motor muy cuidado. Con un repaso de chapa queda como nuevo. Pocos km, ITV hasta el 10/2025. Escucho ofertas y cambios.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "165 cv",
+            "año": "2000",
+            "kilómetros": "174000 km",
+            "precio": 2000.0
+        }
+    ]
+}

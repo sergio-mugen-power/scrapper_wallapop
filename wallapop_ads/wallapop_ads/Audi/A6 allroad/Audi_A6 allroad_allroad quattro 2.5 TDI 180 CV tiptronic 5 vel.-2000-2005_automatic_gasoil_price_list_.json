@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A6 allroad",
+        "version": "allroad quattro 2.5 TDI 180 CV tiptronic 5 vel.",
+        "año mínimo": 2000,
+        "año máximo": 2005,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 179,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=179&min_year=2000&max_year=2005&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A6 allroad&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A6 Allroad 2003",
+            "enlace": "https://es.wallapop.com/item/audi-a6-allroad-2003-1053632507",
+            "descripcion": "se vende audi A6 Allroad quatro en perfecto estado unico dueño el interior esta como nuevo automatico tiptronic kit de distribucion cambiado completo con factura la suspensión revisada y funciona a la perfección asientos de cuero acabado alcántara navegador cámara trasera faros xenón color cereza batería nueva ruedas al 80% 2 llaves todas las revisiones al día el coche funciona todo a la perfección",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "163 cv",
+            "año": "2003",
+            "kilómetros": "187000 km",
+            "precio": 5890.0
+        },
+        {
+            "titulo": "Audi A6 Allroad 2004",
+            "enlace": "https://es.wallapop.com/item/audi-a6-allroad-2005-1060200480",
+            "descripcion": "El coche funcionaba perfectamente, a los 2 dias no arranco, se le ha puesto el motor de arranque nuevo pero no arranca. El motor gira, no esta gripado, el cambio esta perfecto, interior cuero con asientos calefactados alante y atras y volante, cambio con levas, equipo de sonido Bose audi car audio. Algo negociable!",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "178 cv",
+            "año": "2004",
+            "kilómetros": "282000 km",
+            "precio": 1500.0
+        }
+    ]
+}

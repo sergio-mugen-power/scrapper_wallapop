@@ -1,0 +1,91 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A5",
+        "version": "2.0 TFSI 211 CV quattro S tronic 7 vel.",
+        "año mínimo": 2012,
+        "año máximo": 2013,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 211,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=211&min_year=2012&max_year=2013&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A5 2012",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2012-962480566",
+            "descripcion": "Se vende Audi A5 Sportback quattro en inmejorable estado, único propietario, 5 plazas, sline exterior e interior, llantas rotor en 20\" con gomas nuevas, asientos mixtos cuero/tela, faros bi-xenon, sensores de lluvia, luces y aparcamiento, cámara de marcha atrás, navegador, bola de remolque, etc, etc... Se entrega revisado con cambio de aceite y filtros. Se acepta vehículo como parte de pago. El precio incluye el cambio de nombre, la garantía de un año y el I.V.A.(deducible para empresas y autónomos). Este anuncio puede contener errores por lo que no es una oferta vinculante.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "211 cv",
+            "año": "2012",
+            "kilómetros": "141000 km",
+            "precio": 19500.0
+        },
+        {
+            "titulo": "Audi A5 2013",
+            "enlace": "https://es.wallapop.com/item/audi-a5-quattro-coupe-1046493017",
+            "descripcion": "Audi A5 2.0 Coupé Quattro nacional. Cuenta con 211 cv de potencia, cambio automático con modo Sport y etiqueta medioambiental C. El coche actualmente tiene 164.000km, ITV pasada hasta el mes de mayo 2025, revisiones y mantenimiento realizadas hace 1 mes, con lo cual hasta dentro de 11500 no sería necesario. Se aporta todo tipo de documentación, informe de la DGT y facturas. El color exterior es azul marino, tiene techo solar, y el interior en beige y marrón. Está en muy buen estado, sólo se ha aparcado en garaje y tiene toda la documentación y mantenimientos al día.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "211 cv",
+            "año": "2013",
+            "kilómetros": "164000 km",
+            "precio": 16600.0
+        },
+        {
+            "titulo": "Audi A5 tfsi 2.0 211cv quatrro sportback",
+            "enlace": "https://es.wallapop.com/item/audi-a5-tfsi-2-0-211cv-quatrro-sportback-1092007046",
+            "descripcion": "se vende Audi a5 tfsi 2.0 211cv quatrro sportback posibilidad de venderlo con las llantas multirradios en color antracita o con las llantas originales , al igual que con la pantalla y la regilla frontal, tambien tengo la original, coche en buen estado con: -camara de marcha atras -sensores de aparcamiento -faros de xenon -pantalla con car play inalambrico -automatico -llantas de 18 -homologado para 5 plazas, la mayoria son solo para 4 plazas las llantas de la segunda foto son las mismas que las de la primera foto pero las lleve al taller a pintar por que no me gustaba como quedaban en plateado",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "211 cv",
+            "año": "2012",
+            "kilómetros": "165000 km",
+            "precio": 16000.0
+        },
+        {
+            "titulo": "Audi A5 2012",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2012-1030705704",
+            "descripcion": "ITV en vigor, mantenimientos al día, siempre garaje, llantas 19” A7, muy amplio y cuidado.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2012",
+            "kilómetros": "230000 km",
+            "precio": 9990.0
+        },
+        {
+            "titulo": "Audi A5 2013",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2013-1090709079",
+            "descripcion": "audi A5 kit estetico S line. itv en vigor. el coche se encuentra en perfectas condiciones tanto esteticas como de mecanica, esta muy bien cuidado y estos motores son muy duros. se acepta prueba mecanica.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2013",
+            "kilómetros": "274000 km",
+            "precio": 8700.0
+        },
+        {
+            "titulo": "Audi A5 Coupé 1.8 TFSI 170 cv Automático 2012",
+            "enlace": "https://es.wallapop.com/item/audi-a5-coupe-1-8-tfsi-170-cv-automatico-2012-1087921014",
+            "descripcion": "Vehículo INUNDADO por la DANA en garaje de vivienda particular, estuvo alrededor de un par de horas llegando el agua hasta el volante, no tiene golpes, ni ralladuras, ni roturas. No se ha puesto en marcha. Muy aprovechable para recambios.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2012",
+            "kilómetros": "225000 km",
+            "precio": 4200.0
+        }
+    ]
+}

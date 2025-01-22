@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A6",
+        "version": "A6 2.5 TDI 155 CV multitronic 6 vel.",
+        "año mínimo": 2001,
+        "año máximo": 2002,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 155,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=155&min_year=2001&max_year=2002&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A6&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A6 2002",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2002-948081935",
+            "descripcion": "se vende audi a6 2.5 v6 155 CV caja de cambios recién cambiada mantenimientos recién echos a la caja de cambios en perfecto estado tanto de interior como exterior y de motor impecable mantenimientos al día ITV recién pasada el día 12 de noviembre todas las ITV pasadas a la primera sin fallos ruedas nuevas discos y pastillas nuevas el coche va perfecto asientos en cuero , y calefactables equipo de sonido jvc el coche va perfecto no mareantes gracias . Acepto cambio por algo de mi interés .",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "155 cv",
+            "año": "2002",
+            "kilómetros": "289330 km",
+            "precio": 2600.0
+        },
+        {
+            "titulo": "Audi A6 2002",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2002-1056189615",
+            "descripcion": "audi a 6 , año 2002. Siempre muy bien cuidado con todas las revisiones al dia . se vende por que no tiene etiqueta medioambiental y donde vivo no puedo utilizarlo",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "130 cv",
+            "año": "2002",
+            "kilómetros": "200000 km",
+            "precio": 2000.0
+        },
+        {
+            "titulo": "Audi A6 2002",
+            "enlace": "https://es.wallapop.com/item/audi-a6-2002-1084169598",
+            "descripcion": "La caja de cambios automática está estropeada, por lo demás está el coche impecable ¡¡ Última oferta !!",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "155 cv",
+            "año": "2002",
+            "kilómetros": "198000 km",
+            "precio": 400.0
+        }
+    ]
+}

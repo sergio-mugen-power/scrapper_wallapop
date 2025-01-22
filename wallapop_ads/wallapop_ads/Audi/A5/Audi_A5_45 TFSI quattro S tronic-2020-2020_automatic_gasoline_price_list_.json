@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A5",
+        "version": "45 TFSI quattro S tronic",
+        "año mínimo": 2020,
+        "año máximo": 2020,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 245,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=245&min_year=2020&max_year=2020&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A5 40 TFSI S tronic S Line",
+            "enlace": "https://es.wallapop.com/item/audi-a5-40-tfsi-190cv-s-tronic-s-line-1041550543",
+            "descripcion": "Audi A5 40 TFSI S tronic S Line con fecha de matriculación de Enero de 2020. Iva deducible Todos nuestros vehículos incluyen garantía premium con cobertura en todo el territorio nacional ENTREGA INMEDIATA Extras: -Volante de cuero perforado -Levas en el volante -Control de crucero -Control por voz y llamada manos libres -Retrovisores, auto plegables y espejos calefactables -Entrada y arranque sin llave -Luces automáticas y sensor de lluvia -Audi Virtual Cockpit -Sistema de navegación -Cámara de visión trasera y sensores delanteros y traseros -Sistema de info entretenimiento con Audi MMI -Asientos, mixtos de cuero y tela -Paquete SLine completo -Botón de llamada de emergencia SOS -Apertura y cierre de maletero eléctrico -Climatización de tres zonas -Gastos de gestión documental y preentrega: 300€ Abiertos de 9.30h a 20.00h No cerramos a mediodía. -En Wallscar, realizamos las verificaciones de nuestros vehículos mediante perito judicial, una de las figuras de mayor fiabilidad del sector. Así, garantizamos el mayor grado de satisfacción en tu compra y aumentamos de forma exponencial del valor futuro de tu coche. ¡En Wallscar nos apasiona la automoción! ACEPTAMOS tu coche como parte del pago. Premiamos los vehículos mejor cuidados. Somos Wallscar Multimarca, concesionario de automóviles y filial de Grupo Paredes Automoción, empresa con más de 30 años de experiencia en el sector automovilístico. Disponemos de coches de KM0, coches de ocasión y coches de segunda mano. Somos un concesionario de coches de segunda mano, de coches compactos y de vehículos industriales. Nuestros vehículos se entregan con certificado de kilometraje, revisados meticulosamente por nuestro equipo técnico y con un año de garantía. Somos concesionario oficial Volvo, SsangYong y otras marcas. También somos taller oficial Volvo, Alfa Romeo, Jeep, Fiat y Abarth. En nuestras instalaciones también podrás encontrar un amplio stock de Lynk & Co 01, un coche único y distinto. Lynk & Co es una marca que cuen",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "204 cv",
+            "año": "2020",
+            "kilómetros": "59603 km",
+            "precio": 31500.0
+        },
+        {
+            "titulo": "Audi A5 2020",
+            "enlace": "https://es.wallapop.com/item/audi-a5-2020-1070640815",
+            "descripcion": "vendo audi a5 sportback, en perfectisimo estado. ✅ finales del 2020 ✅ único propietario ✅ modos de conduccion ✅ lector de señales ✅ virtual cockpit ✅ ruedas nuevas ✅ aceite y filtros nuevos ✅ 128.000 kilometros ✅ automático 7 velocidades ✅ maletero electrico ✅ apple carplay y android ✅ sensores de aparcamiento delantero y trasero ✅ faros led MATRIX ✅ llantas en 18 pulgadas ✅ Microhibrido etiqueta ECO mejor ver y probar audi, bmw, mercedes, porsche, cayenne, macan, serie 3, serie 5, clase c, clase e, Gle, glc, a4, a3, gti, golf r",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "190 cv",
+            "año": "2020",
+            "kilómetros": "128000 km",
+            "precio": 27850.0
+        }
+    ]
+}
