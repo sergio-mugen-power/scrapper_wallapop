@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Serie 3",
+        "version": "316d Touring Aut.",
+        "año mínimo": 2018,
+        "año máximo": 2019,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 116,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=116&min_year=2018&max_year=2019&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW Serie 3 316D (motor 2.000cc) 2019 Como nuevo",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-3-316d-motor-2-000cc-2019-como-nuevo-1069807981",
+            "descripcion": "Se vende BMW 316D touring de 2019 automático 8 marchas, motor 2000cc igual que el 318D. Tiene 78.000km, con las revisiones al día. Equipado con: -Cambio automático -Faros Full Led -Sensores parking delanteros y traseros -Control de velocidad -Navegador -Portón eléctrico -Llantas 16¨ -Asientos calefactables Posibilidad de coger coche a cambio Envío a toda la península Posibilidad de financiación Cambio de nombre incluido en el precio",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "116 cv",
+            "año": "2019",
+            "kilómetros": "83000 km",
+            "precio": 17300.0
+        },
+        {
+            "titulo": "BMW Serie 3 2019",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-3-2019-1074337580",
+            "descripcion": "maquina diagnosis en buen estado y actualizada , es multimarca launchi ! tambien cambio por alguna cosa que me interese",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "116 cv",
+            "año": "2019",
+            "kilómetros": "155000 km",
+            "precio": 450.0
+        }
+    ]
+}

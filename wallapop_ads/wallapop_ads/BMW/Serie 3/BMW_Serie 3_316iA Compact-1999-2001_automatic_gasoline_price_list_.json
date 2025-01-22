@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Serie 3",
+        "version": "316iA Compact",
+        "año mínimo": 1999,
+        "año máximo": 2001,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 105,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=105&min_year=1999&max_year=2001&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW E36 316i Coupe",
+            "enlace": "https://es.wallapop.com/item/bmw-e36-316i-coupe-1082975902",
+            "descripcion": "Se vende BMW e36 316iA de 1996 importado y matriculado en el 2001 lo que le incluye la pegatina medioambiental B Se entregaria con los mantenimientos recien hechos. Se entrega tambien con mucho recambio (sensores, varios caudalimetros) incluyo una caja de cambios Getrag de 5 marchas para pasarlo a manual. Si realmente estas interesado en el te entrego todo el historial por carfax aunque solo vas a encontrar 1 unico dueño tiene sensores de parking, asientos calefactables, alarma original de la bmw, radio bluethoot y algun extra mas como el apoyabrazos Neumaticos recien cambiados los 4, continental No me corre prisa en venderlo, si de aqui a un tiempo no se vende me lo quedare No me interesan ni cambios ni nada El precio no se negocia ni un euro",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "102 cv",
+            "año": "2001",
+            "kilómetros": "151000 km",
+            "precio": 6500.0
+        },
+        {
+            "titulo": "BMW Serie 316 compact gasolina automático ",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-3-compact-1024329632",
+            "descripcion": "el coche está genial va muy bien me acabo de gastar 700 euros en poner a punto todo original es automático motor 1.6 ITV al día listo para usar no regateos gracias",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "105 cv",
+            "año": "1999",
+            "kilómetros": "231000 km",
+            "precio": 2500.0
+        },
+        {
+            "titulo": "Bmw Serie 3 1999",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-3-1999-438867764",
+            "descripcion": "Bmw compact en perfecto estado de todo suspensión roscada etc llantas 17.asientos de cuero en perfectos estado no hay que acerle nada se puede llevar a cualquier taller y revisarlo está sin nada de desgaste y súper cuidado se vende por canbio a coche familiar.acepto coche familiar que me interese.el coche esta en este precio por que no pasa itv por la suspension y el escape y esta sin itv de ay su precio",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "105 cv",
+            "año": "1999",
+            "kilómetros": "200003 km",
+            "precio": 2000.0
+        }
+    ]
+}
