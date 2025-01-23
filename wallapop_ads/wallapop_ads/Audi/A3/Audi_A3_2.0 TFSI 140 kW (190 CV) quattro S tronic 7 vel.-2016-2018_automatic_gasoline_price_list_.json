@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 190,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=190&min_year=2016&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=190&min_year=2016&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -31,17 +31,6 @@
             "año": "2017",
             "kilómetros": "55000 km",
             "precio": 29500.0
-        },
-        {
-            "titulo": "Audi A3 2.0 TFSI 140kW quattro S tronic Sedan",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tfsi-140kw-quattro-s-tronic-sedan-1064556851",
-            "descripcion": "Precio al contado: 29.490€ (IVA incluido) *** Precio alternativo oferta de financiacion: 25.990€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Torrelavega, Bo. Valles, 42. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilanova 1, Vilanova 2. *** 23 ...",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "190 cv",
-            "año": "2018",
-            "kilómetros": "70000 km",
-            "precio": 25990.0
         },
         {
             "titulo": "Audi A3 2018",
@@ -144,6 +133,17 @@
         },
         {
             "titulo": "Audi A3 2.0 TFSI 140kW quattro S tronic Sedan",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tfsi-140kw-quattro-s-tronic-sedan-1064556851",
+            "descripcion": "Precio al contado: 27.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 23.790€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Torrelavega, Bo. Valles, 42. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilanova 1, Vilanova 2. *** 23 ...",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "190 cv",
+            "año": "2018",
+            "kilómetros": "70000 km",
+            "precio": 23790.0
+        },
+        {
+            "titulo": "Audi A3 2.0 TFSI 140kW quattro S tronic Sedan",
             "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tfsi-140kw-quattro-s-tronic-sedan-1066253403",
             "descripcion": "Precio al contado: 27.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 23.790€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Torrelavega, Bo. Valles, 42. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilanova 1, Vilanova 2. *** 23 ...",
             "combustible": "Gasolina",
@@ -200,7 +200,7 @@
         {
             "titulo": "Audi A3 Design 35 TFSI 110kW S tronic Sportback 150 CV AUTO",
             "enlace": "https://es.wallapop.com/item/audi-a3-design-35-tfsi-110kw-s-tronic-sportback-150-cv-auto-1080167043",
-            "descripcion": "",
+            "descripcion": "AUTOVIVO ofrece gran variedad en vehiculos de ocasion y km 0. MEJOR PRECIO GARANTIZADO, si encuentras un vehiculo de las mismas caracteristicas, MEJORAMOS el PRECIO. Solicita informacion o pide cita para ver y/o probar este vehiculo. Encontraremos la mejor opcion sin COMPROMISO. Ref. 8906KRJ Precio al contado: 24.900 €. Precio financiando: 23.700 €. DISFRUTA de nuestras VENTAJAS de Autovivo Store: - GARANTIA minima de 1 ano. - Nuestros vehiculos se entregan completamente REVISADOS. - Aceptamos coches como parte del pago. Te lo valoramos como se merece. - Financiacion a medida. Consulta los DESCUENTOS especiales al financiar. - Entregamos el vehiculo en cualquier punto de Espana, pregunta condiciones. - Si no te convence, devuelvelo. Tienes 15 dias o 1.000 km. El precio no incluye gastos de gestoria. Los datos pueden contener algun error y no tienen caracter vinculante. No busques mas, CONTACTANOS o ven a VISITARNOS. Ctra. Sta. Creu de Calafell, nº 95, SANT BOI DE LLOBREGAT, 08830 (Barcelona). VISITA nuestra web oficial en store.autovivo.es. ...",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "150 cv",
@@ -332,7 +332,7 @@
         {
             "titulo": "AUDI A3 Quattro 2.0 TFSI 16V S-Tronic7 190 cv ",
             "enlace": "https://es.wallapop.com/item/audi-a3-quattro-2-0-tfsi-16v-s-tronic7-190-cv-1089453941",
-            "descripcion": "AUDI A3 Quattro 2.0 TFSI 16V S-Tronic7 190 cv *Único propietario *Nacional. *Libro de Revisiones. *Paquete interior y exterior S Line *Recién revisado según fabricante. * Elevalunas Eléctricos. *llantas de aluminio. *Asientos isofix. *Climatizador. *Espejos eléctricos. *Navegador. *Asientos deportivos +piel . * Volante multifunción. * Sistema de audio: Equipo de radio con CD y MP3 *Blue & Me Dispositivo manos libres bluetooth con Reconocimiento de idioma y Conexión USB *Luces antiniebla. *Sensor de aparcamiento trasero + Cámara *Cierre centralizado con Mando a distancia. *Etiqueta medioambiental (C) *Cambio de nombre incluido. *Financiación a su medida. *Garantía 12meses incluido. *Incorsa Automoción Disponemos de un stock de vehículos seleccionados y garantizados por un mínimo de 12 meses para su tranquilidad. Nota: Este anuncio puede contener algún error y es únicamente informativo carente de valor contractual o vinculante.",
+            "descripcion": "",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "190 cv",
@@ -365,7 +365,7 @@
         {
             "titulo": "Audi A3 2017",
             "enlace": "https://es.wallapop.com/item/audi-a3-2017-1070510019",
-            "descripcion": "",
+            "descripcion": "Audi A3 sportback 2.0 TFSI 190CV quattro S tronic Revisónes al día (mantenimiento común i mantenimiento de la caja automática) dispongo de las facturas También realizado cambio de discos i pastillas delanteras. Lo entrego con ruedas de invierno i 1 juego completa de verano (tienen menos de 1 Año) Cambio automático ideal para el día a día. Realizado tratamiento cerámico a la pintura. Dispone de techo panorámico ideal para el verano Siempre duerme en garaje, es un coche bien mimado que no hay que realizarle nada",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "190 cv",
@@ -383,17 +383,6 @@
             "año": "2018",
             "kilómetros": "111000 km",
             "precio": 19500.0
-        },
-        {
-            "titulo": "Audi A3 2018",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2018-1071835615",
-            "descripcion": "UNICO PROPIETARIO HISTORIAL DE REVISIONES EN CASA OFICIAL",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "150 cv",
-            "año": "2018",
-            "kilómetros": "90000 km",
-            "precio": 18990.0
         },
         {
             "titulo": "Audi A3 2018",
@@ -462,17 +451,6 @@
             "precio": 17990.0
         },
         {
-            "titulo": "AUDI A3 S-TRONIC 3p. 1.0 TFSI 115 CV DESIGN",
-            "enlace": "https://es.wallapop.com/item/audi-a3-s-tronic-3p-1-0-tfsi-115-cv-design-1085121640",
-            "descripcion": "Audi A3 S-tronic Gasolina 1.0 TFSI 115 CV Design,con Etiqueta Medioambiental \"C\", matriculado Enero 2017. Disponible en Automoció Costa Daurada en El Vendrell (Tarragona) ENTREGA INMEDIATA. - Garantía 12 meses - Entrega a domicilio ( consultar condiciones ) *EXTRAS A DESTACAR : -Conectividad Apple Car-Play - Android Auto -Climatizador bi-zona. -Caja de cambios 7 velocidades - Caja cambios doble embrague S-tronic -Freno de estacionamiento electromecánico. -Retrovisores abatibles y regulables eléctricamente -Tapicería asientos: Tela Regatta / mono.pur (cuero) -Asistente a la conducción: Ayuda para arranque (hold assist) -Control de crucero (Tempomat) -Sensor de luz y de lluvia -Pintura metalizada. PRECIO CONTADO: 17.500€ PRECIO FINANCIADO: 17.500€ *FINANCIAMOS EL 100% APORTANDO DNI, ULTIMA NOMINA, DATOS BANCARIOS Y VIDA LABORAL ACTUALIZADA. Aceptamos vehículo como parte del pago (oferta válida salvo error tipográfico) #audia3ocasion #audia3segundamano #audiocasionenelvendrell #cochesdeocasion #cochesseminuevos #audigasolinaocasion #cochesegundamano #audia3socasion",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "115 cv",
-            "año": "2017",
-            "kilómetros": "41240 km",
-            "precio": 17500.0
-        },
-        {
             "titulo": "Audi A3 2018",
             "enlace": "https://es.wallapop.com/item/audi-a3-2018-1057276818",
             "descripcion": "audi a3 8v 2018 -todas las revisiones al dia con factura -muelles h&r (diponibles los de serie) -2 juegos de llaves -llantas de serie dispobles -4 neumaticos nuevos montados en julio 2024 marca FALKEN El coche se puede entregar de serie",
@@ -497,7 +475,7 @@
         {
             "titulo": "Audi A3 Sportb 1.4 TFSI 150 CoD ult Str Advanced",
             "enlace": "https://es.wallapop.com/item/audi-a3-sportb-1-4-tfsi-150-cod-ult-str-advanced-1075053043",
-            "descripcion": "",
+            "descripcion": "Vehículo comercializado por Grupo Seligrat (Concesionario oficial de las marcas OPEL, PEUGEOT, KIA, HONDA, MITSUBISHI, SUZUKI y MAXUS) con más de 50 años en el sector, especialistas en la venta de vehículos de ocasión online y presencial. Financiación 100% a tu medida, contacta con nosotros y te informamos sin compromiso. Posibilidad de entrega de tu coche como parte de pago, te damos la máxima tasación tanto presencial, como online. Contacta con nosotros y realizamos las gestiones por el canal que te resulte más cómodo. Posibilidad de entrega a domicilio. Pregunta por nuestras ofertas en seguros de Auto para clientes del Grupo. Los datos del anuncio podrían contener algún error y por tanto no tienen carácter vinculante, no pudiendo constituir la base de un futuro contrato.",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "150 cv",
@@ -595,7 +573,7 @@
         },
         {
             "titulo": "Audi A3 35 TFSI 110kW (150CV) S tronic Sportback",
-            "enlace": "https://es.wallapop.com/item/audi-a3-35-tfsi-110kw-150cv-s-tronic-sportback-1073110292",
+            "enlace": "https://es.wallapop.com/item/audi-a3-35-tfsi-110kw-150cv-s-tronic-sportback-1072163693",
             "descripcion": "Precio al contado: 18.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 16.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Toledo 2, C. Rio Jarama, 16, 45007, Toledo, Toledo. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilanova...",
             "combustible": "Gasolina",
             "cambio": "Automático",
@@ -606,7 +584,7 @@
         },
         {
             "titulo": "Audi A3 35 TFSI 110kW (150CV) S tronic Sportback",
-            "enlace": "https://es.wallapop.com/item/audi-a3-35-tfsi-110kw-150cv-s-tronic-sportback-1072163693",
+            "enlace": "https://es.wallapop.com/item/audi-a3-35-tfsi-110kw-150cv-s-tronic-sportback-1073110292",
             "descripcion": "Precio al contado: 18.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 16.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Toledo 2, C. Rio Jarama, 16, 45007, Toledo, Toledo. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilanova...",
             "combustible": "Gasolina",
             "cambio": "Automático",

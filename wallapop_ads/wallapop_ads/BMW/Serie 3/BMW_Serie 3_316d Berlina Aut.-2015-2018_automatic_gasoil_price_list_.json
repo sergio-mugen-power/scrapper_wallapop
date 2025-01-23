@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 3",
         "version": "316d Berlina Aut.",
-        "año mínimo": 2015,
-        "año máximo": 2018,
+        "año mínimo": "2015",
+        "año máximo": "2018",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "automatic",
         "tipos de motor": "gasoil",
-        "potencia máxima": 116,
+        "potencia máxima": "116",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=116&min_year=2015&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -35,7 +35,7 @@
         {
             "titulo": "BMW Serie 3 316d M Sport",
             "enlace": "https://es.wallapop.com/item/bmw-serie-3-316d-m-sport-1029580807",
-            "descripcion": "",
+            "descripcion": "MODELO BMW Serie 3 316d M Sport Tu nuevo coche te está esperando en MUNDICARS. Elige tu cuota y financia en 15 minutos. ¡Llámanos o ven a conocernos! + DE 300 COCHES EN STOCK - Pide cita y ven a probarlo - Déjanos tu coche como parte de pago - Financiación 100% - Todos nuestro vehículos se entregan revisados y con garantía de 1 año. (Vehículos comerciales 6 meses) - Nuestro horario es de L-V: 10:00 a 20:00 Sábados : 10:30 a 14:00 Compra online o llámanos. Tiendas: 1- Blanes: Ctra. Accés Costa Brava, 190, 17300, Girona (17300) 2- Sabadell: Carretera Barcelona 473-B. (08203) 3- Granollers: Avenida Marie Curie 2 (08402) 4- Vilanova y la Geltrú: Avda. Eduard Toldrà, 107 (08800). 5- Barcelona: (Próximamente) Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual.",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "115 cv",
@@ -210,17 +210,6 @@
         },
         {
             "titulo": "BMW Serie 3 316d Touring 85 kW (116 CV)",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-3-316d-touring-85-kw-116-cv-1043895466",
-            "descripcion": "",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "116 cv",
-            "año": "2017",
-            "kilómetros": "158824 km",
-            "precio": 14990.0
-        },
-        {
-            "titulo": "BMW Serie 3 316d Touring 85 kW (116 CV)",
             "enlace": "https://es.wallapop.com/item/bmw-serie-3-316d-touring-85-kw-116-cv-1016400472",
             "descripcion": "",
             "combustible": "Diésel",
@@ -233,6 +222,17 @@
         {
             "titulo": "BMW Serie 3 316d Touring 85 kW (116 CV)",
             "enlace": "https://es.wallapop.com/item/bmw-serie-3-316d-touring-85-kw-116-cv-1073938639",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "116 cv",
+            "año": "2017",
+            "kilómetros": "158824 km",
+            "precio": 14990.0
+        },
+        {
+            "titulo": "BMW Serie 3 316d Touring 85 kW (116 CV)",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-3-316d-touring-85-kw-116-cv-1043895466",
             "descripcion": "",
             "combustible": "Diésel",
             "cambio": "Automático",

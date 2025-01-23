@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 110,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=110&min_year=2000&max_year=2001&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=110&min_year=2000&max_year=2001&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -97,6 +97,17 @@
             "año": "2001",
             "kilómetros": "250250 km",
             "precio": 3500.0
+        },
+        {
+            "titulo": "Audi A3 2001",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2001-1092148454",
+            "descripcion": "Todo perfecto",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "110 cv",
+            "año": "2001",
+            "kilómetros": "29400 km",
+            "precio": 2800.0
         },
         {
             "titulo": "Audi A3 ",
@@ -209,17 +220,6 @@
             "precio": 2200.0
         },
         {
-            "titulo": "Audi A3 2000",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2000-1086467489",
-            "descripcion": "Se vende audi a3 1.9tdi del año 2000, con 265mil km reales, kit de distribución embrague y mantenimientos recien hechos, (dispongo de factura de los recambios) lo quito por cambio de coche, no mareantes no me corre prisa venderlo. Mejor ver y probar",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "110 cv",
-            "año": "2000",
-            "kilómetros": "265000 km",
-            "precio": 2000.0
-        },
-        {
             "titulo": "Audi A3 2001",
             "enlace": "https://es.wallapop.com/item/audi-a3-2001-1086460060",
             "descripcion": "se vende audi en buen estado kit s3 Pintura comida por el sol a falfa de itv motor cambiado No hay factura ya que lo cambie yo stage 1 SE ACEPTAN CAMBIOS ALGO NEGOCIABLE",
@@ -295,6 +295,17 @@
             "año": "2001",
             "kilómetros": "260000 km",
             "precio": 1999.0
+        },
+        {
+            "titulo": "Audi A3 2001",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2001-1092520594",
+            "descripcion": "KIT ENTERO ENBRAGUE PUESTO Y DISTRIBUCION HECHA ITV EN VIGOR MOTOR 1.9 TDI MOTOR DURISIMO ETERNO, EN BUEN ESTADO . INTERIORES EN PERFECTO ESTADO. NO NEGOCIABLE",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "100 cv",
+            "año": "2001",
+            "kilómetros": "235000 km",
+            "precio": 1950.0
         },
         {
             "titulo": "Audi A3 1.9 TDI 2000",
@@ -383,17 +394,6 @@
             "año": "2000",
             "kilómetros": "250000 km",
             "precio": 800.0
-        },
-        {
-            "titulo": "Audi A3 2001",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2001-969081862",
-            "descripcion": "se vende despiece de Audi A3",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "110 cv",
-            "año": "2001",
-            "kilómetros": "171000 km",
-            "precio": 100.0
         },
         {
             "titulo": "Audi A3 2001",

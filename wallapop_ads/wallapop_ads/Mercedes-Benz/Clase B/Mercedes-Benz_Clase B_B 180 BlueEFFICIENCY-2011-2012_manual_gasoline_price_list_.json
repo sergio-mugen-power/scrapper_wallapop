@@ -1,0 +1,69 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase B",
+        "version": "B 180 BlueEFFICIENCY",
+        "año mínimo": "2011",
+        "año máximo": "2012",
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 122,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=122&min_year=2011&max_year=2012&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Mercedes-Benz&model=Clase B&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase B 2012",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-b-2012-945013237",
+            "descripcion": "(MOTOR MERCEDES)precio negociable todos los extras ,acepto cambio o coche como parte de pago .PUEDE CIRCULAR POR CIUDAD TIENE ETIQUETA e ITV recién pasada",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "122 cv",
+            "año": "2012",
+            "kilómetros": "120000 km",
+            "precio": 12500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase B 2012",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-b-2012-1068007080",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "122 cv",
+            "año": "2012",
+            "kilómetros": "156000 km",
+            "precio": 11000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase B 2011",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-b-2011-1073301779",
+            "descripcion": "Mercedes clase B160 95CV. Muy buen estado tanto exterior como tapicería interior. 123.000 km, cadena distribución. Techo solar abatible. Motor de 4 cilindros. Ruedas al 80%. Gasolina etiqueta C medioambiental.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "95 cv",
+            "año": "2011",
+            "kilómetros": "123000 km",
+            "precio": 8490.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase B 2011",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-b-2011-1084171391",
+            "descripcion": "Van/Minibus Used vehicle Displacement: 1595 cm³ Number of doors: 4/5 doors Number of seats: 5 Emission class: Euro6 Environmental badge: -- Number of vehicle owners: -- Inspection until: 11/2026 Colour: Black Metallic Equipment ABS, Armrest, Hill start assistant, Bluetooth, On-board computer, CD player, ESP, Electric windows, Electric side mirrors, Isofix, Light sensor, Multifunctional steering wheel, Fatigue warning, Emergency brake assistant, Tyre pressure monitor, Power steering, Start/Stop automatic, Traction control, USB, Central locking",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "122 cv",
+            "año": "2011",
+            "kilómetros": "208741 km",
+            "precio": 4600.0
+        }
+    ]
+}

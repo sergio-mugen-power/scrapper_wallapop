@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 2",
         "version": "218i Gran Coupé Black Shadow Edition",
-        "año mínimo": 2019,
-        "año máximo": 2020,
+        "año mínimo": "2019",
+        "año máximo": "2020",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "manual",
         "tipos de motor": "gasoline",
-        "potencia máxima": 140,
+        "potencia máxima": "140",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=140&min_year=2019&max_year=2020&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=BMW&model=Serie 2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -42,28 +42,6 @@
             "año": "2020",
             "kilómetros": "99000 km",
             "precio": 26800.0
-        },
-        {
-            "titulo": "BMW Serie 2 1.5 136CV M sport",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-2-1-5-136cv-cabrio-m-sport-872962883",
-            "descripcion": "Acabado M sport. Disponible también en los colores Estoril blue, Melbourne rot, Mineralgrau. También en Península y Baleares. Este anuncio es meramente informativo, no es vinculante ni contractual. Consulta a nuestros comerciales. Más de 2000 coches en stock permanente, visítenos en ClickAutos. EQUIPAMIENTO: Dispositivo manos libres con interfaz USB Sistema de navegación Business Volante multifunción Ordenador de abordo Control de crucero con función de freno Climatizador Elevalunas eléctricos delanteros y traseros Retrovisores exteriores con ajuste eléctrico Reposabrazos delantero deslizable Reposacabezas traseros abatibles Suspensión deportiva Acabado M Sport Shadow Line individual Faros antiniebla de LED Faros de LED Sensor de lluvia, incluyendo accionamiento automático de las luces de cruce Funcíon Sport / Eco Pro Cambio automático Llamada de Emergencia Inteligente TeleServices Servicios ConnectedDrive Servicios Remotos Servotronic Neumáticos con funcionamiento en caso de avería Control de distancia de aparcamiento (trasero) Llantas de aleación de 17\", estilo 460 M Paquete de iluminación, que incluye: Luces de lectura traseras Espejo de cortesía iluminado del conductor del acompañante Luces de cortesía en el espacio para los pies Paquete aerodinámico M, que incluye: Alerón delantero en color carrocería Faldones laterales Faldón trasero incluyendo paragolpes Paquete de compartimentos, que incluye: Bolsillo en los respaldos de los asientos delanteros Toma de corriente 12 voltios (1) en la zona de carga Sujeción de carga con cintas elásticas Consola en el tablero con portaobjetos con tapa Sujetavasos fijos en los asientos delanteros Paquete deportivo M, que incluye: Moldura entrada M Reposapie para conductor Tubo de escape deportivo Elementos exteriores en color carrocería Asientos deportivos para conductor y acompañante con respaldo regulable en anchura eléctrica Guarnecido interior del techo BMW Individual antracita",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "136 cv",
-            "año": "2019",
-            "kilómetros": "75301 km",
-            "precio": 24700.0
-        },
-        {
-            "titulo": "BMW Serie 2 1.5 136CV M sport",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-2-1-5-136cv-cabrio-m-sport-887706237",
-            "descripcion": "Acabado M sport. Disponible también en los colores Estoril blue, Melbourne rot, Mineralgrau. También en Península y Baleares. Este anuncio es meramente informativo, no es vinculante ni contractual. Consulta a nuestros comerciales. Más de 2000 coches en stock permanente, visítenos en ClickAutos. EQUIPAMIENTO: Dispositivo manos libres con interfaz USB Sistema de navegación Business Volante multifunción Ordenador de abordo Control de crucero con función de freno Climatizador Elevalunas eléctricos delanteros y traseros Retrovisores exteriores con ajuste eléctrico Reposabrazos delantero deslizable Reposacabezas traseros abatibles Suspensión deportiva Acabado M Sport Shadow Line individual Faros antiniebla de LED Faros de LED Sensor de lluvia, incluyendo accionamiento automático de las luces de cruce Funcíon Sport / Eco Pro Cambio automático Llamada de Emergencia Inteligente TeleServices Servicios ConnectedDrive Servicios Remotos Servotronic Neumáticos con funcionamiento en caso de avería Control de distancia de aparcamiento (trasero) Llantas de aleación de 17\", estilo 460 M Paquete de iluminación, que incluye: Luces de lectura traseras Espejo de cortesía iluminado del conductor del acompañante Luces de cortesía en el espacio para los pies Paquete aerodinámico M, que incluye: Alerón delantero en color carrocería Faldones laterales Faldón trasero incluyendo paragolpes Paquete de compartimentos, que incluye: Bolsillo en los respaldos de los asientos delanteros Toma de corriente 12 voltios (1) en la zona de carga Sujeción de carga con cintas elásticas Consola en el tablero con portaobjetos con tapa Sujetavasos fijos en los asientos delanteros Paquete deportivo M, que incluye: Moldura entrada M Reposapie para conductor Tubo de escape deportivo Elementos exteriores en color carrocería Asientos deportivos para conductor y acompañante con respaldo regulable en anchura eléctrica Guarnecido interior del techo BMW Individual antracita",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "136 cv",
-            "año": "2019",
-            "kilómetros": "80087 km",
-            "precio": 24550.0
         },
         {
             "titulo": "BMW Serie 2 2020",

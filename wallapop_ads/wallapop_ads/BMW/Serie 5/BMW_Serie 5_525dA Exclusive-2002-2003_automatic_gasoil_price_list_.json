@@ -1,0 +1,91 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Serie 5",
+        "version": "525dA Exclusive",
+        "año mínimo": "2002",
+        "año máximo": "2003",
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": "163",
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=163&min_year=2002&max_year=2003&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW Serie 5 2003",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-2003-1077748763",
+            "descripcion": "Coche en perfecto estado de todo .Libro mantenimiento llantas M5 cuero GPS techo cambio automático recién revisado con facturas demostrables 3llaves etc....",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "163 cv",
+            "año": "2003",
+            "kilómetros": "277000 km",
+            "precio": 4700.0
+        },
+        {
+            "titulo": "BMW Serie 5 2002",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-2002-1090595217",
+            "descripcion": "vendo bmw en buen estado tal y como se ve en las fotos con las llantas de serie de 225.55 r16 por 3500 y con las bbs de delante 215.45r17 y las de atras 255.45r17 al precio que pone en el anuncio las, caja de cambio automatico, aire y caliente y frio va muy bien no falla nada, ruedas estan al 90% las de atras y las de delante recien cambiadas,los tubos de aire y el tubo del filtro de agua recien cambiado acepto cambios",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "163 cv",
+            "año": "2002",
+            "kilómetros": "227000 km",
+            "precio": 4300.0
+        },
+        {
+            "titulo": "BMW Serie 5 2003",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-2003-1083287079",
+            "descripcion": "El coche funciona perfectamente , ITV recien pasada, muy bien cuidado.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "163 cv",
+            "año": "2003",
+            "kilómetros": "280000 km",
+            "precio": 2300.0
+        },
+        {
+            "titulo": "BMW Serie 5 2003",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-2003-1083600834",
+            "descripcion": "Se vende completo para reparar o para piezas, documentado. Vehiculo totalmente de serie, sin modificaciones, incluso poseo la radio original. Avería posible de enfriador del aceite o junta culata mezcla anticongelante y aceite. El coche no circula está parado. Vienes formalizas documentación y te lo llevas en grúa. La transferencia será a cargo del comprador. Solo venta no cambios Visible en Pontevedra.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "163 cv",
+            "año": "2003",
+            "kilómetros": "245000 km",
+            "precio": 1800.0
+        },
+        {
+            "titulo": "BMW Serie 5 2003",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-2003-1041376528",
+            "descripcion": "Se vende BMW serie 5, 525d automático 163cv. Kilómetros totalmente demostrables. Actualmente tiene cosas por hacer (fuga anticongelante y ruido en patines de distribución). Se entrega con llantas de serie y la de las fotos. Interior vinilado en aluminio y radio Android. No tiene pegatina. Posibilidad de entregar otro motor 30d. Negociable. Acepto cambio",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "163 cv",
+            "año": "2003",
+            "kilómetros": "250000 km",
+            "precio": 1750.0
+        },
+        {
+            "titulo": "BMW Serie 5 2002",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-2002-1087854728",
+            "descripcion": "Se vende BMW E39 525D 163 CV 287.000 kilómetros. Hay ke ponerle la junta de valacine gotea un poco aceite solo está semana 1000 más 130Euros de trasferencia",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "163 cv",
+            "año": "2002",
+            "kilómetros": "287000 km",
+            "precio": 1000.0
+        }
+    ]
+}

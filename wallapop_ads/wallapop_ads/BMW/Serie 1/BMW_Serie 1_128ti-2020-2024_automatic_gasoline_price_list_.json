@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 1",
         "version": "128ti",
-        "año mínimo": 2020,
-        "año máximo": 2024,
+        "año mínimo": "2020",
+        "año máximo": "2024",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "automatic",
         "tipos de motor": "gasoline",
-        "potencia máxima": 265,
+        "potencia máxima": "265",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=265&min_year=2020&max_year=2024&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 1&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -365,7 +365,7 @@
         {
             "titulo": "BMW Serie 1 2021",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1-2021-1077290726",
-            "descripcion": "",
+            "descripcion": "Espectacular unidad!! cuidada al detalle y con un año de garantía!! ubicada en Madrid y con la posibilidad de entregar en toda España!! nuestro servicio de tramitación totalmente online con firma digital te permite comprar desde tu casa con la tranquilidad y el respaldo total de nuestra empresa. Disponemos de tienda física en Barcelona con taller. Ofrecemos un servicio de garantía de 1 año firmado y con una red de talleres en toda España. SOLICITA UN VIDEO PARA PODER APRECIAR TODOS LOS DETALLES!!! •Coche muy bien cuidado con un solo propietario •Todas las revisiones en concesionario oficial BMW •Coche bajo la garantía oficial de BMW hasta 100000KM •Las pastillas delanteras se cambiaron hace 6000 km y las traseras hace 1000km. •Motor 2.0L turbo gasolina de 265 CV •tracción delantera, con diferencial autoblocante Torsen •Transmisión automática, con levas al volante •Bajo consumo •Sistema de navegación profesional •Faros LED •Control de crucero adaptativo •Sensores de aparcamiento delanteros y traseros •Paquete Traveller •Techo panorámico de cristal •Cámara de marcha atrás •Asientos deportivos en alcántara con detalles rojos, exclusivos de este modelo. •Volante multifunción M, •Climatizador automático bizona •Apple CarPlay y Android Auto integrados •Paquete M Sport El anuncio se muestra a titulo informativo, puede contener errores. Cambio de titularidad a parte 190€",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "265 cv",

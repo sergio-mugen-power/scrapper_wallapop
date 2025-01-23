@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,9 +18,20 @@
         "potencia máxima": 116,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=116&min_year=2017&max_year=2017&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=116&min_year=2017&max_year=2017&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
+        {
+            "titulo": "Audi A3 2017",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2017-1092782459",
+            "descripcion": "coche en muy buen estado mantenimientos al dia pastillas nuevas las 4 ruedas nuevas muy bien cuidado precio al privado",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "115 cv",
+            "año": "2017",
+            "kilómetros": "170000 km",
+            "precio": 111111.0
+        },
         {
             "titulo": "Audi A3 2017",
             "enlace": "https://es.wallapop.com/item/audi-a3-2017-1077385919",
@@ -42,6 +53,17 @@
             "año": "2017",
             "kilómetros": "78000 km",
             "precio": 18950.0
+        },
+        {
+            "titulo": "Audi A3 2017",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2017-1092363654",
+            "descripcion": "Espectacular Audi A3 Sportback 1.6 TDI S Tronic del año 2017, en un estado muy optimo tanto interior como exterior!! NACIONAL!! 2 LLAVES!! PEGATINA MEDIOAMBIENTAL VERDE (C)!! Extras destacables: - Cambio Automático S Tronic - Pantalla multifunción - Control crucero - Sensores de aparcamiento traseros y delanteros - Retrovisores eléctricos - Volante multifunción - Climatizador - Bluetooth - Luces xenon - Sensor de lluvia - Y mucho mas... Posibilidad de financiar hasta el 100% Cambio de nombre + 250€ Se entrega con garantia de 12 meses Posibilidad de garantía plus Pide tu cita y ven a verlo Anuncio no vinculante puede contener errores",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "110 cv",
+            "año": "2017",
+            "kilómetros": "76000 km",
+            "precio": 17990.0
         },
         {
             "titulo": "Audi A3 SPORTBACK S-LINE",
@@ -284,17 +306,6 @@
             "año": "2017",
             "kilómetros": "114995 km",
             "precio": 14490.0
-        },
-        {
-            "titulo": "Audi A3 2017",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2017-1058705856",
-            "descripcion": "Audi A3 2017 1.6 110cv en perfecto estado. Cambio automático. 149000km Recién cambiada correa de distribucion, con factura.",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "110 cv",
-            "año": "2017",
-            "kilómetros": "149000 km",
-            "precio": 14000.0
         },
         {
             "titulo": "Audi A3 1.6 TDI S tronic Sportback",

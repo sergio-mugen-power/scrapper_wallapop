@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 1",
         "version": "M135i 5p Aut.",
-        "año mínimo": 2015,
-        "año máximo": 2016,
+        "año mínimo": "2015",
+        "año máximo": "2016",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "automatic",
         "tipos de motor": "gasoline",
-        "potencia máxima": 326,
+        "potencia máxima": "326",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=326&min_year=2015&max_year=2016&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 1&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -68,7 +68,7 @@
         {
             "titulo": "BMW 125i M Sport ",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1-2016-1079676234",
-            "descripcion": "BMW 125i Gasolina M Sport 2016 – ¡Impecable! Todos los mantenimientos en BMW Málaga! Nacional 8 velocidades Levas en el volante Pack M Volante deportivo M Performance Frenos M Pertormance Llantas Pack M 18 Chasis M suspensión adaptativa Dirección deportiva variable Control de distancia en aparcamiento Reglaje de asientos eléctrico Asientos M Faros de xenon Climatizador Sistema de navegación profesional Harman-kardon ITV recien pasada",
+            "descripcion": "BMW 125I PAQUETE M AUTOMATICO 145.000 KM 01/2016 HISTORIAL DE MANTENIMIENTO EN BMW",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "224 cv",
@@ -79,7 +79,7 @@
         {
             "titulo": "BMW Serie 1 2016",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1-2016-1070735819",
-            "descripcion": "BMW Serie 1 120i Vehículo automático, único propietario,177cv, con tan solo 65000km, muy bien cuidado. Equipamiento: cambio automático - volante multifunción - control de velocidad con limitador - velocidad de crucero-sensores de aparcamiento-pantalla central-acabado interior y exterior M-Asistente de aparcamiento-boton Start-stop- freno eléctrico-bloqueo elevalunas traseros-Llantas de aluminio M de 17\"-climatizador bizona - limpiaparabrisas automáticos - paquete de iluminación interior y exterior - modos de conduccion-navegación -sistema isofix- luz led inteligente –USB –bluetooth-retrovisores eléctricos y retractiles - limpiaparabrisas automático - luces automáticas - dirección asistida – cierre centralizado-elevalunas eléctrico -2 llaves. Precio al contado20990Precio financiado19500Financiación mínima 15000 Aceptamos vehículo como parte de pago. Financiación a medida. Se entrega totalmente revisado, con itv al día, y 12 meses de garantía. Para más información, estaremos encantados de atenderle en nuestras instalaciones en c/ ciutat de lliria, n º 61 en polígono industrial fuente del jarro, paterna. Este anuncio es de carácter informativo. Las especificaciones sobre equipamiento, modelo y precio no tienen carácter vinculante, ni puede constituir base de un futuro contrato ya que pueden contener algún error. Consulte con nuestros comerciales la información detallada de este vehículo.",
+            "descripcion": "",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "177 cv",

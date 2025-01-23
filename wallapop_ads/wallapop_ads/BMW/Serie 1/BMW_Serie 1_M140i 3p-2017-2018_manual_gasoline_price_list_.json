@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 1",
         "version": "M140i 3p",
-        "año mínimo": 2017,
-        "año máximo": 2018,
+        "año mínimo": "2017",
+        "año máximo": "2018",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "manual",
         "tipos de motor": "gasoline",
-        "potencia máxima": 340,
+        "potencia máxima": "340",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=340&min_year=2017&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=BMW&model=Serie 1&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -176,17 +176,6 @@
             "precio": 19490.0
         },
         {
-            "titulo": "BMW Serie 1 2018",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2018-1072812164",
-            "descripcion": "BMW serie 1, coche mui bien cuidado, itv y revisión recién pasadas, volante multifunción, asientos de cuero calefactables, GPS navegador, ordenador a bordo, sensores de aparcamiento y de lluvia, luces automáticas led y xenón, control de crucero, modos de conducción eco, confort y sport, coche mui equipado y con muchos extras... más informacion por privado!",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "136 cv",
-            "año": "2018",
-            "kilómetros": "77000 km",
-            "precio": 18900.0
-        },
-        {
             "titulo": "BMW Serie 1 M sport Shadow edition ",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1-2018-1056431776",
             "descripcion": "",
@@ -206,6 +195,17 @@
             "potencia": "136 cv",
             "año": "2018",
             "kilómetros": "98700 km",
+            "precio": 18500.0
+        },
+        {
+            "titulo": "BMW Serie 1 2018",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2018-1072812164",
+            "descripcion": "BMW serie 1, coche mui bien cuidado, itv y revisión recién pasadas, volante multifunción, asientos de cuero calefactables, GPS navegador, ordenador a bordo, sensores de aparcamiento y de lluvia, luces automáticas led y xenón, control de crucero, modos de conducción eco, confort y sport, coche mui equipado y con muchos extras... más informacion por privado!",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "136 cv",
+            "año": "2018",
+            "kilómetros": "77000 km",
             "precio": 18500.0
         },
         {

@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "i4",
         "version": "i4 M50 Gran Coupé",
-        "año mínimo": 2021,
-        "año máximo": 2024,
+        "año mínimo": "2021",
+        "año máximo": "2024",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "automatic",
         "tipos de motor": "electric-hybrid",
-        "potencia máxima": 544,
+        "potencia máxima": "544",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=electric-hybrid&min_horse_power=1&max_horse_power=544&min_year=2021&max_year=2024&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=i4&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -77,17 +77,6 @@
             "precio": 55950.0
         },
         {
-            "titulo": "BMW i4 m50 544cv",
-            "enlace": "https://es.wallapop.com/item/bmw-i4-2022-1089694541",
-            "descripcion": "",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "544 cv",
-            "año": "2022",
-            "kilómetros": "55000 km",
-            "precio": 55000.0
-        },
-        {
             "titulo": "BMW i4 eDrive40 250 kW (340 CV)",
             "enlace": "https://es.wallapop.com/item/bmw-i4-edrive40-250-kw-340-cv-1071680015",
             "descripcion": "",
@@ -99,9 +88,20 @@
             "precio": 54490.0
         },
         {
+            "titulo": "BMW i4 m50 544cv",
+            "enlace": "https://es.wallapop.com/item/bmw-i4-2022-1089694541",
+            "descripcion": "",
+            "combustible": "Eléctrico",
+            "cambio": "Automático",
+            "potencia": "544 cv",
+            "año": "2022",
+            "kilómetros": "52000 km",
+            "precio": 52000.0
+        },
+        {
             "titulo": "BMW i4 eDrive40",
             "enlace": "https://es.wallapop.com/item/bmw-i4-edrive40-1013012013",
-            "descripcion": "VEHICULO EN PERFECTO ESTADO Y CON UN GRAN EQUIPAMIENTO.GARANTIA OFICIAL BMW HASTA DICIEMBRE DE 2025",
+            "descripcion": "",
             "combustible": "Eléctrico",
             "cambio": "Automático",
             "potencia": "340 cv",

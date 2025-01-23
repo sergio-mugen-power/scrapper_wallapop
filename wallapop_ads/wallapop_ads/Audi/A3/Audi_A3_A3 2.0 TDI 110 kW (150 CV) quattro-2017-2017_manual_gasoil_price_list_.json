@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 150,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=150&min_year=2017&max_year=2017&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=150&min_year=2017&max_year=2017&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -275,17 +275,6 @@
             "precio": 18990.0
         },
         {
-            "titulo": "AUDI A3 CABRIO SLINE EDITION 1.6 TDI 110CV",
-            "enlace": "https://es.wallapop.com/item/audi-a3-cabrio-sline-edition-1-6-tdi-110cv-1082763450",
-            "descripcion": "AUDI A3 CABRIO SLINE EDITION 1.6 TDI 110CV Vehículo nacional único propietario Certificación de kilómetros y no siniestralidad Etiqueta ambiental C (Verde) Historial de mantenimiento Equipado: Asientos deportivos de cuero parcial Isofix Capota automática insonorizada de tela negra Volante multifunción de cuero GPS navegación Integración Smartphone Audi Connect Control crucero adaptativo Pantalla alta resolución Entradas AUX USB SIM Cargador CD MP3 DVD Wifi Bluetooth Faros bixenón adaptativo con LED diurna Sensores aparcamiento del. y tras. Llantas multirradio 17 pulgadas Audi Pre-Sense Control por voz Start/stop Lunas privacidad insonorizantes Sensor lluvia y luces Asistente conducción Seguridad pre-colisión y peatones Aviso distancia seguridad Alerta cansancio 18.990€ SUJETO A FINANCIACIÓN PRECIO AL CONTADO 19.990€ Hasta 5 años de garantía. Financiación a su medida. Totalmente revisado por mecánicos profesionales. Recogemos su vehículo como parte de pago. Se entrega con seguro en vigor. We speak english. Nous parlons français. La información de este anuncio se muestra a título informativo y no contractual. Contacte con nosotros para cualquier consulta acerca del vehículo. MOTOR CLUB SEVILLA, empresa líder del sector en Andalucía.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "116 cv",
-            "año": "2017",
-            "kilómetros": "155000 km",
-            "precio": 18990.0
-        },
-        {
             "titulo": "Audi A3 2.0 TDI Sportback",
             "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tdi-sportback-1090598097",
             "descripcion": "Precio al contado: 21.890€ (IVA incluido) *** Precio alternativo oferta de financiacion: 18.990€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Reus, Passeig de Sunyer, 38, 43202 Reus, Tarragona. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilanova...",
@@ -294,6 +283,17 @@
             "potencia": "150 cv",
             "año": "2017",
             "kilómetros": "146019 km",
+            "precio": 18990.0
+        },
+        {
+            "titulo": "AUDI A3 CABRIO SLINE EDITION 1.6 TDI 110CV",
+            "enlace": "https://es.wallapop.com/item/audi-a3-cabrio-sline-edition-1-6-tdi-110cv-1082763450",
+            "descripcion": "AUDI A3 CABRIO SLINE EDITION 1.6 TDI 110CV Vehículo nacional único propietario Certificación de kilómetros y no siniestralidad Etiqueta ambiental C (Verde) Historial de mantenimiento Equipado: Asientos deportivos de cuero parcial Isofix Capota automática insonorizada de tela negra Volante multifunción de cuero GPS navegación Integración Smartphone Audi Connect Control crucero adaptativo Pantalla alta resolución Entradas AUX USB SIM Cargador CD MP3 DVD Wifi Bluetooth Faros bixenón adaptativo con LED diurna Sensores aparcamiento del. y tras. Llantas multirradio 17 pulgadas Audi Pre-Sense Control por voz Start/stop Lunas privacidad insonorizantes Sensor lluvia y luces Asistente conducción Seguridad pre-colisión y peatones Aviso distancia seguridad Alerta cansancio 18.990€ SUJETO A FINANCIACIÓN PRECIO AL CONTADO 19.990€ Hasta 5 años de garantía. Financiación a su medida. Totalmente revisado por mecánicos profesionales. Recogemos su vehículo como parte de pago. Se entrega con seguro en vigor. We speak english. Nous parlons français. La información de este anuncio se muestra a título informativo y no contractual. Contacte con nosotros para cualquier consulta acerca del vehículo. MOTOR CLUB SEVILLA, empresa líder del sector en Andalucía.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "116 cv",
+            "año": "2017",
+            "kilómetros": "155000 km",
             "precio": 18990.0
         },
         {
@@ -418,17 +418,6 @@
             "precio": 18000.0
         },
         {
-            "titulo": "Audi A3 Sportback 2017",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tdi-150-2017-1055436961",
-            "descripcion": "Audi A3 2.0tdi 150cv Sportback Pack Sport cambio manual Etiqueta C con un consumo de 4 litros en carretera y con el siguiente equipamiento: faros xenon, faros antiniebla, start-stop, sensores de luz y lluvia, control de velocidad, volante multifunción, navegador, modos de conducción ,sensor de parking trasero, espejos eléctricos calefactados y fotocromáticos (interior y exteriores), ISOFIX, libro de mantenimiento siempre Audi. Último mantenimiento con 88.090km. etc ... Único propietario. Precio final transferido con 12 meses de garantía.No cambios.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "150 cv",
-            "año": "2017",
-            "kilómetros": "89000 km",
-            "precio": 18000.0
-        },
-        {
             "titulo": "Audi A3 2017",
             "enlace": "https://es.wallapop.com/item/audi-a3-sportback-2017-1064214158",
             "descripcion": "Audi A3 Sportback 2017 150 cv -Paquete S Line -Intermitentes traseros dinámicos -Asientos deportivos calefactables con ajuste lumbar eléctrico -Climatizador bizona -Anclajes Isofix -Virtual cockpit -Apple carplay / Android auto -Itv hasta 01/26 -Neumáticos cambiados recientemente (Bridgestone Turanza) -Sensor de aparcamiento 360° -Volante deportivo S Line Multifunción -Llantas deportivas 19” -Motor diesel -5 puertas -Cambio manual 6 velocidades",
@@ -484,6 +473,17 @@
             "precio": 17500.0
         },
         {
+            "titulo": "Audi A3 Sportback 2017",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tdi-150-2017-1055436961",
+            "descripcion": "Audi A3 2.0tdi 150cv Sportback Pack Sport de 2017 cambio manual Etiqueta C con un consumo de 4 litros en carretera y con el siguiente equipamiento: faros xenon, faros antiniebla, start-stop, sensores de luz y lluvia, control de velocidad, volante multifunción, navegador, modos de conducción ,sensor de parking trasero, espejos eléctricos calefactados y fotocromáticos (interior y exteriores), ISOFIX, libro de mantenimiento siempre Audi. Último mantenimiento con 88.090km. etc ... Único propietario. Precio final transferido con 12 meses de garantía.No cambios.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "89000 km",
+            "precio": 17500.0
+        },
+        {
             "titulo": "Audi A3 2017",
             "enlace": "https://es.wallapop.com/item/audi-a3-2017-962552549",
             "descripcion": "Todas las revisiones en audi. Consume muy poco y muy cómodo, mejor ver y probar, se puede pedir prueba de taller o lo que haga falta el coche esta nuevo.",
@@ -515,17 +515,6 @@
             "año": "2017",
             "kilómetros": "85500 km",
             "precio": 17490.0
-        },
-        {
-            "titulo": "Audi A3 S LINE 2.0 TDI 2017",
-            "enlace": "https://es.wallapop.com/item/audi-a3-s-line-2-0-tdi-2017-1091929302",
-            "descripcion": "AUDI A3 S LINE 2.0 TDI 2017 Motor 2.0 turbo diésel de 150CV. Transmisión manual de 6 velocidades. Consumo medio de 5.0L/ 100km. 86.000km. Etiqueta medioambiental (C). Llantas de aleación S LINE de 16\". Faros de xenón. Faros antiniebla. Barras de carga en techo. Butacas deportivas con tela y alcántara. Maletero de 380 litros con iluminación. Drive Select (Diferentes modos de conducción). Mandos multifunción en volante. Radio multimedia con conexión Bluetooth y USB. Ordenador de a bordo (FIS) en color. Navegador GPS integrado. Control de velocidad crucero. Aire acondicionado. Climatizador de confort plus (dos zonas). Sensores de aparcamiento. Asistencia a la frenada (Brake Assist). Airbag de rodilla para conductor. Airbag frontal conductor y pasajero. Airbags de cabeza delanteros y traseros. Airbags laterales delanteros. Control de tracción. Antibloqueo de frenos (ABS). Detector de fatiga. Control de estabilidad. Anclajes ISOFIX y Top Tether en asientos traseros exteriores. FACILIDADES DE FINANCIACIÓN. ENTREGA INMEDIATA. HASTA UN 100% DE FINANCIACIÓN. GARANTÍA DE 12 MESES. SPU CARS BCN Transparencia, fiabilidad y cercanía, son algunos de los conceptos que nos representan como empresa y con ellos nos avalan más de X años en el sector. Gracias a nuestro recorrido operando en Argentina y España, podemos decir que contamos con una amplia experiencia a la hora de ofrecer un servicio óptimo. Además, en nuestro taller, podrás aprovechar todas las ventajas, ya que tenemos el privilegio de ser Servicio Oficial Ford (Talleres G. Blanquez). Todos nuestros vehículos son revisados exhaustivamente por nuestro equipo de mecánicos. Podrás encontrar nuestro local en Av. del Vallès, 149, Terrassa, Barcelona. Este anuncio se muestra a título informativo, no es vinculante y puede contener errores.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "150 cv",
-            "año": "2017",
-            "kilómetros": "68000 km",
-            "precio": 17200.0
         },
         {
             "titulo": "Audi A3 2017",
@@ -563,7 +552,7 @@
         {
             "titulo": "Audi A3 2017",
             "enlace": "https://es.wallapop.com/item/audi-a3-2017-1056397053",
-            "descripcion": "Audi A3 sedan año 2017 Diesel motor 1.6L 116cv consume muy poco Cambio Manual 6 velocidades Coche nacional Unico propietario Siempre aparca en garaje Color rojo 107500km Mantenimiento recién hecho bateria recien cambiada 15/10/24 Dos llaves faros de xenon Llanta de aleación Techo eléctrico con persiana Volante deportivo climatización Esta en perfecto estado, solo alguno rasguño pequeño, puedes ver y probar sin compromiso",
+            "descripcion": "Audi A3 sedan año 2017 Diesel motor 1.6L 116cv consume muy poco Cambio Manual 6 velocidades Coche nacional dueña única Siempre aparca en garaje Color rojo 107500km Mantenimiento recién hecho bateria recien cambiada Dos llaves faros de xenon Llanta de aleación Techo eléctrico con persiana Volante deportivo climatización Esta en perfecto estado, puedes ver y probar sin compromiso",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "110 cv",
@@ -583,17 +572,6 @@
             "precio": 16850.0
         },
         {
-            "titulo": "Audi A3",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2017-1038195402",
-            "descripcion": "¡Oportunidad única! Vendo Audi A3 SEDAN 1.6 TDI Sport Edition ¡No te pierdas esta increíble oferta! Este Audi A3 es un vehículo nacional, siempre ha estado en garaje y está en perfecto estado. Detalles del vehículo: - ITV válida hasta: Mayo 2026 - Matriculado julio 2017 - Kilometraje: 140,000 km reales - Transmisión: Manual de 6 velocidades - Consumo: Bajo, solo 4.9 L/100 km - Condición: ¡Nunca ha sido inundado por la DANA! Características y extras: - Pantalla frontal - Sistema Start-Stop - Sensor parquin delantero y trasero - Navegador Audi - Luces LED - Volante multifunción - Llantas deportivas - Espejos eléctricos calefactables - Cierre centralizado con mando - Ordenador a bordo - Control de velocidad - Climatizador bizona - Sensores de lluvia y luces - Sistema ISOFIX - Conectividad Bluetooth y audio - Asientos deportivos - Techo interior negro - Rueda de repuesto Mantenimiento: - Revisión de aceite y filtros recién realizada (factura disponible con kilometraje) - Ruedas delanteras con solo 15,000 km y traseras con 30,000 km Incluye: 2 llaves Este Audi A3 es ideal para quienes buscan un coche elegante, eficiente y bien cuidado. ¡Contáctame para más información o para concertar una visita y prueba de conducción!",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "116 cv",
-            "año": "2017",
-            "kilómetros": "140000 km",
-            "precio": 16500.0
-        },
-        {
             "titulo": "Audi A3 2017",
             "enlace": "https://es.wallapop.com/item/audi-a3-2017-1049282343",
             "descripcion": "",
@@ -605,26 +583,15 @@
             "precio": 16500.0
         },
         {
-            "titulo": "Audi A3 2017",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2017-913612523",
-            "descripcion": "Negociable",
+            "titulo": "Audi A3",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2017-1038195402",
+            "descripcion": "¡Oportunidad única! Vendo Audi A3 SEDAN 1.6 TDI Sport Edition ¡No te pierdas esta increíble oferta! Este Audi A3 es un vehículo nacional, siempre ha estado en garaje y está en perfecto estado. Detalles del vehículo: - ITV válida hasta: Mayo 2026 - Matriculado julio 2017 - Kilometraje: 140,000 km reales - Transmisión: Manual de 6 velocidades - Consumo: Bajo, solo 4.9 L/100 km - Condición: ¡Nunca ha sido inundado por la DANA! Características y extras: - Pantalla frontal - Sistema Start-Stop - Sensor parquin delantero y trasero - Navegador Audi - Luces LED - Volante multifunción - Llantas deportivas - Espejos eléctricos calefactables - Cierre centralizado con mando - Ordenador a bordo - Control de velocidad - Climatizador bizona - Sensores de lluvia y luces - Sistema ISOFIX - Conectividad Bluetooth y audio - Asientos deportivos - Techo interior negro - Rueda de repuesto Mantenimiento: - Revisión de aceite y filtros recién realizada (factura disponible con kilometraje) - Ruedas delanteras con solo 15,000 km y traseras con 30,000 km Incluye: 2 llaves Este Audi A3 es ideal para quienes buscan un coche elegante, eficiente y bien cuidado. ¡Contáctame para más información o para concertar una visita y prueba de conducción!",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "116 cv",
             "año": "2017",
-            "kilómetros": "150000 km",
-            "precio": 16500.0
-        },
-        {
-            "titulo": "Audi A3 2017",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2017-1090725757",
-            "descripcion": "",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "110 cv",
-            "año": "2017",
-            "kilómetros": "180010 km",
-            "precio": 16250.0
+            "kilómetros": "140000 km",
+            "precio": 16499.0
         },
         {
             "titulo": "Audi A3 2017 Sportback",
@@ -635,17 +602,6 @@
             "potencia": "110 cv",
             "año": "2017",
             "kilómetros": "119000 km",
-            "precio": 16000.0
-        },
-        {
-            "titulo": "Audi A3 2017",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tdi-1055681895",
-            "descripcion": "Vendo Audi A3 del año 2017 con motor 2.0 TDI en muy buen estado. ITV EN VIGOR HASTA NOVIEMBRE DE 2026. Este coche ha sido cuidado meticulosamente y siempre ha dormido en garaje. Cuenta con un completo equipamiento que incluye: - Virtual Cockpit con GPS -Sensores de Aparcamiento Delanteros y Traseros. -Revisiones y Mantenimiento al Día -Dos Llaves PRECIO NEGOCIABLE. ATIENDO MAS EN WHATSAPP",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "150 cv",
-            "año": "2017",
-            "kilómetros": "176000 km",
             "precio": 16000.0
         },
         {
@@ -662,7 +618,7 @@
         {
             "titulo": "Audi A3 2017 2.0tdi 150cv Sport Edition",
             "enlace": "https://es.wallapop.com/item/audi-a3-20172-0tdi-150cv-1033915755",
-            "descripcion": "ESPECTACULAR AUDI A3 SPORTBACK 2.0TDI 150CV, ITV EN VIGOR HASTA MAYO DE 2025, HISTORIAL DE MANTENIMIENTO, ACEITE Y FILTROS CAMBIADOS, CORREA DE DISTRIBUCION CAMBIADA con 180.000km, faros xenon plus, navegador con pantalla multimedia, tempomat, sensor de luces , sensor de lluvia, sensor de parking, bluetooth, appel car play, climatizador bizona, espejos electricos y plegables, cuatro elevalunas electricos, freno de mano electrico, entrada usb, cierre centralizado, direcion asistida, volante achatado deportivo, asientos deportivos, tren de rodaje deportivo.....SE PUEDEN MANDAR MAS FOTOS PORM WASA.",
+            "descripcion": "ESPECTACULAR AUDI A3 SPORTBACK 2.0TDI 150CV, HISTORIAL DE MANTENIMIENTO, ACEITE Y FILTROS CAMBIADOS, CORREA DE DISTRIBUCION CAMBIADA con 180.000km, faros xenon plus, navegador con pantalla multimedia, tempomat, sensor de luces , sensor de lluvia, sensor de parking, bluetooth, appel car play, climatizador bizona, espejos electricos y plegables, cuatro elevalunas electricos, freno de mano electrico, entrada usb, cierre centralizado, direcion asistida, volante achatado deportivo, asientos deportivos, tren de rodaje deportivo.....SE PUEDEN MANDAR MAS FOTOS POR WASA.",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "150 cv",
@@ -693,15 +649,15 @@
             "precio": 15900.0
         },
         {
-            "titulo": "Audi A3 S line edition ",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2017-1090037161",
-            "descripcion": "Se vende Audi A3 sline 1.6 116cv siempre en parquing interior y exterior perfecto estado nunca se a fumado un coche muy mimado . Acabados interior y exterior sline.",
+            "titulo": "Audi A3 2017",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2017-1090725757",
+            "descripcion": "",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "110 cv",
             "año": "2017",
-            "kilómetros": "185000 km",
-            "precio": 15850.0
+            "kilómetros": "180010 km",
+            "precio": 15750.0
         },
         {
             "titulo": "Audi A3 sportback 2017",
@@ -1002,14 +958,14 @@
         },
         {
             "titulo": "Audi A3 2017",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2017-1023339453",
-            "descripcion": "ABSTENERSE OFERTAS ABSURDAS",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2017-1067140038",
+            "descripcion": "Coche impecable de todo navegador sensores de aparcamiento control de velocidad asientos semicuero modelo sport 2 llaves Acepto coche como forma de pago",
             "combustible": "Diésel",
             "cambio": "Manual",
-            "potencia": "116 cv",
+            "potencia": "110 cv",
             "año": "2017",
-            "kilómetros": "200000 km",
-            "precio": 12999.0
+            "kilómetros": "187000 km",
+            "precio": 12900.0
         },
         {
             "titulo": "AUDI A3 SPORTBACK 1.6 TDI 116cv",
@@ -1078,17 +1034,6 @@
             "precio": 11800.0
         },
         {
-            "titulo": "A3 2017 11500e no negociable",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2017-1067140038",
-            "descripcion": "Coche impecable de todo navegador sensores de aparcamiento control de velocidad asientos semicuero modelo sport 2 llaves Acepto coche como forma de pago",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "116 cv",
-            "año": "2017",
-            "kilómetros": "187000 km",
-            "precio": 11500.0
-        },
-        {
             "titulo": "Audi A3 1.6 TDI 85kW (116CV) Sportback",
             "enlace": "https://es.wallapop.com/item/audi-a3-1-6-tdi-85kw-116cv-sportback-1081662080",
             "descripcion": "Precio al contado: 13.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 11.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Palma de Mallorca 1, Gran Via Asima, 20, 07009 Palma, Illes Balears. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecan...",
@@ -1100,15 +1045,15 @@
             "precio": 11490.0
         },
         {
-            "titulo": "Audi A3 2017",
+            "titulo": "Audi A3 2017 644046036",
             "enlace": "https://es.wallapop.com/item/audi-a3-2017-1087155419",
-            "descripcion": "carplay, navegadir europa, xenon, sportback, no negociable, el coche esta impecable o cambio por buggy o quad",
+            "descripcion": "",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "110 cv",
             "año": "2017",
             "kilómetros": "240000 km",
-            "precio": 10800.0
+            "precio": 10000.0
         },
         {
             "titulo": "Audi A3 2017",

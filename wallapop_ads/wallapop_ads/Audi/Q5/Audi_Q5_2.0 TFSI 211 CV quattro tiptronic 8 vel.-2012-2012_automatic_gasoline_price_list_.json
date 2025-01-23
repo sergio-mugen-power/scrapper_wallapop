@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "Q5",
+        "version": "2.0 TFSI 211 CV quattro tiptronic 8 vel.",
+        "año mínimo": 2012,
+        "año máximo": 2012,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 211,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=211&min_year=2012&max_year=2012&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=Q5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi Q5 2012",
+            "enlace": "https://es.wallapop.com/item/audi-q5-2012-966973746",
+            "descripcion": "Mira en cualquier momento conveniente para ti! Maravilloso coche En excelentes condiciones. Totalmente equipado. Audi Q5 en Castelldefels",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "211 cv",
+            "año": "2012",
+            "kilómetros": "72500 km",
+            "precio": 22900.0
+        },
+        {
+            "titulo": "Audi Q5 2012",
+            "enlace": "https://es.wallapop.com/item/audi-q5-2012-1035727283",
+            "descripcion": "se vende audi Q5 2.0 TFSI QUATTRO TIPTRONIC en muy buen estado. 188000 km.. cualquier prueba mecanica.precio tratable y se valoran cabios con coches mas pequenos . preguntar por info",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "211 cv",
+            "año": "2012",
+            "kilómetros": "188000 km",
+            "precio": 14000.0
+        }
+    ]
+}

@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,9 +18,20 @@
         "potencia máxima": 150,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=150&min_year=2017&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=150&min_year=2017&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
+        {
+            "titulo": "Audi A3 2017",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2017-1092782459",
+            "descripcion": "coche en muy buen estado mantenimientos al dia pastillas nuevas las 4 ruedas nuevas muy bien cuidado precio al privado",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "115 cv",
+            "año": "2017",
+            "kilómetros": "170000 km",
+            "precio": 111111.0
+        },
         {
             "titulo": "Audi A3 S line edition 2.0 TDI S tronic Cabrio",
             "enlace": "https://es.wallapop.com/item/audi-a3-s-line-edition-2-0-tdi-s-tronic-cabrio-1089020614",
@@ -99,17 +110,6 @@
             "precio": 24800.0
         },
         {
-            "titulo": "Audi A3 Sportback Sline",
-            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-sline-1082055924",
-            "descripcion": "Todos los extras, revisiones todas en casa audi. Vehiculo nacional.",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "150 cv",
-            "año": "2017",
-            "kilómetros": "107500 km",
-            "precio": 22900.0
-        },
-        {
             "titulo": "Audi A3 2018",
             "enlace": "https://es.wallapop.com/item/audi-a3-2018-1090402855",
             "descripcion": "Audi A3 sedane muy bien cuidado Mas información privado",
@@ -118,6 +118,17 @@
             "potencia": "150 cv",
             "año": "2018",
             "kilómetros": "135000 km",
+            "precio": 22500.0
+        },
+        {
+            "titulo": "Audi A3 Sportback Sline",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-sline-1082055924",
+            "descripcion": "Todos los extras, revisiones todas en casa audi. Vehiculo nacional.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "110000 km",
             "precio": 22500.0
         },
         {
@@ -220,17 +231,6 @@
             "precio": 20500.0
         },
         {
-            "titulo": "Audi A3 2018",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2018-980141951",
-            "descripcion": "Pack S-line completo, interior y exterior. Luces full led audi S3. Llanta 18” Cambio dsg s-tronic, volante deportivo multifuncion. Pack de navegación completo y audi car plus (apple y android). Bluetooth, sensores de aparcamiento, control de velocidad. Intermitentes dinámicos. Neumáticos Michelin 4 ruedas, y frenos 4 ruedas nuevos, revisión y cambio aceite + filtros hecho el 13 de Enero 2024. Todo en audi oficial Coche en perfectas condiciones de chapa y pintura, motor, interior, cambio etc. Muy cuidado, muy bonito. IMPORTANTE:Abstenerse gestores de venta. El coche esta en venta para particular o profesional, NO acepto gestores de venta",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "116 cv",
-            "año": "2018",
-            "kilómetros": "130000 km",
-            "precio": 20500.0
-        },
-        {
             "titulo": "Audi A3 design edition 1.6 TDI S tronic Sportb ",
             "enlace": "https://es.wallapop.com/item/audi-a3-design-edition-1-6-tdi-s-tronic-sportb-1090182271",
             "descripcion": "",
@@ -288,7 +288,7 @@
         {
             "titulo": "Audi A3 2018 S TRONIC",
             "enlace": "https://es.wallapop.com/item/audi-a3-2018-s-tronic-1087877655",
-            "descripcion": "",
+            "descripcion": "¡¡¡¡ PROXIMAMENTE¡¡¡¡ TAMBIEN OPERAMOS TAMBIEN 100% ONLINE, VIA TELÉFONO, WHATSAPP O EMAIL. TRANSPORTAMOS A TODA LA PENINSULA. MATRICULADO EL 10/18 Certificado de Km y de no accidentes. GESTIONAMOS LA FIANACIACIÓN EN MENOS DE 24H!!!!! El precio indicado incluye UN AÑO DE GARANTIA 100% MECANICA Y ELECTRONICA sin limite de Km. CARACTERISTICAS: 5 PLAZAS HISTORIAL DE MANTENIMIENTO VIRTUAL COCKPIT NAVEGADOR TECHO PANORAMICO SENSOR PRECOLISION SENSORES DE APARCAMIENTO SENSOR DE LUCES SENSOR DE LLUVIA CONTROL DE CRUCERO RETROVISORES ELECTRICOS LUCES DE LED STAR&STOP BLUETOOTH MANOS LIBRES LLANTAS DE ALEACIÓN CLIMATIZADOR CONTROL DE TRACCIÓN ABS,ESP CONTROL DE CRUCERO INFORMACIÓN AL CONSUMIDOR: Te ahorras HASTA UN 8% que deberías pagar a hacienda si comprases a un particular en impuesto de transmisiones. Si eres empresa te puedes desgravar el IVA Este anuncio no es vinculante",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "116 cv",
@@ -364,7 +364,7 @@
         },
         {
             "titulo": "Audi A3 2.0 TDI 110kW (150CV) S tronic Sportback",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tdi-110kw-150cv-s-tronic-sportback-1090506233",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tdi-110kw-150cv-s-tronic-sportback-1090396330",
             "descripcion": "Precio al contado: 20.890€ (IVA incluido) *** Precio alternativo oferta de financiacion: 18.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Coslada, Av. del Jarama 15, 28823, Coslada, Madrid. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilanova...",
             "combustible": "Diésel",
             "cambio": "Automático",
@@ -375,7 +375,7 @@
         },
         {
             "titulo": "Audi A3 2.0 TDI 110kW (150CV) S tronic Sportback",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tdi-110kw-150cv-s-tronic-sportback-1090396330",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tdi-110kw-150cv-s-tronic-sportback-1090506233",
             "descripcion": "Precio al contado: 20.890€ (IVA incluido) *** Precio alternativo oferta de financiacion: 18.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Coslada, Av. del Jarama 15, 28823, Coslada, Madrid. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilanova...",
             "combustible": "Diésel",
             "cambio": "Automático",
@@ -437,6 +437,17 @@
             "potencia": "116 cv",
             "año": "2018",
             "kilómetros": "89742 km",
+            "precio": 17990.0
+        },
+        {
+            "titulo": "Audi A3 2017",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2017-1092363654",
+            "descripcion": "Espectacular Audi A3 Sportback 1.6 TDI S Tronic del año 2017, en un estado muy optimo tanto interior como exterior!! NACIONAL!! 2 LLAVES!! PEGATINA MEDIOAMBIENTAL VERDE (C)!! Extras destacables: - Cambio Automático S Tronic - Pantalla multifunción - Control crucero - Sensores de aparcamiento traseros y delanteros - Retrovisores eléctricos - Volante multifunción - Climatizador - Bluetooth - Luces xenon - Sensor de lluvia - Y mucho mas... Posibilidad de financiar hasta el 100% Cambio de nombre + 250€ Se entrega con garantia de 12 meses Posibilidad de garantía plus Pide tu cita y ven a verlo Anuncio no vinculante puede contener errores",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "110 cv",
+            "año": "2017",
+            "kilómetros": "76000 km",
             "precio": 17990.0
         },
         {
@@ -803,17 +814,6 @@
             "precio": 16000.0
         },
         {
-            "titulo": "Audi A3 2018",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2018-1041128782",
-            "descripcion": "muy buen estado, navegador,sensores de aparcamiento, control de velocidad,mantenimiento recién echo, más información 660983452, verónica.",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "116 cv",
-            "año": "2018",
-            "kilómetros": "119000 km",
-            "precio": 16000.0
-        },
-        {
             "titulo": "Audi A3 2017",
             "enlace": "https://es.wallapop.com/item/audi-a3-2017-1085714916",
             "descripcion": "AUDI A3 116cv de ultimos dias de diciembfe del 2016 - Nacional con dos propietarios - Revisiones al dia demostrable con facturas - Ruedas delanteras recien puestas - Cambio de nombre por 130€ Ultimo precio, me entregan q5 semana que viene y lo entregare en la casa audi, bmw, mercedes, mazda, porsche, mini cooper",
@@ -833,6 +833,17 @@
             "potencia": "150 cv",
             "año": "2017",
             "kilómetros": "220000 km",
+            "precio": 15900.0
+        },
+        {
+            "titulo": "Audi A3 2018",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2018-1041128782",
+            "descripcion": "muy buen estado, navegador,sensores de aparcamiento, control de velocidad,mantenimiento recién echo, más información 660983452, verónica.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "116 cv",
+            "año": "2018",
+            "kilómetros": "119000 km",
             "precio": 15900.0
         },
         {
@@ -1034,17 +1045,6 @@
             "precio": 14490.0
         },
         {
-            "titulo": "Audi A3 2017",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2017-1058705856",
-            "descripcion": "Audi A3 2017 1.6 110cv en perfecto estado. Cambio automático. 149000km Recién cambiada correa de distribucion, con factura.",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "110 cv",
-            "año": "2017",
-            "kilómetros": "149000 km",
-            "precio": 14000.0
-        },
-        {
             "titulo": "Audi A3 1.6 TDI S tronic Sportback",
             "enlace": "https://es.wallapop.com/item/audi-a3-1-6-tdi-s-tronic-sportback-1091681899",
             "descripcion": "Precio al contado: 16.290€ (IVA incluido) *** Precio alternativo oferta de financiacion: 13.990€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Talavera de la Reina, Av. de Portugal, 68. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilanova 1, Vilan...",
@@ -1053,6 +1053,17 @@
             "potencia": "110 cv",
             "año": "2017",
             "kilómetros": "145995 km",
+            "precio": 13990.0
+        },
+        {
+            "titulo": "Audi A3 2018",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1070040555",
+            "descripcion": "AUDI A3, DIÉSEL, AUTOMÁTICO S-TRONIC, 7 VELOCIDADES. 📅 AÑO 2018 ✍🏼 EQUIPAMIENTO A DESTACAR: ELEVALUNAS ELÉCTRICOS, CIERRE CENTRALIZADO, RADIO CON BLUETOOTH, LLANTAS DE ALEACIÓN 17\", PANTALLA ABATIBLE, NAVEGADOR, SENSOR DE APARCAMIENTO DELANTERO Y TRASERO, ESPEJOS ELÉCTRICOS, CLIMITIZADOR BIZONA,STAR/STOP, ISOFIX, LUNAS TINTADAS, SEMI CUERO, ASISTENTE DE AYUDA EN PENDIENTE, LIMITADOR Y VELOCIDAD DE CRUCERO, APPLE CAR Y ANDROID... 💰 PRECIO 13990€ (precio sujeto a financiación) 📊FINANCIACIÓN A SU MEDIDA 🇪🇸VEHÍCULO NACIONAL 🛠️VEHÍCULO REVISADO 📖✅ SE ENTREGA TRANSFERIDO Y CON 1 DE GARANTÍA (con posibilidad de ampliar a 2 años). 📍 Visita nuestras instalaciones en Polígono Industrial “El Olivar”, Avda de los Marineros Nave 13, BARBATE (CÁDIZ) 🏎️ AUTOMOCIÓN GC, S.L. 🏎️",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "116 cv",
+            "año": "2018",
+            "kilómetros": "190000 km",
             "precio": 13990.0
         },
         {
@@ -1075,17 +1086,6 @@
             "potencia": "110 cv",
             "año": "2017",
             "kilómetros": "145995 km",
-            "precio": 13990.0
-        },
-        {
-            "titulo": "Audi A3 2018",
-            "enlace": "https://es.wallapop.com/item/audi-a3-1070040555",
-            "descripcion": "AUDI A3, DIÉSEL, AUTOMÁTICO S-TRONIC, 7 VELOCIDADES. 📅 AÑO 2018 ✍🏼 EQUIPAMIENTO A DESTACAR: ELEVALUNAS ELÉCTRICOS, CIERRE CENTRALIZADO, RADIO CON BLUETOOTH, LLANTAS DE ALEACIÓN 17\", PANTALLA ABATIBLE, NAVEGADOR, SENSOR DE APARCAMIENTO DELANTERO Y TRASERO, ESPEJOS ELÉCTRICOS, CLIMITIZADOR BIZONA,STAR/STOP, ISOFIX, LUNAS TINTADAS, SEMI CUERO, ASISTENTE DE AYUDA EN PENDIENTE, LIMITADOR Y VELOCIDAD DE CRUCERO, APPLE CAR Y ANDROID... 💰 PRECIO 13990€ (precio sujeto a financiación) 📊FINANCIACIÓN A SU MEDIDA 🇪🇸VEHÍCULO NACIONAL 🛠️VEHÍCULO REVISADO 📖✅ SE ENTREGA TRANSFERIDO Y CON 1 DE GARANTÍA (con posibilidad de ampliar a 2 años). 📍 Visita nuestras instalaciones en Polígono Industrial “El Olivar”, Avda de los Marineros Nave 13, BARBATE (CÁDIZ) 🏎️ AUTOMOCIÓN GC, S.L. 🏎️",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "116 cv",
-            "año": "2018",
-            "kilómetros": "190000 km",
             "precio": 13990.0
         },
         {
@@ -1244,7 +1244,7 @@
         },
         {
             "titulo": "Audi A3 1.6 TDI 85kW (116CV) S tronic Sportback",
-            "enlace": "https://es.wallapop.com/item/audi-a3-1-6-tdi-85kw-116cv-s-tronic-sportback-1087946598",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1-6-tdi-85kw-116cv-s-tronic-sportback-1087654786",
             "descripcion": "Precio al contado: 15.490€ (IVA incluido) *** Precio alternativo oferta de financiacion: 12.990€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Pamplona 2, Poligono Talluntxe-F, 2, 31110, Pamplona, Navarra. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reu...",
             "combustible": "Diésel",
             "cambio": "Automático",
@@ -1255,7 +1255,7 @@
         },
         {
             "titulo": "Audi A3 1.6 TDI 85kW (116CV) S tronic Sportback",
-            "enlace": "https://es.wallapop.com/item/audi-a3-1-6-tdi-85kw-116cv-s-tronic-sportback-1087654786",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1-6-tdi-85kw-116cv-s-tronic-sportback-1087946598",
             "descripcion": "Precio al contado: 15.490€ (IVA incluido) *** Precio alternativo oferta de financiacion: 12.990€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Pamplona 2, Poligono Talluntxe-F, 2, 31110, Pamplona, Navarra. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reu...",
             "combustible": "Diésel",
             "cambio": "Automático",
@@ -1309,15 +1309,15 @@
             "precio": 12990.0
         },
         {
-            "titulo": "Audi A3 2.0 TDI 150 CV S-TRONIC 4P",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tdi-150-cv-s-tronic-4p-1090410975",
-            "descripcion": "Todas las revisiones en Audi, recién cambiado el aceite caja de cambios, correa cambiada en audi a los 207.000 kms, nacional, navegador, luz de led diurna, aviso de angulo muerto, clima, sensor de aparcamiento delantero y trasero, tapicería mixta en piel y tela. Audi A3 Sedan en Madrid",
+            "titulo": "Audi A3 2.0 TDI 150 CV 4 P S-TRONIC",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tdi-150-cv-4-p-s-tronic-1092371690",
+            "descripcion": "AUDI A3 2.0 TDI 150 CV S-TRONIC. Todas las revisiones en Audi, recién cambiado el aceite caja de cambios, correa cambiada en audi a los 207.000 kms, nacional, navegador, luz de led diurna, aviso de ángulo muerto, clima, sensor de aparcamiento delantero y trasero, tapicería mixta en piel y tela. Audi A3 Sedan en Madrid",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "150 cv",
             "año": "2017",
-            "kilómetros": "249000 km",
-            "precio": 11999.0
+            "kilómetros": "248000 km",
+            "precio": 11990.0
         },
         {
             "titulo": "Audi A3 2017 sedan ",

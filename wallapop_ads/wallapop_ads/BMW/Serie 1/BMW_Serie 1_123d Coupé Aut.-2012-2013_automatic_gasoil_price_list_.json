@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 1",
         "version": "123d Coupé Aut.",
-        "año mínimo": 2012,
-        "año máximo": 2013,
+        "año mínimo": "2012",
+        "año máximo": "2013",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "automatic",
         "tipos de motor": "gasoil",
-        "potencia máxima": 204,
+        "potencia máxima": "204",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=204&min_year=2012&max_year=2013&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 1&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -133,7 +133,7 @@
         },
         {
             "titulo": "BMW Serie 1   120d xDrive ",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-120d-xdrive-1090930608",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-1-120d-xdrive-1090930604",
             "descripcion": "",
             "combustible": "Diésel",
             "cambio": "Automático",
@@ -144,7 +144,7 @@
         },
         {
             "titulo": "BMW Serie 1   120d xDrive ",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-120d-xdrive-1090930604",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-1-120d-xdrive-1090930608",
             "descripcion": "",
             "combustible": "Diésel",
             "cambio": "Automático",
@@ -240,17 +240,6 @@
             "año": "2012",
             "kilómetros": "205000 km",
             "precio": 12500.0
-        },
-        {
-            "titulo": "BMW Serie 1 118d PACK M ",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-118d-pack-m-1061334144",
-            "descripcion": "",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "143 cv",
-            "año": "2013",
-            "kilómetros": "178000 km",
-            "precio": 12300.0
         },
         {
             "titulo": "BMW Serie 1 2012",
@@ -460,6 +449,17 @@
             "año": "2013",
             "kilómetros": "201000 km",
             "precio": 9500.0
+        },
+        {
+            "titulo": "BMW Serie 1 2012",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2012-1062509845",
+            "descripcion": "Vendo BMW serie 1 del años 2012 automático secuencial en buen estado ITV hasta marzo de 2025.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "116 cv",
+            "año": "2012",
+            "kilómetros": "198900 km",
+            "precio": 9000.0
         }
     ]
 }

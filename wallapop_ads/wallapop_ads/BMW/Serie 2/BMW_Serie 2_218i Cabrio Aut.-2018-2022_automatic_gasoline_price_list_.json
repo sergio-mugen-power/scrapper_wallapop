@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 2",
         "version": "218i Cabrio Aut.",
-        "año mínimo": 2018,
-        "año máximo": 2022,
+        "año mínimo": "2018",
+        "año máximo": "2022",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "automatic",
         "tipos de motor": "gasoline",
-        "potencia máxima": 136,
+        "potencia máxima": "136",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=136&min_year=2018&max_year=2022&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -46,7 +46,7 @@
         {
             "titulo": "BMW Serie 2 2021",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-2021-1035605140",
-            "descripcion": "PRECIO INDICADO ES FINAL Y AL CONTADO con IVA incluido (deducible), transferencia y garantía 12 meses. WE SPEAK ENGLISH & RUSSIAN Tenemos posibilidad de vender FLOTAS a profesionales. OFRECEMOS LA OPCION DE AMPLIAR LA COBERTURA Y DURACION DE LA GARANTIA A 24 MESES ¡ESTAMOS EN INSTAGRAM! @solo_carsales Y @solo_furgonetas ¡VISITA NUESTRAS OFICINAS! ATENCIÓN: Atendemos únicamente con cita previa. Marbella Oficina: Avenida de los Girasoles 347B, Nueva Andalucía 29660 Málaga Oficina: Av. del Comandante García Morato, 50, Oficina 2, 29004 Málaga.",
+            "descripcion": "",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "136 cv",
@@ -64,17 +64,6 @@
             "año": "2021",
             "kilómetros": "17800 km",
             "precio": 29990.0
-        },
-        {
-            "titulo": "BMW Serie 2 1.5 136CV Autom.",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-2-1-5-136cv-automatico-939422233",
-            "descripcion": "Acabado Autom.. Disponible también en los colores Negro, Sunset Orang. También en Península y Baleares. Este anuncio es meramente informativo, no es vinculante ni contractual. Consulta a nuestros comerciales. Más de 2000 coches en stock permanente, visítenos en ClickAutos.",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "136 cv",
-            "año": "2021",
-            "kilómetros": "62837 km",
-            "precio": 29950.0
         },
         {
             "titulo": "BMW Serie 2 218i Active Tourer 100 kW (136 CV)",
@@ -408,7 +397,7 @@
         },
         {
             "titulo": "BMW Serie 2 218i Active Tourer 100 kW (136 CV)",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-2-218i-active-tourer-100-kw-136-cv-1084203069",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-2-218i-active-tourer-100-kw-136-cv-1083731959",
             "descripcion": "Precio oferta sujeto a financiación: 27455 EUR. Precio al contado: 30200 EUR. *BMQ* LLEGA LA REVOLUPLUS A OCASIONPLUS LA REVOLUCIÓN DE LOS PRECIOS BAJOS SÓLO ESTA SEMANA, ENCUENTRA TU DESCUENTO DE HASTA 8000€ OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 3535€ de descuento en este coche Precio oferta financiado: 27455€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 30200€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Paquete M, Tapicería de piel, Asientos deportivos, Navegador, Car Play, Cámara de marcha atrás, Ayuda aparcamiento, Faros delanteros led, Faros autodireccionables, Faros traseros led, Encendido automático de faros, Sensor de lluvia, Asistente de mantenimiento de carril, Asistente de cambio de carril, Portón del maletero eléctrico, Reconocimiento señales de tráfico, Start/Stop automático, Control de velocidad, Limitador de velocidad, Suspensión deportiva, Volante multifunción, Aire Acondicionado (Climatizador), Freno de estacionamiento eléctrico, Arranque por botón, Bluetooth, Llantas de aleación (17\"). - Coche Nacional, Historial Mantenimiento. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. Garantía fabricante 02/2025 - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
             "combustible": "Gasolina",
             "cambio": "Automático",
@@ -419,7 +408,7 @@
         },
         {
             "titulo": "BMW Serie 2 218i Active Tourer 100 kW (136 CV)",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-2-218i-active-tourer-100-kw-136-cv-1083731959",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-2-218i-active-tourer-100-kw-136-cv-1084203069",
             "descripcion": "Precio oferta sujeto a financiación: 27455 EUR. Precio al contado: 30200 EUR. *BMQ* LLEGA LA REVOLUPLUS A OCASIONPLUS LA REVOLUCIÓN DE LOS PRECIOS BAJOS SÓLO ESTA SEMANA, ENCUENTRA TU DESCUENTO DE HASTA 8000€ OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 3535€ de descuento en este coche Precio oferta financiado: 27455€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 30200€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Paquete M, Tapicería de piel, Asientos deportivos, Navegador, Car Play, Cámara de marcha atrás, Ayuda aparcamiento, Faros delanteros led, Faros autodireccionables, Faros traseros led, Encendido automático de faros, Sensor de lluvia, Asistente de mantenimiento de carril, Asistente de cambio de carril, Portón del maletero eléctrico, Reconocimiento señales de tráfico, Start/Stop automático, Control de velocidad, Limitador de velocidad, Suspensión deportiva, Volante multifunción, Aire Acondicionado (Climatizador), Freno de estacionamiento eléctrico, Arranque por botón, Bluetooth, Llantas de aleación (17\"). - Coche Nacional, Historial Mantenimiento. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. Garantía fabricante 02/2025 - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
             "combustible": "Gasolina",
             "cambio": "Automático",
@@ -453,6 +442,17 @@
         {
             "titulo": "BMW Serie 2 218i Active Tourer 100 kW (136 CV)",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-218i-active-tourer-100-kw-136-cv-1083735877",
+            "descripcion": "Precio oferta sujeto a financiación: 27455 EUR. Precio al contado: 30200 EUR. *BMQ* LLEGA LA REVOLUPLUS A OCASIONPLUS LA REVOLUCIÓN DE LOS PRECIOS BAJOS SÓLO ESTA SEMANA, ENCUENTRA TU DESCUENTO DE HASTA 8000€ OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 3535€ de descuento en este coche Precio oferta financiado: 27455€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 30200€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Paquete M, Tapicería de piel, Asientos deportivos, Navegador, Car Play, Cámara de marcha atrás, Ayuda aparcamiento, Faros delanteros led, Faros autodireccionables, Faros traseros led, Encendido automático de faros, Sensor de lluvia, Asistente de mantenimiento de carril, Asistente de cambio de carril, Portón del maletero eléctrico, Reconocimiento señales de tráfico, Start/Stop automático, Control de velocidad, Limitador de velocidad, Suspensión deportiva, Volante multifunción, Aire Acondicionado (Climatizador), Freno de estacionamiento eléctrico, Arranque por botón, Bluetooth, Llantas de aleación (17\"). - Coche Nacional, Historial Mantenimiento. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. Garantía fabricante 02/2025 - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2022",
+            "kilómetros": "32869 km",
+            "precio": 27455.0
+        },
+        {
+            "titulo": "BMW Serie 2 218i Active Tourer 100 kW (136 CV)",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-2-218i-active-tourer-100-kw-136-cv-1080604739",
             "descripcion": "Precio oferta sujeto a financiación: 27455 EUR. Precio al contado: 30200 EUR. *BMQ* LLEGA LA REVOLUPLUS A OCASIONPLUS LA REVOLUCIÓN DE LOS PRECIOS BAJOS SÓLO ESTA SEMANA, ENCUENTRA TU DESCUENTO DE HASTA 8000€ OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 3535€ de descuento en este coche Precio oferta financiado: 27455€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 30200€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Paquete M, Tapicería de piel, Asientos deportivos, Navegador, Car Play, Cámara de marcha atrás, Ayuda aparcamiento, Faros delanteros led, Faros autodireccionables, Faros traseros led, Encendido automático de faros, Sensor de lluvia, Asistente de mantenimiento de carril, Asistente de cambio de carril, Portón del maletero eléctrico, Reconocimiento señales de tráfico, Start/Stop automático, Control de velocidad, Limitador de velocidad, Suspensión deportiva, Volante multifunción, Aire Acondicionado (Climatizador), Freno de estacionamiento eléctrico, Arranque por botón, Bluetooth, Llantas de aleación (17\"). - Coche Nacional, Historial Mantenimiento. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. Garantía fabricante 02/2025 - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
             "combustible": "Gasolina",
             "cambio": "Automático",

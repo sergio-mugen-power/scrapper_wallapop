@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 131,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=131&min_year=2000&max_year=2003&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=131&min_year=2000&max_year=2003&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -97,17 +97,6 @@
             "año": "2002",
             "kilómetros": "190000 km",
             "precio": 5600.0
-        },
-        {
-            "titulo": "Audi A3 2003 se vende o cambia",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2003-908609415",
-            "descripcion": "super cuidado al día , se vende o cambio por coche grande A4 o por BMW serie 1.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2003",
-            "kilómetros": "249000 km",
-            "precio": 5500.0
         },
         {
             "titulo": "Audi A3 2001",
@@ -264,17 +253,6 @@
             "precio": 4750.0
         },
         {
-            "titulo": "Audi A3 8L ASZ",
-            "enlace": "https://es.wallapop.com/item/audi-a3-8l-asz-1091420694",
-            "descripcion": "SE VENDE AUDI A3 8L 130cv Distribucion recien cambiada Arboles de transmision completos Brazos de suspension Rodamientos rueda izq nurvos Mangueta nueva Suspension roscada V-MAXX nueva Downpipe Faros xenon originales Luces automaticas Techo solar Posibilidad de entregar con tramo final inox",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "130 cv",
-            "año": "2002",
-            "kilómetros": "267000 km",
-            "precio": 4500.0
-        },
-        {
             "titulo": "Audi A3 2001",
             "enlace": "https://es.wallapop.com/item/audi-a3-2001-1090023592",
             "descripcion": "Motor 1.9 TDI ASZ. Kit embrague entero LUK nuevo. Intercooler original nuevo. Fuelles de palier nuevos. Rotulas tanto de dirección como la de los brazos hace 3 meses. Copelas Powerflex nuevas. Silentblocks de trapecios powerflex. Frenada con discos ranurados y ventilados más pastillas ceramicas todo marca ATE. Alternado nuevo. Bateria nueva. Revisión hecha hace 2.000 km. Llantas Audi S3 8L. Asientos semibacket recaro originales en muy buen estado. Techo solar. Se ha hecho una reprogramación no hace ni 1 mes ,estara rondando entre 170/180 cv. Tiene 6 velocidades. Interior en muy buen estado. Radio bluetooth. El coche va perfecto en 1 año le hecho 40.000km y no me ha puesto pegas. No tiene ITV , el coche la pasa sin problema. El lateral derecho esta rayado(foto3,4). Marca un fallo de control de tracción pero no es problema para ITV. NO BAJO PRECIO. No me urge nada venderlo sino me lo quedo.",
@@ -308,6 +286,17 @@
             "precio": 4250.0
         },
         {
+            "titulo": "Audi A3 8L ASZ",
+            "enlace": "https://es.wallapop.com/item/audi-a3-8l-asz-1091420694",
+            "descripcion": "SE VENDE AUDI A3 8L 130cv Distribucion recien cambiada Arboles de transmision completos Brazos de suspension Rodamientos rueda izq nurvos Mangueta nueva Suspension roscada V-MAXX nueva Downpipe Faros xenon originales Luces automaticas Techo solar Posibilidad de entregar con tramo final inox",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "130 cv",
+            "año": "2002",
+            "kilómetros": "267000 km",
+            "precio": 4200.0
+        },
+        {
             "titulo": "Audi A3 2003",
             "enlace": "https://es.wallapop.com/item/audi-a3-2003-999263553",
             "descripcion": "Vendo Audi A3 1.900 tdi 105cv por compra de un coche más grande. El coche está muy cuidado, impecable de motor, tiene todos los mantenimientos al día. Cuenta con asientos calefactables y sensor de aparcamiento. En febrero se le hizo cambio del kit de distribución con bomba de agua y correa auxiliar, bateria, discos de freno y pastillas Bosch y escobillas de los limpias delanteros. Demostrable con facturas Se entrega con cambio de filtros y aceite. ITV recien pasada. Neumaticos nuevos. Mejor ver y probar.",
@@ -317,17 +306,6 @@
             "año": "2003",
             "kilómetros": "248000 km",
             "precio": 4200.0
-        },
-        {
-            "titulo": "Audi A3 1.9TDI 130",
-            "enlace": "https://es.wallapop.com/item/audi-a3-1-9tdi-130-1089777315",
-            "descripcion": "Se vende Audi a3 1.9 tdi 130 asz Buen estado general, interior en cuero, más información por mensaje.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "130 cv",
-            "año": "2002",
-            "kilómetros": "260000 km",
-            "precio": 4000.0
         },
         {
             "titulo": "Audi A3 2002",
@@ -383,17 +361,6 @@
             "año": "2003",
             "kilómetros": "240000 km",
             "precio": 3900.0
-        },
-        {
-            "titulo": "Audi A3 2002",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2002-1083134290",
-            "descripcion": "hembrague monomasa sachs performance 6 palas linea recta con downpipe miltek 2,5” suspension roscada blistein arbol de levas 272 velocime inyectores BE bola de remolque se puede dar con dos llantas de fundir asientos calefactables reloj de presion instalacion de equipo de musica SE ACEPTAN CAMBIOS NO MAREANTES",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "130 cv",
-            "año": "2001",
-            "kilómetros": "190000 km",
-            "precio": 3800.0
         },
         {
             "titulo": "Audi A3 2003",
@@ -473,17 +440,6 @@
             "precio": 3700.0
         },
         {
-            "titulo": "Audi A3 2002",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2002-1072034401",
-            "descripcion": "Audi A3 color negro, precio oferta solo black friday",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "130 cv",
-            "año": "2002",
-            "kilómetros": "240000 km",
-            "precio": 3700.0
-        },
-        {
             "titulo": "Audi A3 2003",
             "enlace": "https://es.wallapop.com/item/audi-a3-2003-1062744130",
             "descripcion": "Se Vende A3 8L Ambition 100Cv Color Gris,Tiene Pack Deportivo,control de crucero, asientos Recaro, Climatizador revisado este verano funcionando perfectamente, se le cambió correa auxiliar y alternador nuevo, Ruedas delanteras mixtas nuevas con 3 meses, ITV tiene hasta Octubre 2025, Tiene algún defecto de carrocería, No ha dado ningun problema, se puede ver sin compromiso",
@@ -506,6 +462,17 @@
             "precio": 3590.0
         },
         {
+            "titulo": "Audi A3 2002 SLine",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2001-sline-1092663728",
+            "descripcion": "AUDI A3 en muy buen estado y pocos kilometros (Km reales). Revisión recién pasada. Itv hasta 2026. Es el 1.9 TDI de 100 caballos con la stage 1 (Unos 130 caballos). Muchos extras: Asientos deportivos Recaro, volante y pomo de piel sline, llantas audi tt mk1 originales, neumaticos 225 de ancho nuevos, techo electrico en perfecto funcionamiento, retrovisores S3, climatizador automatico...etc etc... Correa hecha a los 90000km. Alternador a los 156000. (Con Factura) Mejor ver y probar. (NO CAMBIOS) Pequeño boño en el parachoques trasero. (Ver foto) Sólo dispone de una llave.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "130 cv",
+            "año": "2002",
+            "kilómetros": "168000 km",
+            "precio": 3500.0
+        },
+        {
             "titulo": "Audi A3 2002",
             "enlace": "https://es.wallapop.com/item/audi-a3-2002-1091017733",
             "descripcion": "Audi a3 8l 1.9 tdi 130cv en buen estado itv hasta el 17 de enero de 2026 el coche tiene 258 mil km esta bastante bien se le ha puesto nuevo el embrague, reten de cigueñal, aceite y filtros, anticongelante y distribucion completa todo a los 256 mil km el coche de interior esta bastante cuidado viene con bastantes acabados de sline como la suspensión, el aleron y alguna cosa mas tiene las llantas de s3 originales los asientos tipo recaro",
@@ -519,7 +486,7 @@
         {
             "titulo": "Audi A3 2002",
             "enlace": "https://es.wallapop.com/item/audi-a3-2002-1090558070",
-            "descripcion": "Vendo Audi A3 del año 2002. Tiene un par de roces que se ven en las fotos (paragolpes tras. drch y aleta del. drch) pero perfecto de interior. Lleva montado pantalla basculante y equipo de música alpine.",
+            "descripcion": "Vendo Audi A3 del año 2002. Tiene un par de roces que se ven en las fotos (paragolpes tras. drch y aleta del. drch) pero perfecto de interior (excepto la tela del techo caída). Lleva montado pantalla basculante y equipo de música alpine.",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "130 cv",
@@ -536,17 +503,6 @@
             "potencia": "130 cv",
             "año": "2001",
             "kilómetros": "300000 km",
-            "precio": 3500.0
-        },
-        {
-            "titulo": "Audi A3 2001",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2001-1087817327",
-            "descripcion": "Coche en buen estado quit s3 asientos de piel negros ordenador de abordo llantas s8 18/225 nuevas, turbo y alternador nuevo cámara trasera,etc más información preguntar precio no negociable",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "130 cv",
-            "año": "2001",
-            "kilómetros": "233000 km",
             "precio": 3500.0
         },
         {
@@ -607,12 +563,23 @@
         {
             "titulo": "Audi A3 2003",
             "enlace": "https://es.wallapop.com/item/audi-a3-2003-1091958602",
-            "descripcion": "Buen estado , le suena el bimasa en frio ,y habria que cambiarle el taco de motor del lado del conductor ( se puede dar con las dos cosas cambiadad ) distribucion echa con 10.000km , lleva el turbo del fr mk1 , downpipe , muelles y suspension koni , llanta 17 , control de velocidad , frenada delantera del s3 , stage 1 .... sobre 195 cv con proteccion de turbo . Se tantea cambios ,",
+            "descripcion": "Buen estado , le suena el bimasa en frio ,y habria que cambiarle el taco de motor del lado del conductor ( se puede dar con las dos cosas cambiadad ) distribucion echa con 10.000km , lleva el turbo del fr mk1 , downpipe , muelles y suspension koni , llanta 17 , control de velocidad , frenada delantera del s3 , stage 1 .... sobre 195 cv con proteccion de turbo . Se da trasferido .",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "130 cv",
             "año": "2003",
             "kilómetros": "270000 km",
+            "precio": 3300.0
+        },
+        {
+            "titulo": "Audi A3 2001",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2001-1087817327",
+            "descripcion": "Coche en buen estado quit s3 asientos de piel negros ordenador de abordo llantas s8 18/225 nuevas, turbo y alternador nuevo cámara trasera recien pintado siempre en parquing,etc más información preguntar precio no negociable no mareantes no cambios",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "130 cv",
+            "año": "2001",
+            "kilómetros": "233000 km",
             "precio": 3300.0
         },
         {
@@ -624,6 +591,17 @@
             "potencia": "100 cv",
             "año": "2003",
             "kilómetros": "298822 km",
+            "precio": 3200.0
+        },
+        {
+            "titulo": "Audi A3 2002",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2002-1083134290",
+            "descripcion": "hembrague monomasa sachs performance 6 palas linea recta con downpipe miltek 2,5” suspension roscada blistein inyectores BE bola de remolque se puede dar con dos llantas de fundir asientos calefactables reloj de presion instalacion de equipo de musica SE ACEPTAN CAMBIOS NO MAREANTES",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "130 cv",
+            "año": "2001",
+            "kilómetros": "190000 km",
             "precio": 3200.0
         },
         {
@@ -715,6 +693,17 @@
             "precio": 3000.0
         },
         {
+            "titulo": "Audi A3 2002",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2002-1092383902",
+            "descripcion": "🔥AUDI A3 SPORTBACK 1.9 TDI🔥 🚨¡ATENCION!🚨 Amantes del buen gusto y las historias épicas. Te presento un veterano de la carretera, fiel compañero y perfecto para conquistar el mundo (o al menos, el supermercado más cercano🤣🤣🤣). Tiene los años suficientes para ser vintage, pero moderno para Spotify. Los kilómetros son los justos y necesarios para demostrar experiencia, no vejez. Las ventanillas suben y bajan😏, el aire enfría🥶 y tiene el encanto indiscutible de haber visto más paisajes que tú en vacaciones😎. Lleva algunas \"cicatrices de guerra\" (pequeños raspones que lo hacen más interesante). Este coche no solo te lleva, te cuenta historias. 🎁¡Un regalo!🎁 Ideal para estudiantes, nuevos conductores o cualquier persona con buen humor y ganas de un coche con personalidad. 🚨🚨🚨¡Aprovecha antes de que alguien lo adopte!🚨🚨🚨",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "100 cv",
+            "año": "2002",
+            "kilómetros": "296325 km",
+            "precio": 2990.0
+        },
+        {
             "titulo": "Audi A3 2003",
             "enlace": "https://es.wallapop.com/item/audi-a3-2003-1088380072",
             "descripcion": "Se vende Audi A3 8L 1.9 TDI del 2003 con motor ASZ (130cv) el coche esta buen estado general a excepción del exterior. No ha tenido golpes grabes, estado de motor excepcional, al dia de todo lo necesario (distribucion hace 30000km, neumaticos al dia, A/C y calefaccion operativa. Genial para primer coche o coche de diario. Acepto prueba dinamica a gente realmente interesada, puedo aceptar cambios. ITV en vigor hasta septiembre 2025.",
@@ -723,17 +712,6 @@
             "potencia": "130 cv",
             "año": "2003",
             "kilómetros": "264000 km",
-            "precio": 2900.0
-        },
-        {
-            "titulo": "Audi A3 2002",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2002-1080527819",
-            "descripcion": "el coche esta en buen estado mejor ver y probar (motor 1.9 (130 cv) km 296000 ITV recien pasada",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "130 cv",
-            "año": "2002",
-            "kilómetros": "296000 km",
             "precio": 2900.0
         },
         {
@@ -779,6 +757,28 @@
             "año": "2001",
             "kilómetros": "150000 km",
             "precio": 2850.0
+        },
+        {
+            "titulo": "Audi A3 2002",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2002-1092671720",
+            "descripcion": "Vendo audi a3 2002 3 puertas diésel en perfecto estado algo de arañados por sus años va a ful muy económico en consumo aire acondicionado muy bien preguntar sin compromiso gente serias gracias precio algo negociable",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "100 cv",
+            "año": "2002",
+            "kilómetros": "298000 km",
+            "precio": 2800.0
+        },
+        {
+            "titulo": "Audi A3 2001",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2001-1092148454",
+            "descripcion": "Todo perfecto",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "110 cv",
+            "año": "2001",
+            "kilómetros": "29400 km",
+            "precio": 2800.0
         },
         {
             "titulo": "Audi A3 ",
@@ -1111,17 +1111,6 @@
             "precio": 2200.0
         },
         {
-            "titulo": "Audi A3 2000",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2000-1086467489",
-            "descripcion": "Se vende audi a3 1.9tdi del año 2000, con 265mil km reales, kit de distribución embrague y mantenimientos recien hechos, (dispongo de factura de los recambios) lo quito por cambio de coche, no mareantes no me corre prisa venderlo. Mejor ver y probar",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "110 cv",
-            "año": "2000",
-            "kilómetros": "265000 km",
-            "precio": 2000.0
-        },
-        {
             "titulo": "Audi A3 2001",
             "enlace": "https://es.wallapop.com/item/audi-a3-2001-1086460060",
             "descripcion": "se vende audi en buen estado kit s3 Pintura comida por el sol a falfa de itv motor cambiado No hay factura ya que lo cambie yo stage 1 SE ACEPTAN CAMBIOS ALGO NEGOCIABLE",
@@ -1210,6 +1199,17 @@
             "precio": 1999.0
         },
         {
+            "titulo": "Audi A3 2001",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2001-1092520594",
+            "descripcion": "KIT ENTERO ENBRAGUE PUESTO Y DISTRIBUCION HECHA ITV EN VIGOR MOTOR 1.9 TDI MOTOR DURISIMO ETERNO, EN BUEN ESTADO . INTERIORES EN PERFECTO ESTADO. NO NEGOCIABLE",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "100 cv",
+            "año": "2001",
+            "kilómetros": "235000 km",
+            "precio": 1950.0
+        },
+        {
             "titulo": "Audi A3 1.9 TDI 2000",
             "enlace": "https://es.wallapop.com/item/audi-a3-1-9-tdi-2000-1086824349",
             "descripcion": "Vendo Audi A3 1.9 TDI 5V color blanco (ITV EN VIGOR HASTA EL 09/07/2025). Funciona perfectamente y anda muy bien. Típicos defectos de coche antiguo (interior desgastado, chapa no perfecta, algunos cambios de piezas...) pero no te va a dar problemas en cuanto a motor. -Batería cambiada hace 6 meses. -Ventanilla del conductor arreglada con factura. -Algunos tubitos de compresión del turbo arreglados con factura. -Soporte de plástico del radiador roto, lleva sujetado con bridas desde hace casi 6 meses. -Sin cargas legales. -Modificaciones en la última foto. -Doy el coche totalmente impoluto en cuanto a suciedad. Repito, el coche tiene desperfectos de coche viejo. Mejor ver y probar. Seguro en vigor hasta finales de febrero. PRECIO POCO NEGOCIABLE",
@@ -1287,28 +1287,6 @@
             "precio": 1500.0
         },
         {
-            "titulo": "Audi A3 2003",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2001-1090465091",
-            "descripcion": "Se vende audi A3 motor 1.9 tdi 110cv afn en buen estado de uso aceite filtros neumáticos pastillas de freno y discos correa de distribución alos 220.000 km itv en vigor y seguro aire acondicionado elevalunas electricos doble airbag cierre centralizado llantas de aluminio espejos eléctricos con algún detalle sin importancia precio 1400€ con transferencia incluida wasahp 674646482",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "110 cv",
-            "año": "2003",
-            "kilómetros": "298260 km",
-            "precio": 1400.0
-        },
-        {
-            "titulo": "Audi A3 2002",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2002-1034375673",
-            "descripcion": "se vende audi a 3 , el turbo no funciona , la ventanilla de piloto a veces no sube, tal y como se ve en las fotos , tiene una abolladura en el costado, el sistema de musica esta cambiado y por lo demas esta perfecto",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "100 cv",
-            "año": "2002",
-            "kilómetros": "296000 km",
-            "precio": 1400.0
-        },
-        {
             "titulo": "Audi A3 2000",
             "enlace": "https://es.wallapop.com/item/audi-a3-2000-1087460839",
             "descripcion": "Audi a3 en buen estado no mareantes si lo quieres ven a verlo",
@@ -1340,17 +1318,6 @@
             "año": "2000",
             "kilómetros": "195000 km",
             "precio": 1234.0
-        },
-        {
-            "titulo": "Audi A3 2003",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2003-1091843225",
-            "descripcion": "Se vende audi a3 1.9 tdi en perfecto estado con aceites filtros correas todo cambiado más información yamar 643188475",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2003",
-            "kilómetros": "300000 km",
-            "precio": 1000.0
         },
         {
             "titulo": "Audi A3 2001",
@@ -1427,17 +1394,6 @@
             "potencia": "130 cv",
             "año": "2003",
             "kilómetros": "202480 km",
-            "precio": 100.0
-        },
-        {
-            "titulo": "Audi A3 2001",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2001-969081862",
-            "descripcion": "se vende despiece de Audi A3",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "110 cv",
-            "año": "2001",
-            "kilómetros": "171000 km",
             "precio": 100.0
         },
         {

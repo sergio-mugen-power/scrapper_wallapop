@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 160,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=160&min_year=2010&max_year=2012&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=160&min_year=2010&max_year=2012&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -63,7 +63,7 @@
             "potencia": "125 cv",
             "año": "2010",
             "kilómetros": "157421 km",
-            "precio": 10800.0
+            "precio": 10000.0
         },
         {
             "titulo": "Audi A3 1.8 tfsi 160cv DSG Nacional pegatina C",
@@ -112,7 +112,7 @@
         {
             "titulo": "Audi A3 2012",
             "enlace": "https://es.wallapop.com/item/audi-a3-2012-1075582353",
-            "descripcion": "Se vende audi a3 s-line automático con pocos km -Exterior y interior acabados s-line -Cambio automático stronic 7 velocidades con levas en el volante -distribución con cadena -pantalla táctil -luces automáticas -sensor de lluvia -control de crucero -llantas 18\" -luces interiores amblight -todo el interior en negro incluido techo -se puede ver sin compromiso 646662512 algo negociable",
+            "descripcion": "Se vende audi a3 s-line automático con pocos km -Exterior y interior acabados s-line -Cambio automático stronic 7 velocidades con levas en el volante -distribución con cadena -pantalla táctil -luces automáticas -sensor de lluvia -control de crucero -llantas 18\" -luces interiores amblight -todo el interior en negro incluido techo -se puede ver sin compromiso 646662512 algo negociable.",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "125 cv",

@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 2",
         "version": "220d Gran Tourer Aut. 7 plazas",
-        "año mínimo": 2015,
-        "año máximo": 2018,
+        "año mínimo": "2015",
+        "año máximo": "2018",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "automatic",
         "tipos de motor": "gasoil",
-        "potencia máxima": 190,
+        "potencia máxima": "190",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=190&min_year=2015&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -134,7 +134,7 @@
         {
             "titulo": "BMW Serie 2 2015",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-2015-1092001700",
-            "descripcion": "Coche en perfecto estado, muy cuidado. ITV hasta 2026. -Extras: paquete M interior y exterior, retrovisores electricos, limpias con sensor de lluvia automatico, techo solar electrico, volante multifuncional con levas, aire acondicionado,asientos electricos calefactables y de piel alcantara. GPS integrado y parctronic. Distintos modos de conduccion (eco, sport..etc). -Siempre en garaje. - 2 mandos.",
+            "descripcion": "Coche en perfecto estado, muy cuidado. ITV hasta junio de 2026. -Extras: paquete M interior y exterior, retrovisores electricos, limpias con sensor de lluvia automatico, techo solar electrico, volante multifuncional con levas, aire acondicionado,asientos electricos calefactables y de piel alcantara. GPS integrado y parctronic. Distintos modos de conduccion (eco, sport..etc). -Siempre en garaje. - 2 mandos. -Transferencia incluida en el precio.",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "190 cv",

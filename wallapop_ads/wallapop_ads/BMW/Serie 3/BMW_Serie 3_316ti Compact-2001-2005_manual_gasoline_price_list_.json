@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 3",
         "version": "316ti Compact",
-        "año mínimo": 2001,
-        "año máximo": 2005,
+        "año mínimo": "2001",
+        "año máximo": "2005",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "manual",
         "tipos de motor": "gasoline",
-        "potencia máxima": 116,
+        "potencia máxima": "116",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=116&min_year=2001&max_year=2005&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=BMW&model=Serie 3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -77,26 +77,15 @@
             "precio": 6000.0
         },
         {
-            "titulo": "BMW Serie 3 2002",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-3-2002-1091877634",
-            "descripcion": "El coche esta en perfectas condiciones. Se le lleva el mantenimiento recomendado cuando le toca sin escatimar en nada! •discos y pastillas •filtro de aire y filtre de aceite con el cambio de aceite •neumaticos al 90% •bujias •correa de distribucion tiene menos de 10mil km TODO RECIEN CAMBIADO CON FACTURAS!!! lleva algunos extras tambien • molduras interiores con acabados unicos (MANSOURY) •pantalla tactil android 11 •led de ambiente superiores y inferiores •pedales pack M •retrovisores BATMAN en fibra de carbono •cristales traseros tinteados •pinzas de frenos en rojo y muchos mas tiene la pegatina medioambiental TIPO C un coche muy mimado la verdad, esta para cojer carretera el precio es algo negociable cualquier duda preguntar sin compromiso",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "115 cv",
-            "año": "2002",
-            "kilómetros": "265000 km",
-            "precio": 5500.0
-        },
-        {
-            "titulo": "BMW compact  2002",
+            "titulo": "BMW serie 3  84.000 km",
             "enlace": "https://es.wallapop.com/item/bmw-compact-1088128642",
             "descripcion": "BMW compact 316Ti Vehiculo nacional en muy buen estado 83370 km reales Pegatina medioambiental C Año 2002 Gasolina 2 propietarios ITV en vigor Agosto 2025",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "115 cv",
             "año": "2002",
-            "kilómetros": "83370 km",
-            "precio": 5500.0
+            "kilómetros": "84000 km",
+            "precio": 5490.0
         },
         {
             "titulo": "BMW Serie 3 2001",
@@ -108,6 +97,17 @@
             "año": "2001",
             "kilómetros": "110000 km",
             "precio": 5100.0
+        },
+        {
+            "titulo": "BMW Serie 3 2003",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-3-2003-1092617088",
+            "descripcion": "Revisión reciente en el mecánico, ITV hasta mayo. Lleva sensor parking, cámara marcha atrás, radio con sistema conexión con móvil bluetooth. Bien conservado y poco uso. Funciona todo perfectamente. Acepto negociación.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "115 cv",
+            "año": "2003",
+            "kilómetros": "166000 km",
+            "precio": 5000.0
         },
         {
             "titulo": "BMW Serie 3 2001",
@@ -141,6 +141,17 @@
             "año": "2003",
             "kilómetros": "116040 km",
             "precio": 4995.0
+        },
+        {
+            "titulo": "BMW Serie 3 2002",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-3-2002-1091877634",
+            "descripcion": "El coche esta en perfectas condiciones. Se le lleva el mantenimiento recomendado cuando le toca sin escatimar en nada! •discos y pastillas •filtro de aire y filtre de aceite con el cambio de aceite •neumaticos al 90% •bujias •correa de distribucion tiene menos de 10mil km TODO RECIEN CAMBIADO CON FACTURAS!!! lleva algunos extras tambien • molduras interiores con acabados unicos (MANSOURY) •pantalla tactil android 11 •led de ambiente superiores y inferiores •pedales pack M •retrovisores BATMAN en fibra de carbono •cristales traseros tinteados •pinzas de frenos en rojo y muchos mas tiene la pegatina medioambiental TIPO C un coche muy mimado la verdad, esta para cojer carretera el precio es algo negociable cualquier duda preguntar sin compromiso",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "115 cv",
+            "año": "2002",
+            "kilómetros": "265000 km",
+            "precio": 4900.0
         },
         {
             "titulo": "BMW compact e46 316ti",
@@ -448,17 +459,6 @@
             "potencia": "115 cv",
             "año": "2002",
             "kilómetros": "222000 km",
-            "precio": 3300.0
-        },
-        {
-            "titulo": "BMW Serie 3 2002",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-3-2002-1073722154",
-            "descripcion": "Vendo BMW E46 316i en muy buen estado, a sido de mi madre desde prácticamente nuevo ya que se compró con apenas 10mil km, lleva con el más de 20 años. Está al día de todo, ITV pasada y funciona perfectamente. El motivo de la venta es debido a jubilación y ya no se usa prácticamente nada. No cambios, solo venta.",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "115 cv",
-            "año": "2002",
-            "kilómetros": "190000 km",
             "precio": 3300.0
         }
     ]

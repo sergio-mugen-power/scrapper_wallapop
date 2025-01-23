@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 125,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=125&min_year=2010&max_year=2012&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=125&min_year=2010&max_year=2012&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -101,7 +101,7 @@
         {
             "titulo": "Audi A3 1.4 TFSI 125CV AMBITION",
             "enlace": "https://es.wallapop.com/item/audi-a3-1-4-tfsi-1059741676",
-            "descripcion": "",
+            "descripcion": "VEHICULO PROCEDENTE DE EMPRESA,CERTIFICACION DE KILOMETRAJE,LLANTAS DE ALEACION DEPORTIVAS EN COLOR NEGRO BRILLANTE,NAVEGADOR,CLIMATIZADOR AUTOMATICO,PARKTRONIC TRASERO,CALEFACCION EN LOS ASIENTOS,RUEDAS NUEVAS PIRELLY,RADIO CD CON MP3,ESPECTACULAR ESTADO DE CHAPA Y PINTURA ,LO ENTREGAMOS CON 12 MESES DE GARANTIA",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "125 cv",
@@ -123,7 +123,7 @@
         {
             "titulo": "Audi A3 2011",
             "enlace": "https://es.wallapop.com/item/audi-a3-2011-1090567158",
-            "descripcion": "Con pocos kilómetros, y muy bien cuidado. Motor 1.2 gasolina 105 CV. Chapa y pintura en buen estado, tiene algún roce de aparcamiento. Pasada la ITV en 2024 con todo favorable. Asientos calefactables, control de velocidad, star-stop. Consumo muy bajo. Hechos los cambios de filtros y aceite en taller. Lo vendo porque a partir de ahora no lo voy a necesitar. Contacto: Alberto 609782255",
+            "descripcion": "Con pocos kilómetros, y muy bien cuidado. Motor 1.2 gasolina 105 CV. Chapa y pintura en buen estado, tiene algún roce de aparcamiento. Pasada la ITV en 2024 con todo favorable. Asientos calefactables, control de velocidad, star-stop. Consumo muy bajo. Hechos los cambios de filtros y aceite en taller. Pasada ITV. Lo vendo porque a partir de ahora no lo voy a necesitar. Contacto: Alberto 609782255",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "105 cv",
@@ -141,17 +141,6 @@
             "año": "2011",
             "kilómetros": "159500 km",
             "precio": 9480.0
-        },
-        {
-            "titulo": "Audi A3 2012",
-            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1075344894",
-            "descripcion": "Vendo audi a3 sportback en perfecto estado tanto mecáncia como físicamente. Muy bien cuidado. Elevalunas eléctrico, asientos calefactables y más accesorios. ITV pasada hasta noviembre de 2025. No dudéis en preguntar. Coche actualmente en mallorca pero lo podemos llevar a valencia sin nigún problema",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "125 cv",
-            "año": "2012",
-            "kilómetros": "193000 km",
-            "precio": 9300.0
         },
         {
             "titulo": "Audi A3 2010",
@@ -232,6 +221,17 @@
         },
         {
             "titulo": "Audi A3 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1092715046",
+            "descripcion": "Vendo Audi A3 en un estado inmejorable, esta en perfecto estado tanto de interior como de exterior, 175.000km, año 2010, motor 1.4 TFSI con distribución a cadena, motor muy fiable, mantenimiento aceite i filtros echo en octubre a las 170mil, PEGATINA MEDIOAMBIENTAL (C), tiene sistema star/stop, Radio con bluthoot, Caja de cambios de 6 marchas, todo en perfecto estado. Coche perfecto para la normativa de contaminación, i tiene un consumo ridiculo. ITV recien pasada, hasta enero de 2026. Ultimo precio. No vajo mas.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "125 cv",
+            "año": "2010",
+            "kilómetros": "175000 km",
+            "precio": 7200.0
+        },
+        {
+            "titulo": "Audi A3 2010",
             "enlace": "https://es.wallapop.com/item/audi-a3-2010-1081654880",
             "descripcion": "Vendo Audi A3 en un estado inmejorable, esta en perfecto estado tanto de interior como de exterior, 175.000km, año 2010, motor 1.4 TFSI con distribución a cadena, motor muy fiable, mantenimiento aceite i filtros echo en octubre a las 170mil, PEGATINA MEDIOAMBIENTAL (C), tiene sistema star/stop, Radio con bluthoot, Caja de cambios de 6 marchas, todo en perfecto estado. Coche perfecto para la normativa de contaminación, i tiene un consumo ridiculo. ITV recien pasada, hasta enero de 2026. Ultimo precio. No vajo mas.",
             "combustible": "Gasolina",
@@ -239,7 +239,7 @@
             "potencia": "125 cv",
             "año": "2010",
             "kilómetros": "175000 km",
-            "precio": 7000.0
+            "precio": 7200.0
         },
         {
             "titulo": "Audi A3 2011",
@@ -288,7 +288,7 @@
         {
             "titulo": "Audi A3 2010",
             "enlace": "https://es.wallapop.com/item/audi-a3-2010-1087342191",
-            "descripcion": "",
+            "descripcion": "Vehículo de particular en comisión de venta!! LIBRO DE REVISIONES COMPLETO!! Distribución de cadena recién hecha! Aceite y todos los filtros nuevos 11/1/25, neumáticos traseros nuevos, muy buen estado de pintura, interior impecable, ITV hasta julio. Extras: faros bixenon, sensor de luces lluvia, asientos deportivos calefactables, sensor de aparcamiento trasero, llantas 17 s-Line, equipo de música bose, auxiliar, climatizador bizona, abs esp, 2 llaves con mando. Similar: golf Gtd Gti r32 leon fr cupra ibiza fiesta st Focus astra corsa 308",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "125 cv",

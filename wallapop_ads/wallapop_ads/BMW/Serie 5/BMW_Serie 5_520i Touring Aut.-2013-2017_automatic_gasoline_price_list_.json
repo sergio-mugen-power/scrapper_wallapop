@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Serie 5",
+        "version": "520i Touring Aut.",
+        "año mínimo": "2013",
+        "año máximo": "2017",
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": "184",
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=184&min_year=2013&max_year=2017&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW Serie 5 - IVA Deducible!",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-g30-2017-1067758152",
+            "descripcion": "BMW Serie 5 (G-30) 520i / gasolina / automático 09.2017 228.000 km ITV hasta 03.26 En perfectas condiciones Entrego con otro juego de neumáticos Michelin de invierno IVA DEDUCIBLE 18.000 euros El vehiculo es de un amigo y está en Bilbao (País Vasco) pero viene frecuentemente a Madrid. Ultimo mantenimiento (con factura): cambio de bujías, discos delanteros, pastillas, filtros motor y habitáculo.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "184 cv",
+            "año": "2017",
+            "kilómetros": "228000 km",
+            "precio": 18000.0
+        },
+        {
+            "titulo": "BMW Serie 5 2013",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-2013-1085624217",
+            "descripcion": "solo se venden unas piezas nuevas y la cuatro llantas y cubiertas originales de BMW",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "143 cv",
+            "año": "2013",
+            "kilómetros": "14300 km",
+            "precio": 350.0
+        }
+    ]
+}

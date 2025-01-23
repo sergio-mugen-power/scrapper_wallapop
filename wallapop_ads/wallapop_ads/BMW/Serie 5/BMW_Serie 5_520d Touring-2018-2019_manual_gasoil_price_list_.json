@@ -1,0 +1,69 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Serie 5",
+        "version": "520d Touring",
+        "año mínimo": "2018",
+        "año máximo": "2019",
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoil",
+        "potencia máxima": "190",
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=190&min_year=2018&max_year=2019&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=BMW&model=Serie 5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW Serie 5 2018",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-2018-1058862537",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "190 cv",
+            "año": "2018",
+            "kilómetros": "99999 km",
+            "precio": 24999.0
+        },
+        {
+            "titulo": "BMW Serie 5 2018",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-2018-1047465815",
+            "descripcion": "Compra tu vehículo con total Confianza -NOS respaldan más de 15 años de Actividad en el Sector de la Automoción. -Garantía de 1 año a Nivel Nacional, con la tranquilidad de que te atenderemos en cualquier circunstancia. -El vehículo está revisado 360° en que se revisan más de 25 puntos de todo el vehículo. -Certificado de Kilometraje y Ausencia de Golpes Estructurales -Aceptamos vehículos como parte de pago -Financiación de hasta el 100% en el acto -Para más información, visitenos: -Dirección: c/ Alcala 452 Madrid BMW Serie 5 520d Efficient Dynamics VEHÍCULO EN PERFECTO ESTADO A TODA PRUEBA VEN Y PRUEBALO SIN COMPROMISO!!!!.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "190 cv",
+            "año": "2018",
+            "kilómetros": "99999 km",
+            "precio": 24999.0
+        },
+        {
+            "titulo": "BMW Serie 5 2018",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-2018-1074062462",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "190 cv",
+            "año": "2018",
+            "kilómetros": "123000 km",
+            "precio": 22900.0
+        },
+        {
+            "titulo": "BMW Serie 5 520d Touring",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-520d-touring-1069209538",
+            "descripcion": "En AutosMadriD, tenemos el coche de tus suenos. Vehiculo disponible en nuestro concesionario Autos Madrid SS. de los Reyes, Camino de lo Cortao, N.º 15, SS de los Reyes - Madrid. Precio de venta al contado: 23.490€ I.V.A DEDUCIBLE Precio sujeto a financiacion: 20.490€ (financiacion a su medida y en comodas cuotas). Equipado con: -Retrovisores electricos y abatibles -Sensor de luces -Control crucero -Limitado de velocidad -Porton trasero electrico -Control por voz -Volante multifuncion -Sensores delanteros y traseros de aparcamiento -Camara marcha atras -Conexion por Bluetooth -Navegador -Freno de mano electrico -Modos de conduccion -Climatizador bizona -Sensor de lluvia Extension de garantia COMERCIAL AUTOSMADRID, a consultar. Dejanos tu antiguo vehiculo y te aseguramos la mejor tasacion del mercado. Nos encargamos de todos los tramites. HORARIO ATENCION TELEFONICA: Lunes a Viernes: 10:00 - 20:30 Sabados: 10:00-14:00/ 16:30-20:00 ¡VEN A VISITARNOS! Estaremos encantados de atenderte y resolverte todas las dudas. 5 concesionarios en Madrid: San Sebastian de los Reyes, Alcala de Henares, Alcorcon, Mostoles y Leganes. Este anuncio no es vinculante, puede contener errores, se muestra a titulo informativo y no contractual. AutosMadrid se reserva el derecho de modificacion de datos, cambio de precios en la web....",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "190 cv",
+            "año": "2018",
+            "kilómetros": "106693 km",
+            "precio": 20490.0
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "Q7",
+        "version": "4.2 FSI quattro tiptronic",
+        "año mínimo": 2008,
+        "año máximo": 2009,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 349,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=349&min_year=2008&max_year=2009&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=Q7&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi Q7 2008",
+            "enlace": "https://es.wallapop.com/item/audi-q7-2008-977839210",
+            "descripcion": "Audi Q7 3.6 VR6 FSI Quattro con 280 cvs / 7 plazas / importado de Estados Unidos en 2012. Mantenimiento al día. Doble techo solar. En buenas condiciones y perfecto de mecánica.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "280 cv",
+            "año": "2008",
+            "kilómetros": "175000 km",
+            "precio": 13990.0
+        },
+        {
+            "titulo": "Audi Q7 2008",
+            "enlace": "https://es.wallapop.com/item/audi-q7-2008-1085064496",
+            "descripcion": "Suspensión neumática, equipo multimedia integrado, Ruedas de invierno nuevas, climatizador bizona, faros xenón, cristales dobles. Etiqueta C",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "280 cv",
+            "año": "2008",
+            "kilómetros": "175000 km",
+            "precio": 13500.0
+        },
+        {
+            "titulo": "Audi Q7 2008",
+            "enlace": "https://es.wallapop.com/item/audi-q7-2008-1045742297",
+            "descripcion": "Precioso Audi Q7 del año 2008 procedente de edición limitada de EEUU con 245000 kilómetros,con ITV hasta diciembre de 2024,con todos los extras posibles....7 plazas, pegatina medio ambiental C para no tener problemas de circular por el centro de ciudades, funciona perfectamente. Iinteresados hablar por WhatsApp 625727880 por motivos de trabajo,solo personas realmente interesadas así no perdemos el tiempo ninguno de los 2,se vende porque por problema familiar. Solo está semana",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "280 cv",
+            "año": "2008",
+            "kilómetros": "244000 km",
+            "precio": 11900.0
+        }
+    ]
+}

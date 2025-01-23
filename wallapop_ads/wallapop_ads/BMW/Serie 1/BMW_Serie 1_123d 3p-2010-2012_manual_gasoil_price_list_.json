@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 1",
         "version": "123d 3p",
-        "año mínimo": 2010,
-        "año máximo": 2012,
+        "año mínimo": "2010",
+        "año máximo": "2012",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "manual",
         "tipos de motor": "gasoil",
-        "potencia máxima": 204,
+        "potencia máxima": "204",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=204&min_year=2010&max_year=2012&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=BMW&model=Serie 1&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -167,7 +167,7 @@
         {
             "titulo": "BMW Serie 1 2012 118d",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1-2012-118d-984219481",
-            "descripcion": "",
+            "descripcion": "UN AÑO DE GARANTIA MECANICA.. ACEPTAMOS COCHE A CAMBIO COMO PARTE DE PAGO.... SE PUEDE FINANCIAR...MOTOR 2000CC..... 143 CABALLOS...ETIQUETA AMARILLA... FAROS DE XENON ....SENSOR DE APARCAMIENTO.......PAQUETE M.....TAPICERIA DE PIEL....",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "143 cv",
@@ -196,6 +196,17 @@
             "año": "2012",
             "kilómetros": "137000 km",
             "precio": 12900.0
+        },
+        {
+            "titulo": "BMW Serie 1 2012",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2012-1091426276",
+            "descripcion": "coche unico dueño comprado en consecionario, revision y mantenimiento (cambio aceite,filtros,etc) en diciembre, itv pasada en diciembre, neumaticos nuevos, version sport, acabados sport en interior. lo mejor es verlo en persona.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "116 cv",
+            "año": "2012",
+            "kilómetros": "165000 km",
+            "precio": 12800.0
         },
         {
             "titulo": "BMW Serie 1 118d Cabrio 105 kW (143 CV)",
@@ -328,17 +339,6 @@
             "año": "2011",
             "kilómetros": "140000 km",
             "precio": 12200.0
-        },
-        {
-            "titulo": "BMW Serie 1 2012",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2012-1091426276",
-            "descripcion": "coche unico dueño comprado en consecionario, revision y mantenimiento (cambio aceite,filtros,etc) en diciembre, itv pasada en diciembre, neumaticos nuevos, version sport, acabados sport en interior. lo mejor es verlo en persona.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "116 cv",
-            "año": "2012",
-            "kilómetros": "165000 km",
-            "precio": 12000.0
         },
         {
             "titulo": "BMW Serie 1 coupe 2012",

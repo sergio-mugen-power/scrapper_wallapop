@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 150,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=150&min_year=2013&max_year=2014&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=150&min_year=2013&max_year=2014&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -46,7 +46,7 @@
         {
             "titulo": "Audi A3 S-LINE 🔥 SEDAN - 2014",
             "enlace": "https://es.wallapop.com/item/audi-a3-s-line-sedan-2014-1079042405",
-            "descripcion": "SEDAN / LIMUSINA Impecable estado! ACEPTAMOS SU COCHE COMO PARTE DE PAGO. Los extras se detallan por privado! Se entrega totalmente revisado. Entrega a toda España desde 250€ Un año de garantia!",
+            "descripcion": "",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "150 cv",
@@ -320,13 +320,13 @@
         },
         {
             "titulo": "Audi A3 2014",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2014-1078345590",
-            "descripcion": "coche totalmente al dia, coche mimado al detalle, asientos calefactables, techo panoramico, paquete sline interior y exterior, sensores de aparcamiento traseros, facturas de mantenimiento, carplay instalado, luces ambiente interior. Vehiculo a toda prueba. Precio algo negociable. Motivo de la venta cambio a Suv por aumento de familia.",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2014-1092373148",
+            "descripcion": "",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "150 cv",
             "año": "2014",
-            "kilómetros": "225000 km",
+            "kilómetros": "240000 km",
             "precio": 14000.0
         },
         {
@@ -386,7 +386,7 @@
         },
         {
             "titulo": "Audi A3 Sportback 1.6 TDI 105 S tron Attraction",
-            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-6-tdi-105-s-tron-attraction-1091584248",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-6-tdi-105-s-tron-attraction-1091482552",
             "descripcion": "Precio al contado: 16.490€ (IVA incluido) *** Precio alternativo oferta de financiacion: 13.990€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Torrevieja, Av. de las Cortes Valencianas, 42, 03183, Torrevieja, Alicante. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Vi...",
             "combustible": "Diésel",
             "cambio": "Automático",
@@ -397,7 +397,7 @@
         },
         {
             "titulo": "Audi A3 Sportback 1.6 TDI 105 S tron Attraction",
-            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-6-tdi-105-s-tron-attraction-1091482552",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-6-tdi-105-s-tron-attraction-1091584248",
             "descripcion": "Precio al contado: 16.490€ (IVA incluido) *** Precio alternativo oferta de financiacion: 13.990€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Torrevieja, Av. de las Cortes Valencianas, 42, 03183, Torrevieja, Alicante. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Vi...",
             "combustible": "Diésel",
             "cambio": "Automático",
@@ -528,6 +528,28 @@
             "precio": 13400.0
         },
         {
+            "titulo": "Audi A3 Sportback 2013 Automático",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-2013-736051795",
+            "descripcion": "Audi A3 Sportback 2013 en perfecto estado. Automático , Isofix, Control de velocidad, start-stop, ordenador de abordo, volante multifuncion, muy poco consumo, retrovisores eléctricos, no se ha fumado en el coche. Revisiones al dia Contactar para mas información o fotos. Mejor ver y probar.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "105 cv",
+            "año": "2013",
+            "kilómetros": "180000 km",
+            "precio": 13250.0
+        },
+        {
+            "titulo": "Audi A3 2014",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2014-1078345590",
+            "descripcion": "coche totalmente al dia, coche mimado al detalle, asientos calefactables, techo panoramico, paquete sline interior y exterior, sensores de aparcamiento traseros, facturas de mantenimiento, carplay instalado, luces ambiente interior. Vehiculo a toda prueba. Precio algo negociable. Motivo de la venta cambio a Suv por aumento de familia.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "2014",
+            "kilómetros": "225000 km",
+            "precio": 13000.0
+        },
+        {
             "titulo": "Audi A3 2014",
             "enlace": "https://es.wallapop.com/item/audi-a3-2014-1060933876",
             "descripcion": "AUDI A3 Sportback, sline, Stronic (8VA) 2.0 TDi 150 CV, sedán, 8 CV, 5 puertas, primera matriculación 16/10/2013 / 5 plazas / Kilometraje 220.000 km. # PLACAS FRANCESAS!! OPCIONES Y EQUIPO: Audio - Telecomunicaciones: - sistema de navegación de Europa - Teléfono Bluetooth/Multimedia -Radio - reproductor de CD Conduciendo: - Encendido automático de luces. - Elección del modo de conducción (selectdrive) - Chasis deportivo - detector de lluvia Exterior: -4 neumáticos de invierno y 4 neumáticos de verano. - Luces de emergencia - Pintura totalmente metalizada. - faros de xenón / días LED - Radar de asistencia al aparcamiento - Espejos calefactores - Espejos eléctricos - Lunas traseras 3/4 tintadas - Parrilla deportiva Interior: - Aire acondicionado: Automático bizona - Asientos delanteros con calefacción - ordenador de abordo - Tiene un reposabrazos central (ajustable) - Asientos regulables en altura - Volante deportivo -asiento semicuero Paquete: -GPS en color - Anti-arranque - Volante multifunción - Volante ajustable - Pantalla multifunción",
@@ -605,17 +627,6 @@
             "precio": 12500.0
         },
         {
-            "titulo": "Audi A3 2014",
-            "enlace": "https://es.wallapop.com/item/audi-a3-ambition-1-6-tdi-stronic-1073534056",
-            "descripcion": "Audi A3 1.6 ambition automático totalmente revisado,ruedas nuevas,todos los filtros cambiados recientemente, itv octubre 2025 Todos los extras, paquete deportivo, llantas de 18 pulgadas. Se vende por no usar.",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "110 cv",
-            "año": "2014",
-            "kilómetros": "159000 km",
-            "precio": 12500.0
-        },
-        {
             "titulo": "Audi A3 2013/2014",
             "enlace": "https://es.wallapop.com/item/audi-a3-2013-1070673023",
             "descripcion": "Vendo audi A3 ,en perfecto estado, con todos los extras Pack Sline, se le ha realizado la revisión completa cambio de aceite, cambio aceite DSG, neumáticos... se le ha realizado la sustitución del kit de distribución + bomba agua, se le ha sustituido el volante motor... Vehículo como se ha indicado anteriormente a toda prueba,ITV recién pasado se puede ver y probar sin compromiso el coche esta rematriculado.",
@@ -629,7 +640,7 @@
         {
             "titulo": "Audi A3 2.0 TDI 150cv DSG 2013",
             "enlace": "https://es.wallapop.com/item/audi-a3-2013-2-0-tdi-150-sportback-stronic-1058263877",
-            "descripcion": "SLEEP VAN MOTORS. -HISTORIAL DE MANTENIMIENTO COMPLETO A DISPOSICIÓN DEL CLIENTE -GARANTIA 12 MESES CON COBERTURA EN TODA LA PENÍNSULA -Opción de entrega en toda la península (consultar condiciones con el vendedor) -HACEMOS EL ESTUDIO DE FINANCIACIÓN EN MENOS DE 24H EQUIPAMIENTO A DESTACAR: ESPECTACULAR AUDI A3 SPORTBACK 2.0 TDI 150 CV CAMBIO S-TRONIC DSG NAVEGADOR CON MMI TOUCH RADAR TRASERO Y DELANTERO CLIMATIZADOR BI-ZONA ELEVALUNAS EN LAS 4 PUERTAS BLUETOOTH CONECT MULTIMEDIA LLANTAS DE ALEACION LIBRO DE MANTENIMIENTO ASIENTOS EN CUERO MIXTOS VEHICULO EN EXCELENTES CONDICIONES NO DUDE EN CONTACTAR CON NOSOTROS FINANCIACION A SU MEDIDA DISPONEMOS DE VIDEO EN HD",
+            "descripcion": "",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "150 cv",
@@ -647,6 +658,17 @@
             "año": "2014",
             "kilómetros": "190000 km",
             "precio": 12400.0
+        },
+        {
+            "titulo": "Audi A3 2013",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2013-1092225067",
+            "descripcion": "Coche muy limpia Antes estaba en Belgika",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "105 cv",
+            "año": "2013",
+            "kilómetros": "248000 km",
+            "precio": 12300.0
         },
         {
             "titulo": "Audi A3 2013",
@@ -669,6 +691,17 @@
             "año": "2014",
             "kilómetros": "189000 km",
             "precio": 11990.0
+        },
+        {
+            "titulo": "Audi A3 2014",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2014-1092313081",
+            "descripcion": "Audi A3 funcionando perfectamente. -Las 4 ruedas nuevas -ITV recién pasada -xenon recién cambiado -volante multifunción -paquete s-line completo con asientos de cuero. -automatico -llantas 18 -control de velocidad -sensor de aparcamiento -pintado enterito recientemente por tener seguro completo lo vendo con pena por tener que comprarme una furgoneta al hacerme autónoma. pero es lo mejor!",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "2014",
+            "kilómetros": "278000 km",
+            "precio": 11900.0
         },
         {
             "titulo": "Audi A3 2014",
@@ -705,6 +738,17 @@
         },
         {
             "titulo": "Audi A3 2014",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2014-1092046104",
+            "descripcion": "muy cuidado itv al dia mantenimientos hechos Mejor ver y probar!",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "2014",
+            "kilómetros": "205000 km",
+            "precio": 11000.0
+        },
+        {
+            "titulo": "Audi A3 2014",
             "enlace": "https://es.wallapop.com/item/audi-a3-2014-1091265120",
             "descripcion": "Se vende Audi A3 S-Line 2.0 TDI 150 CV – Año 2014 Vehículo en excelente estado, mantenimiento al día y cuidado al detalle. Características principales: • Motor: 2.0 TDI de 150 CV, eficiente y potente. • Kilometraje: 200,000 km. • Transmisión: Caja de cambios automática para una conducción cómoda y fluida. • Versión: S-Line, con diseño deportivo y acabados premium. Equipamiento destacado: • Confort y tecnología: • Climatizador bizona para una temperatura ideal en todo momento. • Control de crucero, perfecto para viajes largos. • Sistema Start/Stop para ahorro de combustible. • Seguridad y comodidad: • Luces automáticas que se adaptan al entorno. • Volante multifunción para un manejo intuitivo y cómodo. Estado: • Mantenimientos realizados puntualmente. • Coche muy cuidado, tanto en el interior como en el exterior. Ideal para quienes buscan calidad, confort y rendimiento en un solo vehículo. 📍 Precio negociable. 📞 Contáctame para más información o para agendar una prueba.",
             "combustible": "Diésel",
@@ -735,17 +779,6 @@
             "año": "2014",
             "kilómetros": "251000 km",
             "precio": 10999.0
-        },
-        {
-            "titulo": "Audi A3 2014",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2014-1089797917",
-            "descripcion": "Se Vende Audi A3 Sportpack Stronic Motor 2.0 150cv Automático ITV 7/25 pegatina B Lleva todos los extras Techo panorama sensores de aparcamiento etc.. Acepto prueba mecánica",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "150 cv",
-            "año": "2014",
-            "kilómetros": "200000 km",
-            "precio": 10500.0
         },
         {
             "titulo": "Audi A3 2013",

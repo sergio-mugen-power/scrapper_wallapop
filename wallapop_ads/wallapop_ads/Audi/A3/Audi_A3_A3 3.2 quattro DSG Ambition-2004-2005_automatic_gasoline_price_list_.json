@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 250,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=250&min_year=2004&max_year=2005&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=250&min_year=2004&max_year=2005&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -101,7 +101,7 @@
         {
             "titulo": "Audi A3 2005",
             "enlace": "https://es.wallapop.com/item/audi-a3-2005-1090914990",
-            "descripcion": "",
+            "descripcion": "AUDI A3 SPORTBACK 2.0 150CV Y 128.000 KM REALES Y CERTIFICADOS, EN UN ESTADO INMEJORABLE, MEJOR VER. VEHICULO NACIONAL, CON TODOS LOS MANTENIMIENTOS REALIZADOS, CORREA DE DISTRI. CAMBIADA. REVISADO EN 30 PUNTOS. GARANTIA PREMIUM DE 12 MESES A NIVEL NACIONAL SIN LIMITE DE KILOMETRAJE. CAMBIO DE NOMBRE 180€ + IVA",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "150 cv",
@@ -240,17 +240,6 @@
             "año": "2005",
             "kilómetros": "200000 km",
             "precio": 1150.0
-        },
-        {
-            "titulo": "Audi A3 3.2 vr6 quattro",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2004-1091991824",
-            "descripcion": "3.2 vr6 quattro cambio dsg. Todos los extras . Llantas oz superturismo lm 19 . cambio por 4x4 como parte de pago , o aportando diferencia EL PRECIO NO ES EL REAL no leer : todoterreno mud toyota 4runner terrano patrol gr y60 y61 260 nissan xtrail ml lad cruiser",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "250 cv",
-            "año": "2004",
-            "kilómetros": "290000 km",
-            "precio": 1000.0
         }
     ]
 }

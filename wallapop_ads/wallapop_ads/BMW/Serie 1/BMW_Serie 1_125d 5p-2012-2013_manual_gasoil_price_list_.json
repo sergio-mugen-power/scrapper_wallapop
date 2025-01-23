@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 1",
         "version": "125d 5p",
-        "año mínimo": 2012,
-        "año máximo": 2013,
+        "año mínimo": "2012",
+        "año máximo": "2013",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "manual",
         "tipos de motor": "gasoil",
-        "potencia máxima": 218,
+        "potencia máxima": "218",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=218&min_year=2012&max_year=2013&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=BMW&model=Serie 1&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -35,7 +35,7 @@
         {
             "titulo": "BMW Serie 1 2.0D 140CV 5P S-DRIVE 18D",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1-2-0d-140cv-5p-s-drive-18d-1092203983",
-            "descripcion": "",
+            "descripcion": "REF: 2153 Dificar.com tu red de concesionarios de confianza! BMW X1 en IMPECABLE estado y totalmente REVISADO y CERTIFICADO por la red de concesionarios BMW con 12 meses de garantia desde el dia de entrega. VEHICULO EN OFERTA SI SE FINANCIA DETALLE DE LA OFERTA: PRECIO AL CONTADO 16.490€ Para mas informacion contactar por telefono o e-mail o si quiere verlo y probarlo sin compromiso en ( DIFIMOLINS / DIFIGIRONA ). Amplio stock en constante renovacion, aceptamos su vehiculo como forma de pago. Este anuncio no es vinculante, puede contener errores, se muestra a titulo informativo y no contractual. ***EQUIPAMIENTO EXTRA*** ***EQUIPAMIENTO SERIE*** - Mantenimiento del modelo - Paquete fumador - Carroceria: 5 puertas - Retrovisor exterior regulable electricamente y calefactable - Retrovisor exterior color carroceria - Barras portaequipajes en el techo - Luces antiniebla - Intermitentes blanco - Limpialuneta trasera - Lunas atermicas tintado - conexion AUX-IN (AUX-IN) - Ordenador de a bordo - Check-Control-System - Indicador de las marchas - Indicador de la temperatura exterior - Indicador averia en los neumaticos - Acabado interior: Molduras interiores plata-satin - Airbag conductor/acompanante - Sistema de airbag para la cabeza delante - Sistema de airbag para la cabeza detras - Airbag lateral delante - Climatizador automatico con control del aire circulante automat. - tapiceria asientos: Tela Elektra - Asientos delante mecanico regulable - Respaldo del asiento trasero dividido/abatible - Elevalunas electric. delante + detras - Cierre centralizado - Mando a distancia para Cierre centralizado - Inmovilizador - Pomo palanca cambios cuero - Anclajes Isofix para Asiento para ninos en Asiento trasero - Sistema antibloqueo (ABS) - Brake Energy Regeneration (Sistema de recuperacion) - Volante (cuero) - Columna de direccion (Volante) regulable mecanicam. - Direccion asistida - dinamico control-estabilidad (DSC) - Asistente a la conduccion: Control en bajadas ...",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "140 cv",
@@ -64,17 +64,6 @@
             "año": "2013",
             "kilómetros": "178000 km",
             "precio": 15950.0
-        },
-        {
-            "titulo": "BMW Serie 1 2013",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2015-989949154",
-            "descripcion": "Al dia de todo. Muy cuidado, duerme en garaje. Todos los extras. No cambios",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "184 cv",
-            "año": "2013",
-            "kilómetros": "189000 km",
-            "precio": 15800.0
         },
         {
             "titulo": "BMW Serie 1 2013",
@@ -129,6 +118,17 @@
             "potencia": "143 cv",
             "año": "2013",
             "kilómetros": "128000 km",
+            "precio": 15000.0
+        },
+        {
+            "titulo": "BMW Serie 1 2013",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2015-989949154",
+            "descripcion": "Al dia de todo. Muy cuidado, duerme en garaje. Todos los extras. No cambios",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "184 cv",
+            "año": "2013",
+            "kilómetros": "190000 km",
             "precio": 15000.0
         },
         {
@@ -321,7 +321,7 @@
         {
             "titulo": "BMW Serie 1 118d",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1-118d-1080850726",
-            "descripcion": "",
+            "descripcion": "Tu nuevo coche te está esperando en MUNDICARS. Elige tu cuota y financia en 15 minutos. ¡Llámanos o ven a conocernos! + DE 300 COCHES EN STOCK - Pide cita y ven a probarlo - Déjanos tu coche como parte de pago - Financiación 100% - Todos nuestro vehículos se entregan revisados y con garantía de 1 año. (Vehículos comerciales 6 meses) - Nuestro horario es de L-V: 10:00 a 20:00 Sábados : 10:30 a 14:00 Compra online o llámanos. Tiendas: 1- Blanes: Ctra. Accés Costa Brava, 190, 17300, Girona (17300) 2- Sabadell: Carretera Barcelona 473-B. (08203) 3- Granollers: Avenida Marie Curie 2 (08402) 4- Vilanova y la Geltrú: Avda. Eduard Toldrà, 107 (08800). 5- Barcelona: (Próximamente) Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual.",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "142 cv",
@@ -453,7 +453,7 @@
         {
             "titulo": "BMW Serie 1 2012 118d",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1-2012-118d-984219481",
-            "descripcion": "",
+            "descripcion": "UN AÑO DE GARANTIA MECANICA.. ACEPTAMOS COCHE A CAMBIO COMO PARTE DE PAGO.... SE PUEDE FINANCIAR...MOTOR 2000CC..... 143 CABALLOS...ETIQUETA AMARILLA... FAROS DE XENON ....SENSOR DE APARCAMIENTO.......PAQUETE M.....TAPICERIA DE PIEL....",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "143 cv",

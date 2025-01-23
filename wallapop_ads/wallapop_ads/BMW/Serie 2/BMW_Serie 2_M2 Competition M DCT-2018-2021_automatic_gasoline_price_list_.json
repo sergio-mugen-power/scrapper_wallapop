@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 2",
         "version": "M2 Competition M DCT",
-        "año mínimo": 2018,
-        "año máximo": 2021,
+        "año mínimo": "2018",
+        "año máximo": "2021",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "automatic",
         "tipos de motor": "gasoline",
-        "potencia máxima": 411,
+        "potencia máxima": "411",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=411&min_year=2018&max_year=2021&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -35,13 +35,24 @@
         {
             "titulo": "BMW Serie 2 M2 Competition",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-m2-competition-1082124016",
-            "descripcion": "BMW M2 Competition, motor 3.0 412cv, Gasolina, año 2020, 22284 kilometros, cambio automatico con modo secuencial y levas en el volante, asientos tipo semibaquet con ajuste electrico y memorias, asientos calenfactables, climatizador bizona, Radio/CD, bluetooth, navegacion, volante multifuncion, control de velocidad, manos libres, sensores de luces, lluvia y parking, equipo de musica Harman/Kardon, apertura y arranque por boton sin contacto de llave, llantas en 19 pulgadas, etc...Transferencia y garantia de 12 meses incluido en el precio. Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual.",
+            "descripcion": "",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "410 cv",
             "año": "2020",
             "kilómetros": "22284 km",
             "precio": 61900.0
+        },
+        {
+            "titulo": "BMW M2 2018 N55",
+            "enlace": "https://es.wallapop.com/item/bmw-m2-2018-370cv-1072354540",
+            "descripcion": "NACIONAL Y UNICO PROPIETARIO IVA DEDUCIBLE MOTOR N55 - 370 CV",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "370 cv",
+            "año": "2018",
+            "kilómetros": "2600 km",
+            "precio": 59900.0
         },
         {
             "titulo": "BMW M2 Competition ",
@@ -101,7 +112,7 @@
         {
             "titulo": "BMW M2 COMPETITION S55",
             "enlace": "https://es.wallapop.com/item/bmw-m2-competition-s55-1008293700",
-            "descripcion": "BMW M2 COMPETITION Motor: 3.0I S55 411CV Caja de cambios de doble embrague M DCT Año: 10/2018 Kms: 42900km PRECIO CONTADO: 58.900€//PRECIO FINANCIADO: 56.500€ CON ENTRADA 16.500€. Asientos delanteros cuero Calefactable Sensores aparcamiento Camara trasera BMW Adaptativo LED Modos de conducción Control de crucero HARMAN KARDON Whatsapp 640120013 C/Calvet Estrella 83, Sabadell (08203).",
+            "descripcion": "",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "410 cv",
@@ -253,17 +264,6 @@
             "precio": 49900.0
         },
         {
-            "titulo": "BMW Serie 2 2019",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-2-2019-m2-competition-1072636266",
-            "descripcion": "BMW M2 COMPETITION •AÑO 2019 •MOTOR 3.0 •COMBUSTIBLE GASOLINA •411 CV •119.000 KILÓMETROS •NAVEGADOR •CAMBIO AUTOMÁTICO •ASIENTOS CALEFACTABLES •VOLANTE M PERFORMANCE •PARKTRONIC DELANTERO Y TRASERO •CÁMARA DE MARCHA ATRÁS •LIBRO DE REVISIONES COMPLETO EN BMW •PINTURA ORGINAL •RUEDAS TRASERAS NUEVAS El vehículo se entrega con garantía de un año , ITV , todos sus mantenimientos al día y transferido",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "411 cv",
-            "año": "2019",
-            "kilómetros": "119000 km",
-            "precio": 48999.0
-        },
-        {
             "titulo": "BMW Serie 2 M2 COMPETITION DKG AUTOMATICO 2019",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-2019-1009680034",
             "descripcion": "",
@@ -306,6 +306,17 @@
             "año": "2020",
             "kilómetros": "102000 km",
             "precio": 48500.0
+        },
+        {
+            "titulo": "BMW Serie 2 2019",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-2-2019-m2-competition-1072636266",
+            "descripcion": "BMW M2 COMPETITION •AÑO 2019 •MOTOR 3.0 •COMBUSTIBLE GASOLINA •411 CV •119.000 KILÓMETROS •NAVEGADOR •CAMBIO AUTOMÁTICO •ASIENTOS CALEFACTABLES •VOLANTE M PERFORMANCE •PARKTRONIC DELANTERO Y TRASERO •CÁMARA DE MARCHA ATRÁS •LIBRO DE REVISIONES COMPLETO EN BMW •PINTURA ORGINAL •RUEDAS TRASERAS NUEVAS El vehículo se entrega con garantía de un año , ITV , todos sus mantenimientos al día y transferido",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "411 cv",
+            "año": "2019",
+            "kilómetros": "119000 km",
+            "precio": 47999.0
         },
         {
             "titulo": "BMW Serie 2 2018",
@@ -449,17 +460,6 @@
             "año": "2018",
             "kilómetros": "119000 km",
             "precio": 39990.0
-        },
-        {
-            "titulo": "BMW Serie 2 2018",
-            "enlace": "https://es.wallapop.com/item/bmw-m240i-1041195149",
-            "descripcion": "2018 BMW Serie 2 M240i xdrive -TODOS NUESTROS VEHICULOS SON DE UNICO PROPIETARIO Y REVISIONES EN CASA OFCIAL. -Vehículo en muy buenas condiciones de conservación. -Consultar los extras en caso de estar interesados. -Kilometraje Real. -Todos los mantenimientos al día. -Un único propietario -Se entrega revisado y con su garantía. - Ofrecemos precio especial para profesionales. Todos nuestros vehículos son de único propietario, de primera mano y mantenimientos oficiales. Por eso a la hora de vender sabemos lo que estamos vendiendo. Aceptamos cualquier prueba mecánica tanto en taller oficial, concertado o empresas como CarHelp etc. Si desea más información solo tiene que contactar sin ningún compromiso. También nos puede solicitar más fotografías o un vídeo. Entrega a domicilio incluida en el precio. Estudiamos la posibilidad de recoger su vehículo como parte de pago siempre y cuando esté en buenas condiciones.",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "340 cv",
-            "año": "2018",
-            "kilómetros": "38000 km",
-            "precio": 38950.0
         }
     ]
 }

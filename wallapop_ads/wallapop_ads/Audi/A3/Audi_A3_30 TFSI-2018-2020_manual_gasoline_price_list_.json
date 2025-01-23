@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 116,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=116&min_year=2018&max_year=2020&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=116&min_year=2018&max_year=2020&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -264,6 +264,17 @@
             "precio": 17990.0
         },
         {
+            "titulo": "Audi A3 2019 116CV",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2019-116cv-1025973610",
+            "descripcion": "NS MOTOR, Centro Multimarca en Ordes, referente en máxima calidad y servicio excepcional en la compra-venta de vehículos en Galicia VENDE: Impresionante AUDI A3 SPORTBACK 1.0 30 TFSI 115CV - ÚNICO PROPIETARIO - IVA DEDUCIBLE VEHICULO EN ESTADO DE REESTRENO!11/2018 El vehículo lleva pintura exterior negro mito metalizado, cambio manual de 6 velocidades con asistente de arrancada en pendiente, llantas de aleación de 5 radios 16\", paquete exterior cromado, faros bixenon con lavafaros, paquete de aparcamiento con sensores traseros, asientos de tela en color antracita, volante multifunción de cuero, sistema de navegación MMI, climatizador bizona",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "116 cv",
+            "año": "2019",
+            "kilómetros": "118000 km",
+            "precio": 17900.0
+        },
+        {
             "titulo": "Audi A3 1.0 TFSI 85kW (116CV) Sportback",
             "enlace": "https://es.wallapop.com/item/audi-a3-1-0-tfsi-85kw-116cv-sportback-1073888333",
             "descripcion": "Carplus I Pertenecemos al mayor grupo ibérico de automoción, Grupo Salvador Caetano I Compra online o en nuestras instalaciones de Madrid, Málaga o Sevilla | Abrimos todos los días Descubre las ventajas de comprar un coche en Carplus: - Puedes probar todos nuestros vehículos - 12 meses de garantía - Todos nuestros vehículos certificados con un control de 300 puntos, el más exhaustivo del mercado - Tienes más de 1000 coches donde elegir - Te ofrecemos soluciones de financiación hasta un 100% y seguro - Servicio de entrega a domicilio. - Puedes entregar tu vehículo como parte del pago - Horario Málaga: L-V: 09:30h a 20:30h, Sábados y de 10:00h a 20:30h Los precios son orientativos y no tienen carácter contractual, los precios definitivos serán confirmados por el concesionario distribuidor, pudiendo verse afectados en función de las opciones que se escojan, así como la campaña comercial vigente en el momento de la compra.",
@@ -272,7 +283,7 @@
             "potencia": "116 cv",
             "año": "2018",
             "kilómetros": "90800 km",
-            "precio": 17990.0
+            "precio": 17600.0
         },
         {
             "titulo": "Audi A3 1.0 TFSI 85kW (116CV) Sportback",
@@ -283,18 +294,7 @@
             "potencia": "116 cv",
             "año": "2018",
             "kilómetros": "90800 km",
-            "precio": 17990.0
-        },
-        {
-            "titulo": "Audi A3 2019 116CV",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2019-116cv-1025973610",
-            "descripcion": "NS MOTOR, Centro Multimarca en Ordes, referente en máxima calidad y servicio excepcional en la compra-venta de vehículos en Galicia VENDE: Impresionante AUDI A3 SPORTBACK 1.0 30 TFSI 115CV - ÚNICO PROPIETARIO - IVA DEDUCIBLE VEHICULO EN ESTADO DE REESTRENO!11/2018 El vehículo lleva pintura exterior negro mito metalizado, cambio manual de 6 velocidades con asistente de arrancada en pendiente, llantas de aleación de 5 radios 16\", paquete exterior cromado, faros bixenon con lavafaros, paquete de aparcamiento con sensores traseros, asientos de tela en color antracita, volante multifunción de cuero, sistema de navegación MMI, climatizador bizona",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "116 cv",
-            "año": "2019",
-            "kilómetros": "118000 km",
-            "precio": 17900.0
+            "precio": 17600.0
         },
         {
             "titulo": "Audi A3 SPORTBACK DESIGN EDITION 2019 30 TFSI ",
@@ -328,17 +328,6 @@
             "año": "2019",
             "kilómetros": "98335 km",
             "precio": 17390.0
-        },
-        {
-            "titulo": "Audi A3 Sportback S-Line 2019",
-            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-s-line-1073169199",
-            "descripcion": "Audi A3 Sportback TFSI 116cv SLine en excelente estado. Año 2019. Aceite y filtros recién cambiados. Navegador, Car Play/Android auto, Sensores de parking, Llantas aleación 18\", Bluetooth, Climatizador bizona, Arranque y acceso sin llave, Sensor de luces y lluvia, Faros led, USB, Control de Velocidad. El coche está perfecto, no hay que hacerle nada.",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "116 cv",
-            "año": "2019",
-            "kilómetros": "70000 km",
-            "precio": 17000.0
         },
         {
             "titulo": "Audi A3 2018 116CV 1.0 TFSI SLINE EDITION",
@@ -387,7 +376,7 @@
         {
             "titulo": "Audi A3 SPORTBACK 30 TFSI (EU6D-TEMP)",
             "enlace": "https://es.wallapop.com/item/audi-a3-sportback-30-tfsi-eu6d-temp-1043109405",
-            "descripcion": "PUEDES VER ESTE VEHÍCULO EN NUESTRAS INSTALACIONES DE LEGANES en Calle JULIO PALACIOS 2 (De lunes a sábado de 10:30 a 14:00 y de 17:00 a 20:30 horas y domingos de 10:00 a 14:00 horas) TAMBIEN SABADOS Y DOMINGOS. COMPRA TU COCHE ONLINE O EN CUALQUIERA DE NUESTROS CENTROS Y SI ERES DE FUERA DE MADRID TE LO ENVIAMOS GRATIS A CUALQUIER PUNTO DE LA PENÍNSULA CON NUESTRO SERVICIO DE ENTREGA A DOMICILIO, CONTACTA CON NOSOTROS Y TE ENVIAMOS HISTORIAL DE MANTENIMIENTO, PERITACION Y CERTIFICADOS, TE CALCULAMOS LA FINANCIACIÓN Y TE ACLARAMOS CUALQUIER DUDA. Los mejores precios gracias a nuestro sistema digital y posibilidad de cambio en 15 días o 1.000km para ventas a distancia. Financiación SIN entrada y en el acto hasta el 100% con DNI/NIE y última nómina, si lo necesitas tasamos tu coche a cambio. El precio indicado es con GARANTIA DE UN AÑO ampliable en coberturas y plazos. SOLICITANOS MAS INFORMACIÓN. El vehículo tiene IVA INCLUIDO y es deducible si eres una empresa o autónomo. Con nosotros te ahorras HASTA EL 11% DE ITP que pagarías a hacienda si comprases a un vendedor particular. * Las fotografías mostradas son las reales del vehículo, así como precio, extras, modelo y otros datos salvo error, por lo tanto este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual. (ene5) EQUIPAMIENTOS: ESPEJOS ELECTRICOS LLANTAS DE ALEACIÓN LUCES DIURNAS LUCES LED SENSOR DE LUCES BLUETOOTH CIERRE CENTRALIZADO CLIMATIZADOR CLIMATIZADOR BIZONA CONTROL DE VELOCIDAD DIRECCIÓN ASISTIDA ELEVALUNAS ELÉCTRICO LIMITADOR DE VELOCIDAD MANDOS EN VOLANTE NAVEGADOR GPS ORDENADOR DE A BORDO RADIO CD SENSOR DE PARKING USB ABS AIRBAG AIRBAG ACOMPAÑANTE AIRBAGS LATERALES AYUDA ARRANQUE EN PENDIENTE CONTROL DE TRACCIÓN ESP INMOVILIZADOR ELECTRÓNICO CAMBIO MANUAL RUEDA DE REPUESTO O KIT ANTIPINCHAZOS",
+            "descripcion": "PUEDES VER ESTE VEHÍCULO EN NUESTRAS INSTALACIONES DE LEGANES en Calle JULIO PALACIOS 2 (De lunes a sábado de 10:30 a 14:00 y de 17:00 a 20:30 horas y domingos de 10:00 a 14:00 horas) TAMBIEN SABADOS Y DOMINGOS. COMPRA TU COCHE ONLINE O EN CUALQUIERA DE NUESTROS CENTROS Y SI ERES DE FUERA DE MADRID TE LO ENVIAMOS GRATIS A CUALQUIER PUNTO DE LA PENÍNSULA CON NUESTRO SERVICIO DE ENTREGA A DOMICILIO, CONTACTA CON NOSOTROS Y TE ENVIAMOS HISTORIAL DE MANTENIMIENTO, PERITACION Y CERTIFICADOS, TE CALCULAMOS LA FINANCIACIÓN Y TE ACLARAMOS CUALQUIER DUDA. Los mejores precios gracias a nuestro sistema digital y posibilidad de cambio en 15 días o 1.000km para ventas a distancia. Financiación SIN entrada y en el acto hasta el 100% con DNI/NIE y última nómina, si lo necesitas tasamos tu coche a cambio. El precio indicado es con GARANTIA DE UN AÑO ampliable en coberturas y plazos. SOLICITANOS MAS INFORMACIÓN. El vehículo tiene IVA INCLUIDO y es deducible si eres una empresa o autónomo. Con nosotros te ahorras HASTA EL 11% DE ITP que pagarías a hacienda si comprases a un vendedor particular. * Las fotografías mostradas son las reales del vehículo, así como precio, extras, modelo y otros datos salvo error, por lo tanto este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual. (ene6) EQUIPAMIENTOS: ESPEJOS ELECTRICOS LLANTAS DE ALEACIÓN LUCES DIURNAS LUCES LED SENSOR DE LUCES BLUETOOTH CIERRE CENTRALIZADO CLIMATIZADOR CLIMATIZADOR BIZONA CONTROL DE VELOCIDAD DIRECCIÓN ASISTIDA ELEVALUNAS ELÉCTRICO LIMITADOR DE VELOCIDAD MANDOS EN VOLANTE NAVEGADOR GPS ORDENADOR DE A BORDO RADIO CD SENSOR DE PARKING USB ABS AIRBAG AIRBAG ACOMPAÑANTE AIRBAGS LATERALES AYUDA ARRANQUE EN PENDIENTE CONTROL DE TRACCIÓN ESP INMOVILIZADOR ELECTRÓNICO CAMBIO MANUAL RUEDA DE REPUESTO O KIT ANTIPINCHAZOS",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "116 cv",
@@ -398,7 +387,7 @@
         {
             "titulo": "Audi A3 SPORTBACK 30 TFSI (EU6D-TEMP)",
             "enlace": "https://es.wallapop.com/item/audi-a3-sportback-30-tfsi-eu6d-temp-1036133144",
-            "descripcion": "PUEDES VER ESTE VEHÍCULO EN NUESTRAS INSTALACIONES DE LEGANES en Calle JULIO PALACIOS 2 (De lunes a sábado de 10:30 a 14:00 y de 17:00 a 20:30 horas y domingos de 10:00 a 14:00 horas) TAMBIEN SABADOS Y DOMINGOS. COMPRA TU COCHE ONLINE O EN CUALQUIERA DE NUESTROS CENTROS Y SI ERES DE FUERA DE MADRID TE LO ENVIAMOS GRATIS A CUALQUIER PUNTO DE LA PENÍNSULA CON NUESTRO SERVICIO DE ENTREGA A DOMICILIO, CONTACTA CON NOSOTROS Y TE ENVIAMOS HISTORIAL DE MANTENIMIENTO, PERITACION Y CERTIFICADOS, TE CALCULAMOS LA FINANCIACIÓN Y TE ACLARAMOS CUALQUIER DUDA. Los mejores precios gracias a nuestro sistema digital y posibilidad de cambio en 15 días o 1.000km para ventas a distancia. Financiación SIN entrada y en el acto hasta el 100% con DNI/NIE y última nómina, si lo necesitas tasamos tu coche a cambio. El precio indicado es con GARANTIA DE UN AÑO ampliable en coberturas y plazos. SOLICITANOS MAS INFORMACIÓN. El vehículo tiene IVA INCLUIDO y es deducible si eres una empresa o autónomo. Con nosotros te ahorras HASTA EL 11% DE ITP que pagarías a hacienda si comprases a un vendedor particular. * Las fotografías mostradas son las reales del vehículo, así como precio, extras, modelo y otros datos salvo error, por lo tanto este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual. (ene5) EQUIPAMIENTOS: ESPEJOS ELECTRICOS LLANTAS DE ALEACIÓN LUCES DIURNAS LUCES LED SENSOR DE LUCES BLUETOOTH CIERRE CENTRALIZADO CLIMATIZADOR CLIMATIZADOR BIZONA CONTROL DE VELOCIDAD DIRECCIÓN ASISTIDA ELEVALUNAS ELÉCTRICO LIMITADOR DE VELOCIDAD MANDOS EN VOLANTE NAVEGADOR GPS ORDENADOR DE A BORDO RADIO CD SENSOR DE PARKING USB ABS AIRBAG AIRBAG ACOMPAÑANTE AIRBAGS LATERALES AYUDA ARRANQUE EN PENDIENTE CONTROL DE TRACCIÓN ESP INMOVILIZADOR ELECTRÓNICO CAMBIO MANUAL RUEDA DE REPUESTO O KIT ANTIPINCHAZOS",
+            "descripcion": "PUEDES VER ESTE VEHÍCULO EN NUESTRAS INSTALACIONES DE LEGANES en Calle JULIO PALACIOS 2 (De lunes a sábado de 10:30 a 14:00 y de 17:00 a 20:30 horas y domingos de 10:00 a 14:00 horas) TAMBIEN SABADOS Y DOMINGOS. COMPRA TU COCHE ONLINE O EN CUALQUIERA DE NUESTROS CENTROS Y SI ERES DE FUERA DE MADRID TE LO ENVIAMOS GRATIS A CUALQUIER PUNTO DE LA PENÍNSULA CON NUESTRO SERVICIO DE ENTREGA A DOMICILIO, CONTACTA CON NOSOTROS Y TE ENVIAMOS HISTORIAL DE MANTENIMIENTO, PERITACION Y CERTIFICADOS, TE CALCULAMOS LA FINANCIACIÓN Y TE ACLARAMOS CUALQUIER DUDA. Los mejores precios gracias a nuestro sistema digital y posibilidad de cambio en 15 días o 1.000km para ventas a distancia. Financiación SIN entrada y en el acto hasta el 100% con DNI/NIE y última nómina, si lo necesitas tasamos tu coche a cambio. El precio indicado es con GARANTIA DE UN AÑO ampliable en coberturas y plazos. SOLICITANOS MAS INFORMACIÓN. El vehículo tiene IVA INCLUIDO y es deducible si eres una empresa o autónomo. Con nosotros te ahorras HASTA EL 11% DE ITP que pagarías a hacienda si comprases a un vendedor particular. * Las fotografías mostradas son las reales del vehículo, así como precio, extras, modelo y otros datos salvo error, por lo tanto este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual. (ene6) EQUIPAMIENTOS: ESPEJOS ELECTRICOS LLANTAS DE ALEACIÓN LUCES DIURNAS LUCES LED SENSOR DE LUCES BLUETOOTH CIERRE CENTRALIZADO CLIMATIZADOR CLIMATIZADOR BIZONA CONTROL DE VELOCIDAD DIRECCIÓN ASISTIDA ELEVALUNAS ELÉCTRICO LIMITADOR DE VELOCIDAD MANDOS EN VOLANTE NAVEGADOR GPS ORDENADOR DE A BORDO RADIO CD SENSOR DE PARKING USB ABS AIRBAG AIRBAG ACOMPAÑANTE AIRBAGS LATERALES AYUDA ARRANQUE EN PENDIENTE CONTROL DE TRACCIÓN ESP INMOVILIZADOR ELECTRÓNICO CAMBIO MANUAL RUEDA DE REPUESTO O KIT ANTIPINCHAZOS",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "116 cv",
@@ -409,7 +398,7 @@
         {
             "titulo": "Audi A3 SPORTBACK 30 TFSI (EU6D-TEMP)",
             "enlace": "https://es.wallapop.com/item/audi-a3-sportback-30-tfsi-eu6d-temp-1089826427",
-            "descripcion": "PUEDES VER ESTE VEHICULO EN NUESTRAS INSTALACIONES DE LEGANES en Calle JULIO PALACIOS 2 (De lunes a sabado de 10:30 a 14:00 y de 17:00 a 20:30 horas y domingos de 10:00 a 14:00 horas) TAMBIEN SABADOS Y DOMINGOS. COMPRA TU COCHE ONLINE O EN CUALQUIERA DE NUESTROS CENTROS Y SI ERES DE FUERA DE MADRID TE LO ENVIAMOS GRATIS A CUALQUIER PUNTO DE LA PENINSULA CON NUESTRO SERVICIO DE ENTREGA A DOMICILIO, CONTACTA CON NOSOTROS Y TE ENVIAMOS HISTORIAL DE MANTENIMIENTO, PERITACION Y CERTIFICADOS, TE CALCULAMOS LA FINANCIACION Y TE ACLARAMOS CUALQUIER DUDA. Los mejores precios gracias a nuestro sistema digital y posibilidad de cambio en 15 dias o 1.000km para ventas a distancia. Financiacion SIN entrada y en el acto hasta el 100% con DNI/NIE y ultima nomina, si lo necesitas tasamos tu coche a cambio. El precio indicado es con GARANTIA DE UN ANO ampliable en coberturas y plazos. SOLICITANOS MAS INFORMACION. El vehiculo tiene IVA INCLUIDO y es deducible si eres una empresa o autonomo. Con nosotros te ahorras HASTA EL 11% DE ITP que pagarias a hacienda si comprases a un vendedor particular. * Las fotografias mostradas son las reales del vehiculo, asi como precio, extras, modelo y otros datos salvo error, por lo tanto este anuncio no es vinculante, puede contener errores, se muestra a titulo informativo y no contractual. (ene5) EQUIPAMIENTOS: ESPEJOS ELECTRICOS LLANTAS DE ALEACION LUCES DIURNAS LUCES LED SENSOR DE LUCES BLUETOOTH CIERRE CENTRALIZADO CLIMATIZADOR CLIMATIZADOR BIZONA CONTROL DE VELOCIDAD DIRECCION ASISTIDA ELEVALUNAS ELECTRICO LIMITADOR DE VELOCIDAD MANDOS EN VOLANTE NAVEGADOR GPS ORDENADOR DE A BORDO RADIO CD SENSOR DE PARKING USB ABS AIRBAG AIRBAG ACOMPANANTE AIRBAGS LATERALES AYUDA ARRANQUE EN PENDIENTE CONTROL DE TRACCION ESP INMOVILIZADOR ELECTRONICO CAMBIO MANUAL RUEDA DE REPUESTO O KIT ANTIPINCHAZOS...",
+            "descripcion": "PUEDES VER ESTE VEHICULO EN NUESTRAS INSTALACIONES DE LEGANES en Calle JULIO PALACIOS 2 (De lunes a sabado de 10:30 a 14:00 y de 17:00 a 20:30 horas y domingos de 10:00 a 14:00 horas) TAMBIEN SABADOS Y DOMINGOS. COMPRA TU COCHE ONLINE O EN CUALQUIERA DE NUESTROS CENTROS Y SI ERES DE FUERA DE MADRID TE LO ENVIAMOS GRATIS A CUALQUIER PUNTO DE LA PENINSULA CON NUESTRO SERVICIO DE ENTREGA A DOMICILIO, CONTACTA CON NOSOTROS Y TE ENVIAMOS HISTORIAL DE MANTENIMIENTO, PERITACION Y CERTIFICADOS, TE CALCULAMOS LA FINANCIACION Y TE ACLARAMOS CUALQUIER DUDA. Los mejores precios gracias a nuestro sistema digital y posibilidad de cambio en 15 dias o 1.000km para ventas a distancia. Financiacion SIN entrada y en el acto hasta el 100% con DNI/NIE y ultima nomina, si lo necesitas tasamos tu coche a cambio. El precio indicado es con GARANTIA DE UN ANO ampliable en coberturas y plazos. SOLICITANOS MAS INFORMACION. El vehiculo tiene IVA INCLUIDO y es deducible si eres una empresa o autonomo. Con nosotros te ahorras HASTA EL 11% DE ITP que pagarias a hacienda si comprases a un vendedor particular. * Las fotografias mostradas son las reales del vehiculo, asi como precio, extras, modelo y otros datos salvo error, por lo tanto este anuncio no es vinculante, puede contener errores, se muestra a titulo informativo y no contractual. (ene6) EQUIPAMIENTOS: ESPEJOS ELECTRICOS LLANTAS DE ALEACION LUCES DIURNAS LUCES LED SENSOR DE LUCES BLUETOOTH CIERRE CENTRALIZADO CLIMATIZADOR CLIMATIZADOR BIZONA CONTROL DE VELOCIDAD DIRECCION ASISTIDA ELEVALUNAS ELECTRICO LIMITADOR DE VELOCIDAD MANDOS EN VOLANTE NAVEGADOR GPS ORDENADOR DE A BORDO RADIO CD SENSOR DE PARKING USB ABS AIRBAG AIRBAG ACOMPANANTE AIRBAGS LATERALES AYUDA ARRANQUE EN PENDIENTE CONTROL DE TRACCION ESP INMOVILIZADOR ELECTRONICO CAMBIO MANUAL RUEDA DE REPUESTO O KIT ANTIPINCHAZOS...",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "116 cv",
@@ -485,8 +474,8 @@
         },
         {
             "titulo": "Audi A3 SPORTBACK 1.0 TFSI",
-            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-0-tfsi-1052412935",
-            "descripcion": "",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-0-tfsi-1052413886",
+            "descripcion": "******MODELO 115CV***** PUEDES VER ESTE VEHÍCULO EN NUESTRAS INSTALACIONES DE LEGANES en Calle JULIO PALACIOS 2 (De lunes a sábado de 10:30 a 14:00 y de 17:00 a 20:30 horas y domingos de 10:00 a 14:00 horas) TAMBIEN SABADOS Y DOMINGOS. COMPRA TU COCHE ONLINE O EN CUALQUIERA DE NUESTROS CENTROS Y SI ERES DE FUERA DE MADRID TE LO ENVIAMOS GRATIS A CUALQUIER PUNTO DE LA PENÍNSULA CON NUESTRO SERVICIO DE ENTREGA A DOMICILIO, CONTACTA CON NOSOTROS Y TE ENVIAMOS HISTORIAL DE MANTENIMIENTO, PERITACION Y CERTIFICADOS, TE CALCULAMOS LA FINANCIACIÓN Y TE ACLARAMOS CUALQUIER DUDA. Los mejores precios gracias a nuestro sistema digital y posibilidad de cambio en 15 días o 1.000km para ventas a distancia. Financiación SIN entrada y en el acto hasta el 100% con DNI/NIE y última nómina, si lo necesitas tasamos tu coche a cambio. El precio indicado es con GARANTIA DE UN AÑO ampliable en coberturas y plazos. SOLICITANOS MAS INFORMACIÓN. El vehículo tiene IVA INCLUIDO y es deducible si eres una empresa o autónomo. Con nosotros te ahorras HASTA EL 11% DE ITP que pagarías a hacienda si comprases a un vendedor particular. * Las fotografías mostradas son las reales del vehículo, así como precio, extras, modelo y otros datos salvo error, por lo tanto este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual. (ene6) EQUIPAMIENTOS: ESPEJOS ELECTRICOS FAROS DE XENON LLANTAS DE ALEACIÓN LUCES DIURNAS SENSOR DE LLUVIA SENSOR DE LUCES BLUETOOTH CIERRE CENTRALIZADO CLIMATIZADOR CONTROL DE VELOCIDAD DIRECCIÓN ASISTIDA ELEVALUNAS ELÉCTRICO LIMITADOR DE VELOCIDAD MANDOS EN VOLANTE NAVEGADOR GPS ORDENADOR DE A BORDO SENSOR DE PARKING USB ABS AIRBAG AIRBAG ACOMPAÑANTE AIRBAGS LATERALES CONTROL DE TRACCIÓN ESP INMOVILIZADOR ELECTRÓNICO CAMBIO MANUAL RUEDA DE REPUESTO O KIT ANTIPINCHAZOS",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "115 cv",
@@ -496,8 +485,8 @@
         },
         {
             "titulo": "Audi A3 SPORTBACK 1.0 TFSI",
-            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-0-tfsi-1052413886",
-            "descripcion": "******MODELO 115CV***** PUEDES VER ESTE VEHÍCULO EN NUESTRAS INSTALACIONES DE LEGANES en Calle JULIO PALACIOS 2 (De lunes a sábado de 10:30 a 14:00 y de 17:00 a 20:30 horas y domingos de 10:00 a 14:00 horas) TAMBIEN SABADOS Y DOMINGOS. COMPRA TU COCHE ONLINE O EN CUALQUIERA DE NUESTROS CENTROS Y SI ERES DE FUERA DE MADRID TE LO ENVIAMOS GRATIS A CUALQUIER PUNTO DE LA PENÍNSULA CON NUESTRO SERVICIO DE ENTREGA A DOMICILIO, CONTACTA CON NOSOTROS Y TE ENVIAMOS HISTORIAL DE MANTENIMIENTO, PERITACION Y CERTIFICADOS, TE CALCULAMOS LA FINANCIACIÓN Y TE ACLARAMOS CUALQUIER DUDA. Los mejores precios gracias a nuestro sistema digital y posibilidad de cambio en 15 días o 1.000km para ventas a distancia. Financiación SIN entrada y en el acto hasta el 100% con DNI/NIE y última nómina, si lo necesitas tasamos tu coche a cambio. El precio indicado es con GARANTIA DE UN AÑO ampliable en coberturas y plazos. SOLICITANOS MAS INFORMACIÓN. El vehículo tiene IVA INCLUIDO y es deducible si eres una empresa o autónomo. Con nosotros te ahorras HASTA EL 11% DE ITP que pagarías a hacienda si comprases a un vendedor particular. * Las fotografías mostradas son las reales del vehículo, así como precio, extras, modelo y otros datos salvo error, por lo tanto este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual. (ene5) EQUIPAMIENTOS: ESPEJOS ELECTRICOS FAROS DE XENON LLANTAS DE ALEACIÓN LUCES DIURNAS SENSOR DE LLUVIA SENSOR DE LUCES BLUETOOTH CIERRE CENTRALIZADO CLIMATIZADOR CONTROL DE VELOCIDAD DIRECCIÓN ASISTIDA ELEVALUNAS ELÉCTRICO LIMITADOR DE VELOCIDAD MANDOS EN VOLANTE NAVEGADOR GPS ORDENADOR DE A BORDO SENSOR DE PARKING USB ABS AIRBAG AIRBAG ACOMPAÑANTE AIRBAGS LATERALES CONTROL DE TRACCIÓN ESP INMOVILIZADOR ELECTRÓNICO CAMBIO MANUAL RUEDA DE REPUESTO O KIT ANTIPINCHAZOS",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-0-tfsi-1052412935",
+            "descripcion": "******MODELO 115CV***** PUEDES VER ESTE VEHÍCULO EN NUESTRAS INSTALACIONES DE LEGANES en Calle JULIO PALACIOS 2 (De lunes a sábado de 10:30 a 14:00 y de 17:00 a 20:30 horas y domingos de 10:00 a 14:00 horas) TAMBIEN SABADOS Y DOMINGOS. COMPRA TU COCHE ONLINE O EN CUALQUIERA DE NUESTROS CENTROS Y SI ERES DE FUERA DE MADRID TE LO ENVIAMOS GRATIS A CUALQUIER PUNTO DE LA PENÍNSULA CON NUESTRO SERVICIO DE ENTREGA A DOMICILIO, CONTACTA CON NOSOTROS Y TE ENVIAMOS HISTORIAL DE MANTENIMIENTO, PERITACION Y CERTIFICADOS, TE CALCULAMOS LA FINANCIACIÓN Y TE ACLARAMOS CUALQUIER DUDA. Los mejores precios gracias a nuestro sistema digital y posibilidad de cambio en 15 días o 1.000km para ventas a distancia. Financiación SIN entrada y en el acto hasta el 100% con DNI/NIE y última nómina, si lo necesitas tasamos tu coche a cambio. El precio indicado es con GARANTIA DE UN AÑO ampliable en coberturas y plazos. SOLICITANOS MAS INFORMACIÓN. El vehículo tiene IVA INCLUIDO y es deducible si eres una empresa o autónomo. Con nosotros te ahorras HASTA EL 11% DE ITP que pagarías a hacienda si comprases a un vendedor particular. * Las fotografías mostradas son las reales del vehículo, así como precio, extras, modelo y otros datos salvo error, por lo tanto este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual. (ene6) EQUIPAMIENTOS: ESPEJOS ELECTRICOS FAROS DE XENON LLANTAS DE ALEACIÓN LUCES DIURNAS SENSOR DE LLUVIA SENSOR DE LUCES BLUETOOTH CIERRE CENTRALIZADO CLIMATIZADOR CONTROL DE VELOCIDAD DIRECCIÓN ASISTIDA ELEVALUNAS ELÉCTRICO LIMITADOR DE VELOCIDAD MANDOS EN VOLANTE NAVEGADOR GPS ORDENADOR DE A BORDO SENSOR DE PARKING USB ABS AIRBAG AIRBAG ACOMPAÑANTE AIRBAGS LATERALES CONTROL DE TRACCIÓN ESP INMOVILIZADOR ELECTRÓNICO CAMBIO MANUAL RUEDA DE REPUESTO O KIT ANTIPINCHAZOS",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "115 cv",

@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 1",
         "version": "130i",
-        "año mínimo": 2005,
-        "año máximo": 2007,
+        "año mínimo": "2005",
+        "año máximo": "2007",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "manual",
         "tipos de motor": "gasoline",
-        "potencia máxima": 265,
+        "potencia máxima": "265",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=265&min_year=2005&max_year=2007&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=BMW&model=Serie 1&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -86,17 +86,6 @@
             "año": "2007",
             "kilómetros": "199000 km",
             "precio": 15000.0
-        },
-        {
-            "titulo": "BMW Serie 1 2005",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2005-1068184978",
-            "descripcion": "BMW 130i Pack M (2005) - ¡Deportivo y exclusivo!* Vendo BMW 130i Pack M del 2005, adquirido de segunda mano en 2019. Solo utilizado ocasionalmente, lo que se refleja en su excelente estado de conservación. Este coche tiene 201,601 km y cuenta con todas las facturas de mantenimiento e ITV tanto mías como del propietario anterior. Sin problemas mecánicos y con una potencia que hará que disfrutes cada kilómetro. *Características destacadas:* * Motor 3.0L de 6 cilindros en línea con 265 CV: potencia y fiabilidad BMW. * Paquete M: estética deportiva y manejo inigualable. * Extras: GPS, pantalla multimedia, faros de xenón y alarma. * Transmisión manual, tracción trasera, suspensión deportiva. Detalles importantes: * Neumáticos, discos de freno y aceite: cambio pendiente, que puedo realizar previo pago de una reserva o descontar del precio final. * Parachoques trasero: pendiente de pintar, opcionalmente realizable antes de la venta. * Interior: Desgaste normal. Este coche se encuentra en un estado excelente. Se puede llevar a revisar a cualquier taller o mecánico de confianza para asegurar el estado mecánico. Etiqueta C *¡Ideal para entusiastas que buscan una experiencia de manejo deportiva y exclusiva!* Precio con los arreglos incluidos 14.500 €",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "265 cv",
-            "año": "2005",
-            "kilómetros": "201601 km",
-            "precio": 13000.0
         },
         {
             "titulo": "BMW Serie 1 2007",
@@ -253,17 +242,6 @@
             "precio": 7600.0
         },
         {
-            "titulo": "BMW Serie 1 2007",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2007-1088476642",
-            "descripcion": "Vendo coche importado de Alemania Vendo coche recientemente traído de Alemania. Actualmente está con placas temporales alemanas, y esta en tramite matriculacion en España Características: • Estado: bueno • Interior: de cuero • Transmisión: manual • Aire acondicionado El coche se venderá una vez que se complete la matriculación española. Lo compré temporalmente mientras esperaba la compensación por mi coche siniestrado por DANA. Como ya he recibido la compensación, lo vendo para comprar otro vehículo. ¡Si tienes preguntas o estás interesado, no dudes en contactarme!",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "116 cv",
-            "año": "2007",
-            "kilómetros": "149000 km",
-            "precio": 7500.0
-        },
-        {
             "titulo": "BMW Serie 1 E87 116i 2007",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1-e87-116i-2007-1085405532",
             "descripcion": "Vendo o cambio Bmw Serie 1, Año: 2007, 120cv, modelo 116i E87, 5 puertas, con muchos extras, me interesaria pasarme a algo un poco mas deportivo, me interesa un Volkswagen Scirocco/ Audi TT, Audi A5/ igualmente escucho ofertas.",
@@ -418,6 +396,17 @@
             "precio": 6600.0
         },
         {
+            "titulo": "BMW Serie 1 2007",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2007-1088476642",
+            "descripcion": "Coche en venta, recientemente importado de Alemania Vendo un coche recién importado de Alemania. Actualmente tiene placas provisionales alemanas, y está en proceso de matriculación en España, estoy a la espera de las placas provisionales para que en cuanto me den cita hacer una itv. Características: - Estado: bueno - Interior: cuero - Transmisión: manual - Aire acondicionado Puedo vender el coche antes de la matriculación y usted será el propietario de este coche inmediatamente. Por eso estoy bajando el precio. Lo compré temporalmente mientras esperaba la indemnización por el coche dañado por la DANA. Como ya he recibido la indemnización, lo vendo para comprar otro coche. Si tiene alguna pregunta o está interesado, ¡no dude en ponerse en contacto conmigo",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "116 cv",
+            "año": "2007",
+            "kilómetros": "149000 km",
+            "precio": 6500.0
+        },
+        {
             "titulo": "BMW Serie 1 2006",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1-2006-1084291080",
             "descripcion": "Coche en muy buen estado, revisiones al día. Etiqueta C. Precio negociable.",
@@ -459,6 +448,17 @@
             "potencia": "129 cv",
             "año": "2007",
             "kilómetros": "185000 km",
+            "precio": 6500.0
+        },
+        {
+            "titulo": "BMW Serie 1 2005",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2005-528197909",
+            "descripcion": "BMW en perfecto estado. Faros de xenon, asientos de piel, pegatina medioambiental, entrego con escape con doble salida y doble cola (doy tambien el de serie), llantas de 18\" SpacWheels con pneumaticos del dia 14/03 (y llantas de serie), alerón, revisiones al dia, techo tapizado en color negro.... Preguntar para mas detalles. No urge la venta, se aceptan cambios.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "130 cv",
+            "año": "2005",
+            "kilómetros": "195000 km",
             "precio": 6500.0
         }
     ]

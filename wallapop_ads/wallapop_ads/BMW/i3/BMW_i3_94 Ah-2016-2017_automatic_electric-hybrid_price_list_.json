@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "i3",
         "version": "94 Ah",
-        "año mínimo": 2016,
-        "año máximo": 2017,
+        "año mínimo": "2016",
+        "año máximo": "2017",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "automatic",
         "tipos de motor": "electric-hybrid",
-        "potencia máxima": 170,
+        "potencia máxima": "170",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=electric-hybrid&min_horse_power=1&max_horse_power=170&min_year=2016&max_year=2017&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=i3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -112,7 +112,7 @@
         {
             "titulo": "BMW i3 2017",
             "enlace": "https://es.wallapop.com/item/bmw-i3-2017-1071790226",
-            "descripcion": "BMW I3 94ah 170CV CON TODOS LOS EXTRAS QUE PUEDE LLEVAR ESTA VERSIÓN, VEHÍCULO MUY MIMADO, BATERÍA AL 91% SIEMPRE CARGAS LENTAS, 270KMS DE AUTONOMÍA EN MODO ECOPLUS. UN AÑO DE GARANTÍA Y TRANSFERENCIA INCLUIDA EN EL PRECIO. POSIBILIDAD DE FINANCIACIÓN.",
+            "descripcion": "",
             "combustible": "Eléctrico",
             "cambio": "Automático",
             "potencia": "170 cv",

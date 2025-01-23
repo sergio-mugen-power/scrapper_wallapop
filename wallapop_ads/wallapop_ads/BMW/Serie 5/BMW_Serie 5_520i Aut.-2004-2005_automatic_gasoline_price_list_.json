@@ -1,0 +1,80 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Serie 5",
+        "version": "520i Aut.",
+        "año mínimo": "2004",
+        "año máximo": "2005",
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": "170",
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=170&min_year=2004&max_year=2005&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW Serie 5 2004",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-2004-1075448120",
+            "descripcion": "se vende bmw e60 520ia exclusive con tan solo 13.500 km en buenisimas condiciones paquete m5 original: -llantas m5 19'' -aletas -paragolpes delantero -paragolpes trasero -linea de escape -aleron mantenimiento recien echo: -cambio de aceite y filtro -alternador y bateria a estrenar -neumaticos al 100% se acepta cualquier prueba mecanica -automatico -asientos electricos -pantalla -luces xenon",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2004",
+            "kilómetros": "113500 km",
+            "precio": 7500.0
+        },
+        {
+            "titulo": "BMW Serie 5 2005 etiqueta C ",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-2005-1086841967",
+            "descripcion": "Se vende BMW en perfectas condiciones como se aprecia en las fotos sin desgastes y mui cuidado. Sólo 215.000 kilómetros coche a toda prueba y acepto prueba mecánica.mejor ver en persona. Se vende o se cambia por algum vehículo que me pueda interesar.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2005",
+            "kilómetros": "215000 km",
+            "precio": 6500.0
+        },
+        {
+            "titulo": "BMW Serie 5 2004",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-2004-1012605826",
+            "descripcion": "el coche tiene sus años pero está bien cuidado mejor ver en persona pero solo los que están interesados porfavor no hacerme perder el tiempo tiene ITV ,sello pagado todo en regla algo negociable porque tiene un aviso de transmisión de ahí su precio pero nada grave es algo electrónico",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2004",
+            "kilómetros": "280000 km",
+            "precio": 5500.0
+        },
+        {
+            "titulo": "BMW Serie 5 2004",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-2004-1066924508",
+            "descripcion": "Se vende por aumento de familia Mas info por privado Acepto cambio Precio negociable",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2004",
+            "kilómetros": "290000 km",
+            "precio": 5000.0
+        },
+        {
+            "titulo": "BMW Serie 5 2004",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-2004-1089611973",
+            "descripcion": "Bmw 520i en muy bueno estado de interior como de exterior . paguatina C 170 cv🐎 caja automatica 208.000 kms itv racien pasada hasta 09/2025 . Neumaticos nuevos 90% . Aire acondicionando . Sensor de aparcamiento ... Puedes ver y provar sin compromiso . Accepto camvio y accepto coche como parte de pago . Algo negociable .",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2004",
+            "kilómetros": "208000 km",
+            "precio": 4400.0
+        }
+    ]
+}

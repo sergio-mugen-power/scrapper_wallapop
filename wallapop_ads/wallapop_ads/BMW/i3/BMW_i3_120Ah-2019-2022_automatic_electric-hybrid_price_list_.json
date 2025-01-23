@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "i3",
         "version": "120Ah",
-        "año mínimo": 2019,
-        "año máximo": 2022,
+        "año mínimo": "2019",
+        "año máximo": "2022",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "automatic",
         "tipos de motor": "electric-hybrid",
-        "potencia máxima": 170,
+        "potencia máxima": "170",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=electric-hybrid&min_horse_power=1&max_horse_power=170&min_year=2019&max_year=2022&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=i3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -41,7 +41,7 @@
             "potencia": "170 cv",
             "año": "2022",
             "kilómetros": "21000 km",
-            "precio": 26500.0
+            "precio": 26350.0
         },
         {
             "titulo": "BMW i3 2022",

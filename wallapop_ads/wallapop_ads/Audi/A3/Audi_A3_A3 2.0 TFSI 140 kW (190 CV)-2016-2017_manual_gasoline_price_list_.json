@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 190,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=190&min_year=2016&max_year=2017&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=190&min_year=2016&max_year=2017&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -30,7 +30,7 @@
             "potencia": "150 cv",
             "año": "2017",
             "kilómetros": "69000 km",
-            "precio": 25900.0
+            "precio": 25800.0
         },
         {
             "titulo": "Audi A3 2017",
@@ -132,50 +132,6 @@
             "precio": 19500.0
         },
         {
-            "titulo": "Audi A3 2.0 TFSI Sportback",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tfsi-sportback-1074169839",
-            "descripcion": "",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "190 cv",
-            "año": "2016",
-            "kilómetros": "137000 km",
-            "precio": 18990.0
-        },
-        {
-            "titulo": "Audi A3 2.0 TFSI Sportback",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tfsi-sportback-1074170095",
-            "descripcion": "",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "190 cv",
-            "año": "2016",
-            "kilómetros": "137000 km",
-            "precio": 18990.0
-        },
-        {
-            "titulo": "Audi A3 2.0 TFSI Sportback",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tfsi-sportback-1074170093",
-            "descripcion": "Tu nuevo coche te está esperando en MUNDICARS. Elige tu cuota y financia en 15 minutos. ¡Llámanos o ven a conocernos! + DE 300 COCHES EN STOCK - Pide cita y ven a probarlo - Déjanos tu coche como parte de pago - Financiación 100% - Todos nuestro vehículos se entregan revisados y con garantía de 1 año. (Vehículos comerciales 6 meses) - Nuestro horario es de L-V: 10:00 a 20:00 Sábados : 10:30 a 14:00 Compra online o llámanos. Tiendas: 1- Blanes: Ctra. Accés Costa Brava, 190, 17300, Girona (17300) 2- Sabadell: Carretera Barcelona 473-B. (08203) 3- Granollers: Avenida Marie Curie 2 (08402) 4- Vilanova y la Geltrú: Avda. Eduard Toldrà, 107 (08800). 5- Barcelona: (Próximamente) Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual.",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "190 cv",
-            "año": "2016",
-            "kilómetros": "137000 km",
-            "precio": 18990.0
-        },
-        {
-            "titulo": "Audi A3 2.0 TFSI Sportback",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tfsi-sportback-1074168857",
-            "descripcion": "Tu nuevo coche te está esperando en MUNDICARS. Elige tu cuota y financia en 15 minutos. ¡Llámanos o ven a conocernos! + DE 300 COCHES EN STOCK - Pide cita y ven a probarlo - Déjanos tu coche como parte de pago - Financiación 100% - Todos nuestro vehículos se entregan revisados y con garantía de 1 año. (Vehículos comerciales 6 meses) - Nuestro horario es de L-V: 10:00 a 20:00 Sábados : 10:30 a 14:00 Compra online o llámanos. Tiendas: 1- Blanes: Ctra. Accés Costa Brava, 190, 17300, Girona (17300) 2- Sabadell: Carretera Barcelona 473-B. (08203) 3- Granollers: Avenida Marie Curie 2 (08402) 4- Vilanova y la Geltrú: Avda. Eduard Toldrà, 107 (08800). 5- Barcelona: (Próximamente) Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual.",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "190 cv",
-            "año": "2016",
-            "kilómetros": "137000 km",
-            "precio": 18990.0
-        },
-        {
             "titulo": "Audi A3 2017",
             "enlace": "https://es.wallapop.com/item/audi-a3-sportback-ultra-sport-150cv-gasolina-1055615495",
             "descripcion": "Audi A3 Ultra Sport 1.4 TFSI 150 CV (2017) - Manual 98.000 km | ITV hasta agosto de 2025 | Etiqueta C Motor: 1.4 TFSI de 150 CV con tecnología “Cylinder on Demand” para mayor eficiencia. Transmisión: Caja manual de 6 velocidades. Consumo: 4,8 L/100 km (mixto homologado). Prestaciones: 0-100 km/h en 8,2 segundos. Emisiones: Euro 6, etiqueta C. Interior: Tapicería Cuero y Alcántara, diseño deportivo. Equipamiento destacado: Faros LED completos. Llantas de aleación de 17”. Sistema multimedia MMI con conectividad Bluetooth. Climatizador bizona. Sensores de aparcamiento traseros. Estado: Todas las revisiones realizadas en servicio oficial Audi, sin accidentes. Motivo de venta: cambio a vehículo eléctrico. Precio negociable. Contacta para más información o verlo en persona.",
@@ -184,7 +140,7 @@
             "potencia": "150 cv",
             "año": "2017",
             "kilómetros": "98000 km",
-            "precio": 18500.0
+            "precio": 18300.0
         },
         {
             "titulo": "Audi A3 2017",
@@ -584,7 +540,7 @@
         },
         {
             "titulo": "Audi A3 1.4 TFSI 150CV COD ultra Attraction",
-            "enlace": "https://es.wallapop.com/item/audi-a3-1-4-tfsi-150cv-cod-ultra-attraction-1078292825",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1-4-tfsi-150cv-cod-ultra-attraction-1078016973",
             "descripcion": "Precio al contado: 16.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 14.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Vigo 2, Av. de Madrid 183, 36214 Vigo. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilanova 1, Vilanova ...",
             "combustible": "Gasolina",
             "cambio": "Manual",
@@ -595,7 +551,7 @@
         },
         {
             "titulo": "Audi A3 1.4 TFSI 150CV COD ultra Attraction",
-            "enlace": "https://es.wallapop.com/item/audi-a3-1-4-tfsi-150cv-cod-ultra-attraction-1078016973",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1-4-tfsi-150cv-cod-ultra-attraction-1078292825",
             "descripcion": "Precio al contado: 16.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 14.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Vigo 2, Av. de Madrid 183, 36214 Vigo. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilanova 1, Vilanova ...",
             "combustible": "Gasolina",
             "cambio": "Manual",

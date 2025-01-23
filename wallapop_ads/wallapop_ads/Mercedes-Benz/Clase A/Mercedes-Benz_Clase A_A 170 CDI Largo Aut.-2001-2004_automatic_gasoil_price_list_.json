@@ -1,0 +1,91 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase A",
+        "version": "A 170 CDI Largo Aut.",
+        "año mínimo": "2001",
+        "año máximo": "2004",
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 95,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=95&min_year=2001&max_year=2004&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Mercedes-Benz&model=Clase A&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase A 2002 ELEGANCE",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2002-elegance-1074803094",
+            "descripcion": "VEHICULO EN PERFECTO ESTADO DE CONSERVACION, MANTENIMIENTO Y FUNCIONAMIENTO. GARANTIA 12 MESES. AUTOMATICO.EQUIPADO CON AIRBAGS, CLIMATIZADOR MANUAL CON AIRE ACONDICIONADO,DIRECCION ASISITIDA, CIERRE CENTRALIZADO CON MANDO, ELEVALUNAS DELANTEROS ELECTRICOS, RADIO CD ORIGINAL, ITV RECIEN PASADA, NO TIENE ETIQUETA MEDIOAMBIENTAL, CAMBIO DE NOMBRE INCLUIDO EN EL PRECIO. ENTREGA A DOMICILIO SIN COSTE.TELEFONO DE CONTACTO 670012192. VENDEDOR PROFESIONAL.TELEFONO 670012192",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "95 cv",
+            "año": "2002",
+            "kilómetros": "168000 km",
+            "precio": 3950.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2003",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2003-1056973573",
+            "descripcion": "• MERCEDES CLASE A 170 CDI • MOTOR: 1.7CDI 95CV • 188000 KM • CAMBIO AUTOMÁTICO • ITV EN VIGOR • MANTENIMIENTO RECIÉN HECHO • NEUMÁTICOS MICHELIN CASI NUEVOS • ASIENTOS CALEFACTABLES • CIERRE CENTRALIZADO (FUNCIONA) • A/C (FUNCINA CORRECTAMENTE) • LLANTAS ALUMINIO 15\" • DIRECCIÓN ASISTIDA • MEJOR VER EN PERSONA • MAS INFO TELÉFONO O WHATSAPP 625393087",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "95 cv",
+            "año": "2003",
+            "kilómetros": "188000 km",
+            "precio": 3500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 170CDI classic",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-170cdi-classic-1092730566",
+            "descripcion": "ITV en vigor hasta noviembre 2025. Neumáticos en buen estado. A/A acondicionado.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "95 cv",
+            "año": "2002",
+            "kilómetros": "188900 km",
+            "precio": 1800.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2003",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2003-1080886008",
+            "descripcion": "funciona problema cambio...solo va la 2a..i m atras",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "95 cv",
+            "año": "2003",
+            "kilómetros": "190000 km",
+            "precio": 1500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2004",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2004-1086480732",
+            "descripcion": "Coche con avería en la culata, tornillo de inyector pasado, el coche paso la ITV sin defectos y por una fuga de un inyector, se estropeó la culata, tiene algún abollon de chapa pero de lo demás estaba perfecto, tiene techo, asientos de cuero en color anaranjado y se vende para alguien que lo quiera reparar o para piezas, si no se vende en esta semana va al desguace",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "95 cv",
+            "año": "2004",
+            "kilómetros": "126000 km",
+            "precio": 1000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2002",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2002-1089251031",
+            "descripcion": "El coche, tiene problema con el cambio (placa electrónica), por lo demàs todo ésta intacto. Sin accesorio porta esquí y barra de techo. La bola de remolque si. Es negociable!",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "95 cv",
+            "año": "2002",
+            "kilómetros": "295000 km",
+            "precio": 400.0
+        }
+    ]
+}

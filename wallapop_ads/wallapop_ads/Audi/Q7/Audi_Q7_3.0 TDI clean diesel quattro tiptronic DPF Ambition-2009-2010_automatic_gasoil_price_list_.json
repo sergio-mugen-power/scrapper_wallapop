@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "Q7",
+        "version": "3.0 TDI clean diesel quattro tiptronic DPF Ambition",
+        "año mínimo": 2009,
+        "año máximo": 2010,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 239,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=239&min_year=2009&max_year=2010&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=Q7&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi Q7 2010",
+            "enlace": "https://es.wallapop.com/item/audi-q7-2010-1040899260",
+            "descripcion": "audi q7 version top s-line quattro con 170.000 km todos hechos practicamente en vuajes largos, coche de unico propietario muy cuidado, inyectores casi recien cambiados con factura demostrable con bola de remolque homologada y llantas en 22 homologadas del pack s-line, el coche va perfectamente, tiene algun desperfecto por el tiempo pero del tienpo normal, nunca ha tenido ningun golpe.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "239 cv",
+            "año": "2010",
+            "kilómetros": "175000 km",
+            "precio": 23500.0
+        }
+    ]
+}

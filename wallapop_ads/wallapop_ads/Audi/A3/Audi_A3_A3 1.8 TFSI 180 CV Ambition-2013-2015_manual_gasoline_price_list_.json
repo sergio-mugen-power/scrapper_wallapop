@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 179,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=179&min_year=2013&max_year=2015&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=179&min_year=2013&max_year=2015&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -41,7 +41,7 @@
             "potencia": "150 cv",
             "año": "2015",
             "kilómetros": "134199 km",
-            "precio": 18200.0
+            "precio": 18190.0
         },
         {
             "titulo": "Audi A3 2015",
@@ -67,17 +67,6 @@
         },
         {
             "titulo": "Audi A3 2014",
-            "enlace": "https://es.wallapop.com/item/audi-a3-gasolina-manual-1061781664",
-            "descripcion": "LEER TODO!! Audi A3 1.4 TFSI GASOLINA MANUAL 125 CABALLOS 2014. PIEZAS NUEVAS HACE MENOS DE 1000 KM NO POR ACCIDENTE NI MAL USO!!! SE EXPLICA DETALLADAMENTE EN CASO DE COMPRA!!! CAJA DE CAMBIOS EMBRAGUE VOLANTE BIMASA BATERIA PALIERES EXTRAS: TECHO SOLAR, LUZ DE BIENVENIDA EN LAS PUERTAS, SENSORES APARCAMIENTO, VOLANTE DEPORTIVO, AYUDA EN CUESTAS, TODO EL ACABADO SLINE. NACIONAL Y NO ACCIDENTADO LIMOUSINE, AUDI BLANCO, BLACK EDITION, NEGRO, MANTENIMIENTO RECIEN HECHO.",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "125 cv",
-            "año": "2014",
-            "kilómetros": "155000 km",
-            "precio": 17550.0
-        },
-        {
-            "titulo": "Audi A3 2014",
             "enlace": "https://es.wallapop.com/item/audi-a3-2014-1075366155",
             "descripcion": "Audi A3 Sline en perfecto estado",
             "combustible": "Gasolina",
@@ -86,6 +75,17 @@
             "año": "2014",
             "kilómetros": "189000 km",
             "precio": 17000.0
+        },
+        {
+            "titulo": "Audi A3 S Line Black Edition",
+            "enlace": "https://es.wallapop.com/item/audi-a3-gasolina-manual-1061781664",
+            "descripcion": "LEER TODO!! Audi A3 1.4 TFSI GASOLINA MANUAL 125 CABALLOS 2014. PIEZAS NUEVAS HACE MENOS DE 1000 KM NO POR ACCIDENTE NI MAL USO!!! SE EXPLICA DETALLADAMENTE EN CASO DE COMPRA!!! CAJA DE CAMBIOS EMBRAGUE VOLANTE BIMASA BATERIA PALIERES EXTRAS: TECHO SOLAR, LUZ DE BIENVENIDA EN LAS PUERTAS, SENSORES APARCAMIENTO, VOLANTE DEPORTIVO, AYUDA EN CUESTAS, TODO EL ACABADO SLINE. NACIONAL Y NO ACCIDENTADO LIMOUSINE, AUDI BLANCO, BLACK EDITION, NEGRO, MANTENIMIENTO RECIEN HECHO.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "125 cv",
+            "año": "2014",
+            "kilómetros": "155000 km",
+            "precio": 16999.0
         },
         {
             "titulo": "Audi A3 SPORTBACK 2013",
@@ -108,28 +108,6 @@
             "año": "2015",
             "kilómetros": "158000 km",
             "precio": 15990.0
-        },
-        {
-            "titulo": "Audi A3 sportback 1.4 TFSI 122  Ambition",
-            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-4-tfsi-122-ambition-1047585823",
-            "descripcion": "Audi A3 sportback 1.4 TFSI 122 Ambition, año 2014, libro de revisiones y facturas, todo el mantenimiento al día, recién revisado, para su correspondiente venta. Extras: Barras cromadas Drive select (modos de conducción) Volante multifunción Faros xenón plus Pilotos led traseros Conexión Audi music interface Sensor parking del y trasero Navegador Asientos deportivos Bluetooth Conexión tarjeta sd, cd, bluetooth audio Clima bizona Faros de niebla Llantas 17\" Apoyabrazos central Espejo eléctricos, térmicos Y retractiles Control velocidad Control de tracción Estado impecable tanto interior como exterior las fotos hablan por si mismas P.V.P. 17500€ incluido 12 meses de garantía Puede visitar todo nuestro stock de vehículos en nuestra página web robledocars.com Vehículo financiable sin entrada **consulte condiciones, cuota a su medida ** WhatsApp Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual Nos encontramos: ROBLEDO CARS C/Azorín 134 (LEON)",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "122 cv",
-            "año": "2014",
-            "kilómetros": "118762 km",
-            "precio": 15900.0
-        },
-        {
-            "titulo": "Audi A3 2015",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2015-1041783681",
-            "descripcion": "- Distribucion recien hecha - 2 Ruedaa nuevas las otras dos al 70% -Bomba hidraulica recien cambiada - Dos juegos de llave El coche siempre duerme en garaje, esta al detalle. NO CAMBIOS Y GENTE SERIA Y REALMENTE INTERESADA",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "150 cv",
-            "año": "2015",
-            "kilómetros": "168000 km",
-            "precio": 15500.0
         },
         {
             "titulo": "Audi A3 2015",
@@ -287,17 +265,6 @@
         },
         {
             "titulo": "Audi A3 2014",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2014-1006170078",
-            "descripcion": "Espectacular A3 Sportback 1.4 TFSI 140cv Attraction 5p, 153000 kms. 2014, etiqueta C, ITV hasta Junio 2025. paquete advance, cambio manual 6 vel,faros xenon y lavafaros, llantas 17\", tapiceria tela negro, climatizador bizona automatico,sistema navegacion AUDI,suspension deportiva,bluetooth, control crucero de velocidad, todos los extras, minimo consumo, libro de mantenimiento Audi. Incorpora bola de remolque. Muy cuidado, siempre en garaje y con mantenimientos al día.",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2014",
-            "kilómetros": "153000 km",
-            "precio": 14500.0
-        },
-        {
-            "titulo": "Audi A3 2014",
             "enlace": "https://es.wallapop.com/item/audi-a3-2014-999785879",
             "descripcion": "vendo audi A3 Spordback TFSI 1.4 en perfecto estado",
             "combustible": "Gasolina",
@@ -317,6 +284,28 @@
             "año": "2013",
             "kilómetros": "174110 km",
             "precio": 13990.0
+        },
+        {
+            "titulo": "AUDI A3 SPORTBACK S LINE EDITION 1.4 TFSI",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-4-tfsi-122cv-ambition-1092139975",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "122 cv",
+            "año": "2013",
+            "kilómetros": "170000 km",
+            "precio": 13900.0
+        },
+        {
+            "titulo": "Audi A3 2014",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2014-1092313137",
+            "descripcion": "Impoluto exterior e interior 1 solo propietario Distribucion recien hecha Reestreno Etiqueta c Gran oportunidad Posibilidad de financiacion hasta 48 meses",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "122 cv",
+            "año": "2014",
+            "kilómetros": "158000 km",
+            "precio": 13700.0
         },
         {
             "titulo": "Audi A3 2015 Sportback ",
@@ -343,7 +332,7 @@
         {
             "titulo": "Audi A3 1.4 TFSI 122cv Attraction",
             "enlace": "https://es.wallapop.com/item/audi-a3-1-4-tfsi-122cv-attraction-1071428170",
-            "descripcion": "AUTOS DONAIRE COMPRAVENTA DE VEHICULOS + 150 COCHES EN STOCK – ENTREGA INMEDIATA TE COMPRAMOS TU COCHE Y TE PAGAMOS AL MOMENTO FINANCIAMOS 100% - TU ELIGES TU COUTA AUDI A3 1.4 TFSI SPORTBACK 122CV – VEHICULO NACIONAL EN BUEN ESTAD CON SUS REVISIONES AL DIA PRECIO CONTADO: 13.500 € PRECIO CON OFERTA FINANCIACION: 12.500 € (consulta condiciones especificas de esta promocion – sujeto a aprobacion por parte de entidad financiera) EQUIPAMIENTO DESTACADO: - 5 PUERTAS SPORTBACK- MOLDURAS DE ALUMINIO PULIDO EN TECHO Y VENTANILLAS- FAROS ANTINIEBLA- PROTECCION PARA PEATONES- TAPIZADO MARATON- REPOSABRAZOS CENTRAL- ESPEJOS ILUMINADOS- AIRE ACONDICIONADO- VOLANTE DE CUERO- REGULADOR DE VELOCIDAD- SISTEM INFO CONDUCTOR MONOCROMO- CIERRE CENTRALIZADO CON CIERRE DE SEGURIDAD- RADIO MMI STANDARD- PAQUETE CONNECTIVITY- AUDI MUSC INTERFACE- 8 ALTAVOCES- BLUETOOH- 6 VELOCIDADES GARANTIA 12 MESES, AMPLIABLE A 24 MESES (CONSULTAR) Anuncio no vinculante, puede contener errores, solo se muestra a titulo informativo y no contractual. Pueden existir varias unidades del modelo ofertado, consultar con nuestro personal precio y kilometraje de cada vehiculo. ...",
+            "descripcion": "",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "122 cv",
@@ -462,6 +451,17 @@
             "precio": 12300.0
         },
         {
+            "titulo": "Audi A3 SPORTBACK 1.4 TFSI 122 CV 6V NACIONAL",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-4-tfsi-122-cv-6v-nacional-1092384160",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "122 cv",
+            "año": "2013",
+            "kilómetros": "182000 km",
+            "precio": 11995.0
+        },
+        {
             "titulo": "AUDI A3 1.2 TFSI+1 AÑO DE GARANTÍA ",
             "enlace": "https://es.wallapop.com/item/audi-a3-1-2-tfsi-1-ano-de-garantia-1062906150",
             "descripcion": "HORARIO *LUNES A VIERNES 10:00 – 14:00 Y 16:00 – 20:00* *SÁBADOS 10:00 – 14:00* *ATENDEMOS CON CITA PREVIA PARA OFRECERTE EL MEJOR SERVICIO* PRUEBA TU COCHE DURANTE 15 DÍAS / 500 KM 12 MESES DE GARANTÍA EN MOTOR Y CAJA DE CAMBIOS INCLUIDA EN EL PRECIO *AMPLÍA TU GARANTÍA, LIBRE ELECCIÓN DE TALLER, COBERTURA NACIONAL Y HASTA 24 MESES DESDE 190€* FINANCIACIÓN SIN PAPELEO CON LOS MEJORES INTERESES DEL MERCADO DESDE 6.99 TIN AUDI A3 1.2 TFSI Ambiente ESTE VEHÍCULO SE ENTREGA REVISADO Y CON TODOS LOS MANTENIMIENTOS NECESARIOS REALIZADOS POR NOSOTROS 175.753 KILÓMETROS REALES Y DEMOSTRABLES ÚNICAMENTE 2 DUEÑOS MATRICULADO EL 13.03.2015 , GASOLINA, 5 Puertas, 110 CV, ETIQUETA C MEDIO AMBIENTAL AUDI A3 EN MUY BUEN ESTADO, ASIENTOS MIXTOS CON CUERO, ITV HASTA 06/2025, CONTROL DE VELOCIDAD, 6 VELOCIDADES, BLUETOOTH, SENSORES DE APARCAMIENTO, LUCES AUTOMÁTICAS, CLIMATIZADOR… *GASTOS DE GESTIÓN NO INCLUIDOS LLÁMANOS Y RESUELVE TODAS TUS DUDAS. *Este anuncio puede contener errores*",
@@ -508,7 +508,7 @@
         {
             "titulo": "AUDI  A3 1.4 TFSI 122CV AMBITION",
             "enlace": "https://es.wallapop.com/item/audi-a3-1-4-tfsi-122cv-ambition-1023566322",
-            "descripcion": "",
+            "descripcion": "Especificaciones: Climatizador bizona, retrovisores eléctricos, Llantas de aleación 17\",pantalla multimedia, volante multifunción, gancho remolque. PRECIO FINANCIANDO CON NOSOTROS: 9.900€ SEGUN CONDICIONES. Financiación: Ejemplo de precio sujeto a financiación. 9.900€ en 48 cuotas de 284€ (cuota pendiente de aprobación) Vehículo revisado y con garantía de 1 año contratada a nivel nacional. AUTOMOVILES VIA NORTE Empresa con más de 10 años de experiencia en el motor. Dedicada a la compra y venta de vehículos en la zona de Ferrolterra. Si no encuentras el coche de tus sueños contáctanos!!.614150500 / 661767406",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "122 cv",
@@ -526,17 +526,6 @@
             "año": "2014",
             "kilómetros": "180000 km",
             "precio": 10500.0
-        },
-        {
-            "titulo": "AUDI A3 1.5 Gasolina 150CV 3p ",
-            "enlace": "https://es.wallapop.com/item/audi-a3-1-5-gasolina-150cv-3p-1060934881",
-            "descripcion": "AUDI A3 1.5 Gasolina 150CV 3p",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "150 cv",
-            "año": "2013",
-            "kilómetros": "151752 km",
-            "precio": 9900.0
         },
         {
             "titulo": "Audi A3 2013",

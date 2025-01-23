@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 2",
         "version": "218i Active Tourer Aut.",
-        "año mínimo": 2015,
-        "año máximo": 2018,
+        "año mínimo": "2015",
+        "año máximo": "2018",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "automatic",
         "tipos de motor": "gasoline",
-        "potencia máxima": 136,
+        "potencia máxima": "136",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=136&min_year=2015&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -343,7 +343,7 @@
         {
             "titulo": "BMW Serie 2 2017",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-2017-1090847812",
-            "descripcion": "",
+            "descripcion": "¡AVISO A NAVEGANTES NOS ACABA DE ENTRAR ESTA PRECIOSIDAD DE BMW Serie 2 218i CABRIO AUTOMATICO, ¡ESTRENADO EN MAYO 2017! ¡NACIONAL CON TODO EL HISTORIAL DE REVISIONES EN SERVICIO OFICIAL! ¡MUY BIEN CUIDADO TAL Y COMO SE VE EN LAS FOTOS, CON 161.802 KMS! ¡ETIQUETA MEDIOAMBIENTAL C VERDE DE EMISIONES! ¡MOTOR DE MUY BAJO CONSUMO Y ALTO RENDIMIENTO! MUY BIEN EQUIPADO CON PAQUETE DEPORTIVO M, CAMBIO AUTOMATICO SECUENCIAL CON LEVAS DE 8 VELOCIDADES STEPTRONIC, VOLANTE DE PIEL MULTIFUNCIÓN CON CONTROL DE CRUCERO, TAPICERÍA DE PIEL NEGRA CON ASIENTOS DEPORTIVOS Y CALEFACTABLES, CLIMATIZADOR DIGITAL, CIERRE CENTRALIZADO, EQUIPO MULTIMEDIA CON BLUETOOTH NAVEGADOR, ETC…, START/STOP, LLANTAS DE ALEACIÓN 18” CON NEUMATICOS MICHELIN PILOT SPORT, RETROVISORES ELECTRICOS Y RETRACTILES, SENSOR DE LUCES, SENSORES DE APARCAMIENTO, DEFLECTOR DE VIENTO DESMONTABLE EN EL MALETERO CON SU FUNDA ORIGINAL, ETC… ¡CONSULTAS NUESTRAS OPCIONES DE FINANCIACIÓN! Nosotros lo entregamos recién revisado y con garantía de 12 meses a nivel europeo. Si quiere ser el primero en verlo y probarlo, le atenderemos en Travesera de las Corts, nº 40. La información contenida en este anuncio se muestra a título informativo y no es vinculante ni tiene valor contractual, pudiendo contener algún error.",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "136 cv",

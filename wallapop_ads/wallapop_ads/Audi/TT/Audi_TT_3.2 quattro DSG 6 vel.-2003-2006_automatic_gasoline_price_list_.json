@@ -1,0 +1,69 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "TT",
+        "version": "3.2 quattro DSG 6 vel.",
+        "año mínimo": 2003,
+        "año máximo": 2006,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 250,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=250&min_year=2003&max_year=2006&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=TT&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi TT MK1 Roadster 3.2 V6 DSG",
+            "enlace": "https://es.wallapop.com/item/audi-tt-mk1-roadster-3-2-v6-dsg-1078212560",
+            "descripcion": "Vehiculo de origen y en perfecto estado, libro de revisiones y mantenimiento al día, con facturas, ITV al día, neumáticos Michelin Pilot Sport con menos de 1000 kms. No acepto cambios. Seguro a todo riesgo con franquicia hasta junio en Mapfre. El coche está en Madrid y sólo se enseña a gente que sepa que coche va a comprar. #Roadster #cabrio #tt #mk1 #auditt #z3 #bmwz3 #slk #mercedesslk #mx5 #boxter #bmwz4 #z4",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "250 cv",
+            "año": "2004",
+            "kilómetros": "160417 km",
+            "precio": 13000.0
+        },
+        {
+            "titulo": "Audi TT 2006",
+            "enlace": "https://es.wallapop.com/item/audi-tt-2006-1072497853",
+            "descripcion": "Mantenientos al dia , bien cuidado. Cambio automatico , asientos de piel , sensor de parking , xenon , etc ... mas informacion solo tienes que escribir. NO ACEPTO CAMBIOS",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "200 cv",
+            "año": "2006",
+            "kilómetros": "225000 km",
+            "precio": 9999.0
+        },
+        {
+            "titulo": "Audi TT 2004 180cv automatico ",
+            "enlace": "https://es.wallapop.com/item/audi-tt-2004-180cv-automatico-1082156110",
+            "descripcion": "🇩🇪AUDI TT MK1 🇩🇪 coche nacional 📅año 2004 ⚙️ motor 1.8 turbo 🐎 180cv 🕹️cambio automatico 6 velocidades 🛣️ 156.000km 📓historial de mantenimientos EQUIPAMIENTO: faros bixenon volante con levas climatizador bizona elevalunas electricos asientos de piel ordenador a bordo suspension roscada V MAXX nueva homologada añadido de aleron en carbono llantas audi rs4 en 19” 4 neumaticos nuevos escape duramas homologado 🔑 2 llaves 🏷️precio :9.500€ para mas info 📱687666244 estamos en c/ tramuntana 11 poligono palma de gandia (valencia )",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "180 cv",
+            "año": "2004",
+            "kilómetros": "160000 km",
+            "precio": 9499.0
+        },
+        {
+            "titulo": "Audi TT 2003",
+            "enlace": "https://es.wallapop.com/item/audi-tt-2003-1000884696",
+            "descripcion": "Vehículo totalmente de serie, Automático cambio triptronic 6v, climatizador, al día de revisiones de mantenimiento, en la última cambio de correa distribución y aceite del cambio. En perfecto estado de mecánica, estado exterior perfecto de chapa, algún roce por el uso. Ruedas en perfecto estado. No acepto cambios.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "180 cv",
+            "año": "2003",
+            "kilómetros": "230000 km",
+            "precio": 7200.0
+        }
+    ]
+}

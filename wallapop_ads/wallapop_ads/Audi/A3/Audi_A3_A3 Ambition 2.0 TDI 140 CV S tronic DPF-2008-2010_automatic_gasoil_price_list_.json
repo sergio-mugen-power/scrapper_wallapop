@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 140,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=140&min_year=2008&max_year=2010&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=140&min_year=2008&max_year=2010&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -75,6 +75,17 @@
             "año": "2010",
             "kilómetros": "165000 km",
             "precio": 11500.0
+        },
+        {
+            "titulo": "Audi A3 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1048754098",
+            "descripcion": "AUDI A3 2.0 TDI Sportback S line, automatico cambio S tronic, incluye cambio de levas en el volante, paquete deportivo, techo panoramico con sistema open Sky (techo corredizo), faros bixenon, limpieza automática de faros delanteros por aspersión, climatizador bizona, bluetooth con marcado por voz, llanta deportiva 225x40x18, alarma antirrobo, barras longitudinal superiores de techo, ITV vigente, UNICO DUEÑO, kilometraje en autovia, ESP (programa electrónico de estabilización), alarma, rueda de repuesto, 4 cilindros, frenos ABS... Para mas información preguntar, gracias",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "140 cv",
+            "año": "2010",
+            "kilómetros": "206000 km",
+            "precio": 11000.0
         },
         {
             "titulo": "Audi A3 Cabrío 2.0TDI 2008",
@@ -255,7 +266,7 @@
         {
             "titulo": "Audi A3 S-line 2009",
             "enlace": "https://es.wallapop.com/item/audi-a3-s-line-1083436200",
-            "descripcion": "Audi A3 8p S-line 2.0 TDI 140 cv 2009 S-tronic 6 velocidades -UNIDAD NACIONAL -2 únicos propietarios -Unidad en perfectas condiciones, bien cuidado. -Faros Xenón y diurna LED -Exterior e Interior S-line -Llantas 18” -Climatizador -Radio con cámara trasera -ITV al día -2 llaves -Neumáticos nuevos -Mantenimientos realizados con facturas -Siempre en garaje Sería conveniente cambiar alternador Para más información escribir al chat. NO CONTESTO OFERTAS ABSURDAS SOLO GENTE REALMENTE INTERESADA, PIDO SERIEDAD.",
+            "descripcion": "Audi A3 8p S-line 2.0 TDI 140 cv 2009 S-tronic 6 velocidades -UNIDAD NACIONAL -2 únicos propietarios -Unidad en perfectas condiciones, bien cuidado. -Faros Xenón y diurna LED -Exterior e Interior S-line -Llantas 18” -Climatizador -Radio con cámara trasera -ITV al día -2 llaves -Neumáticos nuevos -Mantenimientos realizados con facturas -Siempre en garaje Hay que revisar el alternador Para más información escribir al chat. NO ACEPTO CAMBIOS, SOLO VENTA NO CONTESTO OFERTAS ABSURDAS SOLO GENTE REALMENTE INTERESADA, PIDO SERIEDAD.",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "140 cv",
@@ -341,6 +352,17 @@
             "precio": 6999.0
         },
         {
+            "titulo": "Audi A3 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1092827389",
+            "descripcion": "Vehiculo en muy buen estado como se ven en las fotos motor 1.6 tdi consume muy poco. techo panoramico volante multifuncion luces b zona paletas en volante 2 llaves bateria nueva hace 6 meses el coche se entrega revisado acepto prueba mecanica",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "105 cv",
+            "año": "2010",
+            "kilómetros": "208000 km",
+            "precio": 6990.0
+        },
+        {
             "titulo": "Audi A3 2009",
             "enlace": "https://es.wallapop.com/item/audi-a3-2009-1033924737",
             "descripcion": "Se vende Audi a3 sportback en perfecto estado está muy cuidado se puede ver sin compromiso nada de mareantes ni de cambios más información llamar 638475495 solo asta final de año sino le entrego mientras este el anuncio sigue disponible",
@@ -354,7 +376,7 @@
         {
             "titulo": "Audi A3 2.0tdi dsg",
             "enlace": "https://es.wallapop.com/item/audi-a3-2-0tdi-dsg-1090752090",
-            "descripcion": "En venta bonito audi a3 2.0tdi dsg automatico Sline. En buen estado funcionando perfectamente con itv recien pasada. * asientos en piel * cambio automatico dsg * asientos calefactables * tempomat * sensor de luces * paquete sline interior y exterior garantia de 1 año",
+            "descripcion": "",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "140 cv",
@@ -372,17 +394,6 @@
             "año": "2008",
             "kilómetros": "288000 km",
             "precio": 5200.0
-        },
-        {
-            "titulo": "Vendo Audi A3",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2008-1085354826",
-            "descripcion": "Audi A 3 esport pack 2.0 tdi 140 CV año 2008 Km 273.000 Extras Volante multifuncion Control crucero Climatizador bi-zona Radio CD con Bluetooth Dispositivo de manos libres Levas 4 elevalunas eléctricos Espejo retrovisor interior anti deslumbramiento Espejos eléctricos calefactables Luces de xenon Sensor de luces Llantas de aleación Cierre centralizado Cambio de nombre incluido en el precio Mejor ver y probar",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "140 cv",
-            "año": "2008",
-            "kilómetros": "274000 km",
-            "precio": 5000.0
         },
         {
             "titulo": "Audi A3 2010",

@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase A",
+        "version": "A 250 BlueEFFICIENCY 7G-DCT",
+        "año mínimo": "2012",
+        "año máximo": "2012",
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 211,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=211&min_year=2012&max_year=2012&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Mercedes-Benz&model=Clase A&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase A 2012",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2012-314330816",
+            "descripcion": "Paquete amg exterior Acabado sport Perfecto estado Precio algo negociable",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "211 cv",
+            "año": "2012",
+            "kilómetros": "130000 km",
+            "precio": 19000.0
+        }
+    ]
+}

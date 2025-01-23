@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 2",
         "version": "220i Coupé",
-        "año mínimo": 2021,
-        "año máximo": 2024,
+        "año mínimo": "2021",
+        "año máximo": "2024",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "automatic",
         "tipos de motor": "gasoline",
-        "potencia máxima": 184,
+        "potencia máxima": "184",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=184&min_year=2021&max_year=2024&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -68,7 +68,7 @@
         {
             "titulo": "BMW Serie 2 220iA Gran Coupe 4p. ",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-220ia-gran-coupe-4p-1069296001",
-            "descripcion": "BMW Serie 2 220iA Gran Coupe 4p. 36.990 / Etiqueta C emisiones Desde 346,06€/mes* Con entrada de 6.990 € Financialo 100x100 sin entrada con las condiciones de TREND CARS ( 100% desde 72 meses (TIN 10,99) y seguro basico ) *Consultar condiciones de financiacion ofrecidas, sujetas a aprobacion por parte de la entidad financiera -PAQUETE DEPORTIVO M / ASIENTOS DELANTEROS DEPORTIVOS TIPO SEMIBAQUETS ELECTRICOS Y CALEFACTABLES / ILUMINACION AMBIENTAL / BMW LIVE COCKPIT PLUS / VOLANTE DEPORTIVO MULTIFUNCION Y CALEFACTABLE / ACTIVE GUARD PLUS / MODOS DE CONDUCCION / PAQUETE DE ALMACENAMIENTO / TAPICERIA CUERO DAKOTA ROJO PERFORADO / ATTENTION ASSIST / BMW INDIVIDUAL SHADOW LINE / APPLE CAR PLAY / CARGA INALAMBRICA DE SMARTPHONE / BMW REAL TRAFFIC INFORMATION / LLANTAS 19\" / DIRECCION DEPORTIVA M-TECHNIC / HEAD UP DISPLAY / SUSPENSION DEPORTIVA +TODO EL EQUIPAMIENTO DE SERIE DE LA GAMA BMW Serie 2 220iA Gran Coupe 4p. ¡RESERVALO! Puedes hacer BIZUM directamente y de forma segura en WWW.TRENDCARS. ES TRENDCARS. es CONFIANZA / CALIDAD / GARANTIA ¿Buscas un trato personalizado, un servicio postventa eficaz de CONFIANZA y para tu TRANQUILIDAD? TODOS nuestros coches estan revisados / Con certificado de KMS y AUSENCIA de Golpes (DEKRA) GARANTIA 12 meses, ampliable a 36 meses para cualquier taller de Espana Cambio de titularidad NO incluida en el precio ( 390€ ) Este anuncio no es vinculante se muestra a titulo informativo....",
+            "descripcion": "",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "178 cv",
@@ -90,7 +90,7 @@
         {
             "titulo": "BMW Serie 2 2022",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-2022-1089131104",
-            "descripcion": "",
+            "descripcion": "Buenas soy Pedro Cárdenas, ¿te interesa? Si es asi me encontraras Avenida Cabrera Nº 36 Bajo la torre d'ara en Mataró. puedes contactarme sin compromiso al 664 07 08 26. Somos Grupo Movento, lideres en movilidad privada con mas de 700 coches de stock y 45 concesiones oficiales de 16 marcas distintas. El coche se entrega revisado a fondo en nuestros talleres oficiales, garantia de 1 año ampliable a 3 años, posibilidad de financiar el 100% del coche, gastos de gestoria no incluidos, podemos tasar tu coche actual para ofrecerlo como entrada, y podemos llevarte el coche a domicilio, expertos en ventas 100% Online. Puedes consultarme por las condiciones sin compromiso. PVP Contado 35.990€ Financiado desde 481€ en 120 cuotas.",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "184 cv",
@@ -111,23 +111,12 @@
         },
         {
             "titulo": "BMW Serie 2 218i Active Tourer 100 kW (136 CV)",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-2-218i-active-tourer-100-kw-136-cv-1080029751",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-2-218i-active-tourer-100-kw-136-cv-1080029754",
             "descripcion": "",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "136 cv",
             "año": "2024",
-            "kilómetros": "12845 km",
-            "precio": 35490.0
-        },
-        {
-            "titulo": "BMW Serie 2 218i Active Tourer 100 kW (136 CV)",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-2-218i-active-tourer-100-kw-136-cv-1080029749",
-            "descripcion": "",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "136 cv",
-            "año": "2023",
             "kilómetros": "12000 km",
             "precio": 35490.0
         },
@@ -144,13 +133,24 @@
         },
         {
             "titulo": "BMW Serie 2 218i Active Tourer 100 kW (136 CV)",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-2-218i-active-tourer-100-kw-136-cv-1080029754",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-2-218i-active-tourer-100-kw-136-cv-1080029749",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2023",
+            "kilómetros": "12000 km",
+            "precio": 35490.0
+        },
+        {
+            "titulo": "BMW Serie 2 218i Active Tourer 100 kW (136 CV)",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-2-218i-active-tourer-100-kw-136-cv-1080029751",
             "descripcion": "",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "136 cv",
             "año": "2024",
-            "kilómetros": "12000 km",
+            "kilómetros": "12845 km",
             "precio": 35490.0
         },
         {
@@ -253,6 +253,17 @@
             "precio": 34500.0
         },
         {
+            "titulo": "BMW Serie 2 2.0 184CV Autom.",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-2-2-0-184cv-autom-1092669663",
+            "descripcion": "Acabado Autom.. Disponible tambien en los colores Black Saphire, Blanco, Gris shark. Tambien en Peninsula y Baleares. Este anuncio es meramente informativo, no es vinculante ni contractual. Consulta a nuestros comerciales. Mas de 2000 coches en stock permanente, visitenos en ClickAutos. ...",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "184 cv",
+            "año": "2021",
+            "kilómetros": "64578 km",
+            "precio": 33950.0
+        },
+        {
             "titulo": "BMW Serie 2 218i Gran Coupe 103 kW (140 CV)",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-218i-gran-coupe-103-kw-140-cv-1066378398",
             "descripcion": "Compra este vehículo desde 182.88 EUR/mes FINANCIACION CON BMW BANK SELECT. En BMW Bertolín, primer concesionario oficial BMW de EUROPA, desde hace más de 60 años, trabajamos para dar la máxima calidad a nuestros clientes. No vendemos vehículos si no estamos seguros de su calidad y de su procedencia. Nueva tienda exclusiva de vehículos BMW Premium Selection, más de 50 unidades en stock permanente. El servicio BMW Premium Selection, es un distintivo de calidad ,24 meses de garantía oficial en todo el territorio nacional , revisión técnica y óptica de 360º,asistencia europea en carretera ,Vehículo con kilometraje certificado y garantizamos que el vehículo no ha sufrido daños estructurales mediante certificación de empresa externa. *Las especificaciones sobre equipamiento, extras, modelo y/o precio, no tiene carácter vinculante ni constituyen base de futuro contrato al poder contener errores. Consulte bien los datos y disponibilidad del vehículo en caso de interés, el precio indicado puede sufrir variaciones sin previo aviso",
@@ -321,7 +332,7 @@
         {
             "titulo": "BMW Serie 2 2021",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-2021-1035605140",
-            "descripcion": "PRECIO INDICADO ES FINAL Y AL CONTADO con IVA incluido (deducible), transferencia y garantía 12 meses. WE SPEAK ENGLISH & RUSSIAN Tenemos posibilidad de vender FLOTAS a profesionales. OFRECEMOS LA OPCION DE AMPLIAR LA COBERTURA Y DURACION DE LA GARANTIA A 24 MESES ¡ESTAMOS EN INSTAGRAM! @solo_carsales Y @solo_furgonetas ¡VISITA NUESTRAS OFICINAS! ATENCIÓN: Atendemos únicamente con cita previa. Marbella Oficina: Avenida de los Girasoles 347B, Nueva Andalucía 29660 Málaga Oficina: Av. del Comandante García Morato, 50, Oficina 2, 29004 Málaga.",
+            "descripcion": "",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "136 cv",
@@ -339,17 +350,6 @@
             "año": "2021",
             "kilómetros": "17800 km",
             "precio": 29990.0
-        },
-        {
-            "titulo": "BMW Serie 2 1.5 136CV Autom.",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-2-1-5-136cv-automatico-939422233",
-            "descripcion": "Acabado Autom.. Disponible también en los colores Negro, Sunset Orang. También en Península y Baleares. Este anuncio es meramente informativo, no es vinculante ni contractual. Consulta a nuestros comerciales. Más de 2000 coches en stock permanente, visítenos en ClickAutos.",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "136 cv",
-            "año": "2021",
-            "kilómetros": "62837 km",
-            "precio": 29950.0
         },
         {
             "titulo": "BMW Serie 2 218i Active Tourer 100 kW (136 CV)",

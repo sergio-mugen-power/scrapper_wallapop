@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "CLA Shooting Brake",
+        "version": "CLA 200 d Shooting Brake",
+        "año mínimo": 2016,
+        "año máximo": 2018,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 136,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=136&min_year=2016&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Mercedes-Benz&model=CLA Shooting Brake&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz CLA Shooting Brake CLA 200 d 100 kW (136 CV)",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-cla-shooting-brake-cla-200-d-100-kw-136-cv-1092398887",
+            "descripcion": "Consultar condiciones de financiación. Precio alternativo oferta de financiación: 19.090€ (IVA incluido) financiando el 100% del importe (consulta condiciones específicas de la promoción, sujeto a condiciones de financiación de las entidades colaboradoras). Garantía Premium de 12 meses, ampliable a 36 meses. Cambio de nombre no incluido (199 euros). ACEPTAMOS VEHÍCULO COMO FORMA DE PAGO. Gestión Directa de Vehículos empresa del grupo Cetin Autos, desde 1992 vendiendo vehículos con la mejor calidad y precio del mercado. Horario: de lunes a sábado de 10:00 a 14:00 y de 16:00 a 20:00. Para más información VISITA NUESTRA WEB: WWW.GDVEHICULOS.COM La información aquí mostrada puede contener errores y por lo tanto no tiene carácter vinculante no pudiendo constituir en ningún caso la base de un futuro contrato. Tenemos más marcas y modelos a la venta: BMW serie3, Audi A3 sportback, Aduai A4, Citroen C4, Peugeot 5008, Kia Ceed, Toyota Corolla, Volkswagen Passat.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "136 cv",
+            "año": "2018",
+            "kilómetros": "135990 km",
+            "precio": 20990.0
+        }
+    ]
+}

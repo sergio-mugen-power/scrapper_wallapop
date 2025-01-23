@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase A",
+        "version": "A 160 CDI Berlina BlueEFFICIENCY",
+        "año mínimo": "2010",
+        "año máximo": "2012",
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 82,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=82&min_year=2010&max_year=2012&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Mercedes-Benz&model=Clase A&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase A 2011",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2011-1085136673",
+            "descripcion": "AUTOMÓVILES JUANITO + DE 8000 MÍL COCHES VENDIDOS Y + DE 45 AÑOS VENDIENDO VEHÍCULOS DE OCASIÓN EN BENIDORM.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "82 cv",
+            "año": "2011",
+            "kilómetros": "163000 km",
+            "precio": 6800.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2011",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2011-1051109333",
+            "descripcion": "el coche está nuevo de interior exterior y de motor, tiene el motor 2000 diesel, todos los extras, batería nueva recién puesta, muy bien cuidado lo tienes que ver, ITV y todo está al día",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "82 cv",
+            "año": "2011",
+            "kilómetros": "195000 km",
+            "precio": 5800.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2010",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2010-1039964829",
+            "descripcion": "Mercedes clase A160 Blue Efficiency Muy economico y en muy buen estado por dentro, a fuera y tecnico. Mantenimiento hecho siempre en Mercedes. ITV hasta 09/2025 Acepto cualquir prueba mecanica. 1 Llave Neumaticos Michelin Posibilidad de entregarlo en Murcia Alicante y Valencia",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "82 cv",
+            "año": "2010",
+            "kilómetros": "221000 km",
+            "precio": 5490.0
+        }
+    ]
+}

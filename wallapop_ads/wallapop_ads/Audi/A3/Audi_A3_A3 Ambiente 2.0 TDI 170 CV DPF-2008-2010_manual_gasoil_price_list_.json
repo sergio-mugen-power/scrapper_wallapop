@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 170,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=170&min_year=2008&max_year=2010&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=170&min_year=2008&max_year=2010&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -166,17 +166,6 @@
         },
         {
             "titulo": "Audi A3 2009",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2009-1072476745",
-            "descripcion": "Se vende audi A3 Sline, interior y exterior. Manos libres y navegador. Muy buen estado. Revision recien hecha, cambiados 4 neumaticos nuevos, pastillas, aceite y filtros. Se puede ver y probar.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2009",
-            "kilómetros": "125000 km",
-            "precio": 11900.0
-        },
-        {
-            "titulo": "Audi A3 2009",
             "enlace": "https://es.wallapop.com/item/audi-a3-2009-1091784279",
             "descripcion": "AUDI A3 SPORTBACK 1.9TDI ATRACTION Fecha de matriculación 12/11/2009 Único propietario, Libro completo en Audi, Isofix, Bluethoot, Elevalunas eléctricos, Retrovisores eléctricos, radio-cd, climatizador bizona , dirección asistida, cierre centralizado, etc... El precio incluye: -Revisión mecánica pre-entrega, con cambio de aceite y filtros -Transferencia -Garantía 12 meses. Opción de financiación. Visítenos en C/ Castilla 60 (antigua Ford) 39009 Santander Consulte todos nuestros vehículos en sportturismo.es Instagram y facebook: @sportturismoocasion Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual.",
             "combustible": "Diésel",
@@ -209,17 +198,6 @@
             "precio": 11500.0
         },
         {
-            "titulo": "Audi A3 2009",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2009-1011381599",
-            "descripcion": "Audi A3 Sline cabrio coche muy equipado y en muy buenas condiciones, se entrega recién revisado y con garantía de 12 meses, valoramos su vehículo como parte de pago, disponemos de financiación.!!",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2009",
-            "kilómetros": "187000 km",
-            "precio": 11500.0
-        },
-        {
             "titulo": "Audi A3 2008",
             "enlace": "https://es.wallapop.com/item/audi-a3-2008-966652101",
             "descripcion": "Audi a 3 cabrio bien cuidado",
@@ -228,6 +206,17 @@
             "potencia": "105 cv",
             "año": "2008",
             "kilómetros": "112000 km",
+            "precio": 11500.0
+        },
+        {
+            "titulo": "Audi A3 2009",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2009-1011381599",
+            "descripcion": "Audi A3 Sline cabrio coche muy equipado y en muy buenas condiciones, se entrega recién revisado y con garantía de 12 meses, valoramos su vehículo como parte de pago, disponemos de financiación.!!",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2009",
+            "kilómetros": "187000 km",
             "precio": 11500.0
         },
         {
@@ -308,6 +297,17 @@
             "precio": 10700.0
         },
         {
+            "titulo": "Audi A3 Sportback (143.267 Km)",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-143-267-km-1076870183",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "105 cv",
+            "año": "2010",
+            "kilómetros": "143267 km",
+            "precio": 10500.0
+        },
+        {
             "titulo": "Audi A3 2009",
             "enlace": "https://es.wallapop.com/item/audi-a3-2009-1088325902",
             "descripcion": "Vehículo en perfecto estado tanto de motor como de estética, a los 235.000 (junio 2024) se le cambió: -Kit de embrague junto con bimasa -Kit correa de distribución, con su bomba de agua nueva y el anticongelante G12 original de Audi -Mantenimiento de Aceite SHELL HX8 y todos los filtros -Paso por plancha y pintura para reparar las típicas picadas de abrir puertas Se entrega con el cambio de nombre incluido en el precio El coche está perfecto, como extras tiene: -Kit interior y exterior Sline -techo solar -faros delanteros de led -iluminación interior toda de led -radio pantalla con Bluetooth, GPS, etc Más información por privado!!",
@@ -316,17 +316,6 @@
             "potencia": "105 cv",
             "año": "2009",
             "kilómetros": "237000 km",
-            "precio": 10500.0
-        },
-        {
-            "titulo": "Audi A3 Sportback (143.267 Km)",
-            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-143-267-km-1076870183",
-            "descripcion": "A3 Sportback Mi coche de siempre, único conductor Impecable, siempre en garaje Neumáticos x 4 Michelin Nuevos. Embrague Nuevo, Valvula EGR Nueva. Libro y registro de mantenimiento mecánico a disposición.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2010",
-            "kilómetros": "143267 km",
             "precio": 10500.0
         },
         {
@@ -376,7 +365,7 @@
         {
             "titulo": "Audi A3 2.0 TDI sline sportback ",
             "enlace": "https://es.wallapop.com/item/audi-a3-2008-1085412945",
-            "descripcion": "",
+            "descripcion": "Audi A3 sportback 2.0 140 CV SLine 2008 174000 kms ITV 12/2024 Asientos SLine mixtos cuero Alcántara negros y calefactables Todos los mantenimientos al día , amortiguación nueva original, todos los silenblok y todas las rotulas cambiadas, aceite y todos los filtros antes del verano , ruedas al 80% , correa de distribución a media vida, todos los líquidos cambiados hace 1 año( refrigerante con limpieza de circuito,frenos , caja de cambios etc)",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "140 cv",
@@ -394,6 +383,28 @@
             "año": "2008",
             "kilómetros": "270000 km",
             "precio": 10100.0
+        },
+        {
+            "titulo": "Audi A3 ",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1092251673",
+            "descripcion": "se vende Audi A3 estado impecable por falta de uso. NO NEGOCIABLE",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "100 cv",
+            "año": "2010",
+            "kilómetros": "98000 km",
+            "precio": 10000.0
+        },
+        {
+            "titulo": "Audi A3 2009",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2009-1092287524",
+            "descripcion": "audi a3 sline anterior y exterior, todo el mantenemiento al dia, sin ninguna problema hay que verlo y probarlo. mas informacion( 610178889) solo whatssap",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2009",
+            "kilómetros": "221000 km",
+            "precio": 10000.0
         },
         {
             "titulo": "Audi A3 2009",
@@ -517,6 +528,17 @@
             "precio": 9990.0
         },
         {
+            "titulo": "Audi A3 Ambiente 2.0 TDI DPF 103 kW (140 CV)",
+            "enlace": "https://es.wallapop.com/item/audi-a3-ambiente-2-0-tdi-dpf-103-kw-140-cv-1082380626",
+            "descripcion": "Vehículo nacional. El precio incluye: IVA (REBU) y 1 año de Garantía (motor y caja de cambios). Kilometraje y ausencia de golpes estructurales certificados por Carfax. Financiación 100% sin entrada. Precio al contado: 9.900€ Precio nuevo: 37.835€ Extras: Pintura: Pintura efecto perla 720€ Tapizado: Tapicería de cuero \"Vienna\" 1.585€ Sistema de navegación plus DVD 2.600€ Llantas alumino 5 brazos 7,5Jx17 1.080€ Faros de xenón Plus 1.000€ APS del 925€ Equipo de Sonido Bose 690€ Preinst 615€ Intercambiador de CD 435€ Regulación lumbar eléctrica as 280€ Ayuda en acceso en pendiente 115€ Auto Sport Moraleja",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2010",
+            "kilómetros": "152700 km",
+            "precio": 9900.0
+        },
+        {
             "titulo": "AUDI A3 Sportback 1.6 TDI 105cv Ambition",
             "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-6-tdi-105cv-ambition-1084008431",
             "descripcion": "Audi A3 Sportback 1.6TDI 105cv -Llantas de aluminio en 16 -Volante multifunción -Control de velocidad -Climatizador bi-zona -Manos libres Bluetooth Vehículo Nacional, único propietario con libro de revisiones sellado en servicio oficial Audi. Correa de distribución cambiada. 1 año de garantía con opción de ampliarla a 2 años por tan solo 390 Euros KILOMETRAJE Y NO SINIESTRALIDAD CERTIFICADOS EN CONTRATO!!! FINANCIACIÓN A SU MEDIA CON LAS MEJORES CONDICIONES DEL MERCADO!!! HACEMOS ENTREGA EN TODA ESPAÑA!!! El anuncio es a título informativo y puede contener errores. GASTOS DE TRANSFERENCIA: 150 Euros",
@@ -595,6 +617,17 @@
         },
         {
             "titulo": "Audi A3 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2008-1092392625",
+            "descripcion": "Espectacular unidad a la venta. Pack s line por fuera y por dentro. Asientos cuero negro en muy buen estado, mantenimientos al dia y la itv tambien, correa distribucion sustituida a los 150.000kms, un inyector bomba sustituido a los 185.000kms junto al cuerpo de la mariposa, el coche no tiene ni un fallo, esta para ver y probar y hacer muchisimos kilometros mas. Fallos: -Techo descolgado. (200€ retapizarlo) -Limpia parabrisas trasero a veces se traba. (95€ el motor nuevo) -Mando de luces con la pintura un poco desgastada. (19€ la pieza nueva)",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "170 cv",
+            "año": "2008",
+            "kilómetros": "207000 km",
+            "precio": 9700.0
+        },
+        {
+            "titulo": "Audi A3 2008",
             "enlace": "https://es.wallapop.com/item/audi-a3-2008-1068625561",
             "descripcion": "YA DISPONIBLE AUDI A3 2.0 170CV TRACCIÓN QUATTRO S-LINE FULL EXTRAS ACABADO S-LINE DOBLE TECHO SOLAR Y PANORÁMICO FAROS DE XENÓN LLANTAS EN 18 PULGADAS VELOCIDAD DE CRUCERO 6 VELOCIDADES BOLA DE REMOLQUE INTERIOR DE CUERO Y TELA ELEVALUNAS ELÉCTRICOS LOS TRES RETROVISORES CON SISTEMA ANTI DESLUMBRAMIENTO INSTALACIÓN DE PARROT TOTALMENTE REVISADO, SE ENTREGA CON LA ULTIMA REVISIÓN RECIÉN PASADA ¡¡DESCUENTOS ESPECIALES Y CAMBIO DE TITULAR GRATUITO A AFECTADOS POR LA DANA!! Cualquier pregunta no duden en contactar, flexibilidad horaria para entrega y reservas de vehículos -CAMBIO DE TITULARIDAD +250 euros -GARANTÍA PREMIUM desde 300 euros *Este anuncio no es vinculante , puede contener errores, se muestra a título informativo y no contractual* Posibilidad de entrega a domicilio , en cualquiera de las siguientes provincias: La Coruña - Álava - Albacete - Alicante - Almería - Asturias - Ávila - Badajoz - Barcelona - Burgos - Cáceres - Cádiz - Cantabria - Castellón - Ciudad Real - Córdoba - Cuenca - Girona - Granada - Guadalajara - Gipuzkoa - Huelva - Huesca - Jaén - La Rioja - León - Lérida - Lugo - Málaga - Murcia - Navarra - Ourense - Palencia - Pontevedra - Salamanca - Segovia - Sevilla - Soria - Tarragona - Teruel - Toledo - Valencia - Valladolid - Vizcaya - Zamora - Zaragoza. Trabajamos con todas las marcas de vehículos: Alfa Romeo, Audi, BMW, Citroën, Dacia, Jeep, Fiat, Ford, Honda, Hyundai, Jaguar, Kia, Mazda, Mercedes Benz, Mini, Mitsubishi, Nissan, Opel, Porsche, Tesla, Toyota, Seat, Subaru, Volkswagen.",
             "combustible": "Diésel",
@@ -662,7 +695,7 @@
         {
             "titulo": "Audi A3 2008",
             "enlace": "https://es.wallapop.com/item/audi-a3-2008-1027411477",
-            "descripcion": "",
+            "descripcion": "Audi A3 Motor 2.0 TDI, 140 caballos, Año 2008. Equipamiento. - acabado s-line. - direccion asistida. - cierre centralizado. - climatizador . -apertura con mando. - sensor parking tras. - faros bi-xenon. - control velocidad. -bluetooth -asientos calefactables - Audi A3 en Lorca",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "140 cv",
@@ -759,17 +792,6 @@
             "precio": 9500.0
         },
         {
-            "titulo": "Audi A3 2008",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2008-1085643320",
-            "descripcion": "Audi A3 8p Sporback FULL EXTRAS. 2.0tdi 140cv Stronic. Levas en el volante. -Doble techo paronamico. -Luces ambiente en las 4 puertas. -Velocidad crucero. -Sensores de aparcamiento. -Luces automáticas. -Retrovisores electricos con función para desempañarse. -Navegador Audi. -Equipo de sonido profesional. -Gancho para remolque desmontable. - Dos llaves originales. -Mantenimientos al día. -Dos juegos de llantas audi originales, multiradio en 17\" con los 4 neumáticos y las que tiene modelo rs en 18\" con los 4 neumáticos nuevos. El coche está funcionando diariamente y no hay que hacerle nada. Itv en vigor. Se puede ver y probar. Modelo muy único y vistoso.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2008",
-            "kilómetros": "270000 km",
-            "precio": 9400.0
-        },
-        {
             "titulo": "Audi A3 Cabrio",
             "enlace": "https://es.wallapop.com/item/audi-a3-1067704748",
             "descripcion": "Vendo Audi A3 cabrio diesel. Un lujo de coche con motor TDI y las mejores prestaciones. Tiene todo lo que necesitas con radio CD ,llantas de aleación,control de velocidad, climatizador, sensores de parking delanteros y traseros entre otros equipamientos Se entrega con cortavientos incluido. Mantenimientos y mecánica al día con aceite y filtros recién cambiados, kit de correa de distribución hecho y neumáticos nuevos. Etiqueta DGT B.",
@@ -803,14 +825,14 @@
             "precio": 9350.0
         },
         {
-            "titulo": "Audi A3 2009",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2009-1084574844",
-            "descripcion": "Se vende por no uso . Todo al día y distribución echa a los 150mil más info por mensaje",
+            "titulo": "Audi A3 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2008-1085643320",
+            "descripcion": "Audi A3 8p Sporback FULL EXTRAS. 2.0tdi 140cv Stronic. Levas en el volante. -Doble techo paronamico. -Luces ambiente en las 4 puertas. -Velocidad crucero. -Sensores de aparcamiento. -Luces automáticas. -Retrovisores electricos con función para desempañarse. -Navegador Audi. -Equipo de sonido profesional. -Gancho para remolque desmontable. - Dos llaves originales. -Mantenimientos al día. -Dos juegos de llantas audi originales, multiradio en 17\" con los 4 neumáticos y las que tiene modelo rs en 18\" con los 4 neumáticos nuevos. El coche está funcionando diariamente y no hay que hacerle nada. Itv en vigor. Se puede ver y probar. Modelo muy único y vistoso.",
             "combustible": "Diésel",
             "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2009",
-            "kilómetros": "178000 km",
+            "potencia": "140 cv",
+            "año": "2008",
+            "kilómetros": "270000 km",
             "precio": 9300.0
         },
         {
@@ -869,25 +891,14 @@
             "precio": 9100.0
         },
         {
-            "titulo": "Audi A3 2008",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2008-1089258869",
-            "descripcion": "motor 1.9 tdi completamente nuevo y muy mimado con doble techo solar ,duerme en garaje y ruedas recien cambiadas acepto cualquier prueba mecanicq precio negociable no respondo a precios absurdos gente seria.",
+            "titulo": "Audi A3 2009",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2009-1084574844",
+            "descripcion": "Se vende por no uso . Todo al día y distribución echa a los 150mil más info por mensaje",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "105 cv",
-            "año": "2008",
-            "kilómetros": "211557 km",
-            "precio": 9000.0
-        },
-        {
-            "titulo": "Audi A3 2009 1.6 tdi ambition",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2009-1-6-tdi-ambition-1087415428",
-            "descripcion": "SE VENDE AUDI A3 1.6 TDI AMBITION, en perfecto estado tanto interior como exterior, un solo dueño, libro mantenimiento, techo panorámico, sensores aparcamiento, luces de Xenón, faros Xenon Plus (Luz de cruce y carretera), asientos calefactados, calefacción del asiento delante, techo solar Open-Sky-System (Techo de cristal corredero), sensores de distancia para aparcamiento , ayuda aparcamiento detrás (APS), dirección asistida electromecánica, sistema manos libres, preinstalación Teléfono móvil con Instalación Bluetooth, en Reposabrazos central integrado, bastidor deportivo Tren de rodaje deportivo, asientos deportivos, airbag conductor/acompañante Sistema de airbag para la cabeza (Sideguard), airbag lateral delante Sistema aire acondicionado climatizador automático, bloqueo de diferencial electrónico (EDS), elevalunas eléctricos, Programa electrónico de estabilidad (ESP), ordenador de a bordo, indicador de la temperatura exterior, Sistema antibloqueo de frenos (ABS). 9000€ totalmente revisado con un año de garantía. No se contesta Whatsapp. Posible financiación a su medida.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2010",
-            "kilómetros": "205094 km",
+            "año": "2009",
+            "kilómetros": "178000 km",
             "precio": 9000.0
         },
         {
@@ -946,17 +957,6 @@
             "precio": 9000.0
         },
         {
-            "titulo": "Audi A3 2010",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1046407828",
-            "descripcion": "AUDI A3 SPORTBACK. 1.6 TDI 105CV AÑO 2010 Kilómetros 160000 PRECIO: 9000 € *CARACTERÍSTICAS:* - Combustible: Diésel. - Caja cambio: Manual, 5 Velocidades. - Consumo: 4.2 L/100 kms. - Motor: 1.6 / 105 CVs - Color: BLanco Ibis. - Nº Puertas: 5 - Carrocería: Tipo berlina. - Tracción : Delantera - Start/Stop, parada y arranque automático. *Mantenimiento al día.* *Correa distribución cambiada a los 130.000 kms* Mejor ver y probar.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2010",
-            "kilómetros": "160000 km",
-            "precio": 9000.0
-        },
-        {
             "titulo": "Audi A3 2008",
             "enlace": "https://es.wallapop.com/item/audi-a3-2008-1053288998",
             "descripcion": "Audi a3 sline del año 2008 con motor 2.0 TDI 140 cv, tiene poco desperfectos por el uso pero el motor está en perfecto estado. Tiene solo 109.000 km y tiene todas las revisiones echas al día, pegatina medioambiental B y aparte tiene la ITV pasada válida hasta julio del 25 y pegatina medioambiental B. Escucho ofertas de intercambio, GENTE SERÍA.",
@@ -1001,17 +1001,6 @@
             "precio": 9000.0
         },
         {
-            "titulo": "Audi A3 2009",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2009-914337849",
-            "descripcion": "El coche está en perfecto estado con todos los extras que te puedes imaginar mejor ver y probar es paquete sline completo",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2009",
-            "kilómetros": "265000 km",
-            "precio": 8999.0
-        },
-        {
             "titulo": "Audi A3 1.6 Tdi 105cv Cabrio",
             "enlace": "https://es.wallapop.com/item/audi-a3-1-6-tdi-105cv-cabrio-1084691445",
             "descripcion": "Audi A3 Cábriolet 1.6 Tdi 105 cv, Año 05/2010, 224 mil km, Climatizado Bi-zona, Capota Eléctrica, Ordenador de Abordo, Start/Stop, Llantas de Aleación, Control de Velocidad, Entrada Aux, Distribución i Revisión recien hecha, Financiación 100% sin entrada, Distintivo Medioambiental, Se acepta vehiculo a cambio como pago como parte del pago, LLIÇACARS OCASION.",
@@ -1034,25 +1023,25 @@
             "precio": 8990.0
         },
         {
-            "titulo": "Audi A3 2008",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2008-1035408077",
+            "titulo": "Audi A3 2.0 TDI 140cv sport",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tdi-140cv-sport-1076575864",
             "descripcion": "",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "140 cv",
             "año": "2008",
-            "kilómetros": "207000 km",
+            "kilómetros": "225000 km",
             "precio": 8900.0
         },
         {
-            "titulo": "Audi A3 2.0 TDI 140cv sport",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tdi-140cv-sport-1076575864",
-            "descripcion": "transferencia incluida,nacional,se entrega con distribucion cambiada,garantia,",
+            "titulo": "Audi A3 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2008-1035408077",
+            "descripcion": "Audi A3 Motor 2.0 TDI, 140 caballos, Año 2008. Equipamiento. - acabado s-line. - dirección asistida. - cierre centralizado. - climatizador . -apertura con mando. - sensor parking tras. - ordenador a bordo - faros bi-xenon. - control velocidad. -bluetooth -asientos calefactables - volante multifuncion- Audi A3 en Lorca.",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "140 cv",
             "año": "2008",
-            "kilómetros": "225000 km",
+            "kilómetros": "207000 km",
             "precio": 8900.0
         },
         {
@@ -1075,17 +1064,6 @@
             "potencia": "140 cv",
             "año": "2010",
             "kilómetros": "270000 km",
-            "precio": 8900.0
-        },
-        {
-            "titulo": "Audi A3 sportback s-line",
-            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-s-line-1009421313",
-            "descripcion": "Se vende audi a3 sportback sline en muy buen estado, revisiones al dia, embrague bimasa cambiado, turbo nuevo, bola de remolque desmontable invisible. Entrego facturas de todo. Pegatina medioambiental B. Distribucion y mantenimiento recien echo 12/2024.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2008",
-            "kilómetros": "288000 km",
             "precio": 8900.0
         },
         {
@@ -1229,6 +1207,17 @@
             "potencia": "105 cv",
             "año": "2009",
             "kilómetros": "197000 km",
+            "precio": 8600.0
+        },
+        {
+            "titulo": "Audi A3 sportback s-line",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-s-line-1009421313",
+            "descripcion": "Se vende audi a3 sportback sline en muy buen estado, revisiones al dia, embrague bimasa cambiado, turbo nuevo, bola de remolque desmontable invisible. Entrego facturas de todo. Pegatina medioambiental B. Distribucion y mantenimiento recien echo 12/2024.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2008",
+            "kilómetros": "288000 km",
             "precio": 8600.0
         },
         {
@@ -1408,17 +1397,6 @@
             "precio": 8500.0
         },
         {
-            "titulo": "Audi A3 2008",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2008-671325461",
-            "descripcion": "Vendo Audi A3 sline xenon libro coche con pegatina para circular por madrid mantenimiento correas recién echas (continental) filtros cambiados interior sline exterior sline suspensión sline 137.000km reales coche nacional 2008 de interior ningun desgaste tanto de sillones de tapicería de exterior dos o tres rasgullos llantas 17 originales sline kit de embrage recién cambiado con factura dos llaves color azul . Acepto cambio golf bmw mercedes SEAT Opel (opc) audi etc el precio se puede ablar nada de ofertas absurdas",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2008",
-            "kilómetros": "150000 km",
-            "precio": 8500.0
-        },
-        {
             "titulo": "Audi A3 2.0 TDI",
             "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tdi-1078164371",
             "descripcion": "Audi A3 2.0 TDI sin DPF (no deja ponerlo en la descripcion de modelo) Año 2009 4 neumaticos nuevos Discos delanteros y pastillas delanteras nuevas, pastillas traseras nuevas. Aceite del cambio , anticongelante , EGR y Valvula de la mariposa todo cambiado y nuevo con 265.000kms Correa de distribucion a los 250.000km. Mantenimiento recien hecho la semana pasada (principios diciembre) Techo solar. Paquete S-line interior y exterior. Suspension deportiva. Asientos deportivos. Sonido Bose original. Muy cuidado y siempre en garaje. He comprado un coche mas grande y con anclajes Isofix. Por eso lo vendo. Se compró nuevo de concesionario y se sigue manteniendo en la familia (2 dueños). Vehiculo siempre en la familia y muy cuidado , mantenimientos , ITV y seguro al dia. Precio algo negociable. ABSTENERSE OFERTAS ABSURDAS.",
@@ -1431,7 +1409,7 @@
         },
         {
             "titulo": "Audi A3 2008",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2008-1073685151",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2008-1073683667",
             "descripcion": "",
             "combustible": "Diésel",
             "cambio": "Manual",
@@ -1442,8 +1420,8 @@
         },
         {
             "titulo": "Audi A3 2008",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2008-1073683667",
-            "descripcion": "",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2008-1073685151",
+            "descripcion": "AUDI A3 SPORTBACK -NACIONAL -caja cambios MANUAL 6v -espejos eléctricos -asientos deportivos -cristales OSCURECIDOS -llantas 17 -climatizador etc",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "140 cv",
@@ -1518,17 +1496,6 @@
             "precio": 8250.0
         },
         {
-            "titulo": "Audi A3 2010",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1089505762",
-            "descripcion": "motor 1.9 , revisiones al día , ITV recien hecha , ruedas recién cambiadas ,precio negociable.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2010",
-            "kilómetros": "180000 km",
-            "precio": 8200.0
-        },
-        {
             "titulo": "Audi A3 2008",
             "enlace": "https://es.wallapop.com/item/audi-a3-2008-1088999468",
             "descripcion": "Audi en buen estado ITV hasta julio, siempre en garaje algo negociable. Coche con muchos extras y echo al detalle.",
@@ -1553,13 +1520,24 @@
         {
             "titulo": "Audi A3 2009 1.9 TDI",
             "enlace": "https://es.wallapop.com/item/audi-a3-2009-917635000",
-            "descripcion": "Audi A3 1.9 TDI 105CV Pocos unidades en venta por su motor fiable y economico. -Kilometraje 183800 -Es casi del año 2010 -ITV PASADA 11/7/24 -Bateria nueva -Aceite y filtros cambiados y los que marca Audi -2 Llaves con su mando -Correa de la distribucion cambiada a los 121.000 Kilometros -Ruedas delanteras nuevas -Pantalla tactil con bluetooth -ACEPTO PRUEVA MECANICA \"\"ACEPTO COMO PARTE DE PAGO\"\" MOTO (2T) ENDURO O CROSS DEL 2005 PARA ADELANTE \"NO NEGOCIABLE\"",
+            "descripcion": "Audi A3 1.9 TDI 105CV Pocos unidades en venta por su motor fiable y economico. -Kilometraje 185500 -Es casi del año 2010 -ITV PASADA 11/7/24 -Bateria nueva -Aceite y filtros recien cambiados -2 Llaves con su mando -Correa de la distribucion cambiada a los 121.000 Kilometros -Ruedas delanteras nuevas -Pantalla tactil con bluetooth -ACEPTO PRUEVA MECANICA \"\"ACEPTO COMO PARTE DE PAGO\"\" MOTO (2T) ENDURO O CROSS DEL 2005 PARA ADELANTE \"NO NEGOCIABLE\"",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "105 cv",
             "año": "2009",
-            "kilómetros": "183300 km",
+            "kilómetros": "185500 km",
             "precio": 8150.0
+        },
+        {
+            "titulo": "Audi A3 2009",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2009-1092410748",
+            "descripcion": "Aquí tienes un anuncio atractivo para vender tu Audi A3 Sportback 2009: Audi A3 Sportback 2.0 TDI 140 CV | Techo panorámico | Muy cuidado Se vende Audi A3 Sportback del año 2009 en excelente estado. Motor 2.0 TDI de 140 CV, con solo 190.000 km, muy fiable y económico. El coche ha recibido un mantenimiento exhaustivo, ideal para quien busca un coche con buenas prestaciones y en perfectas condiciones. Extras destacados: • Techo panorámico deslizante y abatible. • Asientos en piel beige, muy cómodos y elegantes. • Llantas de aleación de diseño exclusivo. • Climatizador bizona y control de temperatura. • Sistema de audio con pantalla integrada. • Faros antiniebla. • Volante multifunción. • Sensor de luces y lluvia. Estado: • Mecánica en perfecto funcionamiento, revisiones al día. • Neumáticos en buen estado. • Interior cuidado, sin desgastes importantes. • Carrocería sin golpes ni arañazos destacados. Precio: 8.500€ Para más detalles sobre el coche o fotos adicionales, no dudes en contactarme por privado. numero de telefono:641409173",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2009",
+            "kilómetros": "190000 km",
+            "precio": 8000.0
         },
         {
             "titulo": "Audi A3 2008",
@@ -1584,17 +1562,6 @@
             "precio": 8000.0
         },
         {
-            "titulo": "Audi A3 2010 8P",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2010-8p-1083288859",
-            "descripcion": "AUDI A3 8P 2010 2.0TDI 140CV Paquete SLINE interior y exterior Faros Xenon Llantas 18” 6 velocidades Interior cuero y piel impecable Pantalla CARPLAY Recien repasado de todo Chapa con algunls toques a repasar Interesan cambios",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2010",
-            "kilómetros": "270000 km",
-            "precio": 8000.0
-        },
-        {
             "titulo": "Audi A3 2010",
             "enlace": "https://es.wallapop.com/item/audi-a3-1052576483",
             "descripcion": "Audi a3 1.6TDI SPORTBACK 8p 105cv CARACTERÍSTICAS -Revisiones al día 🛠️ -Buen estado general ✅ -Cambio manual 5 velocidades ✅ -3 llave 🔑 -Batería StarStop agmX2 70ah 720A,Nueva con factura🔋 -Importado desde Alemania en 2018,Guardado siempre en garaje,2 propietarios -Correa de distribución y bomba de agua cambiadas a los 215.000km✅ EXTRAS -Faros LED✅ -Sistema multimedia 🖥️✅ -Retrovisores regulación eléctrica ⚡️ -Asientos calefactables 🔥 -Parachoques delantero Audi RS3✅ -Lunas traseras tintadas✅ -Focos traseros tintandos (se entregan opcional)✅",
@@ -1603,6 +1570,17 @@
             "potencia": "105 cv",
             "año": "2010",
             "kilómetros": "260000 km",
+            "precio": 8000.0
+        },
+        {
+            "titulo": "Audi A3 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1046407828",
+            "descripcion": "AUDI A3 SPORTBACK. 1.6 TDI 105CV AÑO 2010 Kilómetros 160000 PRECIO: 8000 € *CARACTERÍSTICAS:* - Combustible: Diésel. - Caja cambio: Manual, 5 Velocidades. - Consumo: 4.2 L/100 kms. - Motor: 1.6 / 105 CVs - Color: BLanco Ibis. - Nº Puertas: 5 - Carrocería: Tipo berlina. - Tracción : Delantera - Start/Stop, parada y arranque automático. *Mantenimiento al día.* *Correa distribución cambiada a los 130.000 kms* Mejor ver y probar.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "105 cv",
+            "año": "2010",
+            "kilómetros": "160000 km",
             "precio": 8000.0
         },
         {
@@ -1683,39 +1661,6 @@
             "precio": 7950.0
         },
         {
-            "titulo": "Audi A3 Sportback 2.0 TDI . URGE VENTA!!",
-            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-2-0-tdi-1057118398",
-            "descripcion": "coche en muy buen estado estado de la chapa bueno, con roces del uso distribucion cambiada ruedas delanteras nuevas manual 6 velocidades ITV hasta 08/2025 directamente para andar mejor ver y disposicion de hacer prueba mecanica se entraega tambien ls radio original",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2008",
-            "kilómetros": "197000 km",
-            "precio": 7950.0
-        },
-        {
-            "titulo": "Audi A3 ATTRACTION 1.6TDI 105CV",
-            "enlace": "https://es.wallapop.com/item/audi-a3-attraction-1-6tdi-105cv-1075116648",
-            "descripcion": "* Nacional matriculado en febrero de 2010 * Vehículo en buen estado. con garantía de 1 año ampliable a 3. * Kilómetros certificados y sin siniestros. * Financiación con y sin entrada en 24 horas. * Entrega a domicilio disponible. * ITV en vigor hasta febrero de 2025 * Se entrega con la revisión recién hecha con factura * Aceptamos vehículo como parte de pago 300 € garantizados aunque sea para desguace. ——————————————— * Equipamiento destacado: - Climatizador - Llantas de 16\" - Luces antiniebla - Entrada auxiliar -----------------Nielsen cars",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2010",
-            "kilómetros": "185000 km",
-            "precio": 7900.0
-        },
-        {
-            "titulo": "AUDI A3 1.6TDI Attraction",
-            "enlace": "https://es.wallapop.com/item/audi-a3-1-6tdi-attraction-1071577132",
-            "descripcion": "* Nacional matriculado en febrero de 2010 * Vehículo en muy buen estado. Con garantía de 1 año ampliable a 3 * Kilómetros certificados y sin siniestros * Financiación con y sin entrada en 24 horas * Entrega a domicilio disponible * Se entrega con la revisión recién hecha con factura * Aceptamos vehículo como parte de pago 300 € garantizados aunque sea para desguace * NIELSEN CARS * Similar a: BMW Serie 1, Mercedes Clase A, Volkswagen Golf, Renaul Clio, Opel Astra, Ford Focus, Seat Leon, Mazda 3... #cocheocasion #cochesegundamano #audia3 #a3segundamano #a3ocasion",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2010",
-            "kilómetros": "185978 km",
-            "precio": 7900.0
-        },
-        {
             "titulo": "Audi A3 2009",
             "enlace": "https://es.wallapop.com/item/audi-a3-2009-929653863",
             "descripcion": "AUDI A3 SPORTBACK ANOS 2009 MOTOR 2.0 TDI 140 CV MANUEL 6 MARCHAS 264000KM REALES,FUUL OPTIONAL TECHO PANORAMICO,CLIMA BIZONA,ASIENTOS CALEFECTABLES,RADIO PANTALLA GRANDE,NAVIGADOR ,BLUETHOUT ,GOOGLE,YOUTUBE,CONTROL DE VELOCIDAD ,FAROS XENOS ,LUZ DIURNA LED,CERRE CENTRALIZADO,ALARMA,LLANTAS DE ALUMINIO,SI ENCUENTRA EN BUEN ESTADO SI ENTREGA TRASFERIDO Y REVISADO 12 MESES DE GARANTIA MAS INFORMATION LLAMAR 6️⃣5️⃣4️⃣6️⃣6️⃣2️⃣8️⃣9️⃣9️⃣",
@@ -1724,6 +1669,17 @@
             "potencia": "140 cv",
             "año": "2009",
             "kilómetros": "264000 km",
+            "precio": 7900.0
+        },
+        {
+            "titulo": "Audi A3 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1089505762",
+            "descripcion": "motor 1.9 , revisiones al día , ITV recien hecha , ruedas recién cambiadas ,precio negociable.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2010",
+            "kilómetros": "180000 km",
             "precio": 7900.0
         },
         {
@@ -1806,7 +1762,7 @@
         {
             "titulo": "Audi A3 2009",
             "enlace": "https://es.wallapop.com/item/audi-a3-2009-1026538997",
-            "descripcion": "",
+            "descripcion": "Se vende Audi A3 1.6 TDI 105CV manual 5 velocidades con 189 000 kilometros itv al día , , llantas de aleacion, apoyabrazos, , , volante multifunción, , sensor luces y lluvia ,calefacción en los asientos, asientos deportivos de cuero , climatizador bizona, etc. se entrega transferido y con un año de garantia. realizamos mantenimiento pre-entrega financiacion a medida al 100% entrega a domicilio disponible. Audi A3 en Lorca. Audi A3 en Lorca",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "105 cv",
@@ -1883,7 +1839,7 @@
         {
             "titulo": "Audi A3 2010",
             "enlace": "https://es.wallapop.com/item/audi-a3-2010-1032491577",
-            "descripcion": "",
+            "descripcion": "Etiqueta medioambiental B, cierre centralizado, dirección asistida, airbags frontales, laterales y de cortina, radio CD Audi Concert, climatizador bizona, volante multifunción, llantas de aleación en 17 pulgadas, sensor de luces automáticas, retrovisores eléctricos y apoyabrazos central",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "140 cv",
@@ -1900,17 +1856,6 @@
             "potencia": "170 cv",
             "año": "2009",
             "kilómetros": "214000 km",
-            "precio": 7700.0
-        },
-        {
-            "titulo": "Audi A3 2009 Sportback 2.0 TDI 140CV 5p Ambiente",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2009-1063302638",
-            "descripcion": "Coche en muy buen estado guardado siempre en garaje, kilómetros hechos mayoritariamente por autovía, mantemiento de aceite y filtros al dia cada 20.000km, neumáticos Goodyear con solo 4000km, distintivo medioambiental B incluido. ITV hasta Diciembre 2025 Cambio Manual Motor inyección Common Rail Llantas 17\" Bluetooth equipado, Control de Velocidad Crucero.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2009",
-            "kilómetros": "278000 km",
             "precio": 7700.0
         },
         {
@@ -1938,7 +1883,7 @@
         {
             "titulo": "Audi A3 2009",
             "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-9tdi-105cv-attraction-1061386303",
-            "descripcion": "Vehículo en perfecto estado, un sólo propietario y kilometraje certificado. Climatizador, ABS,ESP, 10 x Airbags, Elevalunas eléctricos, Cierre centralziado con mando, 2 llaves, Llantas, Radio CD. ITV 11/2025. Garantía Mecánica Europea de 12 meses. Cambio de nombre 140€.",
+            "descripcion": "",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "105 cv",
@@ -1966,6 +1911,17 @@
             "potencia": "105 cv",
             "año": "2010",
             "kilómetros": "180000 km",
+            "precio": 7600.0
+        },
+        {
+            "titulo": "Audi A3 2009 Sportback 2.0 TDI 140CV 5p Ambiente",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2009-1063302638",
+            "descripcion": "Coche en muy buen estado guardado siempre en garaje, kilómetros hechos mayoritariamente por autovía, mantemiento de aceite y filtros al dia cada 20.000km, neumáticos Goodyear con solo 4000km, distintivo medioambiental B incluido. ITV hasta Diciembre 2025 Cambio Manual Motor inyección Common Rail Llantas 17\" Bluetooth equipado, Control de Velocidad Crucero.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2009",
+            "kilómetros": "278000 km",
             "precio": 7600.0
         },
         {
@@ -2036,6 +1992,17 @@
         },
         {
             "titulo": "Audi A3 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2008-1092857161",
+            "descripcion": "Vendo Audi A3 sportback 2.0 TDI dpf 140 cv, acabado Ambition. Año 2008, 194000 km, azul, único dueño, siempre en garaje, llantas originales Audi S3 18\" con neumáticos en perfecto estado (entrego las originales de 17\" con neumáticos también en buen estado). Entrego todo como cuando lo saqué del concesionario (llaves, manuales, etc..). Ningún golpe, ni accidente. Admito cualquier tipo de prueba. No hay otro mimado así.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2008",
+            "kilómetros": "194000 km",
+            "precio": 7500.0
+        },
+        {
+            "titulo": "Audi A3 2008",
             "enlace": "https://es.wallapop.com/item/audi-a3-2008-1091164097",
             "descripcion": "",
             "combustible": "Diésel",
@@ -2057,17 +2024,6 @@
             "precio": 7500.0
         },
         {
-            "titulo": "Audi A3 2010",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1088759096",
-            "descripcion": "",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "6 cv",
-            "año": "2010",
-            "kilómetros": "224000 km",
-            "precio": 7500.0
-        },
-        {
             "titulo": "Audi A3 2009",
             "enlace": "https://es.wallapop.com/item/audi-a3-2009-1085401034",
             "descripcion": "se vende audi A3 en buen estado tanto interior como exterior. mantenimientos al dia y correa de distribucion cambiada hace 10000km mas informacion por privado. itv en vigor.",
@@ -2076,6 +2032,17 @@
             "potencia": "140 cv",
             "año": "2009",
             "kilómetros": "250000 km",
+            "precio": 7500.0
+        },
+        {
+            "titulo": "Audi A3 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1088759096",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "6 cv",
+            "año": "2010",
+            "kilómetros": "224000 km",
             "precio": 7500.0
         },
         {
@@ -2120,6 +2087,17 @@
             "potencia": "140 cv",
             "año": "2009",
             "kilómetros": "197000 km",
+            "precio": 7500.0
+        },
+        {
+            "titulo": "Audi A3 2010 8P",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2010-8p-1083288859",
+            "descripcion": "AUDI A3 8P 2010 2.0TDI 140CV Paquete SLINE interior y exterior Faros Xenon Llantas 18” 6 velocidades Interior cuero y piel impecable Pantalla CARPLAY Recien repasado de todo Chapa con algunls toques a repasar Interesan cambios ULTIMO PRECIO 7.500€ URGE",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2010",
+            "kilómetros": "270000 km",
             "precio": 7500.0
         },
         {
@@ -2498,14 +2476,14 @@
         },
         {
             "titulo": "Audi A3 2009",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2009-1042785562",
-            "descripcion": "Se vende A3 en perfecto estado. Todas las revisiones han sido hechas en el servicio oficial. Correa de distribución cambiada y libro de mantenimiento.",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2009-1007227167",
+            "descripcion": "vendo a3 sline con llantas 18\",asientos de cuero, distribución con 12000km,transmisiones nuevas y todo en perfecto estado en general itv pasada el 4-10-24 aceite y flitro de aceite hace 500km y las 2 ruedas delanteras con 500km",
             "combustible": "Diésel",
             "cambio": "Manual",
-            "potencia": "140 cv",
+            "potencia": "105 cv",
             "año": "2009",
-            "kilómetros": "255000 km",
-            "precio": 7100.0
+            "kilómetros": "275000 km",
+            "precio": 7200.0
         },
         {
             "titulo": "Audi A3 2008",
@@ -2641,13 +2619,13 @@
         },
         {
             "titulo": "Audi A3 2010",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1035199578",
-            "descripcion": "el coche en buen estado nuevo todo los extras todo recién cambiado filtros aceite correa el coche es matricula Bélgica pero esta aqui en España pegatina Euro 5 classe",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tdi-140cv-1056593596",
+            "descripcion": "El coche esta bastante bien! Ven a verlo sin compromiso , funciona todo perfecto, tambien le puse una pantalla y las ruedas y el aceite recien cambiados",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "140 cv",
             "año": "2010",
-            "kilómetros": "2700 km",
+            "kilómetros": "250000 km",
             "precio": 7000.0
         },
         {
@@ -2695,17 +2673,6 @@
             "precio": 6999.0
         },
         {
-            "titulo": "Audi A3 2009",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2009-1060243008",
-            "descripcion": "",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2009",
-            "kilómetros": "197000 km",
-            "precio": 6990.0
-        },
-        {
             "titulo": "🟢REBAJAS 🟢 Audi A3 2.0TDI ",
             "enlace": "https://es.wallapop.com/item/audi-a3-2008-1077777620",
             "descripcion": "",
@@ -2717,6 +2684,28 @@
             "precio": 6990.0
         },
         {
+            "titulo": "Audi A3 2009",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2009-1060243008",
+            "descripcion": "AUDI A3 SPORTBACK 1.9 TDI 105 CV AÑO 2.009 197.000 kms NACIONAL Sistema de entretenimiento con conexión bluetooth para teléfono manos libres y ordenador de a bordo. Climatizador bizona. No dude en solicitar vídeo del coche. Todos nuestros vehículos se entregan con garantía incluida en el precio. Financiación sujeta a aprobación por parte de la entidad financiera. CYMSPORT Transporte a cualquier punto de la península 190€",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "105 cv",
+            "año": "2009",
+            "kilómetros": "197000 km",
+            "precio": 6990.0
+        },
+        {
+            "titulo": "Audi A3 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1092127515",
+            "descripcion": "En perfectas condiciones, todas las revisiones, cambio de correa de distribución hace poco...",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "105 cv",
+            "año": "2010",
+            "kilómetros": "270000 km",
+            "precio": 6990.0
+        },
+        {
             "titulo": "Audi A3 1.9 TDI 105CV 2009",
             "enlace": "https://es.wallapop.com/item/audi-a3-2009-1091949617",
             "descripcion": "En Venta Audi A3 Sportback ✅️Motor 1.9 TDI 105CV ✅️Año 2009 ✅️KM 259.000 ✅️ITV Hasta Enero 2026 Recien Pasada ✅️4 Neumaticos 90% ✅️Mantenimiento Aceite y Todos Los Filtros Recien Cambiados ✅️2 Llaves ✅️Pantalla Car Play Muy Buen Estado [INTERESADOS 640-10-53-99 WHATSAPP O LLAMADAS ATENDEMOS LUNES A DOMINGO CON CITA PREVIA]",
@@ -2725,17 +2714,6 @@
             "potencia": "105 cv",
             "año": "2009",
             "kilómetros": "259000 km",
-            "precio": 6990.0
-        },
-        {
-            "titulo": "Audi A3 2008",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2008-1090611713",
-            "descripcion": "Solo durante este mes de enero 6990€ Segundo propietario.Buen estado general ruedas discos amortiguadores.revisiones al día .no va el cierre centralizado con el mando y la ventanilla detrás del conductor motor hay que arreglar . Se dará arreglado todo .de tapicería bien .se tapizo el techo el año pasado .motor muy muy bueno .correa distribución se hizo con 145000 km .también embrague y bimasa .el coche va perfecto se puede probar y ver sin problema.le cumple ITV mes de febrero se daría con ITV pasada .soy el segundo propietario.coche de no fumador . pequeño rasguño parte trasera izquierda encima de la rueda .algunos rasguños de aparcar nada importante .es 5 puertas . el coche se da reparado de todos esos fallos",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2008",
-            "kilómetros": "229500 km",
             "precio": 6990.0
         },
         {
@@ -2827,17 +2805,6 @@
             "precio": 6990.0
         },
         {
-            "titulo": "Audi A3 2.0 TDI 140Cv",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tdi-140cv-1087338892",
-            "descripcion": "VEHICICULO NACIONAL.UNICO PROPIETARIO,HISTORIAL DE REVISIONES,VEHICULO EN PERFECTO ESTADO.MOTOR 2.0 TDI 140CV,FAROS XENON,SENSOR DE APARCAMIENTO,LLANTAS DE ALEACION,NEUMATICOS COMO NUEVOS,DOS LLAVES,CAMBIO DE ACEITE Y FILTROS RECIEN HECHO!! VEHICULO NO FUMADOR!",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2010",
-            "kilómetros": "249000 km",
-            "precio": 6950.0
-        },
-        {
             "titulo": "Audi A3 2008",
             "enlace": "https://es.wallapop.com/item/audi-a3-quattro-859716932",
             "descripcion": "Se vende Audi A3 de noviembre del 2008, coche está cuidado y mimado al máximo, tiene 220mil km. Mantenimientos al dia, ITV sense defectes. Tracción a las 4 ruedas, es un 2000cc 140 cv diésel, consumo muy reducido. Más info por privado.",
@@ -2847,6 +2814,28 @@
             "año": "2008",
             "kilómetros": "235000 km",
             "precio": 6950.0
+        },
+        {
+            "titulo": "Audi A3 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2008-1092765555",
+            "descripcion": "vendo mi audi a3 sportback con techo panoramico y recien pasada la itv 16/01/2025 cualquier duda llamarme 642412218",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "105 cv",
+            "año": "2008",
+            "kilómetros": "234000 km",
+            "precio": 6900.0
+        },
+        {
+            "titulo": "Audi A3 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1092496420",
+            "descripcion": "Vehículo nacional. Único propietario. Todas las revisiones en fecha. Cambiada distribución. Embrague bimasa nuevo. Correa alternador nueva. Itv hasta julio 2025. NO CAMBIO POR OTRO. SOLO VENTA.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "105 cv",
+            "año": "2010",
+            "kilómetros": "265000 km",
+            "precio": 6900.0
         },
         {
             "titulo": "Audi A3 2009",
@@ -2868,17 +2857,6 @@
             "potencia": "140 cv",
             "año": "2010",
             "kilómetros": "220000 km",
-            "precio": 6900.0
-        },
-        {
-            "titulo": "Audi A3 2009",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2009-1086146596",
-            "descripcion": "Se vende audi a3 sportback motor pepino 1.9 tdi 105 cvs manual con gancho de remolque, mejor ver y probar en caldas de reiS, embrague bimasa recién puesto nuevo, aceptamos coche como parte de pago",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2009",
-            "kilómetros": "290000 km",
             "precio": 6900.0
         },
         {
@@ -2927,6 +2905,28 @@
         },
         {
             "titulo": "Audi A3 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2008-982976205",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "105 cv",
+            "año": "2008",
+            "kilómetros": "279000 km",
+            "precio": 6800.0
+        },
+        {
+            "titulo": "Audi A3 2009",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2009-1092243215",
+            "descripcion": "Vendo audi A3 en perfecto estado funciona perfectamente sin ningun tipo de fallo o golpe, es un motor 2.0 tdi diesel de 140 caballos manual.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2009",
+            "kilómetros": "208000 km",
+            "precio": 6800.0
+        },
+        {
+            "titulo": "Audi A3 2008",
             "enlace": "https://es.wallapop.com/item/audi-a3-2008-1091538327",
             "descripcion": "Coche con muchos extras: -Llantas en 18 -Aleron, llantas y el paragolpes dalentero y trasero del S3 El coche lleva 2 neumaticos michelin pilot sport 4 delante y 2 michelin primacy detras, ademas lo entrego con 2 neumaticos hankook de invierno. Se le hizo el turbo, el cambio de aceite motor (con sus respectivos filtros: filtro de aceite, conbustible, aire y habitaculo) con 247 000km. Se le hizo el cambio de aceite de la caja de cambios con 250 000km. Se le hizo la alineacion de las ruedas hace 2 meses Lo entrego con el techo recien tapizado y con la itv recien pasada. Se puede ver y probar sin compromiso Se cambia por Nissan patrol gr y60 o Bmw E60 ( preferiblemente dinero ) MÁS INFORMACIÓN POR PRIVADO. PRECIO NEGOCIABLE!!!",
             "combustible": "Diésel",
@@ -2934,17 +2934,6 @@
             "potencia": "140 cv",
             "año": "2008",
             "kilómetros": "262753 km",
-            "precio": 6800.0
-        },
-        {
-            "titulo": "Audi A3 2008",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2008-982976205",
-            "descripcion": "✅12 meses de garantía✅ MECÁNICAMENTE FUNCIONA MUY BIEN Y LA MAYORÍA DE LOS KILÓMETROS ESTÁN HECHOS POR AUTOPISTA !!! AUDI A3 EN IMPECABLE ESTADO !! ÚNICO DUEÑO !! MOTOR MUY FIABLE !! 2 LLAVES CON MANDO !! ETIQUETA B !! ®️Vehículo a toda prueba®️ 🚘 ACEPTAMOS VEHÍCULO COMO PARTE DE PAGO 🚘",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2008",
-            "kilómetros": "279000 km",
             "precio": 6800.0
         },
         {
@@ -3054,7 +3043,7 @@
             "cambio": "Manual",
             "potencia": "140 cv",
             "año": "2009",
-            "kilómetros": "230000 km",
+            "kilómetros": "234000 km",
             "precio": 6650.0
         },
         {
@@ -3102,14 +3091,14 @@
             "precio": 6500.0
         },
         {
-            "titulo": "Audi A3 2009",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2009-1091872898",
-            "descripcion": "*Se vende Audi a3 sline *Motor 1.6 Tdi 105cv *Año 2009 *Cambio Manual 5 velocidades *Control crucero *Asientos S-line deportivos *Sistema de control estabilidad (ESC) *Llantas 18” S-line *Los 4 neumáticos recién puestos nuevos *Embrague y bimasa con facturas cambiado *Climatizador automático *Volante multifuncion *Pantalla 10” con sistema bluetooth,usb,auxiliar, CarPlay. *Juego de 2 llaves *ITV recién pasada *Apoya brazos central *2 dueños *273.000 km *Coche recién pintado y llantas pintadas *Coche en perfectas condiciones,cuidado al detalle tanto interior y exterior. *Aceite y filtros recién cambiados *Distribuccion cambiada *A toda prueba de cualquier taller o casa oficial. *Algo negociable pero poco!!",
+            "titulo": "Audi A3 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2008-1092196639",
+            "descripcion": "Audi A3 Motor 1.9 TDI 105cv Manual 6 velocidades Año 2008 Kilómetros 215608 Llantas de aluminio, climatizador bizona, elevalunas eléctricos, revisión cambio de aceite y filtros y kit de distribución, garantía de 1 año a nivel nacional y cambio de nombre incluido en el precio, posibilidad de envío a cualquier punto de España, el vehículo se encuentra en Atarfe Granada.Tlf 624723985",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "105 cv",
-            "año": "2009",
-            "kilómetros": "273000 km",
+            "año": "2008",
+            "kilómetros": "215608 km",
             "precio": 6500.0
         },
         {
@@ -3121,6 +3110,17 @@
             "potencia": "140 cv",
             "año": "2009",
             "kilómetros": "275000 km",
+            "precio": 6500.0
+        },
+        {
+            "titulo": "Audi A3 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2008-1090611713",
+            "descripcion": "Solo durante este mes de enero 6500€ Segundo propietario.Buen estado general ruedas discos amortiguadores.revisiones al día .no va el cierre centralizado con el mando y la ventanilla detrás del conductor motor hay que arreglar . Se dará arreglado todo .de tapicería bien .se tapizo el techo el año pasado .motor muy muy bueno .correa distribución se hizo con 145000 km .también embrague y bimasa .el coche va perfecto se puede probar y ver sin problema.le cumple ITV mes de febrero se daría con ITV pasada .soy el segundo propietario.coche de no fumador . pequeño rasguño parte trasera izquierda encima de la rueda .algunos rasguños de aparcar nada importante .es 5 puertas . el coche se da reparado de todos esos fallos o se puede negociar precio si el comprador se hace cargo",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "105 cv",
+            "año": "2008",
+            "kilómetros": "229500 km",
             "precio": 6500.0
         },
         {
@@ -3137,7 +3137,7 @@
         {
             "titulo": "Audi A3 2.0 TDI SLINE 170cv",
             "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tdi-sline-170cv-1085671020",
-            "descripcion": "Se vende Audi a3 recien pintado y con la itv recien pasada! Filtros y aceite recien cambiados, ruedas delanteras a medio uso y las traseras recien puestas, las cuatro gomas son Michelin! precio algo negociable! para mas informacion al 622009455",
+            "descripcion": "Se vende Audi a3 recien pintado y con la itv recien pasada! Filtros y aceite recien cambiados, ruedas delanteras a medio uso y las traseras recien puestas, las cuatro gomas son Michelin! precio algo negociable! para mas informacion al +34 696 358 870",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "170 cv",
@@ -3168,6 +3168,17 @@
             "precio": 6500.0
         },
         {
+            "titulo": "Audi A3 2009",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2009-1086146596",
+            "descripcion": "Se vende audi a3 sportback motor pepino 1.9 tdi 105 cvs manual con gancho de remolque, mejor ver y probar en caldas de reiS, embrague bimasa recién puesto nuevo, aceptamos coche como parte de pago",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "105 cv",
+            "año": "2009",
+            "kilómetros": "290000 km",
+            "precio": 6500.0
+        },
+        {
             "titulo": "Audi A3 2010 ¡ SPORTBACK !",
             "enlace": "https://es.wallapop.com/item/audi-a3-2010-sportback-1067941793",
             "descripcion": "CAR LOVERS Vende Audi A3 Sportback del año 2010 con motor diesel de 105cv y 290.000km, aunque esta en un estado realmente como nuevo, sin ningun tipo de desgaste ni desperfecto y cargado de equipamiento. Dispone de llantas deportivas de 17”, faros halogenos con LED diurno, radio CD MP3 con Bluetooth y cargador de CDs, cierre centralizado con mando a distancia, lunas tintadas, ordenador a bordo, paquete de iluminación, climatización bizona, elevalunas y espejos eléctricos, volante de cuero multifuncion con control de la radio, Start and Stop, etc. Se entrega revisado y transferido. GARANTIZADO. ¡ VISITANOS TENEMOS MAS DE 250 VEHICULOS EN STOCK ADEMAS DE LAVADERO Y TALLER PROPIO !",
@@ -3187,28 +3198,6 @@
             "potencia": "140 cv",
             "año": "2008",
             "kilómetros": "230000 km",
-            "precio": 6500.0
-        },
-        {
-            "titulo": "Audi A3 2008",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2012-1078573183",
-            "descripcion": "Vendo audi a3 tdi 2.0 170cv automático con todos los cambios de aceite echos distribución con bomba de agua y tensores echa correa de alternador y tensores echos ruedas prácticamente al 100x100 turbo nuevo asientos de cuero también cambionpor furgoneta lo cambio tal y como esta por moto que me interese sobre todo custom escucho ofertas",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "170 cv",
-            "año": "2008",
-            "kilómetros": "225000 km",
-            "precio": 6500.0
-        },
-        {
-            "titulo": "Audi A3 2010",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1034710703",
-            "descripcion": "Vehículo en excelente condiciones bien de pintura sin abolladuras perfecto de tapicería todos los mantenimiento al dia ruedas al 80% discos y pastillas nuevas termostato cambiado tubos sobrantes nuevos kit completo embrague coche con star& stop doble clima luces diurnas etc como se puede comprobar muy completo en extras a toda prueba se puede comprobar por el mecanico de su confianza .",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2010",
-            "kilómetros": "285000 km",
             "precio": 6500.0
         },
         {
@@ -3234,15 +3223,37 @@
             "precio": 6499.0
         },
         {
+            "titulo": "Audi A3 sportback 1.6 TDI 6490€!!",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-6-tdi-6490-1092664838",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "105 cv",
+            "año": "2009",
+            "kilómetros": "202000 km",
+            "precio": 6490.0
+        },
+        {
             "titulo": "Audi A3 1.9 tdi sportback ",
             "enlace": "https://es.wallapop.com/item/audi-a3-1-9-tdi-sportback-1091527726",
-            "descripcion": "Buen estado en general. Financicion a su medida un año garantia contratad klima da ee cc llantas",
+            "descripcion": "",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "105 cv",
             "año": "2008",
             "kilómetros": "220000 km",
             "precio": 6490.0
+        },
+        {
+            "titulo": "Audi A3 2009",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2009-1091872898",
+            "descripcion": "*Se vende Audi a3 sline *Motor 1.6 Tdi 105cv *Año 2009 *Cambio Manual 5 velocidades *Control crucero *Asientos S-line deportivos *Sistema de control estabilidad (ESC) *Llantas 18” S-line *Los 4 neumáticos recién puestos nuevos *Embrague y bimasa con facturas cambiado *Climatizador automático *Volante multifuncion *Pantalla 10” con sistema bluetooth,usb,auxiliar, CarPlay. *Juego de 2 llaves *ITV recién pasada *Apoya brazos central *2 dueños *273.000 km *Coche recién pintado y llantas pintadas *Coche en perfectas condiciones,cuidado al detalle tanto interior y exterior. *Aceite y filtros recién cambiados *Distribuccion cambiada *A toda prueba de cualquier taller o casa oficial. *Algo negociable pero poco!!",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "105 cv",
+            "año": "2009",
+            "kilómetros": "273000 km",
+            "precio": 6450.0
         },
         {
             "titulo": "Audi A3 S-Line  finales 2008",
@@ -3264,28 +3275,6 @@
             "potencia": "140 cv",
             "año": "2008",
             "kilómetros": "224000 km",
-            "precio": 6300.0
-        },
-        {
-            "titulo": "Audi A3 2008",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2008-1072584741",
-            "descripcion": "Automático asiento cuero sline el coche es una maravilla",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2008",
-            "kilómetros": "204000 km",
-            "precio": 6300.0
-        },
-        {
-            "titulo": "Audi A3 2009",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2009-996051552",
-            "descripcion": "buen estado no falta nada el motor buen estado 632681279",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2009",
-            "kilómetros": "271000 km",
             "precio": 6300.0
         },
         {
@@ -3342,17 +3331,6 @@
             "año": "2008",
             "kilómetros": "249475 km",
             "precio": 6100.0
-        },
-        {
-            "titulo": "Audi A3 2010",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1090977386",
-            "descripcion": "\"Audi A3 2.0 TDI 140 CV del 2010 en perfecto estado. Diseño elegante, motor eficiente y potente. Revisiones al día, ITV pasada, ideal para ciudad y carretera. Muy cuidado,coche nacional",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2010",
-            "kilómetros": "280000 km",
-            "precio": 6000.0
         },
         {
             "titulo": "Audi A3 2009",
@@ -3520,15 +3498,15 @@
             "precio": 5950.0
         },
         {
-            "titulo": "Audi A3 2008",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2008-1086434959",
-            "descripcion": "Coche en perfectas condiciones",
+            "titulo": "Audi A3 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1092412405",
+            "descripcion": "Vendo audi a3 Motor 1.6 105 cv año 2010 km 221000mil en perfecto estado mantenimiento al día itv en vigor mejor ver y probar",
             "combustible": "Diésel",
             "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2008",
-            "kilómetros": "240000 km",
-            "precio": 5950.0
+            "potencia": "105 cv",
+            "año": "2010",
+            "kilómetros": "221000 km",
+            "precio": 5900.0
         },
         {
             "titulo": "Audi A3 2009",
@@ -3539,17 +3517,6 @@
             "potencia": "140 cv",
             "año": "2009",
             "kilómetros": "290000 km",
-            "precio": 5900.0
-        },
-        {
-            "titulo": "Audi A3 2010",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1081920696",
-            "descripcion": "Audi a3 motor 1.6 105 cv año 2010 km217mil itv en vigor en buen estado más información contactar 633 29 35 94 WhatsApp",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2010",
-            "kilómetros": "217128 km",
             "precio": 5900.0
         },
         {
@@ -3584,17 +3551,6 @@
             "año": "2008",
             "kilómetros": "182260 km",
             "precio": 5890.0
-        },
-        {
-            "titulo": "Audi A3 2008",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2008-1091442979",
-            "descripcion": "Hola vendo Audi A3 todos bien",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2008",
-            "kilómetros": "207000 km",
-            "precio": 5800.0
         },
         {
             "titulo": "Audi A3 2010",
@@ -3675,6 +3631,17 @@
         },
         {
             "titulo": "Audi A3 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1087150272",
+            "descripcion": "como nuevo! es precio fijo! el precio es por esta semana q me voy de vacaciones ‘",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "105 cv",
+            "año": "2010",
+            "kilómetros": "235000 km",
+            "precio": 5650.0
+        },
+        {
+            "titulo": "Audi A3 2010",
             "enlace": "https://es.wallapop.com/item/audi-a3-1061486598",
             "descripcion": "Audi A3 Atracción 2010 - Bien Mantenido y Revisado completo Características principales: Año: 2010 Transmisión: Manual de 5 marchas ITV: Válida hasta enero de 2025 Kilometraje: Motor con 150,000 km (marcador muestra 300,000 km) Estado de los neumáticos: A media vida Revisiones: Al día, con facturas de los últimos mantenimientos disponibles Descripción: Este Audi A3 Atracción del 2010 es un coche bien mantenido y confiable. El motor ha sido cambiado y tiene 150,000 km, mientras que el marcador muestra 300,000 km. Se entrega con la factura del taller que realizó el cambio de motor. Las revisiones están al día y se aceptan pruebas mecánicas para que puedas comprobar su excelente estado. Extras: se entrega tranfererido Facturas de los últimos mantenimientos Prueba mecánica aceptada",
             "combustible": "Diésel",
@@ -3707,17 +3674,6 @@
             "precio": 5500.0
         },
         {
-            "titulo": "Audi A3 2009",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2009-1086022362",
-            "descripcion": "Audi a3 Muy buen estado. Aceite y el filtro y Corría. cambiado.motor 1.9 105cv Excepto prueba del mecánico.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2009",
-            "kilómetros": "291000 km",
-            "precio": 5500.0
-        },
-        {
             "titulo": "Audi A3 2008",
             "enlace": "https://es.wallapop.com/item/audi-a3-sline-2008-1086009963",
             "descripcion": "vendo audi a3 sline 2008 , motor 2.0 tdi , 140 cb el coche esta bien , no tiene ningun fallo neumaticos cambiadas , itv hasta 06/25 , el coche esta perfecto , economico (el precio es algo negociable)",
@@ -3729,14 +3685,14 @@
             "precio": 5500.0
         },
         {
-            "titulo": "Audi A3 2010 1.6 tdi",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1-6-tdi-1073519854",
-            "descripcion": "Se vende audi A3 1.6 tdi al día de todo inyectores nuevos en verano y mantenimiento completo. Dpf anulado . Más información 609-463-196. Algo negociable",
+            "titulo": "Audi A3 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2012-1078573183",
+            "descripcion": "Vendo audi a3 tdi 2.0 170cv automático con todos los cambios de aceite echos distribución con bomba de agua y tensores echa correa de alternador y tensores echos ruedas prácticamente al 100x100 turbo nuevo asientos de cuero también cambionpor furgoneta lo cambio tal y como esta por moto que me interese sobre todo custom escucho ofertas",
             "combustible": "Diésel",
             "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2010",
-            "kilómetros": "173000 km",
+            "potencia": "170 cv",
+            "año": "2008",
+            "kilómetros": "225000 km",
             "precio": 5500.0
         },
         {
@@ -3817,14 +3773,25 @@
             "precio": 5450.0
         },
         {
-            "titulo": "Audi A3 2010",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1091815370",
+            "titulo": "Audi A3 1.6 tdi 105 cv",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1-6-tdi-105-cv-1092916295",
             "descripcion": "Audi a3 1.6 tdi 105 cv sport 3p coche en perfecto estado tanto interior como exterior neumáticos al 90% llantas de aleación itv en vigor radio case aux Bluetooth navegador GPS dispone de pegatina medio ambiental B ordenador de abordo starp/stop climatizador bi-zona dirección asistida cierres centralizados con mando distancia elevalunas eléctricos espejos eléctricos mandos en el volante velocidad crucero sensor de luces sensor de lluvia etc... mejor ver I probar un saludo",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "105 cv",
             "año": "2010",
             "kilómetros": "230000 km",
+            "precio": 5300.0
+        },
+        {
+            "titulo": "Audi A3 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2008-1092190390",
+            "descripcion": "Audi A3 año 2008 en muy buen estado. Es un 1900TD con 105 caballos. Kilometraje 204.000 kilometros. Presento documentos de revisiones en casa oficial y motor en perfecto estado. Interesados escribir por whasap 624775457. PRECIO NEGOCIABLE Mariano",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "105 cv",
+            "año": "2008",
+            "kilómetros": "204000 km",
             "precio": 5300.0
         },
         {
@@ -3848,6 +3815,17 @@
             "año": "2008",
             "kilómetros": "250000 km",
             "precio": 5200.0
+        },
+        {
+            "titulo": "Audi A3 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2008-1092351481",
+            "descripcion": "Coche con matrícula frances",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2008",
+            "kilómetros": "280000 km",
+            "precio": 5000.0
         },
         {
             "titulo": "Audi A3 2010",
@@ -3927,25 +3905,14 @@
             "precio": 5000.0
         },
         {
-            "titulo": "Audi A3 2010",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1087150272",
-            "descripcion": "como nuevo! es precio fijo! el precio es por esta semana q me voy de vacaciones ‘",
+            "titulo": "Audi A3 2010 OFERTÓN❗️",
+            "enlace": "https://es.wallapop.com/item/volkswagen-golf-2012-1070306491",
+            "descripcion": "¡Ultimo precio! ❗️❗️❗️ Vehiculo totalmente al dia para no invertir nada en el. Precioso e impoluto Audi A3 sportback con etiqueta B. Transferido y garantizado Revisión y mantenimiento al día. (Distribucion hace 20.000kms, aceite y filtros hace 6000kms) Se entrega con limpieza interior/exterior. Revisado en más de 150 puntos de control ✅ Aceptamos vehículo como parte de pago❗️ Aceptamos prueba mecanica 🤝🏽 Audi A3 1.6 tdi 105cv 2010 ¡289.000kms aun que realmente esta como nuevo, super cuidado! Extras: -Pantalla con bluetooth, telefono, gps, aux.. -Control de traccion y velocidad -Climatizador -Luz y limpiaparabrisas automatico -Volante multifuncion -Isofix y un largo etc... Anuncio valido salvo error tipografico",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "105 cv",
             "año": "2010",
-            "kilómetros": "235000 km",
-            "precio": 4999.0
-        },
-        {
-            "titulo": "Audi A3 2008 2.0 diésel 140 cv 5 puertas",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2008-2-0-diesel-140-cv-5-puertas-1082904933",
-            "descripcion": "Embrague y bimasa nuevo,demostrable con factura de compra y taller en valor de 950 euros.Motor con 190.000 km comprado con factura en valor de 1250 euros, puesto hace tres semanas.El marcador de los kilómetros marca 459000 km . Impecable estado de funcionamiento.Lleva clima bizona, control de velocidad, luces interior ambiental,pilotos traseros led......Los neumáticos son nuevos.Aceite y todos los filtros cambiados hace una semana.Todo esta perfecto.Mas detalles y fotos a través de WhatsApp.Se entrega con el capó y techo pintado en el color que le gusta al comprador ,teniendo en cuenta que el coche está de color negro ⚫️.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2008",
-            "kilómetros": "193500 km",
+            "kilómetros": "289000 km",
             "precio": 4999.0
         },
         {
@@ -3990,17 +3957,6 @@
             "potencia": "140 cv",
             "año": "2008",
             "kilómetros": "242000 km",
-            "precio": 4500.0
-        },
-        {
-            "titulo": "Audi A3 2010",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1068901357",
-            "descripcion": "EN ASTORCARS compramos tu vehiculo, furgoneta, coches de todo tipo, viejos incluso sin itv. llamanos buscanos en google. mira nuestras reseñas ademas nos desplazamos a domicilio, una venta sin garantias, nos hacemos cargo de todo el papeleo no dudes en llamarnos.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2010",
-            "kilómetros": "150000 km",
             "precio": 4500.0
         },
         {
@@ -4049,6 +4005,17 @@
         },
         {
             "titulo": "Audi A3 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2008-2-0-diesel-140-cv-5-puertas-1082904933",
+            "descripcion": "Embrague y bimasa nuevo,demostrable con factura de compra y taller en valor de 950 euros.Motor con 190.000 km comprado con factura en valor de 1250 euros, puesto hace tres semanas.El marcador de los kilómetros marca 459000 km . Impecable estado de funcionamiento.Lleva clima bizona, control de velocidad, luces interior ambiental,pilotos traseros led......Los neumáticos son nuevos.Aceite y todos los filtros cambiados hace una semana.Todo esta perfecto.Mas detalles y fotos a través de WhatsApp.Se entrega con el capó y techo pintado en el color que le gusta al comprador ,teniendo en cuenta que el coche está de color negro ⚫️.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2008",
+            "kilómetros": "193500 km",
+            "precio": 4000.0
+        },
+        {
+            "titulo": "Audi A3 2008",
             "enlace": "https://es.wallapop.com/item/audi-a3-2008-1079714808",
             "descripcion": "Audi A3 color azul, de septiembre de 2008, 105 caballos, 1900 motor. No tiene ningun golpe ni accidente, 1 unico dueño, se vende por comprar uno mas grande, familiar. Está guardado en el garaje. Mas info por privado!",
             "combustible": "Diésel",
@@ -4057,17 +4024,6 @@
             "año": "2008",
             "kilómetros": "205000 km",
             "precio": 4000.0
-        },
-        {
-            "titulo": "Audi A3 ",
-            "enlace": "https://es.wallapop.com/item/audi-a3-1091985486",
-            "descripcion": "- Audi A3 1.6 tdi 105cv - Distintivo Ambiental B 🟡 - 230.000 kms - Coche procedente de único dueño , con reviciones al dia , correa distribucion cambiada , ITV recien pasada , neumáticos seminuevos , Bateria nueva , tapiceria y exterior en buen estado . - Control de crucero - Star Stop - Un juego de llaves (2) con Mando - Climatizador Bi zona - !! tela techo descolgada !! - Interesados contacten para más información .",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2010",
-            "kilómetros": "230000 km",
-            "precio": 3900.0
         },
         {
             "titulo": "Audi A3 2.0TDI Quattro",
@@ -4081,15 +4037,26 @@
             "precio": 3900.0
         },
         {
+            "titulo": "Audi A3 2.0 TDI 140CV 2008!!",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tdi-140cv-2008-1092652687",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2008",
+            "kilómetros": "265000 km",
+            "precio": 3890.0
+        },
+        {
             "titulo": "Audi A3 2008",
             "enlace": "https://es.wallapop.com/item/audi-a3-2008-1075268314",
-            "descripcion": "Oportunidad de compra de AUDI A3 2.0 TDI 140 con todos los extras. Asientos de cuero calefactables. Radio con pantalla y GPS integrado. Control de velocidad. Mandos en el volante. Apoyabrazos. Tiene los desperfectos que se ven de chapa",
+            "descripcion": "Oportunidad de compra de AUDI A3 2.0 TDI 140cv, con todos los extras. Asientos de cuero calefactables. Radio con pantalla y GPS integrado. Control de velocidad. Mandos en el volante. Apoyabrazos. Tiene los desperfectos que se ven de chapa",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "140 cv",
             "año": "2008",
             "kilómetros": "220000 km",
-            "precio": 3700.0
+            "precio": 3500.0
         },
         {
             "titulo": "Audi A3 2.0 TDI 140 - 2008 ",
@@ -4134,6 +4101,17 @@
             "año": "2010",
             "kilómetros": "58000 km",
             "precio": 700.0
+        },
+        {
+            "titulo": "DESDE 153€ AL MES SIN ENTRADA",
+            "enlace": "https://es.wallapop.com/item/desde-153-al-mes-sin-entrada-1092721059",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2008",
+            "kilómetros": "187000 km",
+            "precio": 153.0
         },
         {
             "titulo": "Parachoques Audi A3 2009",

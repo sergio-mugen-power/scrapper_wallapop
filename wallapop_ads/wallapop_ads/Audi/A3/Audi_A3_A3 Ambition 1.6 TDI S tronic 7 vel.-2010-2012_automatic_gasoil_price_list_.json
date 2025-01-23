@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 105,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=105&min_year=2010&max_year=2012&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=105&min_year=2010&max_year=2012&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -35,7 +35,7 @@
         {
             "titulo": "Audi A3 2012",
             "enlace": "https://es.wallapop.com/item/audi-a3-2012-1068416544",
-            "descripcion": "",
+            "descripcion": "AUDI A3 SPORTBACK -paquete S-LINE -caja cambios automática (s-tronic) -espejos eléctricos -volante deportivo MULTIFUNCION -asientos deportivos en tela -climatizador -Llantas 17 -",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "105 cv",
@@ -53,6 +53,17 @@
             "año": "2012",
             "kilómetros": "185000 km",
             "precio": 11990.0
+        },
+        {
+            "titulo": "AUDI A3 Attraction 1.6 TDI S tronic 7 vel.",
+            "enlace": "https://es.wallapop.com/item/audi-a3-attraction-1-6-tdi-s-tronic-7-vel-1092878714",
+            "descripcion": "Hola, ¿Cómo estás? Nos enorgullece que estés viendo el anuncio de uno de nuestros vehículos, y que te vamos a facilitar todo para que sea tuyo. Somos SI VEHICULOS, el concesionario multimarca con 4,6 estrellas en Google. En este caso, presentamos este E X C L U S I V O Audi A3 automático procedente de concesionario, con historial de mantenimiento. El precio incluye cambio de titularidad, garanta de 12 meses CASI como la de un vehículo nuevo, y transporte a toda España. Se entrega con TODOS los mantenimientos realizados; filtros y aceite, y aceite del cambio. Como servicio adicional, contamos con financiación ajustando siempre las cuotas a sus necesidades. Puede adquirir este vehículo sin estrada por 179 euros/mes. Aceptamos su antiguo vehículo como PARTE del pago. Como equipamiento destaca sus sensores de aparcamiento, clima bizona, volante deportivo tres radios, y mas equipamiento. ¡Pase de descubrirlo! Tiene dos llaves, libro de instrucciones y mantenimiento!!! Completo ¡¡¡. Siempre puedes visitarnos en nuestro garaje físico en el Norte de Granada, en Baza; o en nuestra web sivehiculos . es o redes sociales @sivehiculos.es las 24 horas del da. Ah podrá ver vehículos similares. We speak English. Enviamos mas información por cualquier medio y además atendemos video llamada. Para un trato personalizado, concrete su cita previa en los teléfonos que aparecen. La información mostrada puede contener errores, y por eso no es vinculante. Gracias por su atención, esperamos que le guste, quedamos a su servicio.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "105 cv",
+            "año": "2011",
+            "kilómetros": "170819 km",
+            "precio": 10900.0
         },
         {
             "titulo": "Audi A3 2010",
@@ -176,6 +187,17 @@
             "precio": 7000.0
         },
         {
+            "titulo": "Audi A3 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1092827389",
+            "descripcion": "Vehiculo en muy buen estado como se ven en las fotos motor 1.6 tdi consume muy poco. techo panoramico volante multifuncion luces b zona paletas en volante 2 llaves bateria nueva hace 6 meses el coche se entrega revisado acepto prueba mecanica",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "105 cv",
+            "año": "2010",
+            "kilómetros": "208000 km",
+            "precio": 6990.0
+        },
+        {
             "titulo": "Audi A3 2011",
             "enlace": "https://es.wallapop.com/item/audi-a3-2011-1091907232",
             "descripcion": "Se vende Audi A3 1.6 TDI 105cv del año 2011 y 212mil km. Va perfecto y no tiene ningún fallo. Tiene todo al día, filtro de aceite cambiado y perfecto estado por fuera como por dentro. Pneumáticos nuevos. primer dueño. Mejor verlo y probarlo. Llama sin compromiso. Entregamos el coche el mismo dia de la compra o financiación. Entregamos el coche asegurado hasta su destino. 6950 con todos los cargos incluidos. TEL:674947301",
@@ -207,17 +229,6 @@
             "año": "2010",
             "kilómetros": "260000 km",
             "precio": 4800.0
-        },
-        {
-            "titulo": "Audi A3 1.6 TDI DSG SPORTBACK",
-            "enlace": "https://es.wallapop.com/item/audi-a3-1-6-tdi-dsg-sportback-1091433237",
-            "descripcion": "cambio dsg averiado ( hay uwe cambiar mecatronica( lo tengo en taller hace ya 1 año parado casi , motor bien , itv caducada .",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "105 cv",
-            "año": "2012",
-            "kilómetros": "201000 km",
-            "precio": 3200.0
         }
     ]
 }

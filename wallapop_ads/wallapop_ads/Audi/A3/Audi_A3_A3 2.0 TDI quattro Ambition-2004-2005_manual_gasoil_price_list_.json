@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 140,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=140&min_year=2004&max_year=2005&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=140&min_year=2004&max_year=2005&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -79,7 +79,7 @@
         {
             "titulo": "Audi A3 TDI Sportback",
             "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tdi-sportback-1077103841",
-            "descripcion": "Vendo Audi A3 sportback 2.0 TDI con 164.000 km de un solo propietario. Vehículo como nuevo, en perfecto estado tanto de motor como de exterior e interior. Revisión y itv recien echa. Siempre guardado en parquing. Interesados preguntar sin compromiso, gracias.",
+            "descripcion": "Vendo Audi A3 sportback 2.0 TDI con 165.000 km solo dos propietarios. Vehículo como nuevo, en perfecto estado tanto de motor como de exterior e interior. Revisión y itv recien echa. Siempre guardado en parquing. Interesados preguntar sin compromiso, gracias.",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "140 cv",
@@ -165,6 +165,28 @@
             "precio": 6999.0
         },
         {
+            "titulo": "Audi A3 2004",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2004-1092791340",
+            "descripcion": "Audi a3. 158.ooo mil km. Va como nuevo. Todos libros, 3 juego de llaves, pantalla android, cámara marcha atraz, sensor de apacamiento. Faros automáticos, limpias automáticos, interior en cuero, aire caliente a la perfección , aire acondicionado perfecto. Bateria nueva (2 anos garantía) Lleva motor 2.0 tdi 140 caballos. Todos mantenimientos al día, con facturas y libro. ITV pasada ahora. Itv hasta 2026 Precio de 7.500 dejo 6,900. Solo está se6 NO BUSCO CAMBIOS vendo por necesitar el dinero. Puedes traer tu mecánico de confianza. El coche va de lujo. Favor solo contacta me si tienes condiciones fme hacer negocio para ya. Sin planes futuros, sin mareos, por favor no tomar mi tiempo. Gracias si es para ayudar acepto coche de justa 3 mil para facilitar compra pues regalaré a mi hermana. NADA MAS QUE ESO. OK. SIN MAREO",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2004",
+            "kilómetros": "158000 km",
+            "precio": 6900.0
+        },
+        {
+            "titulo": "Audi A3 2005",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2005-1092795745",
+            "descripcion": "Audi a3. 157.ooo mil km. Va como nuevo. Todos libros, 3 juego de llaves, pantalla android, cámara marcha atraz, sensor de apacamiento. Faros automáticos, limpias automáticos, interior en cuero, aire caliente a la perfección , aire acondicionado perfecto. Bateria nueva 2 año garantia. Lleva motor 2.0 tdi 140 caballos. Todos mantenimientos al día, con facturas y libro. ITV pasada ahora. Itv hasta 2026 Precio de 7.500 dejo 6,800. NO BUSCO CAMBIOS vendo por necesitar el dinero. Puedes traer tu mecánico de confianza. El coche va de lujo. Favor solo contacta me si tienes condiciones fme hacer negocio para ya. Sin planes futuros, sin mareos, por favor no tomar mi tiempo. Gracias posibilidade de aceptar un coche de hasta 3 mil pues voy regalar mi hermana, nada , nada mas que eso. POR FAVOR.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2005",
+            "kilómetros": "157000 km",
+            "precio": 6900.0
+        },
+        {
             "titulo": "Audi A3 2005",
             "enlace": "https://es.wallapop.com/item/audi-a3-2006-1039266132",
             "descripcion": "En venta unidad De Audi A3, muy nuevo siempre en garaje individual. Ruedas nuevas. Por cambio de modelo Solo gente interesada Transferencia incluida en el precio Gente realmente interesada Solo venta. Gracias",
@@ -177,14 +199,14 @@
         },
         {
             "titulo": "Audi A3 2005",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2005-1034268557",
-            "descripcion": "ITV pasada en julio de 2024 Tiene pantalla Android. Cámara trasera y delantera. Interior muy cuidado. Exterior muy cuidado. Siempre en garaje.",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2005-1092221270",
+            "descripcion": "Se vende Audi A3 Sporback paquete S-Line 140cv, techo panorámico, velocidad crucero, asientos de piel, luces automáticas xenón, llantas 17 pulgadas. Tambien se acepta cambio por Bmw e36 o e46",
             "combustible": "Diésel",
             "cambio": "Manual",
-            "potencia": "105 cv",
+            "potencia": "140 cv",
             "año": "2005",
-            "kilómetros": "211065 km",
-            "precio": 6800.0
+            "kilómetros": "235000 km",
+            "precio": 6700.0
         },
         {
             "titulo": "Audi A3 2005",
@@ -200,7 +222,7 @@
         {
             "titulo": "Audi A3 2004",
             "enlace": "https://es.wallapop.com/item/audi-a3-2004-1084794781",
-            "descripcion": "Escucho ofertas y cambios. Mejor ver y probar. Muy cuidado y mimado, con todos los mantenimientos al día, aceite, distribución... Nuevo: vimasa, embrague, filtros, intercooler, ruedas delanteras, bateria... Extras: iluminación led, instalación para audio, altavoces nuevos, montantes con agudos, radio Kenwood, detalles varios, techo tapizado, esterillos nuevos, cristales tintados homologados, bola de remolque, morro más deportivo, aletas sline, matrículas de metraquilato, pegatina medioambiental... Funciona todo correctamente, aire acondicionado, ventanillas, mando, consola central... Del tiempo como es comprensible tiene algunos arañazos y a destacar un pequeño roce, tapicería prácticamente impecable con poco desgaste... Coche de no fumador. ITV en vigor pasada hace poco.",
+            "descripcion": "Escucho ofertas y cambios. Mejor ver y probar. Muy cuidado y mimado, con todos los mantenimientos al día, aceite, distribución... Nuevo: vimasa, embrague, filtros, intercooler, ruedas delanteras, bateria, frente, intercooler a estrenar... (Se puede verificar todo) Extras: iluminación led, instalación para audio, altavoces nuevos, montantes con agudos, radio Kenwood, detalles varios, techo tapizado, esterillos nuevos, cristales tintados homologados, bola de remolque, morro más deportivo, aletas sline, matrículas de metraquilato, pegatina medioambiental... Funciona todo correctamente, aire acondicionado, ventanillas, mando, consola central... Del tiempo como es comprensible tiene algunos arañazos y a destacar un pequeño roce, tapicería prácticamente impecable con poco desgaste... Coche de no fumador. ITV en vigor pasada hace poco.",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "140 cv",
@@ -229,39 +251,6 @@
             "año": "2005",
             "kilómetros": "240000 km",
             "precio": 6400.0
-        },
-        {
-            "titulo": "Audi A3 2005",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2005-1014726272",
-            "descripcion": "El coche no ha dado fallos nunca. Solo 2 propietarios Familiares 95% de km en carretera con muy buen mantenimiento. 4 ruedas Michelin en buen estado. Último mantenimiento hecho este mes (aceite y filtros) ITV hasta junio del 2025 recién pasada sin fallos incluso en humos. Revisión gorda en febrero de 2023 con nuevo embrague bimasa, transmisión, silent Block, y alternador. Bluetooth incorporado y lámparas de alta visión . Muy bajo consumo.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2005",
-            "kilómetros": "289000 km",
-            "precio": 6150.0
-        },
-        {
-            "titulo": "Audi A3 2005",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2005-1091369915",
-            "descripcion": "Vendo un Audi A3 en perfectas condiciones , Salon Sline , techo panoramico y llantas 18 . tiene cambiados kit de ditribucion y el kit del embrague . mejor ver y probar acepto pruebas mecanicas",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2005",
-            "kilómetros": "286000 km",
-            "precio": 6000.0
-        },
-        {
-            "titulo": "Audi A3 2004",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2004-1084366229",
-            "descripcion": "Audi a3 sline, SOLO GENTE REALMENTE INTERESADA OFERTAS ABSURDAS NO CONTESTO •Paragolpes de S3 •Embrague echo ✅ •Distribicion echa ✅ •Neumaticos cambiados •ITV en vigor ✅ •Llantas 18’ (Rs3 antiguas) •Techo solar •Distintivo Ambiental B •Equipo de musica JBL •Carplay •Pantalla pioneer El coche esta en muy buen estado se utiliza de diario, muy poco consumo.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2004",
-            "kilómetros": "300000 km",
-            "precio": 6000.0
         },
         {
             "titulo": "Audi A3 2004",
@@ -308,14 +297,14 @@
             "precio": 5900.0
         },
         {
-            "titulo": "Audi A3 2004",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2004-1082743141",
-            "descripcion": "Se vende Audi a3 1.9 TDI 105cv en perfecto estado mecanico como de chapa y pintura. Está perfecto exteriormente, y el interior muy cuidado, sin techo despegado ni asientos rotos. Muy entero. 1000 km con un tanque. Climatizador bizona, control de crucero, luces automáticas... Se puede entregar con etiqueta medioambiental B para poder pasar al centro de la ciudad. Radio android recién colocada con android auto o Apple car play con posibilidad de cámara de marcha atrás. Mecanica recién hecha: - Neumáticos Michelin los 4 nuevos 490€ - Distribución y bomba de agua nueva con correa auxiliar hace 10.000 km 400€ - Bomba tándem marca pierburg nueva 300€ - Bateria nueva 100€ - Pastillas delanteras y rodamiento delantero 150€ - Mantenimiento completo, aceite y filtros 300€ con 3000 km - ITV pasada Se vende para andar con el, nada que tocarle. Se escuchan cambios. #bmw serie 1 mercedes clase a colt mini Cooper one Seat Ibiza leon A1 a3 A4 Skoda Volkswagen polo golf gti gtd",
+            "titulo": "Audi A3 2005",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2005-1014726272",
+            "descripcion": "El coche no ha dado fallos nunca. Solo 2 propietarios Familiares 95% de km en carretera con muy buen mantenimiento. 4 ruedas Michelin en buen estado. Último mantenimiento hecho este mes (aceite y filtros) ITV hasta junio del 2025 recién pasada sin fallos incluso en humos. Revisión gorda en febrero de 2023 con nuevo embrague bimasa, transmisión, silent Block, y alternador. Bluetooth incorporado y lámparas de alta visión . Muy bajo consumo.",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "105 cv",
-            "año": "2004",
-            "kilómetros": "299999 km",
+            "año": "2005",
+            "kilómetros": "289000 km",
             "precio": 5800.0
         },
         {
@@ -328,6 +317,39 @@
             "año": "2005",
             "kilómetros": "262700 km",
             "precio": 5700.0
+        },
+        {
+            "titulo": "Audi A3 2004",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2004-1082743141",
+            "descripcion": "Se vende Audi a3 1.9 TDI 105cv en perfecto estado mecanico como de chapa y pintura. Está perfecto exteriormente, y el interior muy cuidado, sin techo despegado ni asientos rotos. Muy entero. 1000 km con un tanque. Climatizador bizona, control de crucero, luces automáticas... Se puede entregar con etiqueta medioambiental B para poder pasar al centro de la ciudad. Radio android recién colocada con android auto o Apple car play con posibilidad de cámara de marcha atrás. Mecanica recién hecha: - Neumáticos Michelin los 4 nuevos 490€ - Distribución y bomba de agua nueva con correa auxiliar hace 10.000 km 400€ - Bomba tándem marca pierburg nueva 300€ - Bateria nueva 100€ - Pastillas delanteras y rodamiento delantero 150€ - Mantenimiento completo, aceite y filtros 300€ con 3000 km - ITV pasada Se vende para andar con el, nada que tocarle. Se escuchan cambios. #bmw serie 1 mercedes clase a colt mini Cooper one Seat Ibiza leon A1 a3 A4 Skoda Volkswagen polo golf gti gtd",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "105 cv",
+            "año": "2004",
+            "kilómetros": "299999 km",
+            "precio": 5700.0
+        },
+        {
+            "titulo": "Audi A3 2005",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2005-1092240881",
+            "descripcion": "Se vende audi a3 en perfecto estado, interior en muy buen estado , y exterior lo tipico de los años, el coche tiene llantas bbs originales, asientos calefactables de cuero, cubiertas 80%, coche funcionando de diario , (No es motor BKD) se aceptan cambios, se escuchan ofertas.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2005",
+            "kilómetros": "228000 km",
+            "precio": 5500.0
+        },
+        {
+            "titulo": "Audi A3 2005",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2005-1092251517",
+            "descripcion": "Audi A3 Sportbag 2000tdi Súper cuidado ,todo al día , ITV recién pasada",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2005",
+            "kilómetros": "200000 km",
+            "precio": 5500.0
         },
         {
             "titulo": "Audi A3 2005",
@@ -385,17 +407,6 @@
             "precio": 5480.0
         },
         {
-            "titulo": "Audi A3 ",
-            "enlace": "https://es.wallapop.com/item/audi-a3-1087019644",
-            "descripcion": "Vendo audi a3 sline en perfecto estado Todos los mantenimientos al día Está impecable tanto interior o exterior Mejor ver y probar.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2005",
-            "kilómetros": "251711 km",
-            "precio": 5400.0
-        },
-        {
             "titulo": "Audi A3 2004",
             "enlace": "https://es.wallapop.com/item/audi-a3-2004-1090134518",
             "descripcion": "Coche en muy buen estado,vendo por cambio de coche,ruedas nuevas.cambio de nombre a mi cargo. Telefono:640257363",
@@ -409,13 +420,24 @@
         {
             "titulo": "Audi A3 2005",
             "enlace": "https://es.wallapop.com/item/audi-a3-2005-1051423100",
-            "descripcion": "Se vende audi A3 2.0 3p . El coche esta al día de todo,siempre en cochera y bien cuidado.Electroventilador,volante bimasa nuevos , ruedas nueva y pintado hace 2 años !Cambio por moto de campo..!Al día de TODO!!PRECIO NEGOCIABLE",
+            "descripcion": "Se vende audi A3 2.0 3p . El coche esta al día de todo,siempre en cochera y bien cuidado.Electroventilador,volante bimasa nuevos , ruedas nueva y pintado hace 2 años ! Se acepta prueba mecanica.ITV asta julio .Cambio por moto de campo..!Al día de TODO!!PRECIO NEGOCIABLE",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "140 cv",
             "año": "2005",
             "kilómetros": "184000 km",
-            "precio": 5150.0
+            "precio": 5100.0
+        },
+        {
+            "titulo": "Audi A3 2004",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2004-1092366758",
+            "descripcion": "Se vende Audi A3 con 216mil kilómetros por no utilizar, el vehículo se encuentra en buen estado y funciona perfectamente, salvo que el embrague ya estaría para cambiar. Motor 2.0 con 140cv robusto, fiable y de bajo consumo, equipo de audio original Bosé. Por un mínimo mantenimiento un coche fiable para muchos años.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2004",
+            "kilómetros": "215695 km",
+            "precio": 5000.0
         },
         {
             "titulo": "Audi A3  2.0 tdi 2004",
@@ -429,17 +451,6 @@
             "precio": 5000.0
         },
         {
-            "titulo": "Audi A3 2005",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2005-1091122500",
-            "descripcion": "AUDI A3 8p 2005 PACK SLINE MANTENIMIENTOS AL DÍA ITV RECIÉN PASADA STAGE 1 BND MOTORS ESCAPE TRAMO FINAL RCP + DOWNPIPE COCHE PINTADO COLOR NEGRO BRILLO FULL BLACK Y MÁS EXTRAS PARA MÁS INFORMACIÓN CONTACTAME. PRECIO NEGOCIABLE.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2005",
-            "kilómetros": "294000 km",
-            "precio": 5000.0
-        },
-        {
             "titulo": "Audi A3 2004",
             "enlace": "https://es.wallapop.com/item/audi-a3-2004-1090056970",
             "descripcion": "SE VENDE AUDI A3 motor cambiado actualmente 220.000km embrague , distrubucion y correa de accesorios nueva con menos de 500 km mantenimientos nuevos • filtros (aceite, aire, gasoil...) • termostato nuevo • aceite y anticongelantes nuevos • bateria nueva el coche tiene interior nuevo y asientos de cuero y tela techo recien tapizado 4 alfombrillas nuevas sline interior y exterior llantas en 17 “ y 4 neumaticos nuevos enganche de remolque homologado tiene un rascazo en una puerta pero de chapa esta bien",
@@ -448,6 +459,17 @@
             "potencia": "140 cv",
             "año": "2004",
             "kilómetros": "220000 km",
+            "precio": 5000.0
+        },
+        {
+            "titulo": "Audi A3 ",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1087019644",
+            "descripcion": "Vendo audi a3 sline en perfecto estado Todos los mantenimientos al día Está impecable tanto interior o exterior Mejor ver y probar.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2005",
+            "kilómetros": "251711 km",
             "precio": 5000.0
         },
         {
@@ -474,17 +496,6 @@
         },
         {
             "titulo": "Audi A3 2005",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2005-1086116732",
-            "descripcion": "Audi A3 con kit S-Line. Siempre guardado en garaje. Se acepta canvio por furgo Peugeot Partner Tepee.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2005",
-            "kilómetros": "274000 km",
-            "precio": 5000.0
-        },
-        {
-            "titulo": "Audi A3 2005",
             "enlace": "https://es.wallapop.com/item/audi-a3-2005-1082058526",
             "descripcion": "Audi con dos dueños el primer dueño, un señor de 80 años que siempre le ha hecho los mantenimientos en la casa Audi y el coche ha estado súper cuidado el segundo dueño soy yo le he hecho una revisión le he tintado las lunas y le he puesto una radio nueva todo con factura el coche está impecable con pocos kilómetros y con pegatina B mejor ver acepto prueba mecánica.",
             "combustible": "Diésel",
@@ -492,6 +503,17 @@
             "potencia": "140 cv",
             "año": "2005",
             "kilómetros": "161000 km",
+            "precio": 5000.0
+        },
+        {
+            "titulo": "Audi A3 2005",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2005-1086116732",
+            "descripcion": "Audi A3 con kit S-Line. Siempre guardado en garaje. Se acepta canvio por furgo Peugeot Partner Tepee.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2005",
+            "kilómetros": "274000 km",
             "precio": 5000.0
         },
         {
@@ -569,17 +591,6 @@
             "potencia": "105 cv",
             "año": "2004",
             "kilómetros": "186000 km",
-            "precio": 5000.0
-        },
-        {
-            "titulo": "Audi A3 2004",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2004-1072056548",
-            "descripcion": "Turbo nuevo, distribución hecha, inyectores nuevos, embrague nuevo, recién pintado, ITV al día, techo solar, parabrisas eléctrico, funciona perfectamente, lo cambio por coche alto",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2004",
-            "kilómetros": "250000 km",
             "precio": 5000.0
         },
         {
@@ -683,17 +694,6 @@
         },
         {
             "titulo": "Audi A3 2005",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2005-1059946931",
-            "descripcion": "Magnífico Audi A3 super cuidado y mimado. Una apuesta segura para tú tranquilidad. Todos los MTTO echos, 4 pinzas de frenos nuevas. Estado espectacular mejor ver y probar. Precio negociable",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2005",
-            "kilómetros": "260000 km",
-            "precio": 4999.0
-        },
-        {
-            "titulo": "Audi A3 2005",
             "enlace": "https://es.wallapop.com/item/audi-a3-2005-943725165",
             "descripcion": "",
             "combustible": "Diésel",
@@ -748,6 +748,17 @@
             "precio": 4900.0
         },
         {
+            "titulo": "Audi A3 2005",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2005-1092738867",
+            "descripcion": "SportBack techo solar paronamic llantas 18 pantalla multifunción 6 marchas revisión hecha con todos los filtros y la correa, distribución, hecha con bomba de agua y la correa auxiliar coche en perfecto estado se puede ver y probar",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2005",
+            "kilómetros": "280500 km",
+            "precio": 4800.0
+        },
+        {
             "titulo": "Audi A3 2004",
             "enlace": "https://es.wallapop.com/item/audi-a3-2004-1091617743",
             "descripcion": "Tiene turbo nuevo 4ruedas nuevas y todos los filtros y aceite nuevosse entrega con ITV funciona perfectamente",
@@ -781,17 +792,6 @@
             "precio": 4800.0
         },
         {
-            "titulo": "PRECIOSO Audi A3 2005 ITV Recien pasada",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2005-1023198988",
-            "descripcion": "PRECIOSO AUDI A3 IMPOLUTO itv recien pasada Se vende audi a3 embrague aceite cambiado,pintado hace poquito entero Turbo hibridado Slip delantero EXTERIOR S3 TIENE INTERIOR S LINE LLANTAS ROTOR 17 EL COCHE TIENE MUCHA FUERZA Linea downpipe escape Suena bastante tiene escape cambiado. Se da escape original completo para pasar las itv. Para acepto cambios sube el precio.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2005",
-            "kilómetros": "300000 km",
-            "precio": 4800.0
-        },
-        {
             "titulo": "Audi A3 2005",
             "enlace": "https://es.wallapop.com/item/audi-a3-2005-1012095771",
             "descripcion": "URGE VENTA Se vende audi a3 Distribución cambiada embrague aceite cambiado todo con facturas pintado hace poquito Turbo hibrido Slip delantero EXTERIOR S3 TIENE INTERIOR S LINE LLANTAS ROTOR 17” EL COCHE TIENE MUCHA FUERZA Suena bastante tiene bien tiene el escape cambiado. de mecanica no hay que tocar nada, habria que hacerle algunas cosillas sin importancia pero no tengo tiempo Acepto cambio Doy escape de serie y paragolpes de serie para pasar itv ITV RECIEN PASADA",
@@ -803,6 +803,28 @@
             "precio": 4800.0
         },
         {
+            "titulo": "Ya disponible,PRECIOSO Audi A3 2005 ITV Reciente",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2005-1023198988",
+            "descripcion": "PRECIOSO AUDI A3 IMPOLUTO ITV RECIEN PASADA Se vende audi a3 embrague aceite cambiado,pintado hace poquito entero Turbo hibridado Slip delantero EXTERIOR S3 TIENE INTERIOR S LINE LLANTAS ROTOR 17 EL COCHE TIENE MUCHA FUERZA Linea downpipe escape Suena bastante tiene escape cambiado. Se da escape original completo para pasar las itv. Para acepto cambios sube el precio.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2005",
+            "kilómetros": "300000 km",
+            "precio": 4799.0
+        },
+        {
+            "titulo": "Audi A3 2005",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2005-1091122500",
+            "descripcion": "AUDI A3 8p 2005 PACK SLINE MANTENIMIENTOS AL DÍA ITV RECIÉN PASADA STAGE 1 BND MOTORS ESCAPE TRAMO FINAL RCP + DOWNPIPE COCHE PINTADO COLOR NEGRO BRILLO FULL BLACK Y MÁS EXTRAS PARA MÁS INFORMACIÓN CONTACTAME. PRECIO NEGOCIABLE.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2005",
+            "kilómetros": "294000 km",
+            "precio": 4700.0
+        },
+        {
             "titulo": "Audi A3 2005 ITV RECIEN PASADA",
             "enlace": "https://es.wallapop.com/item/audi-a3-2005-1012339331",
             "descripcion": "Se vende audi a3 Distribución cambiada embrague aceite cambiado hace poco todo con facturas pintado hace poquito Turbo hibrido Slip delantero EXTERIOR S3. !HOMOLOGADO TODO TIENE INTERIOR S LINE LLANTAS ROTOR 17” EL COCHE TIENE MUCHA FUERZA TRAMO RECTO DOWNPIPE Suena bastante tiene escape cambiado. SE DA ESCAPE ORIGINAL Acepto cambio",
@@ -812,17 +834,6 @@
             "año": "2005",
             "kilómetros": "300000 km",
             "precio": 4700.0
-        },
-        {
-            "titulo": "Audi A3 2004",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2004-1080081726",
-            "descripcion": "buenas vendo audi a3 en perfecto estado tiene discos y pastillas traseros cambiado hace 100km, kit de distribucion recien hecho con apenas 2000km y la revision de aceite y filtros. El coche funcion perfectamente cualquier informacion preguntar sin compromiso acepto cambio por otro coche",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2004",
-            "kilómetros": "266000 km",
-            "precio": 4600.0
         },
         {
             "titulo": "Audi A3 2005",
@@ -856,6 +867,39 @@
             "año": "2005",
             "kilómetros": "286000 km",
             "precio": 4599.0
+        },
+        {
+            "titulo": "Audi A3 2005",
+            "enlace": "https://es.wallapop.com/item/audi-s3-2007-1092174504",
+            "descripcion": "audi a3 sport back techo solar llantas 19 asientos calefactables itv hasta octubre de 2025 pantalla con bluetooth , coche 2005 renatriculado en 2007 . problema con el abs y una rueda pinchada. lo vendo tal cual no mareantes",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2005",
+            "kilómetros": "170000 km",
+            "precio": 4500.0
+        },
+        {
+            "titulo": "Audi A3 2004",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2004-1092174483",
+            "descripcion": "Vendo audi a3 modelo 8P 1.9 tdi tiene la revision recien echa con distribucion y bomba de agua y la itv recian pasada, el motor es el modelo BKC. Pregunten sin compromiso",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "105 cv",
+            "año": "2004",
+            "kilómetros": "230000 km",
+            "precio": 4500.0
+        },
+        {
+            "titulo": "Audi A3 2004",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2004-1092071512",
+            "descripcion": "coche en perfecto estado con embrage original puesto ace 7 mil kilometros gomas nuevas puestas ace 4 mil kilometros bateria nueva discos y pastillas nuevas puestas ace una semana revisiones tamjien echas a su tiempo distribicion echa ace 7 mil kilometros no da problema de nada lo unico que no funciona es el aire acondicionado",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "105 cv",
+            "año": "2004",
+            "kilómetros": "205000 km",
+            "precio": 4500.0
         },
         {
             "titulo": "Audi A3 Sportback 2.0 TDI 140cv 2005 295000 km",
@@ -990,17 +1034,6 @@
             "precio": 4499.0
         },
         {
-            "titulo": "Audi A3 2.0 140cv",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-140cv-1058954285",
-            "descripcion": "AUDI A3 2.0 TDI 140CV (SOLICITAR CITA ANTES DE VENIR) ··4.490€·· OFERTA SUJETA A FINANCIACIÓN -4.490€- PRECIO AL CONTADO - Asientos en tela - Asientos calefactables - Velocidad de crucero - Volante multifunción - Radio Bluetooth - Llantas Sport - Faros Xenón - Climatizador - Espejos eléctricos - Radio/CD Perfecto estado, con informe del vehículo. SE ENTREGA REVISADO Y CON EL MANTENIMIENTO HECHO HACE 0 KM. ·Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual.· - ACEPTAMOS VEHÍCULO COMO PARTE DE PAGO -CONSULTAR GARANTÍA Y TRANSFERENCIA 200€",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2004",
-            "kilómetros": "238000 km",
-            "precio": 4490.0
-        },
-        {
             "titulo": "Audi A3 2004",
             "enlace": "https://es.wallapop.com/item/audi-a3-2004-1056033385",
             "descripcion": "VENDO AUDI A3 2.0 tdi 140 cv Mantenimiento recien hecho (con facturas de todo) *Cambio de aceite y filtro, filtro de gasoil. *Tiene distrubición hecha y bomba de agua *Correa auxiliar y poleas nuevas itv pasada Ver y probar, el coche va muy fino. Consumo muy bajo no llega a 6L",
@@ -1123,17 +1156,6 @@
         },
         {
             "titulo": "Audi A3 2004",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2004-1077529735",
-            "descripcion": "Vendo audi a3 tiene Aceite y filtros recién cambiados no llega 1000 km turbo nuevo con factura itv pasada esta semana todo perfecto un saludo",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2004",
-            "kilómetros": "197000 km",
-            "precio": 4200.0
-        },
-        {
-            "titulo": "Audi A3 2004",
             "enlace": "https://es.wallapop.com/item/audi-a3-2004-1091224364",
             "descripcion": "Audi A3 8p, 2.0 tdi, 140CV 295.000km El coche esta en perfectas condiciones con itv hasta octubre de 2025, tiene correa de distribucion cambiada hace poco, todos los mantenimientos hechos, neumaticos cambiados, elevalunas electrico, precio algo negociable mejor ver y probar, acepto cambios por seat leon 2007, golf 5 o 6, bmw serie 1, serie 3, etc",
             "combustible": "Diésel",
@@ -1145,13 +1167,13 @@
         },
         {
             "titulo": "Audi A3 2004",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2004-1089330859",
-            "descripcion": "En muy buen estado, mantenimientos al día y siempre en garage,para cualquier duda llamar al 690821759.no negociable",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2004-1080081726",
+            "descripcion": "buenas vendo audi a3 en perfecto estado tiene discos y pastillas traseros cambiado hace 100km, kit de distribucion recien hecho con apenas 2000km y la revision de aceite y filtros. El coche funcion perfectamente cualquier informacion preguntar sin compromiso acepto cambio por otro coche",
             "combustible": "Diésel",
             "cambio": "Manual",
-            "potencia": "105 cv",
+            "potencia": "140 cv",
             "año": "2004",
-            "kilómetros": "209000 km",
+            "kilómetros": "266000 km",
             "precio": 4000.0
         },
         {
@@ -1387,17 +1409,6 @@
         },
         {
             "titulo": "Audi A3 2004",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2004-898983889",
-            "descripcion": "AUDI A3 1.9 105 CV. SIEMPRE DURMIENDO EN GARAJE. ALGUN PEQUEÑO DESGASTE DEL USO. ALGUN PEQUEÑO ROCE EXTERIOR COCHE EN PERFECTO ESTADO DE MOTOR PERFECTO. SIEMPRE MANTENIMIENTOS AL DÍA BATERÍA NUEVA 1 MES DE USO ACEITE Y TODOS LOS FILTROS HACE 2000KM ALFOMBRILLAS NUEVAS RUEDAS TRASERAS RECIÉN PUESTAS ITV ENERO 2025",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2004",
-            "kilómetros": "239000 km",
-            "precio": 3700.0
-        },
-        {
-            "titulo": "Audi A3 2004",
             "enlace": "https://es.wallapop.com/item/audi-a3-2004-1091807338",
             "descripcion": "Hola vendo audi a 3 motor 2.0 tdi 140 cv el coche funciona perfectamente de todo tiene luces de xenón asientos de cuero techo solar ITV HASTA FEBRERO 2026.un saludo",
             "combustible": "Diésel",
@@ -1464,17 +1475,6 @@
         },
         {
             "titulo": "Audi A3 2004",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2004-966270010",
-            "descripcion": "Embrague aceite y todos los filtros recién cambiados con factura demostrable ruedas nuevas llantas originales en 17 pulgadas todo de serie bien cuidado Pequeño golpecito como podéis ver en la foto en la puerta del conductor pero nada grave por lo demás todo perfecto tanto de pintura El techo un poco descolgado pero poca cosa todo muy bien el interior bien cuidado También aceptó cambio por coche alto o que me interese",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2004",
-            "kilómetros": "280000 km",
-            "precio": 3500.0
-        },
-        {
-            "titulo": "Audi A3 2004",
             "enlace": "https://es.wallapop.com/item/audi-a3-2004-588053628",
             "descripcion": "Audi A3 TDI 140 CV la correa cambiada ace un mes y con Etiqueta B puedes cundocir en Barcelona",
             "combustible": "Diésel",
@@ -1507,9 +1507,20 @@
             "precio": 3400.0
         },
         {
+            "titulo": "Audi A3 2004",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2004-966270010",
+            "descripcion": "Embrague aceite y todos los filtros recién cambiados con factura demostrable ruedas nuevas llantas originales en 17 pulgadas todo de serie bien cuidado Pequeño golpecito como podéis ver en la foto en la puerta del conductor pero nada grave por lo demás todo perfecto tanto de pintura El techo un poco descolgado pero poca cosa todo muy bien el interior bien cuidado También aceptó cambio por furgoneta",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "105 cv",
+            "año": "2004",
+            "kilómetros": "280000 km",
+            "precio": 3400.0
+        },
+        {
             "titulo": "Audi A3 2.0 tdi 140 cv pegatina B",
             "enlace": "https://es.wallapop.com/item/audi-a3-2005-1085883166",
-            "descripcion": "",
+            "descripcion": "Audi A3 2.0 140 cv con distintito medioambiental Pegatina B, muy bien cuidado con 208000 km. Al dia de todo. Precio: 3299 euros Estado fenomenal, se encuentra circulando a diario, perfecto de mecanica. Neumaticos al 80 %. Cambios de aceite y filtros recien cambiados. Embrague y distribucion cambiados en 2023.",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "140 cv",
@@ -1559,17 +1570,6 @@
             "potencia": "140 cv",
             "año": "2005",
             "kilómetros": "210000 km",
-            "precio": 3000.0
-        },
-        {
-            "titulo": "Audi A3 2004",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2004-1084267001",
-            "descripcion": "Audi a3 en perfectas condiciones mantenimientos al día,Siempre a dormido en garaje. Se entrega transferido y con garantía de motor y transporte incluido.Se puede hacer prueba mecánica,más información por privado.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2004",
-            "kilómetros": "199000 km",
             "precio": 3000.0
         },
         {
@@ -1672,14 +1672,36 @@
             "precio": 2850.0
         },
         {
-            "titulo": "Audi A3 2005",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2005-1091531687",
-            "descripcion": "Se Vende ,SOLO ANDORRA PORFAVOR NO INTERESA MATRICULARLO EN ESPAÑA ME HAN DADO PRESUPUESTO DE SOBRE 1.300€ No Negociable, ITV hasta septiembre de 2025, MATRÍCULA DE ANDORRA ver en banyoles (Girona)NO NEGOCIABLE NO NEGOCIABLE y ahora no tengo prisa en venderlo lo seguiré usando",
+            "titulo": "Audi A3 2004",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2004-1092215619",
+            "descripcion": "motor 2,0 TDI con revisiones hechas distribucion hecha a los 22200km ,bateria nueva ,equipo BOSE , techo solar climatizador, xenon bola de remolque extraible, tienes algunos defectos de carroceria , pregunta sin compromiso..",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "140 cv",
-            "año": "2005",
-            "kilómetros": "291000 km",
+            "año": "2004",
+            "kilómetros": "229000 km",
+            "precio": 2700.0
+        },
+        {
+            "titulo": "Audi A3 2004",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2006-2-0-tdi-1067604957",
+            "descripcion": "Audi a3 2.0 tdi con itv al día. Color: Plata Asientos de cuero Elevalunas eléctrico Tiene roces de pintura",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2004",
+            "kilómetros": "270000 km",
+            "precio": 2700.0
+        },
+        {
+            "titulo": "Audi A3 2004",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2006-1092697359",
+            "descripcion": "Vendo Audi A3 1.4, tiene un par de toques en la chapa como se aprecia en las fotos , motor perfecto no he tenido ningun problema, si quereis mas informacion llamar sin problemas y hablamos. Idoia",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "115 cv",
+            "año": "2004",
+            "kilómetros": "258041 km",
             "precio": 2500.0
         },
         {
@@ -1691,17 +1713,6 @@
             "potencia": "105 cv",
             "año": "2004",
             "kilómetros": "30000 km",
-            "precio": 2500.0
-        },
-        {
-            "titulo": "Audi A3 2004",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2004-1082506306",
-            "descripcion": "Esta cambiado motor caja cambio embrague todo itv pasado 24 12 2024 ruedas atras nueva delantera falta cambiar",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2004",
-            "kilómetros": "2400 km",
             "precio": 2500.0
         },
         {
@@ -1738,6 +1749,28 @@
             "precio": 2350.0
         },
         {
+            "titulo": "Audi A3 LEER EL ANUNCIO ",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2005-1091531687",
+            "descripcion": "Se Vende ,SOLO ANDORRA PORFAVOR NO INTERESA MATRICULARLO EN ESPAÑA ME HAN DADO PRESUPUESTO DE SOBRE 1.300€ No Negociable, ITV hasta septiembre de 2025, MATRÍCULA DE ANDORRA ver en banyoles (Girona)NO NEGOCIABLE NO NEGOCIABLE y ahora no tengo prisa en venderlo lo seguiré usando NO QUIERO OFERTAS DE TONTOS QUE NO TIENEN 2.300€ LO QUE PONE EN EL ANUNCIO ES LO QUE PIDO esto es para el miseria que me a ofrecido 1.650€",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2005",
+            "kilómetros": "291000 km",
+            "precio": 2300.0
+        },
+        {
+            "titulo": "Audi A3 2004",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2004-1082506306",
+            "descripcion": "Esta cambiado motor caja cambio embrague todo itv pasado 24 12 2024 ruedas atras nueva idelantera nueva no bajo mas",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2004",
+            "kilómetros": "2400 km",
+            "precio": 2300.0
+        },
+        {
             "titulo": "Audi A3 2004",
             "enlace": "https://es.wallapop.com/item/audi-a3-2004-1075077897",
             "descripcion": "Lo vendo por no usar, ai que pasarle itv y cambiar las pastillas de freno y las gomas delanteras",
@@ -1751,13 +1784,13 @@
         {
             "titulo": "Audi A3 2004",
             "enlace": "https://es.wallapop.com/item/audi-a3-8p-2-0-tdi-140cv-2004-1019802728",
-            "descripcion": "Tiene motor cambiado por uno de 200.mill de un tiguan 2.0tdi 140cv con culata buena y embrague revisado y en estado Ok.(motor valorado en 2.000€) . 6 Marchas. Itv recién pasada el 07/06/2024 con una leve solo. Tiene 18 homologadas.las llantas son originales de s8/a8 en R18 con neumáticos en buen estado,. Carrocería con desperfectos por tiempo parado pero nada grabé. El coche tiene un pequeño goteo aveces de aceite que abria que mirarle ya que no salta ningun fallo ni perjudica su conduccion,( Intentare darlo con el solucionado ya que me ocurrio esta semana que esta todas las carreterras llenas de ramas del tiempo malo este y nose que pille.,nose si es de la dirreccion, del motor o un manguito pero el coche funciona bien..,) si lo areglo subira el precio.. pero por ahora mantendre el coche parado ya que tengo otros. Esta totalmente de serie menos las llantas. . Precio poco Negociable ya que tiene alguna cosa para hacerle y ya Rebaje. . . transferencia incluida en el precio. No me urge venderlo, no ofertas absurdas el coche funciona bien y no da problemas apesar que tiene 20 años. Y losiento si tardo en responder, tengo mas vida fuera de wallapop :)",
+            "descripcion": "Tiene motor cambiado por uno de 200.mill de un tiguan 2.0tdi 140cv con culata buena y embrague revisado y en estado Ok.(motor valorado en 2.000€) . 6 Marchas. Itv recién pasada el 07/06/2024 con una leve solo. Tiene 18 homologadas.las llantas son originales de s8/a8 en R18 con neumáticos en buen estado,. Carrocería con desperfectos por tiempo parado pero nada grabé. El coche tiene un pequeño goteo aveces de aceite que abria que mirarle ya que no salta ningun fallo ni perjudica su conduccion,( Intentare darlo con el solucionado ya que me ocurrio esta semana que esta todas las carreterras llenas de ramas del tiempo malo este y nose que pille.,nose si es de la dirreccion, del motor o un manguito pero el coche funciona bien..,) si lo areglo subira el precio.. pero por ahora mantendre el coche parado ya que tengo otros. Esta totalmente de serie menos las llantas. . Precio poco Negociable ya que tiene alguna cosa para hacerle y ya Rebaje. . . urge venderlo, no ofertas absurdas el coche funciona. Y losiento si tardo en responder, tengo mas vida fuera de wallapop :)",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "140 cv",
             "año": "2004",
             "kilómetros": "300000 km",
-            "precio": 2300.0
+            "precio": 2200.0
         },
         {
             "titulo": "Audi A3 2005",
@@ -1779,17 +1812,6 @@
             "potencia": "140 cv",
             "año": "2004",
             "kilómetros": "260000 km",
-            "precio": 2000.0
-        },
-        {
-            "titulo": "Audi A3 2004",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2004-1090384654",
-            "descripcion": "ACEPTO CAMBIO ALGO NEGOCIABLE❗SE VENDE AUDI A3 2.0 TDI 140CV 6 VELOCIDADES 297.000KMS LE PERTENECE EL DESTINTIVO MEDIOAMBIENTAL B . HAY QUE PASAR ITV, MANETA DEL CONDUCTOR NO ABRE POR FUERA, HAY QUE CAMBIAR CALENTADORES, TIENE DETALLES ESTÉTICOS DE MOTOR FUNCIONA PERFECTO!!! DE HAY SU PRECIO GENTE REALMENTE INTERESADA GRACIAS",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2004",
-            "kilómetros": "297000 km",
             "precio": 2000.0
         },
         {
@@ -1824,17 +1846,6 @@
             "año": "2005",
             "kilómetros": "235000 km",
             "precio": 999.0
-        },
-        {
-            "titulo": "Audi A3 2004",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2004-1090681092",
-            "descripcion": "Coche afectado por la DANA. Estaba en garaje particular a pie de calle. El agua llegó hasta mitad de la puerta. SOLO DESGUACES, NECESITO CERTIFICADO BAJA Y DESTRUCCIÓN.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2004",
-            "kilómetros": "300000 km",
-            "precio": 700.0
         },
         {
             "titulo": "Audi A3 2005",

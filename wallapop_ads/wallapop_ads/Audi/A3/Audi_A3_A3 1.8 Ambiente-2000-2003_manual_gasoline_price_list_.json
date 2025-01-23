@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,9 +18,20 @@
         "potencia máxima": 125,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=125&min_year=2000&max_year=2003&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=125&min_year=2000&max_year=2003&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
+        {
+            "titulo": "Audi A3 2000",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2000-1092061958",
+            "descripcion": "Se vende",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "102 cv",
+            "año": "2000",
+            "kilómetros": "120000 km",
+            "precio": 15000.0
+        },
         {
             "titulo": "Audi A3 2001",
             "enlace": "https://es.wallapop.com/item/audi-a3-2001-994981222",
@@ -44,28 +55,6 @@
             "precio": 5100.0
         },
         {
-            "titulo": "Audi A3 2001",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2001-1087090744",
-            "descripcion": "Se encuentra en muy buen estado, sobretodo el motor, revisión recién pasada, itv en vigor, algunos daños estéticos en el interior y en el exterior del tiempo, pero nada grave, muy buen coche.",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "102 cv",
-            "año": "2001",
-            "kilómetros": "126738 km",
-            "precio": 5000.0
-        },
-        {
-            "titulo": "Audi A3 1.8 Ambiente",
-            "enlace": "https://es.wallapop.com/item/audi-a3-1-8-ambiente-1072290769",
-            "descripcion": "Audi A3, acabado Ambiente, motor 1.8 125cv, 117.000km, ITV recién pasada, totalmente de serie, único dueño. El coche está en Madrid. Tlfno 686 73 30 29.",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "125 cv",
-            "año": "2000",
-            "kilómetros": "117000 km",
-            "precio": 5000.0
-        },
-        {
             "titulo": "Audi A3 2002",
             "enlace": "https://es.wallapop.com/item/audi-a3-2002-1051720446",
             "descripcion": "Auto en perfectas condiciones correa de distribucion recien hecha, bomba de agua y poliv nueva con factura de taller. ETIQUETA MEDIO AMBIENTAL B",
@@ -74,7 +63,7 @@
             "potencia": "102 cv",
             "año": "2002",
             "kilómetros": "142000 km",
-            "precio": 4900.0
+            "precio": 4950.0
         },
         {
             "titulo": "Audi A3 2002",
@@ -174,6 +163,17 @@
             "año": "2003",
             "kilómetros": "260000 km",
             "precio": 4000.0
+        },
+        {
+            "titulo": "Audi A3 2001",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2001-1087090744",
+            "descripcion": "Se encuentra en muy buen estado, sobretodo el motor, revisión recién pasada, itv en vigor, algunos daños estéticos en el interior y en el exterior del tiempo, pero nada grave, muy buen coche.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "102 cv",
+            "año": "2001",
+            "kilómetros": "126738 km",
+            "precio": 3990.0
         },
         {
             "titulo": "Audi A3 2003",
@@ -319,17 +319,6 @@
             "precio": 3000.0
         },
         {
-            "titulo": "Audi A3 16i AMBITION 3P 105CV",
-            "enlace": "https://es.wallapop.com/item/audi-a3-16i-ambition-3p-105cv-1068539794",
-            "descripcion": "Revisión de mantenimiento al día y recientes, distribución sustituida, ITV recién pasada, neumáticos nuevos, climatizador, DA, CC, EE, bien conservado, garantizado.",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "102 cv",
-            "año": "2002",
-            "kilómetros": "164000 km",
-            "precio": 3000.0
-        },
-        {
             "titulo": "Audi A3 8L 1.8",
             "enlace": "https://es.wallapop.com/item/audi-a3-2001-1060202117",
             "descripcion": "- Zona: Terrassa, Barcelona - Marca y modelo: Audi A3 8L 3p. - Motor: 1.8 125cv - Km: 136.000 km - Año: 2001 - Precio: 3000€ - El motor es muy fiable, y la mecánica del coche está en buen estado. - Desperfectos estéticos leves que se pueden apreciar en las imágenes. - Neumáticos en estado como nuevo. - Revisión ITV pasada hace 5 meses - Etiqueta medioambiental B - 136.000km certificados y libre de accidentes con Informe Carfax disponible. - Radio con Bluetooth cambiada y buen sistema de audio. - Aire acondicionado. - Aceite y filtros recién cambiados. - Lunas traseras tintadas en 0'5 y homologadas.",
@@ -438,6 +427,28 @@
             "año": "2002",
             "kilómetros": "188000 km",
             "precio": 2850.0
+        },
+        {
+            "titulo": "Audi A3 16i AMBITION 3P 105CV",
+            "enlace": "https://es.wallapop.com/item/audi-a3-16i-ambition-3p-105cv-1068539794",
+            "descripcion": "Revisión de mantenimiento al día y recientes, distribución sustituida, ITV recién pasada, neumáticos nuevos, climatizador, DA, CC, EE, bien conservado, garantizado.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "102 cv",
+            "año": "2002",
+            "kilómetros": "164000 km",
+            "precio": 2850.0
+        },
+        {
+            "titulo": "Audi A3 2002",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2002-1092771449",
+            "descripcion": "Acepto prueba mecánica, chapa y pintura bien, interior bien, 2 llaves, mantenimiento al corriente, ITV pasada, si está el anuncio está el coche, un saludo",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "102 cv",
+            "año": "2002",
+            "kilómetros": "170000 km",
+            "precio": 2800.0
         },
         {
             "titulo": "Audi A3 Año 2002 Gasoleo 1.6",
@@ -607,23 +618,12 @@
         {
             "titulo": "Audi A3 2001",
             "enlace": "https://es.wallapop.com/item/audi-a3-2001-1089815728",
-            "descripcion": "",
+            "descripcion": "🚗 AUDI A3 1.6 - Tu compañero perfecto en la carretera 🚗 🌟 Detalles destacados: • Marca: Audi 🏁 • Modelo: A3 1.6 🔧 • Cambio: Manual 🚘 • Fecha de matriculación: 15/03/2001 📅 • Kilómetros: 171,032 km 🛣️ • Etiqueta ambiental: B (ideal para moverte en ciudad) 🌱 💥 ¿Por qué elegir este Audi A3? 1️⃣ Fiabilidad alemana: Calidad y robustez que nunca pasan de moda. 2️⃣ Diseño atemporal: Su línea elegante sigue conquistando miradas. 3️⃣ Precio asequible: ¡Un coche premium al alcance de todos! 💰 4️⃣ Perfecto para tu día a día: Consumo eficiente y confort en cada trayecto. 🌈 ¿Listo para llevarte este Audi A3?. ¡No dejes pasar esta oportunidad! 🙌 🔑 #CochesDeOcasión #AudiA3 #OportunidadUnica #ConduceTusSueños #CocheEficiente",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "102 cv",
             "año": "2001",
             "kilómetros": "170999 km",
-            "precio": 2300.0
-        },
-        {
-            "titulo": "Audi A3 2003",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2003-1083789567",
-            "descripcion": "Sin itv techo caído aleta con pequeños bollos cambiado aceite y filtros por lo demas el coche va perfecto me comprado otro parado hace un tiempo nose que le pasa aveces salta fallo motor pero va bien nunca me dado ningún problema. Precio negociable",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "102 cv",
-            "año": "2003",
-            "kilómetros": "226524 km",
             "precio": 2300.0
         },
         {
@@ -651,12 +651,12 @@
         {
             "titulo": "Audi A3 2002",
             "enlace": "https://es.wallapop.com/item/audi-a3-2002-1091897172",
-            "descripcion": "Pequeño roce con pigote lado derecho parte inferior con pegatina b interior muy buen estado menos el techo qué se despego",
+            "descripcion": "Consultar detalle de chapa lado derecho inferior por roce a pivote fotos al pv",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "102 cv",
             "año": "2002",
-            "kilómetros": "185000 km",
+            "kilómetros": "286000 km",
             "precio": 2000.0
         },
         {
@@ -668,6 +668,17 @@
             "potencia": "101 cv",
             "año": "2000",
             "kilómetros": "250000 km",
+            "precio": 2000.0
+        },
+        {
+            "titulo": "Audi A3 2003",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2003-1083789567",
+            "descripcion": "Sin itv techo caído aleta con pequeños bollos cambiado aceite y filtros por lo demas el coche va perfecto me comprado otro parado hace un tiempo nose que le pasa aveces salta fallo motor pero va bien nunca me dado ningún problema. Precio negociable",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "102 cv",
+            "año": "2003",
+            "kilómetros": "226524 km",
             "precio": 2000.0
         },
         {
@@ -724,17 +735,6 @@
             "año": "2003",
             "kilómetros": "197000 km",
             "precio": 1999.0
-        },
-        {
-            "titulo": "Audi A3 1.8 125 Cv ",
-            "enlace": "https://es.wallapop.com/item/audi-a3-1-8-125-cv-1067656048",
-            "descripcion": "Audi A3 1.8i 125 Cv Distintivo ambiental B mantenimiento al dia itv en vigor extras cierre centralizado con mando climatizador llantas de aleación asientos alcantara mejor ver estamos en arganda del rey calle Cabo de trafalgar con posibilidad de recoger su vehículo como parte de pago garantia opcional",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "125 cv",
-            "año": "2001",
-            "kilómetros": "215000 km",
-            "precio": 1990.0
         },
         {
             "titulo": "Audi A3 2000",
@@ -922,6 +922,17 @@
             "año": "2003",
             "kilómetros": "268000 km",
             "precio": 1200.0
+        },
+        {
+            "titulo": "Audi A3 ",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1092643346",
+            "descripcion": "Se vende maravilloso Audi A3 con todos los mantenimientos al dia, pegatina medioambiental B, no pasa Itv por gases de ahí el precio. No negociable y abstenerse curiosos y ofertas absurdas. Cambio de nombre a parte.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "102 cv",
+            "año": "2002",
+            "kilómetros": "209000 km",
+            "precio": 1050.0
         },
         {
             "titulo": "Audi A3 2003",

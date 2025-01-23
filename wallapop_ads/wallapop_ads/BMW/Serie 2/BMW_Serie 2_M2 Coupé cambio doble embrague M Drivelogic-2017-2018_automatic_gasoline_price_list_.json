@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 2",
         "version": "M2 Coupé cambio doble embrague M Drivelogic",
-        "año mínimo": 2017,
-        "año máximo": 2018,
+        "año mínimo": "2017",
+        "año máximo": "2018",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,12 +15,23 @@
         },
         "tipos de cambio": "automatic",
         "tipos de motor": "gasoline",
-        "potencia máxima": 370,
+        "potencia máxima": "370",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=370&min_year=2017&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
+        {
+            "titulo": "BMW M2 2018 N55",
+            "enlace": "https://es.wallapop.com/item/bmw-m2-2018-370cv-1072354540",
+            "descripcion": "NACIONAL Y UNICO PROPIETARIO IVA DEDUCIBLE MOTOR N55 - 370 CV",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "370 cv",
+            "año": "2018",
+            "kilómetros": "2600 km",
+            "precio": 59900.0
+        },
         {
             "titulo": "BMW Serie 2 2017",
             "enlace": "https://es.wallapop.com/item/bmw-m2-f87-30-000km-dkg-full-extras-impoluto-912172221",
@@ -220,17 +231,6 @@
             "precio": 42990.0
         },
         {
-            "titulo": "BMW M2 M Performance",
-            "enlace": "https://es.wallapop.com/item/bmw-m2-1061723244",
-            "descripcion": "BMW M2 Motor: 3.0I 370CV Año: 04/2017 Kms: 62500km PRECIO CONTADO: 43.900€ PRECIO FINANCIADO: 42.900€ Asientos delanteros cuero Calefactable Sensores aparcamiento BMW LED Modos de conducción Control de crucero Interior carbono Llantas M Frenos M Performance Whatsapp 640120013 C/Calvet Estrella 83, Sabadell (08203). Palabras clave mercedes benz a cla clase c e s 45 63 Amg audi a3 a4 a5 a6 a7 s3 s4 s5 s6 s7 rs3 rs4 rs5 rs6 q3 q5 q7 bmw serie 120 135 140 320 330 335 530 535 630 635 640 m2 m3 m5 m6 x5 x6 volkswagen golf gti Clubsport rs performance troc Tiguan akrapovic Cupra Ateca Formentor",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "370 cv",
-            "año": "2017",
-            "kilómetros": "62500 km",
-            "precio": 42900.0
-        },
-        {
             "titulo": "BMW M2",
             "enlace": "https://es.wallapop.com/item/bmw-m2-1081724360",
             "descripcion": "En venta BMW m2, impecable, nacional, todos los mantenimientos hechos en la bmw oficial. Coche muy muy mimado! Extras -Techo -Equipo de sonido -Downpipe -Silencioso trasero con válvulas, controladas con mando a distancia -Tratamiento cerámico, incluidas llantas -Interior en fibra de carbono",
@@ -317,6 +317,17 @@
             "año": "2018",
             "kilómetros": "119000 km",
             "precio": 39990.0
+        },
+        {
+            "titulo": "BMW M2 M Performance",
+            "enlace": "https://es.wallapop.com/item/bmw-m2-1061723244",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "370 cv",
+            "año": "2017",
+            "kilómetros": "62500 km",
+            "precio": 39900.0
         },
         {
             "titulo": "BMW Serie 2 2018",
@@ -437,17 +448,6 @@
             "potencia": "252 cv",
             "año": "2017",
             "kilómetros": "99900 km",
-            "precio": 28900.0
-        },
-        {
-            "titulo": "BMW Serie 2 2017",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-2-2017-1034012902",
-            "descripcion": "BMW 230i Automático, perfecto estado tanto interior como exterior, siempre guardado en garaje, pintura totalmente de origen. Cuenta con multitud de extras como por ejemplo: - Pack M interior y exterior - Techo solar - Tapicería en cuero rojo - Molduras en negro piano - Volante con levas multifuncion - Sensores de aparcamiento traseros - Zona dorsal adaptativa Cuanta con todas las revisiones pasadas en la BMW, todas las revisiones recién realizadas, neumáticos nuevos a estrenar, pastillas, etc…",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "252 cv",
-            "año": "2017",
-            "kilómetros": "83700 km",
             "precio": 28900.0
         }
     ]

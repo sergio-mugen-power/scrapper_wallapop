@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "R8",
+        "version": "5.2 FSI V10 quattro",
+        "año mínimo": 2009,
+        "año máximo": 2010,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 1000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 525,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=525&min_year=2009&max_year=2010&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=manual&brand=Audi&model=R8&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi R8 2010",
+            "enlace": "https://es.wallapop.com/item/audi-r8-2010-1088843730",
+            "descripcion": "en perfecto estado, mantenimiento al dia",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "430 cv",
+            "año": "2010",
+            "kilómetros": "100000 km",
+            "precio": 68900.0
+        },
+        {
+            "titulo": "Audi R8 ",
+            "enlace": "https://es.wallapop.com/item/audi-r8-1092376452",
+            "descripcion": "Se vende exclusivo audi R8, con muchos extras, muy bien cuidado con revisiones al dia, recien hecha la long life, itv al dia y pneumaticos nuevos : .asientos bordados rojos alcantara audi RS .volante alcántara con bordados en rojo .cinturones rojos RS .pinzas de freno rojas audi RS .equipo de musica bang olufsen .motor acabado en rojo .bixenon .navi plus .cargador 6cd, entr. auxiliar .bluetooth . interior cuero bordado .aleron retractil .cambio con levas R-tronic .sensores aparcamiento .asientos electricos .suspension deportiva rebajada NO REGATEOS ABSURDOS NI MAREANTES, NO SE HACEN CAMBIOS",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "420 cv",
+            "año": "2010",
+            "kilómetros": "101000 km",
+            "precio": 52500.0
+        }
+    ]
+}

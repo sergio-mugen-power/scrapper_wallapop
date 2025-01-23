@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 2",
         "version": "220i Active Tourer DCT",
-        "año mínimo": 2019,
-        "año máximo": 2021,
+        "año mínimo": "2019",
+        "año máximo": "2021",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "automatic",
         "tipos de motor": "gasoline",
-        "potencia máxima": 192,
+        "potencia máxima": "192",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=192&min_year=2019&max_year=2021&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -24,7 +24,7 @@
         {
             "titulo": "BMW Serie 2 220iA Gran Coupe 4p. ",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-220ia-gran-coupe-4p-1069296001",
-            "descripcion": "BMW Serie 2 220iA Gran Coupe 4p. 36.990 / Etiqueta C emisiones Desde 346,06€/mes* Con entrada de 6.990 € Financialo 100x100 sin entrada con las condiciones de TREND CARS ( 100% desde 72 meses (TIN 10,99) y seguro basico ) *Consultar condiciones de financiacion ofrecidas, sujetas a aprobacion por parte de la entidad financiera -PAQUETE DEPORTIVO M / ASIENTOS DELANTEROS DEPORTIVOS TIPO SEMIBAQUETS ELECTRICOS Y CALEFACTABLES / ILUMINACION AMBIENTAL / BMW LIVE COCKPIT PLUS / VOLANTE DEPORTIVO MULTIFUNCION Y CALEFACTABLE / ACTIVE GUARD PLUS / MODOS DE CONDUCCION / PAQUETE DE ALMACENAMIENTO / TAPICERIA CUERO DAKOTA ROJO PERFORADO / ATTENTION ASSIST / BMW INDIVIDUAL SHADOW LINE / APPLE CAR PLAY / CARGA INALAMBRICA DE SMARTPHONE / BMW REAL TRAFFIC INFORMATION / LLANTAS 19\" / DIRECCION DEPORTIVA M-TECHNIC / HEAD UP DISPLAY / SUSPENSION DEPORTIVA +TODO EL EQUIPAMIENTO DE SERIE DE LA GAMA BMW Serie 2 220iA Gran Coupe 4p. ¡RESERVALO! Puedes hacer BIZUM directamente y de forma segura en WWW.TRENDCARS. ES TRENDCARS. es CONFIANZA / CALIDAD / GARANTIA ¿Buscas un trato personalizado, un servicio postventa eficaz de CONFIANZA y para tu TRANQUILIDAD? TODOS nuestros coches estan revisados / Con certificado de KMS y AUSENCIA de Golpes (DEKRA) GARANTIA 12 meses, ampliable a 36 meses para cualquier taller de Espana Cambio de titularidad NO incluida en el precio ( 390€ ) Este anuncio no es vinculante se muestra a titulo informativo....",
+            "descripcion": "",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "178 cv",
@@ -42,6 +42,17 @@
             "año": "2021",
             "kilómetros": "66000 km",
             "precio": 34500.0
+        },
+        {
+            "titulo": "BMW Serie 2 2.0 184CV Autom.",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-2-2-0-184cv-autom-1092669663",
+            "descripcion": "Acabado Autom.. Disponible tambien en los colores Black Saphire, Blanco, Gris shark. Tambien en Peninsula y Baleares. Este anuncio es meramente informativo, no es vinculante ni contractual. Consulta a nuestros comerciales. Mas de 2000 coches en stock permanente, visitenos en ClickAutos. ...",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "184 cv",
+            "año": "2021",
+            "kilómetros": "64578 km",
+            "precio": 33950.0
         },
         {
             "titulo": "BMW Serie 2 2020",
@@ -90,7 +101,7 @@
         {
             "titulo": "BMW Serie 2 2021",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-2021-1035605140",
-            "descripcion": "PRECIO INDICADO ES FINAL Y AL CONTADO con IVA incluido (deducible), transferencia y garantía 12 meses. WE SPEAK ENGLISH & RUSSIAN Tenemos posibilidad de vender FLOTAS a profesionales. OFRECEMOS LA OPCION DE AMPLIAR LA COBERTURA Y DURACION DE LA GARANTIA A 24 MESES ¡ESTAMOS EN INSTAGRAM! @solo_carsales Y @solo_furgonetas ¡VISITA NUESTRAS OFICINAS! ATENCIÓN: Atendemos únicamente con cita previa. Marbella Oficina: Avenida de los Girasoles 347B, Nueva Andalucía 29660 Málaga Oficina: Av. del Comandante García Morato, 50, Oficina 2, 29004 Málaga.",
+            "descripcion": "",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "136 cv",
@@ -108,17 +119,6 @@
             "año": "2021",
             "kilómetros": "17800 km",
             "precio": 29990.0
-        },
-        {
-            "titulo": "BMW Serie 2 1.5 136CV Autom.",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-2-1-5-136cv-automatico-939422233",
-            "descripcion": "Acabado Autom.. Disponible también en los colores Negro, Sunset Orang. También en Península y Baleares. Este anuncio es meramente informativo, no es vinculante ni contractual. Consulta a nuestros comerciales. Más de 2000 coches en stock permanente, visítenos en ClickAutos.",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "136 cv",
-            "año": "2021",
-            "kilómetros": "62837 km",
-            "precio": 29950.0
         },
         {
             "titulo": "BMW Serie 2 218iA Gran Coupe",
@@ -310,7 +310,7 @@
         {
             "titulo": "BMW Serie 2 218i",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-218i-1071688256",
-            "descripcion": "",
+            "descripcion": "Tu nuevo coche te está esperando en MUNDICARS. Elige tu cuota y financia en 15 minutos. ¡Llámanos o ven a conocernos! + DE 300 COCHES EN STOCK - Pide cita y ven a probarlo - Déjanos tu coche como parte de pago - Financiación 100% - Todos nuestro vehículos se entregan revisados y con garantía de 1 año. (Vehículos comerciales 6 meses) - Nuestro horario es de L-V: 10:00 a 20:00 Sábados : 10:30 a 14:00 Compra online o llámanos. Tiendas: 1- Blanes: Ctra. Accés Costa Brava, 190, 17300, Girona (17300) 2- Sabadell: Carretera Barcelona 473-B. (08203) 3- Granollers: Avenida Marie Curie 2 (08402) 4- Vilanova y la Geltrú: Avda. Eduard Toldrà, 107 (08800). 5- Barcelona: (Próximamente) Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual.",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "136 cv",
@@ -441,7 +441,7 @@
         },
         {
             "titulo": "BMW Serie 2 218i",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-2-218i-1068020547",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-2-218i-1068055560",
             "descripcion": "Precio al contado: 27.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 24.990€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Sevilla 3, Pol. Pisa, C/ Artesania 3 , 41927 Sevilla. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilano...",
             "combustible": "Gasolina",
             "cambio": "Automático",
@@ -452,7 +452,7 @@
         },
         {
             "titulo": "BMW Serie 2 218i",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-2-218i-1067982512",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-2-218i-1068063848",
             "descripcion": "Precio al contado: 27.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 24.990€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Sevilla 3, Pol. Pisa, C/ Artesania 3 , 41927 Sevilla. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilano...",
             "combustible": "Gasolina",
             "cambio": "Automático",

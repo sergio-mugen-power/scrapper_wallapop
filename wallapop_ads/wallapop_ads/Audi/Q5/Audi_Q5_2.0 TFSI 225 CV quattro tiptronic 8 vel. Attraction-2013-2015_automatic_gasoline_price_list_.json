@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "Q5",
+        "version": "2.0 TFSI 225 CV quattro tiptronic 8 vel. Attraction",
+        "año mínimo": 2013,
+        "año máximo": 2015,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 224,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=224&min_year=2013&max_year=2015&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=Q5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "AUDI Q5 2.0 TFSI 225 CV quattro tip. Business",
+            "enlace": "https://es.wallapop.com/item/audi-q5-2-0-tfsi-225-cv-quattro-tip-business-980903207",
+            "descripcion": "Audi Q5 2.0 TFSI 225 cv AUTOM *** 12/2012 **** tracción cuatro *** En Excepcional estado mejor ver , llantas de aluminio , consumo Mixto 7,9 , Dispone de Navegador , volante multifunción , elevalunas eléctricos X 4 , volante multifunción , km en autovía apenas tiene desgaste en ningún sitio, visitanos en lorqui junto a la autovía salida 124 ¡ auto outlet murcia ¡¡ Precio contado 15400 € Precio financiado 14900€",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "224 cv",
+            "año": "2013",
+            "kilómetros": "198000 km",
+            "precio": 15400.0
+        }
+    ]
+}

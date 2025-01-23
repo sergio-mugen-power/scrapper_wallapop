@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 1",
         "version": "M140i 3p Aut.",
-        "año mínimo": 2017,
-        "año máximo": 2019,
+        "año mínimo": "2017",
+        "año máximo": "2019",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "automatic",
         "tipos de motor": "gasoline",
-        "potencia máxima": 340,
+        "potencia máxima": "340",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=340&min_year=2017&max_year=2019&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 1&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -46,7 +46,7 @@
         {
             "titulo": "BMW Serie 1 2019",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1-2019-1090383666",
-            "descripcion": "Espectacular unidad en impecable estado. Última revisión hecha en Enero de 2025 en BMW. ITV vigente hasta Septiembre de 2026. Etiqueta medioambiental C. Equipado con muchísimos extras como: - Asientos Baquets deportivos - Techo solar - Acceso confort - Head Up display - Paquete M Xdrive - Ángulo muerto - Pantalla digital - Faros full led - Maletero eléctrico ... Cambio de titularidad y un año de garantía incluido en el precio. Aceptamos su vehículo como parte de pago. Facilitamos financiación a su medida.",
+            "descripcion": "Espectacular unidad en impecable estado. Fecha de matriculación 31-10-2019 Última revisión hecha en Enero de 2025 en BMW. ITV vigente hasta Septiembre de 2026. Etiqueta medioambiental C. Equipado con muchísimos extras como: - Asientos Baquets deportivos - Techo solar - Acceso confort - Head Up display - Paquete M Xdrive - Ángulo muerto - Pantalla digital - Faros full led - Maletero eléctrico ... Cambio de titularidad y un año de garantía incluido en el precio. Aceptamos su vehículo como parte de pago. Facilitamos financiación a su medida.",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "306 cv",
@@ -188,7 +188,7 @@
         },
         {
             "titulo": "BMW Serie 1 M140iA",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-m140ia-1082335116",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-1-m140ia-1082335096",
             "descripcion": "",
             "combustible": "Gasolina",
             "cambio": "Automático",
@@ -199,7 +199,7 @@
         },
         {
             "titulo": "BMW Serie 1 M140iA",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-m140ia-1082335096",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-1-m140ia-1082335116",
             "descripcion": "",
             "combustible": "Gasolina",
             "cambio": "Automático",
@@ -382,7 +382,7 @@
             "potencia": "200 cv",
             "año": "2018",
             "kilómetros": "85000 km",
-            "precio": 23499.0
+            "precio": 23449.0
         },
         {
             "titulo": "BMW Serie 1 120i",

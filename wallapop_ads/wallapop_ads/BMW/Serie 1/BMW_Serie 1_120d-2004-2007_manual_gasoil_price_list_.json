@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 1",
         "version": "120d",
-        "año mínimo": 2004,
-        "año máximo": 2007,
+        "año mínimo": "2004",
+        "año máximo": "2007",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "manual",
         "tipos de motor": "gasoil",
-        "potencia máxima": 163,
+        "potencia máxima": "163",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=163&min_year=2004&max_year=2007&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=BMW&model=Serie 1&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -86,6 +86,17 @@
             "año": "2007",
             "kilómetros": "245000 km",
             "precio": 9620.0
+        },
+        {
+            "titulo": "BMW Serie 1 2007",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2007-1092752183",
+            "descripcion": "Vendo por no darle uso me muevo mejor para el trabajo y todo en moto - Siempre en garaje -ITV hasta julio 2025 -Revisiones y todo al dia -Gomas, chapa, interior en perfecto estado Mejor ver y probar",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "163 cv",
+            "año": "2007",
+            "kilómetros": "100000 km",
+            "precio": 9500.0
         },
         {
             "titulo": "BMW Serie 1 Pack M",
@@ -189,7 +200,7 @@
         {
             "titulo": "BMW Serie 1 2007",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1-2007-1092362488",
-            "descripcion": "BMW 118d 143cv año 2007 y 142.000km. Paquete M Nacional, dos llaves, pegatina B, ITV recién pasada. Extras: Paquete deportivo M Suspensión M Llantas de aleación M sport Paquete aerodinámico exterior M Paquete iluminación Paquete confort Efficient dinamics Asientos calefactables Tapicería en cuero Techo interior en antracita Parktronic trasero Clima bi zona Sensor de luces y lluvia automático Manos libres con control por voz Toma aux y usb… Se entrega con un año de garantía Transferencia +250€",
+            "descripcion": "BMW 118d 143cv año 2007 y 142.000km. Paquete M Nacional, dos llaves, pegatina B, ITV recién pasada. Extras: Paquete deportivo M Suspensión M Llantas de aleación M sport Paquete aerodinámico exterior M Paquete iluminación Paquete confort Efficient dinamics Asientos calefactables Tapicería en cuero Techo interior en antracita Parktronic trasero Clima bi zona Sensor de luces y lluvia automático Manos libres con control por voz Toma aux y usb… Se entrega con un año de garantía Transferencia +250€.",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "143 cv",
@@ -409,7 +420,7 @@
         {
             "titulo": "BMW Serie 1 2007",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1-2007-1091860442",
-            "descripcion": "Bmw serie 1 118d 143cv 3p Coche en muy buen estado, muy cuidado y bien mantenido, Cadena De Distribuciom cambiada en 2023 (obligatoria en estos coches o se rompe el motor) ITV Pasada en Enero de este año Ruedas Frenos Manteniemientos al dia. Paquete M interior y exterior Extra de (+4000€) de serie Consumi medio 5L/100 Llantas de 17 M, Aleron trasero extendido y luces trasera tintadas de Serie ( venia asi de BMW) Precio Negociable, cualquier duda mas fotos etc no dudar en escribirme",
+            "descripcion": "Bmw serie 1 118d 143cv 3p Coche en muy buen estado, muy cuidado y bien mantenido, Cadena De Distribuciom cambiada en 2023 (obligatoria en estos coches o se rompe el motor) ITV Pasada en Enero de este año Ruedas Frenos Manteniemientos al dia. Paquete M interior y exterior Extra de (+4000€) de serie Consumo medio 5L/100 Llantas de 17 M, Aleron trasero extendido y luces trasera tintadas de Serie ( venia asi de BMW) Precio Negociable, cualquier duda mas fotos etc no dudar en escribirme",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "143 cv",
@@ -437,17 +448,6 @@
             "potencia": "122 cv",
             "año": "2006",
             "kilómetros": "232000 km",
-            "precio": 7000.0
-        },
-        {
-            "titulo": "BMW Serie 1 2006",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2007-962489358",
-            "descripcion": "BMW serie 1 120d 5p 163cv Año 2006 170000km Nacional Climatizador Bizona Control de velocidad Muy buen estado general, bien cuidado único conductor, duerme en garaje, asientos de cuero, batería start stop marca BMW recién cambiada, ITV al día, filtros y aceite recién cambiados Solo gente seria",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "163 cv",
-            "año": "2006",
-            "kilómetros": "170000 km",
             "precio": 7000.0
         }
     ]

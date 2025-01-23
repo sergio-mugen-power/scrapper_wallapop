@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 1",
         "version": "125d 3p",
-        "año mínimo": 2013,
-        "año máximo": 2015,
+        "año mínimo": "2013",
+        "año máximo": "2015",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "manual",
         "tipos de motor": "gasoil",
-        "potencia máxima": 218,
+        "potencia máxima": "218",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=218&min_year=2013&max_year=2015&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=BMW&model=Serie 1&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -68,7 +68,7 @@
         {
             "titulo": "BMW Serie 1 118D 2.0D 150CV 5P",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1-118d-2-0d-150cv-5p-1092202371",
-            "descripcion": "",
+            "descripcion": "REF: 3386 Dificar.com tu red de concesionarios de confianza! BMW 118D 2.0D 150CV 5P en IMPECABLE estado y totalmente REVISADO y CERTIFICADO por la red de concesionarios BMW con 12 meses de garantia desde el dia de entrega. VEHICULO EN OFERTA SI SE FINANCIA DETALLE DE LA OFERTA: PRECIO FINANCIADO: 17.490€ CANTIDAD MINIMA A FINANCIAR: 17.490€ OPCION A LIQUIDAR A PARTIR DE LOS 18 MESES. PRECIO AL CONTADO 18.990€ Para mas informacion contactar por telefono o e-mail o si quiere verlo y probarlo sin compromiso en ( DIFIMOLINS / DIFIGIRONA ). Amplio stock en constante renovacion, aceptamos su vehiculo como forma de pago. Este anuncio no es vinculante, puede contener errores, se muestra a titulo informativo y no contractual. ***EQUIPAMIENTO EXTRA*** - Vehiculo Sin letrero-modelo - Paquete portaobjetos - Pintura blanca alpina (Uni) - Luces antiniebla - Panel de instrumentos (ampliado) - Sistema audio-navegador Business - Park-Distance-Control (PDC) - Acceso al maletero (Reposabrazos central detras) - Retrovisor interior con sistema antideslumbramiento autom. - Llantas de aleacion 7x17 (Acumulador en y 380) - Volante (deportivo/cuero) - Direccion asistida Servotronic - Multifuncion para Volante ***EQUIPAMIENTO SERIE*** - Linea de diseno y equipamiento Estandar - Carroceria: 5 puertas - Programa de estabilidad para el remolque (ASL) - Retrovisor exterior regulable electricamente y calefactable - Retrovisor exterior color carroceria - Intermitente en Retrovisor exterior integrad. - Pilotos traseros LED - dinamico Luces de freno - Sensor de luz y lluvia - Luz de dia LED - Limpialuneta trasera - Lunas antitermicas combinado (detras tintadas) - Parabrisas Vidrio laminado - Sistema de audio BMW Business CD (Radio/Lector de CD) - Dispositivo manos libres Bluetooth con USB-Audio-Interfaz - Sistema-revision: Llamada emergencia inteligente incl. TeleServices - Ordenador de a bordo - Indicador de las marchas - Sistema control presion neumaticos - Acabado interior: M...",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "150 cv",

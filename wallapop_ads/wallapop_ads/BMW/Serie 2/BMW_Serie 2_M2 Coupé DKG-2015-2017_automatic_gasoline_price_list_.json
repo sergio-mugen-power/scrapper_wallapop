@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 2",
         "version": "M2 Coupé DKG",
-        "año mínimo": 2015,
-        "año máximo": 2017,
+        "año mínimo": "2015",
+        "año máximo": "2017",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "automatic",
         "tipos de motor": "gasoline",
-        "potencia máxima": 370,
+        "potencia máxima": "370",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=370&min_year=2015&max_year=2017&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -165,17 +165,6 @@
             "precio": 42990.0
         },
         {
-            "titulo": "BMW M2 M Performance",
-            "enlace": "https://es.wallapop.com/item/bmw-m2-1061723244",
-            "descripcion": "BMW M2 Motor: 3.0I 370CV Año: 04/2017 Kms: 62500km PRECIO CONTADO: 43.900€ PRECIO FINANCIADO: 42.900€ Asientos delanteros cuero Calefactable Sensores aparcamiento BMW LED Modos de conducción Control de crucero Interior carbono Llantas M Frenos M Performance Whatsapp 640120013 C/Calvet Estrella 83, Sabadell (08203). Palabras clave mercedes benz a cla clase c e s 45 63 Amg audi a3 a4 a5 a6 a7 s3 s4 s5 s6 s7 rs3 rs4 rs5 rs6 q3 q5 q7 bmw serie 120 135 140 320 330 335 530 535 630 635 640 m2 m3 m5 m6 x5 x6 volkswagen golf gti Clubsport rs performance troc Tiguan akrapovic Cupra Ateca Formentor",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "370 cv",
-            "año": "2017",
-            "kilómetros": "62500 km",
-            "precio": 42900.0
-        },
-        {
             "titulo": "BMW Serie 2 M2",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-m2-1042603277",
             "descripcion": "BMW SERIE 2 M2, -Mantenimientos en casa oficial BMW EQUIPADO CON; *Asientos delanteros calefactables ajustables eléctricamente *Tapicería de cuero *Velocidad crucero *Volante multifunción *Sensores de aparcamiento *Sistema de sonido Harman/Kardon *Navegación *Reloj digital de temperatura y presión de turbo *ETc",
@@ -240,6 +229,17 @@
             "año": "2017",
             "kilómetros": "89000 km",
             "precio": 39999.0
+        },
+        {
+            "titulo": "BMW M2 M Performance",
+            "enlace": "https://es.wallapop.com/item/bmw-m2-1061723244",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "370 cv",
+            "año": "2017",
+            "kilómetros": "62500 km",
+            "precio": 39900.0
         },
         {
             "titulo": "BMW  M2 2016",
@@ -330,17 +330,6 @@
             "precio": 31000.0
         },
         {
-            "titulo": "BMW Serie 2 2015",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-2-2015-1083568779",
-            "descripcion": "Información por privado 639863117",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "326 cv",
-            "año": "2015",
-            "kilómetros": "125000 km",
-            "precio": 31000.0
-        },
-        {
             "titulo": "BMW Serie 240i B58 2016",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-m240i-1084072117",
             "descripcion": "-Doy toda la información por privado",
@@ -372,6 +361,17 @@
             "año": "2017",
             "kilómetros": "54000 km",
             "precio": 29600.0
+        },
+        {
+            "titulo": "BMW Serie 2 2015",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-2-2015-1083568779",
+            "descripcion": "Información por privado 639863117",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "326 cv",
+            "año": "2015",
+            "kilómetros": "125000 km",
+            "precio": 29500.0
         },
         {
             "titulo": "BMW Serie 2 2017",

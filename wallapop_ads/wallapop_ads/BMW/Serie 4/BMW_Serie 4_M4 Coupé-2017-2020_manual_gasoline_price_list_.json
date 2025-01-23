@@ -1,0 +1,69 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Serie 4",
+        "version": "M4 Coupé",
+        "año mínimo": "2017",
+        "año máximo": "2020",
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": "431",
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=431&min_year=2017&max_year=2020&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=BMW&model=Serie 4&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW 440i GC XDrive pack M 2018 ",
+            "enlace": "https://es.wallapop.com/item/bmw-440i-gc-xdrive-pack-m-2018-1091167719",
+            "descripcion": "Importado por mí en 2021, 326cv, 01/2018 55000km, Paquete M, Tracción total. En perfecto estado, revisiones al día (la última ésta semana), tengo el historial de Alemania con revisiones en BMW y aquí en taller de confianza con facturas. Un dueño en Alemania y yo (dispongo de copia de la documentación alemana). Color Santorini Blue del catálogo de BMW Individual. Acepto prueba mecánica. Tengo 2 llaves y la de plástico. Ahora mismo solo tiene el alerón trasero colocado, entrego también difusor trasero del performance en negro brillo. Equipamiento (lo paso completo por privado): • Pack M • Head up Display • Alerta de cambio de carril • Asientos eléctricos, con memoria y calefactables • PDC • Control de distancia con el vehículo precedente y frenado automático. • Sistema Comfort (entrada sin llave) • Bola de remolque eléctrica • Asientos de cuero • Apertura sin contacto del maletero • Luces largas automáticas Envío más fotos a interesados. No me interesan cambios.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "326 cv",
+            "año": "2018",
+            "kilómetros": "55000 km",
+            "precio": 36000.0
+        },
+        {
+            "titulo": "BMW M4 2019",
+            "enlace": "https://es.wallapop.com/item/bmw-m4-2019-1082761003",
+            "descripcion": "Vendo BMW M4 2019 450 CV 1 propietario Lo vendo porque necesito el dinero solo hablo por wattsapp o por llamada el número es 632597514",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "431 cv",
+            "año": "2019",
+            "kilómetros": "88632 km",
+            "precio": 32000.0
+        },
+        {
+            "titulo": "BMW 430i Gran Coupe MANUAL 252cv",
+            "enlace": "https://es.wallapop.com/item/bmw-430i-gran-coupe-manual-252cv-1080299357",
+            "descripcion": "BMW 430i Gran Coupe del 2017, MANUAL unico en españa en venta. Tiene todas las revisiones en BMW y la mas reciente fue en noviembre. Escucho ofertas",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "252 cv",
+            "año": "2017",
+            "kilómetros": "82000 km",
+            "precio": 32000.0
+        },
+        {
+            "titulo": "BMW Serie 4 2017",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-4-2017-723682222",
+            "descripcion": "BMW 420i coupé. 184 cv matriculado en septiembre de 2017 Manual, 6 velocidades Etiqueta ambiental C 70000 km Paquete luxury Asientos cuero Dakota y revestimiento madera nogal Asientos con reglaje eléctrico y memoria Llantas 18\" recién reparadas Neumáticos traseros cambiados a los 50000 km",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "184 cv",
+            "año": "2017",
+            "kilómetros": "70000 km",
+            "precio": 30000.0
+        }
+    ]
+}

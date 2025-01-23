@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 179,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=179&min_year=2015&max_year=2016&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=179&min_year=2015&max_year=2016&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -41,7 +41,7 @@
             "potencia": "150 cv",
             "año": "2015",
             "kilómetros": "134199 km",
-            "precio": 18200.0
+            "precio": 18190.0
         },
         {
             "titulo": "Audi A3 2015",
@@ -129,17 +129,6 @@
             "potencia": "116 cv",
             "año": "2016",
             "kilómetros": "97500 km",
-            "precio": 15500.0
-        },
-        {
-            "titulo": "Audi A3 2015",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2015-1041783681",
-            "descripcion": "- Distribucion recien hecha - 2 Ruedaa nuevas las otras dos al 70% -Bomba hidraulica recien cambiada - Dos juegos de llave El coche siempre duerme en garaje, esta al detalle. NO CAMBIOS Y GENTE SERIA Y REALMENTE INTERESADA",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "150 cv",
-            "año": "2015",
-            "kilómetros": "168000 km",
             "precio": 15500.0
         },
         {
@@ -364,7 +353,7 @@
         },
         {
             "titulo": "Audi A3 1.4 TFSI 150CV COD ultra Attraction",
-            "enlace": "https://es.wallapop.com/item/audi-a3-1-4-tfsi-150cv-cod-ultra-attraction-1078292825",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1-4-tfsi-150cv-cod-ultra-attraction-1078016973",
             "descripcion": "Precio al contado: 16.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 14.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Vigo 2, Av. de Madrid 183, 36214 Vigo. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilanova 1, Vilanova ...",
             "combustible": "Gasolina",
             "cambio": "Manual",
@@ -375,7 +364,7 @@
         },
         {
             "titulo": "Audi A3 1.4 TFSI 150CV COD ultra Attraction",
-            "enlace": "https://es.wallapop.com/item/audi-a3-1-4-tfsi-150cv-cod-ultra-attraction-1078016973",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1-4-tfsi-150cv-cod-ultra-attraction-1078292825",
             "descripcion": "Precio al contado: 16.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 14.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Vigo 2, Av. de Madrid 183, 36214 Vigo. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilanova 1, Vilanova ...",
             "combustible": "Gasolina",
             "cambio": "Manual",
@@ -460,6 +449,105 @@
             "año": "2015",
             "kilómetros": "130000 km",
             "precio": 12900.0
+        },
+        {
+            "titulo": "Audi A3 1.0 TFSI Sportback",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1-0-tfsi-sportback-1066183116",
+            "descripcion": "Precio al contado: 13.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 12.890€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Tenerife Sur, Ctra. General 81, . Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilanova 1, Vilanova 2. **...",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "115 cv",
+            "año": "2016",
+            "kilómetros": "84283 km",
+            "precio": 12890.0
+        },
+        {
+            "titulo": "Audi A3 1.0 TFSI Sportback",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1-0-tfsi-sportback-1066183118",
+            "descripcion": "Precio al contado: 13.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 12.890€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Tenerife Sur, Ctra. General 81, . Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilanova 1, Vilanova 2. **...",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "115 cv",
+            "año": "2016",
+            "kilómetros": "84283 km",
+            "precio": 12890.0
+        },
+        {
+            "titulo": "Audi A3 1.0 TFSI Sportback",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1-0-tfsi-sportback-1066183121",
+            "descripcion": "Precio al contado: 13.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 12.890€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Tenerife Sur, Ctra. General 81, . Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilanova 1, Vilanova 2. **...",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "115 cv",
+            "año": "2016",
+            "kilómetros": "84283 km",
+            "precio": 12890.0
+        },
+        {
+            "titulo": "Audi A3 1.0 TFSI Sportback",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1-0-tfsi-sportback-1066183117",
+            "descripcion": "Precio al contado: 13.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 12.890€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Tenerife Sur, Ctra. General 81, . Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilanova 1, Vilanova 2. **...",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "115 cv",
+            "año": "2016",
+            "kilómetros": "84283 km",
+            "precio": 12890.0
+        },
+        {
+            "titulo": "Audi A3 1.0 TFSI Sportback",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1-0-tfsi-sportback-1063804007",
+            "descripcion": "Precio al contado: 13.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 12.890€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Tenerife Sur, Ctra. General 81, . Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilanova 1, Vilanova 2. **...",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "115 cv",
+            "año": "2016",
+            "kilómetros": "84283 km",
+            "precio": 12890.0
+        },
+        {
+            "titulo": "Audi A3 2015",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2015-901661219",
+            "descripcion": "Coche en perfecto estado, muchos extras y muy cuidado. Más info por privado",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2015",
+            "kilómetros": "190000 km",
+            "precio": 12800.0
+        },
+        {
+            "titulo": "Audi A3 2016",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2016-1071011959",
+            "descripcion": "El Vehículo se encuentra en un buen estado. Motor y electrónica en perfecto estado.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "125 cv",
+            "año": "2016",
+            "kilómetros": "209000 km",
+            "precio": 12000.0
+        },
+        {
+            "titulo": "AUDI A3 1.2 TFSI+1 AÑO DE GARANTÍA ",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1-2-tfsi-1-ano-de-garantia-1062906150",
+            "descripcion": "HORARIO *LUNES A VIERNES 10:00 – 14:00 Y 16:00 – 20:00* *SÁBADOS 10:00 – 14:00* *ATENDEMOS CON CITA PREVIA PARA OFRECERTE EL MEJOR SERVICIO* PRUEBA TU COCHE DURANTE 15 DÍAS / 500 KM 12 MESES DE GARANTÍA EN MOTOR Y CAJA DE CAMBIOS INCLUIDA EN EL PRECIO *AMPLÍA TU GARANTÍA, LIBRE ELECCIÓN DE TALLER, COBERTURA NACIONAL Y HASTA 24 MESES DESDE 190€* FINANCIACIÓN SIN PAPELEO CON LOS MEJORES INTERESES DEL MERCADO DESDE 6.99 TIN AUDI A3 1.2 TFSI Ambiente ESTE VEHÍCULO SE ENTREGA REVISADO Y CON TODOS LOS MANTENIMIENTOS NECESARIOS REALIZADOS POR NOSOTROS 175.753 KILÓMETROS REALES Y DEMOSTRABLES ÚNICAMENTE 2 DUEÑOS MATRICULADO EL 13.03.2015 , GASOLINA, 5 Puertas, 110 CV, ETIQUETA C MEDIO AMBIENTAL AUDI A3 EN MUY BUEN ESTADO, ASIENTOS MIXTOS CON CUERO, ITV HASTA 06/2025, CONTROL DE VELOCIDAD, 6 VELOCIDADES, BLUETOOTH, SENSORES DE APARCAMIENTO, LUCES AUTOMÁTICAS, CLIMATIZADOR… *GASTOS DE GESTIÓN NO INCLUIDOS LLÁMANOS Y RESUELVE TODAS TUS DUDAS. *Este anuncio puede contener errores*",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "110 cv",
+            "año": "2015",
+            "kilómetros": "170000 km",
+            "precio": 11990.0
+        },
+        {
+            "titulo": "Audi A3",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2019-992191362",
+            "descripcion": "Coche impecable por fuera y por dentro, ITV recién pasada, correa de distribución y alternador cambiadas,ruedas nuevas, mantenimiento al día, motor 1.4 con 140CV. Negociable",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2015",
+            "kilómetros": "235000 km",
+            "precio": 11900.0
         }
     ]
 }

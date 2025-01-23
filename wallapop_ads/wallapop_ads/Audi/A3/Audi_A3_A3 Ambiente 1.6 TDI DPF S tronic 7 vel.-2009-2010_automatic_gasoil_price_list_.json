@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 105,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=105&min_year=2009&max_year=2010&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=105&min_year=2009&max_year=2010&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -86,6 +86,17 @@
             "año": "2010",
             "kilómetros": "285559 km",
             "precio": 7200.0
+        },
+        {
+            "titulo": "Audi A3 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1092827389",
+            "descripcion": "Vehiculo en muy buen estado como se ven en las fotos motor 1.6 tdi consume muy poco. techo panoramico volante multifuncion luces b zona paletas en volante 2 llaves bateria nueva hace 6 meses el coche se entrega revisado acepto prueba mecanica",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "105 cv",
+            "año": "2010",
+            "kilómetros": "208000 km",
+            "precio": 6990.0
         },
         {
             "titulo": "Audi A3 2010",

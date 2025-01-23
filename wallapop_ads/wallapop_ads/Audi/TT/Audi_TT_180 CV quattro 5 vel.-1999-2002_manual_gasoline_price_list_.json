@@ -1,0 +1,69 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "TT",
+        "version": "180 CV quattro 5 vel.",
+        "año mínimo": 1999,
+        "año máximo": 2002,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 179,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=179&min_year=1999&max_year=2002&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=TT&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi TT 2002",
+            "enlace": "https://es.wallapop.com/item/audi-tt-2002-1090981134",
+            "descripcion": "AUDI TT ROADSTER 1.8T 150CV. Contamos con una amplia experiencia en el sector. Con taller propio para las revisiones de nuestros vehículos y posterior entrega al cliente en perfecto estado. recogemos vehículos ( coches y motos) como parte de pago. Para más información tlambién contestamos whatsapp. O si lo prefiere visítenos en nuestras instalaciones c/ La Mar nº 33 Colindres ( Cantabria). Financiación total o parcial en cómodos plazos.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2002",
+            "kilómetros": "136000 km",
+            "precio": 9999.0
+        },
+        {
+            "titulo": "AUDI TT 1999",
+            "enlace": "https://es.wallapop.com/item/audi-tt-1999-1089461595",
+            "descripcion": "AUDI TT 1.8 180 CV Airbag frontal conductor Airbag frontal pasajero Airbags laterales delanteros (cabeza / tórax) Antibloqueo de frenos (ABS) Bloqueo electrónico del diferencial (EDS) Cinturones delanteros con tensores pirotécnicos Computadora de a bordo con Check Control (FIS) Control de estabilidad Control de tracción Direccion asistida Distribución electónica de la fuerza de frenado (EBV) Faros antiniebla Regulación de altura de faros Suspensión deportiva Tercera luz de freno Volante con ajuste horizontal Volante con ajuste vertical Aire acondicionado Elevalunas electricos delanteros Mando a distancia por ondas de radio GARANTIA MOTOR S.L EN BOADILLA DEL MONTE (MADRID) CONCERTAR CITA PARA VERLO NUESTROS PRECIOS ANUNCIADOS SON AL CONTADO E INCLUYEN TODOS LOS GASTOS(CAMBIO DE NOMBRE, GARANTIA, LIMPIEZA Y REVISION MECANICA ETC) GARANTIA 12 MESES INCLUIDA( MOTOR, CAMBIO, ELECTRICO,REFRIGERACION, DIRECCION, SUSPENSION....) Garantizamos los kilómetros por escrito. Garantizamos que el coche no ha sufrido golpes estructurales. Aceptamos su vehículo como parte de pago ESTUDIO DE FINANCIACION GRATUITO.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "1999",
+            "kilómetros": "210000 km",
+            "precio": 6900.0
+        },
+        {
+            "titulo": "Audi TT 2001",
+            "enlace": "https://es.wallapop.com/item/audi-tt-2001-1000655572",
+            "descripcion": "audi tt roadster negro con capota verde manual (así no se rompe el motor de la capota) con el embrague cambiado y distribución, etiqueta B, con la ITV recién pasada",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2001",
+            "kilómetros": "223000 km",
+            "precio": 5900.0
+        },
+        {
+            "titulo": "Audi TT 2001",
+            "enlace": "https://es.wallapop.com/item/audi-tt-2001-1049450460",
+            "descripcion": "vehículo en buen estado,, neumáticos con muy poco uso, revisión al día, ITV recién pasada sin defectos, cambio de nombre incluido.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2001",
+            "kilómetros": "239000 km",
+            "precio": 4999.0
+        }
+    ]
+}

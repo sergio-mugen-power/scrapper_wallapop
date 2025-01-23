@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 2",
         "version": "218i Active Tourer DCT",
-        "año mínimo": 2018,
-        "año máximo": 2019,
+        "año mínimo": "2018",
+        "año máximo": "2019",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "automatic",
         "tipos de motor": "gasoline",
-        "potencia máxima": 140,
+        "potencia máxima": "140",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=140&min_year=2018&max_year=2019&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -46,7 +46,7 @@
         {
             "titulo": "BMW Serie 2 218i",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-218i-1071688256",
-            "descripcion": "",
+            "descripcion": "Tu nuevo coche te está esperando en MUNDICARS. Elige tu cuota y financia en 15 minutos. ¡Llámanos o ven a conocernos! + DE 300 COCHES EN STOCK - Pide cita y ven a probarlo - Déjanos tu coche como parte de pago - Financiación 100% - Todos nuestro vehículos se entregan revisados y con garantía de 1 año. (Vehículos comerciales 6 meses) - Nuestro horario es de L-V: 10:00 a 20:00 Sábados : 10:30 a 14:00 Compra online o llámanos. Tiendas: 1- Blanes: Ctra. Accés Costa Brava, 190, 17300, Girona (17300) 2- Sabadell: Carretera Barcelona 473-B. (08203) 3- Granollers: Avenida Marie Curie 2 (08402) 4- Vilanova y la Geltrú: Avda. Eduard Toldrà, 107 (08800). 5- Barcelona: (Próximamente) Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual.",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "136 cv",
@@ -97,17 +97,6 @@
             "año": "2019",
             "kilómetros": "100000 km",
             "precio": 24990.0
-        },
-        {
-            "titulo": "BMW Serie 2 1.5 136CV Autom.",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-2-1-5-136cv-automatico-959953864",
-            "descripcion": "Acabado Autom.. Disponible también en los colores Black Saphire. También en Península y Baleares. Este anuncio es meramente informativo, no es vinculante ni contractual. Consulta a nuestros comerciales. Más de 2000 coches en stock permanente, visítenos en ClickAutos.",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "136 cv",
-            "año": "2019",
-            "kilómetros": "78447 km",
-            "precio": 24700.0
         },
         {
             "titulo": "BMW Serie 2 automático",
@@ -429,17 +418,6 @@
             "precio": 21355.0
         },
         {
-            "titulo": "BMW Serie 2 2019",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-2-218i-140cv-grand-tourer-2019-automatc-1055759181",
-            "descripcion": "",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "140 cv",
-            "año": "2019",
-            "kilómetros": "123000 km",
-            "precio": 18950.0
-        },
-        {
             "titulo": "BMW Serie ",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1074513609",
             "descripcion": "Bmw 218i Año 2018 dueño particular 149.000 kms Historial de mantenimiento BMW -Paquete M interior y exterior -Volante multifunción en cuero M -Control de crucero -Asientos en cuero deportivos calefactables -Espejo antideslumbramiento -Espejos eléctricos -Sensor de luces y lluvia -Sensor de aparcamiento delantero y trasero -Gps -Luces full led -Climatizador bizona -Llantas de aluminio -Isofix -Etiqueta de contaminación B Precio: 18.999€ garantía un año a nivel nacional Si quiere financiar consultar con el comercial El texto puedo contener errores, mejor consultar con el comercial Gastos de transferencia 200€ Atendemos días festivos con cita previa Atendemos en horario comercial, pero mejor con cita previa",
@@ -460,6 +438,17 @@
             "año": "2019",
             "kilómetros": "71317 km",
             "precio": 17728.0
+        },
+        {
+            "titulo": "BMW Serie 2 2018",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-2-2018-1060277559",
+            "descripcion": "Vehículo de particular en perfecto estado. Poco uso. Todas las revisiones hechas en la casa BMW. Guardado siempre en garaje. Revisiones gratis 3 años.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2018",
+            "kilómetros": "70757 km",
+            "precio": 16500.0
         }
     ]
 }

@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 2",
         "version": "230i Coupé",
-        "año mínimo": 2022,
-        "año máximo": 2024,
+        "año mínimo": "2022",
+        "año máximo": "2024",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "automatic",
         "tipos de motor": "gasoline",
-        "potencia máxima": 245,
+        "potencia máxima": "245",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=245&min_year=2022&max_year=2024&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -299,7 +299,7 @@
         {
             "titulo": "BMW Serie 2 2022",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-2022-1089131104",
-            "descripcion": "",
+            "descripcion": "Buenas soy Pedro Cárdenas, ¿te interesa? Si es asi me encontraras Avenida Cabrera Nº 36 Bajo la torre d'ara en Mataró. puedes contactarme sin compromiso al 664 07 08 26. Somos Grupo Movento, lideres en movilidad privada con mas de 700 coches de stock y 45 concesiones oficiales de 16 marcas distintas. El coche se entrega revisado a fondo en nuestros talleres oficiales, garantia de 1 año ampliable a 3 años, posibilidad de financiar el 100% del coche, gastos de gestoria no incluidos, podemos tasar tu coche actual para ofrecerlo como entrada, y podemos llevarte el coche a domicilio, expertos en ventas 100% Online. Puedes consultarme por las condiciones sin compromiso. PVP Contado 35.990€ Financiado desde 481€ en 120 cuotas.",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "184 cv",
@@ -320,23 +320,12 @@
         },
         {
             "titulo": "BMW Serie 2 218i Active Tourer 100 kW (136 CV)",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-2-218i-active-tourer-100-kw-136-cv-1080029751",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-2-218i-active-tourer-100-kw-136-cv-1080029754",
             "descripcion": "",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "136 cv",
             "año": "2024",
-            "kilómetros": "12845 km",
-            "precio": 35490.0
-        },
-        {
-            "titulo": "BMW Serie 2 218i Active Tourer 100 kW (136 CV)",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-2-218i-active-tourer-100-kw-136-cv-1080029749",
-            "descripcion": "",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "136 cv",
-            "año": "2023",
             "kilómetros": "12000 km",
             "precio": 35490.0
         },
@@ -353,13 +342,24 @@
         },
         {
             "titulo": "BMW Serie 2 218i Active Tourer 100 kW (136 CV)",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-2-218i-active-tourer-100-kw-136-cv-1080029754",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-2-218i-active-tourer-100-kw-136-cv-1080029749",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2023",
+            "kilómetros": "12000 km",
+            "precio": 35490.0
+        },
+        {
+            "titulo": "BMW Serie 2 218i Active Tourer 100 kW (136 CV)",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-2-218i-active-tourer-100-kw-136-cv-1080029751",
             "descripcion": "",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "136 cv",
             "año": "2024",
-            "kilómetros": "12000 km",
+            "kilómetros": "12845 km",
             "precio": 35490.0
         },
         {

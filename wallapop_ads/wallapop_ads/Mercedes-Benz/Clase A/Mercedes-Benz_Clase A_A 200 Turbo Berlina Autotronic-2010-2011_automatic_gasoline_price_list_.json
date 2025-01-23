@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase A",
+        "version": "A 200 Turbo Berlina Autotronic",
+        "año mínimo": "2010",
+        "año máximo": "2011",
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 193,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=193&min_year=2010&max_year=2011&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Mercedes-Benz&model=Clase A&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase A 2011",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2011-1059903125",
+            "descripcion": "Mercedes A160 gris oscuro nuevo . ( solo interesados ) Año 2011 Km 95.500 Gasolina cilindrada 95 caballos 1400 de motor Cambio Automático Peso 1740kg Todo en regla última ITV pasada el 23/02/2024 Negociable",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "95 cv",
+            "año": "2011",
+            "kilómetros": "95500 km",
+            "precio": 9500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2010",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2010-1060099246",
+            "descripcion": "Se ENTREGA CON GARANTIA Automoviles antonio y juan manuel, su compra venta de confianza! CLASE A 160 etiqueta mediambiemtal C Equipacion: -Asientos en tela -direccion asistida -elevalunas electricos -cierre centralizado -radio cd -airbag -aire acondicionado Posibilidad de recoger su coche. financiacion a su medida Estamos en santiago de compostela ¡¡automoviles antonio y juan manue!.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "95 cv",
+            "año": "2010",
+            "kilómetros": "175000 km",
+            "precio": 4999.0
+        }
+    ]
+}

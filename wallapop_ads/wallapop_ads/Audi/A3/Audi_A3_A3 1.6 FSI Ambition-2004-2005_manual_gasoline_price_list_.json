@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 116,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=116&min_year=2004&max_year=2005&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=116&min_year=2004&max_year=2005&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -66,17 +66,6 @@
             "precio": 6990.0
         },
         {
-            "titulo": "Audi A3 1.6 Ambiente 3P",
-            "enlace": "https://es.wallapop.com/item/audi-a3-1-6-ambiente-3p-1081330346",
-            "descripcion": "AUTOS COLOMER S.L - Desde 1969 -Solicita cita previa, ven a verlo y probarlo. -AUDI A3 1.6 Ambiente 3P -Tan solo 78.000 km -Junio 2004 -Dispone del distintivo ambiental B -102 cv Kit de distribución hecho en Julio 2019 con 67.000km -El precio de este vehículo incluye cambio de nombre, revisión completa, garantía de seis meses de motor y caja de cambios, se entrega con ITV vigente, los precios no son negociables. -Se encuentra en perfectas condiciones de motor, interiores y de pintura. -Aceptamos su vehículo como forma de pago. Tráigalo sin compromiso y se lo valoramos. -Equipamiento: -Mandos en el volante, 3 puertas, 5 plazas, 5 velocidades, Aire acondicionado, Sistema de altavoces, Radio, Sistema 12V, Interiores a juego, Elevalunas eléctricos, Llantas, Isofix, Todos sus libros, Todos los extras básicos… -Elige la cuota que mejor se adapte y financia sin necesidad de entrada. Precio: 6.900 € -36 meses 244€ al mes -48 meses 194€ al mes -60 meses 164€ al mes -72 meses 145€ al mes -84 meses 131€ al mes -96 meses 121€ al mes",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "102 cv",
-            "año": "2004",
-            "kilómetros": "78000 km",
-            "precio": 6900.0
-        },
-        {
             "titulo": "Audi A3 2004",
             "enlace": "https://es.wallapop.com/item/audi-a3-2004-1090572973",
             "descripcion": "Audi a3 con sonda nox, embrague recién cambiados. mantenimiento al día. Tapizado hace menos de 1 mes. Motor por cadena. ITV hasta noviembre 2025 Coche de no fumadores ***etiqueta medioambiental B***",
@@ -121,17 +110,6 @@
             "precio": 5500.0
         },
         {
-            "titulo": "Audi A3 2005",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2005-1072471590",
-            "descripcion": "Audi A3 Coche en perfecto estado. Cuenta con el acabado S-line interior, tanto asientos de piel coml pedales deportivos. 160.000 Km Ruedas en buen estado. Motor de cadena. Se entrega con las dos llaves originales, y cambio de aceite y filtros acreditado con facturas.",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "115 cv",
-            "año": "2005",
-            "kilómetros": "160000 km",
-            "precio": 5200.0
-        },
-        {
             "titulo": "A3 8P 1.6 FSI 115cv año 2005 211.000km",
             "enlace": "https://es.wallapop.com/item/a3-8p-1-6-fsi-115cv-ano-2005-210-000km-1081746094",
             "descripcion": "Hola, muy buenas. Vendo el coche de las imágenes por no darle apenas uso en los últimos meses. Mantenimiento (filtros y aceite) hecho en abril. ITV pasada en mayo. Distribución por cadena. Neumáticos, discos y pastillas en buen estado. De exterior en buen estado con bollitos en capo y techo debido a una granizada. Interior en buen estado tal y como se puede ver en las imágenes. EE, CC, climatizador bizona, techo solar... Mejor ver y probar. Transferencia incluida en el precio. Precio negociable. Cualquier duda preguntar. Un saludo y gracias.",
@@ -143,17 +121,6 @@
             "precio": 4800.0
         },
         {
-            "titulo": "Audi A3 2004",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2004-1087171812",
-            "descripcion": "vehiculo muy cuidado, interior y exterior en buen estado, siempre en garaje, todas las revisiones al dia, itv recien pasadA, ruedas nuevas,",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "102 cv",
-            "año": "2004",
-            "kilómetros": "209000 km",
-            "precio": 4700.0
-        },
-        {
             "titulo": "Audi A3 Sportback 1.6 Ambiente",
             "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-6-ambiente-1080503452",
             "descripcion": "ENVIOS A TODA ESPANA NACIONAL MUY BIEN CONSERVADO POSIBILIDAD DE FINANCIAR ACEPTAMOS VEHICULO COMO PARTE DE PAGO UN SOLO PROPIETARIO NO FUMADOR MEJOR VER LLAME A NUESTROS PROFESIONALES Y SOLICITE UNA PRUEBA Kilometros certificados. Posibilidad de entrega del vehiculo en cualquier punto del pais. Este anuncio no es vinculante, puede contener errores. Se muestra a titulo informativo y no contractual. Para mas informacion consultar con el concesionario. Estamos en calle Formacion Nº2 ,Edificio Via 21 ,Pol. Industrial Guadalquivir,41120 Gelves (SEVILLA). Horario de lunes a viernes de 9:00 h a 14:00 h y de 16:30 a 20:00 h. Sabados de 10:30 a 13:30. ...",
@@ -162,6 +129,17 @@
             "potencia": "102 cv",
             "año": "2005",
             "kilómetros": "250000 km",
+            "precio": 4500.0
+        },
+        {
+            "titulo": "Audi A3 2004",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2004-1087171812",
+            "descripcion": "vehiculo muy cuidado, interior y exterior en buen estado, siempre en garaje, todas las revisiones al dia, itv recien pasadA, ruedas nuevas,",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "102 cv",
+            "año": "2004",
+            "kilómetros": "209000 km",
             "precio": 4500.0
         },
         {
@@ -211,7 +189,7 @@
         {
             "titulo": "Vendo audi A3 2004 FSI 1.6 115 CV",
             "enlace": "https://es.wallapop.com/item/vendo-audi-a3-2004-fsi-1-6-115-cv-1091422065",
-            "descripcion": "Vendo audi A3 en buen estado, tiene la bomba de gasolina y el regulador nuevos, batería, bobinas y bujías nuevas, techo retapizado, filtro de gasolina, aceite y aire cambiados, aun tienen 5000km más de uso, todo demostrable con facturas. ITV pasada hasta el 2026. Pneumaticos al 60%. Tiene un fallo motor por la EGR y el caudalimetro. Viene con rueda de repuesto y todo el kit, con gato y equipamiento, para cambiarla.",
+            "descripcion": "Vendo audi A3 en buen estado, tiene la bomba de gasolina y el regulador nuevos, batería, bobinas y bujías nuevas, techo retapizado, filtro de gasolina, aceite y aire cambiados, aun tienen 5000km más de uso, todo demostrable con facturas. ITV pasada hasta el 2026. Pneumaticos al 60%. Tiene un fallo motor por la EGR y el caudalimetro, pero funciona perfectamente y lo uso diariamente sin problema. Viene con rueda de repuesto y todo el kit, con gato y equipamiento, para cambiarla.",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "115 cv",
@@ -288,7 +266,7 @@
         {
             "titulo": "Audi A3 ",
             "enlace": "https://es.wallapop.com/item/audi-a3-1088950330",
-            "descripcion": "✹ Audi A3 1.6 Gasolina 100 CV atmosférico. Sencillo, fiable, robusto y económico. ⤞Muy cómodo y fácil de conducir. ⤞Vehículo que ha estado en garaje, Pintura en bastante buen estado a pesar de los años. ⤞ITV para todo el año. ⤞Mantenimiento y correa de distribución al día con factura. ⤞Radio Alpine con CD, USB y bluetooth, Climatizador bizona, retrovisores y elevalunas automáticos,todos los extras.. 📞667 58 46 05",
+            "descripcion": "✹ Audi A3 1.6 Gasolina 100 CV atmosférico. Sencillo, fiable, robusto y económico. ⤞Muy cómodo y fácil de conducir. ⤞Vehículo que ha estado en garaje, Pintura en bastante buen estado a pesar de los años. ⤞Neumáticos en buen estado ⤞ITV para todo el año. ⤞Mantenimiento y correa de distribución al día con factura. ⤞Radio Alpine con CD, USB y bluetooth, Climatizador bizona, retrovisores y elevalunas automáticos,todos los extras.. 📞667 58 46 05",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "102 cv",
@@ -317,6 +295,17 @@
             "año": "2004",
             "kilómetros": "230000 km",
             "precio": 2990.0
+        },
+        {
+            "titulo": "Audi A3 2004",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2004-1092360450",
+            "descripcion": "Audi A3 1.600 FSI ,con pegatina medioambiental B,Gasolina,faros de xenón,con mantenimientos recien echo de aceite ,filtros,bateria.Llantas de 17”,ruedas en uso aún,ITV hasta Junio 2025,2 juegas de llaves,gente seria,gracias!",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "115 cv",
+            "año": "2004",
+            "kilómetros": "249000 km",
+            "precio": 2900.0
         },
         {
             "titulo": "Audi A3 2004",
@@ -352,6 +341,17 @@
             "precio": 2800.0
         },
         {
+            "titulo": "Audi A3 2004",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2004-1092770127",
+            "descripcion": "Se vende Audi A3 gasolina 1.6 manual 3 puertas dos llaves aire acondicionado cierre centralizado elevalunas electrónicas etc buen estado general etiqueta medioambiental B mas información TLF",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "102 cv",
+            "año": "2004",
+            "kilómetros": "255000 km",
+            "precio": 2500.0
+        },
+        {
             "titulo": "Audi A3 sportback 2005",
             "enlace": "https://es.wallapop.com/item/audi-a3-sportback-2005-1084489511",
             "descripcion": "Vendo por cambio de coche. ITV pasada hasta septiembre de 2025. Tiene una alarma de motor y un lateral tocada la chapa.",
@@ -361,6 +361,17 @@
             "año": "2005",
             "kilómetros": "215000 km",
             "precio": 2500.0
+        },
+        {
+            "titulo": "Audi A3 2004",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2004-1092636359",
+            "descripcion": "*no negociable* el coche funciona perfectamente,hay que hacerle cosas esteticas el aire acondicionado no funciona mejor venir y probar con pegatina B",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "115 cv",
+            "año": "2004",
+            "kilómetros": "300000 km",
+            "precio": 2200.0
         },
         {
             "titulo": "Audi A3 2004",
@@ -405,17 +416,6 @@
             "año": "2004",
             "kilómetros": "300000 km",
             "precio": 1900.0
-        },
-        {
-            "titulo": "Audi A3 2004",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2004-1089660788",
-            "descripcion": "Se vende Audi a3 gasolina etiqueta B con avería en la caja de cambios,por lo demás está bien más información tlf precio no negociable",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "102 cv",
-            "año": "2004",
-            "kilómetros": "255000 km",
-            "precio": 1650.0
         },
         {
             "titulo": "Audi A3 2004",

@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 110,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=110&min_year=2003&max_year=2006&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=110&min_year=2003&max_year=2006&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=manual&brand=Audi&model=A2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -57,7 +57,7 @@
         {
             "titulo": "Audi A2 2003",
             "enlace": "https://es.wallapop.com/item/audi-a2-2003-1086829615",
-            "descripcion": "SE VENDE Audi a2 Motor 1.4 i (gasolina) 75 CV 159.000 kms Año 2003 5 plazas 5 puertas Manual 5 velocidades Tiene elevalunas eléctricos, climatizador, cierre centralizado, espejos eléctricos, bloqueo puertas, ordenador abordo, etc… Muy buen estado general, mantenimiento al día. ¡Vehículo en Pamplona, se puede ver y probar sin compromiso! Disponibilidad de lunes a domingo, recogemos su vehículo como parte de pago. Atendemos WhatsApp",
+            "descripcion": "",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "75 cv",
@@ -75,17 +75,6 @@
             "año": "2003",
             "kilómetros": "192150 km",
             "precio": 3200.0
-        },
-        {
-            "titulo": "Audi A2 1.4 75cv 2004",
-            "enlace": "https://es.wallapop.com/item/audi-a2-1-4-75cv-2004-1091848972",
-            "descripcion": "Buen estado general, chasis de aluminio peso de 900kg,un coche ágil pequeño utilitario y con buena altura del suelo válido para caminos y ciudad,ITV hasta finales de año, ruedas en buen estado,una de las pocas unidades de 5 plazas.",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "75 cv",
-            "año": "2004",
-            "kilómetros": "299000 km",
-            "precio": 1800.0
         }
     ]
 }

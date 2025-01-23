@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 1",
         "version": "130i 5p",
-        "año mínimo": 2010,
-        "año máximo": 2011,
+        "año mínimo": "2010",
+        "año máximo": "2011",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "manual",
         "tipos de motor": "gasoline",
-        "potencia máxima": 258,
+        "potencia máxima": "258",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=258&min_year=2010&max_year=2011&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=BMW&model=Serie 1&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -121,17 +121,6 @@
             "precio": 11500.0
         },
         {
-            "titulo": "BMW Serie 1 2011",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2011-1072699753",
-            "descripcion": "Precioso Bmw 116 i, con 152402Kms, listo para disfrutarlo. Se entrega con garantia de 1 Año y mantenimiento hecho.Muy equipado: Faros Xenon, Climatizador bizona, asientos calefactables de tela cuero, 3 modos conducción, etc. 10.590€Iva Incluido.Consulta sin compromiso!",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "136 cv",
-            "año": "2011",
-            "kilómetros": "152402 km",
-            "precio": 10590.0
-        },
-        {
             "titulo": "BMW Serie 1 2010",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1-2010-1087820968",
             "descripcion": "Bmw 118i descapotable con 143cv. El coche se encuentra en unas condiciones excepcionales, tanto de pintura como interior. La capota funciona genial, asientos calefactables, cuero perfecto, todo funciona. Se le acaba de hacer una revisión completa y con itv en vigor. Listo para disfrutar.",
@@ -141,6 +130,17 @@
             "año": "2010",
             "kilómetros": "162000 km",
             "precio": 10500.0
+        },
+        {
+            "titulo": "BMW Serie 1 2011",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2011-1072699753",
+            "descripcion": "Precioso Bmw 116 i, con 152402Kms, listo para disfrutarlo. Se entrega con garantia de 1 Año y mantenimiento hecho.Muy equipado: Faros Xenon, Climatizador bizona, asientos calefactables de tela cuero, 3 modos conducción, etc. 10.490€Iva Incluido.Consulta sin compromiso!",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "136 cv",
+            "año": "2011",
+            "kilómetros": "152402 km",
+            "precio": 10490.0
         },
         {
             "titulo": "BMW Serie 1 2010",

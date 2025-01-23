@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 1",
         "version": "120i Aut.",
-        "año mínimo": 2021,
-        "año máximo": 2024,
+        "año mínimo": "2021",
+        "año máximo": "2024",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "automatic",
         "tipos de motor": "gasoline",
-        "potencia máxima": 178,
+        "potencia máxima": "178",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=178&min_year=2021&max_year=2024&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 1&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -275,17 +275,6 @@
             "precio": 31082.0
         },
         {
-            "titulo": "BMW Serie 1 118i 103 kW (140 CV)",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-118i-103-kw-140-cv-1086637511",
-            "descripcion": "GRUPO CANAAUTO - Concesionarios Oficiales de tus marcas preferidas BMW, MINI, Jaguar, Land Rover y MG. Descubre la seleccion de vehiculos seminuevos con garantia oficial de la marca. Ven y prueba tu coche sin compromiso en cualquiera de nuestras exposiciones. Encuentranos en: Tenerife - C. las Industrias 12, Taco, la Laguna - Av. Claudio Delgado Diaz, 55, Las Chafiras - Autopista TF5 Norte, Km 33, 38300 Orotava Las Palmas de Gran Canaria - C. Diego Vega Sarmiento, 60-B, 35014 Las Palmas - C. Diego Vega Sarmiento, 20, 35014 Las Palmas Precio Especial de Contado “Aprovecha la oportunidad de obtener un descuento adicional con nuestras opciones de financiacion personalizadas.” Nos enorgullecemos de servir a todas las Islas Canarias. No realizamos ventas ni envios a la Peninsula. Explora Nuestro Stock en TuKm0.com, especialistas en vehiculos premium de marcas lideres como BMW, MINI, JAGUAR, LAND ROVER y MG. Visita nuestro catalogo completo y encuentra tu proximo coche de ensueno. ¿Solo quieres el vehiculo sobre un tempo limitado? Pregunta por nuestras suscripciones de 1 a 12 meses en www.masmotor.es ¡Compramos tu coche! Obten una valoracion de tu coche en nuestras instalaciones o web, te lo compramos al momento o lo puedes entregar como parte de pago de tu nuevo coche. Las fotos del vehiculo y caracteristicas son totalmente reales del vehiculo, salvo \"error tipografico o de transcripcion\" “Para conocer las condiciones de precios financiados, consulta con nuestro equipo de ventas, quienes te proporcionaran toda la informacion detallada sobre las opciones de financiacion disponibles.” ***EQUIPAMIENTO OPCIONAL INCLUIDO*** - Sintonizador DAB - Connected Package Professional - BMW Live Cockpit Professional - Suspension deportiva M - Volante M de cuero - Paquete aerodinamico M - Shadow Line de brillo intenso BMW Individual - Guarnecido interior del techo BMW Individual antracita - Acabado M Sport - 18\", llantas de aleacion ligera M de radi...",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "140 cv",
-            "año": "2024",
-            "kilómetros": "11403 km",
-            "precio": 30900.0
-        },
-        {
             "titulo": "BMW Serie 1 2023",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1-2023-1015040614",
             "descripcion": "BMW Serie 1 118i, completamente nuevo, del 2023 140cv con asientos de alcántara semibaquets, con extras alerón de serie, pack M garantía hasta 2026. Para más información contactar. Única propietaria",
@@ -454,6 +443,17 @@
             "titulo": "BMW Serie 1 120i 131 kW (178 CV)",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1-120i-131-kw-178-cv-1069082260",
             "descripcion": "Precio oferta sujeto a financiación: 29955 EUR. Precio al contado: 32950 EUR. *CAL* GRAN LIQUIDACIÓN FINAL DE AÑO EN OCASIONPLUS REVENTAMOS LOS PRECIOS SÓLO HASTA EL 28 DE DICIEMBRE OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 2995€ de descuento en este coche Precio oferta financiado: 29955€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 32950€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Paquete M, Car Play, Navegador, Cámara de marcha atrás, Asientos calefactables, Asientos deportivos, Suspensión deportiva, Ayuda aparcamiento, Asistente de cambio de carril, Asistente de mantenimiento de carril, Encendido automático de faros, Faros delanteros led, Faros traseros led, Sensor de lluvia, Control de velocidad, Limitador de velocidad, Start/Stop automático, Aire Acondicionado (Climatizador), Volante multifunción, Bluetooth, Arranque por botón, Isofix, Llantas de aleación (18\"). - Coche Nacional, IVA deducible. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "178 cv",
+            "año": "2023",
+            "kilómetros": "31678 km",
+            "precio": 29955.0
+        },
+        {
+            "titulo": "BMW Serie 1 120i 131 kW (178 CV)",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-1-120i-131-kw-178-cv-1068444674",
+            "descripcion": "Precio oferta sujeto a financiación: 29955 EUR. Precio al contado: 32950 EUR. *CAL* LLEGA LA REVOLUPLUS A OCASIONPLUS LA REVOLUCIÓN DE LOS PRECIOS BAJOS SÓLO ESTA SEMANA, ENCUENTRA TU DESCUENTO DE HASTA 8000€ OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 2995€ de descuento en este coche Precio oferta financiado: 29955€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 32950€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Paquete M, Car Play, Navegador, Cámara de marcha atrás, Asientos calefactables, Asientos deportivos, Suspensión deportiva, Ayuda aparcamiento, Asistente de cambio de carril, Asistente de mantenimiento de carril, Encendido automático de faros, Faros delanteros led, Faros traseros led, Sensor de lluvia, Control de velocidad, Limitador de velocidad, Start/Stop automático, Aire Acondicionado (Climatizador), Volante multifunción, Bluetooth, Arranque por botón, Isofix, Llantas de aleación (18\"). - Coche Nacional, IVA deducible. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "178 cv",

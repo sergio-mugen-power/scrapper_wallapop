@@ -1,0 +1,80 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Serie 5",
+        "version": "528iA",
+        "año mínimo": "2000",
+        "año máximo": "2000",
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": "193",
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=193&min_year=2000&max_year=2000&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW Serie 5 2000",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-2003-1055679587",
+            "descripcion": "BMW 528 automatico en perfectas condiciones etiqueta b",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "193 cv",
+            "año": "2000",
+            "kilómetros": "223000 km",
+            "precio": 4400.0
+        },
+        {
+            "titulo": "BMW Serie 5 2000",
+            "enlace": "https://es.wallapop.com/item/bmw-523i-1070716214",
+            "descripcion": "ITV recién pasada, Noviembre Vehículo en buen estado general, funciona a la perfección. Motor 2.5 gasolina atmosférico Cambio automático No hago cambios Precio negociable",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2000",
+            "kilómetros": "180000 km",
+            "precio": 4200.0
+        },
+        {
+            "titulo": "BMW Serie 5 2000",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-2000-1057562474",
+            "descripcion": "Se vende BMW E39 528i Automático Pre con faros delanteros de Post (fallo en el cuadro de luz de cruce pero todo operativo) Se entregan faros de serie El coche se encuentra en Logroño la Rioja 148.476 Kilómetros Soy el segundo propietario Tiene rehecho el vanos, caudalímetro nuevo, bujías y sondas lambda nuevas, mantenimiento de la caja de cambios, todo esto recien hecho hace 1 año en Mediavilla Motorsport Logroño Suspensión trasera cambiada a muelles (era neumática autonivelante) Se entregan suspensiones neumáticas con su compresor de serie por si se quiere reparar...pero mejor trabaja un muelle que una balona neumática. Se aceptan cambios por furgoneta grande",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "193 cv",
+            "año": "2000",
+            "kilómetros": "148476 km",
+            "precio": 3250.0
+        },
+        {
+            "titulo": "BMW Serie 523i ACCEPTO COCHE COMO PARTE DE PAGO ",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-523i-accepto-coche-como-parte-de-pago-1092256614",
+            "descripcion": "*Volante A La Derecha* *MATRÍCULA ESPAÑOL* BMW 523i AÑO 2000 ITV 1 AÑO ( 2026 ) AUTOMÁTICO 2.3 GASOLINA RECIEN PINTADO ENTERO NAVEGADOR INTERIOR PIEL VOLANTE MULTIFUNCIONAL FAROS XENON ALERON M5 LLANTAS ALUMINIO GOMAS 90/100 ELEVALUNAS ELÉCTRICAS FULL EQUIPO FULL ELECTRIC IMPECABLE Y AL DIA PRECIO 2800€",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2000",
+            "kilómetros": "216000 km",
+            "precio": 2800.0
+        },
+        {
+            "titulo": "BMW Serie 5 2000",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-1996-1061484538",
+            "descripcion": "Coche andando a la perfeccion. Con itv hasta Marzo 2025. Con algunas imperfecciones en chapa por los años. Mejor ver y probar. Precio negociable.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2000",
+            "kilómetros": "206000 km",
+            "precio": 2500.0
+        }
+    ]
+}

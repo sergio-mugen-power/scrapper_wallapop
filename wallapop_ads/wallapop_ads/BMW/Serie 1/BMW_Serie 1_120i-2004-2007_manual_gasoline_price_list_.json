@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 1",
         "version": "120i",
-        "año mínimo": 2004,
-        "año máximo": 2007,
+        "año mínimo": "2004",
+        "año máximo": "2007",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "manual",
         "tipos de motor": "gasoline",
-        "potencia máxima": 150,
+        "potencia máxima": "150",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=150&min_year=2004&max_year=2007&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=BMW&model=Serie 1&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -141,17 +141,6 @@
             "año": "2005",
             "kilómetros": "139000 km",
             "precio": 7600.0
-        },
-        {
-            "titulo": "BMW Serie 1 2007",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2007-1088476642",
-            "descripcion": "Vendo coche importado de Alemania Vendo coche recientemente traído de Alemania. Actualmente está con placas temporales alemanas, y esta en tramite matriculacion en España Características: • Estado: bueno • Interior: de cuero • Transmisión: manual • Aire acondicionado El coche se venderá una vez que se complete la matriculación española. Lo compré temporalmente mientras esperaba la compensación por mi coche siniestrado por DANA. Como ya he recibido la compensación, lo vendo para comprar otro vehículo. ¡Si tienes preguntas o estás interesado, no dudes en contactarme!",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "116 cv",
-            "año": "2007",
-            "kilómetros": "149000 km",
-            "precio": 7500.0
         },
         {
             "titulo": "BMW Serie 1 E87 116i 2007",
@@ -297,6 +286,17 @@
             "precio": 6600.0
         },
         {
+            "titulo": "BMW Serie 1 2007",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2007-1088476642",
+            "descripcion": "Coche en venta, recientemente importado de Alemania Vendo un coche recién importado de Alemania. Actualmente tiene placas provisionales alemanas, y está en proceso de matriculación en España, estoy a la espera de las placas provisionales para que en cuanto me den cita hacer una itv. Características: - Estado: bueno - Interior: cuero - Transmisión: manual - Aire acondicionado Puedo vender el coche antes de la matriculación y usted será el propietario de este coche inmediatamente. Por eso estoy bajando el precio. Lo compré temporalmente mientras esperaba la indemnización por el coche dañado por la DANA. Como ya he recibido la indemnización, lo vendo para comprar otro coche. Si tiene alguna pregunta o está interesado, ¡no dude en ponerse en contacto conmigo",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "116 cv",
+            "año": "2007",
+            "kilómetros": "149000 km",
+            "precio": 6500.0
+        },
+        {
             "titulo": "BMW Serie 1 2006",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1-2006-1084291080",
             "descripcion": "Coche en muy buen estado, revisiones al día. Etiqueta C. Precio negociable.",
@@ -385,6 +385,17 @@
             "precio": 6190.0
         },
         {
+            "titulo": "BMW Serie 1 2004",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2004-1092586071",
+            "descripcion": "bmw serie 1 116i 193000 km se entrega con llantas pack m en 17” y las originales en 16” tambien se entregan parrillas originales coche muy cuidado tanto por fuera como por dentro cambio de aceite hace menos de 1000km se entregaria transferido ya tiene detalles por hacer( en el interior) escucho ofertas y cambios de mi interes",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "116 cv",
+            "año": "2004",
+            "kilómetros": "193000 km",
+            "precio": 6000.0
+        },
+        {
             "titulo": "BMW Serie 1 2006",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1-2006-1064632729",
             "descripcion": "Espectacular Bmw 116i 115CV. Interior y exterior como nuevo. Un solo propietario. Se entrega con toda la documentación en regla. Precio transferido y 12 meses de GARANTIA. Puedes venir a verlo y probarlo sin compromiso. Se recoge vehículo como parte de pago. Lo entregamos totalmente revisado. Estamos en Calle Santa Elena S/N, 41900 Camas, Sevilla. Horario: Lunes a Viernes 09:00-14:00 / 17:00-20:00. Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual.",
@@ -448,17 +459,6 @@
             "potencia": "143 cv",
             "año": "2007",
             "kilómetros": "248000 km",
-            "precio": 6000.0
-        },
-        {
-            "titulo": "BMW Serie 1 2005",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2005-1027568696",
-            "descripcion": "Bmw serie 1 del año 2005, 150 cv motor 2000 gasolina, con todas las revisiones al dia y todo los papeleos, itv recién pasada , 4 ruedas puestas nuevas con apenas 1000 km , el coche esta tal como se ve en fotos y de motor perfecto aceptando pruebas mecanicas si hace falta, recién todos los niveles ,carga de aire , preguntar sin compromiso, ACEPTO CAMBIO POR COCHE QUE ME INTERESE",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "150 cv",
-            "año": "2005",
-            "kilómetros": "210000 km",
             "precio": 6000.0
         }
     ]

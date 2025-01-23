@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 2",
         "version": "M240i xDrive Coupé",
-        "año mínimo": 2021,
-        "año máximo": 2024,
+        "año mínimo": "2021",
+        "año máximo": "2024",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "automatic",
         "tipos de motor": "gasoline",
-        "potencia máxima": 374,
+        "potencia máxima": "374",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=374&min_year=2021&max_year=2024&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -409,7 +409,7 @@
         {
             "titulo": "BMW Serie 2 220iA Gran Coupe 4p. ",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-220ia-gran-coupe-4p-1069296001",
-            "descripcion": "BMW Serie 2 220iA Gran Coupe 4p. 36.990 / Etiqueta C emisiones Desde 346,06€/mes* Con entrada de 6.990 € Financialo 100x100 sin entrada con las condiciones de TREND CARS ( 100% desde 72 meses (TIN 10,99) y seguro basico ) *Consultar condiciones de financiacion ofrecidas, sujetas a aprobacion por parte de la entidad financiera -PAQUETE DEPORTIVO M / ASIENTOS DELANTEROS DEPORTIVOS TIPO SEMIBAQUETS ELECTRICOS Y CALEFACTABLES / ILUMINACION AMBIENTAL / BMW LIVE COCKPIT PLUS / VOLANTE DEPORTIVO MULTIFUNCION Y CALEFACTABLE / ACTIVE GUARD PLUS / MODOS DE CONDUCCION / PAQUETE DE ALMACENAMIENTO / TAPICERIA CUERO DAKOTA ROJO PERFORADO / ATTENTION ASSIST / BMW INDIVIDUAL SHADOW LINE / APPLE CAR PLAY / CARGA INALAMBRICA DE SMARTPHONE / BMW REAL TRAFFIC INFORMATION / LLANTAS 19\" / DIRECCION DEPORTIVA M-TECHNIC / HEAD UP DISPLAY / SUSPENSION DEPORTIVA +TODO EL EQUIPAMIENTO DE SERIE DE LA GAMA BMW Serie 2 220iA Gran Coupe 4p. ¡RESERVALO! Puedes hacer BIZUM directamente y de forma segura en WWW.TRENDCARS. ES TRENDCARS. es CONFIANZA / CALIDAD / GARANTIA ¿Buscas un trato personalizado, un servicio postventa eficaz de CONFIANZA y para tu TRANQUILIDAD? TODOS nuestros coches estan revisados / Con certificado de KMS y AUSENCIA de Golpes (DEKRA) GARANTIA 12 meses, ampliable a 36 meses para cualquier taller de Espana Cambio de titularidad NO incluida en el precio ( 390€ ) Este anuncio no es vinculante se muestra a titulo informativo....",
+            "descripcion": "",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "178 cv",

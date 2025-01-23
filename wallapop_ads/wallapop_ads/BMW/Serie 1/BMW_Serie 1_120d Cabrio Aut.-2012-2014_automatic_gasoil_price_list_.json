@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 1",
         "version": "120d Cabrio Aut.",
-        "año mínimo": 2012,
-        "año máximo": 2014,
+        "año mínimo": "2012",
+        "año máximo": "2014",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "automatic",
         "tipos de motor": "gasoil",
-        "potencia máxima": 177,
+        "potencia máxima": "177",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=177&min_year=2012&max_year=2014&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 1&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -222,7 +222,7 @@
         {
             "titulo": "BMW Serie 1 118d PACK M ",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1-118d-pack-m-1061334144",
-            "descripcion": "Vehículo revisado con 1 año de garantía, Techo solar eléctrico,Cristales traseros oscurecidos,Reposabrazos central ,Clima Bi-zona,Sensores de aparcamiento ,Techo panoramico ,Velocidad crucero,Luces diurnas ,Asientos calefactables ,Navegador a bordo,Conduccion ECO o Sport,Start/Stop,Volante M,Tapiceria en piel negra,Velocidad crucero,Bluetooth,Manos libres.Servicio de entrega a domicilio, atendemos fines de semana y festivos, exposición en Marbella (Málaga).",
+            "descripcion": "",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "143 cv",
@@ -449,160 +449,6 @@
             "año": "2013",
             "kilómetros": "222000 km",
             "precio": 10000.0
-        },
-        {
-            "titulo": "BMW Serie 1 2014",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-116d-1073778346",
-            "descripcion": "BMW SERIE 116 D AUTOMATICO Motor: 1.5cc 116CV Año: 11/2014 Kms: 200.000km PRECIO CONTADO: 10.900€ PRECIO FINANCIADO: 9.900€ LLANTAS DE ALEACION VOLANTE PIEL CONTROL DE CRUCERO 3 MODOS DE CONDUCCION PANTALLA MULTIMEDIA ARRANQUE SIN LLAVE Whatsapp 640120013 C/Calvet Estrella 83, Sabadell (08203) Palabras clave mercedes benz a cla clase c e s Amg audi a3 a4 a5 a6 a7 s3 s4 s5 s6 s7 rs3 rs4 rs5 rs6 q3 q5 q7 bmw serie 120 135 140 320 330 335 530 535 630 635 640 m2 m3 m5 m6 x5 x6 volkswagen golf gti Clubsport rs performance",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "116 cv",
-            "año": "2014",
-            "kilómetros": "200000 km",
-            "precio": 9900.0
-        },
-        {
-            "titulo": "BMW Serie 1 2013",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2013-1045368550",
-            "descripcion": "En pertectas condiciones con todos los extras -Techo solar -Volante multifuncion - Control por voz - Asientos eléctricos con memoria - Asientos calefactables -Velocidad de crucero -Arranque y apertura sin llave -Equipo de sonido Harman kardon original - 2 llaves originales - 3 modos de conducción -Llantas originales -Asiento de cuero en pertecto estado acepto cambio",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "143 cv",
-            "año": "2013",
-            "kilómetros": "201000 km",
-            "precio": 9500.0
-        },
-        {
-            "titulo": "BMW Serie 1 2014",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2014-1073836556",
-            "descripcion": "BMW serie 1 118d, lo vendo por cambiar a coche familiar 7 plazas... Muy bajo consumo por debajo de los 5 litros. Todos los km hechos en autovía. 3 modos de conducción sport confort y eco Coche muy dinámico y polivalente. Sistema de control remoto del coche, podrás cerrar y abrir el coche con el móvil, encender el ventilador, claxon o hasta las luces desde la distancia con el coche. Modelo 118d F20 N47 16v, 143cv, 320Nm tracción trasera 8 velocidades Normativa Euro 5 Apto para superar cualquier prueba mecánica. Consulta lo que quieras. Se entrega con barras del techo marca BMW. Tiene pequeña marcas en los laterales de uso diario. Que más decir de este modelo de bmw",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "143 cv",
-            "año": "2014",
-            "kilómetros": "255000 km",
-            "precio": 9000.0
-        },
-        {
-            "titulo": "BMW Serie 1 2012",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2012-1062509845",
-            "descripcion": "Vendo BMW serie 1 del años 2012 automático secuencial en buen estado ITV hasta marzo de 2025.",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "116 cv",
-            "año": "2012",
-            "kilómetros": "198900 km",
-            "precio": 9000.0
-        },
-        {
-            "titulo": "BMW Serie 1 2013",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2013-985830213",
-            "descripcion": "",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "143 cv",
-            "año": "2013",
-            "kilómetros": "177000 km",
-            "precio": 9000.0
-        },
-        {
-            "titulo": "BMW Serie 1 2012",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-118-d-automatico-2012-1076556121",
-            "descripcion": "Serie 1 118 d Automatico con cadena distribucion cambiada Revision realizada itv vigor Perfecto estado interior y algun arañazo leve normal del uso en exterior . Financiacion disponible no cambios!",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "143 cv",
-            "año": "2012",
-            "kilómetros": "269883 km",
-            "precio": 8800.0
-        },
-        {
-            "titulo": "BMW Serie 1 2012",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2012-1058762974",
-            "descripcion": "impecable, mejor ver en persona",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "143 cv",
-            "año": "2012",
-            "kilómetros": "243100 km",
-            "precio": 8750.0
-        },
-        {
-            "titulo": "BMW Serie 1 2014",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2014-1079636239",
-            "descripcion": "",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "116 cv",
-            "año": "2014",
-            "kilómetros": "200300 km",
-            "precio": 8700.0
-        },
-        {
-            "titulo": "BMW Serie 1 2012",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2012-1089133549",
-            "descripcion": "BMW 116d Automático (2012) - Perfecto Estado Características principales: Pintura: Repintado en Enero 2025 para poner al día y venderlo en buen estado. Coche mio de Francia, y lo vendo rematriculado, con matrícula española. Motor: Diésel eficiente y potente (1.6 litros). Cambio automático: Suave y cómodo, ideal para conducción urbana y carretera. Consumo: Muy bajo, perfecto para ahorrar en combustible. Extras: Aire acondicionado, sensores de aparcamiento, sistema multimedia, Bluetooth, control de crucero, volante multifunción, y más. Estado del coche: Mantenimientos al día, filtros y aceite cambiados en Enero 2025. Neumáticos y frenos en buen estado. Sin accidentes ni daños estructurales. Motivo de la venta: Cambio por coche más grande. Precio: 7500€ Negociable dentro de lo razonable. Ubicación: Vilafranca del penedes Si estás buscando un coche fiable, elegante y económico, este BMW 116d es ideal para ti. ¡Contáctame para más información o para verlo en persona!",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "116 cv",
-            "año": "2012",
-            "kilómetros": "250000 km",
-            "precio": 8500.0
-        },
-        {
-            "titulo": "BMW Serie 1 2014",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2014-1078501714",
-            "descripcion": "Coche en buen estado, pneumatico y llantas de serie también. NEGOCIABLE",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "116 cv",
-            "año": "2014",
-            "kilómetros": "224000 km",
-            "precio": 8500.0
-        },
-        {
-            "titulo": "BMW Serie 1 2013",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2013-1069305786",
-            "descripcion": "",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "116 cv",
-            "año": "2013",
-            "kilómetros": "293000 km",
-            "precio": 8000.0
-        },
-        {
-            "titulo": "BMW Serie 1 2012",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2012-1069050433",
-            "descripcion": "Vendo o cambio por una furgoneta, coche pequeño tipo smart o moto scooter más diferencia a mi favor.",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "143 cv",
-            "año": "2012",
-            "kilómetros": "200000 km",
-            "precio": 6600.0
-        },
-        {
-            "titulo": "BMW Serie 1 2012",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2014-1017534629",
-            "descripcion": "AVERIADO! 205mil km! arranca y se conduce pero suena mal! Paquete M sport. Llave inteligente, Modos de conducion 6v. En buen estado en general, sin desgastes interior. Itv recien pasada, mantenimiento de cadenas aceites filtros recién hecho. Embrague nuevo. Ruedas michelin pilot sport 4 nuevas. Algun pequeño detalle de chapa. Más información vídeos fotos 639280389 NO MAREANTES negociable averiado",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "143 cv",
-            "año": "2012",
-            "kilómetros": "199999 km",
-            "precio": 4500.0
-        },
-        {
-            "titulo": "BMW Serie 1 2014",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2014-1076057142",
-            "descripcion": "En venta llantas, retrovisores y abridor maletero. Coche afectado por la DANA pero los elementos estan en perfecto estado.",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "136 cv",
-            "año": "2014",
-            "kilómetros": "120000 km",
-            "precio": 1200.0
         }
     ]
 }

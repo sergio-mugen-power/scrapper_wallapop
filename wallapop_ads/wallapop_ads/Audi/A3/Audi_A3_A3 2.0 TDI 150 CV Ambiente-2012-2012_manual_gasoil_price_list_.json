@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 150,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=150&min_year=2012&max_year=2012&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=150&min_year=2012&max_year=2012&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -67,6 +67,17 @@
         },
         {
             "titulo": "Audi A3 2012",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2012-1092722085",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2012",
+            "kilómetros": "187000 km",
+            "precio": 14000.0
+        },
+        {
+            "titulo": "Audi A3 2012",
             "enlace": "https://es.wallapop.com/item/audi-a3-2012-1085091306",
             "descripcion": "",
             "combustible": "Diésel",
@@ -101,7 +112,7 @@
         {
             "titulo": "Audi A3 Ambition 2.0 TDI 110 kW (150 CV)",
             "enlace": "https://es.wallapop.com/item/audi-a3-ambition-2-0-tdi-110-kw-150-cv-1083137971",
-            "descripcion": "Precio oferta sujeto a financiación: 13150 EUR. Precio al contado: 13150 EUR. *LLI* LLEGA LA REVOLUPLUS A OCASIONPLUS LA REVOLUCIÓN DE LOS PRECIOS BAJOS SÓLO ESTA SEMANA, ENCUENTRA TU DESCUENTO DE HASTA 8000€ OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Suspensión deportiva, Asientos deportivos, Asistente de arranque en pendiente, Encendido automático de faros, Sensor de lluvia, Faros bixenón, Start/Stop automático, Control de velocidad, Volante multifunción, Aire Acondicionado (Climatizador), Isofix, Bluetooth, Llantas de aleación (17\"). - Coche Nacional. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
+            "descripcion": "Precio oferta sujeto a financiación: 13150 EUR. Precio al contado: 13150 EUR. *LLI* OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Suspensión deportiva, Asientos deportivos, Asistente de arranque en pendiente, Encendido automático de faros, Sensor de lluvia, Faros bixenón, Start/Stop automático, Control de velocidad, Volante multifunción, Aire Acondicionado (Climatizador), Isofix, Bluetooth, Llantas de aleación (17\"). - Coche Nacional. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "150 cv",
@@ -132,17 +143,6 @@
             "precio": 13000.0
         },
         {
-            "titulo": "Audi A3 2012",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2012-1075304183",
-            "descripcion": "Audi a3 2.0 tdi 150cv manual 3p 09/2012",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "150 cv",
-            "año": "2012",
-            "kilómetros": "152000 km",
-            "precio": 13000.0
-        },
-        {
             "titulo": "Audi A3 2.0 TDI 140cv Ambiente",
             "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tdi-140cv-ambiente-1078794717",
             "descripcion": "",
@@ -151,6 +151,17 @@
             "potencia": "140 cv",
             "año": "2012",
             "kilómetros": "208000 km",
+            "precio": 12900.0
+        },
+        {
+            "titulo": "Audi A3 2012",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2012-1075304183",
+            "descripcion": "Audi a3 2.0 tdi 150cv manual 3p 09/2012",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2012",
+            "kilómetros": "152000 km",
             "precio": 12900.0
         },
         {
@@ -195,17 +206,6 @@
             "potencia": "105 cv",
             "año": "2012",
             "kilómetros": "113000 km",
-            "precio": 11999.0
-        },
-        {
-            "titulo": "Audi A3 8p Garaje",
-            "enlace": "https://es.wallapop.com/item/audi-a3-8p-garaje-1090928788",
-            "descripcion": "ABSTENERSE LOS LISTOS vendo audi a3 sline 8p gris metalizad, muy nuevo, pintura original y todo los dias de la semana durmiendo en garaje. Tiene libro mantenimiento y todo al día, neumaticos michelin pilot 5 con 4 meses. Llantas 18, climatizador bizona, volante multifuncion, asientos calefactables semicuero, velocidad crucero, apoyabrazo, itv recien pasada, luz bixenon y lo más importante los mantenimiento se hacian antes de lo que le pertenece y también aditivos de motor. Llevo casi 9 años con él y hasta hoy cero problemas. Los kilometros son hechos por mi en autovia. Palabra gancho: a1/a2/a3/a4/a5/a6 a7 a8 citroen peugeot ford volvo renault suzuki honda quad ktm bmw mercedes shooter tmax 4x4 kia, jaguar. NO CAMBIO NO NEGOCIO",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2012",
-            "kilómetros": "178000 km",
             "precio": 11900.0
         },
         {
@@ -222,7 +222,7 @@
         {
             "titulo": "Audi A3 2,0 TDI 140CV AMBITION",
             "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tdi-140cv-sport-1039235496",
-            "descripcion": "",
+            "descripcion": "Especificaciones: Climatizador bizona, retrovisores eléctricos, Llantas de aleación , volante multifunción, sensor luces, control crucero, espejos electricos. POSIBILIDAD DE FINANCION SEGUN NECESIDADES.(cuota pendiente de aprobación) Vehículo revisado y con garantía de 1 año contratada a nivel nacional. AUTOMOVILES VIA NORTE Empresa con más de 10 años de experiencia en el motor. Dedicada a la compra y venta de vehículos en la zona de Ferrolterra. Si no encuentras el coche de tus sueños contáctanos!!.614150500 / 661767406.",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "140 cv",
@@ -254,17 +254,6 @@
         },
         {
             "titulo": "Audi A3 2012",
-            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-stronic-1048283234",
-            "descripcion": "Revisado periódicamente, caja de cambio con mantenimientos al día, sensores , muy bien de ruedas, (18”); itv sin fallos hasta marzo 25; todo al día; sin golpes. Es nacional; kms reales y demostrables, con facturas... Posibilidad de que lo lleves a tu mecánico, sin compromiso. (Por cambio a coche más espacioso, mientras esté el anuncio, sigue a la venta y se está usando) Se entrega recién revisado...",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2012",
-            "kilómetros": "183000 km",
-            "precio": 11500.0
-        },
-        {
-            "titulo": "Audi A3 2012",
             "enlace": "https://es.wallapop.com/item/audi-a3-2012-771740853",
             "descripcion": "",
             "combustible": "Diésel",
@@ -288,7 +277,7 @@
         {
             "titulo": "Audi A3 2012",
             "enlace": "https://es.wallapop.com/item/audi-a3-2012-1066221782",
-            "descripcion": "",
+            "descripcion": "Audi A3 cabrio en muy buen estado,itv hasta mediados del 2025,llantas de aluminio originales con 4 cubiertas prácticamente nuevas,de chapa y pintura está muy bien,de tapicería como nuevo!!faros antinieblas,la capota va perfectamente, ordenador a bordo, volante multifunción, velocidad de crucero, elevalunas eléctrico radio cd MP3,, climatizador BIZONA, dirección asistida, cierre centralizado,etc,el vehículo se entrega con un año de garantía y una puesta a punto de cambio de aceite y filtros,,tengo más fotos,,solo me dejan subir 10!!para más información contactar..",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "105 cv",
@@ -317,17 +306,6 @@
             "año": "2012",
             "kilómetros": "175000 km",
             "precio": 10999.0
-        },
-        {
-            "titulo": "Audi A3 2012 SLINE 2.0 TDI ",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2012-sline-2-0-tdi-1086640086",
-            "descripcion": "audi a3 sportback sline 2.0 tdi 140 cv 2012 distribucion recien hecha y al dia de todo acepto cambio Alfa romeo giulietta jtdm 147 jtd mito 159 gt giulia 4c 8c stelvio spide 3. 2 v6 gta brera aston martin db9 db7 vantage audi 100 200 80 90 a1 a2 a3 a4 a5 a6 a7 a8 allroad avant cabrio coupe q3 q5 a7 quattro r8 rs2 rs4 rs6 s2 s3 s4 s5 s6 s8 sportback tt tts v8 bentley arnage azure continental gt mulsanne turbo r bmw118 118d 118i 120d 120i 120 316i 316 320i 320d 320cd 323ci 325ci 325 325cd 330i 330ci 330cd 420 420i 428i 428 430i 430 520 520i 525d 525 525i 530d 530i 535d 535i 540i 550i 635d 645ci 650i 730d 730i 740i 740d 745d 745i 750i 760i 760li 840i 850ci 850csi compact e32 e36 e39 e46 e60 e90 m1 m2 m3 m4 m5 m6 x1 x3 x5 x6 z3 z4 335i 335d 4. 4i 4. 6is 4. 8is gran turismo 4. 8i 535i e36 cadillac bls cts deville dts escalade seville srx sts xlr chevrolet camaro corvette tahoe chrysler 300c crossfire viper hemi srt srt6 citroen ds3 ds5 vts c5 c6 dodge ram viper nitro srt charger challenger magnum ferrari 360 modena 355 f430 fiat coupe ford mustang focus st rs mondeo sierra cosworth honda accord civic type r s2000 prelude hummer h2 h3 legend crx hyundai genesis infiniti fx35 fx45 fx g37 fx37 fx50 jaguar xkr xk8 xj stype xf xjr xtype jeep grand cherokee wrangler lamborghini gallardo murcielago land rover range rover sport evoque discovery vogue lexus gs300 is ls rx sc sc430 ls600h lotus maserati 3200gt 4200gt quattroporte granturismo mazda mps rx7 rx8 mercedes 190 200 230 240 250 280 300 500 a43 amg c32 c55 c63 c c320 cl cl500 cl600 cl55 cla clk cls gl ml ml500 s s500 s55 s63 s600 sl slk e55 e63 e500 e420 e320 e350 mini cooper s one mitsubishi montero 3000gt biturbo eclipse outlander evo lancer evolution nissan 350z 370z juke nssan 300zx gtr titan 200sx silvia opel gti r270 r300 golf r",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2012",
-            "kilómetros": "290000 km",
-            "precio": 10900.0
         },
         {
             "titulo": "Audi A3 2012",
@@ -365,7 +343,7 @@
         {
             "titulo": "Audi A3 2012",
             "enlace": "https://es.wallapop.com/item/audi-a3-2012-1072523856",
-            "descripcion": "AUDI A3 SPORTBACK 1.6TDI STRONIC NACIONAL UNICO DUEÑO DOS LLAVES CON MANDO 2012 191 MIL KMS ESPEJOS ELECTRICOS LLANTAS DE ALEACION CLIMATIZADOR BIZONA PANTALLA TACTIL BLUETOOTH ENTRADA AUX Y USB CRUISE CONTROL ORDENADOR DE ABORDO VOLANTE MULTIFUNCION ITV 2025 ISOFIX PEGATINA MEDIOAMBIENTAL B Este anuncio y el precio será válido salvo error tipográfico. Vehículo en estado. Este anuncio no es vinculante, se muestra a título informativo y no es contractual. Cambio de titularidad 200,00€. FINANCIACION 100% ESTAMOS EN FUENLABRADA Y MOSTOLES PEDIR CITA PREVIA",
+            "descripcion": "",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "105 cv",
@@ -419,17 +397,6 @@
         },
         {
             "titulo": "Audi A3 2012",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2012-1040033894",
-            "descripcion": "vendo audi a3 8p S-line en perfecto estado tanto por dentro que por fuera y de motor impoluto trae muchos extras star -stop luces bi-xenon espejos electricos sensores de aparcamiento asientos de cuero calefactables volante multifuncion achatado 2 llaves pantalla android con carplay luces de ambiente con muchos colores luces led delante y atras llantas de 18 ROTOR ORIGINALES neumaticos como nuevos kit de distribucion recien cambiado pastillas de freno delanteras y traseras cambiadas aceite y todos los filtros tambien vendo por cambio a coche mas grande por aumento de familia duerme en garaje",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2012",
-            "kilómetros": "135000 km",
-            "precio": 9999.0
-        },
-        {
-            "titulo": "Audi A3 2012",
             "enlace": "https://es.wallapop.com/item/audi-a3-2012-1063649785",
             "descripcion": "",
             "combustible": "Diésel",
@@ -475,7 +442,7 @@
         {
             "titulo": "Audi A3 ",
             "enlace": "https://es.wallapop.com/item/audi-a3-2012-1091901524",
-            "descripcion": "Tiene todas las revisiones al día , aceite filtros , en buen estado de chapa e interior bien cuidado , coche de no fumador , hay que cambiarle una bombilla de la luz de cruce izquierda que está fundida , único dueño , Se entrega con garantía de 1 año .",
+            "descripcion": "Tiene todas las revisiones al día , con facturas , aceite filtros , en buen estado de chapa e interior bien cuidado , coche de no fumador , único dueño , Se entrega con GARANTIA de 1 año .",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "105 cv",
@@ -506,31 +473,9 @@
             "precio": 9600.0
         },
         {
-            "titulo": "AUDI A3 SPORTBACK",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2012-1044693519",
-            "descripcion": "❗️DIESEL + BAJO CONSUMO❗️ 👀 Caja de cambios manual. ¡SENSOR DE APARCAMIENTO TRASERO! Interior en tela negra. LLANTA DE ALUMINIO + SENSOR DE LUZ AUTO. Volante multifuncion + climatizador bizona. Asientos delanteros y traseros CALEFACTADOS. ✅ Se entrega revisado, transferido, garantizado, con ITV EN VIGOR. 🔧 Mantenimiento al día. INCLUIDO KIT COMPLETO DE DISTRIBUCION 🚚 ENTREGA A DOMICILIO EN TODA LA PENÍNSULA. ❗️ANUNCIO INFORMATIVO, CARECE DE VALOR CONTRACTUAL, SUSCEPTIBLE DE ERROR INVOLUNTARIO❗️",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2012",
-            "kilómetros": "120000 km",
-            "precio": 9500.0
-        },
-        {
             "titulo": "Audi A3 2012",
             "enlace": "https://es.wallapop.com/item/audi-a3-2012-1069547676",
-            "descripcion": "A3 tdi sline 3puertas 140 cv . Muy buen estado , distribución hecha, embrage y bimasa cambiado, neumaticos nuevos, clima bi-zona, asientos calefactables,retrovisores calefactables, volante multifunción, control velocidad, xénon y led, star stop, sensor parquing y camara marcha atrás, llantas 17 originales , cristales tintados, pantalla táctil ,manos libres, no fumador .Siempre en parquinq. Etiqueta B.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "140 cv",
-            "año": "2012",
-            "kilómetros": "200000 km",
-            "precio": 9500.0
-        },
-        {
-            "titulo": "Audi A3 2012 2.0TDi 140cv (ETIQUETA B)",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2012-2-0tdi-140cv-etiqueta-b-1072218720",
-            "descripcion": "POSIBILIDAD DE FINANCIACIÓN GARANTÍA MECÁNICA DE 12 MESES Vehículo en buen estado general, muy cuidado. Motor 2.0TDi 140cv. Diésel. PEGATINA MEDIOAMBIENTAL B. Año 2012. 207.000km. Caja de cambios de 6 velocidades. Radio audi original, ordenador de abordo, control velocidad. Revisiones e ITV al día. Dos llaves con mando. Entrega inmediata! CAMBIO DE NOMBRE NO INCLUIDO EN EL PRECIO",
+            "descripcion": "A3 tdi sline 3puertas 140 cv . Muy buen estado , comprado de importación 2023, distribución hecha, embrage y bimasa cambiado, neumaticos nuevos, clima bi-zona, asientos calefactables,retrovisores calefactables, volante multifunción, control velocidad, xénon y led, star stop, sensor parquing y camara marcha atrás, llantas 17 originales , cristales tintados, pantalla táctil ,manos libres, no fumador .Siempre en parquinq. Etiqueta B.",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "140 cv",
@@ -594,6 +539,17 @@
             "precio": 9000.0
         },
         {
+            "titulo": "Audi A3 2012 2.0TDi 140cv (ETIQUETA B)",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2012-2-0tdi-140cv-etiqueta-b-1092242977",
+            "descripcion": "POSIBILIDAD DE FINANCIACIÓN GARANTÍA MECÁNICA DE 12 MESES Vehículo en buen estado general, muy cuidado. Motor 2.0TDi 140cv. Diésel. PEGATINA MEDIOAMBIENTAL B. Año 2012. 207.000km. Caja de cambios de 6 velocidades. Radio audi original, ordenador de abordo, control velocidad. Revisiones e ITV al día. Dos llaves con mando. Entrega inmediata! CAMBIO DE NOMBRE NO INCLUIDO EN EL PRECIO",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2012",
+            "kilómetros": "200000 km",
+            "precio": 8999.0
+        },
+        {
             "titulo": "Audi A3 2012",
             "enlace": "https://es.wallapop.com/item/audi-a3-2012-1074065603",
             "descripcion": "Muy buen estado , único propietario , libro de revisiones , ruedas aceite y filtros recién realizado , 1 año de garantía , se entrega transferido, distribucion, embrague, aceites y ruedas recien cambiados",
@@ -617,6 +573,28 @@
         },
         {
             "titulo": "Audi A3 2012",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2012-1092335858",
+            "descripcion": "‼️ CHOLLO ‼️ SE VENDE PRECIOSO AUDI A3 CABRIO CAPOTA AUTOMÁTICA RESTYLING, ES DEL AÑO 2012 MOTOR 1.6 TDI 105CV CAMBIO MANUAL, CON 225 MIL KILÓMETROS MAYORÍA HECHOS EN AUTOVÍA, ESTÁ SÚPER CUIDADO TAL CUAL SE VE LAS FOTOS ‼️CON LIBRO DE MANTENIMIENTO‼️ EN CASA OFICIAL, CORREA DE DISTRIBUCIÓN RECIÉN CAMBIADA, EMBRAGUE Y BIMASA TAMBIÉN, ACEITES Y FILTROS RECIÉN CAMBIADOS, TIENE MUCHOS EXTRAS: ASIENTOS DE CUERO CALEFACTABLES, SENSORES DE APARCAMIENTO, PANTALLA DE NAVEGACIÓN GPS, Y MUCHÍSIMOS EXTRAS MÁS, TIENE 2 LLAVES 🔑 FUNCIONA ABSOLUTAMENTE TODO NO TIENE NI UN SOLO FALLO ‼️SE ACEPTA PRUEBA MECÁNICA,‼️ INTERESADOS SOLO LLAMADAS 6️⃣6️⃣2️⃣ 9️⃣1️⃣ 1️⃣5️⃣ 1️⃣5️⃣",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "105 cv",
+            "año": "2012",
+            "kilómetros": "225000 km",
+            "precio": 8500.0
+        },
+        {
+            "titulo": "Audi A3 ",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1092358453",
+            "descripcion": "- Pantalla con navegador - Control crucero",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "105 cv",
+            "año": "2012",
+            "kilómetros": "176000 km",
+            "precio": 8500.0
+        },
+        {
+            "titulo": "Audi A3 2012",
             "enlace": "https://es.wallapop.com/item/audi-a3-2012-1091467987",
             "descripcion": "Se escuchan cambios",
             "combustible": "Diésel",
@@ -629,7 +607,7 @@
         {
             "titulo": "Audi A3 2012",
             "enlace": "https://es.wallapop.com/item/audi-a3-2012-1090048198",
-            "descripcion": "vendo audi a3 S-line en perfecto estado, luces bixenon, sensor (luces,lluvia,aparcamiento...) el coche va de maravilla con mucha fuerza, esta para ver y probar. distribucion hecha a los 196.000km, le esta empezando a sonar el embrage nada mas el coche se usa a diario. para mas informacion no dude en preguntar.acepto todo tipo de pruebas mecanica...etc",
+            "descripcion": "vendo audi a3 S-line en perfecto estado, luces bixenon, sensor (luces,lluvia,aparcamiento...) el coche va de maravilla con mucha fuerza, esta para ver y probar. distribucion hecha a los 196.000km, le esta empezando a sonar el embrage nada mas el coche se usa a diario. para mas informacion no dude en preguntar.acepto todo tipo de pruebas mecanica...etc.",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "140 cv",
@@ -672,17 +650,6 @@
         },
         {
             "titulo": "Audi A3 2012",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2012-1086102121",
-            "descripcion": "vendo audi A3. Lleva nuevo la batería, inyectores, embrague cambiado hace 2 años, luces blancas. pantalla tactil nueva. Revisión ITV al día El coche está en muy buen estado y bien cuidado. Precio negociable",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2012",
-            "kilómetros": "229193 km",
-            "precio": 8000.0
-        },
-        {
-            "titulo": "Audi A3 2012",
             "enlace": "https://es.wallapop.com/item/audi-a3-2012-1051090594",
             "descripcion": "Audi A3 Attaction 2.0 TDI 140cv 3puertas, 6 velocidades Año 2012, etiqueta B Color rojo Muy bien cuidado. Interior impecable Único dueño. Siempre en garaje Climatizador, bomba agua y correa distribución nuevos. Cambiados en mayo24 ITV pasada hasta julio25. sin incidencias A toda prueba! Vendo por compra de coche nuevo Consumo 4,8 l/100km.",
             "combustible": "Diésel",
@@ -694,6 +661,17 @@
         },
         {
             "titulo": "Audi A3 2012",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2012-1086102121",
+            "descripcion": "vendo audi A3. Lleva nuevo la batería, inyectores, embrague cambiado hace 2 años, luces blancas. pantalla tactil nueva. Revisión ITV al día El coche está en muy buen estado y bien cuidado. Precio negociable",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "105 cv",
+            "año": "2012",
+            "kilómetros": "229193 km",
+            "precio": 8000.0
+        },
+        {
+            "titulo": "Audi A3 2012",
             "enlace": "https://es.wallapop.com/item/audi-a3-2012-1064088140",
             "descripcion": "ITV recién pasada Año 2012 Mantenimiento recién hecho Neumáticos seminuevos Llantas aluminio Navegador 185 mil km El coche está en buen estado",
             "combustible": "Diésel",
@@ -701,17 +679,6 @@
             "potencia": "105 cv",
             "año": "2012",
             "kilómetros": "185000 km",
-            "precio": 8000.0
-        },
-        {
-            "titulo": "Audi A3 2012",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2012-1004006473",
-            "descripcion": "Audi A3 genuine edition sportback. muy bien cuidado con todas las revisiones al día. No ha dado ningún problema y casi todos los kms realizados en autovía. Se cambia para buscar un vehículo de otras características.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2012",
-            "kilómetros": "200000 km",
             "precio": 8000.0
         },
         {
@@ -848,17 +815,6 @@
         },
         {
             "titulo": "Audi A3 2012",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2012-1082343204",
-            "descripcion": "Audi A3 1.6tdi buen estado interior exterior mecánica perfecto todas las revisiones al día un año de garantía mecánica",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2012",
-            "kilómetros": "260130 km",
-            "precio": 6999.0
-        },
-        {
-            "titulo": "Audi A3 2012",
             "enlace": "https://es.wallapop.com/item/audi-a3-2011-1073461813",
             "descripcion": "AUDI A3 *ITV HASTA 10/25 *CLIMATIZADOR BIZONA *ORDENADOR A BORDO *ASIENTOS DE PIEL NEGRO *ASIENTOS CALEFACTABLES *SENSOR DE PARKING *SISTEMA START/STOP *LUCES AUTOMATICAS *ESPEJO ISOFIX *CORREA DE DISTRIBUCIÓN CAMBIADA A LOS 200.000Km con factura MAS EXTRAS Muy bien cuidado Acepto cambios por otro coche furgoneta 674590535",
             "combustible": "Diésel",
@@ -900,17 +856,6 @@
             "año": "2012",
             "kilómetros": "234000 km",
             "precio": 6500.0
-        },
-        {
-            "titulo": "Audi A3 2012",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2012-1082475166",
-            "descripcion": "hola, vendo audi a3 sline tdi de 105 cv, consumo minimo de 4,5l/100km,muy bien de motor exterior e interior, esta bastante bien en general, itv recien pasada este mes, pegatina medio ambiental,tiene navegador con gps bloothot y usb opcion de video clip etc sensor de lluvia control de velocidad sensor de luces etc mejor ver y probar sin compromiso.un saludo",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "105 cv",
-            "año": "2012",
-            "kilómetros": "283000 km",
-            "precio": 4499.0
         }
     ]
 }

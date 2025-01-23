@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 190,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=190&min_year=2016&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=190&min_year=2016&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -74,7 +74,7 @@
             "potencia": "150 cv",
             "año": "2017",
             "kilómetros": "69000 km",
-            "precio": 25900.0
+            "precio": 25800.0
         },
         {
             "titulo": "Audi A3 2018",
@@ -112,7 +112,7 @@
         {
             "titulo": "Audi A3 Sline",
             "enlace": "https://es.wallapop.com/item/audi-a3-1090232588",
-            "descripcion": "Se escuchan ofertas. Acabado SLine exterior Unico dueño. Tan solo 59000 kms Recien realizada revisión de los 6 años e ITV Bateria nueva Ruedas con menos de 10.000 kms (Michelin)",
+            "descripcion": "Se escuchan ofertas. Extras: -Acabado SLine exterior -Asientos deportivos -Carplay -Llantas 18 pulgadas -Audi Sound System 180W -Apertura y arranque sin llave -Audi drive select (4 modos de conduccion) Recien realizada revisión de los 6 años e ITV Bateria nueva Ruedas con menos de 10.000 kms (Michelin)",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "150 cv",
@@ -242,48 +242,15 @@
             "precio": 19500.0
         },
         {
-            "titulo": "Audi A3 2.0 TFSI Sportback",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tfsi-sportback-1074169839",
-            "descripcion": "",
+            "titulo": "Audi A3 2018",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2018-1030090306",
+            "descripcion": "se vende Audi A3 sporback muy cuidado paquete sline",
             "combustible": "Gasolina",
             "cambio": "Manual",
-            "potencia": "190 cv",
-            "año": "2016",
-            "kilómetros": "137000 km",
-            "precio": 18990.0
-        },
-        {
-            "titulo": "Audi A3 2.0 TFSI Sportback",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tfsi-sportback-1074170095",
-            "descripcion": "",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "190 cv",
-            "año": "2016",
-            "kilómetros": "137000 km",
-            "precio": 18990.0
-        },
-        {
-            "titulo": "Audi A3 2.0 TFSI Sportback",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tfsi-sportback-1074170093",
-            "descripcion": "Tu nuevo coche te está esperando en MUNDICARS. Elige tu cuota y financia en 15 minutos. ¡Llámanos o ven a conocernos! + DE 300 COCHES EN STOCK - Pide cita y ven a probarlo - Déjanos tu coche como parte de pago - Financiación 100% - Todos nuestro vehículos se entregan revisados y con garantía de 1 año. (Vehículos comerciales 6 meses) - Nuestro horario es de L-V: 10:00 a 20:00 Sábados : 10:30 a 14:00 Compra online o llámanos. Tiendas: 1- Blanes: Ctra. Accés Costa Brava, 190, 17300, Girona (17300) 2- Sabadell: Carretera Barcelona 473-B. (08203) 3- Granollers: Avenida Marie Curie 2 (08402) 4- Vilanova y la Geltrú: Avda. Eduard Toldrà, 107 (08800). 5- Barcelona: (Próximamente) Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual.",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "190 cv",
-            "año": "2016",
-            "kilómetros": "137000 km",
-            "precio": 18990.0
-        },
-        {
-            "titulo": "Audi A3 2.0 TFSI Sportback",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tfsi-sportback-1074168857",
-            "descripcion": "Tu nuevo coche te está esperando en MUNDICARS. Elige tu cuota y financia en 15 minutos. ¡Llámanos o ven a conocernos! + DE 300 COCHES EN STOCK - Pide cita y ven a probarlo - Déjanos tu coche como parte de pago - Financiación 100% - Todos nuestro vehículos se entregan revisados y con garantía de 1 año. (Vehículos comerciales 6 meses) - Nuestro horario es de L-V: 10:00 a 20:00 Sábados : 10:30 a 14:00 Compra online o llámanos. Tiendas: 1- Blanes: Ctra. Accés Costa Brava, 190, 17300, Girona (17300) 2- Sabadell: Carretera Barcelona 473-B. (08203) 3- Granollers: Avenida Marie Curie 2 (08402) 4- Vilanova y la Geltrú: Avda. Eduard Toldrà, 107 (08800). 5- Barcelona: (Próximamente) Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual.",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "190 cv",
-            "año": "2016",
-            "kilómetros": "137000 km",
-            "precio": 18990.0
+            "potencia": "116 cv",
+            "año": "2018",
+            "kilómetros": "115000 km",
+            "precio": 18400.0
         },
         {
             "titulo": "Audi A3 2017",
@@ -294,18 +261,7 @@
             "potencia": "150 cv",
             "año": "2017",
             "kilómetros": "98000 km",
-            "precio": 18500.0
-        },
-        {
-            "titulo": "Audi A3 2018",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2018-1030090306",
-            "descripcion": "se vende Audi A3 sporback muy cuidado paquete sline",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "116 cv",
-            "año": "2018",
-            "kilómetros": "115000 km",
-            "precio": 18400.0
+            "precio": 18300.0
         },
         {
             "titulo": "Audi A3 2017",
@@ -327,7 +283,7 @@
             "potencia": "116 cv",
             "año": "2018",
             "kilómetros": "90800 km",
-            "precio": 17990.0
+            "precio": 17600.0
         },
         {
             "titulo": "Audi A3 1.0 TFSI 85kW (116CV) Sportback",
@@ -338,7 +294,7 @@
             "potencia": "116 cv",
             "año": "2018",
             "kilómetros": "90800 km",
-            "precio": 17990.0
+            "precio": 17600.0
         },
         {
             "titulo": "AUDI A3 1.4 TFSI G-Tron Sportback",
@@ -595,8 +551,8 @@
         },
         {
             "titulo": "Audi A3 SPORTBACK 1.0 TFSI",
-            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-0-tfsi-1052412935",
-            "descripcion": "",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-0-tfsi-1052413886",
+            "descripcion": "******MODELO 115CV***** PUEDES VER ESTE VEHÍCULO EN NUESTRAS INSTALACIONES DE LEGANES en Calle JULIO PALACIOS 2 (De lunes a sábado de 10:30 a 14:00 y de 17:00 a 20:30 horas y domingos de 10:00 a 14:00 horas) TAMBIEN SABADOS Y DOMINGOS. COMPRA TU COCHE ONLINE O EN CUALQUIERA DE NUESTROS CENTROS Y SI ERES DE FUERA DE MADRID TE LO ENVIAMOS GRATIS A CUALQUIER PUNTO DE LA PENÍNSULA CON NUESTRO SERVICIO DE ENTREGA A DOMICILIO, CONTACTA CON NOSOTROS Y TE ENVIAMOS HISTORIAL DE MANTENIMIENTO, PERITACION Y CERTIFICADOS, TE CALCULAMOS LA FINANCIACIÓN Y TE ACLARAMOS CUALQUIER DUDA. Los mejores precios gracias a nuestro sistema digital y posibilidad de cambio en 15 días o 1.000km para ventas a distancia. Financiación SIN entrada y en el acto hasta el 100% con DNI/NIE y última nómina, si lo necesitas tasamos tu coche a cambio. El precio indicado es con GARANTIA DE UN AÑO ampliable en coberturas y plazos. SOLICITANOS MAS INFORMACIÓN. El vehículo tiene IVA INCLUIDO y es deducible si eres una empresa o autónomo. Con nosotros te ahorras HASTA EL 11% DE ITP que pagarías a hacienda si comprases a un vendedor particular. * Las fotografías mostradas son las reales del vehículo, así como precio, extras, modelo y otros datos salvo error, por lo tanto este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual. (ene6) EQUIPAMIENTOS: ESPEJOS ELECTRICOS FAROS DE XENON LLANTAS DE ALEACIÓN LUCES DIURNAS SENSOR DE LLUVIA SENSOR DE LUCES BLUETOOTH CIERRE CENTRALIZADO CLIMATIZADOR CONTROL DE VELOCIDAD DIRECCIÓN ASISTIDA ELEVALUNAS ELÉCTRICO LIMITADOR DE VELOCIDAD MANDOS EN VOLANTE NAVEGADOR GPS ORDENADOR DE A BORDO SENSOR DE PARKING USB ABS AIRBAG AIRBAG ACOMPAÑANTE AIRBAGS LATERALES CONTROL DE TRACCIÓN ESP INMOVILIZADOR ELECTRÓNICO CAMBIO MANUAL RUEDA DE REPUESTO O KIT ANTIPINCHAZOS",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "115 cv",
@@ -606,8 +562,8 @@
         },
         {
             "titulo": "Audi A3 SPORTBACK 1.0 TFSI",
-            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-0-tfsi-1052413886",
-            "descripcion": "******MODELO 115CV***** PUEDES VER ESTE VEHÍCULO EN NUESTRAS INSTALACIONES DE LEGANES en Calle JULIO PALACIOS 2 (De lunes a sábado de 10:30 a 14:00 y de 17:00 a 20:30 horas y domingos de 10:00 a 14:00 horas) TAMBIEN SABADOS Y DOMINGOS. COMPRA TU COCHE ONLINE O EN CUALQUIERA DE NUESTROS CENTROS Y SI ERES DE FUERA DE MADRID TE LO ENVIAMOS GRATIS A CUALQUIER PUNTO DE LA PENÍNSULA CON NUESTRO SERVICIO DE ENTREGA A DOMICILIO, CONTACTA CON NOSOTROS Y TE ENVIAMOS HISTORIAL DE MANTENIMIENTO, PERITACION Y CERTIFICADOS, TE CALCULAMOS LA FINANCIACIÓN Y TE ACLARAMOS CUALQUIER DUDA. Los mejores precios gracias a nuestro sistema digital y posibilidad de cambio en 15 días o 1.000km para ventas a distancia. Financiación SIN entrada y en el acto hasta el 100% con DNI/NIE y última nómina, si lo necesitas tasamos tu coche a cambio. El precio indicado es con GARANTIA DE UN AÑO ampliable en coberturas y plazos. SOLICITANOS MAS INFORMACIÓN. El vehículo tiene IVA INCLUIDO y es deducible si eres una empresa o autónomo. Con nosotros te ahorras HASTA EL 11% DE ITP que pagarías a hacienda si comprases a un vendedor particular. * Las fotografías mostradas son las reales del vehículo, así como precio, extras, modelo y otros datos salvo error, por lo tanto este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual. (ene5) EQUIPAMIENTOS: ESPEJOS ELECTRICOS FAROS DE XENON LLANTAS DE ALEACIÓN LUCES DIURNAS SENSOR DE LLUVIA SENSOR DE LUCES BLUETOOTH CIERRE CENTRALIZADO CLIMATIZADOR CONTROL DE VELOCIDAD DIRECCIÓN ASISTIDA ELEVALUNAS ELÉCTRICO LIMITADOR DE VELOCIDAD MANDOS EN VOLANTE NAVEGADOR GPS ORDENADOR DE A BORDO SENSOR DE PARKING USB ABS AIRBAG AIRBAG ACOMPAÑANTE AIRBAGS LATERALES CONTROL DE TRACCIÓN ESP INMOVILIZADOR ELECTRÓNICO CAMBIO MANUAL RUEDA DE REPUESTO O KIT ANTIPINCHAZOS",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-0-tfsi-1052412935",
+            "descripcion": "******MODELO 115CV***** PUEDES VER ESTE VEHÍCULO EN NUESTRAS INSTALACIONES DE LEGANES en Calle JULIO PALACIOS 2 (De lunes a sábado de 10:30 a 14:00 y de 17:00 a 20:30 horas y domingos de 10:00 a 14:00 horas) TAMBIEN SABADOS Y DOMINGOS. COMPRA TU COCHE ONLINE O EN CUALQUIERA DE NUESTROS CENTROS Y SI ERES DE FUERA DE MADRID TE LO ENVIAMOS GRATIS A CUALQUIER PUNTO DE LA PENÍNSULA CON NUESTRO SERVICIO DE ENTREGA A DOMICILIO, CONTACTA CON NOSOTROS Y TE ENVIAMOS HISTORIAL DE MANTENIMIENTO, PERITACION Y CERTIFICADOS, TE CALCULAMOS LA FINANCIACIÓN Y TE ACLARAMOS CUALQUIER DUDA. Los mejores precios gracias a nuestro sistema digital y posibilidad de cambio en 15 días o 1.000km para ventas a distancia. Financiación SIN entrada y en el acto hasta el 100% con DNI/NIE y última nómina, si lo necesitas tasamos tu coche a cambio. El precio indicado es con GARANTIA DE UN AÑO ampliable en coberturas y plazos. SOLICITANOS MAS INFORMACIÓN. El vehículo tiene IVA INCLUIDO y es deducible si eres una empresa o autónomo. Con nosotros te ahorras HASTA EL 11% DE ITP que pagarías a hacienda si comprases a un vendedor particular. * Las fotografías mostradas son las reales del vehículo, así como precio, extras, modelo y otros datos salvo error, por lo tanto este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual. (ene6) EQUIPAMIENTOS: ESPEJOS ELECTRICOS FAROS DE XENON LLANTAS DE ALEACIÓN LUCES DIURNAS SENSOR DE LLUVIA SENSOR DE LUCES BLUETOOTH CIERRE CENTRALIZADO CLIMATIZADOR CONTROL DE VELOCIDAD DIRECCIÓN ASISTIDA ELEVALUNAS ELÉCTRICO LIMITADOR DE VELOCIDAD MANDOS EN VOLANTE NAVEGADOR GPS ORDENADOR DE A BORDO SENSOR DE PARKING USB ABS AIRBAG AIRBAG ACOMPAÑANTE AIRBAGS LATERALES CONTROL DE TRACCIÓN ESP INMOVILIZADOR ELECTRÓNICO CAMBIO MANUAL RUEDA DE REPUESTO O KIT ANTIPINCHAZOS",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "115 cv",
@@ -881,7 +837,7 @@
         },
         {
             "titulo": "Audi A3 1.4 TFSI 150CV COD ultra Attraction",
-            "enlace": "https://es.wallapop.com/item/audi-a3-1-4-tfsi-150cv-cod-ultra-attraction-1078292825",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1-4-tfsi-150cv-cod-ultra-attraction-1078016973",
             "descripcion": "Precio al contado: 16.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 14.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Vigo 2, Av. de Madrid 183, 36214 Vigo. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilanova 1, Vilanova ...",
             "combustible": "Gasolina",
             "cambio": "Manual",
@@ -892,7 +848,7 @@
         },
         {
             "titulo": "Audi A3 1.4 TFSI 150CV COD ultra Attraction",
-            "enlace": "https://es.wallapop.com/item/audi-a3-1-4-tfsi-150cv-cod-ultra-attraction-1078016973",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1-4-tfsi-150cv-cod-ultra-attraction-1078292825",
             "descripcion": "Precio al contado: 16.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 14.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Vigo 2, Av. de Madrid 183, 36214 Vigo. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilanova 1, Vilanova ...",
             "combustible": "Gasolina",
             "cambio": "Manual",
@@ -1034,9 +990,20 @@
             "precio": 9800.0
         },
         {
+            "titulo": "Audi A3 2018",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2018-1092811854",
+            "descripcion": "Vehículo afectado por la DANA.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2018",
+            "kilómetros": "55000 km",
+            "precio": 8000.0
+        },
+        {
             "titulo": "Audi A3    1.5cc TFSI 150cv    SPORTBACK  AÑO 2018",
             "enlace": "https://es.wallapop.com/item/audi-a3-1-5cc-tfsi-150cv-sportback-ano-2018-1059979795",
-            "descripcion": "VEHICULO CON GOLPE FRONTAL, EL MOTOR ARRANCA, CAJA DE CAMBIOS AUTOMATICA OK, INTERIOR EN BUEN ESTADO, AIRBAG DESPLEGADOS,CARROCERIA COMO SE PUEDE APRECIAR EN LAS FOTOGRAFIAS... AÑO 2018 1.5cc TFSI 150cv GASOLINA 135.834 KM AUTOMATICO Conócenos y visita nuestro amplio stock en: siniestroscars.com",
+            "descripcion": "",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "150 cv",

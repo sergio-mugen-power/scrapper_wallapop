@@ -1,0 +1,80 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase A",
+        "version": "A 180 BlueEFFICIENCY",
+        "año mínimo": "2012",
+        "año máximo": "2012",
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 122,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=122&min_year=2012&max_year=2012&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Mercedes-Benz&model=Clase A&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase A 2012",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2012-1088826616",
+            "descripcion": "Etiqueta C. Mercedes Clase A 180 1.6 Gasolina (Motor Mercedes), transmision manual de 6 velocidades, 122 CV. 38.000 Km (Kilómetros garantizados), Coche de gerencia Mercedes. Muy cuidado, en perfecto estado de mecánica chapa y pintura. 12 Meses de garantía. Equipamiento: Llantas de aleacion de 16\", climatizador bizona, 6 airbags, lunas tintadas, volante de cuero multifuncion, control de velocidad de crucero, ESP y ABS, elevalunas electrico delantero y trasero, cierre centralizado (2 mandos Mercedes). #C, #etiqueta C, #Mercedes, #kilometros garantizados, #Clase A, #Motor Mercedes, #coche de ocasión, #ocasion, #financiado. Las especificaciones acerca del equipamiento, modelo y precio no son de carácter vinculante al poder contener algún error. Consultenos para más información",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "122 cv",
+            "año": "2012",
+            "kilómetros": "38000 km",
+            "precio": 17990.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2012",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2012-1078375766",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "116 cv",
+            "año": "2012",
+            "kilómetros": "171000 km",
+            "precio": 12000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2012",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2012-1078494428",
+            "descripcion": "Mercedes A180 gasolina 122cv (motor Mercedes) Pintura metalizada, llantas 16' revisado y garantía de 1 año. Financiación a su medida.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "122 cv",
+            "año": "2012",
+            "kilómetros": "143000 km",
+            "precio": 11990.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2012",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2012-1087150991",
+            "descripcion": "SE VENDE Mercedes clase A, con 170.000 km, año 2012, Gasolina, 5 puertas, motor 1.6, asientos deportivos, ITV 2025",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "95 cv",
+            "año": "2012",
+            "kilómetros": "170000 km",
+            "precio": 10500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2012",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2012-919571729",
+            "descripcion": "Precioso Mercedes A160 gasolina, en estado impecable, procedente de Alemania. Lleva un montón de extras como asientos de cuero parcial, llantas de aluminio 16\", GPS original Mercedes, 5 puertas, aplicaciones de madera, sensores de aparcamiento delanteros y traseros, etc. ITV recién pasada hasta 12/2025. Traspaso a cuenta del comprador en gestoria.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "95 cv",
+            "año": "2012",
+            "kilómetros": "109200 km",
+            "precio": 8999.0
+        }
+    ]
+}

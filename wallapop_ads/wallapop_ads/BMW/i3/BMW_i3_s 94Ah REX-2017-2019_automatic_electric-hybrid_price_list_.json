@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "i3",
         "version": "s 94Ah REX",
-        "año mínimo": 2017,
-        "año máximo": 2019,
+        "año mínimo": "2017",
+        "año máximo": "2019",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "automatic",
         "tipos de motor": "electric-hybrid",
-        "potencia máxima": 184,
+        "potencia máxima": "184",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=electric-hybrid&min_horse_power=1&max_horse_power=184&min_year=2017&max_year=2019&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=i3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -156,7 +156,7 @@
         {
             "titulo": "BMW i3 2018",
             "enlace": "https://es.wallapop.com/item/bmw-i3s-2018-1056860193",
-            "descripcion": "",
+            "descripcion": "💢PlacaAutomoción 💢 🔘CONDICIONES DE ENTREGA🔘 * 1 Año de garantía oficial✅ * Limpieza y desinfección integral✅ * Cambio de titular incluido✅ * Revisión general✅ * Mantenimiento general exhaustivo por escrito✅ 💰Precio contado 20.900€ 💰 Precio financiado 18.900€ (Consulta condiciones) ⏮️Profesionales del sector del Automóvil. Placa Automoción, desde 1971. Taller XXI-Concesionario de Vehículos de ocasión y km 0. #Compromiso #Seriedad #Confianza #Profesionalidad #Asesoramiento... Llamanos e informate sin compromiso,estaremos encantados de ayudarte. 📱628446127 Mas informacion de equipamiento y fotos por whtasapp",
             "combustible": "Eléctrico",
             "cambio": "Automático",
             "potencia": "184 cv",
@@ -207,17 +207,6 @@
             "año": "2017",
             "kilómetros": "87000 km",
             "precio": 19999.0
-        },
-        {
-            "titulo": "BMW i3 2019",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-2019-1064478919",
-            "descripcion": "Espectacular BMW i3s 120Ah del año 2019, en perfecto estado tanto interior como exterior!! GARANTIA OFICIAL HASTA FEBRERO 2026!! PEGATINA MEDIOAMBIENTAL CERO!! 2 LLAVES!! NACIONAL!! Extras destacables: - Luces automaticas - Sensor de lluvia - Cámara trasera - Volante multifunción - Sensores de aparcamiento delanteros y traseros - Llantas en 20\" - Modos de conducción - Pantalla multifunción con Carplay y Android Auto - Y mucho mas. Cambio de nombre + 250€ Pide tu cita y ven a verlo Anuncio no vinculante puede contener errores Entrega en toda España.",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "184 cv",
-            "año": "2019",
-            "kilómetros": "49999 km",
-            "precio": 19990.0
         },
         {
             "titulo": "BMW i3 2019",
@@ -283,6 +272,17 @@
             "potencia": "170 cv",
             "año": "2018",
             "kilómetros": "37900 km",
+            "precio": 19490.0
+        },
+        {
+            "titulo": "BMW i3 2019",
+            "enlace": "https://es.wallapop.com/item/bmw-i3-2019-1064478919",
+            "descripcion": "Espectacular BMW i3s 120Ah del año 2019, en perfecto estado tanto interior como exterior!! GARANTIA OFICIAL HASTA FEBRERO 2026!! PEGATINA MEDIOAMBIENTAL CERO!! 2 LLAVES!! NACIONAL!! Extras destacables: - Luces automaticas - Sensor de lluvia - Cámara trasera - Volante multifunción - Sensores de aparcamiento delanteros y traseros - Llantas en 20\" - Modos de conducción - Pantalla multifunción con Carplay y Android Auto - Y mucho mas. Cambio de nombre + 250€ Pide tu cita y ven a verlo Anuncio no vinculante puede contener errores Entrega en toda España.",
+            "combustible": "Eléctrico",
+            "cambio": "Automático",
+            "potencia": "184 cv",
+            "año": "2019",
+            "kilómetros": "49999 km",
             "precio": 19490.0
         },
         {
@@ -449,336 +449,6 @@
             "año": "2017",
             "kilómetros": "59460 km",
             "precio": 17990.0
-        },
-        {
-            "titulo": "BMW i3 2018",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-2018-1077073756",
-            "descripcion": "BMW I3 año 2018 (54505 kms) Potencia 94ah/170CV 5 Puertas Autonomía real 230km Sensores de aparcamiento Navegador Asistente conneted drive Conexión bluetooth-aux, etc 3 modos de manejo Eco pro + Eco pro (configurable) Comfort Tracción trasera Asientos calenfactafles Climatizadores independientes Control crucero Sensor de luces Sensor de lluvia Neumáticos todo clima El precio es negociable TRANSFERENCIA INCLUIDA Para más información 603188579",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2018",
-            "kilómetros": "54505 km",
-            "precio": 17800.0
-        },
-        {
-            "titulo": "BMW i3 120 Ah",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-120-ah-1083146908",
-            "descripcion": "mercedestraccion en Barcelona MATRICULADO EL 27.03.2019 I.V.A DEDUCIBLE S420 Acristalamiento De Protección Solar S423 Alfombrillas Velours S428 Triángulo De Advertencia Y Botiquín De Primeros Auxilios S430 Espejo Interior/Exterior Con Inmersión Automática S442 Soporte Para Bebidas S473 Reposabrazos Delantero S493 Paquete De Compartimento De Almacenamiento S4EX Superficie Interior Andesit Silver Mate S4U6 Carga Rápida Multifase De Chargeg.Altern.Current S4U7 Carga Rápida, Corriente Continua Multimedia S606 Sistema De Navegación Business S6AC Llamada De Emergencia Inteligente S6AE Teleservicios S6AK Servicios De Connected Drive S6AU Servicios De EDrive Conectados S6CP Preparación Apple CarPlay Asistencia Al Conductor S521 Sensor De Lluvia S534 Aire Acondicionado Automático S544 Control De Crucero Con Función De Freno S548 Kilómetro Velocímetro S5DA Desactivación Del Airbag Del Pasajero Ruedas Y Tracción S230 Paquete Adicional, EU-Speciifc S249 Volante Multifunción F S2D6 Rueda BMW LA, Radio Estrella 427 S2VB Pantalla De Presión De Neumáticos S2VC Set De Reparación De Neumáticos Medio Ambiente Y Seguridad S856 Versión Lingüística, Español S883 Literatura A Bordo, Español S8R9 Refrigerante R1234yf S8S3 Bloqueo Automático Durante El Arranque ** ENTREGA GRATUITA A TODA ESPAÑA (PENINSULA) CONDICIONADO A FINANCIACION ** ** CAMBIO DE NOMBRE NO INCLUIDO ** ** CONSULTAR DISPONIBILIDAD ANTES DE ACUDIR A NUESTRAS INSTALACIONES REF 128505 ** Cuota simulada con entrada del 10 % a 84 meses. Operación sujeta a aprobación por la entidad financiera",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2019",
-            "kilómetros": "89732 km",
-            "precio": 17500.0
-        },
-        {
-            "titulo": "BMW i3 2018",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-2018-1040290856",
-            "descripcion": "IMPORTANTE: NO INCLUYE GASTOS DE GESTORÍA, NI IMPUESTOS DE TRANSMISIÓN. FAROS FRONTALES DE LED, 240 KMS DE AUTONOMÍA. BATERÍA AL 100X100 LO HEMOS COMPROBADO. La baterÍa esta perfecta. MEJOR PRECIO GARANTIZADO EN TODA ESPAÑA DE UN I3 94 AH DE 2018 CON MENOS DE 100.000 KMS, COMPRUEBELO EN CUALQUIER PAGINA WEB. TIENE MUCHOS EXTRAS CAMARA MARCHA ATRAS VOLANTE MULTIFUNCION, CONTROL CRUISER CLIMATIZADOR BIZONA REPOSABRAZOS TENEMOS 7 BMW I3 DISPONIBLES, 3 REX DE 60 AH Y DE 94AH REX, 3 BMW I3 100 AH 300 KMS AUTONOMIA, UN I3 100AH S CON TODOS LOS EXTRAS",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2018",
-            "kilómetros": "88000 km",
-            "precio": 16995.0
-        },
-        {
-            "titulo": "BMW i3 94ah 5p.",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-94ah-5p-961865939",
-            "descripcion": "JL AUTOMOVILES AVENIDA DE LA INDUSTRIA 33 ALCOBENDAS MADRID IMPORTANTE CONSULTAR CONDICIONES FINALES DE VENTA. FAROS FRONTALES DE LED, 240 KMS DE AUTONOMIA. BATERIA AL 100X100 LO HEMOS COMPROBADO. MEJOR PRECIO GARANTIZADO EN TODA ESPAÑA DE UN I3 94 AH DE 2018 CON MENOS DE 100.000 KMS, COMPRUEBELO EN CUALQUIER PAGINA WEB. TENEMOS 7 BMW I3 DISPONIBLES, 3 REX DE 60 AH Y DE 94AH REX, 3 BMW I3 100 AH 300 KMS AUTONOMIA, UN I3 100AH S CON TODOS LOS EXTRAS",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2018",
-            "kilómetros": "76000 km",
-            "precio": 16995.0
-        },
-        {
-            "titulo": "BMW i3 Aut 4p",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-aut-4p-932530634",
-            "descripcion": "Vehículo nacional con kilómetros certificados, cambio automático, sensores de aparcamiento, cámara trasera, sensor de luces, espejos plegables, climatizador, control de velocidad, radio con USB, bluetooth, elevalunas eléctrico, llantas de aleación. 100% eléctrico, garantía oficia incluida, cambio de nombre +150€, entregamos el vehículo con revisión de 50 puntos incluida e ITV al día, atendemos con cita previa.",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2017",
-            "kilómetros": "76000 km",
-            "precio": 16900.0
-        },
-        {
-            "titulo": "BMW i3 Carga rápida",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-carga-rapida-2018-1043758558",
-            "descripcion": "Matriculado el 10/2018. Precio sujeto a condiciones de financiación. PVP 18.990€-financiando su totalidad, su precio es de 16.500€ con 1 cuota de 276€ aprox. al mes. Faros Full-Leds, Volante multifunción, Doble pantalla, Navegador, Cámara de marcha atrás, Llantas de aluminio, etc.. 1 año de garantía -Empresa con mas de 25 años de experiencia en marcas premium. Nos encontramos en Avda. Duque de Ahumada, 1 Mérida(frente a la academia de la Guardia Civil de Tráfico). Dispone de un servicio de desplazamiento gratuito Salvo error tipográfico. Se atiende WhatsApp en el 699328794//669873207. Más info en gilcar.es.",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2018",
-            "kilómetros": "58000 km",
-            "precio": 16500.0
-        },
-        {
-            "titulo": "BMW i3 i3 94Ah BEV",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-i3-94ah-bev-1090534602",
-            "descripcion": "Clicars. Nº1 en Europa en ventas de coches reacondicionados. Tendrás tu próximo coche reacondicionado en 24h en la puerta de tu casa. Financiación rápida y flexible. Precio contado: 16490. IVA DEDUCIBLE Financia tu coche desde 282€/mes (cuota baja 1 año GP con garantía premium incluida) Descuento: ¡¡Rebajas Clicars!! Hasta 2.300€ dto (-13%) en este coche. ¡Hasta el 31 de enero! Entrega gratuita en la provincia de Valencia. - 15 días o 1000 km para probarlo - Coches mecanicamente impecables - Hasta un 30% más barato que uno nuevo - Garantía de hasta 3 años - Todos los vehículos pasan la certificación más exigente en 320 puntos - Nuestro horario es de L-V: 09:00-20:30 y S y D: 10:00-19:00 Ven a conocernos a Av. Laboral, 10, 28021 Madrid o llámanos al 911 438 321. 1.950 coches en stock. ID -531786- coche nacional con kilometraje garantizado ***INCLUYE CABLE DE CARGA DOMÉSTICA*** Etiqueta medioambiental 0 Selector de modos de conducción Virtual cockpit Y más en ¡clicars.com!",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2018",
-            "kilómetros": "37200 km",
-            "precio": 16490.0
-        },
-        {
-            "titulo": "BMW i3 i3 94Ah BEV",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-i3-94ah-bev-1090534875",
-            "descripcion": "Clicars. Nº1 en Europa en ventas de coches reacondicionados. Tendrás tu próximo coche reacondicionado en 24h en la puerta de tu casa. Financiación rápida y flexible. Precio contado: 16490. IVA DEDUCIBLE Financia tu coche desde 282€/mes (cuota baja 1 año GP con garantía premium incluida) Descuento: ¡¡Rebajas Clicars!! Hasta 2.300€ dto (-13%) en este coche. ¡Hasta el 31 de enero! Entrega gratuita en la provincia de Valencia. - 15 días o 1000 km para probarlo - Coches mecanicamente impecables - Hasta un 30% más barato que uno nuevo - Garantía de hasta 3 años - Todos los vehículos pasan la certificación más exigente en 320 puntos - Nuestro horario es de L-V: 09:30-20:30 y S: 10:00-19:00 Ven a conocernos a Av. Diagonal, 20, 50197 Zaragoza o llámanos al 876 142 007. 1.950 coches en stock. ID -531786- coche nacional con kilometraje garantizado ***INCLUYE CABLE DE CARGA DOMÉSTICA*** Etiqueta medioambiental 0 Selector de modos de conducción Virtual cockpit Y más en ¡clicars.com!",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2018",
-            "kilómetros": "37200 km",
-            "precio": 16490.0
-        },
-        {
-            "titulo": "BMW i3 i3 94Ah BEV",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-i3-94ah-bev-1090538001",
-            "descripcion": "Clicars. Nº1 en Europa en ventas de coches reacondicionados. Tendrás tu próximo coche reacondicionado en 24h en la puerta de tu casa. Financiación rápida y flexible. Precio contado: 16490. IVA DEDUCIBLE Financia tu coche desde 282€/mes (cuota baja 1 año GP con garantía premium incluida) Descuento: ¡¡Rebajas Clicars!! Hasta 2.300€ dto (-13%) en este coche. ¡Hasta el 31 de enero! Entrega gratuita en la provincia de Valencia. - 15 días o 1000 km para probarlo - Coches mecanicamente impecables - Hasta un 30% más barato que uno nuevo - Garantía de hasta 3 años - Todos los vehículos pasan la certificación más exigente en 320 puntos - Nuestro horario es de L-V: 09:30-20:30 y S: 10:00-19:00 Ven a conocernos a Pol. ind. las Quemadas. Esteban Cabrera, 5, 14014 Cordoba o llámanos al 857 88I 5I3. 1.950 coches en stock. ID -531786- coche nacional con kilometraje garantizado ***INCLUYE CABLE DE CARGA DOMÉSTICA*** Etiqueta medioambiental 0 Virtual cockpit USB Y más en ¡clicars.com!",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2018",
-            "kilómetros": "37200 km",
-            "precio": 16490.0
-        },
-        {
-            "titulo": "BMW i3 i3 94Ah BEV",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-i3-94ah-bev-1090538011",
-            "descripcion": "Clicars. Nº1 en Europa en ventas de coches reacondicionados. Tendrás tu próximo coche reacondicionado en 24h en la puerta de tu casa. Financiación rápida y flexible. Precio contado: 16490. IVA DEDUCIBLE Financia tu coche desde 282€/mes (cuota baja 1 año GP con garantía premium incluida) Descuento: ¡¡Rebajas Clicars!! Hasta 2.300€ dto (-13%) en este coche. ¡Hasta el 31 de enero! Entrega gratuita en la provincia de Valencia. - 15 días o 1000 km para probarlo - Coches mecanicamente impecables - Hasta un 30% más barato que uno nuevo - Garantía de hasta 3 años - Todos los vehículos pasan la certificación más exigente en 320 puntos - Nuestro horario es de L-V: 09:30-20:30 y S: 10:00-19:00 Ven a conocernos a Cerrado (DANA) Av. la Pista, 12, 46470 Massanassa o llámanos al 96O I36 6O7. 1.950 coches en stock. ID -531786- coche nacional con kilometraje garantizado ***INCLUYE CABLE DE CARGA DOMÉSTICA*** Etiqueta medioambiental 0 Selector de modos de conducción Y más en ¡clicars.com!",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2018",
-            "kilómetros": "37200 km",
-            "precio": 16490.0
-        },
-        {
-            "titulo": "BMW i3 i3 94Ah BEV",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-i3-94ah-bev-1090540789",
-            "descripcion": "Clicars. Nº1 en Europa en ventas de coches reacondicionados. Tendrás tu próximo coche reacondicionado en 24h en la puerta de tu casa. Financiación rápida y flexible. Precio contado: 16490. IVA DEDUCIBLE Financia tu coche desde 282€/mes (cuota baja 1 año GP con garantía premium incluida) Descuento: ¡¡Rebajas Clicars!! Hasta 2.300€ dto (-13%) en este coche. ¡Hasta el 31 de enero! Entrega gratuita en la provincia de Valencia. - 15 días o 1000 km para probarlo - Coches mecanicamente impecables - Hasta un 30% más barato que uno nuevo - Garantía de hasta 3 años - Todos los vehículos pasan la certificación más exigente en 320 puntos - Nuestro horario es de L-V: 09:30-20:30 y S: 10:00-19:00 Ven a conocernos a Ctra. Ocaña, 65, 03007 Alicante o llámanos al 965 O26 232. 1.950 coches en stock. ID -531786- coche nacional con kilometraje garantizado ***INCLUYE CABLE DE CARGA DOMÉSTICA*** Etiqueta medioambiental 0 Selector de modos de conducción Virtual cockpit Y más en ¡clicars.com!",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2018",
-            "kilómetros": "37200 km",
-            "precio": 16490.0
-        },
-        {
-            "titulo": "BMW i3 2019",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-2019-1043195470",
-            "descripcion": "Vendo este magnifico BMW i3 120 Ah 2019, por el poco uso que le damos al no ser el coche que usamos habitualmente. Su origen es nacional, esta en perfecto estado, bien cuidado y revisado. El coche cuenta con una batería de 42kWh/120 Ah, con una autonomía de 250 a 300 km aprox, dependiendo del tipo de conducción, trayecto y condiciones climáticas. Esta dotado con faros Led’s, con 3 modos de conducción, volante multifunción, cámara para marcha atrás, CarPlay, carga rápida con corriente alterna trifásica de hasta 11 kwh, y la carga rápida con corriente continua alcanza hasta los 50KWh, acristalamiento de protección solar La mayoría de la veces el coche se ha cargado en corriente alterna, a 7kwhh o 11 kwh. El coche tiene pasada la ITV periódica, las revisiones oficiales en BMW y, además, adicionalmente, se ha realizado revisiones preventivas en el taller The Doctor Sevilla, para ofrecer mas seguridad sobre el estado del vehículo. Se ha cambio el gas de refrigeración y el aceite AFT de la transmisión Para más información.. contactar por privado o por teléfono.",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2019",
-            "kilómetros": "118000 km",
-            "precio": 16300.0
-        },
-        {
-            "titulo": "BMW i3 2018 94ah",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-2018-94ah-1078265509",
-            "descripcion": "ITV recien pasada. Camara trasera. Luces Led. Sensores de aparcamiento. 2 llaves.",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2018",
-            "kilómetros": "80000 km",
-            "precio": 16000.0
-        },
-        {
-            "titulo": "BMW i3 2017",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-2017-maraton-edition-1070863888",
-            "descripcion": "Vendiendo mi auto. Auto está en perfecto estado. Máximo equipamiento exclusivo. Reserva de marcha 230 km. Kilometraje 100.000. Batería 90%. Consumo de electricidad 12 kW/100 km. Posible cambio por un BMW o Mercedes no anterior a 2017",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "184 cv",
-            "año": "2017",
-            "kilómetros": "105000 km",
-            "precio": 16000.0
-        },
-        {
-            "titulo": "BMW i3 94ah",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-94ah-984970710",
-            "descripcion": "Conectividad, bluetooth, Android auto, Apple CarPlay. Control de crucero. Faros led. Navegador. Parktronic. Carplus I Pertenecemos al mayor grupo ibérico de automoción, Grupo Salvador Caetano I Compra online o en nuestras instalaciones de Leganés o Málaga I Abrimos todos los días Descubre las ventajas de comprar un coche en Carplus: - Puedes probar todos nuestros vehículos - Hasta 3 años de garantía premium para tu tranquilidad - Todos nuestros vehículos certificados con un control de 300 puntos, el más exhaustivo del mercado - Tienes más de 1000 coches donde elegir - Te ofrecemos soluciones de financiación hasta un 100% y seguro - Servicio de entrega a domicilio. - Puedes entregar tu vehículo como parte del pago - ¡Abrimos todos los días! Leganés: L-V: 09:30h a 20:00h, Sábados: 10:00h a 14:00h – 16:00h a 20:00h, Domingos y festivos: 10:00h a 18:00h Málaga: L-V: 09:30h a 20:30h, Sábados: 10:00h a 14:00h - 16:30h a 20:30h. Domingos: Cerrado Los precios son orientativos y no tienen carácter contractual, los precios definitivos serán confirmados por el concesionario distribuidor, pudiendo verse afectados en función de las opciones que se escojan, así como la campaña comercial vigente en el momento de la compra.",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2018",
-            "kilómetros": "44400 km",
-            "precio": 15990.0
-        },
-        {
-            "titulo": "BMW i3 94ah",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-94ah-984970711",
-            "descripcion": "Conectividad, bluetooth, Android auto, Apple CarPlay. Control de crucero. Faros led. Navegador. Parktronic. Carplus I Pertenecemos al mayor grupo ibérico de automoción, Grupo Salvador Caetano I Compra online o en nuestras instalaciones de Leganés o Málaga I Abrimos todos los días Descubre las ventajas de comprar un coche en Carplus: - Puedes probar todos nuestros vehículos - Hasta 3 años de garantía premium para tu tranquilidad - Todos nuestros vehículos certificados con un control de 300 puntos, el más exhaustivo del mercado - Tienes más de 1000 coches donde elegir - Te ofrecemos soluciones de financiación hasta un 100% y seguro - Servicio de entrega a domicilio. - Puedes entregar tu vehículo como parte del pago - ¡Abrimos todos los días! Leganés: L-V: 09:30h a 20:00h, Sábados: 10:00h a 14:00h – 16:00h a 20:00h, Domingos y festivos: 10:00h a 18:00h Málaga: L-V: 09:30h a 20:30h, Sábados: 10:00h a 14:00h - 16:30h a 20:30h. Domingos: Cerrado Los precios son orientativos y no tienen carácter contractual, los precios definitivos serán confirmados por el concesionario distribuidor, pudiendo verse afectados en función de las opciones que se escojan, así como la campaña comercial vigente en el momento de la compra.",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2018",
-            "kilómetros": "44400 km",
-            "precio": 15990.0
-        },
-        {
-            "titulo": "BMW i3 2017",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-2017-1071790226",
-            "descripcion": "BMW I3 94ah 170CV CON TODOS LOS EXTRAS QUE PUEDE LLEVAR ESTA VERSIÓN, VEHÍCULO MUY MIMADO, BATERÍA AL 91% SIEMPRE CARGAS LENTAS, 270KMS DE AUTONOMÍA EN MODO ECOPLUS. UN AÑO DE GARANTÍA Y TRANSFERENCIA INCLUIDA EN EL PRECIO. POSIBILIDAD DE FINANCIACIÓN.",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2017",
-            "kilómetros": "54000 km",
-            "precio": 15900.0
-        },
-        {
-            "titulo": "BMW i3 94Ah 125 kW (170 CV)",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-94ah-125-kw-170-cv-988558206",
-            "descripcion": "Financiación 100% Vehículo nacional de un único propietario. El precio incluye: IVA (deducible) y 1 año de Garantía. Kilometraje y ausencia de golpes estructurales certificados por Carfax. Última revisión: Concesionario Oficial BMW el 24/08/2022 a los 53.607kms. Financiación 100% sin entrada. Precio al contado: 15.900€ Precio nuevo: 42.205€ Extras: Pintura: CapparisweiB sólida Tapizado: Combinacion tela Neutronic / Gris Aragaz Paquete Comfort Advanced 2.150€ Sistema navegación Business 1.200€ Alfombrillas de velours 125€ Portabebidas 35€ Control de crucero con función de freno Sensor de lluvia incluyendo accionamiento automático de las luces de cruce Volante multifunción Remote Services Servicios ConnectedDrive TeleServices Llamada de emergencia inteligente Desactivación del airbag del acompañante Climatizador Auto Sport Moraleja",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2018",
-            "kilómetros": "55800 km",
-            "precio": 15900.0
-        },
-        {
-            "titulo": "BMW i3 eléctrico",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-electrico-1086166539",
-            "descripcion": "Con ITV pasada, seguro hasta verano. Autonomía 200 kilómetros. se puede cargar en enchufe convencional.",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2017",
-            "kilómetros": "106000 km",
-            "precio": 15900.0
-        },
-        {
-            "titulo": "BMW i3 2019 42kWh",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-2019-42kwh-610706714",
-            "descripcion": "BMW 13 120Ah Noviembre 2019-90000 kms Magnifico BMW i3 eléctrico con bateria perfecta . Bateria de 42kWh. -Color: Mineralgrau con detalles BMW y Azul -Tapicería: BHGI - Combinación tela Neutronic Aragazgrau / Schwarz *Equipo opcional -19\" Ll.al.lig. BMW i diseño turbina 428 mixtos -Control de presión de neumáticos -Juego de reparación de neumáticos -Equipamientos adicionales específicos en la UE -Volante multifunción -Cámara para marcha atrás -Acceso confort Carga rápida con corriente alterna trifásica -Carga rápida con corriente continua -Acristalamiento de protección solar -Alfombrillas de velours",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "184 cv",
-            "año": "2019",
-            "kilómetros": "90000 km",
-            "precio": 15500.0
-        },
-        {
-            "titulo": "OCASION !! BMW i3 2018",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-2018-1063637017",
-            "descripcion": "BMW i3 en perfecto estado Espejos electricos plegables carcasa en fibra de carbono real. control de crucero. lenguatronic. Pastillas de freno recien cambiadas. cable de carga domestico BMW cable de carga corriente alterna y continua original Bmw tambien incluido. Precio nuevo: 51.592€ Extras: Pintura: color azul noche y negro sólida Fluid Black. Tapizado tela, detalles Braun Carumgrau. Paquete Comfort 1.990€ Diseño interior BMW i 1.500€ Sistema de navegación Business 1.200€ Control de distancia en aparcamiento (PDC) 370€ Acristalamiento de protección solar 360€ Paquete de servicios ConnectedDrive 307€ Sistema de telefonía con carga inalámbrica 260€, Real Time Traffic Information (RTTI) 165€, Alfombrillas de velours 125€ Portabebidas 35€ Connected e Drive Servicios connected drive Teleservices Llamada de emergencia inteligente Desactivación del airbag del acompañante. llantas 19’ Estado vida util de la bateria 84% (muy buenos ciclos de carga) La capacidad actual es de 26.4 kwh. Nuevo la batería tiene una capacidad bruta de 33 kWh (29 kWh netos), al tiempo que la entrega de corriente aumenta a 94 Ah (amperios-hora) “Muy bien cuidado” Mejor ver sin compromiso. “Neumaticos delanteros Michelin CrossClimate y traseros Michelin E Primacy cambiados el 10 de diciembre.”",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2018",
-            "kilómetros": "150000 km",
-            "precio": 14500.0
-        },
-        {
-            "titulo": "BMW i3 120Ah 125 kW (170 CV)",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-120ah-125-kw-170-cv-1004356033",
-            "descripcion": "Compra tu coche online y te lo llevamos a casa. Si tienes algún problema, podrás cambiarlo dentro de los primeros 15 días o 500 km, consulta las condiciones con tu comercial. 200 KM de autonomia BMW equipado con: 249 Volante multifuncional 0,00 EUR 2PA Tornillos antirrobo para las llantas 25,00 EUR 302 Dispositivo de alarma 500,00 EUR 3AG Cámara para marcha atrás 0,00 EUR 420 Acristalamiento de protección solar 349,99 EUR 423 Alfombrillas de velours 123,23 EUR 430 Espejos retrovisores interior y exteriores con ajuste automático anti-deslumbramiento 0,00 EUR 442 Portabebidas 30,50 EUR 473 Reposabrazos delantero 0,00 EUR 493 Paquete de compartimentos 0,00 EUR 508 Control de distancia en aparcamiento (PDC) 0,00 EUR 521 Sensor de lluvia 0,00 EUR 534 Climatizador 0,00 EUR 544 Control de crucero con función de frenado 0,00 EUR 5AK Elementos de luz LED 250,00 EUR 5DP Asistente de aparcamiento 0,00 EUR 5DU Paquete de asistente de aparcamiento 990,00 EUR 609 Sistema de navegación Professional 2.099,99 EUR 6AK Servicios ConnectedDrive 349,99 EUR 6AM Real Time Traffic Information 149,99 EUR 6AN Concierge Services 250,00 EUR 6NR Apps 150,00 EUR 7GA Paquete Comfort Advanced 2.800,00 EUR 7S9 Paquete de servicios ConnectedDrive 681,26 EUR BHGI Combinación tela/Sensatec 'Electronic' Aragazgrau/Schwarz 0,00 EU Te entregamos tu vehículo recién revisado en más de 90 puntos y listo para disfrutar. - Gastos de transferencia no incluidos, importe 300 euros. - Gastos de transferencia * Válido para vehículos a partir de 10.000 €",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2018",
-            "kilómetros": "199000 km",
-            "precio": 14490.0
-        },
-        {
-            "titulo": "BMW i3 120Ah 125 kW (170 CV)",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-120ah-125-kw-170-cv-1004346589",
-            "descripcion": "Compra tu coche online y te lo llevamos a casa. Si tienes algún problema, podrás cambiarlo dentro de los primeros 15 días o 500 km, consulta las condiciones con tu comercial. 200 KM de autonomia BMW equipado con: 249 Volante multifuncional 0,00 EUR 2PA Tornillos antirrobo para las llantas 25,00 EUR 302 Dispositivo de alarma 500,00 EUR 3AG Cámara para marcha atrás 0,00 EUR 420 Acristalamiento de protección solar 349,99 EUR 423 Alfombrillas de velours 123,23 EUR 430 Espejos retrovisores interior y exteriores con ajuste automático anti-deslumbramiento 0,00 EUR 442 Portabebidas 30,50 EUR 473 Reposabrazos delantero 0,00 EUR 493 Paquete de compartimentos 0,00 EUR 508 Control de distancia en aparcamiento (PDC) 0,00 EUR 521 Sensor de lluvia 0,00 EUR 534 Climatizador 0,00 EUR 544 Control de crucero con función de frenado 0,00 EUR 5AK Elementos de luz LED 250,00 EUR 5DP Asistente de aparcamiento 0,00 EUR 5DU Paquete de asistente de aparcamiento 990,00 EUR 609 Sistema de navegación Professional 2.099,99 EUR 6AK Servicios ConnectedDrive 349,99 EUR 6AM Real Time Traffic Information 149,99 EUR 6AN Concierge Services 250,00 EUR 6NR Apps 150,00 EUR 7GA Paquete Comfort Advanced 2.800,00 EUR 7S9 Paquete de servicios ConnectedDrive 681,26 EUR BHGI Combinación tela/Sensatec 'Electronic' Aragazgrau/Schwarz 0,00 EU Te entregamos tu vehículo recién revisado en más de 90 puntos y listo para disfrutar. - Gastos de transferencia no incluidos, importe 300 euros. - Gastos de transferencia * Válido para vehículos a partir de 10.000 €",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2018",
-            "kilómetros": "199000 km",
-            "precio": 14490.0
-        },
-        {
-            "titulo": "BMW i3 120Ah 125 kW (170 CV)",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-120ah-125-kw-170-cv-1004349337",
-            "descripcion": "Compra tu coche online y te lo llevamos a casa. Si tienes algún problema, podrás cambiarlo dentro de los primeros 15 días o 500 km, consulta las condiciones con tu comercial. 200 KM de autonomia BMW equipado con: 249 Volante multifuncional 0,00 EUR 2PA Tornillos antirrobo para las llantas 25,00 EUR 302 Dispositivo de alarma 500,00 EUR 3AG Cámara para marcha atrás 0,00 EUR 420 Acristalamiento de protección solar 349,99 EUR 423 Alfombrillas de velours 123,23 EUR 430 Espejos retrovisores interior y exteriores con ajuste automático anti-deslumbramiento 0,00 EUR 442 Portabebidas 30,50 EUR 473 Reposabrazos delantero 0,00 EUR 493 Paquete de compartimentos 0,00 EUR 508 Control de distancia en aparcamiento (PDC) 0,00 EUR 521 Sensor de lluvia 0,00 EUR 534 Climatizador 0,00 EUR 544 Control de crucero con función de frenado 0,00 EUR 5AK Elementos de luz LED 250,00 EUR 5DP Asistente de aparcamiento 0,00 EUR 5DU Paquete de asistente de aparcamiento 990,00 EUR 609 Sistema de navegación Professional 2.099,99 EUR 6AK Servicios ConnectedDrive 349,99 EUR 6AM Real Time Traffic Information 149,99 EUR 6AN Concierge Services 250,00 EUR 6NR Apps 150,00 EUR 7GA Paquete Comfort Advanced 2.800,00 EUR 7S9 Paquete de servicios ConnectedDrive 681,26 EUR BHGI Combinación tela/Sensatec 'Electronic' Aragazgrau/Schwarz 0,00 EU Te entregamos tu vehículo recién revisado en más de 90 puntos y listo para disfrutar. - Gastos de transferencia no incluidos, importe 300 euros. - Gastos de transferencia * Válido para vehículos a partir de 10.000 €",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2018",
-            "kilómetros": "199000 km",
-            "precio": 14490.0
-        },
-        {
-            "titulo": "BMW i3 120Ah 125 kW (170 CV)",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-120ah-125-kw-170-cv-1004347948",
-            "descripcion": "Compra tu coche online y te lo llevamos a casa. Si tienes algún problema, podrás cambiarlo dentro de los primeros 15 días o 500 km, consulta las condiciones con tu comercial. 200 KM de autonomia BMW equipado con: 249 Volante multifuncional 0,00 EUR 2PA Tornillos antirrobo para las llantas 25,00 EUR 302 Dispositivo de alarma 500,00 EUR 3AG Cámara para marcha atrás 0,00 EUR 420 Acristalamiento de protección solar 349,99 EUR 423 Alfombrillas de velours 123,23 EUR 430 Espejos retrovisores interior y exteriores con ajuste automático anti-deslumbramiento 0,00 EUR 442 Portabebidas 30,50 EUR 473 Reposabrazos delantero 0,00 EUR 493 Paquete de compartimentos 0,00 EUR 508 Control de distancia en aparcamiento (PDC) 0,00 EUR 521 Sensor de lluvia 0,00 EUR 534 Climatizador 0,00 EUR 544 Control de crucero con función de frenado 0,00 EUR 5AK Elementos de luz LED 250,00 EUR 5DP Asistente de aparcamiento 0,00 EUR 5DU Paquete de asistente de aparcamiento 990,00 EUR 609 Sistema de navegación Professional 2.099,99 EUR 6AK Servicios ConnectedDrive 349,99 EUR 6AM Real Time Traffic Information 149,99 EUR 6AN Concierge Services 250,00 EUR 6NR Apps 150,00 EUR 7GA Paquete Comfort Advanced 2.800,00 EUR 7S9 Paquete de servicios ConnectedDrive 681,26 EUR BHGI Combinación tela/Sensatec 'Electronic' Aragazgrau/Schwarz 0,00 EU Te entregamos tu vehículo recién revisado en más de 90 puntos y listo para disfrutar. - Gastos de transferencia no incluidos, importe 300 euros. - Gastos de transferencia * Válido para vehículos a partir de 10.000 €",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2018",
-            "kilómetros": "199000 km",
-            "precio": 14490.0
-        },
-        {
-            "titulo": "BMW i3 2018 94ah",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-2018-1080772210",
-            "descripcion": "En perfectas condiciones. Muchos extras: navegador profesional, control de crucero adaptativo, paquete de iluminacion, entrada sin llave, \"Aparca solo\", carga rapida, control cambio carril, llantas de aleacion. Muy pocas unidades en venta con estos extras. NO COMPRAVENTAS. NO CAMBIO POR NADA. NO OFERTAS RIDICULAS.",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2018",
-            "kilómetros": "95000 km",
-            "precio": 14200.0
-        },
-        {
-            "titulo": "BMW i3 2018",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-2018-962507059",
-            "descripcion": "Nacional, 12 meses de GARANTÍA, IVA incluido y DEDUCIBLE, Muy equipado, KMS reales, No fumador, Con ITV al día; revisado y 2nda llave",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2018",
-            "kilómetros": "80000 km",
-            "precio": 14000.0
-        },
-        {
-            "titulo": "🟢REBAJAS🟢BMW i3 i01 electric",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-i01-94ah-170cv-1051582538",
-            "descripcion": "🟢REBAJAS🟢 🔴Antes 13.990€-Ahora 12.990€🔴 ⚡ OFERTA VINCULANTE HASTA EL DIA 31 DE ENERO DE 2025!!!⚡ -BMW i3 i01 94Ah 170cv, Automatico,año 2017,130.000km. - -Llantas Aluminio. -Volante multifunción. -Radio pantalla. -Control de velocidad. -Climatizador. -Luces automaticas. -Retrovisores eléctricos. -Ordenador a bordo. -Elevalunas eléctricos. -Cierre centralizado. -Distintivo medioambiental 0. -Garantia opcional. -Posibilidad de envío. -Recogemos su vehículo como parte de pago.",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2017",
-            "kilómetros": "130000 km",
-            "precio": 12990.0
-        },
-        {
-            "titulo": "BMW i3S 2019 ACCIDENTADO",
-            "enlace": "https://es.wallapop.com/item/bmw-i3s-2019-accidentado-1087397372",
-            "descripcion": "",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "184 cv",
-            "año": "2019",
-            "kilómetros": "39500 km",
-            "precio": 12900.0
-        },
-        {
-            "titulo": "BMW i3 2017",
-            "enlace": "https://es.wallapop.com/item/bmw-i3-2017-1064438684",
-            "descripcion": "muy cuidado 200 km de autonomia real, siempre se a cargado con carga lenta. bateria al 85% de vida, segun diagnosis en taller especializado. iva deducible.",
-            "combustible": "Eléctrico",
-            "cambio": "Automático",
-            "potencia": "170 cv",
-            "año": "2017",
-            "kilómetros": "120000 km",
-            "precio": 12500.0
         }
     ]
 }

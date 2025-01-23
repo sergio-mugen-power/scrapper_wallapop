@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "Q7",
+        "version": "3.0 TFSI 333 CV quattro tiptronic 8 vel. Ambiente 5 plazas",
+        "año mínimo": 2012,
+        "año máximo": 2015,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 333,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=333&min_year=2012&max_year=2015&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=Q7&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi Q7 2015",
+            "enlace": "https://es.wallapop.com/item/audi-q7-2015-1066266718",
+            "descripcion": "/// CITA PREVIA IMPRESCINDIBLE /// PIDA SU CITA PARA UNA ATENCIÓN MEJORADA Y PERSONALIZADA -12 MESES DE GARANTÍA -CAMBIO DE NOMBRE INCLUIDO CARACTERÍSTICAS: -BUEN ESTADO GENERAL -CAMBIO AUTOMATICO CON LEVAS -MOTOR 3.0 GASOLINA/333 CV -UNICO PROPIETARIO -NACIONAL -7 PLAZAS -S-LINE -QUATTRO -2 LLAVES EXTRAS: -cuadro digital con navegador -modos de conducción -techo panorámico eléctrico -head up dipaly ajustable -parking assist -asientos regulables con memoria -ajuste lumbar eléctrico -cámara 360º -cámara con visión nocturna -asientos traseros auto abatibles -arranque apertura y cierre sin llave --asientos calefactables delanteros y traseros -tapicería en cuero -portón de maletero eléctrico -asistente de mantenimiento en el carril -suspensión regulable en maletero para facilitar su carga -control de descenso en pendientes -sensores de aparcamiento -luces automáticas -control de crucero adaptativo -arranque sin llave -navegador -volante multifunción -climatizador 4-zona -sistema multimedia -retrovisores con regulación eléctrica, auto abatibles y calefactables -Fotos y videos en máxima calidad en autotraderlevante.es -WE SPEAK ENGLISH AS WELL -NOUS PARLONS FRANÇAIS -Posibilidad de financiación. -Cogemos tu coche como forma de pago. -Enviamos a domicilio (consultar condiciones) / fotos y videos detallados por whatsapp. Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual JHT4849AT",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "333 cv",
+            "año": "2015",
+            "kilómetros": "200000 km",
+            "precio": 28950.0
+        },
+        {
+            "titulo": "Audi Q7 2015",
+            "enlace": "https://es.wallapop.com/item/audi-q7-2015-1091188193",
+            "descripcion": "pida su cita para una atenciÓn mejorada y personalizada -12 meses de garantÍa -cambio de nombre incluido AUDI Q7 caracterÍsticas: -buen estado general -cambio automatico con levas -motor 3.0 gasolina/333 cv -nacional -5 plazas -s-line -quattro -2 llaves extras: -cuadro digital con navegador -modos de conducción -techo panorámico eléctrico -head up dipaly ajustable -parking assist -asientos regulables con memoria -ajuste lumbar eléctrico -cámara 360º -cámara con visión nocturna -asientos traseros auto abatibles -arranque apertura y cierre sin llave --asientos calefactables delanteros y traseros -tapicería en cuero -portón de maletero eléctrico -asistente de mantenimiento en el carril -suspensión regulable en maletero para facilitar su carga -control de descenso en pendientes -sensores de aparcamiento -luces automáticas -control de crucero adaptativo -arranque sin llave -navegador -volante multifunción -climatizador 4-zona -sistema multimedia -retrovisores con regulación eléctrica, auto abatibles y calefactables. posibilidad de financiación. -cogemos tu coche como forma de pago.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "333 cv",
+            "año": "2015",
+            "kilómetros": "219000 km",
+            "precio": 23900.0
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Serie 5",
+        "version": "535i",
+        "año mínimo": "2010",
+        "año máximo": "2011",
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": "306",
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=306&min_year=2010&max_year=2011&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=BMW&model=Serie 5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW Serie 5 2011",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-2011-1033826698",
+            "descripcion": "vendo bmw f10 535i manual con 306cv.lleva techo solar,asientos M,asientos calefactables,llantas originales en 19,climatizador bizona,velocidad crucero,...es una pasada la verdad...solo gente seria un saludo..coche similar a; seat Audi volkswagen ford peugeot citroen dacia bmw mercedes a7 a6 leon fr 535i e320 glc gla a8 todos furgonetas alfa romeo mito",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "306 cv",
+            "año": "2011",
+            "kilómetros": "290000 km",
+            "precio": 18999.0
+        }
+    ]
+}

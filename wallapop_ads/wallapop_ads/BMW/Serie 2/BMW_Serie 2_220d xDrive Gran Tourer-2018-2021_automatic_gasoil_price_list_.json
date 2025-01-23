@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 2",
         "version": "220d xDrive Gran Tourer",
-        "año mínimo": 2018,
-        "año máximo": 2021,
+        "año mínimo": "2018",
+        "año máximo": "2021",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "automatic",
         "tipos de motor": "gasoil",
-        "potencia máxima": 190,
+        "potencia máxima": "190",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=190&min_year=2018&max_year=2021&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -233,7 +233,7 @@
         {
             "titulo": "BMW Serie 2 2020",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-2020-1090193424",
-            "descripcion": "Vehículo de entrega inmediata en AUTOCASIÓ MANRESA S.L. No duden en solicitar información mas detallada sobre esta unidad. Todos nuestros vehículos se entregan debidamente revisados y con garantía incluida. Gastos de gestión de cambio de nombre no incluidos +295€. Atención directa y personalitzada. Disponemos de posibilidad de financiación si lo requiere el cliente (consultar condiciones) Posibilidad de entrega de vehículo a cambio previa tasación. Servicio de transporte a Peninsula y Baleares.",
+            "descripcion": "",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "190 cv",
@@ -364,17 +364,6 @@
         },
         {
             "titulo": "BMW Serie 2 218d Gran Coupe 110 kW (150 CV)",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-2-218d-gran-coupe-110-kw-150-cv-1079149843",
-            "descripcion": "",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "150 cv",
-            "año": "2021",
-            "kilómetros": "33351 km",
-            "precio": 30490.0
-        },
-        {
-            "titulo": "BMW Serie 2 218d Gran Coupe 110 kW (150 CV)",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-218d-gran-coupe-110-kw-150-cv-1062717761",
             "descripcion": "",
             "combustible": "Diésel",
@@ -385,15 +374,15 @@
             "precio": 30490.0
         },
         {
-            "titulo": "BMW Serie 2 2020",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-2-2020-936802563",
+            "titulo": "BMW Serie 2 218d Gran Coupe 110 kW (150 CV)",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-2-218d-gran-coupe-110-kw-150-cv-1079149843",
             "descripcion": "",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "150 cv",
-            "año": "2020",
-            "kilómetros": "96694 km",
-            "precio": 30000.0
+            "año": "2021",
+            "kilómetros": "33351 km",
+            "precio": 30490.0
         },
         {
             "titulo": "BMW Serie 2 2021",
@@ -449,6 +438,17 @@
             "año": "2020",
             "kilómetros": "47000 km",
             "precio": 29499.0
+        },
+        {
+            "titulo": "BMW Serie 2 2020",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-2-2020-936802563",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "2020",
+            "kilómetros": "96694 km",
+            "precio": 29000.0
         },
         {
             "titulo": "BMW Serie 2 2020",

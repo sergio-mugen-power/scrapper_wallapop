@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 75,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=75&min_year=2000&max_year=2001&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=75&min_year=2000&max_year=2001&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=manual&brand=Audi&model=A2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -34,17 +34,6 @@
         },
         {
             "titulo": "Audi A2 2001",
-            "enlace": "https://es.wallapop.com/item/audi-a2-2001-1062559620",
-            "descripcion": "Audi A2 1.4 75cvs Nacional Fantastico y practico Monovolumen ideal para el dia a dia por su fiabilidad y bajo consumo. Recien revisada con itv recien pasada. Conserva su Manual y dos llaves con mando. Muy bien equipado en extras; -Llantas de aluminio -Asientos deportivos -Climatizador con Aire acondociondo -Radio Cd Pioneer con Usb -Espejos electricos -Elevalunas Etc Etiqueta Dgt de bajas emisiones Gran oportunidad por su buen estado y bajo kilometraje.",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "75 cv",
-            "año": "2001",
-            "kilómetros": "160000 km",
-            "precio": 3800.0
-        },
-        {
-            "titulo": "Audi A2 2001",
             "enlace": "https://es.wallapop.com/item/audi-a2-1056300345",
             "descripcion": "coche muy buen cuidado, no fumador, embrague recien puesto( enseño factura) ruedas en buen estado, siempre duerme en garaje, bateria nueva, mantenientos al dia, itv 2025",
             "combustible": "Gasolina",
@@ -52,6 +41,17 @@
             "potencia": "75 cv",
             "año": "2001",
             "kilómetros": "132000 km",
+            "precio": 3500.0
+        },
+        {
+            "titulo": "Audi A2 2001",
+            "enlace": "https://es.wallapop.com/item/audi-a2-2001-1062559620",
+            "descripcion": "Audi A2 1.4 75cvs Nacional Fantastico y practico Monovolumen ideal para el dia a dia por su fiabilidad y bajo consumo. Recien revisada con itv recien pasada. Conserva su Manual y dos llaves con mando. Muy bien equipado en extras; -Llantas de aluminio -Asientos deportivos -Climatizador con Aire acondociondo -Radio Cd Pioneer con Usb -Espejos electricos -Elevalunas Etc Etiqueta Dgt de bajas emisiones Gran oportunidad por su buen estado y bajo kilometraje.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "75 cv",
+            "año": "2001",
+            "kilómetros": "160000 km",
             "precio": 3500.0
         },
         {
@@ -75,17 +75,6 @@
             "año": "2000",
             "kilómetros": "188000 km",
             "precio": 3200.0
-        },
-        {
-            "titulo": "Audi A2 Etiqueta C 🟢",
-            "enlace": "https://es.wallapop.com/item/audi-a2-etiqueta-c-1074023906",
-            "descripcion": "Audi A2 1.4 75cvs Nacional Fantastico y practico Monovolumen ideal para el dia a dia por su fiabilidad y bajo consumo. Recien revisada con itv recien pasada. Conserva sus dos llaves. Muy bien equipado en extras; ✅️Llantas de aluminio ✅️Asientos deportivos ✅️Asc control de estabilidad ✅️Radio Cd Pioneer con Usb ✅️Espejos electricos ✅️Elevalunas Etc ✅️Etiqueta C de bajas emisiones🟢 Gran oportunidad por su buen estado y bajo kilometraje. Gancho;Audi a1 a2 a3, volkswagen lupo polo golf, ford ka, fiat 500, smart, Mini one, seat ibiza,",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "75 cv",
-            "año": "2000",
-            "kilómetros": "180000 km",
-            "precio": 2999.0
         },
         {
             "titulo": "Audi A2 2001",

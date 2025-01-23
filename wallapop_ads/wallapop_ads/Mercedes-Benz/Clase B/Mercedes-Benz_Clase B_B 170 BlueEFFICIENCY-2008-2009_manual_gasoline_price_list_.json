@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase B",
+        "version": "B 170 BlueEFFICIENCY",
+        "año mínimo": "2008",
+        "año máximo": "2009",
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 116,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=116&min_year=2008&max_year=2009&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Mercedes-Benz&model=Clase B&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase B 2009",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-b-2009-1078624100",
+            "descripcion": "Coche con 2 llaves originales, siempre en garaje, volante multifunción, velocidad crucero, llantas de aluminio originales ITV hasta junio del 2025, tapicería interior como nueva",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "109 cv",
+            "año": "2009",
+            "kilómetros": "135000 km",
+            "precio": 10500.0
+        },
+        {
+            "titulo": "MERCEDES-BENZ B-KLASSE B 170 GASOLINA 116 CV ",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-b-klasse-b-170-gasolina-115-cv-1091765646",
+            "descripcion": "Mercedes-Benz Clase B 170 Gasolina 116 CV BlueEfficiency,con Etiqueta Medioambiental \"C\", matriculado Abril 2009. Disponible en Automoció Costa Daurada en El Vendrell (Tarragona) ENTREGA INMEDIATA. - Garantía 12 meses - Entrega a domicilio ( consultar condiciones ) *EXTRAS A DESTACAR : -Climatizador -Asistente a la conducción: Asistente en subidas -Sensor de luz y de lluvia -Retrovisor exterior regulable eléctricamente y calefactable, ambos -Retrovisor exterior plegable eléctricamente -Tapicería asientos: cuero sintético Artico -Rueda de repuesto de emergencia -Asientos traseros plegables1/3-2/3 con acceso al maletero y anclaje de la carga -Pedales de acero inox. diseño deportivo PRECIO CONTADO: 9.900€ Aceptamos vehículo como parte del pago (oferta válida salvo error tipográfico) #mercedesocasion #mercedesbsegundamano #mercedesocasionenelvendrell #cochesdeocasion #cochesseminuevos #mercedesgasolinaocasion #cochesegundamano #monovolumenocasion",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "116 cv",
+            "año": "2009",
+            "kilómetros": "81200 km",
+            "precio": 9900.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase B 150",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-b-150-1091594617",
+            "descripcion": "Nacional y soy segundo propietario, lleva conmigo 10 años y lo vendo por tener otro coche. Mantenimiento recien hechos y itv pasada hace una semana. El techo panoramico no abre. Se entregara con el asiento piloto tapizado nuevo. Todo lo demas funciona perfecto. Para mas info preguntar. precio no negociable",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "95 cv",
+            "año": "2008",
+            "kilómetros": "160000 km",
+            "precio": 5500.0
+        }
+    ]
+}

@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 2",
         "version": "M2 Coupé cambio automático",
-        "año mínimo": 2022,
-        "año máximo": 2024,
+        "año mínimo": "2022",
+        "año máximo": "2024",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "automatic",
         "tipos de motor": "gasoline",
-        "potencia máxima": 460,
+        "potencia máxima": "460",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=460&min_year=2022&max_year=2024&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -196,6 +196,17 @@
             "año": "2023",
             "kilómetros": "19500 km",
             "precio": 74900.0
+        },
+        {
+            "titulo": "BMW Serie 2 2023",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-2-2023-1092735495",
+            "descripcion": "QUALITYCARS.ES ·VEHICULO NACIONAL EN PERFECTO ESTADO. ·1 SOLO PROPIETARIO. ·MATRICULADO 19/05/2023. ·PRECIO SUJETO A FINANCIACION MINIMA DE 15.000€ A 5 AÑOS 71.900€. ·PRECIO AL CONTADO 72.900€. ·TODOS LOS GASTOS INCLUIDOS EXCEPTO CAMBIO DE NOMBRE +180€. ·MANTENIMIENTO AL DÍA EN SERVICIO OFICIAL. EQUIPAMIENTO DESTACADO: -NAVEGADOR -FAROS FULL LED -CAMARA DE MARCHA ATRAS -SENSORES DE PARKING DELANTEROS Y TRASEROS -ACCESO CONFORT, APERTURA Y ARRANQUE SIN LLAVE -PAQUETE COMPARTIMIENTOS -ASIENTOS CALEFACTABLES -PAQUETE ILUMINACION INTERIOR -ASISTENTE DE LUZ EN CARRETERA -SISTEMA DE AUDIO HARMAN/KARDON -SHADOW LINE DE BRILLO INTENSO INDIVIDUAL -HEAD UP DISPLAY -ASIENTOS CON REGULACION ELECTRICOS CON MEMORIAS -VELOCIDAD CRUCERO ADAPTATIVA -CARGADOR INALAMBRICO SMARTPHONE -SISTEMA SONIDO ESCAPE -APPLE CAR PLAY Y ANDROID AUTO ·ACEPTAMOS SU COCHE COMO PARTE DE PAGO, TAMBIÉN SE LO COMPRAMOS SI SOLO QUIERE VENDERLO. ·OFRECEMOS FINANCIACIÓN A SU MEDIDA. ·1 AÑO DE GARANTÍA TOTAL EN PIEZAS Y MANO DE OBRA SIN LÍMITE DE KMS. ·ACEPTAMOS PRUEBA MECÁNICA EN SU TALLER DE CONFIANZA. ·POSIBILIDAD DE ENTREGA A DOMICILIO. ·DISPONEMOS DE TALLER PROPIO, OFRECEMOS LA MÁXIMA CALIDAD EN NUESTROS VEHÍCULOS. ·WE SPEAK ENGLISH, ON PARLE FRANÇAIS.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "460 cv",
+            "año": "2023",
+            "kilómetros": "21000 km",
+            "precio": 72900.0
         },
         {
             "titulo": "BMW M2 2023",
@@ -442,17 +453,6 @@
         {
             "titulo": "BMW Serie 2 230i Coupe 180 kW (245 CV)",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-230i-coupe-180-kw-245-cv-1081940042",
-            "descripcion": "Precio oferta sujeto a financiación: 44364 EUR. Precio al contado: 48800 EUR. *LRO* GRAN LIQUIDACIÓN FINAL DE AÑO EN OCASIONPLUS REVENTAMOS LOS PRECIOS SÓLO HASTA EL 28 DE DICIEMBRE OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 7536€ de descuento en este coche Precio oferta financiado: 44364€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 48800€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Paquete M, Tapicería de piel, Car Play, Navegador, Cámara de marcha atrás, Faros delanteros led, Faros traseros led, Ayuda aparcamiento, Faros autodireccionables, Asistente para las luces de carretera, Encendido automático de faros, Sensor de lluvia, Asistente de cambio de carril, Asistente de mantenimiento de carril, Asistente de arranque en pendiente, Sensor de presión de neumáticos, Reconocimiento señales de tráfico, Start/Stop automático, Control de velocidad, Limitador de velocidad, Volante multifunción, Aire Acondicionado (Climatizador), Arranque por botón, Bluetooth, Isofix, Freno de estacionamiento eléctrico, Llantas de aleación (19\"). - Coche Nacional, Único propietario. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. Garantía fabricante 07/2026 - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "245 cv",
-            "año": "2023",
-            "kilómetros": "12664 km",
-            "precio": 44364.0
-        },
-        {
-            "titulo": "BMW Serie 2 230i Coupe 180 kW (245 CV)",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-2-230i-coupe-180-kw-245-cv-1080412370",
             "descripcion": "Precio oferta sujeto a financiación: 44364 EUR. Precio al contado: 48800 EUR. *LRO* GRAN LIQUIDACIÓN FINAL DE AÑO EN OCASIONPLUS REVENTAMOS LOS PRECIOS SÓLO HASTA EL 28 DE DICIEMBRE OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 7536€ de descuento en este coche Precio oferta financiado: 44364€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 48800€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Paquete M, Tapicería de piel, Car Play, Navegador, Cámara de marcha atrás, Faros delanteros led, Faros traseros led, Ayuda aparcamiento, Faros autodireccionables, Asistente para las luces de carretera, Encendido automático de faros, Sensor de lluvia, Asistente de cambio de carril, Asistente de mantenimiento de carril, Asistente de arranque en pendiente, Sensor de presión de neumáticos, Reconocimiento señales de tráfico, Start/Stop automático, Control de velocidad, Limitador de velocidad, Volante multifunción, Aire Acondicionado (Climatizador), Arranque por botón, Bluetooth, Isofix, Freno de estacionamiento eléctrico, Llantas de aleación (19\"). - Coche Nacional, Único propietario. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. Garantía fabricante 07/2026 - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
             "combustible": "Gasolina",
             "cambio": "Automático",

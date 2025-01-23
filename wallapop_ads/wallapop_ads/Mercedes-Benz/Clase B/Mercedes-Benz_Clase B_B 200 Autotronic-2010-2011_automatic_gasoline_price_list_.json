@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase B",
+        "version": "B 200 Autotronic",
+        "año mínimo": "2010",
+        "año máximo": "2011",
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 136,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=136&min_year=2010&max_year=2011&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Mercedes-Benz&model=Clase B&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz B-Classe B 200 2010",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-b-classe-b-200-2010-1084036398",
+            "descripcion": "Mercedes-Benz B-Classe B 200 2010 ⚙ Características: • 20/10/2010 • 102.500 kilometros • 2.0 gasolina • 135 CV • Automática ✔️ Color nativo ✔️ 2 llaves ✔️ Enganche de remolque ⭐ Equipo: • Volante multifunción • control de crucero • Multimedia • Sensor de luz y lluvia Precio: 9.500€ Más coches en nuestro perfil",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2010",
+            "kilómetros": "102500 km",
+            "precio": 9500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase B 2010",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-b-2010-1090158021",
+            "descripcion": "VEHICULO MUY CUIDADO, DOS PROPIETARIOS, TODOS LOS MANTENIMIENTOS EN TALLER OFICIAL MERCEDES BENZ CON FACTURAS, AUTOMATICO, CLIMATIZADOR, PAQUETE DEPORTIVO, LUNAS TINTADAS, ITV AL DIA, ETIQUETA C. ABSTENERSE PROFESIONALES, SOLO VENTA NO ACEPTO CAMBIOS.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2010",
+            "kilómetros": "60500 km",
+            "precio": 9250.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase B 2010 / etiqueta C",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-b-2010-1030872537",
+            "descripcion": "Vendo mi Mercedes clase B gasolina y automático, en perfecto estado de conservación, con neumáticos al 90% de su uso, estado interior impecable, no fumador . Tienes etiqueta \"C\" Recién cambiados todos los filtros, del aire, motor , antipolen, así como el aceite del motor. Acepto coche o moto de mi interés como parte del pago ITV hasta 2025, se entrega transferido en el precio indicado. Precio para cambios 7.500.-€ Precio NO NEGOCIABLE. TLF. 605121876",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "116 cv",
+            "año": "2010",
+            "kilómetros": "202000 km",
+            "precio": 6999.0
+        }
+    ]
+}

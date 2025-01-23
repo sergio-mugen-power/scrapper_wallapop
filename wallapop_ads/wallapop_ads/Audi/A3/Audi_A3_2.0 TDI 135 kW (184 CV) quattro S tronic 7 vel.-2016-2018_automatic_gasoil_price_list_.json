@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,9 +18,20 @@
         "potencia máxima": 184,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=184&min_year=2016&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=184&min_year=2016&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
+        {
+            "titulo": "Audi A3 2017",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2017-1092782459",
+            "descripcion": "coche en muy buen estado mantenimientos al dia pastillas nuevas las 4 ruedas nuevas muy bien cuidado precio al privado",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "115 cv",
+            "año": "2017",
+            "kilómetros": "170000 km",
+            "precio": 111111.0
+        },
         {
             "titulo": "Audi A3 S line edition 2.0 TDI S tronic Cabrio",
             "enlace": "https://es.wallapop.com/item/audi-a3-s-line-edition-2-0-tdi-s-tronic-cabrio-1089020614",
@@ -111,17 +122,6 @@
         },
         {
             "titulo": "Audi A3 2018",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2018-1080165422",
-            "descripcion": "",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "184 cv",
-            "año": "2018",
-            "kilómetros": "127000 km",
-            "precio": 24990.0
-        },
-        {
-            "titulo": "Audi A3 2018",
             "enlace": "https://es.wallapop.com/item/audi-a3-2017-1076272606",
             "descripcion": "Vehículo en impecable estado, Único propietario, lo vendo porque me quiero comprar un Range Equipamiento: -Paquete deportivo S Line completo, exterior e interior -Faros LED -Sistema de navegación -Audi Smartphone Interface (Android Auto/Apple Car Play) -Audi Sound System -Asientos deportivos S Line en combinación alcántara/cuero calefactables -Paquete de iluminación interior -Suspensión deportiva S Line -Climatizador bi-zona -Selección de modos de conducción -Llantas de aleación S3 en 18\" -Sensores de parking delante y detrás -Faros traseros LED con intermitentes dinámicos -Asistente de arranque en pendiente",
             "combustible": "Diésel",
@@ -130,6 +130,17 @@
             "año": "2018",
             "kilómetros": "136000 km",
             "precio": 24800.0
+        },
+        {
+            "titulo": "Audi A3 2018",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2018-1080165422",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "184 cv",
+            "año": "2018",
+            "kilómetros": "127000 km",
+            "precio": 24500.0
         },
         {
             "titulo": "Audi A3 Sportback S Line 2.0 TDI  150 CV S Troni",
@@ -152,17 +163,6 @@
             "año": "2017",
             "kilómetros": "170000 km",
             "precio": 23900.0
-        },
-        {
-            "titulo": "Audi A3 Sportback Sline",
-            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-sline-1082055924",
-            "descripcion": "Todos los extras, revisiones todas en casa audi. Vehiculo nacional.",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "150 cv",
-            "año": "2017",
-            "kilómetros": "107500 km",
-            "precio": 22900.0
         },
         {
             "titulo": "Audi A3 Sportb 2.0 TDI 150 clean S tro Attracted",
@@ -210,7 +210,29 @@
         },
         {
             "titulo": "Audi A3 Sportb 2.0 TDI 150 clean S tro Attracted",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportb-2-0-tdi-150-clean-s-tro-attracted-1083417767",
+            "descripcion": "Precio al contado: 24.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 22.790€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Bilbao 3, Bilbao-Galdakao Errepidea, KM 6, 48960 Galdakao, Bizkaia. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans...",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "2016",
+            "kilómetros": "18000 km",
+            "precio": 22790.0
+        },
+        {
+            "titulo": "Audi A3 Sportb 2.0 TDI 150 clean S tro Attracted",
             "enlace": "https://es.wallapop.com/item/audi-a3-sportb-2-0-tdi-150-clean-s-tro-attracted-1083394122",
+            "descripcion": "Precio al contado: 24.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 22.790€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Bilbao 3, Bilbao-Galdakao Errepidea, KM 6, 48960 Galdakao, Bizkaia. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans...",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "2016",
+            "kilómetros": "18000 km",
+            "precio": 22790.0
+        },
+        {
+            "titulo": "Audi A3 Sportb 2.0 TDI 150 clean S tro Attracted",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportb-2-0-tdi-150-clean-s-tro-attracted-1083414428",
             "descripcion": "Precio al contado: 24.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 22.790€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Bilbao 3, Bilbao-Galdakao Errepidea, KM 6, 48960 Galdakao, Bizkaia. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans...",
             "combustible": "Diésel",
             "cambio": "Automático",
@@ -232,7 +254,29 @@
         },
         {
             "titulo": "Audi A3 Sportb 2.0 TDI 150 clean S tro Attracted",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportb-2-0-tdi-150-clean-s-tro-attracted-1083417998",
+            "descripcion": "Precio al contado: 24.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 22.790€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Bilbao 3, Bilbao-Galdakao Errepidea, KM 6, 48960 Galdakao, Bizkaia. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans...",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "2016",
+            "kilómetros": "18000 km",
+            "precio": 22790.0
+        },
+        {
+            "titulo": "Audi A3 Sportb 2.0 TDI 150 clean S tro Attracted",
             "enlace": "https://es.wallapop.com/item/audi-a3-sportb-2-0-tdi-150-clean-s-tro-attracted-1083377280",
+            "descripcion": "Precio al contado: 24.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 22.790€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Bilbao 3, Bilbao-Galdakao Errepidea, KM 6, 48960 Galdakao, Bizkaia. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans...",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "2016",
+            "kilómetros": "18000 km",
+            "precio": 22790.0
+        },
+        {
+            "titulo": "Audi A3 Sportb 2.0 TDI 150 clean S tro Attracted",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportb-2-0-tdi-150-clean-s-tro-attracted-1083414111",
             "descripcion": "Precio al contado: 24.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 22.790€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Bilbao 3, Bilbao-Galdakao Errepidea, KM 6, 48960 Galdakao, Bizkaia. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans...",
             "combustible": "Diésel",
             "cambio": "Automático",
@@ -275,50 +319,6 @@
             "precio": 22790.0
         },
         {
-            "titulo": "Audi A3 Sportb 2.0 TDI 150 clean S tro Attracted",
-            "enlace": "https://es.wallapop.com/item/audi-a3-sportb-2-0-tdi-150-clean-s-tro-attracted-1083417767",
-            "descripcion": "Precio al contado: 24.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 22.780€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Bilbao 3, Bilbao-Galdakao Errepidea, KM 6, 48960 Galdakao, Bizkaia. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans...",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "150 cv",
-            "año": "2016",
-            "kilómetros": "18000 km",
-            "precio": 22780.0
-        },
-        {
-            "titulo": "Audi A3 Sportb 2.0 TDI 150 clean S tro Attracted",
-            "enlace": "https://es.wallapop.com/item/audi-a3-sportb-2-0-tdi-150-clean-s-tro-attracted-1083414428",
-            "descripcion": "Precio al contado: 24.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 22.780€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Bilbao 3, Bilbao-Galdakao Errepidea, KM 6, 48960 Galdakao, Bizkaia. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans...",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "150 cv",
-            "año": "2016",
-            "kilómetros": "18000 km",
-            "precio": 22780.0
-        },
-        {
-            "titulo": "Audi A3 Sportb 2.0 TDI 150 clean S tro Attracted",
-            "enlace": "https://es.wallapop.com/item/audi-a3-sportb-2-0-tdi-150-clean-s-tro-attracted-1083417998",
-            "descripcion": "Precio al contado: 24.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 22.780€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Bilbao 3, Bilbao-Galdakao Errepidea, KM 6, 48960 Galdakao, Bizkaia. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans...",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "150 cv",
-            "año": "2016",
-            "kilómetros": "18000 km",
-            "precio": 22780.0
-        },
-        {
-            "titulo": "Audi A3 Sportb 2.0 TDI 150 clean S tro Attracted",
-            "enlace": "https://es.wallapop.com/item/audi-a3-sportb-2-0-tdi-150-clean-s-tro-attracted-1083414111",
-            "descripcion": "Precio al contado: 24.990€ (IVA incluido) *** Precio alternativo oferta de financiacion: 22.780€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Bilbao 3, Bilbao-Galdakao Errepidea, KM 6, 48960 Galdakao, Bizkaia. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans...",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "150 cv",
-            "año": "2016",
-            "kilómetros": "18000 km",
-            "precio": 22780.0
-        },
-        {
             "titulo": "Audi A3 2018",
             "enlace": "https://es.wallapop.com/item/audi-a3-2018-1090402855",
             "descripcion": "Audi A3 sedane muy bien cuidado Mas información privado",
@@ -327,6 +327,17 @@
             "potencia": "150 cv",
             "año": "2018",
             "kilómetros": "135000 km",
+            "precio": 22500.0
+        },
+        {
+            "titulo": "Audi A3 Sportback Sline",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-sline-1082055924",
+            "descripcion": "Todos los extras, revisiones todas en casa audi. Vehiculo nacional.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "110000 km",
             "precio": 22500.0
         },
         {
@@ -405,6 +416,17 @@
             "año": "2017",
             "kilómetros": "115000 km",
             "precio": 21499.0
+        },
+        {
+            "titulo": "Audi A3 2017",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2017-1072727767",
+            "descripcion": "Vendo perfecto AUDI A3 2017. 2.0 tdi 184cv Automatico, va como la seda. carroceria e interior en perfectas condiciones, practicamente como nuevo, coche muy mimado. Tiene todos los extras, mejor ver y probar. Abstenerse a ofertas absurdas.!! Para Mas info, preguntar.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "184 cv",
+            "año": "2017",
+            "kilómetros": "178000 km",
+            "precio": 21000.0
         },
         {
             "titulo": "Audi A3 2016",
@@ -495,17 +517,6 @@
             "precio": 20500.0
         },
         {
-            "titulo": "Audi A3 2018",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2018-980141951",
-            "descripcion": "Pack S-line completo, interior y exterior. Luces full led audi S3. Llanta 18” Cambio dsg s-tronic, volante deportivo multifuncion. Pack de navegación completo y audi car plus (apple y android). Bluetooth, sensores de aparcamiento, control de velocidad. Intermitentes dinámicos. Neumáticos Michelin 4 ruedas, y frenos 4 ruedas nuevos, revisión y cambio aceite + filtros hecho el 13 de Enero 2024. Todo en audi oficial Coche en perfectas condiciones de chapa y pintura, motor, interior, cambio etc. Muy cuidado, muy bonito. IMPORTANTE:Abstenerse gestores de venta. El coche esta en venta para particular o profesional, NO acepto gestores de venta",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "116 cv",
-            "año": "2018",
-            "kilómetros": "130000 km",
-            "precio": 20500.0
-        },
-        {
             "titulo": "Audi A3 design edition 1.6 TDI S tronic Sportb ",
             "enlace": "https://es.wallapop.com/item/audi-a3-design-edition-1-6-tdi-s-tronic-sportb-1090182271",
             "descripcion": "",
@@ -548,17 +559,6 @@
             "año": "2018",
             "kilómetros": "140744 km",
             "precio": 19490.0
-        },
-        {
-            "titulo": "Audi A3 2018",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2018-1062702141",
-            "descripcion": "Vehiculo Nacional Historial de mantenimiento completo en concesionario oficial Un solo propietario No fumador Siempre en garaje Sline interior y exterior Interior impecable limpio y sin desgaste Full extras excepto techo solar Cambio automatico con levas en el volante Asientos deportivos SLine en cuero Traccion quattro Motor de 184CV Todos los kms hechos por autopista 213000 kms exactamente Distintivo medioambiental C",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "184 cv",
-            "año": "2018",
-            "kilómetros": "199000 km",
-            "precio": 19450.0
         },
         {
             "titulo": "Audi A3 2018",
@@ -605,6 +605,17 @@
             "precio": 18990.0
         },
         {
+            "titulo": "Audi A3 2018",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2018-1062702141",
+            "descripcion": "Vehiculo Nacional Historial de mantenimiento completo en concesionario oficial Un solo propietario No fumador Siempre en garaje Sline interior y exterior Interior impecable limpio y sin desgaste Full extras excepto techo solar Cambio automatico con levas en el volante Asientos deportivos SLine en cuero Traccion quattro Motor de 184CV Todos los kms hechos por autopista 213000 kms exactamente Distintivo medioambiental C",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "184 cv",
+            "año": "2018",
+            "kilómetros": "199000 km",
+            "precio": 18950.0
+        },
+        {
             "titulo": "Audi A3 1.6 TDI 85kW (116CV) S tronic ",
             "enlace": "https://es.wallapop.com/item/audi-a3-1-6-tdi-85kw-116cv-s-tronic-1073575322",
             "descripcion": "¡Por tiempo limitado! Solo ahora sin entrada por 248 eur al mes con dos anos de garantia incluido.* ¡consultanos! PROMOCION PAQUETE AUTO BACK O consigue un descuento de 985 € financiando tu compra con nuestra promocion SUPER DESCUENTO* Asegura esta oferta con nuestra reserva expres de 100 eur, y si no te gusta, recupera el 100% de la reserva Esta reserva te dara prioridad en la compra de este coche frente a otros posibles compradores , durante un plazo de 7 dias naturales es todo tuyo y una vez veas fisicamente el coche decides, si no te gusta recuperas el 100% de la reserva. Trabajamos con los precios mas competitivos a nivel nacional , por una sencilla razon ¿quieres saber cual es ? Consulta la ubicacion de esta unidad , disponemos de dos tiendas fisicas , en Mostoles y Navalcarnero Auto Back pone a tu disposicion una de las exposiciones de vehiculos mas grandes de la zona sur de Madrid. Todos nuestros coches cuentan con certificado de kilometraje, certificado de ausencia de golpes estructurales ademas de disponer del control de calidad Auto Back, peritaje y video del vehiculo. Visita nuestra Web para todo esto y mucho mas. ¡Compramos tu coche o moto! Visita nuestra web para recibir tu tasacion en solo 1 minuto. Hacemos financiaciones a tu medida ¡Preguntanos! Te enviamos este coche a la puerta de tu casa GRATIS* ¡Hasta 24 meses de garantia! En Auto back dispones de 14 dias o 1.000kms para probar este coche y si no estas conforme con el te devolvemos tu dinero* -Condiciones de devolucion: 14 dias o 1.000 Km, lo que antes suceda. Gastos administrativos y cambio de titularidad, 350€ - Consulta con nuestros comerciales la ampliacion de Garantia a 24 Meses. -Para vehiculos industriales 399€ de garantia profesional de 12 meses REF: 1502JZ...",
@@ -618,7 +629,7 @@
         {
             "titulo": "Audi A3 2018 S TRONIC",
             "enlace": "https://es.wallapop.com/item/audi-a3-2018-s-tronic-1087877655",
-            "descripcion": "",
+            "descripcion": "¡¡¡¡ PROXIMAMENTE¡¡¡¡ TAMBIEN OPERAMOS TAMBIEN 100% ONLINE, VIA TELÉFONO, WHATSAPP O EMAIL. TRANSPORTAMOS A TODA LA PENINSULA. MATRICULADO EL 10/18 Certificado de Km y de no accidentes. GESTIONAMOS LA FIANACIACIÓN EN MENOS DE 24H!!!!! El precio indicado incluye UN AÑO DE GARANTIA 100% MECANICA Y ELECTRONICA sin limite de Km. CARACTERISTICAS: 5 PLAZAS HISTORIAL DE MANTENIMIENTO VIRTUAL COCKPIT NAVEGADOR TECHO PANORAMICO SENSOR PRECOLISION SENSORES DE APARCAMIENTO SENSOR DE LUCES SENSOR DE LLUVIA CONTROL DE CRUCERO RETROVISORES ELECTRICOS LUCES DE LED STAR&STOP BLUETOOTH MANOS LIBRES LLANTAS DE ALEACIÓN CLIMATIZADOR CONTROL DE TRACCIÓN ABS,ESP CONTROL DE CRUCERO INFORMACIÓN AL CONSUMIDOR: Te ahorras HASTA UN 8% que deberías pagar a hacienda si comprases a un particular en impuesto de transmisiones. Si eres empresa te puedes desgravar el IVA Este anuncio no es vinculante",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "116 cv",
@@ -658,28 +669,6 @@
             "año": "2018",
             "kilómetros": "120000 km",
             "precio": 18700.0
-        },
-        {
-            "titulo": "Audi A3 184CV SLine Quattro",
-            "enlace": "https://es.wallapop.com/item/audi-a3-184cv-sline-quattro-1090690296",
-            "descripcion": "",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "184 cv",
-            "año": "2017",
-            "kilómetros": "206000 km",
-            "precio": 18500.0
-        },
-        {
-            "titulo": "Audi A3 184CV SLine Quattro ",
-            "enlace": "https://es.wallapop.com/item/audi-a3-184cv-sline-quattro-1091496418",
-            "descripcion": "Audi A3 2.0 184CV SLine Quattro Diesel con etiqueta C y 206mil km. El coche esta impecable mires por donde lo mires esta muy muy bien cuidado. Tiene la distribucion completa realizada a los 196mil km, mantenimiento de la caja de cambios completa, bateria nueva, los 4 discos de frenos nuevos, Pastillas nuevas, neumaticos nuevos, aceite y todos los filtros cambiados a los 196mil km. El coche tiene full de extras, techo solar, asientos de cuero calefactables y regulacion electrica, apertura y arranque sin llave, sistema de audio premium.... Tengo las facutras de sus mantenimientos. Cualquier duda preguntar sin problema.",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "184 cv",
-            "año": "2017",
-            "kilómetros": "206000 km",
-            "precio": 18500.0
         },
         {
             "titulo": "Audi A3 2018",
@@ -727,7 +716,7 @@
         },
         {
             "titulo": "Audi A3 2.0 TDI 110kW (150CV) S tronic Sportback",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tdi-110kw-150cv-s-tronic-sportback-1090506233",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tdi-110kw-150cv-s-tronic-sportback-1090396330",
             "descripcion": "Precio al contado: 20.890€ (IVA incluido) *** Precio alternativo oferta de financiacion: 18.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Coslada, Av. del Jarama 15, 28823, Coslada, Madrid. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilanova...",
             "combustible": "Diésel",
             "cambio": "Automático",
@@ -738,7 +727,7 @@
         },
         {
             "titulo": "Audi A3 2.0 TDI 110kW (150CV) S tronic Sportback",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tdi-110kw-150cv-s-tronic-sportback-1090396330",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tdi-110kw-150cv-s-tronic-sportback-1090506233",
             "descripcion": "Precio al contado: 20.890€ (IVA incluido) *** Precio alternativo oferta de financiacion: 18.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Coslada, Av. del Jarama 15, 28823, Coslada, Madrid. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilanova...",
             "combustible": "Diésel",
             "cambio": "Automático",
@@ -811,6 +800,17 @@
             "potencia": "116 cv",
             "año": "2018",
             "kilómetros": "89742 km",
+            "precio": 17990.0
+        },
+        {
+            "titulo": "Audi A3 2017",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2017-1092363654",
+            "descripcion": "Espectacular Audi A3 Sportback 1.6 TDI S Tronic del año 2017, en un estado muy optimo tanto interior como exterior!! NACIONAL!! 2 LLAVES!! PEGATINA MEDIOAMBIENTAL VERDE (C)!! Extras destacables: - Cambio Automático S Tronic - Pantalla multifunción - Control crucero - Sensores de aparcamiento traseros y delanteros - Retrovisores eléctricos - Volante multifunción - Climatizador - Bluetooth - Luces xenon - Sensor de lluvia - Y mucho mas... Posibilidad de financiar hasta el 100% Cambio de nombre + 250€ Se entrega con garantia de 12 meses Posibilidad de garantía plus Pide tu cita y ven a verlo Anuncio no vinculante puede contener errores",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "110 cv",
+            "año": "2017",
+            "kilómetros": "76000 km",
             "precio": 17990.0
         },
         {
@@ -922,6 +922,17 @@
             "año": "2018",
             "kilómetros": "89742 km",
             "precio": 17990.0
+        },
+        {
+            "titulo": "Audi A3 2017",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2017-1092026392",
+            "descripcion": "Full option, todos los extras, Cambio secuencial y levas .Itv en vigor y revisones al dia. Modelo exclusivo.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "184 cv",
+            "año": "2017",
+            "kilómetros": "256630 km",
+            "precio": 17900.0
         },
         {
             "titulo": "Audi A3 SPORTBACK S-LINE",
@@ -1283,18 +1294,7 @@
             "cambio": "Automático",
             "potencia": "150 cv",
             "año": "2016",
-            "kilómetros": "175000 km",
-            "precio": 16000.0
-        },
-        {
-            "titulo": "Audi A3 2018",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2018-1041128782",
-            "descripcion": "muy buen estado, navegador,sensores de aparcamiento, control de velocidad,mantenimiento recién echo, más información 660983452, verónica.",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "116 cv",
-            "año": "2018",
-            "kilómetros": "119000 km",
+            "kilómetros": "180000 km",
             "precio": 16000.0
         },
         {
@@ -1317,6 +1317,17 @@
             "potencia": "150 cv",
             "año": "2017",
             "kilómetros": "220000 km",
+            "precio": 15900.0
+        },
+        {
+            "titulo": "Audi A3 2018",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2018-1041128782",
+            "descripcion": "muy buen estado, navegador,sensores de aparcamiento, control de velocidad,mantenimiento recién echo, más información 660983452, verónica.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "116 cv",
+            "año": "2018",
+            "kilómetros": "119000 km",
             "precio": 15900.0
         },
         {
@@ -1388,7 +1399,7 @@
         {
             "titulo": "SOLO 202€ MES AUDI A3 SPORTBACK 2.0TDI 150cv 2016",
             "enlace": "https://es.wallapop.com/item/solo-202-mes-audi-a3-sportback-2-0tdi-150cv-2016-990187544",
-            "descripcion": "FINANCIAMOS SOLO CON TU NÓMINA Y DNI ¡¡SIN ENTRADA!! POR TAN SOLO 202€ / MES Audi A3 SportBack 2.0TDI 150cv 10/2016 diésel automático 154.000 KM Etiqueta medioambiental C Mandos en el volante Control de velocidad 4 modos de conducción Climatizador Navegador *FINANCIACIÓN A MEDIDA *ENVÍO GRATUITO A TODA ESPAÑA *Especialistas en vehículos a la carta *Precio con Iva 21% y garantía 14.900€ RG Motors 603.038,420. WWW.RGVEHICULOS.COM seat leon ibiza fr cupra audi a s 1 2 3 4 5 6 tt bmw serie m 1 2 3 4 volkswagen golf passat polo rline vag mercedes clase a b c e renault opel citroen peugeot nissan",
+            "descripcion": "",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "150 cv",
@@ -1562,17 +1573,6 @@
             "precio": 14000.0
         },
         {
-            "titulo": "Audi A3 2017",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2017-1058705856",
-            "descripcion": "Audi A3 2017 1.6 110cv en perfecto estado. Cambio automático. 149000km Recién cambiada correa de distribucion, con factura.",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "110 cv",
-            "año": "2017",
-            "kilómetros": "149000 km",
-            "precio": 14000.0
-        },
-        {
             "titulo": "Audi A3 2016",
             "enlace": "https://es.wallapop.com/item/audi-a3-2016-797530955",
             "descripcion": "audi a3 sportback 2.0 tdi 150cv con cambio s tronic de 6 velocidades con el mantenimiento recien hecho ,cubiertas hankook al 80% ,aceite y filtros cambiados hace 3000km, gps, bluetooth, asientos calefactables ,climatizador bizona ,faros xenon y led ,equipo de audio de 8 altavoces, manos libres, sensores de aparcamiento exterior s line sensor de lluvia mejor ver",
@@ -1592,6 +1592,17 @@
             "potencia": "110 cv",
             "año": "2017",
             "kilómetros": "145995 km",
+            "precio": 13990.0
+        },
+        {
+            "titulo": "Audi A3 2018",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1070040555",
+            "descripcion": "AUDI A3, DIÉSEL, AUTOMÁTICO S-TRONIC, 7 VELOCIDADES. 📅 AÑO 2018 ✍🏼 EQUIPAMIENTO A DESTACAR: ELEVALUNAS ELÉCTRICOS, CIERRE CENTRALIZADO, RADIO CON BLUETOOTH, LLANTAS DE ALEACIÓN 17\", PANTALLA ABATIBLE, NAVEGADOR, SENSOR DE APARCAMIENTO DELANTERO Y TRASERO, ESPEJOS ELÉCTRICOS, CLIMITIZADOR BIZONA,STAR/STOP, ISOFIX, LUNAS TINTADAS, SEMI CUERO, ASISTENTE DE AYUDA EN PENDIENTE, LIMITADOR Y VELOCIDAD DE CRUCERO, APPLE CAR Y ANDROID... 💰 PRECIO 13990€ (precio sujeto a financiación) 📊FINANCIACIÓN A SU MEDIDA 🇪🇸VEHÍCULO NACIONAL 🛠️VEHÍCULO REVISADO 📖✅ SE ENTREGA TRANSFERIDO Y CON 1 DE GARANTÍA (con posibilidad de ampliar a 2 años). 📍 Visita nuestras instalaciones en Polígono Industrial “El Olivar”, Avda de los Marineros Nave 13, BARBATE (CÁDIZ) 🏎️ AUTOMOCIÓN GC, S.L. 🏎️",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "116 cv",
+            "año": "2018",
+            "kilómetros": "190000 km",
             "precio": 13990.0
         },
         {
@@ -1625,17 +1636,6 @@
             "potencia": "110 cv",
             "año": "2017",
             "kilómetros": "145995 km",
-            "precio": 13990.0
-        },
-        {
-            "titulo": "Audi A3 2018",
-            "enlace": "https://es.wallapop.com/item/audi-a3-1070040555",
-            "descripcion": "AUDI A3, DIÉSEL, AUTOMÁTICO S-TRONIC, 7 VELOCIDADES. 📅 AÑO 2018 ✍🏼 EQUIPAMIENTO A DESTACAR: ELEVALUNAS ELÉCTRICOS, CIERRE CENTRALIZADO, RADIO CON BLUETOOTH, LLANTAS DE ALEACIÓN 17\", PANTALLA ABATIBLE, NAVEGADOR, SENSOR DE APARCAMIENTO DELANTERO Y TRASERO, ESPEJOS ELÉCTRICOS, CLIMITIZADOR BIZONA,STAR/STOP, ISOFIX, LUNAS TINTADAS, SEMI CUERO, ASISTENTE DE AYUDA EN PENDIENTE, LIMITADOR Y VELOCIDAD DE CRUCERO, APPLE CAR Y ANDROID... 💰 PRECIO 13990€ (precio sujeto a financiación) 📊FINANCIACIÓN A SU MEDIDA 🇪🇸VEHÍCULO NACIONAL 🛠️VEHÍCULO REVISADO 📖✅ SE ENTREGA TRANSFERIDO Y CON 1 DE GARANTÍA (con posibilidad de ampliar a 2 años). 📍 Visita nuestras instalaciones en Polígono Industrial “El Olivar”, Avda de los Marineros Nave 13, BARBATE (CÁDIZ) 🏎️ AUTOMOCIÓN GC, S.L. 🏎️",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "116 cv",
-            "año": "2018",
-            "kilómetros": "190000 km",
             "precio": 13990.0
         },
         {
@@ -1707,7 +1707,7 @@
         {
             "titulo": "AUDI A3 1.6 TDI S tronic Sportback",
             "enlace": "https://es.wallapop.com/item/audi-a3-1-6-tdi-s-tronic-sportback-1062168477",
-            "descripcion": "AUDI A3 1.6 TDI S tronic Sportback MANTENIMINETO EN CASA OFICIAL CAMBIO AUTOMATICO S-TRONIC ETIQUETA C EQUIPAMIENTO: - Conexión telefónica bluetooth - Volante multifunción con levas - Asientos mixtos cuero y tela - Sensores de parking del/tras - Retrovisores eléctricos - Climatizador bizona - Sensor de luces y lluvia automático - Luces de Xenon - Control y limitador de velocidad - Llanta aleación 17\" *Puedes seguirnos en instagram @Bioscars* Llamar para mas información y concertar cita previa (SOLO ATENDEMOS CON CITA PREVIA). Vehículo en muy buen estado exterior, interior y mecánico. Se hacen envíos a toda la península y baleares TODOS NUESTROS VEHÍCULOS pasan por un riguroso control de calidad en nuestro taller. GARANTIA 12 meses incluida. posibilidad de ampliarla (consultar condiciones) Kilómetros certificados. EL AUNCIO PUEDE CONTENER ERRORES",
+            "descripcion": "",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "110 cv",
@@ -2014,7 +2014,7 @@
         },
         {
             "titulo": "Audi A3 1.6 TDI 85kW (116CV) S tronic Sportback",
-            "enlace": "https://es.wallapop.com/item/audi-a3-1-6-tdi-85kw-116cv-s-tronic-sportback-1087946598",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1-6-tdi-85kw-116cv-s-tronic-sportback-1087654786",
             "descripcion": "Precio al contado: 15.490€ (IVA incluido) *** Precio alternativo oferta de financiacion: 12.990€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Pamplona 2, Poligono Talluntxe-F, 2, 31110, Pamplona, Navarra. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reu...",
             "combustible": "Diésel",
             "cambio": "Automático",
@@ -2025,7 +2025,7 @@
         },
         {
             "titulo": "Audi A3 1.6 TDI 85kW (116CV) S tronic Sportback",
-            "enlace": "https://es.wallapop.com/item/audi-a3-1-6-tdi-85kw-116cv-s-tronic-sportback-1087654786",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1-6-tdi-85kw-116cv-s-tronic-sportback-1087946598",
             "descripcion": "Precio al contado: 15.490€ (IVA incluido) *** Precio alternativo oferta de financiacion: 12.990€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Pamplona 2, Poligono Talluntxe-F, 2, 31110, Pamplona, Navarra. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reu...",
             "combustible": "Diésel",
             "cambio": "Automático",
@@ -2146,8 +2146,8 @@
         },
         {
             "titulo": "Audi A3 1.6 TDI S tronic Sportback",
-            "enlace": "https://es.wallapop.com/item/audi-a3-1-6-tdi-s-tronic-sportback-1091413791",
-            "descripcion": "Precio al contado: 14.480€ (IVA incluido) *** Precio alternativo oferta de financiacion: 12.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Sevilla 3, Pol. Pisa, C/ Artesania 3 , 41927 Sevilla. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilano...",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1-6-tdi-s-tronic-sportback-1091384768",
+            "descripcion": "Precio al contado: 14.470€ (IVA incluido) *** Precio alternativo oferta de financiacion: 12.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Sevilla 3, Pol. Pisa, C/ Artesania 3 , 41927 Sevilla. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilano...",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "110 cv",
@@ -2157,8 +2157,8 @@
         },
         {
             "titulo": "Audi A3 1.6 TDI S tronic Sportback",
-            "enlace": "https://es.wallapop.com/item/audi-a3-1-6-tdi-s-tronic-sportback-1091384768",
-            "descripcion": "Precio al contado: 14.480€ (IVA incluido) *** Precio alternativo oferta de financiacion: 12.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Sevilla 3, Pol. Pisa, C/ Artesania 3 , 41927 Sevilla. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilano...",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1-6-tdi-s-tronic-sportback-1091413791",
+            "descripcion": "Precio al contado: 14.470€ (IVA incluido) *** Precio alternativo oferta de financiacion: 12.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Sevilla 3, Pol. Pisa, C/ Artesania 3 , 41927 Sevilla. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilano...",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "110 cv",
@@ -2169,7 +2169,7 @@
         {
             "titulo": "Audi A3 1.6 TDI S tronic Sportback",
             "enlace": "https://es.wallapop.com/item/audi-a3-1-6-tdi-s-tronic-sportback-1091360912",
-            "descripcion": "Precio al contado: 14.480€ (IVA incluido) *** Precio alternativo oferta de financiacion: 12.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Sevilla 3, Pol. Pisa, C/ Artesania 3 , 41927 Sevilla. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilano...",
+            "descripcion": "Precio al contado: 14.470€ (IVA incluido) *** Precio alternativo oferta de financiacion: 12.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Sevilla 3, Pol. Pisa, C/ Artesania 3 , 41927 Sevilla. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilano...",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "110 cv",
@@ -2180,18 +2180,7 @@
         {
             "titulo": "Audi A3 1.6 TDI S tronic Sportback",
             "enlace": "https://es.wallapop.com/item/audi-a3-1-6-tdi-s-tronic-sportback-1091350557",
-            "descripcion": "Precio al contado: 14.480€ (IVA incluido) *** Precio alternativo oferta de financiacion: 12.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Sevilla 3, Pol. Pisa, C/ Artesania 3 , 41927 Sevilla. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilano...",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "110 cv",
-            "año": "2016",
-            "kilómetros": "143587 km",
-            "precio": 12490.0
-        },
-        {
-            "titulo": "Audi A3 1.6 TDI S tronic Sportback",
-            "enlace": "https://es.wallapop.com/item/audi-a3-1-6-tdi-s-tronic-sportback-1091451840",
-            "descripcion": "Precio al contado: 14.480€ (IVA incluido) *** Precio alternativo oferta de financiacion: 12.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Sevilla 3, Pol. Pisa, C/ Artesania 3 , 41927 Sevilla. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilano...",
+            "descripcion": "Precio al contado: 14.470€ (IVA incluido) *** Precio alternativo oferta de financiacion: 12.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Sevilla 3, Pol. Pisa, C/ Artesania 3 , 41927 Sevilla. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilano...",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "110 cv",
@@ -2208,6 +2197,17 @@
             "potencia": "110 cv",
             "año": "2016",
             "kilómetros": "146882 km",
+            "precio": 12490.0
+        },
+        {
+            "titulo": "Audi A3 1.6 TDI S tronic Sportback",
+            "enlace": "https://es.wallapop.com/item/audi-a3-1-6-tdi-s-tronic-sportback-1091451840",
+            "descripcion": "Precio al contado: 14.470€ (IVA incluido) *** Precio alternativo oferta de financiacion: 12.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Sevilla 3, Pol. Pisa, C/ Artesania 3 , 41927 Sevilla. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilano...",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "110 cv",
+            "año": "2016",
+            "kilómetros": "143587 km",
             "precio": 12490.0
         },
         {
@@ -2255,15 +2255,15 @@
             "precio": 12490.0
         },
         {
-            "titulo": "Audi A3 2.0 TDI 150 CV S-TRONIC 4P",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tdi-150-cv-s-tronic-4p-1090410975",
-            "descripcion": "Todas las revisiones en Audi, recién cambiado el aceite caja de cambios, correa cambiada en audi a los 207.000 kms, nacional, navegador, luz de led diurna, aviso de angulo muerto, clima, sensor de aparcamiento delantero y trasero, tapicería mixta en piel y tela. Audi A3 Sedan en Madrid",
+            "titulo": "Audi A3 2.0 TDI 150 CV 4 P S-TRONIC",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2-0-tdi-150-cv-4-p-s-tronic-1092371690",
+            "descripcion": "AUDI A3 2.0 TDI 150 CV S-TRONIC. Todas las revisiones en Audi, recién cambiado el aceite caja de cambios, correa cambiada en audi a los 207.000 kms, nacional, navegador, luz de led diurna, aviso de ángulo muerto, clima, sensor de aparcamiento delantero y trasero, tapicería mixta en piel y tela. Audi A3 Sedan en Madrid",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "150 cv",
             "año": "2017",
-            "kilómetros": "249000 km",
-            "precio": 11999.0
+            "kilómetros": "248000 km",
+            "precio": 11990.0
         },
         {
             "titulo": "Audi A3 2016",
@@ -2274,7 +2274,7 @@
             "potencia": "110 cv",
             "año": "2016",
             "kilómetros": "255000 km",
-            "precio": 11900.0
+            "precio": 11500.0
         },
         {
             "titulo": "Audi A3 2017 sedan ",

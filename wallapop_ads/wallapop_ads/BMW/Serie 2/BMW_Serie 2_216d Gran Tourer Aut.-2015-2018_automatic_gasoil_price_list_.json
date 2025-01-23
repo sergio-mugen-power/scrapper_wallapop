@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 2",
         "version": "216d Gran Tourer Aut.",
-        "año mínimo": 2015,
-        "año máximo": 2018,
+        "año mínimo": "2015",
+        "año máximo": "2018",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "automatic",
         "tipos de motor": "gasoil",
-        "potencia máxima": 116,
+        "potencia máxima": "116",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=116&min_year=2015&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -79,7 +79,7 @@
         {
             "titulo": "BMW Serie 2 2016",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-2016-1068646052",
-            "descripcion": "",
+            "descripcion": "¡AVISO A NAVEGANTES, NOS ACABA DE ENTRAR! ¡LO TENEMOS EN PREPARACIÓN! PRONTO PUBLICAREMOS LAS FOTOGRAFIAS, SI NO LO HEMOS VENDIDO ANTES ;) SI QUIERES TENER MÁS INFORMACIÓN DETALLADA ANTES DE ANUNCIARLO CON LAS FOTOGRAFIAS, NO DUDES EN LLAMARNOS. Nosotros lo entregamos recién revisado, ITV en vigor y con garantía de 12 meses a nivel europeo. Si quiere ser el primero en verlo y probarlo, le atenderemos en Travesera de las Corts, nº 40. La información contenida en este anuncio se muestra a título informativo y no es vinculante ni tiene valor contractual, pudiendo contener algún error.",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "116 cv",
@@ -99,17 +99,6 @@
             "precio": 16500.0
         },
         {
-            "titulo": "BMW Serie 2 2017",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-2-2017-1086505517",
-            "descripcion": "",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "116 cv",
-            "año": "2017",
-            "kilómetros": "97000 km",
-            "precio": 15500.0
-        },
-        {
             "titulo": "BMW Serie 2 2017 Gran tourer 7 PLAZAS ",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-2017-gran-tourer-7-plazas-1081241768",
             "descripcion": "",
@@ -118,6 +107,17 @@
             "potencia": "116 cv",
             "año": "2017",
             "kilómetros": "180000 km",
+            "precio": 15500.0
+        },
+        {
+            "titulo": "BMW Serie 2 2017",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-2-2017-1086505517",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "116 cv",
+            "año": "2017",
+            "kilómetros": "97000 km",
             "precio": 15500.0
         },
         {
@@ -167,7 +167,7 @@
         {
             "titulo": "BMW Serie 2 2016",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-2016-1070915710",
-            "descripcion": "",
+            "descripcion": "AVISO A NAVEGANTES NOS ACABA DE ENTRAR ESTA PRECIOSIDAD DE BMW Serie 2 Gran Tourer 216d!, ¡ESTRENADO EN JULIO DEL 2061! ¡MUY BIEN CUIDADO TAL Y COMO SE VE EN LAS FOTOS, CON SOLO 173.646 KMS. ¡ETIQUETA MEDIOAMBIENTAL C VERDE DE EMISIONES! MOTOR DE BAJO CONSUMO Y ALTO RENDIMIENTO. MUY BIEN EQUIPADO CON CAMBIO AUTOMATICO SENCUENCIAL CON LEVAS EN EL VOLANTE, VOLANTE MULTIFUNCIÓN CON CONTROL DE CRUCERO, CLIMATIZADOR DIGITAL BIZONA, EQUIPO MULTIMEDIA CON BLUETOOTH ETC… SENSORES DE APARCAMIENTO/LUCES/LLUIVIA, LLANTAS DE ALEACIÓN 16”, RETROVISORES ELECTRICOS Y RETRACTILES, ELEVALUNAS ELECTRICOS ,ETC… ¡CONSULTAS NUESTRAS OPCIONES DE FINANCIACIÓN! Nosotros lo entregamos recién revisado y con garantía de 12 meses a nivel europeo. Si quiere ser el primero en verlo y probarlo, le atenderemos en Travesera de las Corts, nº 40. La información contenida en este anuncio se muestra a título informativo y no es vinculante ni tiene valor contractual, pudiendo contener algún error.",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "116 cv",

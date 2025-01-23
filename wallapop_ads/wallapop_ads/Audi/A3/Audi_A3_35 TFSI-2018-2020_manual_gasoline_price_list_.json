@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,9 +18,20 @@
         "potencia máxima": 150,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=150&min_year=2018&max_year=2020&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=150&min_year=2018&max_year=2020&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
+        {
+            "titulo": "Audi A3 SLine GASOLINA 35TFSI 2020",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sline-gasolina-35tfsi-2020-1092781199",
+            "descripcion": "Vendo precioso Audi A3 Sline 1.5 150cv gasolina, 5P. por comprarme una furgoneta.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2020",
+            "kilómetros": "103000 km",
+            "precio": 31000.0
+        },
         {
             "titulo": "Audi A3 2020",
             "enlace": "https://es.wallapop.com/item/audi-a3-sedan-black-line-tfsi-techo-p-1074592231",
@@ -176,6 +187,17 @@
             "precio": 24000.0
         },
         {
+            "titulo": "Audi A3 Sportback Design 35 TFSI 110kW (150CV)",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-design-35-tfsi-110kw-150cv-1092735163",
+            "descripcion": "Detalle oferta: - A3 1.5 35 TFSI DESIGN SPORTBACK 5P - En Stock con entrega inmediata - - Kilometraje Certificado con historial de mantenimiento - Matriculacion: 06/2020 - Garantia de 12 meses Equipamiento destacado: -Climatizador automatico bizona, conectividad Android/Carplay, Navegador integrado -Bluetooth, USB, Aux, Streaming audio - Volante multifuncion - sensor de presion de neumaticos -Ordenador a bordo -Airbags frontales, laterales y cortina, ESP - Etiqueta medioambiental C (verde) - Cambio de nombre no incluido en el precio. - Financiacion a su medida con o sin entrada hasta el 100% del importe - Aceptamos su actual vehiculo como forma de pago, tasacion sin compromiso. - Compre desde casa 100% Online y con total seguridad. - Servicio de video-llamada: descubra todos los detalles de su nuevo coche. - Servicio de envio a domicilio bajo las mas estrictas medidas de calidad. -Disponemos de correduria de seguros para ofrecerle la mejor opcion de contratacion para su nuevo vehiculo - Reserve su nuevo vehiculo online de forma totalmente segura, con total garantia de devolucion si por cualquier circunstancia decidiera abandonar el proceso de compra. ¡¡No dude en contactar con nuestro telefono de atencion al cliente para que podamos ayudarte en tu experiencia con Grupo MAAS, profesionales en automocion desde 1964!! KIA SEMPROCAR Concesionarios Oficiales en: - Granollers - Mollet del Valles - Martorell ***EQUIPAMIENTO SERIE INCLUIDO*** ACABADO INTERIOR - Acabados de lujo: pomo de la palanca de cambios en cuero, puertas en aluminio simil y tablero en aluminio simil - Alfombrillas ASIENTOS - Cinco plazas ( 2+3 ) - Asientos de tela (material principal) y de cuero sintetico (material secundario) - Apoyabrazos central delantero - Asiento delantero del conductor y acompanante individual, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo - Asientos traseros de tres plazas de tipo banco de orientacion de...",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2020",
+            "kilómetros": "75609 km",
+            "precio": 23990.0
+        },
+        {
             "titulo": "Audi A3 Sportback S Line 35 TFSI 150 CV",
             "enlace": "https://es.wallapop.com/item/audi-a3-sportback-s-line-35-tfsi-150-cv-1089116880",
             "descripcion": "Vehículo en estado de RE/estreno, Único propietario, Historial de mantenimiento Completo en Servicio Oficial Audi Ref: 5021 LKL Precio Contado: 24.990 € * 12 meses de Garantía en Servicio Oficial Audi* -ENTREGA Y TRASLADOS HASTA SU DOMICILIO -ACEPTAMOS SU VEHÍCULO COMO PARTE DE PAGO Equipamiento: -Paquete deportivo S Line completo, exterior e interior, -Paquete Black Line -Techo solar panorámico -Faros Full LED -Sistema de navegación -Audi Smartphone Interface (Android Auto/Apple Car Play) -Audi Sound System -Paquete de iluminación interior -Apertura y arranque sin llave -Llantas de aleación Audi Sport en 18\" -Faros traseros LED con intermitentes dinámicos -Barras en el techo de color negro -Selección de modos de conducción -Suspensión deportiva -Sensores de parking delante y detrás -Volante deportivo S Line en cuero multifunción -Asientos deportivos S Line en combinación tela/cuero con logo S grabado -Control de velocidad",
@@ -187,20 +209,9 @@
             "precio": 23990.0
         },
         {
-            "titulo": "Audi A3 Sportback Design 35 TFSI 110kW (150CV)",
-            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-design-35-tfsi-110kw-150cv-1077786904",
-            "descripcion": "Detalle oferta: - A3 1.5 35 TFSI DESIGN SPORTBACK 5P - En Stock con entrega inmediata - - Kilometraje Certificado con historial de mantenimiento - Matriculacion: 06/2020 - Garantia de 12 meses Equipamiento destacado: -Climatizador automatico bizona, conectividad Android/Carplay, Navegador integrado -Bluetooth, USB, Aux, Streaming audio - Volante multifuncion - sensor de presion de neumaticos -Ordenador a bordo -Airbags frontales, laterales y cortina, ESP - Etiqueta medioambiental C (verde) - Cambio de nombre no incluido en el precio. - Financiacion a su medida con o sin entrada hasta el 100% del importe - Aceptamos su actual vehiculo como forma de pago, tasacion sin compromiso. - Compre desde casa 100% Online y con total seguridad. - Servicio de video-llamada: descubra todos los detalles de su nuevo coche. - Servicio de envio a domicilio bajo las mas estrictas medidas de calidad. -Disponemos de correduria de seguros para ofrecerle la mejor opcion de contratacion para su nuevo vehiculo - Reserve su nuevo vehiculo online de forma totalmente segura, con total garantia de devolucion si por cualquier circunstancia decidiera abandonar el proceso de compra. ¡¡No dude en contactar con nuestro telefono de atencion al cliente para que podamos ayudarte en tu experiencia con Grupo MAAS, profesionales en automocion desde 1964!! KIA SEMPROCAR Concesionarios Oficiales en: - Granollers - Mollet del Valles - Martorell ***EQUIPAMIENTO SERIE INCLUIDO*** ACABADO INTERIOR - Acabados de lujo: pomo de la palanca de cambios en cuero, puertas en aluminio simil y tablero en aluminio simil - Alfombrillas ASIENTOS - Cinco plazas ( 2+3 ) - Asientos de tela (material principal) y de cuero sintetico (material secundario) - Apoyabrazos central delantero - Asiento delantero del conductor y acompanante individual, ajuste longitudinal manual y ajuste manual en altura con ajuste manual del respaldo - Asientos traseros de tres plazas de tipo banco de orientacion de...",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "150 cv",
-            "año": "2020",
-            "kilómetros": "75609 km",
-            "precio": 23990.0
-        },
-        {
             "titulo": "Audi A3 Sline",
             "enlace": "https://es.wallapop.com/item/audi-a3-1090232588",
-            "descripcion": "Se escuchan ofertas. Acabado SLine exterior Unico dueño. Tan solo 59000 kms Recien realizada revisión de los 6 años e ITV Bateria nueva Ruedas con menos de 10.000 kms (Michelin)",
+            "descripcion": "Se escuchan ofertas. Extras: -Acabado SLine exterior -Asientos deportivos -Carplay -Llantas 18 pulgadas -Audi Sound System 180W -Apertura y arranque sin llave -Audi drive select (4 modos de conduccion) Recien realizada revisión de los 6 años e ITV Bateria nueva Ruedas con menos de 10.000 kms (Michelin)",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "150 cv",
@@ -473,17 +484,6 @@
             "precio": 22790.0
         },
         {
-            "titulo": "AUDI A3 SPORTBACK LAUNCH EDITION 35 TFSI 150CV",
-            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-launch-edition-35-tfsi-150cv-1078790702",
-            "descripcion": "PRECIO CON CAMPAÑA POR FINANCIACIÓN: 22636€ *Consultar Condiciones de la Campaña. *Campaña sujeta a la aprobación de la entidad Financiera. PRECIO SIN FINANCIAR: 24900€ Financia el total del vehículo con sólo tu nómina. Gastos de transferencia incluidos en el precio. Mantenimiento realizado según indicaciones del fabricante Vehículo nacional con kilómetros certificados, no fumador y libre de siniestros. La información que aparece en este anuncio es a título informativo y no tiene valor contractual. Garantia de 12 meses. OTRAS MARCAS Y MODELOS QUE TENEMOS EN STOCK Audi, Citroen, Cupra, Dacia, Fiat, Ford, Hyundai, Kia, Mazda, Mini, Nissan, Opel, Peugeot, Renault, Seat, Skoda, Toyota, Volkswagen , A1, A3, Q3, Q7, Berlingo, C3, C4, Formentor, Leon, Dokker, 500, Fiesta, Transit, Custom, One, Qashqai, NV200, Corsa, Partner, 2008, 3008, Clio, Kangoo, Trafic, Passenger, Arona, Ibiza, Tarraco, Ateca, CHR, Rav4, Aygo, Kamiq, Kodiak, Golf, Tiguan, Polo, Touareg, Gasolina, Diesel, Gasoil, Hibrido",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "150 cv",
-            "año": "2020",
-            "kilómetros": "58073 km",
-            "precio": 22636.0
-        },
-        {
             "titulo": "Audi A3 2018",
             "enlace": "https://es.wallapop.com/item/audi-a3-2018-1056851102",
             "descripcion": "Para mas informacio o mas fotos mando las envio por Whatsapp. El coche esta impecable.",
@@ -605,6 +605,17 @@
             "precio": 19200.0
         },
         {
+            "titulo": "Audi A3 S line",
+            "enlace": "https://es.wallapop.com/item/audi-a3-s-line-1073741807",
+            "descripcion": "Llantas aleación 18”, cambio manual de 6 velocidades, 2 juegos de llaves, reposabrazos central, climatizador, radio multimedia, navegacion, ordenador de abordo, direccion asistida, volante multi-funcion, limitador de velocidad, espejos electricos , lavafaros, luz diurna de led, sensores de aparcamiento del. y traseros, abs, airbag, elevalunas y cierres electricos.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2019",
+            "kilómetros": "79200 km",
+            "precio": 19000.0
+        },
+        {
             "titulo": "FULL EQUIP!!! AUDI A3 SPORTBACK SLINE 2019",
             "enlace": "https://es.wallapop.com/item/audi-a3-2019-1078278853",
             "descripcion": "Coche muy bien cuidado, revisiones al dia echas en la casa oficial. Lo vendo ya que tengo otro coche.",
@@ -636,17 +647,6 @@
             "año": "2020",
             "kilómetros": "53582 km",
             "precio": 18990.0
-        },
-        {
-            "titulo": "Audi A3 S line",
-            "enlace": "https://es.wallapop.com/item/audi-a3-s-line-1073741807",
-            "descripcion": "Llantas aleación 18”, cambio manual de 6 velocidades, 2 juegos de llaves, reposabrazos central, climatizador, radio multimedia, navegacion, ordenador de abordo, direccion asistida, volante multi-funcion, limitador de velocidad, espejos electricos , lavafaros, luz diurna de led, sensores de aparcamiento del. y traseros, abs, airbag, elevalunas y cierres electricos.",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "150 cv",
-            "año": "2019",
-            "kilómetros": "80000 km",
-            "precio": 18500.0
         },
         {
             "titulo": "Audi A3 2018",
@@ -715,6 +715,17 @@
             "precio": 17990.0
         },
         {
+            "titulo": "Audi A3 2019 116CV",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2019-116cv-1025973610",
+            "descripcion": "NS MOTOR, Centro Multimarca en Ordes, referente en máxima calidad y servicio excepcional en la compra-venta de vehículos en Galicia VENDE: Impresionante AUDI A3 SPORTBACK 1.0 30 TFSI 115CV - ÚNICO PROPIETARIO - IVA DEDUCIBLE VEHICULO EN ESTADO DE REESTRENO!11/2018 El vehículo lleva pintura exterior negro mito metalizado, cambio manual de 6 velocidades con asistente de arrancada en pendiente, llantas de aleación de 5 radios 16\", paquete exterior cromado, faros bixenon con lavafaros, paquete de aparcamiento con sensores traseros, asientos de tela en color antracita, volante multifunción de cuero, sistema de navegación MMI, climatizador bizona",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "116 cv",
+            "año": "2019",
+            "kilómetros": "118000 km",
+            "precio": 17900.0
+        },
+        {
             "titulo": "Audi A3 1.0 TFSI 85kW (116CV) Sportback",
             "enlace": "https://es.wallapop.com/item/audi-a3-1-0-tfsi-85kw-116cv-sportback-1073888333",
             "descripcion": "Carplus I Pertenecemos al mayor grupo ibérico de automoción, Grupo Salvador Caetano I Compra online o en nuestras instalaciones de Madrid, Málaga o Sevilla | Abrimos todos los días Descubre las ventajas de comprar un coche en Carplus: - Puedes probar todos nuestros vehículos - 12 meses de garantía - Todos nuestros vehículos certificados con un control de 300 puntos, el más exhaustivo del mercado - Tienes más de 1000 coches donde elegir - Te ofrecemos soluciones de financiación hasta un 100% y seguro - Servicio de entrega a domicilio. - Puedes entregar tu vehículo como parte del pago - Horario Málaga: L-V: 09:30h a 20:30h, Sábados y de 10:00h a 20:30h Los precios son orientativos y no tienen carácter contractual, los precios definitivos serán confirmados por el concesionario distribuidor, pudiendo verse afectados en función de las opciones que se escojan, así como la campaña comercial vigente en el momento de la compra.",
@@ -723,7 +734,7 @@
             "potencia": "116 cv",
             "año": "2018",
             "kilómetros": "90800 km",
-            "precio": 17990.0
+            "precio": 17600.0
         },
         {
             "titulo": "Audi A3 1.0 TFSI 85kW (116CV) Sportback",
@@ -734,18 +745,7 @@
             "potencia": "116 cv",
             "año": "2018",
             "kilómetros": "90800 km",
-            "precio": 17990.0
-        },
-        {
-            "titulo": "Audi A3 2019 116CV",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2019-116cv-1025973610",
-            "descripcion": "NS MOTOR, Centro Multimarca en Ordes, referente en máxima calidad y servicio excepcional en la compra-venta de vehículos en Galicia VENDE: Impresionante AUDI A3 SPORTBACK 1.0 30 TFSI 115CV - ÚNICO PROPIETARIO - IVA DEDUCIBLE VEHICULO EN ESTADO DE REESTRENO!11/2018 El vehículo lleva pintura exterior negro mito metalizado, cambio manual de 6 velocidades con asistente de arrancada en pendiente, llantas de aleación de 5 radios 16\", paquete exterior cromado, faros bixenon con lavafaros, paquete de aparcamiento con sensores traseros, asientos de tela en color antracita, volante multifunción de cuero, sistema de navegación MMI, climatizador bizona",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "116 cv",
-            "año": "2019",
-            "kilómetros": "118000 km",
-            "precio": 17900.0
+            "precio": 17600.0
         },
         {
             "titulo": "Audi A3 SPORTBACK DESIGN EDITION 2019 30 TFSI ",
@@ -779,17 +779,6 @@
             "año": "2019",
             "kilómetros": "98335 km",
             "precio": 17390.0
-        },
-        {
-            "titulo": "Audi A3 Sportback S-Line 2019",
-            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-s-line-1073169199",
-            "descripcion": "Audi A3 Sportback TFSI 116cv SLine en excelente estado. Año 2019. Aceite y filtros recién cambiados. Navegador, Car Play/Android auto, Sensores de parking, Llantas aleación 18\", Bluetooth, Climatizador bizona, Arranque y acceso sin llave, Sensor de luces y lluvia, Faros led, USB, Control de Velocidad. El coche está perfecto, no hay que hacerle nada.",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "116 cv",
-            "año": "2019",
-            "kilómetros": "70000 km",
-            "precio": 17000.0
         },
         {
             "titulo": "Audi A3 2018 116CV 1.0 TFSI SLINE EDITION",
@@ -915,7 +904,7 @@
         {
             "titulo": "Audi A3 SPORTBACK 30 TFSI (EU6D-TEMP)",
             "enlace": "https://es.wallapop.com/item/audi-a3-sportback-30-tfsi-eu6d-temp-1043109405",
-            "descripcion": "PUEDES VER ESTE VEHÍCULO EN NUESTRAS INSTALACIONES DE LEGANES en Calle JULIO PALACIOS 2 (De lunes a sábado de 10:30 a 14:00 y de 17:00 a 20:30 horas y domingos de 10:00 a 14:00 horas) TAMBIEN SABADOS Y DOMINGOS. COMPRA TU COCHE ONLINE O EN CUALQUIERA DE NUESTROS CENTROS Y SI ERES DE FUERA DE MADRID TE LO ENVIAMOS GRATIS A CUALQUIER PUNTO DE LA PENÍNSULA CON NUESTRO SERVICIO DE ENTREGA A DOMICILIO, CONTACTA CON NOSOTROS Y TE ENVIAMOS HISTORIAL DE MANTENIMIENTO, PERITACION Y CERTIFICADOS, TE CALCULAMOS LA FINANCIACIÓN Y TE ACLARAMOS CUALQUIER DUDA. Los mejores precios gracias a nuestro sistema digital y posibilidad de cambio en 15 días o 1.000km para ventas a distancia. Financiación SIN entrada y en el acto hasta el 100% con DNI/NIE y última nómina, si lo necesitas tasamos tu coche a cambio. El precio indicado es con GARANTIA DE UN AÑO ampliable en coberturas y plazos. SOLICITANOS MAS INFORMACIÓN. El vehículo tiene IVA INCLUIDO y es deducible si eres una empresa o autónomo. Con nosotros te ahorras HASTA EL 11% DE ITP que pagarías a hacienda si comprases a un vendedor particular. * Las fotografías mostradas son las reales del vehículo, así como precio, extras, modelo y otros datos salvo error, por lo tanto este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual. (ene5) EQUIPAMIENTOS: ESPEJOS ELECTRICOS LLANTAS DE ALEACIÓN LUCES DIURNAS LUCES LED SENSOR DE LUCES BLUETOOTH CIERRE CENTRALIZADO CLIMATIZADOR CLIMATIZADOR BIZONA CONTROL DE VELOCIDAD DIRECCIÓN ASISTIDA ELEVALUNAS ELÉCTRICO LIMITADOR DE VELOCIDAD MANDOS EN VOLANTE NAVEGADOR GPS ORDENADOR DE A BORDO RADIO CD SENSOR DE PARKING USB ABS AIRBAG AIRBAG ACOMPAÑANTE AIRBAGS LATERALES AYUDA ARRANQUE EN PENDIENTE CONTROL DE TRACCIÓN ESP INMOVILIZADOR ELECTRÓNICO CAMBIO MANUAL RUEDA DE REPUESTO O KIT ANTIPINCHAZOS",
+            "descripcion": "PUEDES VER ESTE VEHÍCULO EN NUESTRAS INSTALACIONES DE LEGANES en Calle JULIO PALACIOS 2 (De lunes a sábado de 10:30 a 14:00 y de 17:00 a 20:30 horas y domingos de 10:00 a 14:00 horas) TAMBIEN SABADOS Y DOMINGOS. COMPRA TU COCHE ONLINE O EN CUALQUIERA DE NUESTROS CENTROS Y SI ERES DE FUERA DE MADRID TE LO ENVIAMOS GRATIS A CUALQUIER PUNTO DE LA PENÍNSULA CON NUESTRO SERVICIO DE ENTREGA A DOMICILIO, CONTACTA CON NOSOTROS Y TE ENVIAMOS HISTORIAL DE MANTENIMIENTO, PERITACION Y CERTIFICADOS, TE CALCULAMOS LA FINANCIACIÓN Y TE ACLARAMOS CUALQUIER DUDA. Los mejores precios gracias a nuestro sistema digital y posibilidad de cambio en 15 días o 1.000km para ventas a distancia. Financiación SIN entrada y en el acto hasta el 100% con DNI/NIE y última nómina, si lo necesitas tasamos tu coche a cambio. El precio indicado es con GARANTIA DE UN AÑO ampliable en coberturas y plazos. SOLICITANOS MAS INFORMACIÓN. El vehículo tiene IVA INCLUIDO y es deducible si eres una empresa o autónomo. Con nosotros te ahorras HASTA EL 11% DE ITP que pagarías a hacienda si comprases a un vendedor particular. * Las fotografías mostradas son las reales del vehículo, así como precio, extras, modelo y otros datos salvo error, por lo tanto este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual. (ene6) EQUIPAMIENTOS: ESPEJOS ELECTRICOS LLANTAS DE ALEACIÓN LUCES DIURNAS LUCES LED SENSOR DE LUCES BLUETOOTH CIERRE CENTRALIZADO CLIMATIZADOR CLIMATIZADOR BIZONA CONTROL DE VELOCIDAD DIRECCIÓN ASISTIDA ELEVALUNAS ELÉCTRICO LIMITADOR DE VELOCIDAD MANDOS EN VOLANTE NAVEGADOR GPS ORDENADOR DE A BORDO RADIO CD SENSOR DE PARKING USB ABS AIRBAG AIRBAG ACOMPAÑANTE AIRBAGS LATERALES AYUDA ARRANQUE EN PENDIENTE CONTROL DE TRACCIÓN ESP INMOVILIZADOR ELECTRÓNICO CAMBIO MANUAL RUEDA DE REPUESTO O KIT ANTIPINCHAZOS",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "116 cv",
@@ -926,7 +915,7 @@
         {
             "titulo": "Audi A3 SPORTBACK 30 TFSI (EU6D-TEMP)",
             "enlace": "https://es.wallapop.com/item/audi-a3-sportback-30-tfsi-eu6d-temp-1036133144",
-            "descripcion": "PUEDES VER ESTE VEHÍCULO EN NUESTRAS INSTALACIONES DE LEGANES en Calle JULIO PALACIOS 2 (De lunes a sábado de 10:30 a 14:00 y de 17:00 a 20:30 horas y domingos de 10:00 a 14:00 horas) TAMBIEN SABADOS Y DOMINGOS. COMPRA TU COCHE ONLINE O EN CUALQUIERA DE NUESTROS CENTROS Y SI ERES DE FUERA DE MADRID TE LO ENVIAMOS GRATIS A CUALQUIER PUNTO DE LA PENÍNSULA CON NUESTRO SERVICIO DE ENTREGA A DOMICILIO, CONTACTA CON NOSOTROS Y TE ENVIAMOS HISTORIAL DE MANTENIMIENTO, PERITACION Y CERTIFICADOS, TE CALCULAMOS LA FINANCIACIÓN Y TE ACLARAMOS CUALQUIER DUDA. Los mejores precios gracias a nuestro sistema digital y posibilidad de cambio en 15 días o 1.000km para ventas a distancia. Financiación SIN entrada y en el acto hasta el 100% con DNI/NIE y última nómina, si lo necesitas tasamos tu coche a cambio. El precio indicado es con GARANTIA DE UN AÑO ampliable en coberturas y plazos. SOLICITANOS MAS INFORMACIÓN. El vehículo tiene IVA INCLUIDO y es deducible si eres una empresa o autónomo. Con nosotros te ahorras HASTA EL 11% DE ITP que pagarías a hacienda si comprases a un vendedor particular. * Las fotografías mostradas son las reales del vehículo, así como precio, extras, modelo y otros datos salvo error, por lo tanto este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual. (ene5) EQUIPAMIENTOS: ESPEJOS ELECTRICOS LLANTAS DE ALEACIÓN LUCES DIURNAS LUCES LED SENSOR DE LUCES BLUETOOTH CIERRE CENTRALIZADO CLIMATIZADOR CLIMATIZADOR BIZONA CONTROL DE VELOCIDAD DIRECCIÓN ASISTIDA ELEVALUNAS ELÉCTRICO LIMITADOR DE VELOCIDAD MANDOS EN VOLANTE NAVEGADOR GPS ORDENADOR DE A BORDO RADIO CD SENSOR DE PARKING USB ABS AIRBAG AIRBAG ACOMPAÑANTE AIRBAGS LATERALES AYUDA ARRANQUE EN PENDIENTE CONTROL DE TRACCIÓN ESP INMOVILIZADOR ELECTRÓNICO CAMBIO MANUAL RUEDA DE REPUESTO O KIT ANTIPINCHAZOS",
+            "descripcion": "PUEDES VER ESTE VEHÍCULO EN NUESTRAS INSTALACIONES DE LEGANES en Calle JULIO PALACIOS 2 (De lunes a sábado de 10:30 a 14:00 y de 17:00 a 20:30 horas y domingos de 10:00 a 14:00 horas) TAMBIEN SABADOS Y DOMINGOS. COMPRA TU COCHE ONLINE O EN CUALQUIERA DE NUESTROS CENTROS Y SI ERES DE FUERA DE MADRID TE LO ENVIAMOS GRATIS A CUALQUIER PUNTO DE LA PENÍNSULA CON NUESTRO SERVICIO DE ENTREGA A DOMICILIO, CONTACTA CON NOSOTROS Y TE ENVIAMOS HISTORIAL DE MANTENIMIENTO, PERITACION Y CERTIFICADOS, TE CALCULAMOS LA FINANCIACIÓN Y TE ACLARAMOS CUALQUIER DUDA. Los mejores precios gracias a nuestro sistema digital y posibilidad de cambio en 15 días o 1.000km para ventas a distancia. Financiación SIN entrada y en el acto hasta el 100% con DNI/NIE y última nómina, si lo necesitas tasamos tu coche a cambio. El precio indicado es con GARANTIA DE UN AÑO ampliable en coberturas y plazos. SOLICITANOS MAS INFORMACIÓN. El vehículo tiene IVA INCLUIDO y es deducible si eres una empresa o autónomo. Con nosotros te ahorras HASTA EL 11% DE ITP que pagarías a hacienda si comprases a un vendedor particular. * Las fotografías mostradas son las reales del vehículo, así como precio, extras, modelo y otros datos salvo error, por lo tanto este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual. (ene6) EQUIPAMIENTOS: ESPEJOS ELECTRICOS LLANTAS DE ALEACIÓN LUCES DIURNAS LUCES LED SENSOR DE LUCES BLUETOOTH CIERRE CENTRALIZADO CLIMATIZADOR CLIMATIZADOR BIZONA CONTROL DE VELOCIDAD DIRECCIÓN ASISTIDA ELEVALUNAS ELÉCTRICO LIMITADOR DE VELOCIDAD MANDOS EN VOLANTE NAVEGADOR GPS ORDENADOR DE A BORDO RADIO CD SENSOR DE PARKING USB ABS AIRBAG AIRBAG ACOMPAÑANTE AIRBAGS LATERALES AYUDA ARRANQUE EN PENDIENTE CONTROL DE TRACCIÓN ESP INMOVILIZADOR ELECTRÓNICO CAMBIO MANUAL RUEDA DE REPUESTO O KIT ANTIPINCHAZOS",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "116 cv",
@@ -937,7 +926,7 @@
         {
             "titulo": "Audi A3 SPORTBACK 30 TFSI (EU6D-TEMP)",
             "enlace": "https://es.wallapop.com/item/audi-a3-sportback-30-tfsi-eu6d-temp-1089826427",
-            "descripcion": "PUEDES VER ESTE VEHICULO EN NUESTRAS INSTALACIONES DE LEGANES en Calle JULIO PALACIOS 2 (De lunes a sabado de 10:30 a 14:00 y de 17:00 a 20:30 horas y domingos de 10:00 a 14:00 horas) TAMBIEN SABADOS Y DOMINGOS. COMPRA TU COCHE ONLINE O EN CUALQUIERA DE NUESTROS CENTROS Y SI ERES DE FUERA DE MADRID TE LO ENVIAMOS GRATIS A CUALQUIER PUNTO DE LA PENINSULA CON NUESTRO SERVICIO DE ENTREGA A DOMICILIO, CONTACTA CON NOSOTROS Y TE ENVIAMOS HISTORIAL DE MANTENIMIENTO, PERITACION Y CERTIFICADOS, TE CALCULAMOS LA FINANCIACION Y TE ACLARAMOS CUALQUIER DUDA. Los mejores precios gracias a nuestro sistema digital y posibilidad de cambio en 15 dias o 1.000km para ventas a distancia. Financiacion SIN entrada y en el acto hasta el 100% con DNI/NIE y ultima nomina, si lo necesitas tasamos tu coche a cambio. El precio indicado es con GARANTIA DE UN ANO ampliable en coberturas y plazos. SOLICITANOS MAS INFORMACION. El vehiculo tiene IVA INCLUIDO y es deducible si eres una empresa o autonomo. Con nosotros te ahorras HASTA EL 11% DE ITP que pagarias a hacienda si comprases a un vendedor particular. * Las fotografias mostradas son las reales del vehiculo, asi como precio, extras, modelo y otros datos salvo error, por lo tanto este anuncio no es vinculante, puede contener errores, se muestra a titulo informativo y no contractual. (ene5) EQUIPAMIENTOS: ESPEJOS ELECTRICOS LLANTAS DE ALEACION LUCES DIURNAS LUCES LED SENSOR DE LUCES BLUETOOTH CIERRE CENTRALIZADO CLIMATIZADOR CLIMATIZADOR BIZONA CONTROL DE VELOCIDAD DIRECCION ASISTIDA ELEVALUNAS ELECTRICO LIMITADOR DE VELOCIDAD MANDOS EN VOLANTE NAVEGADOR GPS ORDENADOR DE A BORDO RADIO CD SENSOR DE PARKING USB ABS AIRBAG AIRBAG ACOMPANANTE AIRBAGS LATERALES AYUDA ARRANQUE EN PENDIENTE CONTROL DE TRACCION ESP INMOVILIZADOR ELECTRONICO CAMBIO MANUAL RUEDA DE REPUESTO O KIT ANTIPINCHAZOS...",
+            "descripcion": "PUEDES VER ESTE VEHICULO EN NUESTRAS INSTALACIONES DE LEGANES en Calle JULIO PALACIOS 2 (De lunes a sabado de 10:30 a 14:00 y de 17:00 a 20:30 horas y domingos de 10:00 a 14:00 horas) TAMBIEN SABADOS Y DOMINGOS. COMPRA TU COCHE ONLINE O EN CUALQUIERA DE NUESTROS CENTROS Y SI ERES DE FUERA DE MADRID TE LO ENVIAMOS GRATIS A CUALQUIER PUNTO DE LA PENINSULA CON NUESTRO SERVICIO DE ENTREGA A DOMICILIO, CONTACTA CON NOSOTROS Y TE ENVIAMOS HISTORIAL DE MANTENIMIENTO, PERITACION Y CERTIFICADOS, TE CALCULAMOS LA FINANCIACION Y TE ACLARAMOS CUALQUIER DUDA. Los mejores precios gracias a nuestro sistema digital y posibilidad de cambio en 15 dias o 1.000km para ventas a distancia. Financiacion SIN entrada y en el acto hasta el 100% con DNI/NIE y ultima nomina, si lo necesitas tasamos tu coche a cambio. El precio indicado es con GARANTIA DE UN ANO ampliable en coberturas y plazos. SOLICITANOS MAS INFORMACION. El vehiculo tiene IVA INCLUIDO y es deducible si eres una empresa o autonomo. Con nosotros te ahorras HASTA EL 11% DE ITP que pagarias a hacienda si comprases a un vendedor particular. * Las fotografias mostradas son las reales del vehiculo, asi como precio, extras, modelo y otros datos salvo error, por lo tanto este anuncio no es vinculante, puede contener errores, se muestra a titulo informativo y no contractual. (ene6) EQUIPAMIENTOS: ESPEJOS ELECTRICOS LLANTAS DE ALEACION LUCES DIURNAS LUCES LED SENSOR DE LUCES BLUETOOTH CIERRE CENTRALIZADO CLIMATIZADOR CLIMATIZADOR BIZONA CONTROL DE VELOCIDAD DIRECCION ASISTIDA ELEVALUNAS ELECTRICO LIMITADOR DE VELOCIDAD MANDOS EN VOLANTE NAVEGADOR GPS ORDENADOR DE A BORDO RADIO CD SENSOR DE PARKING USB ABS AIRBAG AIRBAG ACOMPANANTE AIRBAGS LATERALES AYUDA ARRANQUE EN PENDIENTE CONTROL DE TRACCION ESP INMOVILIZADOR ELECTRONICO CAMBIO MANUAL RUEDA DE REPUESTO O KIT ANTIPINCHAZOS...",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "116 cv",
@@ -1035,8 +1024,8 @@
         },
         {
             "titulo": "Audi A3 SPORTBACK 1.0 TFSI",
-            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-0-tfsi-1052412935",
-            "descripcion": "",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-0-tfsi-1052413886",
+            "descripcion": "******MODELO 115CV***** PUEDES VER ESTE VEHÍCULO EN NUESTRAS INSTALACIONES DE LEGANES en Calle JULIO PALACIOS 2 (De lunes a sábado de 10:30 a 14:00 y de 17:00 a 20:30 horas y domingos de 10:00 a 14:00 horas) TAMBIEN SABADOS Y DOMINGOS. COMPRA TU COCHE ONLINE O EN CUALQUIERA DE NUESTROS CENTROS Y SI ERES DE FUERA DE MADRID TE LO ENVIAMOS GRATIS A CUALQUIER PUNTO DE LA PENÍNSULA CON NUESTRO SERVICIO DE ENTREGA A DOMICILIO, CONTACTA CON NOSOTROS Y TE ENVIAMOS HISTORIAL DE MANTENIMIENTO, PERITACION Y CERTIFICADOS, TE CALCULAMOS LA FINANCIACIÓN Y TE ACLARAMOS CUALQUIER DUDA. Los mejores precios gracias a nuestro sistema digital y posibilidad de cambio en 15 días o 1.000km para ventas a distancia. Financiación SIN entrada y en el acto hasta el 100% con DNI/NIE y última nómina, si lo necesitas tasamos tu coche a cambio. El precio indicado es con GARANTIA DE UN AÑO ampliable en coberturas y plazos. SOLICITANOS MAS INFORMACIÓN. El vehículo tiene IVA INCLUIDO y es deducible si eres una empresa o autónomo. Con nosotros te ahorras HASTA EL 11% DE ITP que pagarías a hacienda si comprases a un vendedor particular. * Las fotografías mostradas son las reales del vehículo, así como precio, extras, modelo y otros datos salvo error, por lo tanto este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual. (ene6) EQUIPAMIENTOS: ESPEJOS ELECTRICOS FAROS DE XENON LLANTAS DE ALEACIÓN LUCES DIURNAS SENSOR DE LLUVIA SENSOR DE LUCES BLUETOOTH CIERRE CENTRALIZADO CLIMATIZADOR CONTROL DE VELOCIDAD DIRECCIÓN ASISTIDA ELEVALUNAS ELÉCTRICO LIMITADOR DE VELOCIDAD MANDOS EN VOLANTE NAVEGADOR GPS ORDENADOR DE A BORDO SENSOR DE PARKING USB ABS AIRBAG AIRBAG ACOMPAÑANTE AIRBAGS LATERALES CONTROL DE TRACCIÓN ESP INMOVILIZADOR ELECTRÓNICO CAMBIO MANUAL RUEDA DE REPUESTO O KIT ANTIPINCHAZOS",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "115 cv",
@@ -1046,8 +1035,8 @@
         },
         {
             "titulo": "Audi A3 SPORTBACK 1.0 TFSI",
-            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-0-tfsi-1052413886",
-            "descripcion": "******MODELO 115CV***** PUEDES VER ESTE VEHÍCULO EN NUESTRAS INSTALACIONES DE LEGANES en Calle JULIO PALACIOS 2 (De lunes a sábado de 10:30 a 14:00 y de 17:00 a 20:30 horas y domingos de 10:00 a 14:00 horas) TAMBIEN SABADOS Y DOMINGOS. COMPRA TU COCHE ONLINE O EN CUALQUIERA DE NUESTROS CENTROS Y SI ERES DE FUERA DE MADRID TE LO ENVIAMOS GRATIS A CUALQUIER PUNTO DE LA PENÍNSULA CON NUESTRO SERVICIO DE ENTREGA A DOMICILIO, CONTACTA CON NOSOTROS Y TE ENVIAMOS HISTORIAL DE MANTENIMIENTO, PERITACION Y CERTIFICADOS, TE CALCULAMOS LA FINANCIACIÓN Y TE ACLARAMOS CUALQUIER DUDA. Los mejores precios gracias a nuestro sistema digital y posibilidad de cambio en 15 días o 1.000km para ventas a distancia. Financiación SIN entrada y en el acto hasta el 100% con DNI/NIE y última nómina, si lo necesitas tasamos tu coche a cambio. El precio indicado es con GARANTIA DE UN AÑO ampliable en coberturas y plazos. SOLICITANOS MAS INFORMACIÓN. El vehículo tiene IVA INCLUIDO y es deducible si eres una empresa o autónomo. Con nosotros te ahorras HASTA EL 11% DE ITP que pagarías a hacienda si comprases a un vendedor particular. * Las fotografías mostradas son las reales del vehículo, así como precio, extras, modelo y otros datos salvo error, por lo tanto este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual. (ene5) EQUIPAMIENTOS: ESPEJOS ELECTRICOS FAROS DE XENON LLANTAS DE ALEACIÓN LUCES DIURNAS SENSOR DE LLUVIA SENSOR DE LUCES BLUETOOTH CIERRE CENTRALIZADO CLIMATIZADOR CONTROL DE VELOCIDAD DIRECCIÓN ASISTIDA ELEVALUNAS ELÉCTRICO LIMITADOR DE VELOCIDAD MANDOS EN VOLANTE NAVEGADOR GPS ORDENADOR DE A BORDO SENSOR DE PARKING USB ABS AIRBAG AIRBAG ACOMPAÑANTE AIRBAGS LATERALES CONTROL DE TRACCIÓN ESP INMOVILIZADOR ELECTRÓNICO CAMBIO MANUAL RUEDA DE REPUESTO O KIT ANTIPINCHAZOS",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-0-tfsi-1052412935",
+            "descripcion": "******MODELO 115CV***** PUEDES VER ESTE VEHÍCULO EN NUESTRAS INSTALACIONES DE LEGANES en Calle JULIO PALACIOS 2 (De lunes a sábado de 10:30 a 14:00 y de 17:00 a 20:30 horas y domingos de 10:00 a 14:00 horas) TAMBIEN SABADOS Y DOMINGOS. COMPRA TU COCHE ONLINE O EN CUALQUIERA DE NUESTROS CENTROS Y SI ERES DE FUERA DE MADRID TE LO ENVIAMOS GRATIS A CUALQUIER PUNTO DE LA PENÍNSULA CON NUESTRO SERVICIO DE ENTREGA A DOMICILIO, CONTACTA CON NOSOTROS Y TE ENVIAMOS HISTORIAL DE MANTENIMIENTO, PERITACION Y CERTIFICADOS, TE CALCULAMOS LA FINANCIACIÓN Y TE ACLARAMOS CUALQUIER DUDA. Los mejores precios gracias a nuestro sistema digital y posibilidad de cambio en 15 días o 1.000km para ventas a distancia. Financiación SIN entrada y en el acto hasta el 100% con DNI/NIE y última nómina, si lo necesitas tasamos tu coche a cambio. El precio indicado es con GARANTIA DE UN AÑO ampliable en coberturas y plazos. SOLICITANOS MAS INFORMACIÓN. El vehículo tiene IVA INCLUIDO y es deducible si eres una empresa o autónomo. Con nosotros te ahorras HASTA EL 11% DE ITP que pagarías a hacienda si comprases a un vendedor particular. * Las fotografías mostradas son las reales del vehículo, así como precio, extras, modelo y otros datos salvo error, por lo tanto este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual. (ene6) EQUIPAMIENTOS: ESPEJOS ELECTRICOS FAROS DE XENON LLANTAS DE ALEACIÓN LUCES DIURNAS SENSOR DE LLUVIA SENSOR DE LUCES BLUETOOTH CIERRE CENTRALIZADO CLIMATIZADOR CONTROL DE VELOCIDAD DIRECCIÓN ASISTIDA ELEVALUNAS ELÉCTRICO LIMITADOR DE VELOCIDAD MANDOS EN VOLANTE NAVEGADOR GPS ORDENADOR DE A BORDO SENSOR DE PARKING USB ABS AIRBAG AIRBAG ACOMPAÑANTE AIRBAGS LATERALES CONTROL DE TRACCIÓN ESP INMOVILIZADOR ELECTRÓNICO CAMBIO MANUAL RUEDA DE REPUESTO O KIT ANTIPINCHAZOS",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "115 cv",
@@ -1078,26 +1067,26 @@
             "precio": 10450.0
         },
         {
+            "titulo": "Audi A3 2018",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2018-1092811854",
+            "descripcion": "Vehículo afectado por la DANA.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2018",
+            "kilómetros": "55000 km",
+            "precio": 8000.0
+        },
+        {
             "titulo": "Audi A3    1.5cc TFSI 150cv    SPORTBACK  AÑO 2018",
             "enlace": "https://es.wallapop.com/item/audi-a3-1-5cc-tfsi-150cv-sportback-ano-2018-1059979795",
-            "descripcion": "VEHICULO CON GOLPE FRONTAL, EL MOTOR ARRANCA, CAJA DE CAMBIOS AUTOMATICA OK, INTERIOR EN BUEN ESTADO, AIRBAG DESPLEGADOS,CARROCERIA COMO SE PUEDE APRECIAR EN LAS FOTOGRAFIAS... AÑO 2018 1.5cc TFSI 150cv GASOLINA 135.834 KM AUTOMATICO Conócenos y visita nuestro amplio stock en: siniestroscars.com",
+            "descripcion": "",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "150 cv",
             "año": "2018",
             "kilómetros": "135834 km",
             "precio": 6900.0
-        },
-        {
-            "titulo": "Audi A3 2020 COCHE DANA LEER DESCRIPCION",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2020-coche-dana-1086926486",
-            "descripcion": "COCHE DANA. Motor no afectado comprobado por el perito. NO FUNCIONA DADO DE BAJA. INUNDADO COMPLETO.",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "150 cv",
-            "año": "2020",
-            "kilómetros": "27000 km",
-            "precio": 6500.0
         },
         {
             "titulo": "AUDI A3 SPORTBACK 30 TFSI (EU6D-TEMP)",

@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 2",
         "version": "218d Gran Coupé Aut.",
-        "año mínimo": 2020,
-        "año máximo": 2024,
+        "año mínimo": "2020",
+        "año máximo": "2024",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "automatic",
         "tipos de motor": "gasoil",
-        "potencia máxima": 150,
+        "potencia máxima": "150",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=150&min_year=2020&max_year=2024&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -242,17 +242,6 @@
             "precio": 31727.0
         },
         {
-            "titulo": "BMW Serie 2 2022",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-2-2022-997703386",
-            "descripcion": "Vehículo en perfecto estado, vendo por no uso. Matriculación 31/10/22 Precio nuevo. 42.500€ Garantía hasta 2026 BMW BMW service 5 años o 100.000km",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "150 cv",
-            "año": "2022",
-            "kilómetros": "36000 km",
-            "precio": 31500.0
-        },
-        {
             "titulo": "BMW Serie 2 218d Gran Coupe 110 kW (150 CV)",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-218d-gran-coupe-110-kw-150-cv-1067096189",
             "descripcion": "",
@@ -319,17 +308,6 @@
             "precio": 30490.0
         },
         {
-            "titulo": "BMW Serie 2 2020",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-2-2020-936802563",
-            "descripcion": "",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "150 cv",
-            "año": "2020",
-            "kilómetros": "96694 km",
-            "precio": 30000.0
-        },
-        {
             "titulo": "BMW Serie 2 2021",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-2021-1091086458",
             "descripcion": "",
@@ -354,7 +332,7 @@
         {
             "titulo": "BMW Serie 2 218d Active Tourer 110 kW (150 CV)",
             "enlace": "https://es.wallapop.com/item/bmw-serie-2-218d-active-tourer-110-kw-150-cv-1087063573",
-            "descripcion": "",
+            "descripcion": "¡¡Condiciones a consultar!! Hola, ¿Cómo estás? Nos enorgullece que estés viendo el anuncio de uno de nuestros más de 500 vehículos y que te vamos a facilitar todo para que sea tuyo. Somos Autos Moliere, el concesionario multimarca con la mejor reputación online de España. - 15 días o 500Km para comprobar que es tu vehículo, si no, lo devuelves. *Consulte condiciones* - GESTIONAMOS LA ENTREGA DE SU VEHÍCULO EN UN TIEMPO RECORD. - Los mejores precios garantizados. - Vehículos certificados en más de 260 puntos (la más amplia del mercado). - Tenemos más modelos a tu disposición en nuestro amplio stock. - Descuento de hasta el 10% por financiar tu vehículo con nosotros. Garantía de 12 meses ampliable hasta 48 meses. IVA DEDUCIBLE INCLUIDO EN EL PRECIO. ¡Llámanos! Precio al contado: 32.890€. Precio financiado: 29.900€. *Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual.",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "150 cv",
@@ -383,6 +361,17 @@
             "año": "2020",
             "kilómetros": "47000 km",
             "precio": 29499.0
+        },
+        {
+            "titulo": "BMW Serie 2 2020",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-2-2020-936802563",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "2020",
+            "kilómetros": "96694 km",
+            "precio": 29000.0
         },
         {
             "titulo": "BMW Serie 2 2020",
@@ -438,6 +427,17 @@
             "año": "2021",
             "kilómetros": "85000 km",
             "precio": 28000.0
+        },
+        {
+            "titulo": "BMW Serie 2 2023",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-2-2023-1059917110",
+            "descripcion": "20/12/2022 -NACIONAL - GARANTIA OFICIAL HASTA 20/12/2025 SOLO 10.000kms - REESTRENO - PERFECTO ESTADO CAMBIO AUTOMATICO/SECUENCIAL PRECIO CON IVA INCLUIDO FINANCIACION ESPECIAL AFECTADOS DANA POSIBILIDAD DE RECOGER VEHICULO A CAMBIO COMO PARTE DE PAGO",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "116 cv",
+            "año": "2023",
+            "kilómetros": "10000 km",
+            "precio": 27990.0
         }
     ]
 }

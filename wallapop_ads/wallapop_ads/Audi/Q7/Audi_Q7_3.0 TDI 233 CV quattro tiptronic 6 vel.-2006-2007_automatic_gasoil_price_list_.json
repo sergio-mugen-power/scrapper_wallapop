@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "Q7",
+        "version": "3.0 TDI 233 CV quattro tiptronic 6 vel.",
+        "año mínimo": 2006,
+        "año máximo": 2007,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 232,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=232&min_year=2006&max_year=2007&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=Q7&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "En venta Audi Q7 3.0 Diésel 232CV. 2007",
+            "enlace": "https://es.wallapop.com/item/en-venta-audi-q7-3-0-diesel-232cv-2007-1086619712",
+            "descripcion": "Coche en estado impecable, cuenta con todos los extras posibles. Enganche bola para remolque. Arranque sin llave y con llave (Keyless y Normal) - Control crucero adaptativo. - Tapicería: Cuero Beige Claro, en perfecto estado. Techo panorámico doble. - 7 Plazas, las dos últimas abatibles o fijas. Ruedas traseras nuevas recién cambiadas. Climatizador trasero en el centro y en las puertas. - Ceniceros en puertas traseras. Consola central con navegador original. Carga de 6 CDs (Audi Cd Changer) - Sistema ISOFIX en asientos traseros. NO SE ACEPTAN INTERCAMBIOS Audi Q7 Familiar en La Muela",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "232 cv",
+            "año": "2007",
+            "kilómetros": "293927 km",
+            "precio": 12500.0
+        },
+        {
+            "titulo": "Audi Q7 2006",
+            "enlace": "https://es.wallapop.com/item/audi-q7-2006-1071772417",
+            "descripcion": "ACEPTO CAMBIOS ACORDE CON EL VALOR. Coche con motor reparado a nuevo no ha rodado todavía último diagnóstico de la Audi problema en el circuito de inyección bomba de alta averiada. No arranca lleva un año o más aparcado. Repito el motor es nuevo problema de bomba de alta. No se repara por falta de presupuesto. Por eso su precio rebajado. Leer bien. No bajo el precio puedo aceptar vehículo por valor. El coche tiene muchos extras que no pertenecen a su año .",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "2.45 cv",
+            "año": "2006",
+            "kilómetros": "270000 km",
+            "precio": 7700.0
+        }
+    ]
+}

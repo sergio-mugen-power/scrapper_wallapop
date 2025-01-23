@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "TT",
+        "version": "1.8 TFSI",
+        "año mínimo": 2012,
+        "año máximo": 2014,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 160,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=160&min_year=2012&max_year=2014&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=TT&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi TT S-LINE",
+            "enlace": "https://es.wallapop.com/item/audi-tt-s-line-1057170775",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "160 cv",
+            "año": "2013",
+            "kilómetros": "89000 km",
+            "precio": 16990.0
+        },
+        {
+            "titulo": "Audi TT ",
+            "enlace": "https://es.wallapop.com/item/audi-tt-1060963344",
+            "descripcion": "Audi TT 1.8 TFSI Coche nacional. Mantenimientos y aceite al día. Neumaticos practicamente nuevos. Paquete S-Line Xenón Cámara marcha atrás 6 velocidades Volante deportivo Asiento deportivos en alcántara. Se puede ver y probar.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "160 cv",
+            "año": "2012",
+            "kilómetros": "145000 km",
+            "precio": 14499.0
+        }
+    ]
+}

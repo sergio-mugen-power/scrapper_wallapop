@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 200,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=200&min_year=2010&max_year=2012&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=200&min_year=2010&max_year=2012&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=automatic&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -30,7 +30,7 @@
             "potencia": "200 cv",
             "año": "2010",
             "kilómetros": "100000 km",
-            "precio": 17500.0
+            "precio": 17400.0
         },
         {
             "titulo": "Audi A3 2010 2.0TFSi CABRIO",
@@ -89,17 +89,6 @@
         },
         {
             "titulo": "Audi A3 2010",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2010-932781993",
-            "descripcion": "sensores de aparcamiento traseros y camara trasera control de velocidad de crucero manos libres Bluetooth luces automático xenon elevalunas electrecos itv hasta julio de 2025 asientos de piel segundo conductor techo panorámico siempre en garaje neumaticos nuevos llantas 18 navegador pantalla táctil GPS año 29/12/2010 1.4 125 cv equipamiento, climatizador",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "125 cv",
-            "año": "2010",
-            "kilómetros": "157421 km",
-            "precio": 10800.0
-        },
-        {
-            "titulo": "Audi A3 2010",
             "enlace": "https://es.wallapop.com/item/audi-a3-2010-1040540050",
             "descripcion": "impoluto por dentro, x fuera solo tiene un pequeño rozon en el paragolpes trasero. muchos extras. traccion 4 2.0 tfsi 185.000 kms automatico volante tipo r8 estetica s3 exterior e interior pantalla volante multi funcion techo solar interior en cuero negro control de velocidad modo deportivo se aceptan cambios, aportando la diferencia si fuera necesario tiene la mecatronica para cambiar. LO DOY EN 10500 por eso mismo. muy pocas unidades con estos extras en españa. negociable",
             "combustible": "Gasolina",
@@ -108,6 +97,17 @@
             "año": "2010",
             "kilómetros": "189000 km",
             "precio": 10500.0
+        },
+        {
+            "titulo": "Audi A3 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2010-932781993",
+            "descripcion": "sensores de aparcamiento traseros y camara trasera control de velocidad de crucero manos libres Bluetooth luces automático xenon elevalunas electrecos itv hasta julio de 2025 asientos de piel segundo conductor techo panorámico siempre en garaje neumaticos nuevos llantas 18 navegador pantalla táctil GPS año 29/12/2010 1.4 125 cv equipamiento, climatizador",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "125 cv",
+            "año": "2010",
+            "kilómetros": "157421 km",
+            "precio": 10000.0
         },
         {
             "titulo": "Audi A3 1.8 tfsi 160cv DSG Nacional pegatina C",

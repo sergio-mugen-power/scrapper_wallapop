@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase B",
+        "version": "B 180",
+        "año mínimo": "2019",
+        "año máximo": "2022",
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 136,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=136&min_year=2019&max_year=2022&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Mercedes-Benz&model=Clase B&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase B 180 7G-DCT AMG 136CV",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-b-180-7g-dct-amg-136cv-1083764596",
+            "descripcion": "NS MOTOR, Centro Multimarca en Ordes, referente en máxima calidad y servicio excepcional en la compra-venta de vehículos en Galicia VENDE: IMPRESIONANTE MERCEDES BENZ CLASE B 180 7G-DCT AMG 136CV - UNICO PROPIETARIO - IVA DEDUCIBLE VEHICULO EN ESTADO DE REESTRENO! 09/2019 Se entrega transferido, revisado, limpieza integral de tapicería, mantenimiento hecho y con un año de garantía (opcional extensión 2 años más de garantía oficial).",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "136 cv",
+            "año": "2019",
+            "kilómetros": "109000 km",
+            "precio": 23900.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase B 2019 136CV",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-b-2019-136cv-1056458922",
+            "descripcion": "NS MOTOR, Centro Multimarca en Ordes, referente en máxima calidad y servicio excepcional en la compra-venta de vehículos en Galicia VENDE: MERCEDES CLASE B 180D 136CV * Único propietario * Iva deducible Lo que hace único a este Mercedes: *Pintura negro cosmos *Cambio manual de 6 velocidades *Llantas de 5 radios en Y en 16\" *Tapicería en símil de cuero ártico y tela flerón negro *Cuadro de instrumentación digital con pantalla de 17,8 cm *Pantalla táctil de infoentretenimiento de 26cm *Sistema de navegación *Sensores de aparcamiento+ Cámara trasera *Lane assist+Attention assist *Dynamic select *Climatizador bizona *Portón de maletero eléctrico *Arranque sin llave keyless go *Sensor de luz y lluvia ¿A qué esperas? ¡Contacta ahora y no dejes pasar esta oportunidad de hacerlo tuyo! Entrega y Servicios: *Vehículo entregado transferido, revisado y con mantenimiento al día. *Limpieza integral de la tapicería, para que el coche se entregue como nuevo. *Garantía de 1 año (opcional extensión de 3 años más de garantía). Ofrecemos: *Financiación a medida, de forma ágil y personalizada. *Ampliación de garantía, para tu tranquilidad adicional. *Entrega en toda España, donde lo necesites. *Certificación de kilometraje, garantizando que el coche está en perfectas condiciones. *Certificación de NO siniestralidad. *Búsqueda personalizada de vehículos, si no encuentras lo que necesitas, ¡te lo buscamos! Visita nuestra web: nsmotor.es COD: MB3085 Visita nuestra web: nsmotor.es LOS ANUNCIOS SE MUESTRAN A TÍTULO INFORMATIVO, PUEDEN CONTENER ERRORES Y SE DEBE CONTRASTAR LA INFORMACIÓN CON EL VENDEDOR.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "136 cv",
+            "año": "2019",
+            "kilómetros": "109000 km",
+            "precio": 21900.0
+        }
+    ]
+}

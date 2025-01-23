@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 1000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 200,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=200&min_year=2010&max_year=2012&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=200&min_year=2010&max_year=2012&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=1000000&gearbox=manual&brand=Audi&model=A3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -68,7 +68,7 @@
         {
             "titulo": "Audi A3 2012",
             "enlace": "https://es.wallapop.com/item/audi-a3-2012-1045978511",
-            "descripcion": "Se vende Audi A3 1.8Tfsi 160cv, 6 velocidades, un estado impecable, un solo dueño, paquete Sline interior y exterior, techo solar abatible, volante multifunción, navegador, asientos semi cuero sline, faros bixenon, cambio manual, llanta 18, muy pocos km, siempre en garaje, pocos coches en un estado como este, mejor ver y probar....",
+            "descripcion": "",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "160 cv",
@@ -97,6 +97,17 @@
             "año": "2011",
             "kilómetros": "106000 km",
             "precio": 12500.0
+        },
+        {
+            "titulo": "Audi A3 Sportback 1.8 TFSI Ambiente S-Line manual ",
+            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1-8-tfsi-ambiente-s-line-manual-1092326378",
+            "descripcion": "Audi A3 Sportback 1.8 TFSI Ambiente S-Line manual 160Cv del 2011 con 153.000KM • Coche nacional • Mantenimientos al día • Sensores de aparcamiento • Sensor de lluvia • Sensor de luces • Bluetooth • Control de velocidad • Volante multifunción • Climatizador bi-zona • Llantas de aleación de 18” (Rotor) • Asientos traseros abatibles • En j2m Automoción seleccionamos todos nuestros vehículos para ofrecer la máxima calidad y confianza a nuestros clientes. • Todos nuestros vehículos se entregan con todos los mantenimientos al día • Cambio de nombre y garantía de un año incluido en el precio • Kilómetros verificados • Financiamos hasta el 100% (Consultar condiciones) • Se acepta vehículo como forma de pago (previa tasación) • Posibilidad de hacer prueba mecánica • Listo para entrega inmediata",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "160 cv",
+            "año": "2011",
+            "kilómetros": "153000 km",
+            "precio": 12000.0
         },
         {
             "titulo": "Audi A3 2010",
@@ -176,6 +187,17 @@
             "precio": 10000.0
         },
         {
+            "titulo": "Audi A3 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1066134888",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "160 cv",
+            "año": "2010",
+            "kilómetros": "89000 km",
+            "precio": 9999.0
+        },
+        {
             "titulo": "Audi A3 2012",
             "enlace": "https://es.wallapop.com/item/audi-a3-2012-953537931",
             "descripcion": "A la venta fantástico Audi A3 en perfectas condiciones, todo al día ITV hasta 11/25 Climatizador bi-zona Faros y pilotos fud leds Pantalla mmi Audi con CarPlay y android auto. 5 modos de conducción. Para más información no dude en contactar se aceptan cambios por coche familiar.",
@@ -200,7 +222,7 @@
         {
             "titulo": "Audi A3 1.4 TFSI 125CV AMBITION",
             "enlace": "https://es.wallapop.com/item/audi-a3-1-4-tfsi-1059741676",
-            "descripcion": "",
+            "descripcion": "VEHICULO PROCEDENTE DE EMPRESA,CERTIFICACION DE KILOMETRAJE,LLANTAS DE ALEACION DEPORTIVAS EN COLOR NEGRO BRILLANTE,NAVEGADOR,CLIMATIZADOR AUTOMATICO,PARKTRONIC TRASERO,CALEFACCION EN LOS ASIENTOS,RUEDAS NUEVAS PIRELLY,RADIO CD CON MP3,ESPECTACULAR ESTADO DE CHAPA Y PINTURA ,LO ENTREGAMOS CON 12 MESES DE GARANTIA",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "125 cv",
@@ -222,7 +244,7 @@
         {
             "titulo": "Audi A3 2011",
             "enlace": "https://es.wallapop.com/item/audi-a3-2011-1090567158",
-            "descripcion": "Con pocos kilómetros, y muy bien cuidado. Motor 1.2 gasolina 105 CV. Chapa y pintura en buen estado, tiene algún roce de aparcamiento. Pasada la ITV en 2024 con todo favorable. Asientos calefactables, control de velocidad, star-stop. Consumo muy bajo. Hechos los cambios de filtros y aceite en taller. Lo vendo porque a partir de ahora no lo voy a necesitar. Contacto: Alberto 609782255",
+            "descripcion": "Con pocos kilómetros, y muy bien cuidado. Motor 1.2 gasolina 105 CV. Chapa y pintura en buen estado, tiene algún roce de aparcamiento. Pasada la ITV en 2024 con todo favorable. Asientos calefactables, control de velocidad, star-stop. Consumo muy bajo. Hechos los cambios de filtros y aceite en taller. Pasada ITV. Lo vendo porque a partir de ahora no lo voy a necesitar. Contacto: Alberto 609782255",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "105 cv",
@@ -240,17 +262,6 @@
             "año": "2011",
             "kilómetros": "250000 km",
             "precio": 9500.0
-        },
-        {
-            "titulo": "Audi A3 2012",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2012-1072343861",
-            "descripcion": "Audi A3 1.8TFSI 160cv - Techo panoramico - Faros bi-xenon - Sensores de parking - Equipo de sonido Bosse - Motor por cadena *Gestion documental 150€ * Consulta tu funanciacion.",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "160 cv",
-            "año": "2012",
-            "kilómetros": "130000 km",
-            "precio": 9490.0
         },
         {
             "titulo": "Audi A3 2011",
@@ -273,17 +284,6 @@
             "año": "2011",
             "kilómetros": "122000 km",
             "precio": 9350.0
-        },
-        {
-            "titulo": "Audi A3 2012",
-            "enlace": "https://es.wallapop.com/item/audi-a3-sportback-1075344894",
-            "descripcion": "Vendo audi a3 sportback en perfecto estado tanto mecáncia como físicamente. Muy bien cuidado. Elevalunas eléctrico, asientos calefactables y más accesorios. ITV pasada hasta noviembre de 2025. No dudéis en preguntar. Coche actualmente en mallorca pero lo podemos llevar a valencia sin nigún problema",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "125 cv",
-            "año": "2012",
-            "kilómetros": "193000 km",
-            "precio": 9300.0
         },
         {
             "titulo": "Audi A3 2010",
@@ -363,17 +363,6 @@
             "precio": 8500.0
         },
         {
-            "titulo": "Audi A3 2010",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2010-986650991",
-            "descripcion": "Coche en perfecto estado, con asientos de cuero, tracción a las 4 ruedas, climatizador bizona, ITV recién pasada, etiqueta C, muy bien cuidado.",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "160 cv",
-            "año": "2010",
-            "kilómetros": "150000 km",
-            "precio": 8500.0
-        },
-        {
             "titulo": "Audi A3 2012",
             "enlace": "https://es.wallapop.com/item/audi-a3-2012-1010431700",
             "descripcion": "Se vende Audi A3 sportback Sline con motor 1.4 y 125cv. 200000km Techo panorámico Asientos y acabado Sline Pantalla cambiada Interior en perfecto estado Itv recién pasada hasta diciembre 2025 Todas las revisiones en Audi SE ACEPTARIA CAMBIO POR FURGO CAMPER",
@@ -440,15 +429,15 @@
             "precio": 7750.0
         },
         {
-            "titulo": "Audi A3 cabrio mejorado 2.0 tfsi",
-            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1045632585",
-            "descripcion": "vendo Audi A3 2.0 TFSI del 2010. se ha cambiado todos los sensores de capota y motor, neumaticos nuevos, turbo hibrido +50cv nuevo, admisión nueva, 4 inyectores nuevos, valvula pcv y escape nueva, motor revisado, valvulas revusadas, reprogramacion a 310cv en total, altavoces Herz, y revisado motor. nada de desgaste",
+            "titulo": "Audi A3 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1092715046",
+            "descripcion": "Vendo Audi A3 en un estado inmejorable, esta en perfecto estado tanto de interior como de exterior, 175.000km, año 2010, motor 1.4 TFSI con distribución a cadena, motor muy fiable, mantenimiento aceite i filtros echo en octubre a las 170mil, PEGATINA MEDIOAMBIENTAL (C), tiene sistema star/stop, Radio con bluthoot, Caja de cambios de 6 marchas, todo en perfecto estado. Coche perfecto para la normativa de contaminación, i tiene un consumo ridiculo. ITV recien pasada, hasta enero de 2026. Ultimo precio. No vajo mas.",
             "combustible": "Gasolina",
             "cambio": "Manual",
-            "potencia": "200 cv",
+            "potencia": "125 cv",
             "año": "2010",
-            "kilómetros": "252700 km",
-            "precio": 7100.0
+            "kilómetros": "175000 km",
+            "precio": 7200.0
         },
         {
             "titulo": "Audi A3 2010",
@@ -459,7 +448,18 @@
             "potencia": "125 cv",
             "año": "2010",
             "kilómetros": "175000 km",
-            "precio": 7000.0
+            "precio": 7200.0
+        },
+        {
+            "titulo": "Audi A3 cabrio mejorado 2.0 tfsi",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2010-1045632585",
+            "descripcion": "vendo Audi A3 2.0 TFSI del 2010. se ha cambiado todos los sensores de capota y motor, neumaticos nuevos, turbo hibrido +50cv nuevo, admisión nueva, 4 inyectores nuevos, valvula pcv y escape nueva, motor revisado, valvulas revusadas, reprogramacion a 310cv en total, altavoces Herz, y revisado motor. nada de desgaste",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "200 cv",
+            "año": "2010",
+            "kilómetros": "252700 km",
+            "precio": 7100.0
         },
         {
             "titulo": "Audi A3 2011",
@@ -530,7 +530,7 @@
         {
             "titulo": "Audi A3 2010",
             "enlace": "https://es.wallapop.com/item/audi-a3-2010-1087342191",
-            "descripcion": "",
+            "descripcion": "Vehículo de particular en comisión de venta!! LIBRO DE REVISIONES COMPLETO!! Distribución de cadena recién hecha! Aceite y todos los filtros nuevos 11/1/25, neumáticos traseros nuevos, muy buen estado de pintura, interior impecable, ITV hasta julio. Extras: faros bixenon, sensor de luces lluvia, asientos deportivos calefactables, sensor de aparcamiento trasero, llantas 17 s-Line, equipo de música bose, auxiliar, climatizador bizona, abs esp, 2 llaves con mando. Similar: golf Gtd Gti r32 leon fr cupra ibiza fiesta st Focus astra corsa 308",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "125 cv",
@@ -581,6 +581,17 @@
             "año": "2010",
             "kilómetros": "125000 km",
             "precio": 3000.0
+        },
+        {
+            "titulo": "Audi A3 2011",
+            "enlace": "https://es.wallapop.com/item/audi-a3-2011-1092048075",
+            "descripcion": "spoiler para techo audi a3 del 2006 a 2011 carrocería 8p",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "160 cv",
+            "año": "2011",
+            "kilómetros": "30000 km",
+            "precio": 50.0
         }
     ]
 }

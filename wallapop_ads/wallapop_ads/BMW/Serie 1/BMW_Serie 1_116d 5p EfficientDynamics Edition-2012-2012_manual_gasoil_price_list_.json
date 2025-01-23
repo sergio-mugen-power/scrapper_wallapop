@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 1",
         "version": "116d 5p EfficientDynamics Edition",
-        "año mínimo": 2012,
-        "año máximo": 2012,
+        "año mínimo": "2012",
+        "año máximo": "2012",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "manual",
         "tipos de motor": "gasoil",
-        "potencia máxima": 116,
+        "potencia máxima": "116",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=116&min_year=2012&max_year=2012&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=BMW&model=Serie 1&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -45,6 +45,17 @@
         },
         {
             "titulo": "BMW Serie 1 2012",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2012-1091426276",
+            "descripcion": "coche unico dueño comprado en consecionario, revision y mantenimiento (cambio aceite,filtros,etc) en diciembre, itv pasada en diciembre, neumaticos nuevos, version sport, acabados sport en interior. lo mejor es verlo en persona.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "116 cv",
+            "año": "2012",
+            "kilómetros": "165000 km",
+            "precio": 12800.0
+        },
+        {
+            "titulo": "BMW Serie 1 2012",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1-2012-1053228384",
             "descripcion": "BMW serie 1, pack m Mantenimiento recién realizado. Buenas condiciones. Asientos Alcántara Neumáticos michellin recién cambiados. Más fotos por privado",
             "combustible": "Diésel",
@@ -53,17 +64,6 @@
             "año": "2012",
             "kilómetros": "169000 km",
             "precio": 12500.0
-        },
-        {
-            "titulo": "BMW Serie 1 2012",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2012-1091426276",
-            "descripcion": "coche unico dueño comprado en consecionario, revision y mantenimiento (cambio aceite,filtros,etc) en diciembre, itv pasada en diciembre, neumaticos nuevos, version sport, acabados sport en interior. lo mejor es verlo en persona.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "116 cv",
-            "año": "2012",
-            "kilómetros": "165000 km",
-            "precio": 12000.0
         },
         {
             "titulo": "BMW Serie 1 116D 2.0 PACK M ",
@@ -189,23 +189,12 @@
         {
             "titulo": "BMW Serie 1 2012",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1-2012-pack-m-nacional-1044297360",
-            "descripcion": "",
+            "descripcion": "BMW SERIE 1 PACK M MOTOR 2.0 DIÉSEL DE 116 CABALLOS CAJA DE CAMBIOS MANUAL 6 VEL. AÑO 2012 KILÓMETROS 180.000 MUY CUIDADO VEHICULO NACIONAL 2 LLAVES REVISION RECIEN HECHA 1 AÑO DE GARANTÍA MEJOR VER",
             "combustible": "Diésel",
             "cambio": "Manual",
             "potencia": "116 cv",
             "año": "2012",
             "kilómetros": "179000 km",
-            "precio": 9900.0
-        },
-        {
-            "titulo": "BMW Serie 1 diesel 2012",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-diesel-2012-1090064771",
-            "descripcion": "Se vende BMW serie 1 116D de color blanco en muy buen estado, acepto cualquier tipo de prueba mecánica. ITV hasta enero del 2026",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "116 cv",
-            "año": "2012",
-            "kilómetros": "240000 km",
             "precio": 9900.0
         },
         {
@@ -295,6 +284,17 @@
             "año": "2012",
             "kilómetros": "149000 km",
             "precio": 9000.0
+        },
+        {
+            "titulo": "BMW Serie 1 diesel 2012",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-1-diesel-2012-1090064771",
+            "descripcion": "Se vende BMW serie 1 116D de color blanco en muy buen estado, acepto cualquier tipo de prueba mecánica. ITV hasta enero del 2026",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "116 cv",
+            "año": "2012",
+            "kilómetros": "240000 km",
+            "precio": 8900.0
         },
         {
             "titulo": "BMW Serie 1 2012",
@@ -430,17 +430,6 @@
         },
         {
             "titulo": "BMW Serie 1 2012",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2012-1027396504",
-            "descripcion": "BMW SERIE 1 116d 116cv del 2012 con 220.000km •Vehiculo nacional de concesionario •Distintivo medioambiental B🟡 •Libros originales y 2 llaves Diapone de pantalla original, luces xenon, volante multifunciones, clima, elevalunas electrico, cierre centralizado, radio CD, airbags ABS, llantas de aleación y antinieblas. -REVISADO -CAMBIO DE NOMBRE --1 AÑO DE GARANTÍA A NIVEL NACIONAL -ITV -IMPUESTO 2024 PAGADO *EL PAGO PUEDE SER AL CONTADO *POSIBILIDAD DE FINANCIACIÓN PARA MÁS INFORMACIÓN LLAMA AL 676 303 426",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "115 cv",
-            "año": "2012",
-            "kilómetros": "220000 km",
-            "precio": 7990.0
-        },
-        {
-            "titulo": "BMW Serie 1 2012",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1-2012-1091146639",
             "descripcion": "BMW Serie 1 116D 2012 Año: 2012 Kilometraje: 198.000 km Modelo: BMW Serie 1 116D 🛠️ Mantenimiento: Vehículo muy cuidado y mantenido al máximo, con revisiones de mantenimiento pasadas anualmente. ITV válida hasta septiembre de 2025. Batería start/stop de gama alta sustituida en enero de 2025. Polea del cigüeñal cambiada en enero de 2025 (por kilometraje). 🔒 Estado: Arañazo en la parte frontal izquierda. Siempre guardado en parking comunitario. Siempre he cuidado este coche al máximo, pero necesito cambiarlo porque hemos ampliado la familia y nos hace falta un vehículo más grande.🚗✨",
             "combustible": "Diésel",
@@ -471,61 +460,6 @@
             "año": "2012",
             "kilómetros": "268100 km",
             "precio": 7000.0
-        },
-        {
-            "titulo": "BMW Serie 1 2012",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2012-1077955791",
-            "descripcion": "Coche con el pack m, todo el mantenimiento al día, tiene el mismo motor que el 2.0, va muy bien, lo vendo por cambio a coche familiar",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "115 cv",
-            "año": "2012",
-            "kilómetros": "201000 km",
-            "precio": 6999.0
-        },
-        {
-            "titulo": "BMW Serie 1 2012",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2012-1088173813",
-            "descripcion": "",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "116 cv",
-            "año": "2012",
-            "kilómetros": "187211 km",
-            "precio": 5800.0
-        },
-        {
-            "titulo": "BMW Serie 1 2012",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2012-1092256504",
-            "descripcion": "BMW serie 1 116D 2.0 con paquete M-Sport. Tiene 236.000 km, el estado en el que se encuentra es con el motor averiado por rotura de cadena de distribución, es necesario cambiar el motor. Se vende para quien esté interesado en repararlo o para despiece. El resto del vehículo está en buenas condiciones, quitando el desgaste de los años que tiene. No ha dado ningún problema en estos años, todas las revisiones pasadas en taller oficial BMW.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "116 cv",
-            "año": "2012",
-            "kilómetros": "236000 km",
-            "precio": 2000.0
-        },
-        {
-            "titulo": "BMW Serie 1 2012",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2012-1086160678",
-            "descripcion": "Solo para piezas,el coche no se vende entero.",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "116 cv",
-            "año": "2012",
-            "kilómetros": "130000 km",
-            "precio": 1000.0
-        },
-        {
-            "titulo": "BMW Serie 1 2012",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2012-1063411071",
-            "descripcion": "Pomo y funda palanca de cambio",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "115 cv",
-            "año": "2012",
-            "kilómetros": "40006 km",
-            "precio": 15.0
         }
     ]
 }

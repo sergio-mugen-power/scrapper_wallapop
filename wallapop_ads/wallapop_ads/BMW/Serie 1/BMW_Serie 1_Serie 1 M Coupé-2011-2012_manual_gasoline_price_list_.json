@@ -3,8 +3,8 @@
         "marca": "BMW",
         "modelo": "Serie 1",
         "version": "Serie 1 M Coupé",
-        "año mínimo": 2011,
-        "año máximo": 2012,
+        "año mínimo": "2011",
+        "año máximo": "2012",
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
@@ -15,7 +15,7 @@
         },
         "tipos de cambio": "manual",
         "tipos de motor": "gasoline",
-        "potencia máxima": 340,
+        "potencia máxima": "340",
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
         "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=340&min_year=2011&max_year=2012&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=BMW&model=Serie 1&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
@@ -101,7 +101,7 @@
         {
             "titulo": "BMW Serie 1 2012",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1-2012-1089978949",
-            "descripcion": "",
+            "descripcion": "* BMW 118I SPORT 170 CV * Financiacion cuota 195€ al mes ( Vehiculo con una larga lista de extras ) consulten sin compromiso. · Consúltenos por las diferentes ofertas y fórmulas de financiación a su medida. · Atención al cliente multilingüe. ENGLISH, FRENCH & GERMAN speaking. · Reserva ONLINE del vehículo disponible. · Valoración de su vehículo como parte de pago. · Servicio de recogida premium en aeropuerto/estación en caso de desplazarse. · Venta y entrega de su vehículo en todo el territorio nacional y europeo. · Vehículos totalmente revisados y garantizados. · Disponemos de ofertas muy competitivas de seguros -Cambio de nombre incluido. -1 año de garantia incluido. -Revision completa al dia de la entrega. -ITV pasada dia entrega. - Disponemos de dos concesionarios, Europolis ( las rozas ) y Alcorcon ( poligono urtinsa ). - Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "143 cv",
@@ -112,7 +112,7 @@
         {
             "titulo": "BMW 120 SPORT 170 CV TECHO 69900 KMS ",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1-2012-1068316747",
-            "descripcion": "",
+            "descripcion": "VEHICULO EN MUY BUEN ESTADO , KILOMETRAJE 100% VERIFICADO , SE ENTREGA REVISADO Y CON 12 MESES DE GARANTIA 06/2012 69.9000KM 170 CV CAMBIO MANUAL 6V EQUIPAMIENTO BLANCO METALIZADO ABS ESP LLANTAS 17 “ SUSPENSION DEPORTIVA ORDENADOR DE ABORDO ESPEJOS ELECTRICOS TERMICOS 6 AIRBAGS ASIENTOS DEPORTIVOS CALEFACTABLES SISTEMA DE NAVEGACION BUSSINES START STOP FAROS ANTINIEBLA REPOSABRAZOS TECHO ELECTRICO ELEVALUNAS ELECTRICOS DIRECCION ASISTIDA CLIMA BIZONA CIERRE CENTRALIZADO VOLANTE MULTIFUNCION CONTROL DE VELOCIDAD ACABADO EN ALUMINO BOLA DE REMOLQUE DESMONTABLE BOLA DE REMOQLUE DESMONTABLE FINANCIACION A MEDIDA HASTA 8 AÑOS ATENDEMOS CON CITA PREVIA Y ENVIAMOS MAS FOTOS POR WASH APP PARA MAS INFORMACION PONGASE EN CONTACTO CON NOSOTROS",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "170 cv",
@@ -232,7 +232,7 @@
         },
         {
             "titulo": "BMW Serie 1 116i",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-116i-1086268680",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-1-116i-1086268647",
             "descripcion": "",
             "combustible": "Gasolina",
             "cambio": "Manual",
@@ -243,7 +243,7 @@
         },
         {
             "titulo": "BMW Serie 1 116i",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-116i-1086268647",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-1-116i-1086268680",
             "descripcion": "",
             "combustible": "Gasolina",
             "cambio": "Manual",
@@ -319,17 +319,6 @@
             "precio": 10800.0
         },
         {
-            "titulo": "BMW Serie 1 2011",
-            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2011-1072699753",
-            "descripcion": "Precioso Bmw 116 i, con 152402Kms, listo para disfrutarlo. Se entrega con garantia de 1 Año y mantenimiento hecho.Muy equipado: Faros Xenon, Climatizador bizona, asientos calefactables de tela cuero, 3 modos conducción, etc. 10.590€Iva Incluido.Consulta sin compromiso!",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "136 cv",
-            "año": "2011",
-            "kilómetros": "152402 km",
-            "precio": 10590.0
-        },
-        {
             "titulo": "BMW Serie 1 2012",
             "enlace": "https://es.wallapop.com/item/bmw-serie-1-2012-1083621474",
             "descripcion": "Vendo BMW Series 1 año 2012 En perfecto estado y perfecto funcionamento! Siempre bien cuidada y manutenciones en dia ! el mas completo del modelo !! con Extras -Panel digital -volante multifunciones -Multimedia grande tambien tengo todas piezas originales guardadas que seran entregues juntos ao comprador del coche! puedo enviar mas fotos y videos del coche , los paso por wpp ! la vendo pues compraré un coche nuevo!",
@@ -339,6 +328,17 @@
             "año": "2012",
             "kilómetros": "185000 km",
             "precio": 10499.0
+        },
+        {
+            "titulo": "BMW Serie 1 2011",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2011-1072699753",
+            "descripcion": "Precioso Bmw 116 i, con 152402Kms, listo para disfrutarlo. Se entrega con garantia de 1 Año y mantenimiento hecho.Muy equipado: Faros Xenon, Climatizador bizona, asientos calefactables de tela cuero, 3 modos conducción, etc. 10.490€Iva Incluido.Consulta sin compromiso!",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "136 cv",
+            "año": "2011",
+            "kilómetros": "152402 km",
+            "precio": 10490.0
         },
         {
             "titulo": "BMW Serie 1 2012",
