@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A8",
+        "version": "A8 L 3.2 FSI multitronic 7 vel.",
+        "año mínimo": 2005,
+        "año máximo": 2007,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 900000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 260,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=260&min_year=2005&max_year=2007&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=900000&gearbox=automatic&brand=Audi&model=A8&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A8 2007",
+            "enlace": "https://es.wallapop.com/item/audi-a8-2007-1082350654",
+            "descripcion": "SE VENDE IMPRESIONANTE AUDI A8 3.2 FSi 260 triptonic de noviembre del 2007 con tan sólo 119.000 km reales y totalmente demostrados. Aparte del cambio automático (triptonic ) tiene levas en el volante que permiten también cambiar de marcha según como el conductor quiera. Tiene : - Suspensión neumática,tracción a las 4 ruedas (quattro). - Faros de xenón - Pantalla multimedia original de Audi A8 que incluye navegador GPS,radio,CD así como ajustes del vehículo, como ajustar la suspensión neumática del coche. - Maletero con cierre automático - 2 mandos originales y una llave de emergencia. - 4 ruedas nuevas MICHELIN , con llantas originales de Audi 19 (255 / 40z). - Pantalla CORVY con mando a distancia donde se puede ver contenido multimedia como películas por USB. - Iluminación interior con led blanco y azul. El coche está impecable, no hay nada que hacer, pasa las ITV como favorable. Es un coche que si lo ves en persona te lo quedas, porque está totalmente nuevo. Acepto cualquier tipo de prueba. 13500 negociables.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "260 cv",
+            "año": "2007",
+            "kilómetros": "119000 km",
+            "precio": 13500.0
+        },
+        {
+            "titulo": "Audi A8 2006",
+            "enlace": "https://es.wallapop.com/item/audi-a8-2006-1089439298",
+            "descripcion": "perfectas condiciones , muy cuidado duerme en garaje , pastillas cambiadas , aceite y la bateria recien cambiada tambien . interior y exterior perfecto",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "260 cv",
+            "año": "2006",
+            "kilómetros": "170000 km",
+            "precio": 8500.0
+        },
+        {
+            "titulo": "Audi A8 2006",
+            "enlace": "https://es.wallapop.com/item/audi-a8-2006-1008866348",
+            "descripcion": "Se vende en perfecto estado con todo en regla",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "260 cv",
+            "año": "2006",
+            "kilómetros": "230000 km",
+            "precio": 8500.0
+        }
+    ]
+}

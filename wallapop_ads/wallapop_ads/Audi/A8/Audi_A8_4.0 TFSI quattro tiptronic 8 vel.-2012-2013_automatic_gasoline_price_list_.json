@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A8",
+        "version": "4.0 TFSI quattro tiptronic 8 vel.",
+        "año mínimo": 2012,
+        "año máximo": 2013,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 900000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 420,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=420&min_year=2012&max_year=2013&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=900000&gearbox=automatic&brand=Audi&model=A8&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A8 2013",
+            "enlace": "https://es.wallapop.com/item/audi-a8-2013-1069632686",
+            "descripcion": "Espectacular AUDI A8, del año 2013 en un estado muy óptimo tanto del interior como del exterior. Marca: AUDI Modelo: A8 Motor: GASOLINA CVs: 420 Kilometraje: 70170 Extras destacados: ALERTA CAMBIO CARRIL, ANDROID AUTO, ASIENTOS MIXTOS, ASISTENTE POR VOZ, AYUDA ARRANQUE EN PENDIENTE, CLIMATIZADOR BI-ZONA, CONEXIÓN A INTERNET, CONTROL CRUCERO, CONTROL CRUCERO ADAPTATIVO, DETECTOR FATIGA, FAROS LED, FRENADA DE EMERGENCIA, FULL LINK, KEYLESS, NACIONAL, NAVEGADOR GPS, PAQUETE ESTÉTICO EXTERIOR, PAQUETE ESTÉTICO INTERIOR, RECONOCIMIENTO DE SEÑALES, SENSOR DE LLUVIA, SENSOR LUCES, SENSORES DELANTEROS, SENSORES TRASEROS, SISTEMA DE SONIDO, START/STOP Y MUCHOS MÁS... Posibilidad de financiación a medida y garantía de hasta 24 meses. Pide cita y ven a verlo!! AUDI A8 en Madrid CALLE ANTONIO MORENO Nº4 28025",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "420 cv",
+            "año": "2013",
+            "kilómetros": "70170 km",
+            "precio": 30990.0
+        }
+    ]
+}

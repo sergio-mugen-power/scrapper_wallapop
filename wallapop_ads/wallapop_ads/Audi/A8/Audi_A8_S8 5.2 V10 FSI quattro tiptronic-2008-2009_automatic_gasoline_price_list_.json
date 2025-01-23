@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A8",
+        "version": "S8 5.2 V10 FSI quattro tiptronic",
+        "año mínimo": 2008,
+        "año máximo": 2009,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 900000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 450,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=450&min_year=2008&max_year=2009&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=900000&gearbox=automatic&brand=Audi&model=A8&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A8 2009",
+            "enlace": "https://es.wallapop.com/item/audi-a8-2009-1072198506",
+            "descripcion": "En precio de venta están incluidos 12 meses de garantía. Gastos de transferencia y gestor +250€ Aceptamos vehículo como parte de pago. Entrega en toda España, consulte condiciones. Posibilidad de financiación, consulte condiciones. Precio NO sujeto. Datos del vehículo: Matriculado el 02/2009 Historial de revisiones completo Equipamiento: Techo electrico con placa solar Sensores con camara de aparcamiento Suspension neumatica regulable Control de velocidad activo Llantas 19\" Frenos ceramicos Acceso confort y arranque sin llave Asistente cambio de carril Cortinas traseras Audi exclusive Tapiceria bicolor Cuero ampliado Asientos electricos con memoria Sonido Bang & Olufsen Navegador Clima 4 zonas ...",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "450 cv",
+            "año": "2009",
+            "kilómetros": "118438 km",
+            "precio": 23990.0
+        },
+        {
+            "titulo": "Audi A8 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a8-2008-1068326416",
+            "descripcion": "NO CAMBIOS. Venta por poco uso de este espectacular audi a8 nacional con motor 4.2 FSI 350CV. Motor reconstruido en audi con piezas originales a los 208.000 km con factura de 7400€. Revisiones al día. Itv hasta octubre de 2025. Funcionando absolutamente todo y sin fallos. Ruedas delanteras nuevas y traseras a medio uso. Extras en la última imagen.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "350 cv",
+            "año": "2008",
+            "kilómetros": "238000 km",
+            "precio": 9000.0
+        }
+    ]
+}

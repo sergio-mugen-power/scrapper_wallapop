@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A8",
+        "version": "2.8 quattro tiptronic 5 vel.",
+        "año mínimo": 2000,
+        "año máximo": 2002,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 900000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 193,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=193&min_year=2000&max_year=2002&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=900000&gearbox=automatic&brand=Audi&model=A8&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A8 2001",
+            "enlace": "https://es.wallapop.com/item/audi-a8-2001-879598830",
+            "descripcion": "se vende o se cambia por vehículo pequeño.el coche tiene un pequeño golpe en paragolpes delantero y faro rajado.prwcio a convenir",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "193 cv",
+            "año": "2001",
+            "kilómetros": "200000 km",
+            "precio": 3500.0
+        }
+    ]
+}

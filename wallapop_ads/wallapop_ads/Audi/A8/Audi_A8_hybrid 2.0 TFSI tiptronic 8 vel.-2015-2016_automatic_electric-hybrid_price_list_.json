@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A8",
+        "version": "hybrid 2.0 TFSI tiptronic 8 vel.",
+        "año mínimo": 2015,
+        "año máximo": 2016,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 900000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "electric-hybrid",
+        "potencia máxima": 245,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=electric-hybrid&min_horse_power=1&max_horse_power=245&min_year=2015&max_year=2016&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=900000&gearbox=automatic&brand=Audi&model=A8&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "AUDI A8 Hybrid 2.0 TFSI Tiptronic 245CV HEV",
+            "enlace": "https://es.wallapop.com/item/audi-a8-hybrid-2-0-tfsi-tiptronic-245cv-hev-1079786914",
+            "descripcion": "AUDI A8 Hybrid 2.0 TFSI Tiptronic 245CV HEV !!! NACIONAL. ETIQUETA ECO. En perfecto estado tanto interior como exterior, revisado, navegador, faros Matrix Led, llantas 19\", asientos confort con función memoria, asientos delanteros y traseros calefactados, portón eléctrico, Audi parking system delantero y trasero, Audi side assist, sistema de sonido BOSE Surround, control de crucero adaptativo y muchos más. Precio al contado: 29.900€. Precio financiado: 28.900€. (Financiando al menos 25.000) Todos nuestros vehículos se entregan transferidos. Este vehículo tiene un año de garantía. Se preparan todos los documentos necesarios para exportación. Pregúntanos por la financiación a tu medida y paga cómodamente. Para recibir una atención adecuada y evitar esperas, llámanos y concreta tu cita. Posibilidad de entrega cualquier punto de España. Los datos del anuncio podrían contener algún error y por tanto no tienen carácter vinculante. Bitcoin accepted @AUTO.GALLERY #PB CAP #GU PIC #FU #AN #JFR #SED #N038066",
+            "combustible": "Eléctrico",
+            "cambio": "Automático",
+            "potencia": "245 cv",
+            "año": "2015",
+            "kilómetros": "86997 km",
+            "precio": 29900.0
+        },
+        {
+            "titulo": "Audi A8 Hybrid Quattro ",
+            "enlace": "https://es.wallapop.com/item/audi-a8-hybrid-quattro-1087743791",
+            "descripcion": "",
+            "combustible": "Eléctrico",
+            "cambio": "Automático",
+            "potencia": "245 cv",
+            "año": "2015",
+            "kilómetros": "149999 km",
+            "precio": 22990.0
+        }
+    ]
+}

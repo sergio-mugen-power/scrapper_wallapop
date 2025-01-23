@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A8",
+        "version": "60 TFSIe quattro tiptronic 330 kW (449 CV)",
+        "año mínimo": 2019,
+        "año máximo": 2021,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 900000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "electric-hybrid",
+        "potencia máxima": 449,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=electric-hybrid&min_horse_power=1&max_horse_power=449&min_year=2019&max_year=2021&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=900000&gearbox=automatic&brand=Audi&model=A8&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A8 50 TDI 210kW (286CV) quattro tiptronic",
+            "enlace": "https://es.wallapop.com/item/audi-a8-50-tdi-210kw-286cv-quattro-tiptronic-1091809304",
+            "descripcion": "",
+            "combustible": "Eléctrico",
+            "cambio": "Automático",
+            "potencia": "285 cv",
+            "año": "2019",
+            "kilómetros": "34150 km",
+            "precio": 58900.0
+        },
+        {
+            "titulo": "Audi A8 L 50 TDI 210kW (286CV) quattro tiptronic",
+            "enlace": "https://es.wallapop.com/item/audi-a8-l-50-tdi-210kw-286cv-quattro-tiptronic-1082554288",
+            "descripcion": "",
+            "combustible": "Eléctrico",
+            "cambio": "Automático",
+            "potencia": "285 cv",
+            "año": "2019",
+            "kilómetros": "159000 km",
+            "precio": 49990.0
+        }
+    ]
+}

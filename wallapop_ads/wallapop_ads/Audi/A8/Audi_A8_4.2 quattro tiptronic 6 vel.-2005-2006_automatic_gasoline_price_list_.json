@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A8",
+        "version": "4.2 quattro tiptronic 6 vel.",
+        "año mínimo": 2005,
+        "año máximo": 2006,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 900000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 334,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=334&min_year=2005&max_year=2006&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=900000&gearbox=automatic&brand=Audi&model=A8&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A8 2006",
+            "enlace": "https://es.wallapop.com/item/audi-a8-2006-1089439298",
+            "descripcion": "perfectas condiciones , muy cuidado duerme en garaje , pastillas cambiadas , aceite y la bateria recien cambiada tambien . interior y exterior perfecto",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "260 cv",
+            "año": "2006",
+            "kilómetros": "170000 km",
+            "precio": 8500.0
+        },
+        {
+            "titulo": "Audi A8 2006",
+            "enlace": "https://es.wallapop.com/item/audi-a8-2006-1008866348",
+            "descripcion": "Se vende en perfecto estado con todo en regla",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "260 cv",
+            "año": "2006",
+            "kilómetros": "230000 km",
+            "precio": 8500.0
+        },
+        {
+            "titulo": "Audi A8 2005",
+            "enlace": "https://es.wallapop.com/item/audi-a8-2005-1016426149",
+            "descripcion": "Vendo precioso Audi A8 3.7 automatico quattro, de 2005 con 295000 kms ,libro de revisiones,dos llaves ,múltiples exptras, techo retapizado, retrovisor Android, levas envolvente electrico, automatico, asientos de cuero eléctricos con calefacción y ventilación, camara, regulación en volante, clima perfecto, xenon, retrovisores plegables, motor hecho entero, cristales tintados, ruedas y frenos prefectos, para rodar kms , 6200 euros negociables,más información por privado.Valoraria cambio por bmw serie 7 e38 gasolina,lexus Ls o Honda legend 3.5 v6 o coche grande diésel tipo volkswagen phaeton, volvo s80 etc",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "280 cv",
+            "año": "2005",
+            "kilómetros": "295000 km",
+            "precio": 6200.0
+        }
+    ]
+}

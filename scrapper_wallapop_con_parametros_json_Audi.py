@@ -251,7 +251,7 @@ def get_wallapop_car_data(driver,min_year, max_year, min_km, max_km, min_sale_pr
 min_km = 2007
 max_km = 300000
 min_sale_price = 1
-max_sale_price = 90000
+max_sale_price = 900000
 #keywords = ""  # Palabra clave externa
 #gearbox_types = ['automatic', 'manual']
 #engine_types = ['gasoline','gasoil','electric-hybrid','others']
