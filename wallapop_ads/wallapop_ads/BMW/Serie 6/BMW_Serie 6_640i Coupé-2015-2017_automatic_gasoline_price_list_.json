@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Serie 6",
+        "version": "640i Coupé",
+        "año mínimo": "2015",
+        "año máximo": "2017",
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": "320",
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=320&min_year=2015&max_year=2017&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 6&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW Serie 6 GRAN COUPE",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-6-gran-coupe-828462823",
+            "descripcion": "BMW 640I GRAN COUPE 3.0 320cv. - IVA DEDUCIBLE ( Para autónomos y empresas ) - UN SOLO PROPIETARIO - Vehículo con historial de mantenimientos - ENVIO A TODA ESPAÑA ( Consultar condiciones ) - 12 meses de garantía propia - Mismo precio al contado y financiado ( Si finalmente decides financiar te daremos el mejor tipo de interes del mercado ) - Aceptamos vehículos como parte de pago - Usted decide los plazos a pagar y cantidad a financiar - Equipamiento a destacar: - Navegador - Cámara Trasera - Asientos de piel - Asientos eléctricos con memoria - Head-up display - Paquete M interior y exterior - Asientos calefactados - Cristales tintados - Sensores de parking delanteros y traseros - ISOFIX Tambien podeis visitarnos en nuestra web: automovileslaestacion.com o llamarnos por telefono sin ningun tipo de compromiso.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "320 cv",
+            "año": "2017",
+            "kilómetros": "85000 km",
+            "precio": 38900.0
+        }
+    ]
+}
