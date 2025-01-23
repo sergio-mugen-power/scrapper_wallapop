@@ -5,7 +5,7 @@ import json
 directory = 'Transformed_data/Audi'
 
 # Define the words to be removed from the 'cleaned_name' field
-words_to_remove = ["3 puertas", "Sedan", "4 puertas","Sedán", "Berlina", "5 puertas","Sportback", "Cabrio", "Coupé", "Spyder", "Roadster", "GT", "Avant", "L"]
+words_to_remove = ["Largo","3 puertas", "Sedan", "4 puertas","Sedán", "Berlina", "5 puertas","Sportback", "Cabrio", "Coupé", "Spyder", "Roadster", "GT", "Avant", "L"]
 
 # Function to clean the 'cleaned_name' field
 def clean_name(name):
