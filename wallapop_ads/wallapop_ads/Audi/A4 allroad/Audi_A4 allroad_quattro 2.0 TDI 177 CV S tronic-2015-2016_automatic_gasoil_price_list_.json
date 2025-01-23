@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A4 allroad",
+        "version": "quattro 2.0 TDI 177 CV S tronic",
+        "año mínimo": 2015,
+        "año máximo": 2016,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 177,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=177&min_year=2015&max_year=2016&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A4 allroad&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A4 Allroad 2015",
+            "enlace": "https://es.wallapop.com/item/audi-a4-allroad-2015-1083744437",
+            "descripcion": "Audi A4 ALLROAD QUATTRO ADVANCED EDITION 2.0 177cv, en perfecto estado. ITV hasta octubre de 2025, Ruedas nuevas, todos los mantenimientos echos incluido el del cambio, interior s-line, volante chato, asientos calefactables, climatizador trizona, navegador, sistema MMI, disco duro interno, ranura para tarjeta SSD y SIM, bi-xenon, control de velocidad adaptativo, control de carril, techo panorámico, sensor de aparcamiento, cámara trasera, portón eléctrico, cambio automático de 7v, tracion quattro. Se acepta prueba mecánica y coche como parte del pago",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "177 cv",
+            "año": "2015",
+            "kilómetros": "260000 km",
+            "precio": 16000.0
+        }
+    ]
+}

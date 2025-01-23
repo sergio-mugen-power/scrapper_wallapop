@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A4",
+        "version": "1.8 TFSI 120 CV",
+        "año mínimo": 2012,
+        "año máximo": 2015,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 120,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=120&min_year=2012&max_year=2015&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A4&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A4 2013 (Pack Sline)",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2013-1060740272",
+            "descripcion": "Audi A4 1.8 TFSI en impecable estado tanto por dentro colo por fuera sin un solo rasguño. Full equipe, lleva pack Sline interior y exterior, interior completo en piel, techo solar panoramico, sensores ee aoarcamiento, navegador GPS de origen, star/stop, etc etc. ITV hasta finales de 2025, recien pasada sin defecto alguno. Motor de muy bajo consumo, manual de 6 velocidades. SE ACEPTA CAMBIO por vehiculo de mi interes aunque haya que ajustar diferencias de dinero. Audi, BMW, Mercedes, volkswagen, Seat;",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "120 cv",
+            "año": "2013",
+            "kilómetros": "236000 km",
+            "precio": 14900.0
+        },
+        {
+            "titulo": "AUDI A4 1.8 TFSI 120 CV",
+            "enlace": "https://es.wallapop.com/item/audi-a4-1-8-tfsi-120cv-1069615514",
+            "descripcion": "*Se atenderá con cita previa* AUTO EXCLUSIVE Nº1 EN RELACIÓN CALIDAD/PRECIO VEHÍCULO PROVENIENTE DE ÚNICO PROPIETARIO PARTICULAR, TODOS LOS MANTENIMIENTOS SELLADOS CON SUS FACTURAS, ETIQUETA MEDIOAMBIENTAL C, ORDENADOR DE A BORDO, CLIMATIZADOR, LLANTAS DE ALEACIÓN, VOLANTE MULTIFUNCIÓN, CONTROL DE CRUCERO, PANTALLA INTEGRADA, FIJACIÓN ISOFIX – +200 coches en stock permanente - Compra este vehículo por 227€/mes (Consulta condiciones) -Más fotos en autoexclusivecars.com -Kilómetros justificados por escrito. -Sin golpe estructural. -Talleres propios para reparaciones en garantía. -Recogemos su vehículo como parte de pago. -Disponemos de financiación. -Horario de L a V de 10:00 a 13:00 y de 15:30 a 19:30. Sábados 10:30 a 13:30. -20 años vendiendo y comprando vehículos en Bilbao. -Descripción orientativa y no vinculante.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "120 cv",
+            "año": "2012",
+            "kilómetros": "78080 km",
+            "precio": 13990.0
+        }
+    ]
+}

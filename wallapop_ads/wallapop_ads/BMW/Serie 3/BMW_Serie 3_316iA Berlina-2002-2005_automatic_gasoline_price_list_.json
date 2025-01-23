@@ -1,0 +1,80 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Serie 3",
+        "version": "316iA Berlina",
+        "año mínimo": 2002,
+        "año máximo": 2005,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 116,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=116&min_year=2002&max_year=2005&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW Serie 3 2003",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-3-2003-1069830632",
+            "descripcion": "ETIQUETA MEDIOAMBIENTAL DISTINTIVO “C” Contiene Pack M Asientos calefacatables Asientos electricos Bluetooth Interior de cuero Vidrios Tintados Muy Equipado para el Año del coche Cualquier duda no duden en escribir",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "115 cv",
+            "año": "2003",
+            "kilómetros": "230000 km",
+            "precio": 3500.0
+        },
+        {
+            "titulo": "BMW Serie 3 2002 compac automático",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-3-2002-981088024",
+            "descripcion": "BMW Serie 3 E46, automatico, ITV pasada este mes de febrero, batería,alternador ,inyectores y bomba de gasolina nuevos. Techo solar y sensores de aparcamiento. precio negociable",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "115 cv",
+            "año": "2002",
+            "kilómetros": "127000 km",
+            "precio": 3500.0
+        },
+        {
+            "titulo": "BMW Serie 3 316I",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-3-316i-1071466861",
+            "descripcion": "¡Bienvenido a la nueva forma de comprar y vender de forma transparente y segura entre particulares! En AutoSpecial creemos que una compra transparente y segura entre particulares es posible. Con nosotros, te olvidarás de sorpresas desagradables de última hora. El precio de todos los vehículos publicados incluye: - Comprobación mecánica antes de la compra, para que conozcas el estado real del vehículo antes de adquirirlo - Garantía mecánica de 1 año - Informe DGT - Cambio de nombre de forma telemática ante la DGT. No pierdas tiempo en ir a una gestoría - Redactamos el contrato de compraventa y facilitamos la firma de la documentación de forma digital - Proceso de pago seguro para vendedor y comprador Este vehículo se encuentra en Toledo, ¡si quieres te lo enviamos a domicilio a cualquier parte de la Península y Baleares! Financia tu nuevo coche desde sólo 25€ al mes. Envío a domicilio GRATIS al financiar. Consulta condiciones con el equipo de AutoSpecial.com Todos los vehículos anunciados son de propietarios particulares, pero son especiales, ya que no tienen sorpresas desagradables al comprarlo certificado y con garantía de 1 año. AutoSpecial realizará la descripción del anuncio de la mejor forma posible. No obstante, la información acerca del equipamiento y equipamiento extra están sujetos a posibles variaciones del fabricante según base de datos disponible. En caso de duda visite nuestros términos y condiciones generales del servicio en la web.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "116 cv",
+            "año": "2003",
+            "kilómetros": "258000 km",
+            "precio": 2990.0
+        },
+        {
+            "titulo": "BMW Serie 3 2004",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-3-2004-1021409160",
+            "descripcion": "motor reconstruido completo aros de cilindro juntas nuevas casquillos biela y bancada, retenes de válvulas nuevos, bomba de agua termostato y caja termostática nuevos, kit cadena distribución nuevo, trapecios delanteros silemblok brazos de dirección y bieletas nuevas, discos y pastillas con 20000km escasos nuevos, ruedas traseras con 1000km, lunas tintadas homologas, luces de led, pintura 1 año,pilotos tintados, todos los extras funciona todo abstenerse ofertas ridículas que ya cansan el coche no se va a regalar ok gracias",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "115 cv",
+            "año": "2004",
+            "kilómetros": "238000 km",
+            "precio": 2350.0
+        },
+        {
+            "titulo": "BMW Serie 3 2002",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-3-2002-999074694",
+            "descripcion": "Bmw compact, acabo interior M,tal y como se ve, perfecto de interior. Habría que cambiar los riñones que valen 25€,tambien hay que cambiar pastillas y discos delanteros. 2 juegos de llaves e ITV hasta octubre. Es etiqueta B. Lleva lantas de 17, se dan tambien otro juego de llantas M de 16, las lriginales del coche. NO MAREANTES, NO CAMBIOS. Ofertas serias por favor El coche se usaba a diario, solo se vende porque he comprado coche nuevo. WHATSAPP 673318631",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "115 cv",
+            "año": "2002",
+            "kilómetros": "280000 km",
+            "precio": 1500.0
+        }
+    ]
+}

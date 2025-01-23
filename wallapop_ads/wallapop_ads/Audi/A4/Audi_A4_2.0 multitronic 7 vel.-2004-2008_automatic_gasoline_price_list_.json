@@ -1,0 +1,69 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A4",
+        "version": "2.0 multitronic 7 vel.",
+        "año mínimo": 2004,
+        "año máximo": 2008,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 131,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=131&min_year=2004&max_year=2008&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A4&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A4 2006",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2006-1050370420",
+            "descripcion": "Audi a4 b7 caja automatica gasolina 2.0 131cv de 2006 motor impecable , coche revisado con 210mil kilometrajes, sensor de lluvia ( mejor ver el coche ) vendo por tener otro coche. Acepto toda prueba y precio con transferencia incluida. Gente seria y interesada, algo negociable",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "130 cv",
+            "año": "2006",
+            "kilómetros": "212000 km",
+            "precio": 6899.0
+        },
+        {
+            "titulo": "Audi A4 2008",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2008-1079018010",
+            "descripcion": "interior y exterior s-line. itv al dia, se entrega con mantenimientos hechos, kit de distribucion y bomba de agua.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "130 cv",
+            "año": "2008",
+            "kilómetros": "148000 km",
+            "precio": 6200.0
+        },
+        {
+            "titulo": "Audi A4 2004",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2004-1035777911",
+            "descripcion": "Vehiculo en muy buen estado general, pequeños desperfectos de pintura e interior en muy buen estado. Mecanica impecable, revision hecha hace pocos km. Si quieres meterlo antes en el mecanico antes de comprarlo, no hay problema. Transferencia incluida en el precio.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "130 cv",
+            "año": "2004",
+            "kilómetros": "144000 km",
+            "precio": 3200.0
+        },
+        {
+            "titulo": "Audi A4 2004",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2004-1088260329",
+            "descripcion": "urge vendo audi a 4 es muy bien de todo limpio solo tene fallo en la range se tarda de subir el gasoy no se lo que es",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "130 cv",
+            "año": "2004",
+            "kilómetros": "231808 km",
+            "precio": 1800.0
+        }
+    ]
+}

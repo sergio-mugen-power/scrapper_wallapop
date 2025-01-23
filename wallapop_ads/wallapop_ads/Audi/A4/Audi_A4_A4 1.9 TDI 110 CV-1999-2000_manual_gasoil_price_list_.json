@@ -1,0 +1,91 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A4",
+        "version": "A4 1.9 TDI 110 CV",
+        "año mínimo": 1999,
+        "año máximo": 2000,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 110,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=110&min_year=1999&max_year=2000&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A4&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A4 2000",
+            "enlace": "https://es.wallapop.com/item/audi-a4-1-9-tdi-110-cv-ano-2000-1071595098",
+            "descripcion": "Audi A4 1.9 TDI de 110 cv, nacional, matriculado 01/2000, último restyling de la carroceria B5, único propietario y en estado de colección con solo 153000 kmts, beige metalizado, climatizador, 4 airbags, llantas de aleación con 4 neumáticos nuevos, antinieblas, volante y pomo en piel, c.c,d.a,e.e, retrovisores eléctricos, tercera luz de freno, distribución y bomba de agua hechas, revisión reciente, ITV hasta 04/2025 (sin defectos),historial completo de revisiones y mantenimientos ,libro, manuales de usuario, tapicería, plancha y pintura en perfecto estado de conservación, pintura de origen, sin óxidos, ralladas ni golpes, placas de matrículas acrílicas, 2 juegos de llaves, se conserva hasta la factura de compra, vehículo de no fumador, solo interesados .",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "110 cv",
+            "año": "2000",
+            "kilómetros": "153000 km",
+            "precio": 5700.0
+        },
+        {
+            "titulo": "Audi A4 2000",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2000-910929853",
+            "descripcion": "FUNCIONA PERFECTAMENTE ITV recien pasada Se ha cuidado mucho y nunca a fallado Se aceptan todo tipo de pruebas Esta conpletamente de origen Consume menos que un mechero Tiene algunas rascadas tontas del dia a dia y sin ningún golpe Se aceptan cambios por otro coche Precio algo negociable Cualquier duda no duden en preguntar",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "110 cv",
+            "año": "2000",
+            "kilómetros": "240000 km",
+            "precio": 4000.0
+        },
+        {
+            "titulo": "Audi A4 2000",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2000-1008505219",
+            "descripcion": "-Audi A4 en condiciones excelentes -Motor TDI 1.9 110cv diesel indestructible -194.000km -Único propietario -Siempre en garage -Itv del 07/05/2024 todo ok -Filtros aceite y todo mantenimiento hecho en mayo 2024 -Amortiguadores traseros nuevos julio 2024",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "110 cv",
+            "año": "2000",
+            "kilómetros": "194000 km",
+            "precio": 3200.0
+        },
+        {
+            "titulo": "Audi A4 1999",
+            "enlace": "https://es.wallapop.com/item/audi-a4-1999-1074077745",
+            "descripcion": "Es un 1.9 TDI 90 CV ITV 03/12/2025 Vehículo año 1996",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "90 cv",
+            "año": "1999",
+            "kilómetros": "252000 km",
+            "precio": 2950.0
+        },
+        {
+            "titulo": "Audi A4 19 TDIquatro. 110 CV. Año 2000 243.000 Km.",
+            "enlace": "https://es.wallapop.com/item/audi-a4-19-tdiquatro-110-cv-ano-2000-243-000-km-1091506032",
+            "descripcion": "Audi A4 1.9 TDI 110 CV - Año 2000. Kilometraje: 243.000 km. ITV válida hasta marzo de 2025. Coche en muy buen estado, tanto de mecánica como de exterior e interior. Siempre mantenido con revisiones al día, duerme en garaje privado y nunca ha dado problemas en la ITV. Detalles: Motor 1.9 TDI 110 CV. Extras: Neumáticos cambiados hace 2 años y en perfecto estado. ¡No dudes en preguntar o concertar una cita para verlo! Audi A4 en Barcelona.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "110 cv",
+            "año": "2000",
+            "kilómetros": "243000 km",
+            "precio": 2500.0
+        },
+        {
+            "titulo": "Audi A4 2000",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2000-1073761480",
+            "descripcion": "funcionaba perfecto.par piezas o reparar tiene desmontado amortiguado y trapecio lado conductor luna y ventanillas rotas interior mal",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "110 cv",
+            "año": "2000",
+            "kilómetros": "280000 km",
+            "precio": 400.0
+        }
+    ]
+}

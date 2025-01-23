@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A4 allroad",
+        "version": "quattro 2.0 TFSI 252 CV S tronic 7 vel.",
+        "año mínimo": 2016,
+        "año máximo": 2017,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 252,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=252&min_year=2016&max_year=2017&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A4 allroad&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A4 Allroad 2017",
+            "enlace": "https://es.wallapop.com/item/audi-a4-allroad-2017-1052903222",
+            "descripcion": "Audi A4 Quattro allroad El coche está equipado con la famosa transmisión Quattro que te dará confianza en cualquier tipo de superficie, y el mejor sistema acústico Bang and Olufsen deleitará tus oídos mientras viajas. El coche de clase familiar con un maletero grande. El mantenimiento del vehículo siempre se realizó a tiempo y en los mejores talleres mecánicos. Equipamiento: Sistema de sonido Bang and Olufsen - Climatizador automático digital de 3 zonas - Navegador GPS - Asientos delanteros calefactados - Cámara trasetra y sensores de aparcamiento - Asientos eléctricos de cuero - Volante multifuncional - Apertura y cierre sin llave - Portón trasero electrico - Traccion 4 ruedas - Start stop Audi, Audi A4, Audi allroad",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "252 cv",
+            "año": "2017",
+            "kilómetros": "144000 km",
+            "precio": 27500.0
+        },
+        {
+            "titulo": "Audi A4 Allroad 2.0 TFSI Quattro 252cv Auto 5P S/S",
+            "enlace": "https://es.wallapop.com/item/audi-a4-allroad-2-0-tfsi-quattro-252cv-auto-5p-s-s-1032008029",
+            "descripcion": "¡Hola!, ¿Te gusta este AUDI? Tenemos buenas noticias para ti, hoy puede ser tuyo, y con todas las garantías que ofrece una empresa que lleva más de 50 años vendiendo coches. ¡Por algo será!. No te preocupes por la distancia, te llevamos tu coche a la puerta de tu casa por tan solo 250€. Puedes ver las opiniones de Autofesa en Google 4,1 sobre 5. Si tienes algún problema, podrás cambiarlo dentro de los 15 primeros días o 500Km, consulta las condiciones con tu comercial. Coches certificados de estructura y kilometraje real. Con garantía de 1 año ampliable a 2 con RACE. Y Recuerda, puedes dejar tu coche a cambio, tásalo ahora en autofesa.com. ¡No te lo pierdas!, llámanos y prereserva tu AUDI con PAYPAL para que nadie te lo quite. Extras: - - GPS - Tapicería de cuero-alcántara - Llantas de 18 - Parktronic - Control de velocidad - 4x4 - Sensor de luces - Retrovisores calefactados - 6 airbags - ABS - ESP - Faros antiniebla - EE - CC - DA . Precio sujeto a financiación mínima de 15000€. Precio sin financiación = 26500€. Ref: 39893.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "252 cv",
+            "año": "2016",
+            "kilómetros": "83600 km",
+            "precio": 25750.0
+        }
+    ]
+}

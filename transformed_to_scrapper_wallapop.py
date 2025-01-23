@@ -69,8 +69,8 @@ def transformar_caja_de_cambios(version):
             version["Caja de cambios"] = "automatic"
     else:
         print(f"Claves disponibles en el JSON: {list(version.keys())}")  # Muestra todas las claves
-        version["Caja de cambios"] = "unknown"
-    return version.get("Caja de cambios", "unknown")
+        version["Caja de cambios"] = ""
+    return version.get("Caja de cambios", "")
 def process_version(version, brand, model, output_path):
     """
     Procesa una versión individual y guarda un archivo JSON con sus datos.
@@ -85,7 +85,8 @@ def process_version(version, brand, model, output_path):
         file_path = os.path.join(output_path, file_name)
         # Crear datos para la versión
         current_year = datetime.now().year
-        end_year = version.get("end_year", 0)
+        start_year = version.get("start_year", 1940)
+        end_year = version.get("end_year", 2025)
         if end_year == "":
             end_year = current_year
         print(f"El año final es: {end_year}")

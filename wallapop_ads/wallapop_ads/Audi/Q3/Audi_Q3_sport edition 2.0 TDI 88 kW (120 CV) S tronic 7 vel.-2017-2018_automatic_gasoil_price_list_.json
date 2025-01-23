@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "Q3",
+        "version": "sport edition 2.0 TDI 88 kW (120 CV) S tronic 7 vel.",
+        "año mínimo": 2017,
+        "año máximo": 2018,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 120,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=120&min_year=2017&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=Q3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi Q3 2017",
+            "enlace": "https://es.wallapop.com/item/audi-q3-2017-892133059",
+            "descripcion": "Se vende Audi Q3 Black line edition con caja de cambios S tronic (automático). Edición especial color azul metalizado único de Audi, defensas y llamtas pintadas en negro piano. Asientos de cuero tratados con productos especiales para ello. Vehículo nacional con revisiones pasadas en la casa oficial Audi. Recién hecho el cambio de valvulina de la caja de cambios, aceite motor y filtros. ITV con validez hasta el 2025. Vehiculo nacional con revisiones pasadas en la casa oficial. Para cualquier información no dudéis en consultarme. Abstenerse curiosos. Se valoran cambios por coches deportivos (estilo Focus ST). Último precio y última semana, si no le vendo esta semana, me quedo el coche (14/01/2025).",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "120 cv",
+            "año": "2017",
+            "kilómetros": "88000 km",
+            "precio": 24500.0
+        },
+        {
+            "titulo": "Audi Q3 2017",
+            "enlace": "https://es.wallapop.com/item/audi-q3-2017-1082808515",
+            "descripcion": "AUDI Q3 2.0 TDI / EXCLUSIVO / S-LINE / S-TRONIC / 7-G / PANORAMA / AHK. MODELO ESPECIAL,INTERIOR TOTALMENTE EN CUERO GRIS CLARO.NO EXISTE ACTUALMENTE EN EL MERCADO NINGUN COCHE CON TALES CARACTERISTICAS Y EN TAN PERFECTAS CONDICIONES . INMEJORABLE ESTADO.EXTREMADAMENTE CUIDADO . SIEMPRE EN GARAJE . ITV RECIEN PASADO .HAY LIBRO DE MANTENIMIENTO . INTERESADOS LLAMAR AL TEL.: 657-867-189-VASYL.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "120 cv",
+            "año": "2017",
+            "kilómetros": "115000 km",
+            "precio": 19990.0
+        }
+    ]
+}

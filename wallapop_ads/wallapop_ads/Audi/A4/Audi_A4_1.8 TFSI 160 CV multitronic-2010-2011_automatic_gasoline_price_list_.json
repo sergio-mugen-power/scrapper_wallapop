@@ -1,0 +1,80 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A4",
+        "version": "1.8 TFSI 160 CV multitronic",
+        "año mínimo": 2010,
+        "año máximo": 2011,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 160,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=160&min_year=2010&max_year=2011&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A4&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A4 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2010-441551573",
+            "descripcion": "Impoluto Audi A4 1.8 Tfsi Multitronic 160 Cv: Paquete Sline Interior-Exterior Llantas 19\" originales S5 2019 4 Neumáticos Continental Nuevos Navegador/Techo solar Levas en el volante Asientos Sline Mixtos Mantenimiento Multitronic recién hecho Revisiones al día Itv hasta 05/2024 Bixenon Luces automaticas Camara trasera parking original audi Sensores parking delanteros y traseros Siempre durmiendo en garaje Estado impoluto Se acepta cualquier prueba mecánica Suspensión S-line (-30mm) Aviso ángulo muerto Sensor lluvia automática",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "160 cv",
+            "año": "2010",
+            "kilómetros": "170000 km",
+            "precio": 13600.0
+        },
+        {
+            "titulo": "Audi A4 2010 1.8T 160CV",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2010-1-8t-160cv-1091933577",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "160 cv",
+            "año": "2010",
+            "kilómetros": "110000 km",
+            "precio": 13000.0
+        },
+        {
+            "titulo": "Audi A4 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2010-1082707078",
+            "descripcion": "Audi a4 nacional, practicamente nuevo, actualmente se usa a diario con un un consumo minimo, caja de cambios con 7 marchas, distribucion por cadena y motor muy fiable. En perfecto estado, interior y exterior impoluto, aun conserva los plasticos protectores ,muy cuidado. Climatizador, direccion asistida, radio cd mp3, faros bixenon con lavararos, velocidad control crucero, elevalunas en las 4 puertas, volante multifuncion, control de velocidad, llantas 18” audi S-line 2018 y mucho mas. Todo el mantenimiento al dia, aceite y todos los filtros recien cambiados, bateria nueva ;Mas info por privado. Completamente al dia , itv hasta 08/2025 etiqueta medioambiental C. Se entrega transferido y con 12 meses de garantia incluido en el precio. Se acepta coche o furgoneta como parte de pago.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "160 cv",
+            "año": "2010",
+            "kilómetros": "170000 km",
+            "precio": 11990.0
+        },
+        {
+            "titulo": "AUDI A4 1.8 TFSI multitronic",
+            "enlace": "https://es.wallapop.com/item/audi-a4-1-8-tfsi-multitronic-1087563460",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "160 cv",
+            "año": "2010",
+            "kilómetros": "157000 km",
+            "precio": 10900.0
+        },
+        {
+            "titulo": "Audi A4 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2010-989600668",
+            "descripcion": "Coche muy cuidado con equipo de música y pantalla car play valorada en 1600€ llantas 18",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "120 cv",
+            "año": "2010",
+            "kilómetros": "195000 km",
+            "precio": 9000.0
+        }
+    ]
+}
