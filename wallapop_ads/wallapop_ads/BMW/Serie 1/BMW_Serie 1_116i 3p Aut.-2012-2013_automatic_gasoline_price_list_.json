@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Serie 1",
+        "version": "116i 3p Aut.",
+        "año mínimo": 2012,
+        "año máximo": 2013,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 136,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=136&min_year=2012&max_year=2013&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 1&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW Serie 1 2012",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2012-1051539999",
+            "descripcion": "Garantia 12 meses, cambio de nombre y revision pre entrega mas lavado incluido, cambio de aceite y los filtros incluido. ITV en vigor . Mas info:Whatsap:672^526^790.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2012",
+            "kilómetros": "124000 km",
+            "precio": 14400.0
+        },
+        {
+            "titulo": "BMW 116 i AUTOMATICO URBAN. XENON CUERO LIBRO NAVI",
+            "enlace": "https://es.wallapop.com/item/bmw-116-i-automatico-urban-xenon-cuero-libro-navi-1090569776",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2012",
+            "kilómetros": "98600 km",
+            "precio": 11900.0
+        },
+        {
+            "titulo": "BMW Serie 1 2013",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-1-2013-1081789969",
+            "descripcion": "Se vende bmw 116i del año 2013 perfecto funcionamiento recién revisado cambios de aceite y filtros recién hechos,recién pintado ni un solo roce muy buen estado de interior se entrega con limpieza integral Ruedas 18\"con los neumáticos al 80 % Cambio automático de 8 velocidades, navegación,sensor de aparcamiento con cámara trasera....se entrega con garantía",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2013",
+            "kilómetros": "109000 km",
+            "precio": 10450.0
+        }
+    ]
+}

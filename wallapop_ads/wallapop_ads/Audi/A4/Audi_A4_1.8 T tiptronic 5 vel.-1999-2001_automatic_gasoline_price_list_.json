@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A4",
+        "version": "1.8 T tiptronic 5 vel.",
+        "año mínimo": 1999,
+        "año máximo": 2001,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 150,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=150&min_year=1999&max_year=2001&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A4&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A4 1999",
+            "enlace": "https://es.wallapop.com/item/audi-a4-1999-1085617219",
+            "descripcion": "Audi A4 B5 - se compro para proyecto, tiene al rededor de unos 2000 euros invertidos en modoficaciones, suspencion roscada, llantas 17’, Downpipe, Linea de escape recta, Reprogramacion: Pop and bangs, antilag y launch control, separadores de 2, Filtro de aire deportivo, escape HKS, interior como nuevo, aire acondicionado en perfecto estado, asientos y techo impolutos. con tan solo 130.000kms, por este precio es un regalo, aprovechar que no le bajo mas, SOLO INTERESADOS.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "1999",
+            "kilómetros": "130000 km",
+            "precio": 3500.0
+        },
+        {
+            "titulo": "Audi A4 2001",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2001-1031485530",
+            "descripcion": "LEER BIEN NO PREGUNTEIS QUE SI LE PASA ALGO tienes sus rocecillos como todos los coches y un bollito en la parte de atras por todo lo demas muy bien automatico de gasolina aire acondicionado muy bueno no tiene itv cambio por NMAX o por el estilo",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "135 cv",
+            "año": "2001",
+            "kilómetros": "212000 km",
+            "precio": 1200.0
+        }
+    ]
+}

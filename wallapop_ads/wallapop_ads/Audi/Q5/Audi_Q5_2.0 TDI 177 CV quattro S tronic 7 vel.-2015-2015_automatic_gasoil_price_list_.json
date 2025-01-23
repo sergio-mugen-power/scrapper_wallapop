@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "Q5",
+        "version": "2.0 TDI 177 CV quattro S tronic 7 vel.",
+        "año mínimo": 2015,
+        "año máximo": 2015,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 177,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=177&min_year=2015&max_year=2015&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=Q5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi Q5 2.0 TDI QUATTRO 177cv automático",
+            "enlace": "https://es.wallapop.com/item/audi-q5-2-0-tdi-quattro-177cv-automatico-1081144126",
+            "descripcion": "Audi q5 2.0 TDI Quattro, 177cv automático, nacional, muy muy cuidado, totalmente revisado y en perfecto estado. Ven a probarlo sin compromiso, estamos en el polígono fuente del jarro - c/ciudad de Llíria, 100, Paterna (Valencia). ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨ • Garantía de 12 meses incluida en el precio. • Certificado de Kilometraje y de vehículo sin golpes ni accidentes. • Aceptamos coche como parte de pago. • Revisamos hasta 120 puntos el estado mecánico y eléctrico de nuestros vehículos. • Garantizamos la CALIDAD de nuestros coches porque conocemos su procedencia. • Financiamos hasta el 100% sin necesidad de estar Fijo y con intereses muy bajos. El anuncio no es vinculante y podría contener errores.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "177 cv",
+            "año": "2015",
+            "kilómetros": "164000 km",
+            "precio": 20990.0
+        },
+        {
+            "titulo": "Audi Q5 2015",
+            "enlace": "https://es.wallapop.com/item/audi-q5-2015-1064343471",
+            "descripcion": "En buen estado con ITV hasta noviembre de 2025. Ruedas Michelin nuevas.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "177 cv",
+            "año": "2015",
+            "kilómetros": "183000 km",
+            "precio": 17500.0
+        },
+        {
+            "titulo": "Audi Q5 2015",
+            "enlace": "https://es.wallapop.com/item/audi-q5-2015-1016803651",
+            "descripcion": "solo escucho ofertas todo el mantenimiento echo y 4gomas nuevas ect...no me urge su venta gente seria gracias",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "177 cv",
+            "año": "2015",
+            "kilómetros": "295500 km",
+            "precio": 1.0
+        }
+    ]
+}

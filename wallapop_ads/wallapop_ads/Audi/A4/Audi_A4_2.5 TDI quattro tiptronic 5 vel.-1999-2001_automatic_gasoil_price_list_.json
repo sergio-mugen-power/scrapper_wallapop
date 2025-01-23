@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A4",
+        "version": "2.5 TDI quattro tiptronic 5 vel.",
+        "año mínimo": 1999,
+        "año máximo": 2001,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 150,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=150&min_year=1999&max_year=2001&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A4&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A4 2000",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2000-1079314881",
+            "descripcion": "Hola buenas vendo Audi A4 2.5tdi 150cv el coche está en buen estado tiene sus cosas de los años pero va muy bien recién cambiado barbulina del cambio aceites filtros ect a la distribución le queda unos 50000km lo vendo recién pasado la ITV el precio del coche son 2600negociables RECIEN PASADO LA ITV SE ACEPTA CAMBIO DE MI INTERES MAS INFORMACIÓN PRIVADO GRACIAS",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "2000",
+            "kilómetros": "197000 km",
+            "precio": 2600.0
+        },
+        {
+            "titulo": "Audi A4 1999",
+            "enlace": "https://es.wallapop.com/item/audi-a4-1999-980718923",
+            "descripcion": "vendo Audi A4 2.5tdi v6 coche normal ITV pasada solo tiene una pekeña perdida de aceite yunos tirones",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "1999",
+            "kilómetros": "216000 km",
+            "precio": 1200.0
+        },
+        {
+            "titulo": "motor Audi A4,tipo de motor afb ,en perfecto estado, falla caja d cambios el selector d marchas",
+            "enlace": "https://es.wallapop.com/item/audi-a4-1999-900747870",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "1999",
+            "kilómetros": "180000 km",
+            "precio": 700.0
+        }
+    ]
+}

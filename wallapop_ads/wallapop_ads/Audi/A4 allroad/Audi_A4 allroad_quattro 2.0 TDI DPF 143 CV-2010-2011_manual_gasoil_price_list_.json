@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A4 allroad",
+        "version": "quattro 2.0 TDI DPF 143 CV",
+        "año mínimo": 2010,
+        "año máximo": 2011,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 143,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=143&min_year=2010&max_year=2011&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A4 allroad&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A4 Allroad 2010",
+            "enlace": "https://es.wallapop.com/item/audi-a4-allroad-2010-1074133452",
+            "descripcion": "Audi A4 allroad quattro en muy buen estado de conservación e ITV en vigor. Equipamiento: -Volante multifuncion -Limitador de velocidad -Velocidad de crucero -Luces Led y automáticas -Sensores de aparcamiento -Bluetooth -Climatizador -Start/stop …. * se entrega con 12 meses de garantía y transferencia incluida *",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "143 cv",
+            "año": "2010",
+            "kilómetros": "218000 km",
+            "precio": 9990.0
+        },
+        {
+            "titulo": "Audi A4 Allroad 2011",
+            "enlace": "https://es.wallapop.com/item/audi-a4-allroad-2011-699691015",
+            "descripcion": "buen estado! no cambios! no negociable!!! manual!! insisto no cambios ni acepto coche como parte de pago! contactar por teléfono 615123811",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "143 cv",
+            "año": "2011",
+            "kilómetros": "230000 km",
+            "precio": 9300.0
+        }
+    ]
+}

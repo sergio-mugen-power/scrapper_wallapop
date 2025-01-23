@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A7",
+        "version": "2.8 FSI quattro S tronic 7 vel.",
+        "año mínimo": 2012,
+        "año máximo": 2014,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 204,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=204&min_year=2012&max_year=2014&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=A7&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A7 2014",
+            "enlace": "https://es.wallapop.com/item/audi-a7-2014-1082748909",
+            "descripcion": "Hola se vende audi A7 en perfecto estado se vende por falta de tiempo para usarlo precio muy poco negociable mejor ver en persona tienen toda la mecanica perfecta ruedas nuevas, tengo facturas de todo lo que tiene hecho para mas informacion al 6.0.2.2.1.5.4.8.6 Acepto cambio por wolkswagen caddy o renault kangoo de la mas modernas y dinero a mi favor No leer: Gti,cupra,r,seat,audi,wolkswagen",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "204 cv",
+            "año": "2014",
+            "kilómetros": "114000 km",
+            "precio": 22500.0
+        },
+        {
+            "titulo": "Audi A7 2014",
+            "enlace": "https://es.wallapop.com/item/audi-a7-2014-1085020476",
+            "descripcion": "35005 , Las palmas ,Gran Canaria AUDI A7 S7 Sportback 2.8 TFSI quattro S-Tronic 2014 г. tracción total Interior de cuero beige, asientos con calefacción y ventilación, control de clima de 4 zonas, control de crucero adaptativo, mantenimiento de carril, tempomat, suspensión adaptativa, navegación, multimedia, música premium, mejor equipamiento",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "204 cv",
+            "año": "2014",
+            "kilómetros": "69327 km",
+            "precio": 21500.0
+        },
+        {
+            "titulo": "Audi A7 2.8 S-Line 2014",
+            "enlace": "https://es.wallapop.com/item/audi-a7-2-8-2014-1075509938",
+            "descripcion": "VEHÍCULO NACIONAL DE ÚNICO PROPIETARIO. – Paquete S-line. – Luces Xenon. – Asiento eléctrico de cuero. – Levas en volante. – Cámara trasera. – Navegador. – Climatizador vizona. – Portón trasero eléctrico. Y más… UN AÑO DE GARANTÍA INCLUIDO. Se atiende al tf 6️⃣5️⃣8️⃣9️⃣8️⃣4️⃣6️⃣3️⃣7️⃣",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "204 cv",
+            "año": "2014",
+            "kilómetros": "280000 km",
+            "precio": 13800.0
+        }
+    ]
+}

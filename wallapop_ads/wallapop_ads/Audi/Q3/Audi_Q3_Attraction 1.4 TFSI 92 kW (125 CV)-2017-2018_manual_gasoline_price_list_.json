@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "Q3",
+        "version": "Attraction 1.4 TFSI 92 kW (125 CV)",
+        "año mínimo": 2017,
+        "año máximo": 2018,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 125,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=125&min_year=2017&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=Q3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi Q3 2017",
+            "enlace": "https://es.wallapop.com/item/audi-q3-2017-1073681125",
+            "descripcion": "Q3 con porton trasero elecrrico , tapiceria en piel",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "125 cv",
+            "año": "2017",
+            "kilómetros": "116000 km",
+            "precio": 22600.0
+        },
+        {
+            "titulo": "Audi Q3 2018",
+            "enlace": "https://es.wallapop.com/item/audi-q3-1-4-tfsi-125-cv-impecable-1029454754",
+            "descripcion": "Se vende Audi q3 impecable , siempre dormido en garaje . Muy bien cuidado , perfecto tanto de mecánica como chapa . La ITV pasada en Julio. Hace apenas dos semanas . extra pantalla 1000€ con carplay , sistema android , youtube , etc .",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "125 cv",
+            "año": "2018",
+            "kilómetros": "112000 km",
+            "precio": 19500.0
+        }
+    ]
+}

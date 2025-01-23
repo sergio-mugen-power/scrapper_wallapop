@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A4 allroad",
+        "version": "quattro 2.0 TDI 177 CV",
+        "año mínimo": 2015,
+        "año máximo": 2016,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 177,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=177&min_year=2015&max_year=2016&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=A4 allroad&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A4 Allroad 2015",
+            "enlace": "https://es.wallapop.com/item/audi-a4-allroad-2015-924921050",
+            "descripcion": "Audi A4 allroad del 2015 con muy pocos kilómetros , nacional, 2 propietario, con enganche desmontable original, full equip, itv enero 2025",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2015",
+            "kilómetros": "112753 km",
+            "precio": 19800.0
+        },
+        {
+            "titulo": "Audi A4 Allroad 2016",
+            "enlace": "https://es.wallapop.com/item/audi-a4-allroad-2016-1048784673",
+            "descripcion": "TODOS LOS EXTRAS - asientos calefactables - techo paronamico - navegador - llantas 18” - sensores de aproximidad, de aparcamiento y angulo muerto en espejos - asintos cuero y piel de alcantara",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2016",
+            "kilómetros": "190000 km",
+            "precio": 16000.0
+        },
+        {
+            "titulo": "Audi A4 Allroad 2015",
+            "enlace": "https://es.wallapop.com/item/audi-a4-allroad-2015-1068648268",
+            "descripcion": "itv valida hasta 9/2025. Gps , todos los paquetes asistencia a la conduccion y seguridad. Cambio correa disttibucion 9/2024. Zapatas de freno nuevas y ruedas con pocos kilometros. No ha tenido ninguna averia ni golpes. interior en perfecto estado y realizadas todas las revisiones pars su mantenimento segun Audi.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2015",
+            "kilómetros": "211000 km",
+            "precio": 12500.0
+        }
+    ]
+}
