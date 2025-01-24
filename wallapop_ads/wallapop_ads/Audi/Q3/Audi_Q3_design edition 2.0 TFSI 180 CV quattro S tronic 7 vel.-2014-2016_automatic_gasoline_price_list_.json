@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 9000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 179,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=179&min_year=2014&max_year=2016&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=Q3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=179&min_year=2014&max_year=2016&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Audi&model=Q3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -46,7 +46,18 @@
         {
             "titulo": "Audi Q3 2.0tfsi Edition quattro 170cv automático",
             "enlace": "https://es.wallapop.com/item/audi-q3-2-0tfsi-edition-quattro-170cv-automatico-1091882665",
-            "descripcion": "* Nacional matriculado en abril de 2014 * Distintivo medioambiental C* Vehículo en muy buen estado. con garantía de 1 año ampliable a 3. * Kilómetros certificados y sin siniestros. * Financiación con y sin entrada en 24 horas. * Entrega a domicilio disponible. * ITV en vigor hasta junio de 2025 -- * Equipamiento destacado: - Navegador - Sensor de parking - Auto de luces - Asiento manual con regulación lumbar eléctricamente - Control cruiser - Llantas de 18\" -----------------Nielsen cars",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2014",
+            "kilómetros": "163000 km",
+            "precio": 18900.0
+        },
+        {
+            "titulo": "AUDI Q3 2.0 TFSI Advance quattro S-Tronic 170cv",
+            "enlace": "https://es.wallapop.com/item/audi-q3-2-0-tfsi-advance-quattro-s-tronic-170cv-1092742752",
+            "descripcion": "* Nacional matriculado en abril de 2014 * Distintivo medioambiental C * Vehículo en muy buen estado. Con garantía de 1 año ampliable a 3 * Kilómetros certificados y sin siniestros * Financiación con y sin entrada en 24 horas * Entrega a domicilio disponible * Equipamiento destacado: -Tracción integral quattro -Cambio automatico S-Tronic de 7 velocidades -Tapicería en tela \"Initial\" -Sensores de aparcamiento con cámara de visión trasera y con Park Assist -Pantalla color de 7\" en zona superior del salpicadero con Navegacion -Conexion Bluetooth -Conexión AUX-In -8 altavoces -Sensor de luces -Limpiaparabrisas con sensor de lluvia -Cristales antitérmicos tintados... * Nielsen Cars * Similar a: BMW X1, Volkswagen Tiguan, Volvo XC40, Mercedes Gla, Mazda CX5... #cocheocasion #cochesegundamano #audiq3 #q3segundamano #q3ocasion",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "170 cv",

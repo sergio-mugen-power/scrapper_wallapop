@@ -1,0 +1,91 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "TT",
+        "version": "TT RS plus Roadster 2.5 TFSI quattro",
+        "año mínimo": 2012,
+        "año máximo": 2014,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 360,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=360&min_year=2012&max_year=2014&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Audi&model=TT&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi TT 2014",
+            "enlace": "https://es.wallapop.com/item/audi-tt-2014-1049255515",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "230 cv",
+            "año": "2014",
+            "kilómetros": "53700 km",
+            "precio": 33000.0
+        },
+        {
+            "titulo": "Audi TT 2014",
+            "enlace": "https://es.wallapop.com/item/audi-tt-1067305831",
+            "descripcion": "Vehículo muy muy bien cuidado, roza la perfección, pintura de origen en su totalidad, capota en perfecto funcionamiento y el estado de la misma excelente, Paquete deportivo S Line exterior, Paquete deportivo S Line interior, Asientos en piel y ártica con logo S Line, Cruise control, limitador de velocidad, asientos calefactables, cambio manual de 6 velocidades, luz led diurna, Climatizador, elevalunas eléctricos, retrovisores eléctricos, faros xenón, faros antiniebla, llantas de aleación de 18”, Navegador, Bluetooth, sensores de aparcamiento traseros.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "211 cv",
+            "año": "2014",
+            "kilómetros": "44500 km",
+            "precio": 26000.0
+        },
+        {
+            "titulo": "Audi TT 2014",
+            "enlace": "https://es.wallapop.com/item/audi-tt-2014-1091807285",
+            "descripcion": "Audi TT en perfecto estado, todas las revisiones al día. Neumáticos nuevos \"Continental\" Equipo de sonido \"Bang & Olufsen\"",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "230 cv",
+            "año": "2014",
+            "kilómetros": "130848 km",
+            "precio": 21900.0
+        },
+        {
+            "titulo": "Audi TT 2013",
+            "enlace": "https://es.wallapop.com/item/audi-tt-2013-1033685646",
+            "descripcion": "S LINE.Bi Xenon,Piel,Navegador tf,Llantas 19,Full equimamiento,coche espectacular,esta como nuevo,solo 97000km\"Motor con cadena distribucion\"",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "211 cv",
+            "año": "2013",
+            "kilómetros": "97000 km",
+            "precio": 17500.0
+        },
+        {
+            "titulo": "Audi TT S-LINE",
+            "enlace": "https://es.wallapop.com/item/audi-tt-s-line-1057170775",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "160 cv",
+            "año": "2013",
+            "kilómetros": "89000 km",
+            "precio": 16990.0
+        },
+        {
+            "titulo": "Audi TT ",
+            "enlace": "https://es.wallapop.com/item/audi-tt-1060963344",
+            "descripcion": "Audi TT 1.8 TFSI Coche nacional. Mantenimientos y aceite al día. Neumaticos practicamente nuevos. Paquete S-Line Xenón Cámara marcha atrás 6 velocidades Volante deportivo Asiento deportivos en alcántara. Se puede ver y probar.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "160 cv",
+            "año": "2012",
+            "kilómetros": "145000 km",
+            "precio": 14499.0
+        }
+    ]
+}

@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 9000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 184,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=184&min_year=2014&max_year=2015&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=Q3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=184&min_year=2014&max_year=2015&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Audi&model=Q3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -152,6 +152,17 @@
             "año": "2014",
             "kilómetros": "190020 km",
             "precio": 18299.0
+        },
+        {
+            "titulo": "Audi Q3 2015",
+            "enlace": "https://es.wallapop.com/item/audi-a4-2018-1090843086",
+            "descripcion": "cambio automatico S tronic neumaticos nuevos itv hasta 2026 duerme en garage",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2015",
+            "kilómetros": "109000 km",
+            "precio": 18000.0
         },
         {
             "titulo": "Audi Q3 2015",
@@ -386,17 +397,6 @@
         },
         {
             "titulo": "Audi Q3 2015",
-            "enlace": "https://es.wallapop.com/item/audi-q3-2015-1036117286",
-            "descripcion": "el coche esta en muy buen estado como nuevo",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "150 cv",
-            "año": "2015",
-            "kilómetros": "230000 km",
-            "precio": 14300.0
-        },
-        {
-            "titulo": "Audi Q3 2015",
             "enlace": "https://es.wallapop.com/item/audi-q3-2015-1086702354",
             "descripcion": "- Vehículo de no fumador. - Navegador. - Control de crucero. - Apertura/cierre automático de maletero. - Climatizador bizona. - El vehiculo dispone de seguro a todo riesgo, por lo que se entrega recién pintado a la firma de contrato.",
             "combustible": "Diésel",
@@ -427,6 +427,61 @@
             "año": "2015",
             "kilómetros": "246000 km",
             "precio": 13900.0
+        },
+        {
+            "titulo": "Audi Q3 2014",
+            "enlace": "https://es.wallapop.com/item/audi-q3-2014-1049494556",
+            "descripcion": "audi q3 acabado sport line, unico propietario (mi hermana) turbo cambiado recientemente. asientos cuero y alcantara. Se vende por haber comprado un coche mas grande.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2014",
+            "kilómetros": "201000 km",
+            "precio": 13500.0
+        },
+        {
+            "titulo": "✅ Audi Q3 2015 QUATTRO 2.0 TDI 150 STRONIC",
+            "enlace": "https://es.wallapop.com/item/audi-q3-2015-quattro-2-0-tdi-150-stronic-1079962719",
+            "descripcion": "6️⃣7️⃣4️⃣1️⃣8️⃣7️⃣1️⃣4️⃣7️⃣ No negociable. 🚗 COCHE: AUDI Q3 2.0 TDI 150CV QUATTRO STRONIC ✅ ITV: 2025 ✅ AÑO: 2015 ✅ POTENCIA: 150cv ⛽ COMBUSTIBLE: Diésel 🕹️ CAMBIO: AUTOMÁTICO ✅ Funciona perfecto. ✅ EXTRAS: Volante multifunción, control de crucero, climatizador automático, sensores de aparcamiento traseros, xenón, luces automáticas, limpias automáticos, modos de conducción ✅ GARANTÍA: SI ✅ Recién revisado para su venta TAGS : Sportage niro Hyundai Tucson leon golf Arona c3 tesla taigo t cross BMW audi Mercedes peugeot Citroen batería Toyota corolla volkswagen seat ibiza leon golf diesel gasolina manual automático híbrido enchufable oficial libro sellado turbo stage downpipe escape homologado nuevo garantía financiación . KIA Stonic en Castello/Castellon de La Plana. KIA Stonic en Castello/Castellon de La Plana. KIA Stonic en Castello/Castellon de La Plana",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2015",
+            "kilómetros": "295000 km",
+            "precio": 12900.0
+        },
+        {
+            "titulo": "Audi Q3 2014",
+            "enlace": "https://es.wallapop.com/item/audi-q3-2014-1082495667",
+            "descripcion": "Distribución completa con bomba de agua cambiada en Servicio Oficial en Abril de 2022. Batería original cambiada en Servicio Oficial en Diciembre 2023. 2 neumáticos delanteros cambiados en 2022. 2 neumáticos traseros cambiados en 2023. Recientemente se le ha cambiado la bomba de aceite y rectificación de motor. No contesto ofertas ridiculas",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2014",
+            "kilómetros": "271000 km",
+            "precio": 9499.0
+        },
+        {
+            "titulo": "Audi Q3 2015",
+            "enlace": "https://es.wallapop.com/item/audi-q3-2015-1086072180",
+            "descripcion": "Vehiculo nacional, Kilometros certificados .. Respondo solo por Wahttsapp (647 358 133) , 4x4, con 123550 kms, , control de velocidad, sensores lluvia y luz, volante deportivo en piel multifuncion, sensores aproximacion (parktronik) del y tras, barras en techo portaequipajes, Solo por Wahttsapp.. doble klimatizador digital, llantas 17 \" con neumaticos como nuevos, 4 elevalunas electricos, retrovisores electricos, Ordenador de abordo, Alarma original audi .soy el secundo dueno , Atiendo solo Wahttsapp (647 358 133) . duerme en garaje. no cambio.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2015",
+            "kilómetros": "123500 km",
+            "precio": 6620.0
+        },
+        {
+            "titulo": "2015 Audi Q3 2.0TDI Ambiente",
+            "enlace": "https://es.wallapop.com/item/audi-q3-2015-1080874416",
+            "descripcion": "Vendo audi q3 2.0tdi .. Atiendo solo Wahttsapp (647 358 133)...Vehiculo nacional, Kilometros certificados, 4x4, con 123550 kms, tracion quatro en perfecto estado de todo y muy cuidado .poco uso . segundo dueño. mantenimientos al dia aceite cambiado y ITV en vigor. Ruedas al 80% . Respondo solo por Wahttsapp (647 358 133) !! Lo vendo por traslado de trabajo.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "140 cv",
+            "año": "2015",
+            "kilómetros": "123500 km",
+            "precio": 6550.0
         }
     ]
 }

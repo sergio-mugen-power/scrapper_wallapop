@@ -1,0 +1,69 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "TT",
+        "version": "TTS Roadster 2.0 TFSI quattro S tronic",
+        "año mínimo": 2012,
+        "año máximo": 2014,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 272,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=272&min_year=2012&max_year=2014&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Audi&model=TT&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "AUDI TTS 2.0 TFSI 272CV QUATTRO S-TRONIC S-LINE ",
+            "enlace": "https://es.wallapop.com/item/audi-tts-2-0-tfsi-272cv-quattro-s-tronic-s-line-983023776",
+            "descripcion": "Transporte gratuito para toda España. Revision, transferencia y garantía incluida. Financiamos al minimo interes. Impecable, pintura ultrabrillo, historial de revisiones completo, traccion quattro, bixenon adaptativos, pantalla premiun pioneer DVD, audio bose, tempomat, sensores parking, asientos piel sline calefactables, levas en volante, clima bizona, suspensión s-line magnetic ride, aleron abatible, espejos con atenuacion, ninguna unidad tan cuidada. Volkswagen polo Golf gti gtd gte r300 r400 abt clubsport bmw m1 m2 m3 m4 seat leon FR cupra R mercedes amg audi a4 a5 a3 rs3 rs4 rs5 ford focus st rs",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "272 cv",
+            "año": "2012",
+            "kilómetros": "139000 km",
+            "precio": 22990.0
+        },
+        {
+            "titulo": "Audi TT 2013",
+            "enlace": "https://es.wallapop.com/item/audi-tt-2013-1086501889",
+            "descripcion": "AUDI TT COUPE S-LINE 1.8 TFSI DSG 160CV 03/2013 80.272KM -Vehículo nacional -Acabado S-LINE int y ext -Cambio automático DSG -Volante multifuncional -Levas en volante -Volante S-LINE achatado en cuero -Asientos S-LINE en cuero y tela -Sistema de radio AUDI CHORUS -Alerón trasero abatible -Faros xenón led -Sensores aparcamiento traseros -Llantas aluminio S-LINE 10 radios 18” -Todos nuestros vehículos se entregan transferidos y un año de garantía. -Posibilidad de la entrega del vehículo en la puerta de su casa(consultar condiciones). -Aceptamos vehículo en forma de pago. -Para mas información contactar.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "160 cv",
+            "año": "2013",
+            "kilómetros": "80272 km",
+            "precio": 18990.0
+        },
+        {
+            "titulo": "Audi TT Coupé 2.0 TFSI Quattro S-Tronic",
+            "enlace": "https://es.wallapop.com/item/audi-tt-coupe-2-0-tfsi-quattro-s-tronic-1077749408",
+            "descripcion": "Siempre en garaje privado protegido de la intemperie. Diciembre de 2013.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "260 cv",
+            "año": "2013",
+            "kilómetros": "164000 km",
+            "precio": 18500.0
+        },
+        {
+            "titulo": "Audi TT S-line",
+            "enlace": "https://es.wallapop.com/item/audi-tt-s-tronic-1041076430",
+            "descripcion": "Audi TT S-Tronic con paquete deportivo S-line tanto exterior como interior de color blanco año Octubre 2012 con 172.257km, el coche está semi nuevo, en muy buen estado y siempre en parking. Revisiones hechas en taller oficial AUDI, mantenimiento al día y próxima ITV Enero 2025. Tiene llantas BBS de 18” y nuevos neumáticos michelin pilot sport 4 puestos. Otros: volante multifunción, levas en volante deportivo, embellecedores aluminio, faros xenon, tapizado tela/cuero, sistema aparcamiento trasero, 2 juegos de llaves, 2 juegos de alfombrillas uno de ellos con logo TT, libro instrucciones, libro mantenimiento, pantalla táctil, etc. No fumador.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "160 cv",
+            "año": "2012",
+            "kilómetros": "172257 km",
+            "precio": 14500.0
+        }
+    ]
+}

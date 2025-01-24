@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 9000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 177,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=177&min_year=2013&max_year=2014&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=Q5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=177&min_year=2013&max_year=2014&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Audi&model=Q5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -88,7 +88,7 @@
             "precio": 19300.0
         },
         {
-            "titulo": "Audi Q5 2014",
+            "titulo": "Audi Q5",
             "enlace": "https://es.wallapop.com/item/audi-q5-2014-807364921",
             "descripcion": "vehículo en perfectísimo estado tanto por dentro como por fuera siempre garaje individual..revisión completa recién hecha pantalla profesional de radio Android llantas 19",
             "combustible": "Diésel",
@@ -341,17 +341,6 @@
             "precio": 15999.0
         },
         {
-            "titulo": "Audi Q5 2013",
-            "enlace": "https://es.wallapop.com/item/audi-q5-2013-1066961610",
-            "descripcion": "Vendo Audi Q5 2.0TDI Quattro nacional UNICO DUEÑO con historial de mantenimiento y mucho extras automático luz diurna faros full led pilotos LED pantalla sensores de aparcamiento, velocidad de crucero, limitador, volante, multifunción, luces automática, espejos eléctricos y llantas aluminio ordenador abordo sensor de lluvia..... MAS DE 120 VEHÍCULOS Y TALLER PROPIO!!! terrano montero land Cruiser hilux golf leon passat gti megane passat audi a3 a4 a5 a6 a7 bmw 320 330 gashqai ix35 tucson sportage tiguan berlingo q7 x3 x1 ×5 audi *Este anuncio puede contener algún error",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "150 cv",
-            "año": "2013",
-            "kilómetros": "170000 km",
-            "precio": 15999.0
-        },
-        {
             "titulo": "Audi Q5 2014",
             "enlace": "https://es.wallapop.com/item/audi-q5-2014-971720566",
             "descripcion": "Perfecto estado de todo . Dentro fuera y motor. Todos servicios hechos. Acepto cual quer prouba mecanica. Coche de confianza, Cual quer duda o información. Tel:6.58140146.",
@@ -385,17 +374,6 @@
             "precio": 15400.0
         },
         {
-            "titulo": "Audi Q5 2014",
-            "enlace": "https://es.wallapop.com/item/audi-q5-2014-1086804840",
-            "descripcion": "Audi Q5 2014 - Impecable estado ¡No encontrarás ningún defecto! Se mantiene como nuevo, si lo ves, te lo quedas. Motor: 2.0 TDI, 177 CV, cambio automático Kilómetros: 215,000 km (la mayoría en carretera) Extras: Enganche de remolque Asientos de cuero mixto con alcántara, calefactables y eléctricos Navegador multimedia y GPS original Retrovisores abatibles automáticos Luces xenón Dos llaves Otros extras: Coche muy cómodo y equipado Neumáticos nuevos, recién instalados al 100%. Precio: 14,900 € Características: Ideal tanto para ciudad como carretera. Cómodo, potente y fiable. Ubicación: Igualada",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "177 cv",
-            "año": "2014",
-            "kilómetros": "215000 km",
-            "precio": 15000.0
-        },
-        {
             "titulo": "Audi Q5 2013",
             "enlace": "https://es.wallapop.com/item/audi-q5-tdi-2013-1034218432",
             "descripcion": "Audi Q5 TDI 150cv. Perfecto estado, revisiones e ITV recién pasadas.Distribución y bomba del agua cambiadas. Sensores de aparcamiento traseros y cámara trasera, xenón, pilotos en led , Isofix, control de velocidad , ayuda a salida en pendiente,apoyo lumbar electrico,llantas 19”, clima, luces automaticas, conexión teléfono bluetooth,lunas tintadas . Coche de no fumador, Siempre en garaje .Bateria recien cambiada. No negociable",
@@ -416,6 +394,17 @@
             "año": "2014",
             "kilómetros": "228000 km",
             "precio": 15000.0
+        },
+        {
+            "titulo": "Audi Q5 2014",
+            "enlace": "https://es.wallapop.com/item/audi-q5-2014-1086804840",
+            "descripcion": "Audi Q5 2014 - Impecable estado ¡No encontrarás ningún defecto! Se mantiene como nuevo, si lo ves, te lo quedas. Motor: 2.0 TDI, 177 CV, cambio automático Kilómetros: 215,000 km (la mayoría en carretera) Extras: Enganche de remolque Asientos de cuero mixto con alcántara, calefactables y eléctricos Navegador multimedia y GPS original Retrovisores abatibles automáticos Luces xenón Dos llaves Otros extras: Coche muy cómodo y equipado Neumáticos nuevos, recién instalados al 100%. Precio: 14,900 € Características: Ideal tanto para ciudad como carretera. Cómodo, potente y fiable. Ubicación: Igualada",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "177 cv",
+            "año": "2014",
+            "kilómetros": "215000 km",
+            "precio": 14999.0
         },
         {
             "titulo": "Audi Q5 2013",
@@ -460,6 +449,94 @@
             "año": "2014",
             "kilómetros": "200000 km",
             "precio": 14200.0
+        },
+        {
+            "titulo": "Audi Q5 2013",
+            "enlace": "https://es.wallapop.com/item/audi-q5-2013-1056566575",
+            "descripcion": "Audi Q5 2.0 TDI 177cv quattro - -DATOS GENERALES- -VEHICULO NACIONAL -AÑO 2013 -210000KM -DOS JUEGOS DE LLAVES -DISTINTIVO AMBIENTAL C -VEHICULO REVISADO -NEUMATICOS AL 80% -ITV 06/02/25 -13900€ -EQUIPAMIENTO DEL VEHICULO- -Dirección asistida -Elevalunas eléctricos -Climatizador -Sensores de aparcamiento -Control de velocidad -Llanta 18 -Sistema sonido multimedia bose bluetooth teléfono -Ordenador abordo -Espejos eléctricos -Isofix -Luces automáticas -Espejos eléctricos y abatibles -Sistema auto hold -Esp -DATOS DE SU INTERES- -POSIBILIDAD DE FINANCIACION A SU MEDIDA -EL VEHICULO SE ENTREGA CON UN AÑO DE GARANTIA -VEHICULO EN STOCK CON ENTREGA INMEDIATA -OPCION DE TASACION DE SU VEHICULO -OPCION DE ENTREGA A CUALQUIER PARTE DE ESPAÑA -AUTOMOCION SANZ- C/GONZALEZ SERRANO NAVE 5 COMPLEJO MENESES (POLIGONO EL NEVERO)BADAJOZ CP06006",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "177 cv",
+            "año": "2013",
+            "kilómetros": "210000 km",
+            "precio": 13900.0
+        },
+        {
+            "titulo": "Audi Q5 2013",
+            "enlace": "https://es.wallapop.com/item/audi-q5-2013-1079529843",
+            "descripcion": "AUTOS LOS PALACIOS MOTOR Le ofrece este vehículo Audi , Q5 quattro Financiamos a su medida sin entrada El precio se queda el mismo financiado o al contado, # km certificado y garantizado # # transferencia incluida # # Garantía incluida # # también recogemos su vehículo cómo parte de pago # (consultar Garantía y transferencia opcional) Con todos los extras en perfecto estado de todo tanto de interior como exterior y de mecánica el coche esta muy bien de todo, Se puede ver y probar sin compromiso ninguno, Estamos en: ( Sevilla) Los Palacios y Villafranca calle jovellanos número 8 Horario comercial De Lunes a Viernes Mañana: de 9:30h a 14:00h Tardes: de 16:00h a 20:30h Sábado: de 10:00h a 14:00h Sábado atendemos también con cita previa Para más información por teléfono. Más vehículo en nuestro página AUTOS LOS PALACIOS MOTOR ☎️6️⃣6️⃣2️⃣9️⃣0️⃣5️⃣8️⃣3️⃣5️⃣",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "177 cv",
+            "año": "2013",
+            "kilómetros": "245000 km",
+            "precio": 13890.0
+        },
+        {
+            "titulo": "Audi Q5 2013",
+            "enlace": "https://es.wallapop.com/item/audi-q5-2013-1035507333",
+            "descripcion": "Ruedas en perfecto estado,cambiado correa de distribución, discos de freno, pastillas, silenbloc, el día 1 de agosto recién hecha la revisión de aceite y filtros hasta el 2 de agosto del 2025 no hay que hacerle nada , sin adblue , Lo podéis llevar ha vuestro mecánico o a la casa Audi para probar ¡¡ ÚLTIMO PRECIO ¡¡ Si no te apaña el precio no llames de 15000 ha 13500 tlf 675513767",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "177 cv",
+            "año": "2013",
+            "kilómetros": "240000 km",
+            "precio": 13500.0
+        },
+        {
+            "titulo": "Audi Q5 2013",
+            "enlace": "https://es.wallapop.com/item/audi-q5-2013-973447775",
+            "descripcion": "Audi Q5 2.0 tdi Quattro, 177 CV Luces xenon Volante multifuccion Sonido bang olufsen Control de velocidad Dos llaves Distiribucion cambiada hace 40 mil km Vehiculo nacional Finales 2013",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "177 cv",
+            "año": "2013",
+            "kilómetros": "294000 km",
+            "precio": 13500.0
+        },
+        {
+            "titulo": "Audi Q5 2.0 143CV ",
+            "enlace": "https://es.wallapop.com/item/audi-q5-2-0-143cv-1091856249",
+            "descripcion": "Vehiculo nacional,unico propietario,historial de revisiones,neumaticos casi nuevos,ultima revision noviembre 2024,ITV 01/2026,embrague y distribucion cambiados,vehiculo no fumador.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "143 cv",
+            "año": "2013",
+            "kilómetros": "263000 km",
+            "precio": 12800.0
+        },
+        {
+            "titulo": "Audi Q5 2013",
+            "enlace": "https://es.wallapop.com/item/audi-q5-2013-1081391303",
+            "descripcion": "perfecto estado, parking, un solo dueño, nacional Precio no negociable",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "143 cv",
+            "año": "2013",
+            "kilómetros": "250000 km",
+            "precio": 12800.0
+        },
+        {
+            "titulo": "Audi Q5 2013",
+            "enlace": "https://es.wallapop.com/item/audi-q5-2013-1061120919",
+            "descripcion": "Coche en perfecto estado de motor unos arañazos x fuera por dentro está en buen estado precio no negociable abstenerse ofertas inferiores",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "143 cv",
+            "año": "2013",
+            "kilómetros": "205000 km",
+            "precio": 11500.0
+        },
+        {
+            "titulo": "Audi Q5 2018",
+            "enlace": "https://es.wallapop.com/item/audi-q5-2013-1049453285",
+            "descripcion": "Audi q5 re matriculado en 2018 primera matrícula 2013 unos signos de arañazos en el exterior todas las revisiones e ITV al dia precio no negociable",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2013",
+            "kilómetros": "201000 km",
+            "precio": 11500.0
         }
     ]
 }

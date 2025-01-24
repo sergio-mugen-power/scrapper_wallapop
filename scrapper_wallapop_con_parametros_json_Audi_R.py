@@ -8,7 +8,6 @@ from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import TimeoutException
 from webdriver_manager.chrome import ChromeDriverManager
 from datetime import datetime
-import tempfile
 import time
 import os
 
@@ -42,7 +41,7 @@ def setup_driver():
     options.add_argument("--headless")                  # Opcional: Modo sin ventana (para mayor velocidad)
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     return driver
-driver = setup_driver()
+driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 # Función principal para obtener datos de Wallapop
 def get_wallapop_car_data(driver,min_year, max_year, min_km, max_km, min_sale_price, max_sale_price, brand, model, latitude, longitude, keywords, gearbox_types, engine_types, max_horsepower, min_horsepower):
     base_url = "https://es.wallapop.com/app/search?"
@@ -252,7 +251,7 @@ def get_wallapop_car_data(driver,min_year, max_year, min_km, max_km, min_sale_pr
 min_km = 2007
 max_km = 300000
 min_sale_price = 1
-max_sale_price = 90000
+max_sale_price = 90000000
 #keywords = ""  # Palabra clave externa
 #gearbox_types = ['automatic', 'manual']
 #engine_types = ['gasoline','gasoil','electric-hybrid','others']
@@ -265,7 +264,7 @@ min_horsepower = 1
 base_directory = 'parameters_scrapper'
 for subdir, _, files in os.walk(base_directory):
     for file in files:
-        if file.endswith('.json') and file.startswith('Audi_A8'):
+        if file.endswith('.json') and file.startswith('Audi_R'):
             file_path = os.path.join(subdir, file)
             with open(file_path, 'r', encoding='utf-8') as json_file:
                 data = json.load(json_file)

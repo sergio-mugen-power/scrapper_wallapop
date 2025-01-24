@@ -1,0 +1,69 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "TT",
+        "version": "2.0 TDI quattro",
+        "año mínimo": 2012,
+        "año máximo": 2014,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 170,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=170&min_year=2012&max_year=2014&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Audi&model=TT&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi TT 2012",
+            "enlace": "https://es.wallapop.com/item/audi-tt-2012-1039546622",
+            "descripcion": "Vendo precioso Audi TT de 170Cv , motor diesel , muy cuidado, siempre garaje . Acabado con paquete S-Line. Valor del vehiculo nuevo 47.682 euros. Contactar solo personas interesadas.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "170 cv",
+            "año": "2012",
+            "kilómetros": "182000 km",
+            "precio": 16000.0
+        },
+        {
+            "titulo": "AUDI TT ROADSTER 2.0 TDI 170CV QUATTRO",
+            "enlace": "https://es.wallapop.com/item/audi-tt-roadster-2-0-tdi-170cv-quattro-983365591",
+            "descripcion": "marzo de 2012, tracción a las cuatro ruedas, diésel manual y 210.000 km, asientos calefactables, climatizador automático, capota de accionamiento eléctrico, radio CD, elevalunas eléctricos, espejos eléctricos, llantas de aleación, faros de XENÓN, luz diurna LED, sensores de aparcamiento traseros, faros antiniebla, cierre centralizado con mando a distancia, dirección asistida, volante multifunción, airbag de conductor, pasajero y laterales, ABS, ESP, etc. se entrega revisado, con el mantenimiento hecho, 5 años de servicios Autocenter gratuitos, 3 cambios de aceite y filtros gratis y 12 meses de garantía.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "170 cv",
+            "año": "2012",
+            "kilómetros": "210000 km",
+            "precio": 14900.0
+        },
+        {
+            "titulo": "Audi TT ROADSTER 2.0 TDI QUATTRO 2012",
+            "enlace": "https://es.wallapop.com/item/audi-tt-roadster-2-0-tdi-quattro-2012-1017156223",
+            "descripcion": "2.0 TDI traccion quattro 170 cv. Perfecto estado. Importado hace 5 años. 184000 km. Anda mucho y gasta como un mechero. Deflector automatico. Quita vientos electrico. Asientos tela/cuero calefactables. Suspension deportiva. Alarma.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "170 cv",
+            "año": "2012",
+            "kilómetros": "184500 km",
+            "precio": 12500.0
+        },
+        {
+            "titulo": "Audi TT 2012",
+            "enlace": "https://es.wallapop.com/item/audi-tt-2012-1039602479",
+            "descripcion": "Buena condición. Volante a la derecha, importado del Reino Unido. matriculación española",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "170 cv",
+            "año": "2012",
+            "kilómetros": "220000 km",
+            "precio": 6500.0
+        }
+    ]
+}

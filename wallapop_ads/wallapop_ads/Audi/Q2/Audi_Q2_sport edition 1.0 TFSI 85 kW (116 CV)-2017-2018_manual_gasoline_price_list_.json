@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 9000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,20 +18,9 @@
         "potencia máxima": 116,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=116&min_year=2017&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=Q2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=116&min_year=2017&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Audi&model=Q2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
-        {
-            "titulo": "Audi Q2 2018",
-            "enlace": "https://es.wallapop.com/item/audi-q2-2018-1065557228",
-            "descripcion": "Impecable, como nuevo, aun tiene garantia oficial audi. Con muchos extas, pintura amarillo vegas, techo solar, iluminacion interior, Audi on hold, retrovisores abatibles, llantas 17, etc ... itv recien pasada sin ninguna incidencia",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "116 cv",
-            "año": "2018",
-            "kilómetros": "49902 km",
-            "precio": 23500.0
-        },
         {
             "titulo": "Audi Q2 2018",
             "enlace": "https://es.wallapop.com/item/audi-q2-2018-834500127",
@@ -42,6 +31,17 @@
             "año": "2018",
             "kilómetros": "96000 km",
             "precio": 22000.0
+        },
+        {
+            "titulo": "Audi Q2 2018",
+            "enlace": "https://es.wallapop.com/item/audi-q2-2018-1065557228",
+            "descripcion": "Impecable, como nuevo, aun tiene garantia oficial audi. Con muchos extas, pintura amarillo vegas, techo solar, iluminacion interior, Audi on hold, retrovisores abatibles, llantas 17, etc ... itv recien pasada sin ninguna incidencia",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "116 cv",
+            "año": "2018",
+            "kilómetros": "49902 km",
+            "precio": 21900.0
         },
         {
             "titulo": "AUDI Q2 1.0 TFSI DESIGN EDITION",
@@ -365,7 +365,7 @@
         {
             "titulo": "Audi Q2 2018",
             "enlace": "https://es.wallapop.com/item/audi-q2-2018-1074355635",
-            "descripcion": "",
+            "descripcion": "EL PRECIO DE 17.400 € ESTA SUJETO A FINANCIACION MINIMA DE 15.000 € A UN PLAZO MINIMO DE 60 CUOTAS. POSIBILIDAD DE CANCELAR ANTICIPADAMENTE A PARTIR DE LOS 18 MESES . EL PRECIO SIN FINANCIAR ES DE 18.900 €. ENCENDIDO AUTOMATICO DE LUCES, AIRE ACONDICIONADO , ABS , LLANTAS , RADIO CON PANTALLA Y BLUETOOTH , AIRBAG , DIRECCION ASISTIDA , ELEVALUNAS ELECTRICOS , CIERRE CENTRALIZADO, ISOFIX, ETC… IVA INCLUIDO Y DEDUCIBLE PARA AUTONOMOS Y EMPRESA . EL PRECIO DEL VEHICULO INCLUYE EL 21 % DE IVA , TRANSFERENCIA , REVISION MECANICA PRE-ENTREGA Y 12 MESES DE GARANTIA . ACEPTAMOS COCHE O MOTO QUE INTERESE COMO PARTE DE PAGO . WWAUTOSJDELPASOCOM",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "116 cv",

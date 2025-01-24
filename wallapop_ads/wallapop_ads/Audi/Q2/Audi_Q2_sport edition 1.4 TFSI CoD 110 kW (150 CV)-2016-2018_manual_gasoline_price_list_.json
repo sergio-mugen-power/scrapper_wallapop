@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 9000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,30 +18,19 @@
         "potencia máxima": 150,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=150&min_year=2016&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=Q2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=150&min_year=2016&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Audi&model=Q2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
             "titulo": "Audi Q2 design edition 1.4 TFSI CoD 110 kW (150 CV)",
             "enlace": "https://es.wallapop.com/item/audi-q2-design-edition-1-4-tfsi-cod-110-kw-150-cv-1002688505",
-            "descripcion": "",
+            "descripcion": "Comprar en Berrocar es señal de despreocupación: - Te garantizamos el mejor precio del mercado, sabrás que no pagas más por tu nuevo coche. - Eliges el vehículo y lo recibes en casa de 24 a 48 horas sin costes. - Tienes 15 días o 500km para probar el vehículo, si no te convence ¡Nos lo devuelves! - Disfrutarás de nuestra Súper Garantía, clasificada entre las más completas del mercado por distintas asociaciones de talleres. - La garantía será cubierta en talleres oficiales de Automóviles Berrocar o en Red de talleres Eurorepar, con más de 800 centros por toda España que te darán cobertura los 365 días del año. - Todos nuestros vehículos han sido revisado en más de 300 puntos por nuestros profesionales que garantizan su correcto funcionamiento. Llevamos más de 35 años situando el vehículo de ocasión en lo más alto, hoy no iba a ser menos!",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "150 cv",
             "año": "2018",
             "kilómetros": "11697 km",
             "precio": 25500.0
-        },
-        {
-            "titulo": "Audi Q2 2018",
-            "enlace": "https://es.wallapop.com/item/audi-q2-2018-1065557228",
-            "descripcion": "Impecable, como nuevo, aun tiene garantia oficial audi. Con muchos extas, pintura amarillo vegas, techo solar, iluminacion interior, Audi on hold, retrovisores abatibles, llantas 17, etc ... itv recien pasada sin ninguna incidencia",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "116 cv",
-            "año": "2018",
-            "kilómetros": "49902 km",
-            "precio": 23500.0
         },
         {
             "titulo": "Audi Q2 2018",
@@ -53,6 +42,17 @@
             "año": "2018",
             "kilómetros": "96000 km",
             "precio": 22000.0
+        },
+        {
+            "titulo": "Audi Q2 2018",
+            "enlace": "https://es.wallapop.com/item/audi-q2-2018-1065557228",
+            "descripcion": "Impecable, como nuevo, aun tiene garantia oficial audi. Con muchos extas, pintura amarillo vegas, techo solar, iluminacion interior, Audi on hold, retrovisores abatibles, llantas 17, etc ... itv recien pasada sin ninguna incidencia",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "116 cv",
+            "año": "2018",
+            "kilómetros": "49902 km",
+            "precio": 21900.0
         },
         {
             "titulo": "AUDI Q2 1.0 TFSI DESIGN EDITION",
@@ -154,6 +154,17 @@
             "precio": 19500.0
         },
         {
+            "titulo": "Audi Q2 por 271€ al mes",
+            "enlace": "https://es.wallapop.com/item/audi-q2-2016-1060893300",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2016",
+            "kilómetros": "89890 km",
+            "precio": 18990.0
+        },
+        {
             "titulo": "Audi Q2 2018",
             "enlace": "https://es.wallapop.com/item/audi-q2-2018-1079268392",
             "descripcion": "",
@@ -196,17 +207,6 @@
             "año": "2018",
             "kilómetros": "118500 km",
             "precio": 17999.0
-        },
-        {
-            "titulo": "Audi Q2 2016",
-            "enlace": "https://es.wallapop.com/item/audi-q2-2016-1060893300",
-            "descripcion": "",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "150 cv",
-            "año": "2016",
-            "kilómetros": "89890 km",
-            "precio": 17990.0
         },
         {
             "titulo": "Audi Q2 Advanced 30 TFSI 85kW (116CV)",
@@ -460,6 +460,325 @@
             "año": "2017",
             "kilómetros": "109366 km",
             "precio": 17490.0
+        },
+        {
+            "titulo": "Audi Q2 #untaggable edition 1.0 TFSI ultra",
+            "enlace": "https://es.wallapop.com/item/audi-q2-untaggable-edition-1-0-tfsi-ultra-1077520466",
+            "descripcion": "Precio al contado: 19.490€ (IVA incluido) *** Precio alternativo oferta de financiacion: 17.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Salamanca, C. Hoces del Duraton, 62, 37008 Salamanca. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilano...",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "116 cv",
+            "año": "2017",
+            "kilómetros": "109366 km",
+            "precio": 17490.0
+        },
+        {
+            "titulo": "Audi Q2 #untaggable edition 1.0 TFSI ultra",
+            "enlace": "https://es.wallapop.com/item/audi-q2-untaggable-edition-1-0-tfsi-ultra-1077467225",
+            "descripcion": "Precio al contado: 19.490€ (IVA incluido) *** Precio alternativo oferta de financiacion: 17.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Salamanca, C. Hoces del Duraton, 62, 37008 Salamanca. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vilano...",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "116 cv",
+            "año": "2017",
+            "kilómetros": "109366 km",
+            "precio": 17490.0
+        },
+        {
+            "titulo": "Audi Q2 2018",
+            "enlace": "https://es.wallapop.com/item/audi-q2-2018-1074355635",
+            "descripcion": "EL PRECIO DE 17.400 € ESTA SUJETO A FINANCIACION MINIMA DE 15.000 € A UN PLAZO MINIMO DE 60 CUOTAS. POSIBILIDAD DE CANCELAR ANTICIPADAMENTE A PARTIR DE LOS 18 MESES . EL PRECIO SIN FINANCIAR ES DE 18.900 €. ENCENDIDO AUTOMATICO DE LUCES, AIRE ACONDICIONADO , ABS , LLANTAS , RADIO CON PANTALLA Y BLUETOOTH , AIRBAG , DIRECCION ASISTIDA , ELEVALUNAS ELECTRICOS , CIERRE CENTRALIZADO, ISOFIX, ETC… IVA INCLUIDO Y DEDUCIBLE PARA AUTONOMOS Y EMPRESA . EL PRECIO DEL VEHICULO INCLUYE EL 21 % DE IVA , TRANSFERENCIA , REVISION MECANICA PRE-ENTREGA Y 12 MESES DE GARANTIA . ACEPTAMOS COCHE O MOTO QUE INTERESE COMO PARTE DE PAGO . WWAUTOSJDELPASOCOM",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "116 cv",
+            "año": "2018",
+            "kilómetros": "53500 km",
+            "precio": 17400.0
+        },
+        {
+            "titulo": "Audi Q2 sport edition 1.4 TFSI CoD 110 kW (150 CV)",
+            "enlace": "https://es.wallapop.com/item/audi-q2-sport-edition-1-4-tfsi-cod-110-kw-150-cv-1089868828",
+            "descripcion": "Precio oferta sujeto a financiación: 17091 EUR. Precio al contado: 18800 EUR. *GET* LLEGA LA REVOLUPLUS A OCASIONPLUS LA REVOLUCIÓN DE LOS PRECIOS BAJOS SÓLO ESTA SEMANA, ENCUENTRA TU DESCUENTO DE HASTA 8000€ OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 2399€ de descuento en este coche Precio oferta financiado: 17091€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 18800€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Navegador, Car Play, Ayuda aparcamiento, Encendido automático de faros, Sensor de lluvia, Faros de xenón, Faros traseros led, Asistente de cambio de carril, Asistente de mantenimiento de carril, Reconocimiento señales de tráfico, Start/Stop automático, Control de velocidad, Limitador de velocidad, Volante multifunción, Aire Acondicionado (Climatizador), Freno de estacionamiento eléctrico, Bluetooth, Llantas de aleación (18\"). - Coche Nacional, Historial Mantenimiento, Único propietario. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "136038 km",
+            "precio": 17091.0
+        },
+        {
+            "titulo": "Audi Q2 sport edition 1.4 TFSI CoD 110 kW (150 CV)",
+            "enlace": "https://es.wallapop.com/item/audi-q2-sport-edition-1-4-tfsi-cod-110-kw-150-cv-1086216343",
+            "descripcion": "Precio oferta sujeto a financiación: 17091 EUR. Precio al contado: 18800 EUR. *GET* LLEGA LA REVOLUPLUS A OCASIONPLUS LA REVOLUCIÓN DE LOS PRECIOS BAJOS SÓLO ESTA SEMANA, ENCUENTRA TU DESCUENTO DE HASTA 8000€ OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 2399€ de descuento en este coche Precio oferta financiado: 17091€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 18800€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Navegador, Car Play, Ayuda aparcamiento, Encendido automático de faros, Sensor de lluvia, Faros de xenón, Faros traseros led, Asistente de cambio de carril, Asistente de mantenimiento de carril, Reconocimiento señales de tráfico, Start/Stop automático, Control de velocidad, Limitador de velocidad, Volante multifunción, Aire Acondicionado (Climatizador), Freno de estacionamiento eléctrico, Bluetooth, Llantas de aleación (18\"). - Coche Nacional, Historial Mantenimiento, Único propietario. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "136038 km",
+            "precio": 17091.0
+        },
+        {
+            "titulo": "Audi Q2 sport edition 1.4 TFSI CoD 110 kW (150 CV)",
+            "enlace": "https://es.wallapop.com/item/audi-q2-sport-edition-1-4-tfsi-cod-110-kw-150-cv-1086200574",
+            "descripcion": "Precio oferta sujeto a financiación: 17091 EUR. Precio al contado: 18800 EUR. *GET* LLEGA LA REVOLUPLUS A OCASIONPLUS LA REVOLUCIÓN DE LOS PRECIOS BAJOS SÓLO ESTA SEMANA, ENCUENTRA TU DESCUENTO DE HASTA 8000€ OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 2399€ de descuento en este coche Precio oferta financiado: 17091€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 18800€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Navegador, Car Play, Ayuda aparcamiento, Encendido automático de faros, Sensor de lluvia, Faros de xenón, Faros traseros led, Asistente de cambio de carril, Asistente de mantenimiento de carril, Reconocimiento señales de tráfico, Start/Stop automático, Control de velocidad, Limitador de velocidad, Volante multifunción, Aire Acondicionado (Climatizador), Freno de estacionamiento eléctrico, Bluetooth, Llantas de aleación (18\"). - Coche Nacional, Historial Mantenimiento, Único propietario. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "136038 km",
+            "precio": 17091.0
+        },
+        {
+            "titulo": "Audi Q2 sport edition 1.4 TFSI CoD 110 kW (150 CV)",
+            "enlace": "https://es.wallapop.com/item/audi-q2-sport-edition-1-4-tfsi-cod-110-kw-150-cv-1085846368",
+            "descripcion": "Precio oferta sujeto a financiación: 17091 EUR. Precio al contado: 18800 EUR. *GET* OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 2399€ de descuento en este coche Precio oferta financiado: 17091€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 18800€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Navegador, Car Play, Ayuda aparcamiento, Encendido automático de faros, Sensor de lluvia, Faros de xenón, Faros traseros led, Asistente de cambio de carril, Asistente de mantenimiento de carril, Reconocimiento señales de tráfico, Start/Stop automático, Control de velocidad, Limitador de velocidad, Volante multifunción, Aire Acondicionado (Climatizador), Freno de estacionamiento eléctrico, Bluetooth, Llantas de aleación (18\"). - Coche Nacional, Historial Mantenimiento, Único propietario. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "136038 km",
+            "precio": 17091.0
+        },
+        {
+            "titulo": "Audi Q2 sport edition 1.4 TFSI CoD 110 kW (150 CV)",
+            "enlace": "https://es.wallapop.com/item/audi-q2-sport-edition-1-4-tfsi-cod-110-kw-150-cv-1081673669",
+            "descripcion": "Precio oferta sujeto a financiación: 17091 EUR. Precio al contado: 18800 EUR. *GET* LLEGA LA REVOLUPLUS A OCASIONPLUS LA REVOLUCIÓN DE LOS PRECIOS BAJOS SÓLO ESTA SEMANA, ENCUENTRA TU DESCUENTO DE HASTA 8000€ OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 2399€ de descuento en este coche Precio oferta financiado: 17091€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 18800€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Navegador, Car Play, Ayuda aparcamiento, Encendido automático de faros, Sensor de lluvia, Faros de xenón, Faros traseros led, Asistente de cambio de carril, Asistente de mantenimiento de carril, Reconocimiento señales de tráfico, Start/Stop automático, Control de velocidad, Limitador de velocidad, Volante multifunción, Aire Acondicionado (Climatizador), Freno de estacionamiento eléctrico, Bluetooth, Llantas de aleación (18\"). - Coche Nacional, Historial Mantenimiento, Único propietario. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "136038 km",
+            "precio": 17091.0
+        },
+        {
+            "titulo": "Audi Q2 sport edition 1.4 TFSI CoD 110 kW (150 CV)",
+            "enlace": "https://es.wallapop.com/item/audi-q2-sport-edition-1-4-tfsi-cod-110-kw-150-cv-1080590355",
+            "descripcion": "Precio oferta sujeto a financiación: 17091 EUR. Precio al contado: 18800 EUR. *GET* LLEGA LA REVOLUPLUS A OCASIONPLUS LA REVOLUCIÓN DE LOS PRECIOS BAJOS SÓLO ESTA SEMANA, ENCUENTRA TU DESCUENTO DE HASTA 8000€ OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 2399€ de descuento en este coche Precio oferta financiado: 17091€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 18800€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Navegador, Car Play, Ayuda aparcamiento, Encendido automático de faros, Sensor de lluvia, Faros de xenón, Faros traseros led, Asistente de cambio de carril, Asistente de mantenimiento de carril, Reconocimiento señales de tráfico, Start/Stop automático, Control de velocidad, Limitador de velocidad, Volante multifunción, Aire Acondicionado (Climatizador), Freno de estacionamiento eléctrico, Bluetooth, Llantas de aleación (18\"). - Coche Nacional, Historial Mantenimiento, Único propietario. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "136038 km",
+            "precio": 17091.0
+        },
+        {
+            "titulo": "Audi Q2 sport edition 1.4 TFSI CoD 110 kW (150 CV)",
+            "enlace": "https://es.wallapop.com/item/audi-q2-sport-edition-1-4-tfsi-cod-110-kw-150-cv-1081395786",
+            "descripcion": "Precio oferta sujeto a financiación: 17091 EUR. Precio al contado: 18800 EUR. *GET* LLEGA LA REVOLUPLUS A OCASIONPLUS LA REVOLUCIÓN DE LOS PRECIOS BAJOS SÓLO ESTA SEMANA, ENCUENTRA TU DESCUENTO DE HASTA 8000€ OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 2399€ de descuento en este coche Precio oferta financiado: 17091€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 18800€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Navegador, Car Play, Ayuda aparcamiento, Encendido automático de faros, Sensor de lluvia, Faros de xenón, Faros traseros led, Asistente de cambio de carril, Asistente de mantenimiento de carril, Reconocimiento señales de tráfico, Start/Stop automático, Control de velocidad, Limitador de velocidad, Volante multifunción, Aire Acondicionado (Climatizador), Freno de estacionamiento eléctrico, Bluetooth, Llantas de aleación (18\"). - Coche Nacional, Historial Mantenimiento, Único propietario. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "136038 km",
+            "precio": 17091.0
+        },
+        {
+            "titulo": "Audi Q2 sport edition 1.4 TFSI CoD 110 kW (150 CV)",
+            "enlace": "https://es.wallapop.com/item/audi-q2-sport-edition-1-4-tfsi-cod-110-kw-150-cv-1081136445",
+            "descripcion": "Precio oferta sujeto a financiación: 17091 EUR. Precio al contado: 18800 EUR. *GET* LLEGA LA REVOLUPLUS A OCASIONPLUS LA REVOLUCIÓN DE LOS PRECIOS BAJOS SÓLO ESTA SEMANA, ENCUENTRA TU DESCUENTO DE HASTA 8000€ OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 2399€ de descuento en este coche Precio oferta financiado: 17091€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 18800€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Navegador, Car Play, Ayuda aparcamiento, Encendido automático de faros, Sensor de lluvia, Faros de xenón, Faros traseros led, Asistente de cambio de carril, Asistente de mantenimiento de carril, Reconocimiento señales de tráfico, Start/Stop automático, Control de velocidad, Limitador de velocidad, Volante multifunción, Aire Acondicionado (Climatizador), Freno de estacionamiento eléctrico, Bluetooth, Llantas de aleación (18\"). - Coche Nacional, Historial Mantenimiento, Único propietario. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "136038 km",
+            "precio": 17091.0
+        },
+        {
+            "titulo": "Audi Q2 sport edition 1.4 TFSI CoD 110 kW (150 CV)",
+            "enlace": "https://es.wallapop.com/item/audi-q2-sport-edition-1-4-tfsi-cod-110-kw-150-cv-1081396733",
+            "descripcion": "Precio oferta sujeto a financiación: 17091 EUR. Precio al contado: 18800 EUR. *GET* LLEGA LA REVOLUPLUS A OCASIONPLUS LA REVOLUCIÓN DE LOS PRECIOS BAJOS SÓLO ESTA SEMANA, ENCUENTRA TU DESCUENTO DE HASTA 8000€ OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 2399€ de descuento en este coche Precio oferta financiado: 17091€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 18800€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Navegador, Car Play, Ayuda aparcamiento, Encendido automático de faros, Sensor de lluvia, Faros de xenón, Faros traseros led, Asistente de cambio de carril, Asistente de mantenimiento de carril, Reconocimiento señales de tráfico, Start/Stop automático, Control de velocidad, Limitador de velocidad, Volante multifunción, Aire Acondicionado (Climatizador), Freno de estacionamiento eléctrico, Bluetooth, Llantas de aleación (18\"). - Coche Nacional, Historial Mantenimiento, Único propietario. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "136038 km",
+            "precio": 17091.0
+        },
+        {
+            "titulo": "Audi Q2 sport edition 1.4 TFSI CoD 110 kW (150 CV)",
+            "enlace": "https://es.wallapop.com/item/audi-q2-sport-edition-1-4-tfsi-cod-110-kw-150-cv-1081135023",
+            "descripcion": "Precio oferta sujeto a financiación: 17091 EUR. Precio al contado: 18800 EUR. *GET* LLEGA LA REVOLUPLUS A OCASIONPLUS LA REVOLUCIÓN DE LOS PRECIOS BAJOS SÓLO ESTA SEMANA, ENCUENTRA TU DESCUENTO DE HASTA 8000€ OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 2399€ de descuento en este coche Precio oferta financiado: 17091€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 18800€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Navegador, Car Play, Ayuda aparcamiento, Encendido automático de faros, Sensor de lluvia, Faros de xenón, Faros traseros led, Asistente de cambio de carril, Asistente de mantenimiento de carril, Reconocimiento señales de tráfico, Start/Stop automático, Control de velocidad, Limitador de velocidad, Volante multifunción, Aire Acondicionado (Climatizador), Freno de estacionamiento eléctrico, Bluetooth, Llantas de aleación (18\"). - Coche Nacional, Historial Mantenimiento, Único propietario. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "136038 km",
+            "precio": 17091.0
+        },
+        {
+            "titulo": "Audi Q2 sport edition 1.4 TFSI CoD 110 kW (150 CV)",
+            "enlace": "https://es.wallapop.com/item/audi-q2-sport-edition-1-4-tfsi-cod-110-kw-150-cv-1081394965",
+            "descripcion": "Precio oferta sujeto a financiación: 17091 EUR. Precio al contado: 18800 EUR. *GET* LLEGA LA REVOLUPLUS A OCASIONPLUS LA REVOLUCIÓN DE LOS PRECIOS BAJOS SÓLO ESTA SEMANA, ENCUENTRA TU DESCUENTO DE HASTA 8000€ OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 2399€ de descuento en este coche Precio oferta financiado: 17091€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 18800€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Navegador, Car Play, Ayuda aparcamiento, Encendido automático de faros, Sensor de lluvia, Faros de xenón, Faros traseros led, Asistente de cambio de carril, Asistente de mantenimiento de carril, Reconocimiento señales de tráfico, Start/Stop automático, Control de velocidad, Limitador de velocidad, Volante multifunción, Aire Acondicionado (Climatizador), Freno de estacionamiento eléctrico, Bluetooth, Llantas de aleación (18\"). - Coche Nacional, Historial Mantenimiento, Único propietario. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "136038 km",
+            "precio": 17091.0
+        },
+        {
+            "titulo": "Audi Q2 sport edition 1.4 TFSI CoD 110 kW (150 CV)",
+            "enlace": "https://es.wallapop.com/item/audi-q2-sport-edition-1-4-tfsi-cod-110-kw-150-cv-1081671531",
+            "descripcion": "Precio oferta sujeto a financiación: 17091 EUR. Precio al contado: 18800 EUR. *GET* LLEGA LA REVOLUPLUS A OCASIONPLUS LA REVOLUCIÓN DE LOS PRECIOS BAJOS SÓLO ESTA SEMANA, ENCUENTRA TU DESCUENTO DE HASTA 8000€ OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 2399€ de descuento en este coche Precio oferta financiado: 17091€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 18800€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Navegador, Car Play, Ayuda aparcamiento, Encendido automático de faros, Sensor de lluvia, Faros de xenón, Faros traseros led, Asistente de cambio de carril, Asistente de mantenimiento de carril, Reconocimiento señales de tráfico, Start/Stop automático, Control de velocidad, Limitador de velocidad, Volante multifunción, Aire Acondicionado (Climatizador), Freno de estacionamiento eléctrico, Bluetooth, Llantas de aleación (18\"). - Coche Nacional, Historial Mantenimiento, Único propietario. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "136038 km",
+            "precio": 17091.0
+        },
+        {
+            "titulo": "Audi Q2 sport edition 1.4 TFSI CoD 110 kW (150 CV)",
+            "enlace": "https://es.wallapop.com/item/audi-q2-sport-edition-1-4-tfsi-cod-110-kw-150-cv-1074162922",
+            "descripcion": "Precio oferta sujeto a financiación: 17091 EUR. Precio al contado: 18800 EUR. *GET* OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 2399€ de descuento en este coche Precio oferta financiado: 17091€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 18800€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Navegador, Car Play, Ayuda aparcamiento, Encendido automático de faros, Sensor de lluvia, Faros de xenón, Faros traseros led, Asistente de cambio de carril, Asistente de mantenimiento de carril, Reconocimiento señales de tráfico, Start/Stop automático, Control de velocidad, Limitador de velocidad, Volante multifunción, Aire Acondicionado (Climatizador), Freno de estacionamiento eléctrico, Bluetooth, Llantas de aleación (18\"). - Coche Nacional, Historial Mantenimiento, Único propietario. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "136038 km",
+            "precio": 17091.0
+        },
+        {
+            "titulo": "Audi Q2 sport edition 1.4 TFSI CoD 110 kW (150 CV)",
+            "enlace": "https://es.wallapop.com/item/audi-q2-sport-edition-1-4-tfsi-cod-110-kw-150-cv-1081137964",
+            "descripcion": "Precio oferta sujeto a financiación: 17091 EUR. Precio al contado: 18800 EUR. *GET* LLEGA LA REVOLUPLUS A OCASIONPLUS LA REVOLUCIÓN DE LOS PRECIOS BAJOS SÓLO ESTA SEMANA, ENCUENTRA TU DESCUENTO DE HASTA 8000€ OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 2399€ de descuento en este coche Precio oferta financiado: 17091€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 18800€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Navegador, Car Play, Ayuda aparcamiento, Encendido automático de faros, Sensor de lluvia, Faros de xenón, Faros traseros led, Asistente de cambio de carril, Asistente de mantenimiento de carril, Reconocimiento señales de tráfico, Start/Stop automático, Control de velocidad, Limitador de velocidad, Volante multifunción, Aire Acondicionado (Climatizador), Freno de estacionamiento eléctrico, Bluetooth, Llantas de aleación (18\"). - Coche Nacional, Historial Mantenimiento, Único propietario. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "136038 km",
+            "precio": 17091.0
+        },
+        {
+            "titulo": "Audi Q2 sport edition 1.4 TFSI CoD 110 kW (150 CV)",
+            "enlace": "https://es.wallapop.com/item/audi-q2-sport-edition-1-4-tfsi-cod-110-kw-150-cv-1080408333",
+            "descripcion": "Precio oferta sujeto a financiación: 17091 EUR. Precio al contado: 18800 EUR. *GET* LLEGA LA REVOLUPLUS A OCASIONPLUS LA REVOLUCIÓN DE LOS PRECIOS BAJOS SÓLO ESTA SEMANA, ENCUENTRA TU DESCUENTO DE HASTA 8000€ OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 2399€ de descuento en este coche Precio oferta financiado: 17091€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 18800€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Navegador, Car Play, Ayuda aparcamiento, Encendido automático de faros, Sensor de lluvia, Faros de xenón, Faros traseros led, Asistente de cambio de carril, Asistente de mantenimiento de carril, Reconocimiento señales de tráfico, Start/Stop automático, Control de velocidad, Limitador de velocidad, Volante multifunción, Aire Acondicionado (Climatizador), Freno de estacionamiento eléctrico, Bluetooth, Llantas de aleación (18\"). - Coche Nacional, Historial Mantenimiento, Único propietario. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "136038 km",
+            "precio": 17091.0
+        },
+        {
+            "titulo": "Audi Q2 design ed 1.4 TFSI 110kW (150CV) CoD",
+            "enlace": "https://es.wallapop.com/item/audi-q2-design-ed-1-4-tfsi-110kw-150cv-cod-1092751855",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "113965 km",
+            "precio": 16990.0
+        },
+        {
+            "titulo": "Audi Q2 design ed 1.4 TFSI 110kW (150CV) CoD",
+            "enlace": "https://es.wallapop.com/item/audi-q2-design-ed-1-4-tfsi-110kw-150cv-cod-1092894697",
+            "descripcion": "Precio al contado: 19.690€ (IVA incluido) *** Precio alternativo oferta de financiacion: 16.990€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Vigo, Estrada Camposancos, 107, 36213 Vigo, Pontevedra. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vila...",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "113965 km",
+            "precio": 16990.0
+        },
+        {
+            "titulo": "Audi Q2 design ed 1.4 TFSI 110kW (150CV) CoD",
+            "enlace": "https://es.wallapop.com/item/audi-q2-design-ed-1-4-tfsi-110kw-150cv-cod-1092872603",
+            "descripcion": "Precio al contado: 19.690€ (IVA incluido) *** Precio alternativo oferta de financiacion: 16.990€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Vigo, Estrada Camposancos, 107, 36213 Vigo, Pontevedra. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vila...",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "113965 km",
+            "precio": 16990.0
+        },
+        {
+            "titulo": "Audi Q2 design ed 1.4 TFSI 110kW (150CV) CoD",
+            "enlace": "https://es.wallapop.com/item/audi-q2-design-ed-1-4-tfsi-110kw-150cv-cod-1092885771",
+            "descripcion": "Precio al contado: 19.690€ (IVA incluido) *** Precio alternativo oferta de financiacion: 16.990€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Vigo, Estrada Camposancos, 107, 36213 Vigo, Pontevedra. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vila...",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "113965 km",
+            "precio": 16990.0
+        },
+        {
+            "titulo": "Audi Q2 design ed 1.4 TFSI 110kW (150CV) CoD",
+            "enlace": "https://es.wallapop.com/item/audi-q2-design-ed-1-4-tfsi-110kw-150cv-cod-1092815988",
+            "descripcion": "Precio al contado: 19.690€ (IVA incluido) *** Precio alternativo oferta de financiacion: 16.990€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Vigo, Estrada Camposancos, 107, 36213 Vigo, Pontevedra. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vila...",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "113965 km",
+            "precio": 16990.0
+        },
+        {
+            "titulo": "Audi Q2 design ed 1.4 TFSI 110kW (150CV) CoD",
+            "enlace": "https://es.wallapop.com/item/audi-q2-design-ed-1-4-tfsi-110kw-150cv-cod-1092720714",
+            "descripcion": "Precio al contado: 19.690€ (IVA incluido) *** Precio alternativo oferta de financiacion: 16.990€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Vigo, Estrada Camposancos, 107, 36213 Vigo, Pontevedra. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vila...",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "113965 km",
+            "precio": 16990.0
+        },
+        {
+            "titulo": "Audi Q2 design ed 1.4 TFSI 110kW (150CV) CoD",
+            "enlace": "https://es.wallapop.com/item/audi-q2-design-ed-1-4-tfsi-110kw-150cv-cod-1092850405",
+            "descripcion": "Precio al contado: 19.690€ (IVA incluido) *** Precio alternativo oferta de financiacion: 16.990€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Vigo, Estrada Camposancos, 107, 36213 Vigo, Pontevedra. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vila...",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "113965 km",
+            "precio": 16990.0
+        },
+        {
+            "titulo": "Audi Q2 design ed 1.4 TFSI 110kW (150CV) CoD",
+            "enlace": "https://es.wallapop.com/item/audi-q2-design-ed-1-4-tfsi-110kw-150cv-cod-1092862736",
+            "descripcion": "Precio al contado: 19.690€ (IVA incluido) *** Precio alternativo oferta de financiacion: 16.990€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Vigo, Estrada Camposancos, 107, 36213 Vigo, Pontevedra. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vila...",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "113965 km",
+            "precio": 16990.0
+        },
+        {
+            "titulo": "Audi Q2 design ed 1.4 TFSI 110kW (150CV) CoD",
+            "enlace": "https://es.wallapop.com/item/audi-q2-design-ed-1-4-tfsi-110kw-150cv-cod-1092811463",
+            "descripcion": "Precio al contado: 19.690€ (IVA incluido) *** Precio alternativo oferta de financiacion: 16.990€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Vigo, Estrada Camposancos, 107, 36213 Vigo, Pontevedra. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vila...",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "113965 km",
+            "precio": 16990.0
+        },
+        {
+            "titulo": "Audi Q2 design ed 1.4 TFSI 110kW (150CV) CoD",
+            "enlace": "https://es.wallapop.com/item/audi-q2-design-ed-1-4-tfsi-110kw-150cv-cod-1092829183",
+            "descripcion": "Precio al contado: 19.690€ (IVA incluido) *** Precio alternativo oferta de financiacion: 16.990€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Vigo, Estrada Camposancos, 107, 36213 Vigo, Pontevedra. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vila...",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "113965 km",
+            "precio": 16990.0
+        },
+        {
+            "titulo": "Audi Q2 design ed 1.4 TFSI 110kW (150CV) CoD",
+            "enlace": "https://es.wallapop.com/item/audi-q2-design-ed-1-4-tfsi-110kw-150cv-cod-1092780298",
+            "descripcion": "Precio al contado: 19.690€ (IVA incluido) *** Precio alternativo oferta de financiacion: 16.990€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar Vigo, Estrada Camposancos, 107, 36213 Vigo, Pontevedra. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Manresa, Cabrera de Mar, Viladecans, Reus, Vila...",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "113965 km",
+            "precio": 16990.0
         }
     ]
 }
