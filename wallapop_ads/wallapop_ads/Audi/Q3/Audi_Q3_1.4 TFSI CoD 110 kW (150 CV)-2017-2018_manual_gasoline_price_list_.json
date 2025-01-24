@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 9000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,13 +18,13 @@
         "potencia máxima": 150,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=150&min_year=2017&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=Q3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=150&min_year=2017&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Audi&model=Q3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
             "titulo": "Audi Q3 2018",
             "enlace": "https://es.wallapop.com/item/audi-q3-2018-1081911225",
-            "descripcion": "",
+            "descripcion": "AUDI Q3 AUTOMATICO STRONIC DE 150 CV ALTO DE GAMA EN EXCELENTE ESTADO Y TODAS LAS REVISIONES AL DIA TOTALMENTE REVISADO, NAVEGADOR, XENON, PORTON ELECTRICO, ETC... AÑO 2018. ETIQUETA AMBIENTAL C SE ADMITE PRUEBA MECANICA SIN COMPROMISO GARANTIA 12 MESES CONSULTAR CONDICIONES O AMPLIACION DE INFORMACION. SE ATIENDE BAJO CITA PREVIA OPCION DE FINANCIACION Y ENTREGA DE SU ACTUAL VEHICULO ATENDEMOS BAJO CITA PREVIA WE SPEAK ENGLISH",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "150 cv",
@@ -42,6 +42,28 @@
             "año": "2017",
             "kilómetros": "116000 km",
             "precio": 22600.0
+        },
+        {
+            "titulo": "Audi Q3 sport",
+            "enlace": "https://es.wallapop.com/item/audi-q3-sport-1084831314",
+            "descripcion": "REF: 9081 ¡Bari Motor! el vehículo que buscas te esta esperando. Tu nuevo vehículo lo puedes encontrar en Barbera de Valles en el centro comercial Baricentro. ¡Llámanos o ven a conocernos! - Financiación 100% en el acto y adaptada a tu medida. - Concertar cita previa para probarlo. - Déjanos tu coche como parte de pago. - Vehículos revisados y con garantía de 12 meses con cobertura nacional. (Vehículos industriales 6 meses). - Nuestro horario es de L-V: 10:00 a 14:00 y de 16:00 a 20:00 | Sábados : 10:00 a 13:30. - Disponemos de parking para clientes ubicado en el parking 4 y 7 del centro comercial. Compra online o ven a la mayor exposición de coches en el centro comercial Baricentro en Barbera del Valles Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "130500 km",
+            "precio": 19990.0
+        },
+        {
+            "titulo": "Audi Q3 sport",
+            "enlace": "https://es.wallapop.com/item/audi-q3-sport-1064704700",
+            "descripcion": "REF: 9081 ¡Bari Motor! el vehículo que buscas te esta esperando. Tu nuevo vehículo lo puedes encontrar en Barbera de Valles en el centro comercial Baricentro. ¡Llámanos o ven a conocernos! - Financiación 100% en el acto y adaptada a tu medida. - Concertar cita previa para probarlo. - Déjanos tu coche como parte de pago. - Vehículos revisados y con garantía de 12 meses con cobertura nacional. (Vehículos industriales 6 meses). - Nuestro horario es de L-V: 10:00 a 14:00 y de 16:00 a 20:00 | Sábados : 10:00 a 13:30. - Disponemos de parking para clientes ubicado en el parking 4 y 7 del centro comercial. Compra online o ven a la mayor exposición de coches en el centro comercial Baricentro en Barbera del Valles Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2017",
+            "kilómetros": "130500 km",
+            "precio": 19990.0
         },
         {
             "titulo": "Audi Q3 1.4 TFSI sport Euro-Norm 6 2015",

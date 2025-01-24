@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 9000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 150,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=150&min_year=2013&max_year=2014&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Audi&model=Q5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=150&min_year=2013&max_year=2014&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Audi&model=Q5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -66,7 +66,7 @@
             "precio": 19900.0
         },
         {
-            "titulo": "Audi Q5 2014",
+            "titulo": "Audi Q5",
             "enlace": "https://es.wallapop.com/item/audi-q5-2014-807364921",
             "descripcion": "vehículo en perfectísimo estado tanto por dentro como por fuera siempre garaje individual..revisión completa recién hecha pantalla profesional de radio Android llantas 19",
             "combustible": "Diésel",
@@ -163,17 +163,6 @@
             "año": "2014",
             "kilómetros": "15000 km",
             "precio": 17000.0
-        },
-        {
-            "titulo": "Audi Q5 2013",
-            "enlace": "https://es.wallapop.com/item/audi-q5-2013-1066961610",
-            "descripcion": "Vendo Audi Q5 2.0TDI Quattro nacional UNICO DUEÑO con historial de mantenimiento y mucho extras automático luz diurna faros full led pilotos LED pantalla sensores de aparcamiento, velocidad de crucero, limitador, volante, multifunción, luces automática, espejos eléctricos y llantas aluminio ordenador abordo sensor de lluvia..... MAS DE 120 VEHÍCULOS Y TALLER PROPIO!!! terrano montero land Cruiser hilux golf leon passat gti megane passat audi a3 a4 a5 a6 a7 bmw 320 330 gashqai ix35 tucson sportage tiguan berlingo q7 x3 x1 ×5 audi *Este anuncio puede contener algún error",
-            "combustible": "Diésel",
-            "cambio": "Manual",
-            "potencia": "150 cv",
-            "año": "2013",
-            "kilómetros": "170000 km",
-            "precio": 15999.0
         },
         {
             "titulo": "Audi Q5 2014",

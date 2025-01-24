@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "Q5",
+        "version": "hybrid quattro 2.0 TFSI tiptronic 8 vel. Advance",
+        "año mínimo": 2012,
+        "año máximo": 2014,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "electric-hybrid",
+        "potencia máxima": 245,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=electric-hybrid&min_horse_power=1&max_horse_power=245&min_year=2012&max_year=2014&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Audi&model=Q5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi Q5 2012",
+            "enlace": "https://es.wallapop.com/item/audi-q5-2012-1019303831",
+            "descripcion": "Audi Q5 Hybrid con cambio S Tronic automático de 8 velocidades y distintivo medioambiental ECO! Nacional y con tan sólo 134.000km. Potente híbrido con motor gasolina y eléctrico. Muy económico. Equipado con: - Faros bixenon automáticos - ⁠Techo panorámico de cristal - ⁠Equipo de sonido Bang & Olufsen - ⁠Parktronic - ⁠Audi MMI - ⁠Modo EV - ⁠Interior de cuero y alcántara Y muchísimo más Se entrega listo para usar y con hasta 12 meses de garantía. Financiamos a su medida sin nómina ni aval. Éste anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual.",
+            "combustible": "Eléctrico",
+            "cambio": "Automático",
+            "potencia": "245 cv",
+            "año": "2012",
+            "kilómetros": "134000 km",
+            "precio": 19900.0
+        },
+        {
+            "titulo": "Audi Q5 2014 HIBRYDO NO ENCHUFABLE",
+            "enlace": "https://es.wallapop.com/item/audi-q5-2014-1040653540",
+            "descripcion": "TODOS LOS EXTRAS SLINE , QUATTRO ETIQUETA ECO, 255cv ,NAVEGADOR, CAMARA, CUERO, SENSORES, LUCES LED, CRISTALES TINTADOS ETC..TODO MANTENIMIENTO ECHO A SU TIEMPO, CAJA DE CAMBIOS RECIEN REVISADA Y CAMBIADO ACEITE Y FILTRO ORIGINAL DE LA CAJA DE CAMBIOS AUTOMATICA.ESTA COMO NUEVO LO CUIDE A CAPRICHO. PERFECTO. ETQUETA ECO 8 VELOCIDADES",
+            "combustible": "Eléctrico",
+            "cambio": "Automático",
+            "potencia": "245 cv",
+            "año": "2014",
+            "kilómetros": "191200 km",
+            "precio": 18500.0
+        }
+    ]
+}

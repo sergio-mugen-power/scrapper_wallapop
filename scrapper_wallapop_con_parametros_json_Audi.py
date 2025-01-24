@@ -251,7 +251,7 @@ def get_wallapop_car_data(driver,min_year, max_year, min_km, max_km, min_sale_pr
 min_km = 2007
 max_km = 300000
 min_sale_price = 1
-max_sale_price = 90000
+max_sale_price = 9000000
 #keywords = ""  # Palabra clave externa
 #gearbox_types = ['automatic', 'manual']
 #engine_types = ['gasoline','gasoil','electric-hybrid','others']
@@ -264,7 +264,7 @@ min_horsepower = 1
 base_directory = 'parameters_scrapper'
 for subdir, _, files in os.walk(base_directory):
     for file in files:
-        if file.endswith('.json') and file.startswith('Audi_A8'):
+        if file.endswith('.json') and file.startswith('Audi_TT'):
             file_path = os.path.join(subdir, file)
             with open(file_path, 'r', encoding='utf-8') as json_file:
                 data = json.load(json_file)

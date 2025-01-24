@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "R8",
+        "version": "V10 FSI quattro S tronic",
+        "año mínimo": 2018,
+        "año máximo": 2022,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 570,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=570&min_year=2018&max_year=2022&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000000&gearbox=automatic&brand=Audi&model=R8&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi R8 SPYDER V10 12/2021",
+            "enlace": "https://es.wallapop.com/item/audi-r8-2021-1033914499",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "540 cv",
+            "año": "2021",
+            "kilómetros": "19500 km",
+            "precio": 145600.0
+        },
+        {
+            "titulo": "Audi R8 V10 - UNICO DUEÑO - 26MIL KM - NACIONAL",
+            "enlace": "https://es.wallapop.com/item/audi-r8-2019-1072427163",
+            "descripcion": "Audi R8 V10 Nacional con tan solo 26,500km certificados - 2 llaves - Revisión recién realizada en concesionario oficial ( Se aporta factura ) - Garantía oficial 1 hasta 03/2025 - Itv para 2 años hasta 03/2026 - Neumáticos recién cambiados Vehículo en impecable estado TOTAL con el máximo equipamiento -Frenos carbo cerámicos -Llantas 20´´ -Molduras interiores de carbono -Molduras zona motor carbono ( 4800€ de extra ) -Sistema de sonido bang olufsen -Sistema de carga de móvil inalámbrico -Apertura y arranque sin llave (Keyless go) -Tapizado de techo en terciopelo -Salpicadero con cuero ampliado -Sistema de escape deportivo -Modo performante con botón en el volante -Volante de cuero perforado -Faros laser -Asientos eléctricos y calefactables con ajustes de lumbar y laterales -Botones de apertura de garaje Para mas información contactar con el vendedor. Aceptamos vehiculo como parte de pago . Huracan , Ferrari 488 , Mclaren, clase G , M8, Gts, etc",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "540 cv",
+            "año": "2019",
+            "kilómetros": "26000 km",
+            "precio": 134990.0
+        },
+        {
+            "titulo": "Audi R8 Coupé V10 FSI quattro S tronic ",
+            "enlace": "https://es.wallapop.com/item/mercedes-clase-g-g-63-amg-designo-1069296826",
+            "descripcion": "Audi R8 Coupe V10 FSI quattro S tronic 131.490€ CONTADO Financialo 100x100 sin entrada y a tu medida con las condiciones de TREND CARS . Cambio de titularidad NO incluida en el precio ( 390€ ) EDICION LIMITARDA / SERVICIO COMPLETO EN AUDI / ESCAPE DEPORTIVO / PAQUETE DE CARBONO / SISTEMA DE SONIDO NAG OLUFSEN / APPLE CARPLEY / ASISTENTE PUNTOS CIEGOS / SISTEMA LAVAFAROS / FAROS ANTINIEBLA / ESPEJO INTERIOR CON OSCURECIMIENTO AUTOMATICO / CABINA DIGITAL / CARGA POR INDUCCION DE TELEFONOS / VOLANTE MULTIFUNCION DEPORTIVO CON LEVAS / SENSOR DE LLUVIA / SISTEMA DE NAVEGACION / ASISTENTE ABANDONO CARRIL / SISTEMA KEYLESS GO / CONTROL DE PRESION NEUMATICOS / PUNTOS DE ANLCAJE ISOFIX . ¡RESERVALO! Puedes hacer BIZUM directamente y de forma segura en WWW.TRENDCARS. ES TRENDCARS. es CONFIANZA / CALIDAD / GARANTIA ¿Buscas un trato personalizado, un servicio postventa eficaz de CONFIANZA y para tu TRANQUILIDAD? TODOS nuestros coches estan revisados / Con certificado de KMS y AUSENCIA de Golpes (DEKRA) GARANTIA 12 meses, ampliable a 36 meses para cualquier taller de Espana Este anuncio no es vinculante se muestra a titulo informativo. puede contener errores...",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "540 cv",
+            "año": "2020",
+            "kilómetros": "88200 km",
+            "precio": 131490.0
+        }
+    ]
+}

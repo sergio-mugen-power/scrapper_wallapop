@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 9000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 116,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=116&min_year=2017&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=Audi&model=Q2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=116&min_year=2017&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Audi&model=Q2&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -57,7 +57,7 @@
         {
             "titulo": "Audi Q2 GASOLINA AUTOMATICO IVA DEDUCIBLE MARBELLA",
             "enlace": "https://es.wallapop.com/item/audi-q2-gasolina-automatico-dic-2018-en-marbella-1067223701",
-            "descripcion": "FANTASTICO AUDI Q2 GASOLINA AUTOMATICO 116CV 114.600KMS DICIEMBRE 2018 19.990€ (IVA DEDUCIBLE PARA EM PRESAS O AUTONOMOS) ETIQUETA C, ITV EN VIGOR. EXCELENTE ESTADO, TODOS SUS MANTENIMIENTOS AL DIA. LIBRO DE REVISIONES PARA MAS INFORMACION CONTACTAR. EL COCHE ESTA EN MARBELLA.",
+            "descripcion": "",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "116 cv",
@@ -145,7 +145,7 @@
         {
             "titulo": "Audi Q2 design edition 1.0 TFSI ultra 85 kW (116 CV) S tronic",
             "enlace": "https://es.wallapop.com/item/audi-q2-design-edition-1-0-tfsi-ultra-85-kw-116-cv-s-tronic-1085817812",
-            "descripcion": "Precio oferta sujeto a financiación: 18091 EUR. Precio al contado: 19900 EUR. *MOS2* LLEGA LA REVOLUPLUS A OCASIONPLUS LA REVOLUCIÓN DE LOS PRECIOS BAJOS SÓLO ESTA SEMANA, ENCUENTRA TU DESCUENTO DE HASTA 8000€ OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 3199€ de descuento en este coche Precio oferta financiado: 18091€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 19900€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Car Play, Ayuda aparcamiento, Navegador, Encendido automático de faros, Start/Stop automático, Sensor de lluvia, Limitador de velocidad, Volante multifunción, Aire Acondicionado (Climatizador), Isofix, Bluetooth, Freno de estacionamiento eléctrico, Llantas de aleación (18\"). - Coche Nacional. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
+            "descripcion": "Precio oferta sujeto a financiación: 18091 EUR. Precio al contado: 19900 EUR. *MOS2* OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 3199€ de descuento en este coche Precio oferta financiado: 18091€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 19900€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Car Play, Ayuda aparcamiento, Navegador, Encendido automático de faros, Start/Stop automático, Sensor de lluvia, Limitador de velocidad, Volante multifunción, Aire Acondicionado (Climatizador), Isofix, Bluetooth, Freno de estacionamiento eléctrico, Llantas de aleación (18\"). - Coche Nacional. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
             "combustible": "Gasolina",
             "cambio": "Automático",
             "potencia": "116 cv",
@@ -460,83 +460,6 @@
             "año": "2018",
             "kilómetros": "100040 km",
             "precio": 16990.0
-        },
-        {
-            "titulo": "Audi Q2 #untaggable ed 1.0 TFSI 85kW ultra S tro",
-            "enlace": "https://es.wallapop.com/item/audi-q2-untaggable-ed-1-0-tfsi-85kw-ultra-s-tro-1091682359",
-            "descripcion": "Precio al contado: 18.490€ (IVA incluido) *** Precio alternativo oferta de financiacion: 15.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar San Sebastian de los Reyes, Av. Camino de lo Cortao, 37c, 28703 San Sebastian de los Reyes, Madrid. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Man...",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "116 cv",
-            "año": "2018",
-            "kilómetros": "100739 km",
-            "precio": 15490.0
-        },
-        {
-            "titulo": "Audi Q2 #untaggable ed 1.0 TFSI 85kW ultra S tro",
-            "enlace": "https://es.wallapop.com/item/audi-q2-untaggable-ed-1-0-tfsi-85kw-ultra-s-tro-1091588790",
-            "descripcion": "Precio al contado: 18.490€ (IVA incluido) *** Precio alternativo oferta de financiacion: 15.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar San Sebastian de los Reyes, Av. Camino de lo Cortao, 37c, 28703 San Sebastian de los Reyes, Madrid. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Man...",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "116 cv",
-            "año": "2018",
-            "kilómetros": "100739 km",
-            "precio": 15490.0
-        },
-        {
-            "titulo": "Audi Q2 #untaggable ed 1.0 TFSI 85kW ultra S tro",
-            "enlace": "https://es.wallapop.com/item/audi-q2-untaggable-ed-1-0-tfsi-85kw-ultra-s-tro-1090528695",
-            "descripcion": "Precio al contado: 18.490€ (IVA incluido) *** Precio alternativo oferta de financiacion: 15.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar San Sebastian de los Reyes, Av. Camino de lo Cortao, 37c, 28703 San Sebastian de los Reyes, Madrid. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Man...",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "116 cv",
-            "año": "2018",
-            "kilómetros": "100739 km",
-            "precio": 15490.0
-        },
-        {
-            "titulo": "Audi Q2 #untaggable ed 1.0 TFSI 85kW ultra S tro",
-            "enlace": "https://es.wallapop.com/item/audi-q2-untaggable-ed-1-0-tfsi-85kw-ultra-s-tro-1066103887",
-            "descripcion": "Precio al contado: 18.490€ (IVA incluido) *** Precio alternativo oferta de financiacion: 15.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar San Sebastian de los Reyes, Av. Camino de lo Cortao, 37c, 28703 San Sebastian de los Reyes, Madrid. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Man...",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "116 cv",
-            "año": "2018",
-            "kilómetros": "100739 km",
-            "precio": 15490.0
-        },
-        {
-            "titulo": "Audi Q2 #untaggable ed 1.0 TFSI 85kW ultra S tro",
-            "enlace": "https://es.wallapop.com/item/audi-q2-untaggable-ed-1-0-tfsi-85kw-ultra-s-tro-1063802329",
-            "descripcion": "Precio al contado: 18.490€ (IVA incluido) *** Precio alternativo oferta de financiacion: 15.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar San Sebastian de los Reyes, Av. Camino de lo Cortao, 37c, 28703 San Sebastian de los Reyes, Madrid. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Man...",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "116 cv",
-            "año": "2018",
-            "kilómetros": "100739 km",
-            "precio": 15490.0
-        },
-        {
-            "titulo": "Audi Q2 #untaggable ed 1.0 TFSI 85kW ultra S tro",
-            "enlace": "https://es.wallapop.com/item/audi-q2-untaggable-ed-1-0-tfsi-85kw-ultra-s-tro-1066103888",
-            "descripcion": "Precio al contado: 18.490€ (IVA incluido) *** Precio alternativo oferta de financiacion: 15.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar San Sebastian de los Reyes, Av. Camino de lo Cortao, 37c, 28703 San Sebastian de los Reyes, Madrid. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Man...",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "116 cv",
-            "año": "2018",
-            "kilómetros": "100739 km",
-            "precio": 15490.0
-        },
-        {
-            "titulo": "Audi Q2 #untaggable ed 1.0 TFSI 85kW ultra S tro",
-            "enlace": "https://es.wallapop.com/item/audi-q2-untaggable-ed-1-0-tfsi-85kw-ultra-s-tro-1066103885",
-            "descripcion": "Precio al contado: 18.490€ (IVA incluido) *** Precio alternativo oferta de financiacion: 15.490€ (IVA incluido) financiando el 100% del importe (consulta condiciones especificas de la promocion, sujeto a condiciones de financiacion de las entidades colaboradoras). *** Comprar o vender tu coche en flexicar.es puede ser muy facil, igual demasiado. Flexicar, muy flexi muchos cars. *** Con mas de 140 concesionarios y mas de 15.000 vehiculos en stock, ¡somos el grupo lider del sector en vehiculos de ocasion! *** Vehiculo disponible en nuestro concesionario Flexicar San Sebastian de los Reyes, Av. Camino de lo Cortao, 37c, 28703 San Sebastian de los Reyes, Madrid. Te lo enviamos a cualquier punto de la peninsula y Baleares. Entrega a domicilio. Si tu coche tiene menos de 8 anos o lo entregas como parte de pago, tienes asegurada la mejor tasacion del mercado. Tasalo ahora en flexicar.es. *** La propuesta integral de Flexicar incluye: -Todos los tramites vinculados a la compra. -Seguro en todas sus modalidades. -Garantia Flexicar Premium. -Financiacion del 100% del importe. *** HORARIO ATENCION TELEFONICA: Lunes a Sabado: 9:00 - 20:30. Domingos: 10:00 - 14:00 y 16:30 - 20:30. *** Encuentra tu vehiculo km 0, seminuevo o de ocasion en la mayor red de concesionarios de Espana. ¡VEN A VISITARNOS! *** HORARIO DE APERTURA: Lunes a Sabado: 9:30 - 20:30. *** 21 concesionarios en Madrid: 2 centros en Alcorcon, 2 centros en Rivas Vaciamadrid, Alcala de Henares, Alcobendas, Aravaca, Collado Villalba, Colmenar Viejo, Pinto, Coslada, Fuenlabrada, Getafe-Fuenlabrada, Las Rozas, Avenida de Andalucia, Alcala 474, Leganes, Mostoles, San Fernando de Henares, San Jose de Valderas y San Sebastian de los Reyes. *** 27 concesionarios en Cataluna: 2 centros en Badalona, 3 centros en Sabadell, 2 centros en Tarragona, Esplugues de Llobregat, Figueres, Gava, Girona, Granollers, Hospitalet de Llobregat, Lleida, Mataro, Sant Just, Sant Boi, Cornella, La Maquinista, Vic, Green Barcelona, Man...",
-            "combustible": "Gasolina",
-            "cambio": "Automático",
-            "potencia": "116 cv",
-            "año": "2018",
-            "kilómetros": "100739 km",
-            "precio": 15490.0
         }
     ]
 }

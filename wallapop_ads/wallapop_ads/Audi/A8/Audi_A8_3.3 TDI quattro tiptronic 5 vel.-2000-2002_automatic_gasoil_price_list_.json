@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "A8",
+        "version": "3.3 TDI quattro tiptronic 5 vel.",
+        "año mínimo": 2000,
+        "año máximo": 2002,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 900000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 224,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=224&min_year=2000&max_year=2002&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=900000&gearbox=automatic&brand=Audi&model=A8&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi A8 2002",
+            "enlace": "https://es.wallapop.com/item/audi-a8-2002-1071329552",
+            "descripcion": "Se vende AUDI A8 seminuevo con todos los extras de su tiempo tiene las 4 ruedas nuevas es tracción total permanente,doble climatizados,cambio automático,llantas aluminio,4 elevalunas eléctricos motor 2.5 de 180 cv con mínimo consumo lo mejor es verlo y probarlo el precio se podría negociar algo después de verlo",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "180 cv",
+            "año": "2002",
+            "kilómetros": "177000 km",
+            "precio": 5950.0
+        },
+        {
+            "titulo": "Audi A8 2000",
+            "enlace": "https://es.wallapop.com/item/audi-a8-2000-1091315303",
+            "descripcion": "Extras: Elevalunas eléctricos a las 4 ventanillas, cierre centralizado, espejos retrovisores eléctricos, faros de lupa, llantas de aluminio, asientos eléctricos, velocidad de crucero, climatizador bizona, apoyabrazos, posa bebidas, ventanillas traseras y cristal trasero con cortinillas abatibles, cuelga camisetas, alarma anti robos, control de estabilidad, ordenador a bordo, dirección asistida, radio cd, aux, usb, bluetooth, frenos abs, volante regulable, itv recién pasada, etc...",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "2000",
+            "kilómetros": "179000 km",
+            "precio": 4500.0
+        },
+        {
+            "titulo": "Audi A8 2002",
+            "enlace": "https://es.wallapop.com/item/audi-a8-2002-1075192435",
+            "descripcion": "Se vende completo para Despiece o para reparar salto un diente de la distribución, tiene las ruedas nuevas, turbo nuevo con 10mil km, brazos de suspensión nuevos, y caja de cambios con sus mantenimientos realizados",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "180 cv",
+            "año": "2002",
+            "kilómetros": "280000 km",
+            "precio": 1800.0
+        }
+    ]
+}

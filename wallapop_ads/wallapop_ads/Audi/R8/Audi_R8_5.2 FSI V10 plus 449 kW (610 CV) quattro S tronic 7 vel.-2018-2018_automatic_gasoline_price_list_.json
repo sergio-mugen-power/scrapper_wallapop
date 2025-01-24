@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Audi",
+        "modelo": "R8",
+        "version": "5.2 FSI V10 plus 449 kW (610 CV) quattro S tronic 7 vel.",
+        "año mínimo": 2018,
+        "año máximo": 2018,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 610,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=610&min_year=2018&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000000&gearbox=automatic&brand=Audi&model=R8&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Audi R8 Spyder AUDI EXCLUSIVE",
+            "enlace": "https://es.wallapop.com/item/audi-r8-spyder-audi-exclusive-1011693880",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "610 cv",
+            "año": "2018",
+            "kilómetros": "49000 km",
+            "precio": 144990.0
+        },
+        {
+            "titulo": "AUDI R8 SPYDER PLUS 5.2 FSI V10",
+            "enlace": "https://es.wallapop.com/item/audi-r8-spyder-plus-976430096",
+            "descripcion": "VEHÍCULO DEL 2018 DISPONIBLE PARA ENTREGA INMEDIATA R8 V10 PLUS SPYDER CON CARBONO EXTERIOR -Paquete exterior en fibra de carbono completo (retrovisores, difusor delantero y trasero, aletas laterales...) -Intermitentes de accionamiento dinámico -Faros inteligentes LED MATRIX con AUDI láser -Frenos carbono-cerámicos con pinzas grises -Escape deportivo con botón de apertura o cierre de válvulas -Sistema de sonido Bang and Olufsen Surround -Asientos eléctricos regulables con costuras en color rojo y diseño de rombos -Asientos calefactables -Cámara de visión trasera con sensores de aparcamiento delanteros y traseros -Capota de lona negra eléctrica retráctil -Volante multifunción en cuero negro achatado con levas para el cambio -Botón de encendido -Keyless Go (acceso y arranque sin llave) -Molduras de fibra de carbono en interior -Conexión para APPLE CAR PLAY -Sistema de carga inalámbrica para teléfono móvil -Home Link (mando universal a distancia) -- OFERTA ICONIC MOTOR GALLERY: 129.900€ -- SÍGUENOS EN INSTAGRAM ! @ICONICMOTORGALLERY Para más información, contacta con nosotros !",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "610 cv",
+            "año": "2018",
+            "kilómetros": "60000 km",
+            "precio": 123900.0
+        },
+        {
+            "titulo": "AUDI R8 Coupé 5.2 FSI V10 plus 449 kW (610 CV) quattro S tronic",
+            "enlace": "https://es.wallapop.com/item/audi-r8-coupe-5-2-fsi-v10-plus-449-kw-610-cv-quattro-s-tronic-1078905177",
+            "descripcion": "En venta AUDI R8 V10 PLUS 610 CV...... Impecable estado general, VEHICULO DE UN SOLO PROPIETARIO....... Revisado completamente, TODO EL HISTORIAL EN AUDI..... ADMITO PRUEBA PARA VERIFICAR SU ESTADO Y ENTREGO BASTIDOR PARA CUALQUIER CONSULTA...... Muy equipado, PACK CARBONO, FRENOS CERAMICOS, ESCAPE CON APERTURA DE VALVULAS, LLANTA 20, NAVEGADOR, CAMARA TRASERA, SONIFO B&O, CUERO, ASIENTOS ELECTRICOS, CALEFACTABLES, FAROS MATRIX, ETC..... Visite nuestras instalaciones sin compromiso, amplio stock de vehiculos disponibles revisados y garantizado, ENVIOS TODA EUROPA........",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "610 cv",
+            "año": "2018",
+            "kilómetros": "60000 km",
+            "precio": 119900.0
+        }
+    ]
+}
