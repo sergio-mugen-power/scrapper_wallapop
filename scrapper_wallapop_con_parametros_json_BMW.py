@@ -262,17 +262,25 @@ longitude = -3.892771
 min_horsepower = 1
 #max_horsepower = 1000
 base_directory = 'parameters_scrapper'
+def safe_int(value, default):
+    """
+    Intenta convertir `value` a entero. Si falla, devuelve `default`.
+    """
+    try:
+        return int(value)
+    except (ValueError, TypeError):
+        return default
 for subdir, _, files in os.walk(base_directory):
     for file in files:
-        if file.endswith('.json') and file.startswith('BMW_Serie 3_318'):
+        if file.endswith('.json') and file.startswith('BMW'):
             file_path = os.path.join(subdir, file)
             with open(file_path, 'r', encoding='utf-8') as json_file:
                 data = json.load(json_file)
                 brand = data.get('brand', '')
                 model = data.get('model', '')
-                min_year = int(data.get('start_year', '1940'))
-                max_year = int(data.get('end_year', '2025'))
-                max_horsepower = int(data.get('potencia', '1000'))
+                min_year = safe_int(data.get('start_year', '1940'))
+                max_year = safe_int(data.get('end_year', '2025'))
+                max_horsepower = safe_int(data.get('potencia', '1000'))
                 keywords = data.get('version_name', '')
                 gearbox_types = data.get('gearbox_type', ['automatic', 'manual'])
                 engine_types = data.get('fuel_type', ['gasoline','gasoil','electric-hybrid','others'])
