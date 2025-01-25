@@ -105,7 +105,7 @@ def process_version(version, brand, model, output_path):
 
         # Guardar la versión como JSON
         with open(file_path, 'w', encoding='utf-8') as out_file:
-            json.dump(version_data, out_file, indent=4)
+            json.dump(version_data, out_file, indent=4, ensure_ascii=False)
 
         print(f"Guardado: {file_path}")
     except Exception as e:

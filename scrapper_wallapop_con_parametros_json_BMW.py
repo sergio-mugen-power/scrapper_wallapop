@@ -262,7 +262,7 @@ longitude = -3.892771
 min_horsepower = 1
 #max_horsepower = 1000
 base_directory = 'parameters_scrapper'
-def safe_int(value, default):
+def safe_int(value, default=1940):
     """
     Intenta convertir `value` a entero. Si falla, devuelve `default`.
     """
