@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Serie 4",
+        "version": "420i Cabrio",
+        "año mínimo": 2017,
+        "año máximo": 2018,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 184,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=184&min_year=2017&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=BMW&model=Serie 4&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW Serie 4 2017",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-4-2017-723682222",
+            "descripcion": "BMW 420i coupé. 184 cv matriculado en septiembre de 2017 Manual, 6 velocidades Etiqueta ambiental C 70000 km Paquete luxury Asientos cuero Dakota y revestimiento madera nogal Asientos con reglaje eléctrico y memoria Llantas 18\" recién reparadas Neumáticos traseros cambiados a los 50000 km",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "184 cv",
+            "año": "2017",
+            "kilómetros": "70000 km",
+            "precio": 30000.0
+        }
+    ]
+}

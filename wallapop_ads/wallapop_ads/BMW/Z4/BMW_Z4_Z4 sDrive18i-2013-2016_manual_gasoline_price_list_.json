@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Z4",
+        "version": "Z4 sDrive18i",
+        "año mínimo": 2013,
+        "año máximo": 2016,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 156,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=156&min_year=2013&max_year=2016&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=BMW&model=Z4&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW Z4 2016",
+            "enlace": "https://es.wallapop.com/item/bmw-z4-2016-1067653449",
+            "descripcion": "BMW Z4 matriculado en el 2016, en perfectas condiciones. El vehículo cuenta con solamente 70300 km. Para más información o visita, llame al +34 688972911",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "156 cv",
+            "año": "2016",
+            "kilómetros": "70300 km",
+            "precio": 24500.0
+        },
+        {
+            "titulo": "BMW Z4 2015",
+            "enlace": "https://es.wallapop.com/item/bmw-z4-2015-885970145",
+            "descripcion": "Espectacular BMW Z4 en un estado perfecto. Se puede ver y probar sin compromiso. Cualquier duda consultar.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "156 cv",
+            "año": "2015",
+            "kilómetros": "145000 km",
+            "precio": 22000.0
+        },
+        {
+            "titulo": "BMW Z4 Sdrive 18i 2014",
+            "enlace": "https://es.wallapop.com/item/bmw-z4-sdrive-18i-2014-1089484731",
+            "descripcion": "Vendo este Z4 que he importado yo mismo de belgica hace menos de 2 años. Va muy bien y no tiene problemas.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "156 cv",
+            "año": "2014",
+            "kilómetros": "148000 km",
+            "precio": 17000.0
+        }
+    ]
+}

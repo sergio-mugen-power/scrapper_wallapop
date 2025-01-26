@@ -1,0 +1,80 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Z3",
+        "version": "Z3 3.0i Coupé Aut.",
+        "año mínimo": 2000,
+        "año máximo": 2003,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 231,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=231&min_year=2000&max_year=2003&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Z3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW Z3 2.8i ",
+            "enlace": "https://es.wallapop.com/item/bmw-z3-2-8-aut-193-cv-1060192119",
+            "descripcion": "BMW Z3 2.8 Automático (2000) - 83.000 km, excelente estado Pongo a la venta mi BMW Z3 2.8 del año 2000, con solo 83.000 km, un kilometraje muy por debajo de lo habitual en el mercado. El coche ha sido mantenido meticulosamente, lo que se refleja en su impecable estado exterior, interior y mecánico. Características destacadas: - Motor: 2.8L de 193 CV, con una excelente respuesta y rendimiento. - Kilometraje: 83.000 km, muy bajo para un coche de estas características. - Equipamiento deportivo: - Muelles **AC Schnitzer** homologados en ficha, que mejoran el comportamiento dinámico y aportan un toque deportivo (incluyo los muelles originales). - Escape deportivo REMUS, que añade un sonido único y más carácter. - Asientos sport que ofrecen sujeción y comodidad. - Ordenador de abordo y control de velocidad para mejorar la experiencia en trayectos largos. - Radio con Bluetooth marca Continental, perfecta para disfrutar de música y llamadas. Cambio automático: El cambio automático es una opción menos común en un Z3, pero permite disfrutar de toda la potencia y deportividad del motor 2.8 sin sacrificar comodidad. Ideal para quienes buscan un equilibrio entre prestaciones deportivas y una conducción más relajada en ciudad o trayectos largos. Este Z3 combina la deportividad de su motor y modificaciones con un excelente estado de conservación. Es una oportunidad única para los amantes de este modelo icónico que valoran tanto el rendimiento como el confort.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "193 cv",
+            "año": "2000",
+            "kilómetros": "83000 km",
+            "precio": 16500.0
+        },
+        {
+            "titulo": "BMW Z3 2.8i Coupé ",
+            "enlace": "https://es.wallapop.com/item/bmw-z3-2000-1001042830",
+            "descripcion": "Se vende BMW Z3 2.8 Coupé, automático, doble vanos, solo 113.000 Km, demostrables, esta en perfecto estado de todo, de mecánica va a la perfección, perfecto de interiores, y neumáticos nuevos a estrenar. Etiqueta medioambiental B. Pintado de blanco por capricho. Alarma con mando y cierre. Regalo 4 llantas en 18\" en doble medida, con mucha garganta. Interesados puedo mandar mas fotos y video. No hago cambios, solo venta.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "193 cv",
+            "año": "2000",
+            "kilómetros": "113000 km",
+            "precio": 15900.0
+        },
+        {
+            "titulo": "BMW Z3 2000",
+            "enlace": "https://es.wallapop.com/item/bmw-z3-2000-1091262612",
+            "descripcion": "BAJADA DE PRECIO! Fantástico BMW Z3 Coupé 2.8i del 2000, por situación personal me tengo que despedir de esta joya, una oportunidad para cualquier entusiasta. Para más información contactar en el chat. Envío fotos y vídeos al WhatsApp +32498702005",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "193 cv",
+            "año": "2000",
+            "kilómetros": "227000 km",
+            "precio": 13500.0
+        },
+        {
+            "titulo": "BMW Z3 2001",
+            "enlace": "https://es.wallapop.com/item/bmw-z3-2001-1028129473",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2001",
+            "kilómetros": "117000 km",
+            "precio": 11900.0
+        },
+        {
+            "titulo": "BMW Z3 2000",
+            "enlace": "https://es.wallapop.com/item/bmw-z3-2000-1020036828",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "2000",
+            "kilómetros": "117000 km",
+            "precio": 11900.0
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "X6",
+        "version": "xDrive50i",
+        "año mínimo": 2014,
+        "año máximo": 2018,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 449,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=449&min_year=2014&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=X6&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW X6 2018 techo panorámico ",
+            "enlace": "https://es.wallapop.com/item/bmw-x6-2018-956578490",
+            "descripcion": "SOLO VENDO, no cambios",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "352 cv",
+            "año": "2018",
+            "kilómetros": "108500 km",
+            "precio": 39000.0
+        },
+        {
+            "titulo": "BMW X6 35is Mperformance 2015",
+            "enlace": "https://es.wallapop.com/item/bmw-x6-2015-1016326113",
+            "descripcion": "Coche muy cuidado Carrocería 120.000 km. Coche con prácticamente todos los extras, incluyendo bola de remolque, techo solar, paquete completo M equipo harman Kardon, sDRIVE, 4 modos de conducción, amortiguación de aire adaptativa, interior M, y muchos accesorios como camara fromtal 4k definicion y trasera HD y bateria backup de Blackvue , Race chip GTS Black 100+ HP, Race chip LXR listo para correr con comtrol app. Bimmercode app con acceso a codificar . espejos retrovisores y antena de carbono. llantas y neumaticos de 22 ‘ pulgadas . apple carplay y android coneccion . bola de remolque invisible especial con diferentes bolas y accesos a otros remolques.y otras cositas mas.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "400 cv",
+            "año": "2015",
+            "kilómetros": "120000 km",
+            "precio": 35000.0
+        }
+    ]
+}

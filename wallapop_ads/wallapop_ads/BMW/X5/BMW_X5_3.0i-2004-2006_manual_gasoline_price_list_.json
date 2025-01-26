@@ -1,0 +1,80 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "X5",
+        "version": "3.0i",
+        "año mínimo": 2004,
+        "año máximo": 2006,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 231,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=231&min_year=2004&max_year=2006&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=BMW&model=X5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW X5 2004",
+            "enlace": "https://es.wallapop.com/item/bmw-x5-2004-1074122736",
+            "descripcion": "Lo vendo porque quiero cambiar el coche, no entro mucho en la app porfavor interesado llamen por teléfono a este numero: 621440491 NO WHATSAPP",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "231 cv",
+            "año": "2004",
+            "kilómetros": "157000 km",
+            "precio": 15000.0
+        },
+        {
+            "titulo": "Vendo hermosa BMW X5 E53 2004",
+            "enlace": "https://es.wallapop.com/item/vendo-hermosa-bmw-x5-e53-2004-1058410368",
+            "descripcion": "Vendo bmw x5 E53 2004 con 231 caballos y 300 nm de torque. Con tansolo 178000 mil kilómetros. Cojineria de cuero en excelentes condiciones. Con una gran pantalla androi coche impecable de pintura. de motor sin ningúna perdida de fluidos. neumáticos nuevos marca hankook 4 estaciones. coche muy económico se puede ver sin compromiso",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "231 cv",
+            "año": "2004",
+            "kilómetros": "179000 km",
+            "precio": 8500.0
+        },
+        {
+            "titulo": "BMW X5 3.0i 231 Cv Manual",
+            "enlace": "https://es.wallapop.com/item/bmw-x5-2006-1091653033",
+            "descripcion": "Bmw x5 3.0i 231 Cv Manual Nacional Buen estado en general mantenimiento al dia itv en vigor Distintivo ambiental [C] Extras Asientos de cuero climatizador ordenador de a bordo llantas de aleación mejor ver estamos en arganda del rey calle Cabo de trafalgar con posibilidad de recoger su vehículo como parte de pago garantia opcional",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "231 cv",
+            "año": "2006",
+            "kilómetros": "180000 km",
+            "precio": 7990.0
+        },
+        {
+            "titulo": "BMW X5 2004",
+            "enlace": "https://es.wallapop.com/item/bmw-x5-2004-1090886287",
+            "descripcion": "Bmw x5. Motor 3.0i (el llamado motor irrompible). Interior en buen estado, de chapa algunos arañasitos y bollitos minimos(pero batante bien en general para su edad). Itv hasta agosto de 2025. Sellos y papeles al dia. Lleva 5 llantas iguales bmw. Vehiculo sin ningun fallo oculto. Es un coche muy robusto y fiable de conducir. Cambios de aceites y filtros realizados hace 4mil km. Lleva bateria nueva de hace menos de 1 año. Vehiculo manual(dificil de encontrar en estos modelos) Mejor ver y probar.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "231 cv",
+            "año": "2004",
+            "kilómetros": "202531 km",
+            "precio": 6480.0
+        },
+        {
+            "titulo": "BMW X5 2004",
+            "enlace": "https://es.wallapop.com/item/bmw-x5-2004-1089251827",
+            "descripcion": "BMW X5 3.0 I VEHÍCULO EN GESTIÓN DE VENTA. REVISADO CON LOS MANTENIMIETOS AL DIA. FACTURA DEL MANTENIMIENTO DEL CAMBIO. 150€ TRANSFERENCIA",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "231 cv",
+            "año": "2004",
+            "kilómetros": "240000 km",
+            "precio": 5895.0
+        }
+    ]
+}

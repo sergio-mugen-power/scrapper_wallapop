@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "X3",
+        "version": "2.5i Aut.",
+        "año mínimo": 2004,
+        "año máximo": 2006,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 192,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=192&min_year=2004&max_year=2006&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=X3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW X3 2006",
+            "enlace": "https://es.wallapop.com/item/bmw-x3-2006-1070315240",
+            "descripcion": "SE VENDE BMW X3 2.5i 192CV EN PERFECTAS CONDICIONES DE TODO EN GENERAL TIENE TODOS LOS EXTRAS POSIBLES DIRECCIÓN ASISTIDA CIERRE CENTRALIZADO CON MANDO A DISTANCIA ELEVALUNAS ELÉCTRICOS ALARMA ABS AIRBAG ORDENADOR DE ABORDO LLANTAS VOLANTE MULTIFUNCION RADIO CD PANTALLA TÁCTIL CON BLUETOOTH AUX ASIENTOS DE CUERO LUNAS TINTADAS DOBLE TECHO PANORÁMICO CONTROL CRUCERO RUEDAS AÚN 90% MOTOR POR CADENA 2 JUEGOS DE LLAVES ETIQUETA MEDIOAMBIENTAL TIPO (C) TIENE TODO EL MANTENIMIENTO ECHO AL DÍA INCLUIDO EL DE LA CAJA DE CAMBIO GARANTÍA OPCIONAL DE 12 MESES ACEPTO PRUEBA MECÁNICA TAMBIÉN ACEPTO COCHE COMO FORMA DE PAGO PARA MÁS INFORMACIÓN LLAMEN AL TELÉFONO",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "192 cv",
+            "año": "2006",
+            "kilómetros": "210000 km",
+            "precio": 6995.0
+        },
+        {
+            "titulo": "BMW X3 2004",
+            "enlace": "https://es.wallapop.com/item/bmw-x3-2004-1066978349",
+            "descripcion": "- Mantenimientos recien hechos (con factura) - Neumaticos delanteros nuevos (con factura) - Itv recien pasada (hasta Octubre 2025) - Techo panorámico - Control de crucero - Pegatina C",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "192 cv",
+            "año": "2004",
+            "kilómetros": "275000 km",
+            "precio": 5900.0
+        }
+    ]
+}

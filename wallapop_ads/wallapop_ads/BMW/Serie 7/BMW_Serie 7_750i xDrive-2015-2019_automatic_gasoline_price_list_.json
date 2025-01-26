@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Serie 7",
+        "version": "750i xDrive",
+        "año mínimo": 2015,
+        "año máximo": 2019,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 449,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=449&min_year=2015&max_year=2019&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 7&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW Serie 7 2018",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-7-2018-1042484945",
+            "descripcion": "Bmw 740 hibrido enchufable 326cv impecable OFRECEMOS TRASLADOS A TODA ESPAÑA, CONSULTA PRECIO -Pruébalo sin compromiso -Garantía mínima de 12 meses ampliable a 48 en CONCESIONARIO OFICIAL que elijas, consúltanos. -Garantizamos los vehículos con 100 puntos de revisión. Precio contado: 50890€ Precio financiado 49790€ (Consulte condiciones) Aceptamos su vehículo como parte de pago, tasación inmediata.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "326 cv",
+            "año": "2018",
+            "kilómetros": "56990 km",
+            "precio": 46890.0
+        },
+        {
+            "titulo": "BMW Serie 7 2018",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-7-2018-1059534571",
+            "descripcion": "!!!!ULTIMA OFERTA!!!! BMW matriculado en 2018. Segundo propietario. Etiqueta 0. !!!Motor a combustión y eléctrico enchufable. Cuenta con varios extras, diseño interior Pure Excellence, madera y cuero. Se vende por poco uso. No tengo prisa. Ningún golpe estructural ni embargo. Manteniemintos en BMW. Neumáticos Michelin 4 nuevos, pastillas y discos nuevos. Se puede dar matricula o VIN para un carfax si estas interesado. No mareantes. Si de verdad interesa se puede quedar y probar incluso llegar a negociar precio final.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "326 cv",
+            "año": "2018",
+            "kilómetros": "58000 km",
+            "precio": 45000.0
+        }
+    ]
+}

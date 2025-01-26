@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "X3",
+        "version": "xDrive18d",
+        "año mínimo": 2010,
+        "año máximo": 2010,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 143,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=143&min_year=2010&max_year=2010&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=BMW&model=X3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW X3 2010",
+            "enlace": "https://es.wallapop.com/item/bmw-x3-2010-1093886002",
+            "descripcion": "En perfecto estado Un solo propietario y comprado en BMW ITV 03/09. Año 2010 215.500 kilómetros",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "135 cv",
+            "año": "2010",
+            "kilómetros": "215500 km",
+            "precio": 20000.0
+        },
+        {
+            "titulo": "BMW X3 2010",
+            "enlace": "https://es.wallapop.com/item/bmw-x3-2010-1049538162",
+            "descripcion": "bmw x3 en buen estado itv en vigor 4x4 inteligente luz xenón en los 4 faros .... mas información pide whatsap acepto coche pequeño como parte de pago 👉",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "143 cv",
+            "año": "2010",
+            "kilómetros": "173000 km",
+            "precio": 8200.0
+        }
+    ]
+}
