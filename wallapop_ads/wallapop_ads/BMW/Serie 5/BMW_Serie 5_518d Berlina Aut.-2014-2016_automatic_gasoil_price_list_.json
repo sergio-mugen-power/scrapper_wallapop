@@ -1,0 +1,69 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Serie 5",
+        "version": "518d Berlina Aut.",
+        "año mínimo": 2014,
+        "año máximo": 2016,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 150,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=150&min_year=2014&max_year=2016&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW Serie 5 2015",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-2015-1001953260",
+            "descripcion": "BMW 518D en perfecto estado, se vendería PINTADO ENTERO y tiene todas las revisiones al día. Cualquier duda no dude en consultar.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "2015",
+            "kilómetros": "205000 km",
+            "precio": 14000.0
+        },
+        {
+            "titulo": "BMW Serie 5 2015",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-2015-996139455",
+            "descripcion": "Se puede ver sin compromiso. Para mas detalles no duden en preguntar. Los 4 neumáticos recién cambiados. La suspensión neumática nueva,con el compresor y balonas . Se puede llevar al taller oficial o de confianza, para poder mirarlo. Se vende por pasar a otro segmento. Un saludo.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "2015",
+            "kilómetros": "231724 km",
+            "precio": 13800.0
+        },
+        {
+            "titulo": "BMW Serie 5 2015",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-2015-1086576189",
+            "descripcion": "faros bixenon, cambio automatico 8 velocidades, porton trasero electrico, asientos electricos,4 neumaticos muevos, mas todos los extras de serie, consumo actual 5,6 ltros a los 100, va perfecto., mejor ver. motor b47 no el famoso n47. precio negocible",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "2015",
+            "kilómetros": "260000 km",
+            "precio": 11500.0
+        },
+        {
+            "titulo": "BMW Serie 5 2014",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-2014-1054181361",
+            "descripcion": "En el coche siempre en garaje en Bon estado revisión al día",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "2014",
+            "kilómetros": "230000 km",
+            "precio": 11500.0
+        }
+    ]
+}

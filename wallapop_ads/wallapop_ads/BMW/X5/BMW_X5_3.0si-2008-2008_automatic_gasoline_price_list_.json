@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "X5",
+        "version": "3.0si",
+        "año mínimo": 2008,
+        "año máximo": 2008,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 272,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=272&min_year=2008&max_year=2008&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=X5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW X5 2008",
+            "enlace": "https://es.wallapop.com/item/bmw-x5-2008-919837119",
+            "descripcion": "Se vende en perfecto estado con su revisión en la bmw, con su itv y 6 meses de garantía. También me interesa cambio por bmw gs 1200 y dinero.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "272 cv",
+            "año": "2008",
+            "kilómetros": "210000 km",
+            "precio": 14999.0
+        },
+        {
+            "titulo": "BMW X5 2008",
+            "enlace": "https://es.wallapop.com/item/bmw-x5-2008-1091292967",
+            "descripcion": "EL COCHE ESTA MUY BIEN CUIDADO PEGATINA C (VERDE) MOTOR 3.0 GASOLINA MUY FIABLE DISTRIBUCIÓN CON CADENA, 6 CILINDROS EN LINEA 4X4 PERMANENTE NEUMÁTICOS NUEVOS DE 4 TEMPORADAS INTERIOR COMO NUEVO SIN NADA DE DESGASTE ASIENTOS CONFORT+ CON MUCHAS FUNCIONES DE REGULACIONES EXTRA GPS, SENSORES DE APARCAMIENTO ITV AL DIA, MANTENIMIENTOS AL DIA TECHO PANORAMICO EL COCHE ESTA EN BARCELONA PARA MAS INFORMACIÓN ESCRÍBEME POR PRIVADO",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "272 cv",
+            "año": "2008",
+            "kilómetros": "172000 km",
+            "precio": 13800.0
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Serie 6",
+        "version": "635d Coupé",
+        "año mínimo": 2010,
+        "año máximo": 2010,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 286,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=286&min_year=2010&max_year=2010&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 6&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW Serie 6 2010",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-6-2010-1092501856",
+            "descripcion": "Perfecto estado, bixenon, navegador profesional, asientos eléctricos de cuero con memorias M.pdc, ruedas en perfecto estado, paquete deportivo M Thecnic exterior e interior. Admito cambio.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "286 cv",
+            "año": "2010",
+            "kilómetros": "199000 km",
+            "precio": 18900.0
+        },
+        {
+            "titulo": "BMW Serie 6 2010",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-6-2010-989082636",
+            "descripcion": "ruedas nuevas, bateria nueva, filtro de particulas. cuero granate. techo solar. volante de alcántara",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "286 cv",
+            "año": "2010",
+            "kilómetros": "130000 km",
+            "precio": 18490.0
+        }
+    ]
+}

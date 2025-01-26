@@ -1,0 +1,80 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Serie 7",
+        "version": "740dA",
+        "año mínimo": 2000,
+        "año máximo": 2001,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 245,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=245&min_year=2000&max_year=2001&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 7&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW Serie 7 ",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-7-2001-938748538",
+            "descripcion": "BMW 740D AUTOMÁTICO MATRICULADO EN ESPAÑA 2005 TODOS LOS EXTRAS DE LA ÉPOCA ACABADO SPORT ITV JUNIO 2024 245CV / 180KW MUY CUIDADO TODAS LAS REVISIONES HECHAS EN TALLER ESPECIALIZADO EN BMW",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "245 cv",
+            "año": "2001",
+            "kilómetros": "238000 km",
+            "precio": 13500.0
+        },
+        {
+            "titulo": "BMW Serie 7 2000",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-7-2000-e38-1046390202",
+            "descripcion": "Vendo bmw 730d e38 del año 2000, lleva 285.000kms pero a los 200k se hizo el motor entero, caja de cambios Steptronic hecha entera por TCMATIC - Pintado en azul electrico - Retapizado completo en cuero con logo bmw en asientos - Techo solar - Techo tapizado en alcántara - Parktronic - Asientos electricos, calefactables y funcion masaje - Cortina trasera eléctrica - Faros angel eyes El coche está hecho a capricho y duerme siempre en cochera privada. Precio algo negociable, abstenerse ofertas absurdas y mareantes. NO CAMBIOS, SOLO VENTA *SI PONE QUE NO CAMBIOS ES NO CAMBIOS, NO ME INTERESA NINGUN COCHE QUE TENGAS EN TU PERFIL*",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "184 cv",
+            "año": "2000",
+            "kilómetros": "285000 km",
+            "precio": 7000.0
+        },
+        {
+            "titulo": "BMW Serie 7 2001",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-7-2001-1027506899",
+            "descripcion": "BMW E38 RECIÉN PINTADO (ALUMINIO MATE) CAMBIO POR COCHE DE MI INTERÉS..GSI , GTI , TURBO, JAPONES ETC",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "193 cv",
+            "año": "2001",
+            "kilómetros": "22100 km",
+            "precio": 5200.0
+        },
+        {
+            "titulo": "BMW Serie 7 2001",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-7-2001-1086245269",
+            "descripcion": "Coche en magnífico estado, a toda prueba.Con muchos extras, mejor vez y probar.cualquier cosa por teléfono 670829869. preferiblemente llamadas no se negocia el precio por teléfono. Muy buen estado tanto interior como exterior.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "193 cv",
+            "año": "2001",
+            "kilómetros": "272500 km",
+            "precio": 4500.0
+        },
+        {
+            "titulo": "BMW Serie 7 2001",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-7-2001-1023453175",
+            "descripcion": "Despiece completo pregunta por pieza no se vende la carrocería Intercooler vendido ruedas vendidas para donante de swap motor 4.0 d V8 biturbo tiene muchas cosas nuevas suspensión nueva rotulas dirección nuevas brazos de suspensión nuevos Trapecios nuevos Cremallera de dirección nueva techo solar interior cuero negro completo buen estádo asientos eléctricos maletero eléctrico todos los extras faros modernos restyling asientos reclinables más información por privado BMW e38 E36 e30e39 x5",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "245 cv",
+            "año": "2001",
+            "kilómetros": "250000 km",
+            "precio": 10.0
+        }
+    ]
+}

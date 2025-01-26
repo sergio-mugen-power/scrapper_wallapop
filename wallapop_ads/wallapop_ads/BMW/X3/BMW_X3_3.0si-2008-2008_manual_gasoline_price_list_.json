@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "X3",
+        "version": "3.0si",
+        "año mínimo": 2008,
+        "año máximo": 2008,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 272,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=272&min_year=2008&max_year=2008&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=BMW&model=X3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW X3 2008 *PRECIO NEGOCIABLE*",
+            "enlace": "https://es.wallapop.com/item/bmw-x3-2008-1091580308",
+            "descripcion": "Se vende BMW X3 del 2008, gasolina, 92.700km 2.0 150cv. 2 llaves. Coche en perfecto estado, con ITV vigente hasta marzo de este mismo año. Se acepta cualquier prueba mecánica, última revisión en casa BMW oficial, cualquier duda o pregunta por mensaje privado. -X3 -2008 -2.0 -150cv -92.700km reales -Vehiculo nacional -Cierre centralizado -5 puertas -Ordenador a bordo -Neumáticos en buen estado -Interior impecable -Exterior pequeñas marcas de uso -Climatizador -Asientos de piel *PRECIO NEGOCIABLE* Escucho ofertas, acepto coches en cambio o como parte de pago.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "2008",
+            "kilómetros": "92700 km",
+            "precio": 11750.0
+        }
+    ]
+}

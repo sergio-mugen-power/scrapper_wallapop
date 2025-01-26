@@ -1,0 +1,69 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Serie 7",
+        "version": "745d",
+        "año mínimo": 2008,
+        "año máximo": 2008,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 329,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=329&min_year=2008&max_year=2008&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 7&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW Serie 7 2008",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-7-2008-1036792311",
+            "descripcion": "Se vende BMW 730D 245CV del año 2008 con 195.000km y caja de cambios automática en 16.800€ De equipamiento dispone de sensor de luces y lluvia,asientos confort eléctricos con memoria y calefactables,control y limitador de velocidad,comando por voz,arranque y acceso confort,clima bizona,sensores de aparcamiento y camera,3 modos de conducción,salpicadero de cuero y techo solar Aceite y filtros motor recien cambiados, mantenimiento de la caja al día,junta tapa balancines nuevas Posibilidad de entrega a domicilio y aceptamos vehículos como parte de pago ITV al día,el cambio de nombre incluido en el precio y 1 año garantia 610318205",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "245 cv",
+            "año": "2008",
+            "kilómetros": "195000 km",
+            "precio": 16800.0
+        },
+        {
+            "titulo": "BMW Serie 7 2008",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-7-2008-961477751",
+            "descripcion": "BMW 730D restayling etiqueta B resien pasada ITV sin faltas!! coche nacional col kilómetros reales y mantenimiento exhaustivo demostrable . Aceite de caja cambio automática se ha cambiado cada 80000km.aceite de motor cada 10000km.bateria nueva.pastillas de freno todas nuevas.puede probar sin compromiso.Acepto proba de cualquier taller.Se vendé por no utilizar.Solo venta.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "231 cv",
+            "año": "2008",
+            "kilómetros": "207236 km",
+            "precio": 11450.0
+        },
+        {
+            "titulo": "BMW Serie 7 2008",
+            "enlace": "https://es.wallapop.com/item/bmw-730d-2008-155-000km-1045712312",
+            "descripcion": "automatico, techo, parktronik, cuero, para mas informacion contactar",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "231 cv",
+            "año": "2008",
+            "kilómetros": "158000 km",
+            "precio": 11299.0
+        },
+        {
+            "titulo": "BMW Serie 7 2008",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-7-2008-1066507126",
+            "descripcion": "Se vende Precioso e impecable Bmw 730d motor diesel de 231cv automatico con levas del año 2008 con 300.000km esta en perfecto estado con todo el mantenimiento al dia e itv en vigor se aceptaria cualquier tipo de prueba Extras: asientos de piel electricos con memoria, navegador, telefono, control de crucero, volante multifuncion, levas, faros bi-xenon automaticos, sensores de lluvia y de parking, climatizador individual, cortinillas traseras electricas, ordenador de abordo, 3 llaves, neumaticos nuevos, llantas 18 pulgadas… Precio: 7.500€€ 642962003",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "231 cv",
+            "año": "2008",
+            "kilómetros": "300000 km",
+            "precio": 7500.0
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "X1",
+        "version": "xDrive25i",
+        "año mínimo": 2010,
+        "año máximo": 2011,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 218,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=218&min_year=2010&max_year=2011&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=X1&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW X1 2011",
+            "enlace": "https://es.wallapop.com/item/bmw-x1-2011-1055834278",
+            "descripcion": "Este coche de segunda mano SUV de combustible Gasolina, tiene un consumo urbano de 12.9l., consumo en carretera de 7.2l., y consumo combinado de 9.3l., tiene una potencia de / 280 Nm y una cilindrada de 2996 cc. Emisiones CO2 de217 (gr/km). Tipo de emisiones EU5. En el año 2011 este vehículo tenía un precio nuevo recién salido de fabrica sin descuento comercial de 41.821 € y se vende hoy por solo 12.999 €. Dispone de 5 plazas , contando además con Luz diurna, Volante multifunción, Control de tracción, Llantas de aleación, Llantas de aleación de 17\", Baca, Ordenador, Faros antiniebla, Aire Acondicionado, Climatizador, Airbag, Airbag para el acompañante, Airbag para el conductor, Airbags laterales, Frenos ABS antibloqueo, ESP, Dirección asistida, Elevalunas eléctrico, Cierre centralizado, CD, Reposabrazos central, Control remoto para cierre centralizado, Servodirección, Conexión eléctrica, Tracción a las cuatro ruedas, Isofix, Encendido automático de faros, Sensor de presión de neumáticos. Nº de cilindros: 6, En Línea, Cubicaje: 2.996 cm3, Potencia: 160 KW, Nº de marchas: 6, Velocidad máxima: 205 Km/h, Aceleración: 7.9 s., Cosumo mixto: 9.3 l/100 Km,",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "218 cv",
+            "año": "2011",
+            "kilómetros": "162000 km",
+            "precio": 12999.0
+        },
+        {
+            "titulo": "BMW X1 XDrive25i 2010",
+            "enlace": "https://es.wallapop.com/item/bmw-x1-xdrive25i-2010-1089719165",
+            "descripcion": "Se vende BMW X1 XDrive25i en perfecto estado. Características principales: - Discos y pastillas de freno nuevas - Asientos en cuero - Asientos calefactables - Techo panorámico - Sensores de aparcamiento - 4x4 - Automático - 2 llaves - ITV hasta diciembre de 2025 Se acepta prueba de conducción y revision mecanica",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "218 cv",
+            "año": "2010",
+            "kilómetros": "187000 km",
+            "precio": 12990.0
+        }
+    ]
+}

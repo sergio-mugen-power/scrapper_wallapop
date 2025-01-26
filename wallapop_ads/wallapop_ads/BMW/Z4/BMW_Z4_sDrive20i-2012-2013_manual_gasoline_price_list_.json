@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Z4",
+        "version": "sDrive20i",
+        "año mínimo": 2012,
+        "año máximo": 2013,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 184,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=184&min_year=2012&max_year=2013&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=BMW&model=Z4&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW Z4 2013 sDrive20i",
+            "enlace": "https://es.wallapop.com/item/bmw-z4-2013-sdrive20i-1082761569",
+            "descripcion": "Extras: - Asientos deportivos - Suspensión deportiva - Paquete earodinámico Muy cuidado, tengo esta preciosidad desde el 2021.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "184 cv",
+            "año": "2013",
+            "kilómetros": "130000 km",
+            "precio": 26000.0
+        },
+        {
+            "titulo": "BMW Z4 2012",
+            "enlace": "https://es.wallapop.com/item/bmw-z4-2012-1049813396",
+            "descripcion": "BMW E89 Z4 cabrio 184 cv gasolina impecable",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "184 cv",
+            "año": "2012",
+            "kilómetros": "140000 km",
+            "precio": 19500.0
+        },
+        {
+            "titulo": "BMW Z4 2013",
+            "enlace": "https://es.wallapop.com/item/bmw-z4-2-0i-impoluto-2013-1069165935",
+            "descripcion": "Destacado: Vehículo en perfecto estado, ITV al día (favorable), mantenimientos en casa oficial, kilómetros certificados, en estado óptimo de conservación, 2 llaves. El vehículo dispone de climatización bizona , volante deportivo de piel multifuncional, limitador y modo crucero, conexion a telefono movil, techo duro con opción de cabrio, retrovisores abatibles con ajuste eléctrico, asientos calefactables, sistema de audio profesional, tapicería en perfecto estado, reposavasos, sistema antirrobo, Radio bt/Cd/AUX/USB, ISOFIX, ordenador de abordo, pantalla multifuncion, modos de conduccion etc + info contacten sin compromiso Financiación completa con tu nomina. Garantía de 1 año en motor incluida.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "184 cv",
+            "año": "2013",
+            "kilómetros": "157000 km",
+            "precio": 17990.0
+        }
+    ]
+}

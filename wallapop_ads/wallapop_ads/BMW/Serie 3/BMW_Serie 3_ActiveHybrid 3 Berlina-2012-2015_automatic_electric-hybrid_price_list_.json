@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Serie 3",
+        "version": "ActiveHybrid 3 Berlina",
+        "año mínimo": 2012,
+        "año máximo": 2015,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "electric-hybrid",
+        "potencia máxima": 340,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=electric-hybrid&min_horse_power=1&max_horse_power=340&min_year=2012&max_year=2015&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW Serie 3 2014",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-3-2014-894844766",
+            "descripcion": "Coche impecable, totalmente nuevo. Para ficha técnica completay más fotos, pedir por chat privado.",
+            "combustible": "Eléctrico",
+            "cambio": "Automático",
+            "potencia": "340 cv",
+            "año": "2014",
+            "kilómetros": "78000 km",
+            "precio": 25000.0
+        },
+        {
+            "titulo": "BMW Serie 3 2013",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-3-2013-843792810",
+            "descripcion": "BMW 335i active Hybrid, único en el mercado de ocasión. Estado impecable,mantenido solo en la casa oficial,libro de revisiones. Muchísima potencia con un consumo reducido gracias al sistema active Hybrid. Todos los extras posibles para este modelo. Distronic,aviso de colisión,lectura de señales,levas volante,aviso salida de carril,head Up,cámara marcha atrás,parktronik delantero y trasero,coritana automática trasera,cortinas completas ventanillas traseras,llantas M,asientos memoria de cuero,boton sos, techo solar,luces largas automáticas etc etc . Etiqueta eco. Mejor ver y probar. Para mas información 677074235",
+            "combustible": "Eléctrico",
+            "cambio": "Automático",
+            "potencia": "340 cv",
+            "año": "2013",
+            "kilómetros": "175000 km",
+            "precio": 23500.0
+        }
+    ]
+}

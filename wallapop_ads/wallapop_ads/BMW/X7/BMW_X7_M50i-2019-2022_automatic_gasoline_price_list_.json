@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "X7",
+        "version": "M50i",
+        "año mínimo": 2019,
+        "año máximo": 2022,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 530,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=530&min_year=2019&max_year=2022&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=X7&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW X7 M50i 7Plazas FULL EQUIPE",
+            "enlace": "https://es.wallapop.com/item/bmw-x7-m50i-7plazas-full-equipe-1071453586",
+            "descripcion": "IVA Deducible. Vehículo de 7Plazas con un equipamiento completísimo, costando nuevo más de 174.000Euros. Suspensión neumática con barras estabilizadoras, techo solar panorámico Sky Lounge, tapicería de cuero Merino Individual ampliado, asientos eléctricos con memoria y masaje, faros Láser LED, asientos calefactados y ventilados, sistema de navegación, sistema de entretenimiento trasero con pantallas, cámara 360 junto con sensores de aparcamiento, Head Up Display con proyección en el parabrisas, equipo de sonido Bowers & Wilkins Diamond, climatizador de 5 zonas con volante y reposabrazos calefactados, alerta de salida involuntaria de carril y de vehículos en ángulo muerto, regulador de velocidad ADAPTATIVO, portón trasero eléctrico, retrovisores abatibles eléctricamente, visión nocturna, calefacción auxiliar, molduras interiores de madera Fineline Stripe, BMW Display Key, carga inalámbrica junto con Apple CarPlay, 4x4, lunas traseras tintadas, 4x4, pintura negro metalizado, llantas de aleación en 22, Bluetooth, conexión AUX y USB. +174.000EUR NUEVO, CONSULTAR LISTADO COMPLETO DE OPCIONALES.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "530 cv",
+            "año": "2019",
+            "kilómetros": "64360 km",
+            "precio": 81500.0
+        },
+        {
+            "titulo": "BMW X7 M50i 7Plazas FULL EQUIPE",
+            "enlace": "https://es.wallapop.com/item/bmw-x7-m50i-7plazas-full-equipe-1071454062",
+            "descripcion": "IVA Deducible. Vehículo de 7Plazas con un equipamiento completísimo, costando nuevo más de 174.000Euros. Suspensión neumática con barras estabilizadoras, techo solar panorámico Sky Lounge, tapicería de cuero Merino Individual ampliado, asientos eléctricos con memoria y masaje, faros Láser LED, asientos calefactados y ventilados, sistema de navegación, sistema de entretenimiento trasero con pantallas, cámara 360 junto con sensores de aparcamiento, Head Up Display con proyección en el parabrisas, equipo de sonido Bowers & Wilkins Diamond, climatizador de 5 zonas con volante y reposabrazos calefactados, alerta de salida involuntaria de carril y de vehículos en ángulo muerto, regulador de velocidad ADAPTATIVO, portón trasero eléctrico, retrovisores abatibles eléctricamente, visión nocturna, calefacción auxiliar, molduras interiores de madera Fineline Stripe, BMW Display Key, carga inalámbrica junto con Apple CarPlay, 4x4, lunas traseras tintadas, 4x4, pintura negro metalizado, llantas de aleación en 22, Bluetooth, conexión AUX y USB. +174.000EUR NUEVO, CONSULTAR LISTADO COMPLETO DE OPCIONALES.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "530 cv",
+            "año": "2019",
+            "kilómetros": "64360 km",
+            "precio": 81500.0
+        },
+        {
+            "titulo": "BMW X7 pack M",
+            "enlace": "https://es.wallapop.com/item/bmw-x7-pack-m-1077756707",
+            "descripcion": "BMW X7 4.0i Xdrive Vehículo de 7 plazas Pachete M interior/exterior Fecha matriculación 2019 Kilómetros 116.700 Potencia 340cv Asientos de cuero confort M Asientos refrigerados y calefactables con memoria Climatizador 7 zonas Salpicadero individual en cuero Sistema sonido bowers/wilkins Preparación CarPlay Head up display Reconocimiento señales tráfico Función de masaje conductor y acompañante Control por gestos Triple techó panorámico Puertas con soft closs Maletero eléctrico a botón Llave inteligente con display Llantas en 22 pulgadas Distronic plus Cortinillas ventanas laterales Asientos eléctricos parte trasera 7 asientos calefactables Soporte vasos calefactables y refrigerante Carga inalámbrica teléfono Cámara 360’grados Cuadro digital cokpit Compra tu vehículo con total Confianza -NOS respaldan más de 10 años de Actividad en el Sector de la Automoción -Garantía de 1 año a Nivel Nacional, con la tranquilidad de que te atenderemos en cualquier circunstancia. -El vehículo está revisado 360° en que se revisan más de 25 puntos de todo el vehículo. -Certificado de Kilometraje y Ausencia de Golpes Estructurales -Aceptamos vehículos como parte de pago -Financiación de hasta el 100% en el acto -Para más información, visitenos: c/albacete nr 1 Humanes de Madrid",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "340 cv",
+            "año": "2020",
+            "kilómetros": "119000 km",
+            "precio": 69990.0
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "X3",
+        "version": "xDrive35i",
+        "año mínimo": 2012,
+        "año máximo": 2014,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 306,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=306&min_year=2012&max_year=2014&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=X3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW X3 2012",
+            "enlace": "https://es.wallapop.com/item/bmw-x3-2012-1093130113",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "258 cv",
+            "año": "2012",
+            "kilómetros": "127000 km",
+            "precio": 17500.0
+        },
+        {
+            "titulo": "BMW X3 2012",
+            "enlace": "https://es.wallapop.com/item/bmw-x3-2012-1032502884",
+            "descripcion": "Vendo coche familiar BMW X3 2012 en excelentes condiciones. Comprado en Ucrania, en España desde hace 2 años. Tiene un recorrido de 268,000 km. No requiere inversiones ni reparaciones, revisado y bien cuidado. Divertido y con la máxima configuración. No ha sufrido daños ni ha sido pintado. Hay un pequeño detalle en el parabrisas. El coche es muy cómodo y presentable, hará las delicias de su nuevo propietario. Moderno y cómodo coche, tracción total, acceso sin llave, 2 llaves incluidas, elegante interior de cuero claro (no se ha fumado en el coche), calefacción en el volante y asientos, excelente sistema de sonido con soporte Bluetooth, etc.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "245 cv",
+            "año": "2012",
+            "kilómetros": "268000 km",
+            "precio": 12600.0
+        },
+        {
+            "titulo": "BMW X3 2012",
+            "enlace": "https://es.wallapop.com/item/bmw-x3-2012-1086704538",
+            "descripcion": "NO ARRANCA. MOTOR CLAVADO DESCONOCEMOS AVERIA Necesita taller mecanico. Coche con averia. Averiado. Roto. Full equipe. techo, head up diaplay, itv en vigor, 2 llaves, documentaciln al dia. IVA deducible need repair. broken engine. not working. Zona Ventas. Madrid",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "306 cv",
+            "año": "2012",
+            "kilómetros": "220000 km",
+            "precio": 11000.0
+        },
+        {
+            "titulo": "BMW X3 2013",
+            "enlace": "https://es.wallapop.com/item/bmw-x3-2013-1080924851",
+            "descripcion": "se vende bmw X3 automatico de 2013 con 260.000km motor cambiado con 160.000km coche esta en buen estado , muy confortable . ITV 05/25 . Mantenimiento esta hecho del coche . - a/c automatico de 2 zonas - sensores de apartamiento - piel - faros xenon - asientos electricos - y muchas extras precio negociable . 6 0 4 1 3 8 2 9 3",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "245 cv",
+            "año": "2013",
+            "kilómetros": "260000 km",
+            "precio": 10999.0
+        }
+    ]
+}

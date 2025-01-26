@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Serie 5",
+        "version": "518d Touring Aut.",
+        "año mínimo": 2013,
+        "año máximo": 2014,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 143,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=143&min_year=2013&max_year=2014&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW Serie 5 2013",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-2013-984439994",
+            "descripcion": "Bmw serie 5 2.000cc 143cv, automático, asientos calefactados, pantalla navegador profesional, sensores delanteros y traseros, bixenon, acceso confort sin llave, todos los mantenimientos hechos al día. Se puede probar y llevar a un taller sin problemas",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "143 cv",
+            "año": "2013",
+            "kilómetros": "276000 km",
+            "precio": 11900.0
+        }
+    ]
+}

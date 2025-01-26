@@ -1,0 +1,113 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "X3",
+        "version": "M",
+        "año mínimo": 2022,
+        "año máximo": 2024,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 480,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=480&min_year=2022&max_year=2024&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=X3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW X3 2023",
+            "enlace": "https://es.wallapop.com/item/bmw-x3-2023-1093648050",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "360 cv",
+            "año": "2023",
+            "kilómetros": "11000 km",
+            "precio": 79000.0
+        },
+        {
+            "titulo": "BMW X3 M40i",
+            "enlace": "https://es.wallapop.com/item/bmw-x3-m40i-1083074692",
+            "descripcion": "Bmw x3 M40i IMPECABLE re estreno Full extras Etiqueta mediambiental ECO OFRECEMOS TRASLADOS A TODA ESPAÑA, CONSULTA PRECIO -Pruébalo sin compromiso -Garantía mínima de 12 meses ampliable a 48 en CONCESIONARIO OFICIAL que elijas, consúltanos. -Garantizamos los vehículos con 100 puntos de revisión. Precio contado: 73890€ Precio financiado 72890€ (Consulte condiciones) Aceptamos su vehículo como parte de pago, tasación inmediata.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "360 cv",
+            "año": "2023",
+            "kilómetros": "26000 km",
+            "precio": 73890.0
+        },
+        {
+            "titulo": "BMW X3 M40i 360 5p",
+            "enlace": "https://es.wallapop.com/item/bmw-x3-m40i-360-5p-1073337365",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "360 cv",
+            "año": "2023",
+            "kilómetros": "25600 km",
+            "precio": 72890.0
+        },
+        {
+            "titulo": "BMW X3 M40i 360 5p",
+            "enlace": "https://es.wallapop.com/item/bmw-x3-m40i-360-5p-1073337326",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "360 cv",
+            "año": "2023",
+            "kilómetros": "25600 km",
+            "precio": 72890.0
+        },
+        {
+            "titulo": "BMW X3 2022",
+            "enlace": "https://es.wallapop.com/item/bmw-x3-2022-1061763643",
+            "descripcion": "Espectacular BMW X3 xdrive en inigualables condiciones. Para más información contacte con nosotros. Garantía y transferencia incluida en el precio. Gasolina+eléctrico.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "184 cv",
+            "año": "2022",
+            "kilómetros": "4246 km",
+            "precio": 58000.0
+        },
+        {
+            "titulo": "BMW X3 Xline30e M Sport",
+            "enlace": "https://es.wallapop.com/item/bmw-x3-xline30e-m-sport-1071205388",
+            "descripcion": "Bmw X3 xline30e M Sport 03/2022. Garantia hasta Febrero 2026 y Mantenimiento Bmw Oficial (pagado) hasta marzo 2027.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "292 cv",
+            "año": "2022",
+            "kilómetros": "38000 km",
+            "precio": 52500.0
+        },
+        {
+            "titulo": "BMW X3 xDrive20i 135 kW (184 CV)",
+            "enlace": "https://es.wallapop.com/item/bmw-x3-xdrive20i-135-kw-184-cv-1081133224",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "184 cv",
+            "año": "2022",
+            "kilómetros": "47831 km",
+            "precio": 38490.0
+        },
+        {
+            "titulo": "BMW X3 2023",
+            "enlace": "https://es.wallapop.com/item/bmw-x3-2023-1093850918",
+            "descripcion": "Viéndome BMW X3 nacional único dueño",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "184 cv",
+            "año": "2023",
+            "kilómetros": "7200 km",
+            "precio": 27500.0
+        }
+    ]
+}

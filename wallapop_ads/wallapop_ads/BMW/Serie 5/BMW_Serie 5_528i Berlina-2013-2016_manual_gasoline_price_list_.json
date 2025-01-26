@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Serie 5",
+        "version": "528i Berlina",
+        "año mínimo": 2013,
+        "año máximo": 2016,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 245,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=245&min_year=2013&max_year=2016&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=BMW&model=Serie 5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW SERIE 5 185CV+90.000KM+C+ GARANTÍA 1 AÑO",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-185cv-90-000km-garantia-1-ano-1079087919",
+            "descripcion": "HORARIO *LUNES A VIERNES 10:00 – 14:00 Y 16:00 – 20:00* *SÁBADOS 10:00 – 14:00* *ATENDEMOS CON CITA PREVIA PARA OFRECERTE EL MEJOR SERVICIO* PRUEBA TU COCHE DURANTE 15 DÍAS / 500 KM 12 MESES DE GARANTÍA EN MOTOR Y CAJA DE CAMBIOS INCLUIDA EN EL PRECIO *AMPLÍA TU GARANTÍA, LIBRE ELECCIÓN DE TALLER, COBERTURA NACIONAL Y HASTA 24 MESES DESDE 190€* FINANCIACIÓN SIN PAPELEO CON LOS MEJORES INTERESES DEL MERCADO DESDE 6.99 TIN BMW 5er 520i ESTE VEHÍCULO SE ENTREGA REVISADO Y CON TODOS LOS MANTENIMIENTOS NECESARIOS REALIZADOS POR NOSOTROS 96.165 KILÓMETROS REALES Y DEMOSTRABLES MATRICULADO EL 21.05.2013 , GASOLINA, 4 Puertas, 185 CV, ETIQUETA C MEDIO AMBIENTAL ITV HASTA 05/2025, MOTOR 2.0 CON 185 CV, TAN SOLO 96.165 KM, CAMBIO MANUAL 6 VELOCIDADES, CLIMATIZADOR BIZONA, ARRANQUE SIN LLAVE, SENSORES DE APARCAMIENTO, CONTROL DE VELOCIDAD. *GASTOS DE GESTIÓN NO INCLUIDOS LLÁMANOS Y RESUELVE TODAS TUS DUDAS. *Este anuncio puede contener errores*",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "184 cv",
+            "año": "2013",
+            "kilómetros": "90000 km",
+            "precio": 16499.0
+        }
+    ]
+}

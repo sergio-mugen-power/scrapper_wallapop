@@ -1,0 +1,80 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Serie 3",
+        "version": "320i xDrive Touring Aut.",
+        "año mínimo": 2013,
+        "año máximo": 2015,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 184,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=184&min_year=2013&max_year=2015&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW Serie 3 2013",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-3-2013-1081684381",
+            "descripcion": "Bmw 320i Automático, Cabrio en muy buen estado. Un solo dueño. Todas las revisiones en BMW.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2013",
+            "kilómetros": "105000 km",
+            "precio": 16900.0
+        },
+        {
+            "titulo": "BMW Serie 3 ",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-3-2013-1085050001",
+            "descripcion": "En perfecto estado acepto cualquier prueba mecanica 8 velocidades Servicio Oficial BMW Todos los filtros cambiados Etiqueta medioambiental ‘C’",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "184 cv",
+            "año": "2013",
+            "kilómetros": "195000 km",
+            "precio": 13900.0
+        },
+        {
+            "titulo": "BMW 320i Coupé (E92) 170cv | Deportivo y Elegante",
+            "enlace": "https://es.wallapop.com/item/bmw-320i-coupe-e92-170cv-deportivo-y-elegante-1064663333",
+            "descripcion": "BMW 320i Coupé (E92) 170cv – Deportivo y Elegante con Máxima Comodidad Descubre este BMW 320i coupé de 170cv, modelo E92, en perfecto estado. Con su motor gasolina, transmisión automática y características premium, es el coche ideal para quienes buscan deportividad y confort en cada trayecto. Detalles del vehículo: Motor: Gasolina 170cv, suave y eficiente Kilometraje: 166,000 km | Año: 2013 Transmisión: Automática de 6 velocidades, con cambios fluidos y precisos Etiqueta medioambiental: \"C\" (ideal para circular en zonas urbanas sin restricciones) Características destacadas: Navegador profesional: Incluye USB, Bluetooth y acceso a BMW Online para una conectividad avanzada y siempre actualizada Asientos mixtos de tela y cuero: Delanteros calefactables, ofreciendo estilo y comodidad en cualquier clima Sensores de aparcamiento PDC: Delanteros y traseros, para una asistencia completa al estacionar Sistema de sonido premium: Calidad de audio mejorada para disfrutar de cada trayecto Faros bi-xenón con luces diurnas LED: Iluminación segura y estilizada, adecuada para cualquier condición Control de crucero con limitador de velocidad: Perfecto para viajes largos y para un manejo seguro Climatizador bizona automático: Mantén la temperatura ideal en el habitáculo Detalles adicionales: Kilometraje certificado: Transparencia garantizada en cada detalle Garantía de 1 año: Para una compra con total tranquilidad Historial de mantenimiento disponible: Revisión y mantenimiento al día para asegurar una compra segura y confiable Condiciones de entrega: Coste de transferencia: 300€. Ofrecemos envío en cualquier punto de la península con un coste adicional razonable. ¡Contáctanos para más detalles y descubre el BMW 320i que has estado buscando!",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2013",
+            "kilómetros": "166000 km",
+            "precio": 13200.0
+        },
+        {
+            "titulo": "BMW Serie 3 2014",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-3-2014-1044706487",
+            "descripcion": "muy cuidado. cuatro neumáticos recien puestos. aceite y filtro recién cambiados",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "184 cv",
+            "año": "2014",
+            "kilómetros": "198000 km",
+            "precio": 10950.0
+        },
+        {
+            "titulo": "BMW 320i 184cv etiqueta C",
+            "enlace": "https://es.wallapop.com/item/bmw-320i-184cv-etiqueta-c-1085480834",
+            "descripcion": "Coche en muy buen estado general y cuidado, motor twin-turbo. Revisiones al dia, cubiertas nuevas y cambio de aceite hecho. Acabado sport Bixenon Asientos deportivos M Sensor de lluvia y luces Sensor de parking delante y detrás Diferentes modos de conducción Sistema multimedia y navegación business Maletero eléctrico Control y limitador de velocidad Entrada USB y aux Bluetooth Red separadora de maletero para mascotas Paquete iluminación exterior en manillas etiqueta medioambiental C podria aceptar coche como parte de pago acepto revisión sin ningún problema. ITV recién pasada sin defectos 606160707 tlf",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "184 cv",
+            "año": "2013",
+            "kilómetros": "260000 km",
+            "precio": 10900.0
+        }
+    ]
+}

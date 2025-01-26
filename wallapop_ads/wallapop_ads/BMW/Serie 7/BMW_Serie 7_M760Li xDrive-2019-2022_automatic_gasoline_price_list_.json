@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Serie 7",
+        "version": "M760Li xDrive",
+        "año mínimo": 2019,
+        "año máximo": 2022,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 585,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=585&min_year=2019&max_year=2022&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 7&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW Serie 740Li 3.0 340CV 2016 restyling LCI 2020",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-740li-3-0-340cv-2016-restyling-lci-2020-1088800747",
+            "descripcion": "BMW 740iL 3.0 gasolina, 340CV, 2016, actualizado al paquete deportivo LCI M rediseñado de 2020. ¡Todo el trabajo se realizó en el servicio oficial de BMW en Alemania! ¡El coche está en perfecto estado, tanto visual como técnicamente! ¡Todos los cambios del Paquete LCI M Sport a partir de 2020 están homologados en España!",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "340 cv",
+            "año": "2020",
+            "kilómetros": "154000 km",
+            "precio": 34500.0
+        }
+    ]
+}

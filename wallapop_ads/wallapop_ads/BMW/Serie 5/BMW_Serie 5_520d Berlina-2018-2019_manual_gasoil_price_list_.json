@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Serie 5",
+        "version": "520d Berlina",
+        "año mínimo": 2018,
+        "año máximo": 2019,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 190,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=190&min_year=2018&max_year=2019&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=BMW&model=Serie 5&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW Serie 5 2018",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-2018-1058862537",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "190 cv",
+            "año": "2018",
+            "kilómetros": "99999 km",
+            "precio": 24999.0
+        },
+        {
+            "titulo": "BMW Serie 5 2018",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-2018-1047465815",
+            "descripcion": "Compra tu vehículo con total Confianza -NOS respaldan más de 15 años de Actividad en el Sector de la Automoción. -Garantía de 1 año a Nivel Nacional, con la tranquilidad de que te atenderemos en cualquier circunstancia. -El vehículo está revisado 360° en que se revisan más de 25 puntos de todo el vehículo. -Certificado de Kilometraje y Ausencia de Golpes Estructurales -Aceptamos vehículos como parte de pago -Financiación de hasta el 100% en el acto -Para más información, visitenos: -Dirección: c/ Alcala 452 Madrid BMW Serie 5 520d Efficient Dynamics VEHÍCULO EN PERFECTO ESTADO A TODA PRUEBA VEN Y PRUEBALO SIN COMPROMISO!!!!.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "190 cv",
+            "año": "2018",
+            "kilómetros": "99999 km",
+            "precio": 24999.0
+        },
+        {
+            "titulo": "BMW Serie 5 2018",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-5-2018-1074062462",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "190 cv",
+            "año": "2018",
+            "kilómetros": "123000 km",
+            "precio": 22900.0
+        }
+    ]
+}

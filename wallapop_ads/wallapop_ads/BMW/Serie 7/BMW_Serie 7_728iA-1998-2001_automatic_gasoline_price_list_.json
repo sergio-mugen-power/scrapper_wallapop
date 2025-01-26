@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Serie 7",
+        "version": "728iA",
+        "año mínimo": 1998,
+        "año máximo": 2001,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 193,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=193&min_year=1998&max_year=2001&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 7&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW Serie 7 2001",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-7-2001-1093500570",
+            "descripcion": "leer bien anuncio por favor se vende buque insignia Bmw denominado como uno de los bmw mas bonitos de la historia, se trata de un bmw 728i automatico nacional segundo dueño libro bmw hasta los 144.000 kms factura de compra bastante equipado con techo solar asientos electricos, lleva parado 7 años se ha puesto en marcha puesto bobinas y bujias nuevas arranca y se puede probar pero necesitaria puesta a punto aunq es una base espectacular, era para proyecto se vende por exceso de vehiculos, esta de baja temporal, se daria de alta de llegar aun acuerdo, 2 opciones de venta; 1- tal cual las fotos en estado de serie 4.000€ . 2- añadiendo suspension roscada, llantas 20 pulgadas y volante modificado ultimas 2 fotografias 5.500€",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "193 cv",
+            "año": "2001",
+            "kilómetros": "168000 km",
+            "precio": 4000.0
+        }
+    ]
+}

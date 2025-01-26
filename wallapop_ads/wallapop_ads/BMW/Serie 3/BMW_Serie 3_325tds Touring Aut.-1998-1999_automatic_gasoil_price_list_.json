@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "Serie 3",
+        "version": "325tds Touring Aut.",
+        "año mínimo": 1998,
+        "año máximo": 1999,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 1940,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=1940&min_year=1998&max_year=1999&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=Serie 3&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW Serie 3 1999",
+            "enlace": "https://es.wallapop.com/item/bmw-serie-3-1999-1093800686",
+            "descripcion": "Bmw 325tds automatico. Proviene de un unico dueño trabajador de bmw iberica que lo trajo directamente de alemania, señor de 61 años. Coche que no esta quemado ni se ha usado para derrapar. Buena base para pasarlo a manual. Tiene: - Techo solar - 4 Neumaticos michelin como nuevos - Aceites y filtros recien cambiados - Fuelles de direccion y brazos cambiados y alineado - Itv recien pasada Desperfectos: El coche hace un sonido al subir de vueltas, dado que ha estado dos años parado puede que sea algun taque agarrado o un inyector. Pero el coche Funciona y anda perfecto no hace nada raro. Y luego pues el desgaste interior de un coche que tiene 30 años. Una buena base para ponerlo a gusto de cada quien! No quiero cambios ni me urge venderlo gracias!",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "143 cv",
+            "año": "1999",
+            "kilómetros": "273000 km",
+            "precio": 3000.0
+        }
+    ]
+}

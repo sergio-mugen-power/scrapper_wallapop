@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "BMW",
+        "modelo": "X6",
+        "version": "xDrive40i",
+        "año mínimo": 2020,
+        "año máximo": 2023,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "electric-hybrid",
+        "potencia máxima": 333,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=electric-hybrid&min_horse_power=1&max_horse_power=333&min_year=2020&max_year=2023&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=automatic&brand=BMW&model=X6&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "BMW X6 BMW X6 xDrive30d M Sport ",
+            "enlace": "https://es.wallapop.com/item/bmw-x6-bmw-x6-xdrive30d-m-sport-1092665957",
+            "descripcion": "¡¡BMW X6 XDRIVE 30d M Sport Reestreno!!! NACIONAL IVA DEDUCIBLE GARANTIA OFICIAL BMW DE 24 MESES ¡¡FULL EXTRAS!! ¡¡UNIDAD CON TODOS LOS OPCIONALES!!! Extras: - Color M Brooklyn Grey Metallic - Llantas 21” LAL M radios en V - Pespunteado decorativo Cognac - Molduras interiores de madre noble “Fineline” - Paquete M Sport Pro - Cinturones de seguridad M - Molduras exteriores M en negro brillo Shadow Line con contenido ampliado - Sistema de escape M Sport - Faros M en negro brillo Shadow Line - Frenos M en rojo brillo - Head-Up Display - BMW Live Cockpit Professional - Sistema de sonido Surround Harman/Kardon - Driving Assistant - Parking Assistant Professional - Faros LED adaptativos - Faros Laser - Control por gestos - Acabados de cristal “CraftedClarity” en elementos interiores - Acceso Confort - Active Guard - Ajuste lumbar electrico - Alfombrillas de velours - Asistente para luz en carretera - Asientos deportivos - Asientos con reglaje electrico y memoria - Asientos calefactables - Bandeja de Wireless Charging - Connected Package Profesional - Control de presion de neumaticos - Cristales de confort acustico - Cristales tintados para proteccion solar - Dispositivo de alarma con mando a distancia - Llamada de emergencia obligatoria - Luz ambiente - Molduras exteriores M en negro brillo Shadow Line - Neumaticos scon funcionamiento en caso de averia (runflat) - Parrilla BMW “Iconic Glow” - Paquete aerodinamico M - Paquete de retrovisores exteriores ampliado - Servicios ConnectedDrive - Radio DAB + - Sistema de proteccion para pasajeros - Suspension adaptativa M - Sistema de recuperacion Mild-Hybrid 48V - Techo M en color antracita - TeleServices - Tornillos antirrobo para las llantas - Volante M Sport de cuero - eSIM Personal ACEPTAMOS COCHE COMO PARTE DE PAGO ENTREGAMOS VEHICULO EN TODA ESPANA FINANCIACION A MEDIDA *Ninguna oferta es vinculante. Reservado el derec...",
+            "combustible": "Eléctrico",
+            "cambio": "Automático",
+            "potencia": "286 cv",
+            "año": "2023",
+            "kilómetros": "28000 km",
+            "precio": 89990.0
+        },
+        {
+            "titulo": "BMW X6 3.0D Xdrive   M Sport ",
+            "enlace": "https://es.wallapop.com/item/bmw-x6-3-0d-xdrive-m-sport-1083896820",
+            "descripcion": "",
+            "combustible": "Eléctrico",
+            "cambio": "Automático",
+            "potencia": "286 cv",
+            "año": "2022",
+            "kilómetros": "63000 km",
+            "precio": 71990.0
+        }
+    ]
+}
