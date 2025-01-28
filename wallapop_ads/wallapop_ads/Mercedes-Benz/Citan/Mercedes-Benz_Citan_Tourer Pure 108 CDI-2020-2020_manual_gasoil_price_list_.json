@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Citan",
+        "version": "Tourer Pure 108 CDI",
+        "año mínimo": 2020,
+        "año máximo": 2020,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 90000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 80,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=80&min_year=2020&max_year=2020&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Mercedes-Benz&model=Citan&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Citan 2020 108 6 velocidades",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-citan-2020-108-6-velocidades-1094418735",
+            "descripcion": "Contactenos en el 685957304 . Ya a la venta, Mercedes Citán. Monta elevalunas con sistema confort. Cierre centralizado con mando a distancia. Climatronic, espejo eléctricos, start stop seis velocidades, manos libres por bluetooth. Doble puerta lateral. Kilometrage detallado en la factura de venta y en el contrato de compra y venta. Precio mas iva sujeto a financiacion. Se entrega totalmente revisada con neumáticos nuevos y mantenimiento al día exhaustivo. El vehículo se entrega con un año de garantía. Se la financiamos total o parcial. Posibilidad de pagar en mano. El anuncio puede contener algun error tipografico. Similar a peugeot partner , citroen berlingo , rernault kangoo , opel combo. Mercedes-Benz Citan Monovolumen en Fuente Palmera",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "80 cv",
+            "año": "2020",
+            "kilómetros": "100000 km",
+            "precio": 12235.0
+        }
+    ]
+}
