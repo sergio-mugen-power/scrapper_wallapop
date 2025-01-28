@@ -5,13 +5,14 @@ import json
 directory = 'Transformed_data/Mercedes-Benz'
 
 # Define the words to be removed from the 'cleaned_name' field
-words_to_remove = ["",""]
+words_to_remove = ["Coupé","Roadster"]
 # Function to clean the 'cleaned_name' field
-def clean_name(name, ):
+def clean_name(name):
+    if name.startswith("AMG"):
+        return name
     for word in words_to_remove:
         # Caso especial dentro del bucle
         if name == "AMG GT 4 puertas Coupé": name = "AMG GT 4-Door Coupé"
-        if name 
         # Reemplazar las palabras no deseadas
         name = name.replace(word, "")
 
@@ -27,7 +28,7 @@ for filename in os.listdir(directory):
         
         # Clean the 'cleaned_name' field
         if 'name' in data:
-            data['name'] = clean_name(data['name'], data[''])
+            data['name'] = clean_name(data['name'])
         
         # Write the cleaned data back to the JSON file
         with open(filepath, 'w', encoding='utf-8') as file:
