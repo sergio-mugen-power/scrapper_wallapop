@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase B",
+        "version": "B 200 c",
+        "año mínimo": 2014,
+        "año máximo": 2017,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "electric-hybrid",
+        "potencia máxima": 156,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=electric-hybrid&min_horse_power=1&max_horse_power=156&min_year=2014&max_year=2017&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Mercedes-Benz&model=Clase B&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase B 2015",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-b-2015-1083900837",
+            "descripcion": "Precio final transferido y con un año de garantía 15999 euros. -1 año de garantía. -transferencia incluida. -envíos a toda España (consultar condiciones ) -pre-entrega. -un solo propietario -revisión +120puntos mecánicos. -se entrega con correa distribución mas aceite y filtros recién hechos. -taller propio en el que le aplicaremos descuentos una vez seas nuestro cliente. equipamiento; -Mercedes B180 -cilindrada: 1.595cc -potencia:123cv -kms: 99.000 -año: 02/2015 -Paquete black edition -sensores de aparcamiento y cámara trasera -6 velocidades -avisador de angulo muerto -luces automaticas -climatizador -asientos calefactables -asientos mixtos de piel y tela -volante multifuncion -pantalla central grande a color con navegador - etc !nuestros mas de 20 años de experiencia nos avalan en el sector del automóvil ! los cambios, la venta intermedia y los errores están expresamente reservados",
+            "combustible": "Eléctrico",
+            "cambio": "Manual",
+            "potencia": "122 cv",
+            "año": "2015",
+            "kilómetros": "99000 km",
+            "precio": 15999.0
+        }
+    ]
+}

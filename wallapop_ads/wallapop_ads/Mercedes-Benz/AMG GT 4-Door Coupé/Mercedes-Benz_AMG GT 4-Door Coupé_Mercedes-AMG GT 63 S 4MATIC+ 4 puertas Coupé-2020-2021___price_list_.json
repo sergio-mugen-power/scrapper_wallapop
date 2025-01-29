@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 9000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,9 +18,20 @@
         "potencia máxima": 639,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=&min_horse_power=1&max_horse_power=639&min_year=2020&max_year=2021&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=&brand=Mercedes-Benz&model=AMG GT 4-Door Coupé&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=&min_horse_power=1&max_horse_power=639&min_year=2020&max_year=2021&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=&brand=Mercedes-Benz&model=AMG GT 4-Door Coupé&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
+        {
+            "titulo": "Mercedes-Benz AMG GT 4-Door Coupé 2020",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-amg-gt-4-door-coupe-2020-1043951029",
+            "descripcion": "Espectacular unidad de MERCEDES BENZ AMG GT 63S 639cv 4MATIC+ 4 PUERTAS 5 PLAZAS AMG DYNAMIC PLUS PACK AMG PERFORMANCE!! NACIONAL En perfecto estado tanto interior como exterior, recién revisado en Mercedes-Benz con libro de mantenimiento sellado, doble techo panorámico fijo, llantas 20\", faros LED, pack parking con cámara 360º, pack keyless, pack retrovisores AMG, navegador MBUX, alarma, banco trasero de 3 plazas, portón automático, asientos AMG Performance, cuero marron exclusive, pack memorias, distronic plus, pack asistencia a la conducción, integración smartphone, paquete Premium plus con Head-up display y asientos delanteros ventilados/calefactados, paquete AMG night  y muchos más. Garantía oficial hasta 11/2025 Precio al contado: 129.900€. Precio financiado: 126.900€. (Financiando al menos 40.000€) Todos nuestros vehículos se entregan transferidos. Se preparan todos los documentos necesarios para exportación. Pregúntanos por la financiación a tu medida y paga cómodamente. Para recibir una atención adecuada y evitar esperas, llámanos y concreta tu cita. Posibilidad de entrega cualquier punto de España. Los datos del anuncio podrían contener algún error y por tanto no tienen carácter vinculante. Bitcoin accepted #JF/RO CAP #JU PIC #FU #LJL #SED #A035135",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "639 cv",
+            "año": "2020",
+            "kilómetros": "72900 km",
+            "precio": 129900.0
+        },
         {
             "titulo": "Mercedes-Benz AMG GT 4-Door Coupé 2021",
             "enlace": "https://es.wallapop.com/item/mercedes-benz-amg-gt-4-door-coupe-2021-1085661686",

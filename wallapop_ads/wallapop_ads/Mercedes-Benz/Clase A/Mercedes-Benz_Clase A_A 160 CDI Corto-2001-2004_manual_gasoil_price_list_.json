@@ -1,0 +1,80 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase A",
+        "version": "A 160 CDI Corto",
+        "año mínimo": 2001,
+        "año máximo": 2004,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 75,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=75&min_year=2001&max_year=2004&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Mercedes-Benz&model=Clase A&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase A 2004",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2004-1090577685",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "75 cv",
+            "año": "2004",
+            "kilómetros": "145046 km",
+            "precio": 2690.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A   140.000km ",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-140-000km-1090738407",
+            "descripcion": "Mercedes benz clase A 160CDI 75 cv motor por cadena de distribución itv recién pasada hasta diciembre filtros aceite recién cambiados ruedas semi nuevas mantenimiento al día aire acondicionado elevalunas eléctricos cierre centralizado mando a distancia coche revisado completamente Garantía opcional de 12 meses",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "75 cv",
+            "año": "2003",
+            "kilómetros": "140000 km",
+            "precio": 2400.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2002",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2002-1084201651",
+            "descripcion": "Hola.yo cambiarlo neumáticos también filtros. Tiene itv seguro puedes probar.todos bien 610768827",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "1.68 cv",
+            "año": "2002",
+            "kilómetros": "228000 km",
+            "precio": 1800.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2001",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2001-1094406645",
+            "descripcion": "Se vende vehículo ideal para mecánico de ahí el precio",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "60 cv",
+            "año": "2001",
+            "kilómetros": "222000 km",
+            "precio": 1000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2001",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-1092210659",
+            "descripcion": "!!!!! OJO !!!!!! Embrague para cambiar!!!!!Mercedes clase a 160 diésel. Interior muy cuidado. Tres llaves. Exterior en buen estado. ITV al día. Neumáticos en buen estado.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "60 cv",
+            "año": "2001",
+            "kilómetros": "217000 km",
+            "precio": 800.0
+        }
+    ]
+}

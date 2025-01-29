@@ -1,0 +1,69 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase B",
+        "version": "B 180 d",
+        "año mínimo": 2019,
+        "año máximo": 2021,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 116,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=116&min_year=2019&max_year=2021&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Mercedes-Benz&model=Clase B&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase B 2021",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-b-2021-1058812348",
+            "descripcion": "MERCEDES-BENZ Clase B B 180 d Mercedes ,136 cv, con ub-180 CDI AMG automático, nacional muy bien cuidado Equipamiento: Full extras-Volante multifunción de piel con levas-Paquete AMG en interior y exterior- Asientos Alcántara cuero con ribete en rojo AMG -llantas de 18”- Cambio Automático de 9 velocidades-Puerto USB- Volante Multifunción- Botón Start-Stop - Faros full led inteligentes- Climatizador Bizona- Ordenador de Abordo- Navegación Profesional- Cámara trasera – sensores de aparcamiento -sistema isofix -retrovisores eléctricos y retractiles -Asistente de mantenimiento en carril-Control de velocidad con limitador-ventanas traseras con privacidad- dirección asistida - airbag - 2 llaves. Precio al contado 29500 precio financiado 28500. Financiación mínima 20000 Aceptamos vehículo como parte de pago. Financiación a medida. Se entrega totalmente revisado, con itv al día, y 12 meses de garantía. Para más información, estaremos encantados de atenderle en nuestras instalaciones en c/ ciutat de lliria, n º 61 en polígono industrial fuente del jarro, paterna. Este anuncio es de carácter informativo. Las especificaciones sobre equipamiento, modelo y precio no tienen carácter vinculante, ni puede constituir base de un futuro contrato ya que pueden contener algún error. Consulte con nuestros comerciales la información detallada de este vehículo.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "116 cv",
+            "año": "2021",
+            "kilómetros": "50000 km",
+            "precio": 29500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase B 2019",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-b-2019-1086292980",
+            "descripcion": "Mercedes Benz clase B 180D",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "116 cv",
+            "año": "2019",
+            "kilómetros": "145000 km",
+            "precio": 25000.0
+        },
+        {
+            "titulo": "DESDE 368€ AL MES SIN ENTRADA!!",
+            "enlace": "https://es.wallapop.com/item/desde-368-al-mes-sin-entrada-1060190601",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "116 cv",
+            "año": "2019",
+            "kilómetros": "66260 km",
+            "precio": 22355.0
+        },
+        {
+            "titulo": "DESDE 368€ AL MES SIN ENTRADA !!!",
+            "enlace": "https://es.wallapop.com/item/desde-368-al-mes-sin-entrada-1087407551",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "116 cv",
+            "año": "2019",
+            "kilómetros": "66260 km",
+            "precio": 368.0
+        }
+    ]
+}

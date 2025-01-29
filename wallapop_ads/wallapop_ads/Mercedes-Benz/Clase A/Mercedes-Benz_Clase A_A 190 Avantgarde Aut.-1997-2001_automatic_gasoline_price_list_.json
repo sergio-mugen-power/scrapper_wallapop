@@ -1,0 +1,91 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase A",
+        "version": "A 190 Avantgarde Aut.",
+        "año mínimo": 1997,
+        "año máximo": 2001,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 125,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=125&min_year=1997&max_year=2001&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase A&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase A 2001",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2001-985863920",
+            "descripcion": "Mercedes A160 edición hakkinen n°75 de 125. En perfecto estado de conservación. Embrague automático. Todos los extras.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "102 cv",
+            "año": "2001",
+            "kilómetros": "175000 km",
+            "precio": 5500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2001",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2001-1093344306",
+            "descripcion": "Itv recién pasada, automático, asientos piel, elevalunas eléctricas delante y detrás. Muy cómodo para ciudad.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "102 cv",
+            "año": "2001",
+            "kilómetros": "142000 km",
+            "precio": 3500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2000",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2000-1061835874",
+            "descripcion": "Buen rstado general. Interior y exterior yytv pasada ace tres días mecánica perfstas condiciones lo vendo porque ya no puedo conducir",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "125 cv",
+            "año": "2000",
+            "kilómetros": "87000 km",
+            "precio": 3500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2000",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2000-1093148127",
+            "descripcion": "Mercedes clase A, vehiculo muy cuidado, ITV al dia, documentacion al dia, asientos piel en perfecto estado, climatizador, E.E, R.E, C.C con dos mandos, Motor 1.6 c.c por cadena de distribucion, revisiones al dia. Ideal coche utilitario, bajo consuno, no paga impuesto de circulación. Sin etiqueta medio ambiental.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "102 cv",
+            "año": "2000",
+            "kilómetros": "215000 km",
+            "precio": 3350.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2000",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2000-1086106905",
+            "descripcion": "Vendo Mercedes clase A en perfecto estado de exterior e interior,!!124.000KILÓMETROS!!tiene un consumo muy reducido, hay que pasar ITVy revisar bass ASR,se le encendio al cambiar la batería,de hay su precio,se acepta prueba en taller de confianza o casa oficial,para mas información 643984698.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "102 cv",
+            "año": "2000",
+            "kilómetros": "124000 km",
+            "precio": 1800.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 1999",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-1999-1093796641",
+            "descripcion": "Vendo o cambiaria Mercedes Benz clase A160 elegance gasolina 102cv del 1999 automático .buen estado en general aunq lleva tiempo parado xq no se usa nada.necesitaria pasar itv y revisarlo algunas cosas. Mas informacion wassap al 692671136.precio negociable. El vehiculo no tiene garantia de ningun tipo.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "102 cv",
+            "año": "1999",
+            "kilómetros": "237000 km",
+            "precio": 1200.0
+        }
+    ]
+}

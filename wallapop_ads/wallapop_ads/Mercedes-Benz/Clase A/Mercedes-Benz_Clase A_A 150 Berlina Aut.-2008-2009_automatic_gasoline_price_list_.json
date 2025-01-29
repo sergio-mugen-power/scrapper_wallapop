@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase A",
+        "version": "A 150 Berlina Aut.",
+        "año mínimo": 2008,
+        "año máximo": 2009,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 95,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=95&min_year=2008&max_year=2009&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase A&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase A 2009",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-a-160-elegance-5p-1069674092",
+            "descripcion": "Mercedes-Benz A160 Restyling Elegance 1.5 gasolina con 95 Cv de potencia nacional procedente de único propietario en un estado óptimo de conservación con tan solo 76.800 kilómetros reales y certificados , mantenimiento al día y itv en vigor. El vehículo dispone de paquete Elegance, asientos de piel en color beige , velocidad de crucero, sensor de lluvia / luces , bluetooth, volante de piel multifunción, faros bixenon, reposavasos , molduras decorativas en aluminio cepillado, control de estabilidad ESP, climatizador , modelo restyling, llantas de aleación en 17 pulgadas, portavasos, sensor de lluvia / luces, etc + info contacten sin compromiso. Garantía comercial de 12 meses incluido en el precio. (ATENDEMOS 365 DÍAS DEL AÑO, INCLUSO FINES DE SEMANA Y FESTIVO) ** PARA PODER OFRECER UN MEJOR SERVICIO A NUESTROS CLIENTES, ATENDEMOS CON CITA PREVIA. ** Anuncio a título informativo, puede contener erratas.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "95 cv",
+            "año": "2009",
+            "kilómetros": "76800 km",
+            "precio": 11990.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A  GLP Etiqueta ECO",
+            "enlace": "https://es.wallapop.com/item/mercedes-a-3p-autom-glp-clase-a-95-cv-2008-1074088247",
+            "descripcion": "Coche en perfecto estado de todo. Mantenimiento de motor y caja de cambios reciente. Km. reales. Se admite prueba. Duerme en garaje. Etiqueta ECO. Funciona con GLP. Consumo muy económico. En venta por que compré un coche algo más grande y de 5 puertas. No tengo prisa, porque de momento lo sigo usando. No cambios. Sólo venta. Gracias",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "95 cv",
+            "año": "2008",
+            "kilómetros": "106000 km",
+            "precio": 8200.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2008",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2008-1071980486",
+            "descripcion": "Perfecto estado, conducción fiable y muy suave. Coche de pequeñas dimensiones para circular por ciudad y aparcar va muy bien. Pegatina verde C, ITV junio 2025.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "95 cv",
+            "año": "2008",
+            "kilómetros": "168000 km",
+            "precio": 5000.0
+        }
+    ]
+}

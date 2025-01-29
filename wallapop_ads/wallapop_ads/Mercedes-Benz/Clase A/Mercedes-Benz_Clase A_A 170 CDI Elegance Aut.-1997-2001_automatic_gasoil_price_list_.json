@@ -1,0 +1,91 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase A",
+        "version": "A 170 CDI Elegance Aut.",
+        "año mínimo": 1997,
+        "año máximo": 2001,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 90,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=90&min_year=1997&max_year=2001&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase A&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase A 2000",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-170cdi-1060329864",
+            "descripcion": "Con Itv recien pasada el 26 de Noviembre sin fallos. Se ha hecho revision de aceite y todos los filtros la semana 1ª de Diciembre.Muy poco consumo, fiable y comodo.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "90 cv",
+            "año": "2000",
+            "kilómetros": "175000 km",
+            "precio": 3400.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2000",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2000-1083828862",
+            "descripcion": "Se vende mercedes por no usar, buen estado",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "82 cv",
+            "año": "2000",
+            "kilómetros": "140000 km",
+            "precio": 3000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2000",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-b-1994-1083591993",
+            "descripcion": "Se vende Mercedes, por no usar, buen estado",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "82 cv",
+            "año": "2000",
+            "kilómetros": "140000 km",
+            "precio": 3000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 1999",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-1999-1016830839",
+            "descripcion": "Cambio de marchas sin pedal de embrague, automatico pilotado muy comodo en ciudad y bajo consumo motor diesel",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "90 cv",
+            "año": "1999",
+            "kilómetros": "259000 km",
+            "precio": 3000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2000",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2000-1082224617",
+            "descripcion": "MERCEDES CLASE A 170 CDI AUTOMATICO AÑO 04/2000 VEHICULO EN GESTION DE VENTA COCHE DE 5 PUERTAS AUTOMATICO GANCHO DE REMOLQUE LLANTAS DE ALUMINIO TOTALMENTE REVISADO TRANSFERIDO AUTOS BELCAR C/ DOMINGO BUENO Nº 118 BAJO O PORRIÑO",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "90 cv",
+            "año": "2000",
+            "kilómetros": "229000 km",
+            "precio": 2800.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2001",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2001-1094638604",
+            "descripcion": "En perfecto estado ITV recién pasada.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "90 cv",
+            "año": "2001",
+            "kilómetros": "189000 km",
+            "precio": 1900.0
+        }
+    ]
+}

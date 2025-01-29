@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 9000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,9 +18,31 @@
         "potencia máxima": 639,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=&min_horse_power=1&max_horse_power=639&min_year=2018&max_year=2019&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=&brand=Mercedes-Benz&model=AMG GT 4-Door Coupé&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=&min_horse_power=1&max_horse_power=639&min_year=2018&max_year=2019&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=&brand=Mercedes-Benz&model=AMG GT 4-Door Coupé&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
+        {
+            "titulo": "Mercedes-Benz AMG GT63S 639 CV 4-Door Coupé 2019",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-amg-gt63s-639-cv-4-door-coupe-2019-1088984202",
+            "descripcion": "Se vende: Mercedes-Benz AMG GT 63 S • Año: 2019 • Kilometraje: 42,000 km • Motor: V8 biturbo, 4.0L, 639 CV • Transmisión: Automática 4MATIC+ (tracción total) • Aceleración: 0-100 km/h en 3.2 segundos Características destacadas: • Sistema de infoentretenimiento MBUX • Paquete aerodinámico AMG • Suspensión adaptativa • Faros LED Multibeam • Sistema de sonido premium Burmester • Cámara 360° y asistentes de conducción avanzados Estado: Perfecto, sin accidentes, mantenimiento al día en taller oficial Mercedes-Benz. 📍 Para más información, contactame! ¡No pierdas la oportunidad de conducir este deportivo de lujo!",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "639 cv",
+            "año": "2019",
+            "kilómetros": "49000 km",
+            "precio": 110000.0
+        },
+        {
+            "titulo": "Mercedes-Benz AMG GT 4-Door Coupé 2019",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-amg-gt-4-door-coupe-2019-1044744197",
+            "descripcion": "-Se aceptan criptomonedas -Historial completo servio oficial -Vehículo Nacional -único propietario -1 año de garantía -Precio final transferido a su nombre -Transporte disponible para toda España -Posibilidad de financiación -IVA deducible",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "435 cv",
+            "año": "2019",
+            "kilómetros": "64000 km",
+            "precio": 96990.0
+        },
         {
             "titulo": "¡ EXCLUSIVO ! 🚀  Mercedes AMG GT 53 EDITION ONE",
             "enlace": "https://es.wallapop.com/item/exclusivo-mercedes-amg-gt-53-edition-one-1088003722",

@@ -1,0 +1,91 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase A",
+        "version": "A 160 CDI Coupé",
+        "año mínimo": 2008,
+        "año máximo": 2009,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 82,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=82&min_year=2008&max_year=2009&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Mercedes-Benz&model=Clase A&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase A 2009",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2009-1060767030",
+            "descripcion": "Mercedes-benz clas anio 2009 diesel parece amg kelometrage 24000 kilómetros color gris ascensor de neumáticos 4 nuevos coche prefecto",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "82 cv",
+            "año": "2009",
+            "kilómetros": "224000 km",
+            "precio": 8000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2009",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-160-cdi-2009-1034593435",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "82 cv",
+            "año": "2009",
+            "kilómetros": "130000 km",
+            "precio": 7900.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2008",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2008-1063359205",
+            "descripcion": "Vendo mi Mercedes Clase A 160CDI Avantgarde del año 2008, diésel, con solo 145,000 kilómetros. Este elegante vehículo de 3 puertas ha sido mimado y cuidado con esmero, asegurando su excelente estado y rendimiento. Tiene revisiones al día y neumáticos nuevos. Perfecto para quienes buscan un coche confiable, con estilo y que ha sido tratado con cariño. ¡No dejes pasar esta oportunidad de llevarte a casa un coche que combina lujo y practicidad! Para más información, ¡contáctame hoy mismo!",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "82 cv",
+            "año": "2008",
+            "kilómetros": "145600 km",
+            "precio": 6000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2008",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2008-1089369637",
+            "descripcion": "Mercedes Benz A 160, 1.9 cdi 82cv diésel Automático. con 200.000 kilómetros. un coche con un bajo consumo. tiene 4 cubiertas nuevas, aceite y filtros recién cambiados y se entrega con la itv recién pasada. Trae muchos extras como climatizador, espejos eléctricos, radio cd, elevalunas eléctricos y muchos extras más. se vende con un año de garantía. se acepta prueba mecánica.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "82 cv",
+            "año": "2008",
+            "kilómetros": "200000 km",
+            "precio": 4899.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2008",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2008-990213526",
+            "descripcion": "Vendo ¡urgentemente! Mercedes-Benz en buen estado. Lanzamiento de 2008. Transmisión manual. Todos los aceites y filtros han sido cambiados. embrague nuevo. Los discos y pastillas de freno. Amortiguadores y muelles traseros nuevos. dos llaves. ITV pasó en mayo 2024.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "82 cv",
+            "año": "2008",
+            "kilómetros": "240000 km",
+            "precio": 3000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2009",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2009-1005782019",
+            "descripcion": "La macchina perfettamente funzionanate ed è completa di airbag,abs,climatizzazione, autoradio originali si serie km percorsi duecentosessanottomila",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "82 cv",
+            "año": "2009",
+            "kilómetros": "268000 km",
+            "precio": 2550.0
+        }
+    ]
+}

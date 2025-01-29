@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase A",
+        "version": "A 160 Coupé Autotronic",
+        "año mínimo": 2009,
+        "año máximo": 2010,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 95,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=95&min_year=2009&max_year=2010&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase A&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase A 2009",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-a-160-elegance-5p-1069674092",
+            "descripcion": "Mercedes-Benz A160 Restyling Elegance 1.5 gasolina con 95 Cv de potencia nacional procedente de único propietario en un estado óptimo de conservación con tan solo 76.800 kilómetros reales y certificados , mantenimiento al día y itv en vigor. El vehículo dispone de paquete Elegance, asientos de piel en color beige , velocidad de crucero, sensor de lluvia / luces , bluetooth, volante de piel multifunción, faros bixenon, reposavasos , molduras decorativas en aluminio cepillado, control de estabilidad ESP, climatizador , modelo restyling, llantas de aleación en 17 pulgadas, portavasos, sensor de lluvia / luces, etc + info contacten sin compromiso. Garantía comercial de 12 meses incluido en el precio. (ATENDEMOS 365 DÍAS DEL AÑO, INCLUSO FINES DE SEMANA Y FESTIVO) ** PARA PODER OFRECER UN MEJOR SERVICIO A NUESTROS CLIENTES, ATENDEMOS CON CITA PREVIA. ** Anuncio a título informativo, puede contener erratas.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "95 cv",
+            "año": "2009",
+            "kilómetros": "76800 km",
+            "precio": 11990.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2010 automatico",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2010-automatico-1094836204",
+            "descripcion": "coche en muy buen estado en general recien hecho mantenemineto de aciete y filtros de motor y tambien caja cambio , lleva sensores de aparcaminetos delanteros y traseros luces y limpias automaticas asientos delanteros calefctables velocedad de crucero nuematicos casi nuevos pintura muy bien en general s entrega con itv nueva muy como para conducir y practico pa la ciudad pegatina ambinetal C precio puesto a nombre del cliente",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "95 cv",
+            "año": "2010",
+            "kilómetros": "189000 km",
+            "precio": 5400.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2010",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2010-1060099246",
+            "descripcion": "Se ENTREGA CON GARANTIA Automoviles antonio y juan manuel, su compra venta de confianza! CLASE A 160 etiqueta mediambiemtal C Equipacion: -Asientos en tela -direccion asistida -elevalunas electricos -cierre centralizado -radio cd -airbag -aire acondicionado Posibilidad de recoger su coche. financiacion a su medida Estamos en santiago de compostela ¡¡automoviles antonio y juan manue!.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "95 cv",
+            "año": "2010",
+            "kilómetros": "175000 km",
+            "precio": 4999.0
+        }
+    ]
+}

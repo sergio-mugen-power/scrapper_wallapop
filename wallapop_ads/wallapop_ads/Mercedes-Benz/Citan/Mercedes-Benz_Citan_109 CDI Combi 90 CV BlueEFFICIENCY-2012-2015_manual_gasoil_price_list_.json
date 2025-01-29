@@ -8,7 +8,7 @@
         "km mínimo": 2007,
         "km máximo": 300000,
         "precio mínimo": 1,
-        "precio máximo": 90000,
+        "precio máximo": 9000000,
         "ubicación": {
             "latitud": 40.578494,
             "longitud": -3.892771
@@ -18,7 +18,7 @@
         "potencia máxima": 90,
         "potencia mínima": 1,
         "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
-        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=90&min_year=2012&max_year=2015&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=90000&gearbox=manual&brand=Mercedes-Benz&model=Citan&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=90&min_year=2012&max_year=2015&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Mercedes-Benz&model=Citan&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
     },
     "anuncios": [
         {
@@ -141,6 +141,17 @@
             "año": "2014",
             "kilómetros": "135000 km",
             "precio": 8985.0
+        },
+        {
+            "titulo": "Mercedes-Benz Citan 2014",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-citan-2014-1094866928",
+            "descripcion": "Si buscas un vehiculo fiable y economico para tu negocio o trabajo o incluso para camperizar y usarlo como ocio, esta es una muy buena opcion. Ofrece muchas posibilidades tales como personalizarla con el logo de tu empresa o instalarle un mueble para mini camper y disfrutarla en paisajes bonitos. El vehiculo esta practicamente a estrenar. Tiene la pintura original y en el interior esta todo funcionando y sin desperfectos. Cuenta con radio bluetoth-manos libres, aire acondicionado y red separadora de carga la cual se puede abrir para meter objetos largos. Ademas el sillon del copiloto se puede abatir y usar como mesa. El motor es el mas fiable y economico del mercado. Neumaticos al 90% y lo doy con la itv recien pasada. Es una apuesta segura. Cuenta con garantia de un año. Para mas info no duden en contactar. Gracias.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "75 cv",
+            "año": "2014",
+            "kilómetros": "87000 km",
+            "precio": 8900.0
         },
         {
             "titulo": "Mercedes-Benz Citan 108 CDI 75 CV ISOTERMO",

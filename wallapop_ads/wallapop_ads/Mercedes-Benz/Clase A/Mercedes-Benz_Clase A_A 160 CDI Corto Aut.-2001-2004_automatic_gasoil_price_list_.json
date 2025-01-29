@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase A",
+        "version": "A 160 CDI Corto Aut.",
+        "año mínimo": 2001,
+        "año máximo": 2004,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 75,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=75&min_year=2001&max_year=2004&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase A&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase A 2002",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2002-1093997829",
+            "descripcion": "El coche arranca o anda , pero la transmisión automática sólo funciona en segunda y también en marcha atrás. Tengo un video de este coche siendo conducido ahora. El coche está a mi nombre, no tiene ningún problema para un cambio de nombre. quien este interesado me puedes enviar tu numero en whatsapp, te enviare un video detallado tambien cualquier pregunta que te interese te contestare.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "75 cv",
+            "año": "2002",
+            "kilómetros": "232000 km",
+            "precio": 900.0
+        }
+    ]
+}

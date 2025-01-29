@@ -1,0 +1,91 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase A",
+        "version": "A 170 CDI Largo Aut.",
+        "año mínimo": 2001,
+        "año máximo": 2004,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 95,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=95&min_year=2001&max_year=2004&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase A&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase A 2002 ELEGANCE",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2002-elegance-1074803094",
+            "descripcion": "VEHICULO EN PERFECTO ESTADO DE CONSERVACION, MANTENIMIENTO Y FUNCIONAMIENTO. GARANTIA 12 MESES. AUTOMATICO.EQUIPADO CON AIRBAGS, CLIMATIZADOR MANUAL CON AIRE ACONDICIONADO,DIRECCION ASISITIDA, CIERRE CENTRALIZADO CON MANDO, ELEVALUNAS DELANTEROS ELECTRICOS, RADIO CD ORIGINAL, ITV RECIEN PASADA, NO TIENE ETIQUETA MEDIOAMBIENTAL, CAMBIO DE NOMBRE INCLUIDO EN EL PRECIO. ENTREGA A DOMICILIO SIN COSTE.TELEFONO DE CONTACTO 670012192. VENDEDOR PROFESIONAL.TELEFONO 670012192",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "95 cv",
+            "año": "2002",
+            "kilómetros": "168000 km",
+            "precio": 3950.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2001",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2001-1094638604",
+            "descripcion": "En perfecto estado ITV recién pasada.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "90 cv",
+            "año": "2001",
+            "kilómetros": "189000 km",
+            "precio": 1900.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A (A170) CDI",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-a170-cdi-1094878509",
+            "descripcion": "ITV en vigor hasta noviembre 2025. Cambio Automático. A/A acondicionado.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "95 cv",
+            "año": "2003",
+            "kilómetros": "188890 km",
+            "precio": 1800.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2003",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2003-1080886008",
+            "descripcion": "funciona problema cambio...solo va la 2a..i m atras",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "95 cv",
+            "año": "2003",
+            "kilómetros": "190000 km",
+            "precio": 1500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2002",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2002-1093997829",
+            "descripcion": "El coche arranca o anda , pero la transmisión automática sólo funciona en segunda y también en marcha atrás. Tengo un video de este coche siendo conducido ahora. El coche está a mi nombre, no tiene ningún problema para un cambio de nombre. quien este interesado me puedes enviar tu numero en whatsapp, te enviare un video detallado tambien cualquier pregunta que te interese te contestare.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "75 cv",
+            "año": "2002",
+            "kilómetros": "232000 km",
+            "precio": 900.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2002",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2002-1089251031",
+            "descripcion": "El coche, tiene problema con el cambio (placa electrónica), por lo demàs todo ésta intacto. Sin accesorio porta esquí y barra de techo. La bola de remolque si. Es negociable!",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "95 cv",
+            "año": "2002",
+            "kilómetros": "295000 km",
+            "precio": 400.0
+        }
+    ]
+}

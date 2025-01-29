@@ -1,0 +1,80 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase A",
+        "version": "A 160 CDI Classic",
+        "año mínimo": 1997,
+        "año máximo": 2001,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 60,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=60&min_year=1997&max_year=2001&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Mercedes-Benz&model=Clase A&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase A 160 CDI Elegance 5p. ",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-160-cdi-elegance-5p-1089219773",
+            "descripcion": "Mercedes Clase A 160 CDI 5p. Elegance 60 CV. 2990 €. Muy buen estado general, nacional. Matrícula: IB4104DK, del 1 de diciembre de 1999, 175400 kms. Nº bastidor: WDB1680071J336410. Motor diésel de 1.689 cc, 60 CV, muy bajo consumo. Cambio manual, llantas de aleación, aire acondicionado, retrovisores y elevalunas eléctricos, radio, asientos traseros abatibles, ABS, ESP, etc. IMPRESCINDIBLE CITA PREVIA. Atendemos de lunes a viernes de 9:30 a 20 hs, y sabado de 10 a 14 hs en Málaga Capital, próximo a Leroy Merlin, únicamente con visita concertada. Precio de contado con un año de garantía y transferencia incluida. Puedes reservar y pagar con tarjeta de crédito. We speak English. Send us a message and we will call in your language. Este anuncio no es vinculante, puede contener errores, se muestra a titulo informativo y no contractual.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "60 cv",
+            "año": "2000",
+            "kilómetros": "175400 km",
+            "precio": 2990.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2000",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2000-1084198989",
+            "descripcion": "Mercedes Benz, 160, Tiene cambiado el radiador nuevo, las 4 ruedas nuevas 100%, ITV pasada hasta septiembre del 2025. Diesel, gasta muy poquito, techo corredizo, asientos de atrás se pueden subir ( tipo adaptador) para los niños pequeños. Pantalla táctil, 2 llaves, rueda de repuesto,bandeja, elevalunas eléctrico las 4 ventanas....",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "60 cv",
+            "año": "2000",
+            "kilómetros": "244000 km",
+            "precio": 2000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 1998",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-1998-1092092111",
+            "descripcion": "Mercedes A 160CDI DIESEL. Buen funcionamiento, ITV recién pasado por 1 año, amortiguadores cambiados y motor revisado. Aire acondicionado. Elevalunas eléctricos Dirección asistida.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "60 cv",
+            "año": "1998",
+            "kilómetros": "265000 km",
+            "precio": 1899.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2001",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2001-1094406645",
+            "descripcion": "Se vende vehículo ideal para mecánico de ahí el precio",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "60 cv",
+            "año": "2001",
+            "kilómetros": "222000 km",
+            "precio": 1000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2001",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-1092210659",
+            "descripcion": "!!!!! OJO !!!!!! Embrague para cambiar!!!!!Mercedes clase a 160 diésel. Interior muy cuidado. Tres llaves. Exterior en buen estado. ITV al día. Neumáticos en buen estado.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "60 cv",
+            "año": "2001",
+            "kilómetros": "217000 km",
+            "precio": 800.0
+        }
+    ]
+}

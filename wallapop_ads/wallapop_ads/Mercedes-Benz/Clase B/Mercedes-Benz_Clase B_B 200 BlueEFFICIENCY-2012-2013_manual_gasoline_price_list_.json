@@ -1,0 +1,80 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase B",
+        "version": "B 200 BlueEFFICIENCY",
+        "año mínimo": 2012,
+        "año máximo": 2013,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 156,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=156&min_year=2012&max_year=2013&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Mercedes-Benz&model=Clase B&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase B200 156cv manual",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-b-2012-1080606515",
+            "descripcion": "En ESM CARS queremos ofrecerte esta fantastica unidad : Impecable estado general: Equipado con; Volante multifuncional, Asientos mixtos calefactables, Espejos eléctricos plegables, Bluetooth, Sistema de navegación Gps, Cristales tintados, 2 llaves, Sensores de aparcamiento, Faros bixenon, Etc… 1 sola propietaria. Pegatina medioambiental C. Historial completo en servicio oficial MB. Precio con revision preentrega garantia mecanica 12 meses y cambio de titular incluido.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "156 cv",
+            "año": "2012",
+            "kilómetros": "128000 km",
+            "precio": 13500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase B 2013",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-b-2013-1067514948",
+            "descripcion": "Vehículo procedente de Mercedes Benz, perfecto estado interior, exterior y motor. Equipamiento: pack sport, faros led-xenon, asientos deportivos calefactables, start/stop, avisador de distancia y colisión, SOS, techo negro, tapicería de cuero y textil, espejos abatibles electrónicamente, teléfono bluetooth, llantas aleación 17\", discos de freno ventilados, sensor de iluminación y lluvia automático, volante de cuero, gancho de remolque homologado. Se entrega con revisión e ITV pasada. PEGATINA MEDIOAMBIENTAL C VERDE!",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "122 cv",
+            "año": "2013",
+            "kilómetros": "138000 km",
+            "precio": 12300.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase B 2012",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-b-2012-1038416019",
+            "descripcion": "Mercedes Clase B 200. 5p. Año 2012. 138000km MUY BIEN CUIDADO.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "156 cv",
+            "año": "2012",
+            "kilómetros": "138000 km",
+            "precio": 12000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase B 2012",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-b-2012-945013237",
+            "descripcion": "(MOTOR MERCEDES)precio negociable todos los extras ,acepto cambio o coche como parte de pago .PUEDE CIRCULAR POR CIUDAD TIENE ETIQUETA e ITV recién pasada",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "122 cv",
+            "año": "2012",
+            "kilómetros": "120000 km",
+            "precio": 12000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase B 2012",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-b-2012-1068007080",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "122 cv",
+            "año": "2012",
+            "kilómetros": "156000 km",
+            "precio": 11000.0
+        }
+    ]
+}

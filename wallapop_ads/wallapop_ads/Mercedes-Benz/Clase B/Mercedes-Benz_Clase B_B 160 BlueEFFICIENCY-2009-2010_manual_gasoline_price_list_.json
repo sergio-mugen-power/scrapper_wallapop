@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase B",
+        "version": "B 160 BlueEFFICIENCY",
+        "año mínimo": 2009,
+        "año máximo": 2010,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 95,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=95&min_year=2009&max_year=2010&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Mercedes-Benz&model=Clase B&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "MERCEDES-BENZ A 160 95cv 2010 149000km ETIQUETA C",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-a-160-95cv-2010-149000km-etiqueta-c-1081108913",
+            "descripcion": "PRACTICO POR SU ALTURA, BUSCADA ETIQUETA C VERDE, Y UN ESTADO Y KILOMETRAJE BUENÍSIMOS MERCEDES-BENZ B 160 95cv AÑO 2010 UNIDAD NACIONAL ETIQUETA C VERDE 149000km LLANTAS ALUMINIO REVISADO COMPLETO TECHO SOLAR COMPLETO ITV AL DÍA ESTADO GENERAL MUY BUENO 7890€",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "95 cv",
+            "año": "2010",
+            "kilómetros": "149000 km",
+            "precio": 7890.0
+        }
+    ]
+}

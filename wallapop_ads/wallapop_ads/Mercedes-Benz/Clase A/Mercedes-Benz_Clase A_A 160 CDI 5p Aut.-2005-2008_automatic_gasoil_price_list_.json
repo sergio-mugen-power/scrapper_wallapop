@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase A",
+        "version": "A 160 CDI 5p Aut.",
+        "año mínimo": 2005,
+        "año máximo": 2008,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 82,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=82&min_year=2005&max_year=2008&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase A&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase A 2008",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2008-865126422",
+            "descripcion": "Importado, ITV hasta junio 2025. el mejor. un placer manejarlo. automático. control crucero. sensor estacionamiento. luces automáticas. espejo abatibles.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "82 cv",
+            "año": "2008",
+            "kilómetros": "63000 km",
+            "precio": 8500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2006",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2006-1073344141",
+            "descripcion": "Mercedes Benz A160 CDI Elegance, año 2006, 260654 km, 5 puertas , automático, aire acondicionado, volante multifunción, llantas R15, neumáticos 80% , perfecto estado exterior e interior, etiqueta medio ambiental B.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "82 cv",
+            "año": "2006",
+            "kilómetros": "260655 km",
+            "precio": 5500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2007",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2007-1038621966",
+            "descripcion": "Mercedes clase A en muy buenas condiciones, automático, ITV recién pasado, neumáticos recién cambiados Año 2007 KM 229000 Precio Algo Negociable",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "82 cv",
+            "año": "2007",
+            "kilómetros": "229000 km",
+            "precio": 4300.0
+        }
+    ]
+}
