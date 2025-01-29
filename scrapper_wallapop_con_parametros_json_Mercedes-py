@@ -275,9 +275,9 @@ for subdir, _, files in os.walk(base_directory):
                         return int(value)
                     except (ValueError, TypeError):
                         return default
-                min_year = safe_int(data.get('start_year', '1940'))
-                max_year = safe_int(data.get('end_year', '2025'))
-                max_horsepower = safe_int(data.get('potencia', '1000'))
+                min_year = safe_int(data.get('start_year', '1940'), 1940)
+                max_year = safe_int(data.get('end_year', '2025'), 2025)
+                max_horsepower = safe_int(data.get('potencia', '1000'), 1000)
                 keywords = data.get('version_name', '')
                 gearbox_types = data.get('gearbox_type', ['automatic', 'manual'])
                 engine_types = data.get('fuel_type', ['gasoline','gasoil','electric-hybrid','others'])
