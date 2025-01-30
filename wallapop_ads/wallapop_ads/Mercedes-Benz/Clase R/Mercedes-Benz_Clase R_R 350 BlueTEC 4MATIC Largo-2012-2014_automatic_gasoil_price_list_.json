@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase R",
+        "version": "R 350 BlueTEC 4MATIC Largo",
+        "año mínimo": 2012,
+        "año máximo": 2014,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 211,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=211&min_year=2012&max_year=2014&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase R&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase R 2013",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-r-2013-1092776123",
+            "descripcion": "Vehículo dotado de los siguientes extras: Techo panoramico eléctrico de cristal, asientos de cuero eléctrico y calefactables,cambio automático 7G con levas en el volante,navi plus,llanta 20, suspensión neumático,portón trasero eléctrico y algún extra más que no recuerdo.Para mi uno de los mejores 7 plazas del mercado por si fiabilidad, seguridad y gran motor. Teléfono:611560290",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "190 cv",
+            "año": "2013",
+            "kilómetros": "265000 km",
+            "precio": 13000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase R 2012",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-r-2012-1089210758",
+            "descripcion": "Vehículo en perfecto estado, todas las revisiones al día última completa, más batería nueva la indicada por Mercedes Benz nada de piratas, pastillas nuevas delante y detrás me lo Quito por que se queda pequeño el coche va de 10 .",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "190 cv",
+            "año": "2012",
+            "kilómetros": "185000 km",
+            "precio": 12500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase R 300 acepto cambios GARANTÍA ",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-r-300-acepto-cambios-1080703796",
+            "descripcion": "mereces R 300 Cdi 190 cv 2013 techo eléctrico climatizador bizona, levas, asientos calefactados, 5 plazas parktronick sensores navegación asientos piel y alcantara reviones al día itv ruedas etc muy buen estado. TRANSFERENCIA INCLUIDA EN EL PRECIO. POSIBILIDAD DE GARANTÍA 300€. PRECIO NO NEGOCIABLE. acepto audi A1, A3, A4, A5, A6, A7, s1, s3, s5, s6, rs3, rs4, rs5, sq5, q2, q3, q5, q7. bmw serie 1, serie 3, serie 5, x1, x3, x5 mercedes clase A, clase B, clase C, gla, glc, gle, glk. Seat Ibiza, León, ateca, arona toledo. Ford fiesta, focus, xmax, smax, mondeo, kuga. Volkswagen Polo, golf, passat, t-cross, arteon, touareg, touran, tiguan, gti, gtd, gte. Toyota yaris, Corolla, Auris, rav4, camry, chr. Mitsubishi outlander. Peugeot 208, Peugeot 308, Peugeot 508, Peugeot 2008, peugeot 3008, 5008. Renault clio, Megane, talismán, Space, scenic, arkana, kadjar. Citroen c3, c4, c5, ds3, ds4, ds5, ds7, aircros. Máserati. Land rover evoque, velar, sport. Opel corsa, astra, meriva, crosland, grandland. Hyundai tucson, kona, i30, i40. Kia sportage, Niro, Ceed, xceed. recogemos vehiculos previa tasación. Anuncio no vinculante, puede contener errores",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "190 cv",
+            "año": "2013",
+            "kilómetros": "243000 km",
+            "precio": 9999.0
+        }
+    ]
+}

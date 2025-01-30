@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "SLC",
+        "version": "200",
+        "año mínimo": 2016,
+        "año máximo": 2018,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 184,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=184&min_year=2016&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Mercedes-Benz&model=SLC&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz SLC 2017",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-slc-2020-1069700648",
+            "descripcion": "Impecable, muy divertido, ideal para disfrutar conduciendo tanto con, como sin capota. Responde muy muy bien. Es automatico, pero tiene la opcion del cambio secuencial que es espectacular. Luces led inteligentes, 👌. logo proyectado en el suelo al abrir el coche. Tapiceria con remates en rojo a conjunto con los cinturones. Un capricho.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "184 cv",
+            "año": "2017",
+            "kilómetros": "30000 km",
+            "precio": 35000.0
+        },
+        {
+            "titulo": "Mercedes-Benz SLC 2016",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-slc-2016-1094281369",
+            "descripcion": "MERCEDES-BENZ ClaseSLC 180 (157 c.v) – Lujo, estilo y emoción en cada kilómetro Precio al contado: 26.500 € Garantía: 12 meses incluida, posibilidad de contratar 2 y 3 años desde 500 €. El Mercedes-Benz Clase SLC es mucho más que un coche: es una declaración de estilo y personalidad. Diseñado para quienes buscan emociones al volante, este descapotable combina la sofisticación alemana con un rendimiento excepcional. Con un único propietario y historial de mantenimiento completo en el servicio oficial Mercedes-Benz, este vehículo garantiza fiabilidad y cuidado en cada detalle. ¿Por qué elegir este SLC? Diseño icónico: Su carrocería descapotable cautiva todas las miradas y te invita a disfrutar de la conducción a cielo abierto. Rendimiento potente: Con un motor ágil y equilibrado, cada trayecto se convierte en una experiencia inolvidable. Exclusividad: Este coche es ideal para quienes valoran el lujo y la distinción en cada detalle. Historia impecable: Su mantenimiento en el servicio oficial Mercedes-Benz asegura un estado técnico perfecto. Equipamiento destacado: Asientos deportivos en tela de alta calidad: Elegancia y comodidad en cualquier trayecto. Sistema multimedia avanzado: Pantalla central con Bluetooth para llamadas y música en streaming. Techo retráctil automático: Convierte tu coupé en un descapotable en cuestión de segundos. Faros LED High-Performance: Mayor visibilidad y un diseño moderno y atractivo. Control de crucero: Ideal para trayectos largos y relajados. Ventajas adicionales: Vehículo de un solo propietario: Conducción cuidada y sin sorpresas. Historial completo en Mercedes-Benz: Garantía de calidad y fiabilidad. Diseño atemporal: Un coche que siempre estará de moda. 📍 Ubicación: Calle Santa Eulália, 220, 08902, Barcelona. 📱 Más fotos y vídeos disponibles por WhatsApp. 🚗 Aceptamos coche como parte de pago y ofrecemos envío del vehículo a tu domicilio. ¡Consúltanos! 🌍 WE CAN PROVIDE INFORMATION IN ENGLISH, UCRANIAN OR RUSSIAN.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "157 cv",
+            "año": "2016",
+            "kilómetros": "39000 km",
+            "precio": 26500.0
+        }
+    ]
+}

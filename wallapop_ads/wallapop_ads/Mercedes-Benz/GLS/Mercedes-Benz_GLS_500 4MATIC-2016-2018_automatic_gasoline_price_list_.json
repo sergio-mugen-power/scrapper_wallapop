@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "GLS",
+        "version": "500 4MATIC",
+        "año mínimo": 2016,
+        "año máximo": 2018,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 455,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=455&min_year=2016&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=GLS&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz GLS  500 AMG",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-gls-500-924714317",
+            "descripcion": "Vehículo en perfecto estado y con todas las revisiones al día realizadas en servicio oficial. Interior en cuero con asientos calefactables y con masaje. Paquete AMG interior y exterior. Una maravilla de coche.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "455 cv",
+            "año": "2017",
+            "kilómetros": "178000 km",
+            "precio": 54490.0
+        },
+        {
+            "titulo": "Mercedes-Benz GLS 2017",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-gls-2017-1095616668",
+            "descripcion": "En venta Mercedes Benz Gls450 con paquete exterior AMG 2017 Gasolina 140.000 km 7 plazas Interior marrón café Exterior negro llantas de 22\" Y tiene una \"eliminación de cromo\" con una capa negra en el cromo, por lo que es fácil volver al cromado si se desea Viene con llantas adicionales de 20\" con neumáticos para todas las estaciones (perfectas para esquiar en Sierra Nevada) Siempre revisado por Mercedes, ITV aprobada en diciembre Tiene ITV hasta 2026 mas photos y videos por whatsapp",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "362 cv",
+            "año": "2017",
+            "kilómetros": "140000 km",
+            "precio": 45990.0
+        },
+        {
+            "titulo": "Mercedes-Benz GLS 2017",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-gls-2017-970134252",
+            "descripcion": "Revisión recién hecha completa en Mercedes oficial con cambio de pastillas , ruedas nieve nuevas, 7 plazas , techo panoramico , equipo música profesional harnam kardon , asiento con masaje y calefacción , cámara 360, pantallas traseras multimedia TV,asistente carretera , ruedas de verano nuevas ,suspensión adaptativa sport ,cristales doble capa aislante ,1 pack de mantenimiento gratis en Mercedes .",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "455 cv",
+            "año": "2017",
+            "kilómetros": "105000 km",
+            "precio": 44900.0
+        }
+    ]
+}

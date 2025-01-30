@@ -1,0 +1,69 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase E",
+        "version": "E 280 Familiar",
+        "año mínimo": 2006,
+        "año máximo": 2008,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 231,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=231&min_year=2006&max_year=2008&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Mercedes-Benz&model=Clase E&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase E 2007",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2007-1008939883",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "184 cv",
+            "año": "2007",
+            "kilómetros": "144000 km",
+            "precio": 9499.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E200K AVANTGARDE",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e220k-avantgarde-1050035381",
+            "descripcion": "MERCEDES-BENZ E200K AVANTGARDE NACIONAL 3 LLAVES BIXENON SENSOR DE LUZ Y LLUVIA NAVEGADOR GRANDE RADIO CD CON Mp3 +AUX+USB PANTALLA TACTIL TELEFONO BLUETOOTH CRUISE CONTROL VOLANTE MULTIFUNCION ORDENADOR DE ABORDO LLANTAS DE ALEACION ASIENTOS EN PIEL-TELA ELECTRICOS ESPEJOS ELECTRICOS ISOFIX PEGATINA MEDIOAMBIENTAL C Este anuncio y el precio será válido salvo error tipográfico. Vehículo en estado. Este anuncio no es vinculante, se muestra a título informativo y no es contractual. Cambio de titularidad 200,00€. FINANCIACION 100%",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "184 cv",
+            "año": "2007",
+            "kilómetros": "251000 km",
+            "precio": 7490.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E 2007",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-200k-4p-1071809835",
+            "descripcion": "Vehículo NACIONAL muy bien cuidado todo el mantenimiento completamente al dia, se entrega con -12 meses de garantía profesional -Certificado de ausencia de golpes en la estructura del vehículo -Certificado de kilometraje real. Extras destacables: Tapiceria crema en piel, volante multifunción, ordenador de abordo, navegación, asientos electrónicos, xenon, sensor de luces y lluvia. Y muchos más extras consultar sin compromiso. Admitimos coche como parte de pago también atendemos sábados y domingos imprescindible cita previa para cualquier día. ***TasAuto Madrid***",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "184 cv",
+            "año": "2007",
+            "kilómetros": "170000 km",
+            "precio": 7490.0
+        },
+        {
+            "titulo": "1000€ Mercedes-Benz Clase E 2006",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2006-1093028155",
+            "descripcion": "PRECIO 1000€ Averíado. En venta mercedes clase e200 kompressor averiado con el motor malo. PRECIO NO NEGOCIABLE va al desguace si no se vende. 210 mil km reales NACIONAL y manual coche siempre en la misma familia ( padre-hija ) ITV HASTA JUNIO. Repito coche para reparar motor para sustituir no sé negocia. Déjame tu teléfono y te llamo. NO MAREANTES.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "184 cv",
+            "año": "2006",
+            "kilómetros": "200000 km",
+            "precio": 1500.0
+        }
+    ]
+}

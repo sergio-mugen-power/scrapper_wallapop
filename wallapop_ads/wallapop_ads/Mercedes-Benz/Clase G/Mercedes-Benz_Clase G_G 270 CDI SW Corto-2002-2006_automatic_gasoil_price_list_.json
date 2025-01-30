@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase G",
+        "version": "G 270 CDI SW Corto",
+        "año mínimo": 2002,
+        "año máximo": 2006,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 156,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=156&min_year=2002&max_year=2006&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase G&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase G 2002 NACIONAL",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-g-2002-884190377",
+            "descripcion": "Mercedes Clase G comprado a un amigo,nacional con todos los mantenimientos en regla, el coche se entrega recién pintado, y restaurado el interior conservando todos sus componentes originales. 121.000 km!!!garantia de 1 año",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "156 cv",
+            "año": "2002",
+            "kilómetros": "121000 km",
+            "precio": 40800.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase G 2004",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-g-2004-951671209",
+            "descripcion": "ITV HASTA ENERO, TODOS LOS MANTENIMIENTOS (TODOS) HECHOS, EL COCHE ESTÁ PERFECTO TIENE LLANTAS AMG 22 PULGADAS A MAYORES PANTALLAS CON NAVEGADOR, TECHO SOLAR, ASIENTOS ELÉCTRICOS, VOLANTE ELÉCTRICO MULTIFUNCIONAL, SUSPENSIONES CONI CON MUELLES EIBACH (CON MENOS DE 15000km)…. SE ENTREGAN TODAS LAS PIEZAS SUSTENTADAS.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "156 cv",
+            "año": "2004",
+            "kilómetros": "294000 km",
+            "precio": 35000.0
+        }
+    ]
+}

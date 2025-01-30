@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase E",
+        "version": "E 200 CDI BlueEFFICIENCY Berlina",
+        "año mínimo": 2012,
+        "año máximo": 2013,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 136,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=136&min_year=2012&max_year=2013&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Mercedes-Benz&model=Clase E&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase E 2012",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2012-1037445266",
+            "descripcion": "PIDA SU CITA PARA UNA ATENCIÓN MEJORADA Y PERSONALIZADA -12 MESES DE GARANTÍA -CAMBIO DE NOMBRE INCLUIDO CARACTERÍSTICAS: -BUEN ESTADO GENERAL -CAMBIO MANUAL -MOTOR 2.15 DIÉSEL /136 CV -EDICIÓN BLUE EFFICIENCY -2 LLAVES EXTRAS: -faros xenon con led -sensores de aparcamiento -portón de maletero eléctrico -modo eco -asientos semi eléctricos -volante multifunción -climatizador bi-zona -luces automáticas -control de crucero -4 elevalunas eléctricos -retrovisores con regulación eléctrica -Fotos y videos en máxima calidad en autotraderlevante.es -WE SPEAK ENGLISH AS WELL -NOUS PARLONS FRANÇAIS -Posibilidad de financiación. -Cogemos tu coche como forma de pago. -Enviamos a domicilio (consultar condiciones) / fotos y videos detallados por whatsapp. Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "136 cv",
+            "año": "2012",
+            "kilómetros": "158000 km",
+            "precio": 13750.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E 2012",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2012-1094454145",
+            "descripcion": "603016129En muy buen estado de todo se puede ver y probar sin ningún compromiso",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "136 cv",
+            "año": "2012",
+            "kilómetros": "200947 km",
+            "precio": 9500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E 2012",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2012-1093848517",
+            "descripcion": "Hola vendo mi coche esta en perfecto estado y bien cuidado",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "136 cv",
+            "año": "2012",
+            "kilómetros": "247000 km",
+            "precio": 7500.0
+        }
+    ]
+}

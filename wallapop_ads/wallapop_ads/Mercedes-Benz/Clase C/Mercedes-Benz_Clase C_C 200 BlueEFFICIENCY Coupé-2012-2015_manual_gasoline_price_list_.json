@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase C",
+        "version": "C 200 BlueEFFICIENCY Coupé",
+        "año mínimo": 2012,
+        "año máximo": 2015,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 184,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=184&min_year=2012&max_year=2015&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Mercedes-Benz&model=Clase C&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase C 2015 AMG",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-c-2015-amg-1072886112",
+            "descripcion": "Mercedes Clase C C200 line estate AMG , Equipamiento interior y exterior AMG ,asientos de cuero, asientos calefactables , techo negro , con bola Mercedes abatible, equipo de música Burmester. Muchos extras .Recién cambiado el embrague en Mercedes. Discos , pastillas delanteras y las 4 cubiertas también recién cambiadas. Está en perfecto estado y muy bien cuidado.Envio más fotos.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "184 cv",
+            "año": "2015",
+            "kilómetros": "238500 km",
+            "precio": 15999.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase C 2012",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-c-2012-1080989929",
+            "descripcion": "MERCEDES CLASE C C200 AMG Gasolina 184cv EQUIPADO CON : • Pack AMG intrerior y exterior • Asientos deportivos cuero y tela • Asiento conductor eléctrico • Asientos calefactados • Climatizador Bixona • Pilotos traseros led • Control de velocidad • Ordenador de abordo • Sensores de aparcamiento • Llantas de aluminio AMG • Volante multifuncion AMG • Lunas oscurecidas • Sensor de luces • Teléfono bluetooth... • Vehiculo IMPORTADO matriculado en Octubre 2014 en España, primera matriculación año 2012. • Lleva solamente 129.000km con libro de mantenimiento completo sellado en Mercedes.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "184 cv",
+            "año": "2012",
+            "kilómetros": "129000 km",
+            "precio": 15500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase C 2012",
+            "enlace": "https://es.wallapop.com/item/volkswagen-transporter-t5-2011-1003818742",
+            "descripcion": "Mercedes c180 coupe. 9/2012. 201 mil kms con libro de mantenimiento. Amg interior y exterior. Navegador. Sensores aparcamiento . Sonido Harman Kardon y más.. Impecable estado. Mantenimiento al día. Se entrega matriculada, ITV, cambio de nombre incluido. Garantía de un año 350. Acepto prueba mecánica. No me interesan cambios . Mejor ver .",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "156 cv",
+            "año": "2012",
+            "kilómetros": "201000 km",
+            "precio": 11995.0
+        }
+    ]
+}

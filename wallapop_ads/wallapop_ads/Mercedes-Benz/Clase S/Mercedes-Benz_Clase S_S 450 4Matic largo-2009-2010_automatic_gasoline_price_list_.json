@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase S",
+        "version": "S 450 4Matic largo",
+        "año mínimo": 2009,
+        "año máximo": 2010,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 340,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=340&min_year=2009&max_year=2010&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase S&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase S 400 Hybrid 2010",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-s-400-hybrid-2010-1094661801",
+            "descripcion": "El coche se ha puesto a punto en el mes de diciembre de 2024 para su venta. Por lo que tiene todo revisado. Preguntad y damos más información sin problema. ITV pasada hasta año siguiente. Tiene un desperfecto por uso en la zona de encendido de bombilla encima de la cabeza del piloto y algún arañazo sin importancia en el exterior. No puedo adjuntar foto porque sólo me deja añadir 9 fotos, pero pídela y te la mando. Pedid toda la información sin compromiso que necesitéis y se os darán fotos, papeles o lo que queráis ver. 201000kms. Pegatina B amarilla. Gasolina. Es automático. Matriculado por primera vez en 2010. El coche se encuentra en Madrid, zona Centro, para poder verlo y probarlo.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "299 cv",
+            "año": "2010",
+            "kilómetros": "201000 km",
+            "precio": 19500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase S 2009",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-s-2009-1061770473",
+            "descripcion": "FULL EQUIPADO , para mas información pregunte sin compromiso.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "272 cv",
+            "año": "2009",
+            "kilómetros": "202000 km",
+            "precio": 13499.0
+        }
+    ]
+}

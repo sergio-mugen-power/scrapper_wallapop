@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase S",
+        "version": "Mercedes-AMG S 63 4MATIC+ Coupé",
+        "año mínimo": 2020,
+        "año máximo": 2021,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 612,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=612&min_year=2020&max_year=2021&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase S&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes S 500 4M | EQ Power | Full Equip",
+            "enlace": "https://es.wallapop.com/item/mercedes-s-500-4m-eq-power-full-equip-1089942260",
+            "descripcion": "PERFECTO ESTADO - GARANTIA en OFICIAL MERCEDES-BENZ ---Año: 29-04-2021 - Híbrido ( Gasolina-Eléctrico) - ETIQUETA ECO-- Libro Revisiones Mercedes -- Extras : Paquete AMG -- TECHO PANORÁMICO CRISTAL -- Paquete Noche -- Llantas 21\" -- Display Digital --Paquete Aparcamiento + Cámara 360º -- Apple Car Play + Android Auto -- Realidad Aumentada de NAvegación --- Tracción 4x4 -- Asientos Delanteros Calefactados y Ventilados -- Portón Trasero Automático -- Cristales Tintados -- mas...TODO EL EQUIPAMIENTO , FOTOS, VIDEO EN : autoexclusivebcn.com",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "435 cv",
+            "año": "2021",
+            "kilómetros": "78800 km",
+            "precio": 95990.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase S 2020",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-s-2020-932391520",
+            "descripcion": "Es nacional, matricula original de Madrid, va bien esta con itv, es del 61, modelo colas.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "517 cv",
+            "año": "2020",
+            "kilómetros": "80000 km",
+            "precio": 15000.0
+        }
+    ]
+}

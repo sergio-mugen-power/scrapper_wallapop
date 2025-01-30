@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase S",
+        "version": "SL 280",
+        "año mínimo": 1998,
+        "año máximo": 2001,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 204,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=204&min_year=1998&max_year=2001&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Mercedes-Benz&model=Clase S&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase S 1998",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-280-se-185-cv-1985-1014935713",
+            "descripcion": "Mercedes 280 SE, SEL 185 CV (1985) -Coche Clasico en muy buen estado de conservación. -Lleva mas de 10 años parado -Hay que hacerle una puesta apunto. -No tiene ITV -Vehículo nacional -Se vende en estado, sin garantía.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "185 cv",
+            "año": "1998",
+            "kilómetros": "280953 km",
+            "precio": 4500.0
+        }
+    ]
+}

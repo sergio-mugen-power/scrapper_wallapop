@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "SLC",
+        "version": "250 d 9G-TRONIC",
+        "año mínimo": 2016,
+        "año máximo": 2018,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 204,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=204&min_year=2016&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=SLC&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes SLC 250d AMG EXCLUSIVE 205cv",
+            "enlace": "https://es.wallapop.com/item/mercedes-slc-250d-amg-exclusive-205cv-1083425161",
+            "descripcion": "- Paquete AMG EXCLUSIVE - Cambio AUTOMÁTICO-SECUENCIAL - Levas en el volante - Cabrio - Llantas de aleación de 18\" - Tapicería en cuero - Sensor de aparcamiento delantero y trasero - Cámara trasera de aparcamiento - Asientos con regulación eléctrica y memorias - Asientos calefactados en asiento y cuello - Retrovisores con ajuste y plegado eléctrico - Control de velocidad - Climatizador bizona - Navegador - Sensor de luz y lluvia - Manos libres-Bluetooth - Radio CD -12 MESES DE GARANTÍA- -KILÓMETROS CERTIFICADOS- -VEHÍCULO EN STOCK- -ENTREGA INMEDIATA- -TRANSFERENCIA INCLUIDA- -MÁS DE 35 AÑOS EN EL SECTOR- -ENTREGA A NIVEL NACIONAL-",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "204 cv",
+            "año": "2016",
+            "kilómetros": "106741 km",
+            "precio": 35900.0
+        },
+        {
+            "titulo": "Mercedes-Benz SLC 2016",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-slc-2016-809478432",
+            "descripcion": "AMG LINE COMPLETO, Asientos tipo Baquets Black&White, sistema de frenado Anticolision frontal, Luna delantera eléctrica y térmica, sistema de mapas completos de Conducción , incluido el personalizable, Par&Revoluciones & suspension, asientos calefactables, asistente al aparcamiento, Aircarf, Levas 9G-Tronic, Discos perforados AMG, ruedas nuevas, Pulsador sistema de auxilio SOS MB España, Madrid- Málaga con medio depósito, etc... Con su libro de revisiones MB al día, se entrega con revision completa en MB oficial, 4 neumáticos nuevos+ paralelo +llantas pulidas, Sr. Collado.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "204 cv",
+            "año": "2016",
+            "kilómetros": "140000 km",
+            "precio": 30500.0
+        }
+    ]
+}

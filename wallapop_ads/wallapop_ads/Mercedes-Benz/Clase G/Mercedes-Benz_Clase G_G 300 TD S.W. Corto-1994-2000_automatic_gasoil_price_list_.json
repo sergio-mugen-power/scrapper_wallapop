@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase G",
+        "version": "G 300 TD S.W. Corto",
+        "año mínimo": 1994,
+        "año máximo": 2000,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 177,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=177&min_year=1994&max_year=2000&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase G&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase G 1996",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-g-1996-925191290",
+            "descripcion": "MERCEDES G 300 TD 177 cv ITV al día, aceite y filtros recién cambiados, neumáticos con menos de 500 km Asientos de cuero y calefactable, aire acondicionado, cambio automático, control de velocidad, enganche para remolque etc… Vehículo en estado de conservación excepcional!!. Código de motor: 606.964 Mercedes ya no fabrica motores como este !!! Es el mejor motor que ha fabricado !!! Este motor hace más de 1 millón de kilómetros solo con revisiones y en esta unidad solo tiene 235.000 km… Vamos, que está en rodaje !!! Esta unidad esta nueva no hay ninguna en el mercado igual !!! Recojo parte de pago 55 AMG Rolex y oro. #4x4 #G63 #G55 #G500 #s65 #e55",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "177 cv",
+            "año": "1996",
+            "kilómetros": "235000 km",
+            "precio": 49900.0
+        },
+        {
+            "titulo": "Mercedes 290GD W461 1997",
+            "enlace": "https://es.wallapop.com/item/mercedes-290gd-w461-1997-1085094388",
+            "descripcion": "Mercedes 290GD W461 1997 Vehículo muy cuidado, mantenimiento al día en CSA 4x4 Fecha de primera matriculación: 4/14/21997 116.000 KM Cambio automático, 3 bloqueos Amortiguadores reforzados Koni Muelles +7 King Spring Paragolpes + faros adicionales Cabestrante WARM Asientos Recaro eléctricos Llantas Braid 16\" Neumáticos 285/75/16 Faros HELLA",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "177 cv",
+            "año": "1997",
+            "kilómetros": "116000 km",
+            "precio": 39000.0
+        },
+        {
+            "titulo": "MERCEDES-BENZ CLASE G 300 TD LARGO AUTO",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-g-300-td-largo-auto-1064268314",
+            "descripcion": "MERCEDES-BENZ CLASE G 300 DT LARGO ** Vehículo en buen estado con el kilometraje garantizado y certicado por escrito. * Equipamiento: - Cambio automático/secuencial. - Paquete completo 63 AMG. - Llantas AMG. - Asientos de cuero. - Techo solar. - Bloqueo de diferenciales. - Reductora. - Elevalunas eléctricos. ** PRECIO NO NEGOCIABLE **",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "177 cv",
+            "año": "1999",
+            "kilómetros": "240000 km",
+            "precio": 38000.0
+        }
+    ]
+}

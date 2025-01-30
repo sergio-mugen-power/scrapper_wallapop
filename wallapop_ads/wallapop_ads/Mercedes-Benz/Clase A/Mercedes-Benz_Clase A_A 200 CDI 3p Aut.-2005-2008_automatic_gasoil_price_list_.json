@@ -35,7 +35,7 @@
         {
             "titulo": "Mercedes-Benz Clase A 79.000km",
             "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-79-000km-1071513162",
-            "descripcion": "Cambio Automático,5 puertas,aire aconcicionado,cierre centralizado,elevalunas eléctricos,ITV al día. ETIQUETA MEDIOAMBIENTAL AMARILLA..",
+            "descripcion": "",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "109 cv",
@@ -101,7 +101,7 @@
         {
             "titulo": "Mercedes-Benz Clase A ",
             "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-1073525101",
-            "descripcion": "Oportunidad!! MERCEDES-BENZ Clase A A 180 CDI Red Black 3P. 148.000kms. año SEPTIEMBRE 2007. Automático, llantas aleación, aire acondicionado, c. velocidad, ordenador abordo, bluetooth, sensor de luces, procedencia PARTICULAR. mantenimiento e itv al día. Motor con distribución por cadena. Buen estado general int/ext. revisado y acondicionado. garantía 12 meses con cobertura nacional incluida en el precio. cambio titular +300€. concertar cita. OKASIONARIO. OKASIONARIO Vehículos de Ocasión.¡¡ Solo Oportunidades!! *Venta profesional y personalizada. *Vehículos seleccionados.",
+            "descripcion": "",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "109 cv",
@@ -112,7 +112,7 @@
         {
             "titulo": "Mercedes-Benz Clase A 2008",
             "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2008-1079980511",
-            "descripcion": "Vehículo automático,motor 2.0 diésel con 140cv, con cambio nuevo,itv recien pasada,revision recién hecha,ruedas nuevas,funciona todo perfectamente,tiene algun desperfecto en el asiento del conductor y paragolpes,resto en perfecto estado, no hay que hacerle absolutamente nada,acepto cambio por vehiculo cinco puertas,diésel aportando diferencia si fuera necesario,tipo mercedes glk ,ml,",
+            "descripcion": "Vehículo automático,motor 2.0 diésel con 140cv, con cambio nuevo,itv recien pasada,revision recién hecha,ruedas nuevas,funciona todo perfectamente,tiene algun desperfecto en el asiento del conductor y paragolpes,resto en perfecto estado, no hay que hacerle absolutamente nada.",
             "combustible": "Diésel",
             "cambio": "Automático",
             "potencia": "136 cv",
@@ -240,6 +240,17 @@
             "año": "2006",
             "kilómetros": "106000 km",
             "precio": 4800.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2005",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2005-1095218825",
+            "descripcion": "mercedes benz A200 Elegance automatico 3Puertas año 2005",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2005",
+            "kilómetros": "169084 km",
+            "precio": 4500.0
         },
         {
             "titulo": "Mercedes-Benz Clase A 180 CDI Automático 110 CV",
@@ -438,17 +449,6 @@
             "año": "2006",
             "kilómetros": "285000 km",
             "precio": 3499.0
-        },
-        {
-            "titulo": "Mercedes-Benz Clase A 2008",
-            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2008-1086080243",
-            "descripcion": "Se vende mercedes clase A 180D avantgarde automático, tiene los inyectores nuevos y amortiguadores y discos delanteros cambiados nuevos. (Hay que hacerle la reparación mecatronica de la caja de cambios que falla aveces coste de todo 700eur) Precio 3000€",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "109 cv",
-            "año": "2008",
-            "kilómetros": "290000 km",
-            "precio": 3000.0
         }
     ]
 }

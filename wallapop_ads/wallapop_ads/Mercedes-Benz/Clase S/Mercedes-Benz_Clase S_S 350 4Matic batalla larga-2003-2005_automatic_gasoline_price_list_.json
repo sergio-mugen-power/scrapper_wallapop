@@ -1,0 +1,69 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase S",
+        "version": "S 350 4Matic batalla larga",
+        "año mínimo": 2003,
+        "año máximo": 2005,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 245,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=245&min_year=2003&max_year=2005&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase S&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz S350 año 2003",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-s350-ano-2003-1085233336",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "245 cv",
+            "año": "2003",
+            "kilómetros": "108000 km",
+            "precio": 10000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase S 2005",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-s-2005-1094371755",
+            "descripcion": "Vehiculo nacional en perfecto estado como se puede apreciar en las inagenes.Siempre en garaje y perfectamente mantenido.Todo le funciona.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "245 cv",
+            "año": "2005",
+            "kilómetros": "278000 km",
+            "precio": 8900.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase S 2003",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-s-2003-1060071144",
+            "descripcion": "- modelo: Mercedes benz clase S 350 4 matic - Combustible GASOLINA - Cambio AUTOMÁTICO - matriculado el 9/7/2003 - ⁠5 puertas - ⁠tapicería interior cuero beige - ⁠color exterior azul oscuro - ⁠km 120.600 - ⁠siempre guardado en garaje - ⁠ITV SIN DEFECTOS 30/9/2024 - ⁠revisión mecánico 27/9/2024 SE VENDE POR NO DARLE USO.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "245 cv",
+            "año": "2003",
+            "kilómetros": "120600 km",
+            "precio": 8900.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase S 2003",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-s-2003-868900057",
+            "descripcion": "vende mercedes s 320 gasolina con 224cv. disfruta de esta lujosa berlina recien revisada en perfecto estado mecanico y estetico, sin desgastes ni averias. vehiculo nacional con gran equipamiento y todo el lujo de la gama alta de mercedes. equipado con asientos calefactables con regulación electrica y memorias, suspension neumatica regulable, pantalla radio cd mp3 con navegacion gps , llantas de aluminio, sensores de aparcamiento, volante de cuero electrico con control de velocidad, climatización, luces automaticas, ETC ,",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "224 cv",
+            "año": "2003",
+            "kilómetros": "288000 km",
+            "precio": 3500.0
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase X",
+        "version": "X 250 d 4MATIC Progressive Automático",
+        "año mínimo": 2017,
+        "año máximo": 2020,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 190,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=190&min_year=2017&max_year=2020&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase X&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase X 250 d Pure 4Matic 140 kW (190 CV)",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-x-250-d-pure-4matic-140-kw-190-cv-1093328596",
+            "descripcion": "Precio oferta sujeto a financiación: 31728 EUR. Precio al contado: 34900 EUR. *BDN* OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 3172€ de descuento en este coche Precio oferta financiado: 31728€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 34900€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: 4x4, Encendido automático de faros, Sensor de lluvia, Asistente de cambio de carril, Asistente de mantenimiento de carril, Control de velocidad, Limitador de velocidad, Volante multifunción, Aire Acondicionado (Climatizador), Isofix, Bluetooth, Llantas de aleación (17\"). - Coche Nacional. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "190 cv",
+            "año": "2018",
+            "kilómetros": "122468 km",
+            "precio": 31728.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase X 250 d Pure 4Matic 140 kW (190 CV)",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-x-250-d-pure-4matic-140-kw-190-cv-1089735789",
+            "descripcion": "Precio oferta sujeto a financiación: 31728 EUR. Precio al contado: 34900 EUR. *BDN* OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 3172€ de descuento en este coche Precio oferta financiado: 31728€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 34900€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: 4x4, Encendido automático de faros, Sensor de lluvia, Asistente de cambio de carril, Asistente de mantenimiento de carril, Control de velocidad, Limitador de velocidad, Volante multifunción, Aire Acondicionado (Climatizador), Isofix, Bluetooth, Llantas de aleación (17\"). - Coche Nacional. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "190 cv",
+            "año": "2018",
+            "kilómetros": "122468 km",
+            "precio": 31728.0
+        }
+    ]
+}

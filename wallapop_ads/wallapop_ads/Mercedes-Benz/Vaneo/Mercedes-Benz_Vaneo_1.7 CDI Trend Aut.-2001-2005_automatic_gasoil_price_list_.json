@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Vaneo",
+        "version": "1.7 CDI Trend Aut.",
+        "año mínimo": 2001,
+        "año máximo": 2005,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 91,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=91&min_year=2001&max_year=2005&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Vaneo&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Vaneo 2003 17CDI",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-vaneo-2003-17cdi-1091402847",
+            "descripcion": "Mercedes - benz Vaneo 17CDI DIESEL Cilindrada 1689 Año 2003 SIN DISTINTIVO AMBIENTAL ITV VALIDA HASTA 15/08/2025 Cambio automàtico cambiado hace 3 meses Precio negociable",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "91 cv",
+            "año": "2003",
+            "kilómetros": "190000 km",
+            "precio": 4000.0
+        }
+    ]
+}

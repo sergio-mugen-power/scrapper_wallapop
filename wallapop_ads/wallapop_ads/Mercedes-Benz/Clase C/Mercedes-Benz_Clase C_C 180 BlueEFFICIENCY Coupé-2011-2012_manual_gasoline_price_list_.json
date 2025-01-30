@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase C",
+        "version": "C 180 BlueEFFICIENCY Coupé",
+        "año mínimo": 2011,
+        "año máximo": 2012,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 156,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=156&min_year=2011&max_year=2012&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Mercedes-Benz&model=Clase C&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase C 2011",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-c-2011-1019374010",
+            "descripcion": "Vendo este Mercedes Benz Clase C180 Coupé de gasolina, color blanco calcita, 2 puertas, manual de 6 velocidades con 78.000km aprox., de procedencia Nacional con etiqueta C (verde). Itv en regla hasta Nov 2025 (0 fallos). No hay ni rezumes ni ningún tipo de pérdida de fluidos. El perfecto estado mecánico es indudable. MÁS DETALLES EN LA ULTIMA FOTO",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "156 cv",
+            "año": "2011",
+            "kilómetros": "78000 km",
+            "precio": 19500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase C 2012",
+            "enlace": "https://es.wallapop.com/item/volkswagen-transporter-t5-2011-1003818742",
+            "descripcion": "Mercedes c180 coupe. 9/2012. 201 mil kms con libro de mantenimiento. Amg interior y exterior. Navegador. Sensores aparcamiento . Sonido Harman Kardon y más.. Impecable estado. Mantenimiento al día. Se entrega matriculada, ITV, cambio de nombre incluido. Garantía de un año 350. Acepto prueba mecánica. No me interesan cambios . Mejor ver .",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "156 cv",
+            "año": "2012",
+            "kilómetros": "201000 km",
+            "precio": 11995.0
+        },
+        {
+            "titulo": "MERCEDES-BENZ 180 AVNGARDEN+GARANTIA 1 AÑO +156CV ",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-c-2011-1089674270",
+            "descripcion": "HORARIO *LUNES A VIERNES 10:00 – 14:00 Y 16:00 – 20:00* *SÁBADOS 10:00 – 14:00* *ATENDEMOS CON CITA PREVIA PARA OFRECERTE EL MEJOR SERVICIO* PRUEBA TU COCHE DURANTE 15 DÍAS / 500 KM 12 MESES DE GARANTÍA EN MOTOR Y CAJA DE CAMBIOS INCLUIDA EN EL PRECIO *AMPLÍA TU GARANTÍA, LIBRE ELECCIÓN DE TALLER, COBERTURA NACIONAL Y HASTA 24 MESES DESDE 190€* FINANCIACIÓN SIN PAPELEO CON LOS MEJORES INTERESES DEL MERCADO DESDE 6.99 TIN MERCEDES MERCEDES-BENZ CLASE C W204 1.8 C 180 CGI ESTE VEHÍCULO SE ENTREGA REVISADO Y CON TODOS LOS MANTENIMIENTOS NECESARIOS REALIZADOS POR NOSOTROS DISTRIBUCIÓN POR CADENA, 291.665 KILÓMETROS REALES Y DEMOSTRABLES ÚNICO PROPIETARIO MATRICULADO EL 07.06.2011 , GASOLINA, 4 Puertas, 156 CV, ETIQUETA C MEDIO AMBIENTAL MERCEDES-BENZ CLASE C W204 180CGI AVANTGARDE ,CONTROL DE VELOCIDAD , NAVEGADOR ,TIENE 2 LLAVES, CLIMATIZADOR ,COCHE NO TIENE NINGUN DESGASTE , FUNCIONA PERFECTAMENTE, NO TIENE RUIDOS TIPICOS DE DESGASTE. *GASTOS DE GESTIÓN NO INCLUIDOS LLÁMANOS Y RESUELVE TODAS TUS DUDAS. *Este anuncio puede contener errores*",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "156 cv",
+            "año": "2011",
+            "kilómetros": "290000 km",
+            "precio": 8999.0
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase S",
+        "version": "S 63 AMG",
+        "año mínimo": 2012,
+        "año máximo": 2013,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 544,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=544&min_year=2012&max_year=2013&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase S&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase S500 UNICO DUEÑO",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-s500-unico-dueno-1073913733",
+            "descripcion": "-S 500 L FULL EQUIP , interior exclusivo . -Unico dueño -Todas las revisiones en la Mercedes-Benz -Paquete AMG , camara 360 , asientos calefactables y ventilados tanto delanteros como trasero , CON MASAJE los asientos delanteros , musica burmister , techo panoramico ,navegador, diferentes modos de conduccion , suspension neumatica , porton del maletero electrico y muchos mas extras .",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "455 cv",
+            "año": "2013",
+            "kilómetros": "190000 km",
+            "precio": 31990.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase S S 500 4MATIC",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-s-s-500-4matic-1082399380",
+            "descripcion": "¿Qué te ofrece este vehículo?   Procedente de servicio oficial Mercedes Fecha de matriculación: 27/12/2013 Un muy buen estado Mantenimientos realizados en Mercedes Kilometraje Garantizado Se entrega totalmente revisado y con olor a nuevo ITV recién pasada. Financiación a medida y posibilidad de aceptar coche como parte de pago Entrega personalizada   Para Más Detalles Consulte Nuestra Web: WWW.UBECARS.COM   Servicios IMEXPORT UBECARS:   Puedes gestionar su compra 100% Online Te llevamos el vehículo a casa Posibilidad de extensión de garantía Vehículos a la carta Limpieza integral Certificamos todos los vehículos disponibles en stock Enviamos vehículos a toda España Atención personalizada en inglés y francés          Precio financiando la totalidad del vehículo mínimo 72 meses: 29.500 € Precio al contado: 29.500 € Este anuncio no es vinculante, puede contener errores. Se muestra a título informativo y no contractual.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "455 cv",
+            "año": "2013",
+            "kilómetros": "212700 km",
+            "precio": 29500.0
+        }
+    ]
+}

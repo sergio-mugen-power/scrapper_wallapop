@@ -1,0 +1,80 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase E",
+        "version": "E 200 CDI Familiar",
+        "año mínimo": 2007,
+        "año máximo": 2008,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 136,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=136&min_year=2007&max_year=2008&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Mercedes-Benz&model=Clase E&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase E 2008",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2008-1026442986",
+            "descripcion": "Mi padre tuvo un Audi A80 que cambió por este luego de 30 años. Estaba perfecto por dentro y fuera. Igual que este. Muy poco usado, siempre en garaje con los mejores cuidados. Recientemente cambiadas pastillas de frenos y frenos y pintado hace meses, tambien ruedas nuevas porque al pasar la ITV le hacian cambiar alguna y las ha puesto todas nuevas hace 2 meses. Típico hombre que cuida sus cosas al extremo. Lo vende por hacerse mayor y querer un coche más alto para acceder mejor. Solo negociara algo el precio en persona! PD: la estrella la tiene guardada Si vienes a verlo te lo quedas seguro!",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "136 cv",
+            "año": "2008",
+            "kilómetros": "112000 km",
+            "precio": 14000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E 2007",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2006-1070982489",
+            "descripcion": "ESTA COMO NUEVO SIEMPRE EN GARAJE Y MUY POCO USO cuidado a capricho Ruedas nuevas Mantenimientos al dia",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "136 cv",
+            "año": "2007",
+            "kilómetros": "193000 km",
+            "precio": 7800.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E 2008",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2008-1074979961",
+            "descripcion": "2mandos 2camara de parking adelante atrás salón de piel como nueva",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "13.9125 cv",
+            "año": "2008",
+            "kilómetros": "296000 km",
+            "precio": 5700.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E 2008",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2008-1091235861",
+            "descripcion": "ITV hasta julio 2025 El coche está en buen estado, todos perfectos",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "136 cv",
+            "año": "2008",
+            "kilómetros": "287000 km",
+            "precio": 5000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E 2007",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2007-1091619944",
+            "descripcion": "Vendo couche todos estás bien",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "136 cv",
+            "año": "2007",
+            "kilómetros": "300000 km",
+            "precio": 4800.0
+        }
+    ]
+}

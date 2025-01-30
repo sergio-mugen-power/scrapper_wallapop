@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Marco Polo",
+        "version": "220 d 7G-TRONIC PLUS",
+        "año mínimo": 2015,
+        "año máximo": 2019,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 163,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=163&min_year=2015&max_year=2019&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Marco Polo&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Marco Polo 2018",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-marco-polo-2018-1086780328",
+            "descripcion": "Marco Polo 220d de Diciembre de 2018. Ruedas y pastillas nuevas en Septiembre. Detalles de los extras en la ultima foto. Ademas todos los asientos y la zona del maletero tienen fundas a medida de Aguirrezabal desde el primer dia, por lo que los asientos originales estan nuevos. Cada vez que se ha levantado el techo, se a cubierto con una funda de la marca Thaiss. La zona del habitaculo y el maletero tiene alfombrillas a medida. La cocina apenas se ha utilizado. La chapa tiene algun roce, ningun golpe ni accidente. Para mas informacion, preguntar sin problema. Por favor, no marearme, solo gente interesada.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "163 cv",
+            "año": "2018",
+            "kilómetros": "80000 km",
+            "precio": 58000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Marco Polo 2019",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-marco-polo-2019-1052990921",
+            "descripcion": "Espectacular Mercedes Marco Polo horizon en perfecto estado, con muchos extras. Mas info por privado",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "163 cv",
+            "año": "2019",
+            "kilómetros": "107000 km",
+            "precio": 54000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Marco Polo 2016",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-classe-t-2022-1024319261",
+            "descripcion": "Furgoneta implecable Revisiones al día y garantía oficial Mercedes",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "163 cv",
+            "año": "2016",
+            "kilómetros": "130000 km",
+            "precio": 37500.0
+        }
+    ]
+}

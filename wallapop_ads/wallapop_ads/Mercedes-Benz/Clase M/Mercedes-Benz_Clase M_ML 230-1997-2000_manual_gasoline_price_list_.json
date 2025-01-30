@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase M",
+        "version": "ML 230",
+        "año mínimo": 1997,
+        "año máximo": 2000,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 150,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=150&min_year=1997&max_year=2000&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Mercedes-Benz&model=Clase M&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase M 1998",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-m-1998-1081837202",
+            "descripcion": "Todo homologado, motor muy fiable y con consumo moderado, tiene defensas artesanales hechas a medida en ARC, cabrestante de plasma, snorkel GEMA, suspensión profender +6, separadores 2.5, ruedas Cooper stt pro 225 75 16, protectores de bajos, luces LED delanteras y traseras, emisora...tambn se entregaría baca, baca africana y rueda de repuesto completa con cubierta nueva Cooper stt pro. Mantenimiento e ITV al día, interior cuero en buen estado, dos juegos de alfombrillas de plástico y de tela... (Algo negociable, se escuchan ofertas por 4x4) PRECIO SOLO HASTA QUE ESTÉ EL COCHE QUE YO QUIERO!!",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "150 cv",
+            "año": "1998",
+            "kilómetros": "185000 km",
+            "precio": 6900.0
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase G",
+        "version": "G 55 AMG L",
+        "año mínimo": 2011,
+        "año máximo": 2012,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 507,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=507&min_year=2011&max_year=2012&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase G&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase G 2011",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-g-2011-1023492903",
+            "descripcion": "Mercedes-Benz G-Class G55 AMG STW del año 2011 es una versión de alto rendimiento del icónico todoterreno G-Class, creado por la división Mercedes-AMG. El G55 AMG del año 2011 combina una excelente capacidad todoterreno, dinámica deportiva y un alto nivel de confort, lo que lo convierte en uno de los todoterrenos premium más populares. • Motor V8 con compresor mecánico (Supercharged). • Cilindrada: 5.5 litros (5439 cc). • Potencia máxima: 507 CV (373 kW) a 6100 rpm. • Transmisión: Automática de 5 velocidades (5G-Tronic). • Tracción: Tracción total (4MATIC) con bloqueo de tres diferenciales. • Aceleración 0–100 km/h: 5.5 segundos. • Climatizador bizona para crear una temperatura confortable para el conductor y los pasajeros. • Asientos delanteros con memoria de ajustes, incluyendo soporte lumbar regulable. • Asientos delanteros y traseros con función de calefacción, y los delanteros con ventilación. • Tapicería de cuero. • Iluminación ambiental regulable en el habitáculo. • Sistema multimedia: COMAND APS con pantalla grande, navegación y reproductor de DVD. • Sistema de sonido: Sistema acústico premium Harman/Kardon Logic 7 con 12 altavoces. • Bluetooth y USB: Posibilidad de conectar dispositivos móviles para llamadas telefónicas y reproducción de música. • Sensores de estacionamiento delanteros y traseros con señales visuales y acústicas. • Cámara de visión trasera. • Sistemas de asistencia al conductor: ABS, ESP (sistema de estabilidad electrónica), Brake Assist, sistema de prevención de deslizamiento (ASR). • Faros de xenón con sistema de limpieza y ajuste automático de nivel. • Llantas de aleación: Llantas AMG de 19 pulgadas con diseño característico. • Defensa delantera y estribos laterales: Elementos prácticos y elegantes que mejoran la apariencia y funcionalidad. • Puerta trasera icónica con soporte para la rueda de repuesto. • Diseño exclusivo AMG con pasos de rueda ampliados, parrilla única y llantas de aleación distintivas. Precio 59.990€",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "507 cv",
+            "año": "2011",
+            "kilómetros": "109000 km",
+            "precio": 59990.0
+        },
+        {
+            "titulo": "Mercedes G500 🚀 ¡ EXCLUSIVO 4x4 !",
+            "enlace": "https://es.wallapop.com/item/mercedes-g500-exclusivo-4x4-1083988787",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "388 cv",
+            "año": "2012",
+            "kilómetros": "300000 km",
+            "precio": 55000.0
+        }
+    ]
+}

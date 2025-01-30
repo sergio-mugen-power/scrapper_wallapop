@@ -1,0 +1,80 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase E",
+        "version": "E 200 K Berlina",
+        "año mínimo": 2001,
+        "año máximo": 2002,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 163,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=163&min_year=2001&max_year=2002&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Mercedes-Benz&model=Clase E&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase E 2001",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2001-857393223",
+            "descripcion": "SE VENDE ESTE ESTUPENDO MERCEDES BENZ. E200 KOMPRESOR. SOLO 79000KM. PEGATINA B GASOLINA. EN PERFECTO ESTADO",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "163 cv",
+            "año": "2001",
+            "kilómetros": "79000 km",
+            "precio": 7000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E 2001",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2001-973723135",
+            "descripcion": "- Motor 2.0 Kompressor, 167 caballos - Aceite y filtros cambiados - Correas de servicios cambiadas",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "163 cv",
+            "año": "2001",
+            "kilómetros": "198000 km",
+            "precio": 5600.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E 2001 GLP",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2001-1084081419",
+            "descripcion": "Vendo o cambio por 4x4 automático. Posibilidad de la pegatina ECO. Revisión completo de todos los líquidos y revision completa del sistema de glp. Depósito de glp de 70 litros. Escucho ofertas. Mando fotos a interesados",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "163 cv",
+            "año": "2001",
+            "kilómetros": "295000 km",
+            "precio": 5500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E 2001",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2001-1052922185",
+            "descripcion": "Vendo Mercedes nacional en muy buenas condiciones, interior perfecto funciona todo. Exterior en muy buen estado con dos ruedas nuevas a estrenar marca Yokohama y dos con menos de 10.000 km Firestone. Climatizador bizona funcionando. Dos llaves originales documentación de fábrica botiquín y todo original. Recién cambiados todos los líquidos del coche, pastillas de freno seminuevas y mantenimientos al día. Precio negociable con la transferencia incluida. Es un coche en muy buenas condiciones y sin ningún gasto para hacer de ahí el precio.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "163 cv",
+            "año": "2001",
+            "kilómetros": "217000 km",
+            "precio": 4800.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E 2002",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2002-1085339649",
+            "descripcion": "Mercedes Benz E200 gasolina, manual del 2002 en perfecto estado. Funciona todo, aire acondicionado, calefacción, retrovisores eléctricos, cierre centralizado, ruedas muy nuevas, etc. ITV en vigor",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "163 cv",
+            "año": "2002",
+            "kilómetros": "300000 km",
+            "precio": 1980.0
+        }
+    ]
+}

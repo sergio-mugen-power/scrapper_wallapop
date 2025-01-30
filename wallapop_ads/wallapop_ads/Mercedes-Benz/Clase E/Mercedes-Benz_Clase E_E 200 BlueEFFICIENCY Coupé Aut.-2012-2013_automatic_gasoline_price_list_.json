@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase E",
+        "version": "E 200 BlueEFFICIENCY Coupé Aut.",
+        "año mínimo": 2012,
+        "año máximo": 2013,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 184,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=184&min_year=2012&max_year=2013&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase E&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase E 200 Cabrio CGI BE Aut",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-200-cabrio-cgi-be-aut-1080199920",
+            "descripcion": "Vehículo NACIONAL, procedente de particular, mantenimientos al día, mantenimiento del cambio realizado en taller Mercedes hace 2.000 kms, ITV hasta 09.2025. Etiqueta C. Precios: 17.900 € financiado / 18.900 € contado. Transferencia y garantía incluidas. Solicite cita para verlo. Disponible en Torremolinos (Málaga). Equipamiento principal (las fotos forman parte de la descripción): CAPOTA EN COLOR BEIGE OSCURO. INTERIOR EN CUERO INTEGRAL BEIGE. PANTALLA MULTIMEDIA. PREINSTALACIÓN DE NAVEGADOR. RADIO. BLUETOOTH. VOLANTE MUOTIFUNCIÓN. SENSORES PARKING. ***Anuncio a título informativo sujeto a error tipográfico, NO vinculante para AUTOPAI, y a disponibilidad del vehículo***",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "184 cv",
+            "año": "2012",
+            "kilómetros": "177058 km",
+            "precio": 18900.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E 2012",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2012-1089186094",
+            "descripcion": "Impecable. ITV 11/25",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2012",
+            "kilómetros": "170000 km",
+            "precio": 17500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E200 Familiar",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e200-familiar-1084156751",
+            "descripcion": "Mercedes E200 Familiar automatico muy equipado y en perfecto estado. ITV valido hasta Mayo 2025 y sin ningún fallo detectado. Revisión pasada en Mercedes oficial en Diciembre 2024. 93.400 kms certificados por Mercedes. Sistema de navegación mejorado con Android y Apple Car Play. Sensores aparacmiento y camara marcha atrás. Ruedas Michelin CrossClimate 2 nuevas. Techo eléctrico, Asientos eléctricos, Bola de remolque escamoteable. Asientos Iso-Fix. Farox Bixenon. Porton maletero eléctrico. Sin daños ni desgastes en interior ni exterior. Siempre en garage interior. Coche familiar. Vende particular",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "184 cv",
+            "año": "2012",
+            "kilómetros": "93400 km",
+            "precio": 16850.0
+        }
+    ]
+}

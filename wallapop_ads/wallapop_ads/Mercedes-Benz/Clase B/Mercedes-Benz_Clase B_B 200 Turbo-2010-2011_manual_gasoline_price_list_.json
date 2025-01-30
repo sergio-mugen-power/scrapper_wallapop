@@ -1,0 +1,80 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase B",
+        "version": "B 200 Turbo",
+        "año mínimo": 2010,
+        "año máximo": 2011,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 193,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=193&min_year=2010&max_year=2011&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Mercedes-Benz&model=Clase B&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase B B 200",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-b-b-200-1088036280",
+            "descripcion": "Le recomendamos pedir cita previa para venir a verlo y probarlo. Todo incluido 1 año de garantía, cambio de nombre. El año de garantía es en nuestras instalaciones, otras provincias consultar. Ventajas de comprar en ICARS: Facilidades de financiación. Enviamos por WhatsApp todas las fotos y vídeos que necesite, para ver el coche en vivo. Tasamos su coche viejo. Garantía total. Entrega inmediata. Acercamos el coche a su mecánico, para su tranquilidad, antes de la compra. Prueba sin compromiso. Garantía de compra.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "136 cv",
+            "año": "2011",
+            "kilómetros": "121024 km",
+            "precio": 14500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase B 2011",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-b-2011-935659907",
+            "descripcion": "Vendo Mercedes B200 en perfectas condiciones, guardado siempre en Garage, ITV en vigor, Mantenimientos al día, Kilómetros reales, Nunca Chocado. Acepto prueba de mecánico. Coche impoluto.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "156 cv",
+            "año": "2011",
+            "kilómetros": "140000 km",
+            "precio": 11000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase B 2011",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-b-2011-1073301779",
+            "descripcion": "Mercedes clase B160 95CV. Muy buen estado tanto exterior como tapicería interior. 123.000 km, cadena distribución. Techo solar abatible. Motor Mercedes 4 cilindros. Bajo consumo. Ruedas y frenos al 70%. Gasolina etiqueta C medioambiental. Precio negociable.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "95 cv",
+            "año": "2011",
+            "kilómetros": "123000 km",
+            "precio": 8490.0
+        },
+        {
+            "titulo": "MERCEDES-BENZ A 160 95cv 2010 149000km ETIQUETA C",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-a-160-95cv-2010-149000km-etiqueta-c-1081108913",
+            "descripcion": "PRACTICO POR SU ALTURA, BUSCADA ETIQUETA C VERDE, Y UN ESTADO Y KILOMETRAJE BUENÍSIMOS MERCEDES-BENZ B 160 95cv AÑO 2010 UNIDAD NACIONAL ETIQUETA C VERDE 149000km LLANTAS ALUMINIO REVISADO COMPLETO TECHO SOLAR COMPLETO ITV AL DÍA ESTADO GENERAL MUY BUENO 7890€",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "95 cv",
+            "año": "2010",
+            "kilómetros": "149000 km",
+            "precio": 7890.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase B 2011",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-b-2011-1084171391",
+            "descripcion": "Van/Minibus Used vehicle Displacement: 1595 cm³ Number of doors: 4/5 doors Number of seats: 5 Emission class: Euro6 Environmental badge: -- Number of vehicle owners: -- Inspection until: 11/2026 Colour: Black Metallic Equipment ABS, Armrest, Hill start assistant, Bluetooth, On-board computer, CD player, ESP, Electric windows, Electric side mirrors, Isofix, Light sensor, Multifunctional steering wheel, Fatigue warning, Emergency brake assistant, Tyre pressure monitor, Power steering, Start/Stop automatic, Traction control, USB, Central locking",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "122 cv",
+            "año": "2011",
+            "kilómetros": "208741 km",
+            "precio": 4600.0
+        }
+    ]
+}

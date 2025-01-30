@@ -22,17 +22,6 @@
     },
     "anuncios": [
         {
-            "titulo": "Mercedes-Benz Clase A 2015",
-            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2015-1062202642",
-            "descripcion": "coche en perfecto estado 679036125",
-            "combustible": "Gasolina",
-            "cambio": "Manual",
-            "potencia": "122 cv",
-            "año": "2015",
-            "kilómetros": "65000 km",
-            "precio": 18500.0
-        },
-        {
             "titulo": "Mercedes-Benz Clase A 180 AMG Line 5p.",
             "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-180-amg-line-5p-1055638833",
             "descripcion": "Motor Mercedes. -Repro subido a 180cv. Su gasto pasó de 6l a 5l -Escape Linea Completa, Downpipe, silencioso intervalos. -Válvulas electricas de 3 prosiciones. -Punteras Akrapovic. -Asientos calefactables -Estacionamiento asistido. TODO HOMOLOGADO Siempre cuidado a capricho y durmiendo en garaje. Recién hecho cambios de aceite y las 4 ruedas continental.",
@@ -52,6 +41,17 @@
             "potencia": "122 cv",
             "año": "2015",
             "kilómetros": "160000 km",
+            "precio": 17000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase A 2015",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2015-1062202642",
+            "descripcion": "coche en perfecto estado 679036125",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "122 cv",
+            "año": "2015",
+            "kilómetros": "65000 km",
             "precio": 17000.0
         },
         {
@@ -156,7 +156,7 @@
         {
             "titulo": "Mercedes-Benz Clase A 2014",
             "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2014-1093456916",
-            "descripcion": "",
+            "descripcion": "SE VENDE PRECIOSO MERCEDES CLASE A MOTOR MERCEDES, MANUAL 6 VELOCIDADES, VEHICULO CUIDADO AL DETALLE CON NUMEROSOS EXTRAS, LLANTAS DE ALUMINIO 17 PULGADAS, SENSORES DE APARCAMIENTO 360 GRADOS, CONSOLA CENTRAL CON INFOENTRETENIMIENTO, PANTALLA CON RADIO APPLE CAR PLAY Y ANDROID AUTO, NAVEGADOR Y TELEFONIA, LUCES AUTOMATICAS XENON, ASISTENTE DE FRENO Y COLISION, ASIENTOS DELANTEROS CALEFACTABLES EN PIEL MIXTA CON INTERIOR AMG, LIBRO COMPLETO SELLADO EN MERCEDES-BENZ, EL VEHICULO SE ENTREGA CON ACEITE Y FILTROS RECIEN REALIZADOS, DOTADO DE UN AÑO DE GARANTIA. CUALQUIER CUESTION NO DUDES EN CONTACTAR. PRECIO AL CONTADO 15.990€.",
             "combustible": "Gasolina",
             "cambio": "Manual",
             "potencia": "122 cv",
@@ -261,7 +261,7 @@
             "potencia": "122 cv",
             "año": "2013",
             "kilómetros": "140000 km",
-            "precio": 13600.0
+            "precio": 13500.0
         },
         {
             "titulo": "Mercedes-Benz Clase A 2015",

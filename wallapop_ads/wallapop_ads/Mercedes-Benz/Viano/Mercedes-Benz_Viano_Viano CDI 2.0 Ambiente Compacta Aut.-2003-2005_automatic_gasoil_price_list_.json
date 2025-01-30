@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Viano",
+        "version": "Viano CDI 2.0 Ambiente Compacta Aut.",
+        "año mínimo": 2003,
+        "año máximo": 2005,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 109,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=109&min_year=2003&max_year=2005&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Viano&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Viano Automático Extralaga. Urge",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-viano-2004-1082004285",
+            "descripcion": "ITV recien pasada. Mantenimiento y revisiones al día. Motor en correcto estado. Modelo extralaga. Máxima capacidad.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "109 cv",
+            "año": "2005",
+            "kilómetros": "280000 km",
+            "precio": 9900.0
+        }
+    ]
+}

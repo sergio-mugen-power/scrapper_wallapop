@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase G",
+        "version": "G 350 CDI",
+        "año mínimo": 2010,
+        "año máximo": 2011,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 224,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=224&min_year=2010&max_year=2011&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase G&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase G 2011 pack G63",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-g-2011-pack-g63-1066669312",
+            "descripcion": "Coche en perfecto estado, con todas las revisiones pasadas, la ultima no hace ni 1.000km, completa. Se admite prueba mecanica en casa oficial. Paquete completo G63 amg, llantas 22\", faros, pilotos e intermitentes led, carplay, gps, camara y sensores de aparcamiento, asientos electricos con memoria, calefactables y refigerados, volante regulable automatico electrico, techo solar, y un largo etc...SOLO GENTE DERIA, NO MAREANTES!!",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "211 cv",
+            "año": "2011",
+            "kilómetros": "200000 km",
+            "precio": 56999.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase G 2010",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-g-2010-1075684774",
+            "descripcion": "Mas información en marmatia.es En youtube , buscando Marmatia Automocion encontrará un vídeo detallado del coche Equipamiento destacado : - tracción 4x4 - Diferencial - Faros LED - Sensor luz - Sensor lluvia - Sensores aparcamiento delanteros/traseros - Espejos eléctricos - Volante cuero - Tapicería cuero - Asientos calefactables - Asientos delanteros eléctricos - Asientos delanteros con memoria - Velocidad de crucero - Climatizador bi-zona - Sistema multimedia con conexión Bluetooth , USB y Aux Si tiene cualquier duda o pregunta sobre el coche , estamos encantados atenderte vía teléfono , e-mail o en persona , en nuestra tienda de San Fernando de Henares. Los datos del anuncio son informativos y no tienen carácter contractual.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "224 cv",
+            "año": "2010",
+            "kilómetros": "299000 km",
+            "precio": 47990.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase G 2010",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-g-2010-1016565404",
+            "descripcion": "Coche en muy buenas condiciones. Al dia de todo. Techo corredizo, techo completo en napa, cambio automatico, asientos calefactados, refrigerados y ortopedicos; clima bizona, bixennon, llantas amg, volante madera y un largo etc etc no acepto coches a cambio ni como parte de pago. MOTOR NUEVO",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "211 cv",
+            "año": "2010",
+            "kilómetros": "268000 km",
+            "precio": 46000.0
+        }
+    ]
+}

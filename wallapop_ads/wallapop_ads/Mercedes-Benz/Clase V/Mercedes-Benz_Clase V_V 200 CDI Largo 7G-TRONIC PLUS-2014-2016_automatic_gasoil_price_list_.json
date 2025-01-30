@@ -1,0 +1,69 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase V",
+        "version": "V 200 CDI Largo 7G-TRONIC PLUS",
+        "año mínimo": 2014,
+        "año máximo": 2016,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 136,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=136&min_year=2014&max_year=2016&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase V&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase V 2015",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-v-2015-1004378895",
+            "descripcion": "Clase V marco polo westfalia. Para españoles,no se como se exporta a españa!!! Tiene porta bicis marca fiamma 750€, placa solar300€,ruedas michelin 4 tiempos puestas este año 700€,acabo de pasar revisión en junio 800€ y la próxima revisión es dentro de 2 años al ser furgoneta,este año e rellenado el aire acondicionado también 150€ y la ITV es para 2025.tiene un 5 asiento que se desmonta por si quereis viajar 5 personas! (NO CAMBIO, SOLO VENDO)",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2015",
+            "kilómetros": "132000 km",
+            "precio": 42000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase V 2015",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-v-2015-1093628106",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2015",
+            "kilómetros": "135000 km",
+            "precio": 40000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase V 2014",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-v-2015-en-perfecto-estado-877245096",
+            "descripcion": "Monovolumen Mercedes-Benz Clase V v200 31.500 Euros (precio negociable) Año: Diciembre 2014 Modelo largo 5,5 metros Kilometraje: 131.000 km Pegatina: B Amarilla Cierre centralizado 2 llaves Cambio de marchas automático En perfecto estado por dentro y por fuera. Sin rasguños. GPS abordo (falta programarlo) Sensores de aparcamiento delanteros y traseros Pantalla DVD en el techo Aire acondicionado Color azul oscuro Revisión completa y ITV 17/2/23 (válido 2 años) Vehículo nacional Tapicería gris en perfecto estado (sin manchas) Llantas 19 pulgadas 7 plazas, adaptable a 9 Combustible: gasoil Cambio de titularidad a cargo del comprador",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2014",
+            "kilómetros": "131000 km",
+            "precio": 29000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase V 2016",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-v-2016-1094345931",
+            "descripcion": "MERCEDES-BENZ Vito 200 d Marco Polo Actividad Larga VEHÍCULO NACIONAL CERTIFICADO POR LA MARCA LA MEJOR FINANCIACIÓN *30 DÍAS DE PRUEBA GRATIS, INFÓRMATE TRANSPORTE NACIONAL CONSULTA PRUEBA A DOMICILIO ACEPTAMOS TU COCHE COMO FORMA DE PAGO AUTOSDOMINGUEZ.ES La oferta es meramente informativa, no tiene validez contractual y depende de la disponibilidad del mismo. El precio indicado puede variar sin previo aviso. Autos Dominguez no se hace responsable de posibles errores en el volcado de datos del portal online. Confirma la información del vehículo en el concesionario",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2016",
+            "kilómetros": "105000 km",
+            "precio": 24900.0
+        }
+    ]
+}

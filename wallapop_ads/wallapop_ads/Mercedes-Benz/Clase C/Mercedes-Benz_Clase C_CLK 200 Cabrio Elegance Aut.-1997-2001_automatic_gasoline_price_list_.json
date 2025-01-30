@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase C",
+        "version": "CLK 200 Cabrio Elegance Aut.",
+        "año mínimo": 1997,
+        "año máximo": 2001,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 136,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=136&min_year=1997&max_year=2001&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase C&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase C 2000 kompressor",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-c-2000-1052033950",
+            "descripcion": "IMPECABLE, km reales",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2000",
+            "kilómetros": "90800 km",
+            "precio": 6500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase C 2000",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-c-2000-967775420",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "122 cv",
+            "año": "2000",
+            "kilómetros": "85000 km",
+            "precio": 5000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase C180 Aut.",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-c-1997-1033674397",
+            "descripcion": "Vehículo original en buen estado. Mantenimiento al día. ITV y seguro en vigor. Neumáticos al 90%. Mejor ver. EQUIPAMIENTO DESTACADO: Cambio automático con dos modos de conducción, dirección asistida, cierre centralizado, elevalunas eléctricos delanteros, control de velocidad, retrovisores eléctricos. Preguntas habituales (FAQ): - Tiene llave normal y no tipo USB - Lleva el motor bueno de esta versión - NO SE ACEPTAN CAMBIOS - SOLO SE ACEPTAN OFERTAS PRESENCIALES (ABSTENERSE OFERTAS RIDÍCULAS)",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "122 cv",
+            "año": "1997",
+            "kilómetros": "140300 km",
+            "precio": 3500.0
+        }
+    ]
+}

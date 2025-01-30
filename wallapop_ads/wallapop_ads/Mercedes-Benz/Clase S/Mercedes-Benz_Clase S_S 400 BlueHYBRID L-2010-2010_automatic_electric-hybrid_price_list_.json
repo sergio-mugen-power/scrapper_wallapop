@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase S",
+        "version": "S 400 BlueHYBRID L",
+        "año mínimo": 2010,
+        "año máximo": 2010,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "electric-hybrid",
+        "potencia máxima": 299,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=electric-hybrid&min_horse_power=1&max_horse_power=299&min_year=2010&max_year=2010&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase S&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase S 400 Hybrid",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-s-400-hybrid-1021972874",
+            "descripcion": "MB S400L Hybrid, Cuero Beige, Camara trasera, Asientos ventilados calefactados electricos, Faros xenon, Volante mixto Cuero/madera, Techo solar, Asientos Traseros Electricos...... Vehiculo Importado en buen estado general procedente de particular en comision de venta. VENTA SIN GARANTIA.- Garantia opcional + 1.500€.- NO atiendo email, solo llamadas. 644-624-909.- Somos tienda física situada en C/ Moreno Nieto, 14.- Horario: Lunes a Viernes de 10:00h a 14:00h y de 17:00h a 20:00h. Sabados de 10:00h a 14:00h.",
+            "combustible": "Eléctrico",
+            "cambio": "Automático",
+            "potencia": "299 cv",
+            "año": "2010",
+            "kilómetros": "285000 km",
+            "precio": 16000.0
+        }
+    ]
+}

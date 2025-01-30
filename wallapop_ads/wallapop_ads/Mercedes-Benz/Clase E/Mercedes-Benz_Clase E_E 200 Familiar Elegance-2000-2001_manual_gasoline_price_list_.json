@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase E",
+        "version": "E 200 Familiar Elegance",
+        "año mínimo": 2000,
+        "año máximo": 2001,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 136,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=136&min_year=2000&max_year=2001&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Mercedes-Benz&model=Clase E&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase E 2000",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2000-1082377254",
+            "descripcion": "Mercedes E200 136cv manual de 6 velocidades, asientos eléctricos, 196.000km, único propietario.",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "136 cv",
+            "año": "2000",
+            "kilómetros": "196000 km",
+            "precio": 2700.0
+        }
+    ]
+}

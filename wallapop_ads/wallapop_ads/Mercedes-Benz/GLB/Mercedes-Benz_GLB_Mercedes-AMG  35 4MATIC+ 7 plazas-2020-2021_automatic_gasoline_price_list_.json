@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "GLB",
+        "version": "Mercedes-AMG  35 4MATIC+ 7 plazas",
+        "año mínimo": 2020,
+        "año máximo": 2021,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 306,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=306&min_year=2020&max_year=2021&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=GLB&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz GLB 250 4 MATIC",
+            "enlace": "https://es.wallapop.com/item/mercedes-glb-250-4-matic-877131536",
+            "descripcion": "Estado: Reestreno, como nuevo Vehículo nacional con garantía oficial Todos nuestros vehículos se entregan revisados completamente y con una garantía de 12 meses. Además de este vehículo, disponemos de una amplia gama de vehículos de ocasión, seminuevos y km 0 garantizados de todas las marcas. Especializados en vehículos de importación a la carta. Aceptamos vehículos como parte de pago, se entregan vehículos en toda España. Posibilidad de financiar el 100% del vehículo y nosotros nos encargamos de toda la gestión. Precio Contado 43.000€ Si necesita más información, no dude en contactarnos. AUTO MORER PUIGCERDÀ Av. Catalunya, 40 Telf.616.89.51.52",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "224 cv",
+            "año": "2021",
+            "kilómetros": "40000 km",
+            "precio": 43000.0
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Viano",
+        "version": "Viano 2.0 CDI 136 CV Trend Extralargo 4Matic",
+        "año mínimo": 2012,
+        "año máximo": 2014,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 136,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=136&min_year=2012&max_year=2014&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Viano&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Viano 2012",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-viano-2012-982435237",
+            "descripcion": "Motor  2.2 Cv 140 Kilometros 187.000  4 Plazas Tiene la batalla larga y alta en comparación al modelo normal. ¡Todo homologado! ¿ Qué lleva ? Placa solar 200w Cargador de 3 fuentes con posibilidad de enchufe a 220V Batería auxiliar  Claraboya o ventilación y extracción. Frigorífico 85L Mobiliario con almacenaje.  Cama con asientos plegados   Cojines cama, espuma y viscoelástico. Fregadero Depósitos aguas limpias 40L y grises 40L Toma de llenado Toma de ducha trasera Actualmente revisada, todos los filtros y aceites.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2012",
+            "kilómetros": "187000 km",
+            "precio": 29000.0
+        }
+    ]
+}

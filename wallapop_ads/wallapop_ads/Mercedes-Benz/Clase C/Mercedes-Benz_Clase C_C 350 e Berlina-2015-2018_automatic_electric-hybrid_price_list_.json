@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase C",
+        "version": "C 350 e Berlina",
+        "año mínimo": 2015,
+        "año máximo": 2018,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "electric-hybrid",
+        "potencia máxima": 279,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=electric-hybrid&min_horse_power=1&max_horse_power=279&min_year=2015&max_year=2018&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase C&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes C300h hibrido familiar",
+            "enlace": "https://es.wallapop.com/item/mercedes-c300h-hibrido-familiar-1084790051",
+            "descripcion": "- MOTOR DIESEL Y ELECTRICO CON UNA POTENCIA COMBINADA DE 231CV - CONSUMO INFERIOR A HIBRIDOS GASOLINA - CAMBIO AUTOMATICO 7 VELOCIDADES - CAMARA TRASERA Y DELANTERA - CARPLAY Y ANDROID AUTO INALAMBRICOS - PANTALLA MULTIMEDIA A COLOR - ASIENTOS DELANTEROS ELECTRICOS, CALEFACTABLES Y CON MEMORIA - SENSOR DE LUCES Y LLUVIA - VOLANTE MULTIFUNCION - SELECTOR MODOS CONDUCCION (Sport+, Sport, Confort y Eco) - ESPEJOS ABATIBLES ELÉCTRICOS - SENSOR ANGULO MUERTO - SENSOR DISTANCIA DE SEGURIDAD - AVISO ANTI-COLISION - PORTON MALETERO ELECTRICO - LLANTAS AMG DE 18\" -CORTINILLAS TRASERAS A MEDIDA - LUNAS TINTADAS DE SERIE - COCHE MANTENIDO 100% EN MERCEDES BENZ SIEMPRE CON CONTRATO DE MANTENIMIENTO",
+            "combustible": "Eléctrico",
+            "cambio": "Automático",
+            "potencia": "231 cv",
+            "año": "2016",
+            "kilómetros": "142000 km",
+            "precio": 24000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase C 2016",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-c-2016-989124272",
+            "descripcion": "Mercedes Clase C 300 híbrido recargable, no enchufable. Diésel. Está lleno de extras, tiene techo y proyeccion en parabrisa (sistema HUB). Consume muy poco, unos 4.5 l aprox.",
+            "combustible": "Eléctrico",
+            "cambio": "Automático",
+            "potencia": "231 cv",
+            "año": "2016",
+            "kilómetros": "150000 km",
+            "precio": 19500.0
+        }
+    ]
+}

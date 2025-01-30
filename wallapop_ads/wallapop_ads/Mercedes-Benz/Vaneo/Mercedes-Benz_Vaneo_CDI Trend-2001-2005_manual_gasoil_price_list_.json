@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Vaneo",
+        "version": "CDI Trend",
+        "año mínimo": 2001,
+        "año máximo": 2005,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 75,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=75&min_year=2001&max_year=2005&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Mercedes-Benz&model=Vaneo&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Vaneo 2002",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-vaneo-2002-1088007272",
+            "descripcion": "Excelente estado, bien cuidada. Interior original, funciona todo, techo eléctrico, tapizado y alfombras increibles. 7 asientos, casi sin uso, no se usó para cargas. Bajo consumo diesel. ITV al dia y sin observaciones. Neumáticos igual a nuevos. Exterior increíble. Un vehículo muy practico y para tenerlo de por vida.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "69 cv",
+            "año": "2002",
+            "kilómetros": "215000 km",
+            "precio": 3900.0
+        }
+    ]
+}

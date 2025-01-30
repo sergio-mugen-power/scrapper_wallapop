@@ -1,0 +1,80 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase E",
+        "version": "E 200 d Estate 9G-TRONIC",
+        "año mínimo": 2018,
+        "año máximo": 2019,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 160,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=160&min_year=2018&max_year=2019&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase E&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase E 2018",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2018-1065216061",
+            "descripcion": "Buenas ,vendo my coche Mercedes clase E 200,soy el segundo propietario desde hace 3 años, esta impoluto en todo ,mantenimiento al dia con los 4 neumaticos nuevos acepto prueba mecánica!",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "2018",
+            "kilómetros": "159000 km",
+            "precio": 29990.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E 2018",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2018-1055779306",
+            "descripcion": "KM GARANTIZADO HISTORIAL DISPONIBLE Sensor de proximidad delanteros/traseros Alerta cambio carril Climatizador automático BY-ZONA Arranque sin llave/ Apertura sin llave Park Assistant Asientos conductor/pasajero calefactables y refrigerados Retrovisores exteriores plegables/ eléctricos/ calefactables Tapicería cuero Volante de cuero Volante multifuncional con levas táctil Sensor de lluvia Reposabrazos delantero (s) Control de velocidad Aple carplay y androide GPS ESP Cámara de visión trasera Enganches isofix Neumáticos medidas 225/55/R17 97w",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "2018",
+            "kilómetros": "101554 km",
+            "precio": 27250.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E 2018",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2018-1017167257",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "2018",
+            "kilómetros": "142000 km",
+            "precio": 25000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E200d Avantgarde 2018",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e200d-avantgarde-2018-1095059743",
+            "descripcion": "Mercedes E200d Avantgarde. Vehículo en perfecto estado, cámara trasera, sensor de aparcamiento, asientos de cuero con calefacción, control de velocidad, asistente anticolisión. Todas las revisiones en casa oficial, siempre en parking. Cualquier duda consultar",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "2018",
+            "kilómetros": "136000 km",
+            "precio": 21500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E 2018",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2018-1056519479",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "150 cv",
+            "año": "2018",
+            "kilómetros": "177000 km",
+            "precio": 19000.0
+        }
+    ]
+}

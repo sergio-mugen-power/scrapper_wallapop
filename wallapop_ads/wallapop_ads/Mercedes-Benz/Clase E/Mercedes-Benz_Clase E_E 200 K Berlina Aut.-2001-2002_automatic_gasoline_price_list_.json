@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase E",
+        "version": "E 200 K Berlina Aut.",
+        "año mínimo": 2001,
+        "año máximo": 2002,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 163,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=163&min_year=2001&max_year=2002&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase E&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz E 200 KOMPRESSOR",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-e-200-kompressor-1092944106",
+            "descripcion": "En subasta lote de vehículos fúnebres de ocasión, ideales para empresas del sector funerario que buscan ampliar su flota con opciones fiables, elegantes y funcionales. Mercedes-Benz EÑ240 (1998): Un vehículo sobrio y distinguido, con motor de 2398 cc y combustible de gasolina, diseñado para ofrecer un servicio funerario de prestigio. Mercedes-Benz E 200 KOMPRESSOR (2002): Lujo y profesionalismo en cada detalle, equipado con un motor de 2398 cc que garantiza un desempeño impecable en cualquier ocasión. Citroën Xantia 1.9D (1996): Este coche fúnebre combina funcionalidad y durabilidad, siendo una opción práctica y confiable para servicios funerarios de calidad. Opel Astra Caravan (1997): Compacto y versátil, con motor de 1598 cc, este vehículo es perfecto para quienes buscan una solución eficiente y duradera en el sector funerario.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2002",
+            "kilómetros": "274336 km",
+            "precio": 1500.0
+        }
+    ]
+}

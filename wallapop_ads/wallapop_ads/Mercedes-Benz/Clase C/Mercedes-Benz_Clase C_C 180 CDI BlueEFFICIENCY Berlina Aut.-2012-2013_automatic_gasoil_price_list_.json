@@ -1,0 +1,91 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase C",
+        "version": "C 180 CDI BlueEFFICIENCY Berlina Aut.",
+        "año mínimo": 2012,
+        "año máximo": 2013,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 120,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=120&min_year=2012&max_year=2013&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase C&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase C 2012",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-c-2012-942045887",
+            "descripcion": "Mercedes clase c 180 200 220 cdi, automático diésel consumo muy reducido, impecable EL VEHÍCULO NO ES MÍO, NO PREGUNTAS, SÓLO PUSE EL ANUNCIO, PARA HABLAR CON LA DUEÑA 646862297",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "120 cv",
+            "año": "2012",
+            "kilómetros": "152000 km",
+            "precio": 15300.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase C 2013",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-c-2013-1087412417",
+            "descripcion": "Se vende Mercedes clase C 180cdi(motor Mercedes 2.2) Manual 6 velocidades Avantgarde Techo panorámico 4 elevalunas eléctricos Asientos eléctricos Llantas amg 18” Luces automáticas Sensores de lluvia Mantenimiento al día y ITV hasta 08.25",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "120 cv",
+            "año": "2013",
+            "kilómetros": "131000 km",
+            "precio": 11700.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase C 2013",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-c-2013-1083576726",
+            "descripcion": "Tapicería de tela, navegador, faros halógenos, star/stop, climatizador bizona, volante multifunción, Isofix, llantas de aleación, asistente de salida en pendiente, control y limitador de velocidad parktronic con distronic plus Tempomat aceites y filtros recién cambiados incluido el del cambio etc..",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "120 cv",
+            "año": "2013",
+            "kilómetros": "196000 km",
+            "precio": 11000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase C180 CDI AUTOMATICO",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-c180-cdi-automatico-1017513893",
+            "descripcion": "Revisiones al día. Aceptamos tu coche en parte de pago. Financiamos hasta el 100% de tu coche SIN ENTRADA, Disponemos de las mejores condiciones de financiacion del mercado, no dudes en contactar con nosotros Garantia de 12 meses con posibilidad de hacerla a nivel nacional y europeo TODO COCHES ELCHE SL Viva una experiencia de compra diferente Este anuncio no es vinculante, puede contener errores. Se muestra a titulo informativo y no contractual.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "120 cv",
+            "año": "2012",
+            "kilómetros": "185000 km",
+            "precio": 10950.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase C 2013",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-c-2013-1078013682",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "120 cv",
+            "año": "2013",
+            "kilómetros": "249000 km",
+            "precio": 9950.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase C 2013",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-c-2013-1006911862",
+            "descripcion": "LEER EL ANUNCIO COMPLETO!!!!!Se vende Mercedes clase c paquete amg original 4 discos nuevo y pastillas coche con el exterior e interior bien,ruido en motor posible casquillos cigüeñal HAY QUE CAMBIAR MOTOR O ABRIR EL QUE TIENE Y VER QUE TIENE Y REPARAR.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "120 cv",
+            "año": "2013",
+            "kilómetros": "215000 km",
+            "precio": 7500.0
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase E",
+        "version": "E 200 d Berlina 9G-TRONIC",
+        "año mínimo": 2019,
+        "año máximo": 2020,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 160,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=160&min_year=2019&max_year=2020&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase E&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase E 200 D 160CV",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-200-d-160cv-1074990314",
+            "descripcion": "Mantenimiento caja cambios recien hecha, mas aceite y filtros motor , Itv recien pasada, Car play apple,Faros led de alto rendimiento,Pantalla ancha widescreen,Asistente Totwinkel,Iluminación ambiental,Piloto de aparcamiento, Respaldos de los asientos traseros plegables,Asistencia de frenado,Tapicería cuero deportivos ,Funciones ampliadas MBUX, Información de tráfico en vivo, Cambio de velocidad AMG MCT 9G, Controlador MIT con panel táctil, Espejo exterior plegable eléctricamente, Tejidotecho interior CRYSTAL GREY, Tapa de radiador específica AMG, Cristales tintados, Railes de techo en aluminio pulido, Consola central en madera de fresno negro, Calefacción de asientos para conductor y acompañante Paquete de iluminación interior Portón trasero easy pack Conversión a controles en el volante Sistema de asistencia Luz de freno adaptativa Volante deportivo multifuncional en piel napa Paquete de aparcamiento con cámara de visión 360º Paquete confort de asientos con ajuste para espalda Rieles de entrada iluminados 2 puertos USB en la parte trasera Botones de cambio en volante/palas de cambio Chasis Agility Control con sistema de amortiguación selectivo",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "160 cv",
+            "año": "2020",
+            "kilómetros": "179000 km",
+            "precio": 23500.0
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Marco Polo",
+        "version": "Activity Sport 180 d",
+        "año mínimo": 2015,
+        "año máximo": 2019,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 114,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=114&min_year=2015&max_year=2019&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Mercedes-Benz&model=Marco Polo&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Camper Mercedes Marco Polo 2017",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-marco-polo-2017-1067993496",
+            "descripcion": "Mercedes Marco Polo. Perfecto estado. Siempre guardada en cochera cerrada. Homologada para 7 plazas de viaje legales. EURO6W. 2 sillones extras extraíbles. Campió manual 6 velocitats. Lunas oscurecidas. Cámara trasera en retrovisor. Calefacción estacionaria Webasto programable. 2 camas de matrimonio. Colchón de látex extracómodo para cama inferior. Mueble portaequipaje de 3 cajones a railes con: depósito agua potable de 50L con kit ducha eléctrico, 2 depósitos extras de 15L de agua potable, almacenaje alimentos y utensilios. Kit placas solares extraíbles y segunda bateria.",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "114 cv",
+            "año": "2017",
+            "kilómetros": "170000 km",
+            "precio": 36000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Marco Polo 2018",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-marco-polo-2018-1065811926",
+            "descripcion": "Buena condición",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "114 cv",
+            "año": "2018",
+            "kilómetros": "177000 km",
+            "precio": 19000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Marco Polo 2015",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-marco-polo-2015-1065812989",
+            "descripcion": "muy bien",
+            "combustible": "Diésel",
+            "cambio": "Manual",
+            "potencia": "114 cv",
+            "año": "2015",
+            "kilómetros": "14400 km",
+            "precio": 18000.0
+        }
+    ]
+}

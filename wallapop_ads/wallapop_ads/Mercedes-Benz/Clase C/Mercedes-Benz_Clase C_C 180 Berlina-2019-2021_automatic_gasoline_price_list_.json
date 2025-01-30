@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase C",
+        "version": "C 180 Berlina",
+        "año mínimo": 2019,
+        "año máximo": 2021,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 156,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=156&min_year=2019&max_year=2021&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase C&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase C CABRIO 180 AMG LINE",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-c-cabrio-180-amg-line-1091773486",
+            "descripcion": "El Mercedes-Benz Clase C Cabrio 180 Año 2019. Motor: 1.6L Gasolina Turbo. Potencia: 156 CV. Transmisión: Automática 9G-TRONIC de 9 velocidades. Tracción: Trasera. Velocidad máxima: 223 km/h. Aceleración 0-100 km/h: 8.9 segundos. Kilometraje: 62,000 km. Diseño y Confort: Carrocería: Cabrio (Convertible) de 4 plazas. Techo de lona eléctrico: Apertura en 20 segundos. Color exterior: Granate. Tapicería: Cuero en asientos. Llantas: Aleación ligera de 17 pulgadas. Difusores de aire en asientos delanteros: Efecto bufanda para mayor confort. Equipamiento: Control de crucero adaptativo: Para mayor comodidad en trayectos largos. Iluminación: Sistema Led High Performance. Pack AMG: Detalles deportivos interiores y exteriores. Whatsapp 640120013 C/Calvet Estrella 83, Sabadell (08203). Palabras clave mercedes benz a cla clase c e s 45 63 Amg audi a3 a4 a5 a6 a7 s3 s4 s5 s6 s7 rs3 rs4 rs5 rs6 q3 q5 q7 bmw serie 120 135 140 320 330 335 530 535 630 635 640 m2 m3 m5 m6 x5 x6 volkswagen golf gti Clubsport rs performance troc Tiguan akrapovic Cupra Ateca Formentor",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "156 cv",
+            "año": "2019",
+            "kilómetros": "62000 km",
+            "precio": 36900.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase C 2019",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-c-2019-1092524737",
+            "descripcion": "Mercedes-Benz C180 PACK AMG Coupe Restyling con 156 cv procedente de único propietario con tan solo 67.400 kilómetros reales y certificados, mantenimiento al día en servicio oficial MB y ITV en vigor. El vehículo dispone de paquete deportivo AMG completo interior / exterior, asientos deportivos en piel y Alcántara, sistema de navegación command online , llantas de aleación AMG en 18 pulgadas, cámara trasera, modelo restyling, asientos delanteros calefactables, sensores de aparcamiento, sensor de carril, volante deportivo AMG en cuero perforado , cambio automático con levas en el volante , faros de led , parrilla adiamantada, paquete AMG Night, anclaje isofix , retrovisores eléctricos, Bluetooth, paquete de cuero ampliado, velocidad de crucero, etc + info contacten sin compromiso. Garantía comercial 12 meses incluido en el precio. Enviamos a domicilio. (ATENDEMOS 365 DÍAS DEL AÑO, INCLUSO FINES DE SEMANA Y FESTIVO) ** PARA PODER OFRECER UN MEJOR SERVICIO A NUESTROS CLIENTES, ATENDEMOS CON CITA PREVIA. ** Anuncio a título informativo, puede contener erratas.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "154 cv",
+            "año": "2019",
+            "kilómetros": "67400 km",
+            "precio": 30990.0
+        }
+    ]
+}

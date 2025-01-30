@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase C",
+        "version": "C 200 Estate",
+        "año mínimo": 2018,
+        "año máximo": 2021,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "electric-hybrid",
+        "potencia máxima": 184,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=electric-hybrid&min_horse_power=1&max_horse_power=184&min_year=2018&max_year=2021&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase C&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase C CABRIO AMG 2021",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-c-cabrio-amg-2021-1062144182",
+            "descripcion": "Blanco calcita - simil cuero artico /microfibra dinamica antracita - AMG line Interior y exterior - cambio automtico 9G tronic plus - guia para el aparcamiento con parktronic y camara trasera - paq.integración smartphone - paq. Control de carril - control angulo muerto - paravientos electrico - navegador con tarjeta sd - sistema ariscarf - paq.espejos abatibles electricos - aire acondicionado - faros led high performance - asientos delanteros calefactados - iluminacion de ambiente - molduras madera mate con poros abiertos en consola central . * TALLER AUTORIZADO MERCEDES BENZ. * CONSULTAR OFERTA FINANCIERA PERSONALIZADA * TE OFRECEMOS LAS MEJORES CONDICIONES DE FINANCIACIÓN DEL MERCADO. Consultar condiciones. * VEHÍCULO REVISADO Y CON 1 AÑO DE GARANTÍA * CAMBIO DE NOMBRE NO INCLUIDO * ACEPTAMOS CUALQUIER COCHE COMO PARTE DE PAGO * ENTREGA EN TODA ESPAÑA * HACEMOS COMPRA DIRECTA DE TU COCHE -facebook.com/SERVIDAUTO -Instagram.com/SERVIDAUTO * Anuncio no vinculante. Puede contener errores",
+            "combustible": "Eléctrico",
+            "cambio": "Automático",
+            "potencia": "184 cv",
+            "año": "2021",
+            "kilómetros": "45400 km",
+            "precio": 44999.0
+        }
+    ]
+}

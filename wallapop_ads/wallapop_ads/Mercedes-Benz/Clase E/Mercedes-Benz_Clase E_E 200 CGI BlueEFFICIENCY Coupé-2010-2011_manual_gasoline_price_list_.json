@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase E",
+        "version": "E 200 CGI BlueEFFICIENCY Coupé",
+        "año mínimo": 2010,
+        "año máximo": 2011,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "manual",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 184,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=184&min_year=2010&max_year=2011&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=manual&brand=Mercedes-Benz&model=Clase E&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz E200 CGI 184 Cv *Coupe *Astos Dep.",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-e200-cgi-184-cv-coupe-astos-dep-1090320943",
+            "descripcion": "** Impecable Mercedes-Benz E200 Gasolina de 184 Cv ** ** Matriculado el 4 de Noviembre del 2010 ** ** Cambio manual de 6 velocidades ** ** Pegatina medioambiental C ** ** Equipado con: *Interior en cuero mixto *Asientos deportivos *Asientos calefactados *Sensores de luces y de lluvia *Ordenador de abordo *Control de crucero *Volante multifuncional forrado en cuero *Radio CD con mandos en el volante *Bluetooth *Climatizador digital bizona *ISOFIX ** Dispone de dos llaves originales ** ** Dispone de facturas de mantenimiento ** ** Precio con Transferencia y Garantía de 12 Meses ** ** Financiación al 100%",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "184 cv",
+            "año": "2011",
+            "kilómetros": "143000 km",
+            "precio": 12990.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E 2010",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2010-1012333517",
+            "descripcion": "buen estado revisión echa hace poco tiempo itv al dia se acepta prueba mecanica tambien se cambia por furgoneta tipo trasporter",
+            "combustible": "Gasolina",
+            "cambio": "Manual",
+            "potencia": "184 cv",
+            "año": "2010",
+            "kilómetros": "254830 km",
+            "precio": 10000.0
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase E",
+        "version": "E 220 CDI Elegance Aut.",
+        "año mínimo": 2000,
+        "año máximo": 2001,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 143,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=143&min_year=2000&max_year=2001&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase E&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase E 2000",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-c-2000-1071511120",
+            "descripcion": "Unico dueño, km reales, revisiones en casa oficial, es 5 plazas mas el hueco del feretro, el motivo de venta es por cierre de empresa.Para mas informacion llamen al 650569699 #relogioso #surf #mudanza #camper #drift",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "143 cv",
+            "año": "2000",
+            "kilómetros": "80000 km",
+            "precio": 4699.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E 2000",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2000-1081644120",
+            "descripcion": "Coche fúnebre, 3 llaves, piel, clima, parktronic. Se entrega con la revisión y itv recién pasada.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "143 cv",
+            "año": "2000",
+            "kilómetros": "250000 km",
+            "precio": 3999.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E 2000",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2000-905333706",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "143 cv",
+            "año": "2000",
+            "kilómetros": "280000 km",
+            "precio": 2500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E, 2.2 diesel, extranjero ",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2-2-diesel-extranjero-1093029882",
+            "descripcion": "El coche esta matriculado en Polonia. Todavia tiene su ITV pero la policia local ya no me deja circular con el porque soy residente. El motor y caja de cambio va perfecto y tiene solo 266000km. Interios necesita un poco de limpieza, pero las sillas estan perfectas, solo un marca en la silla del conductor (se ve en la foto) pero eso se puede colorar sin problema. Casi no tiene nada de oxido. Lo vendo pa matricular en espana o pa recambios.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2000",
+            "kilómetros": "266000 km",
+            "precio": 1000.0
+        }
+    ]
+}

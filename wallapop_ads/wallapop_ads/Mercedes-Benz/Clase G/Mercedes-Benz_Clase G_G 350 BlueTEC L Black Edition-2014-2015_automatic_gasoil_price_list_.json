@@ -1,0 +1,80 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase G",
+        "version": "G 350 BlueTEC L Black Edition",
+        "año mínimo": 2014,
+        "año máximo": 2015,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 211,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=211&min_year=2014&max_year=2015&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase G&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase G 2014 NACIONAL CON MANT ",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-g-2014-1071209291",
+            "descripcion": "MERCEDES BENZ G 350 CDI NACIONAL MODELO 463   2015  PROCEDE DEL MERCADO NACIONAL MATRICUALADO DE INICIO CON PLACAS TURISTICAS EN MUY BUENAS CONDICIONES,  HAY POCAS UNIDADES EN ESTE ESTADO, ES UN VEHICULO QUE HA ESTADO MUY BIEN CUIDADO Y MANTENIDO. RECIENTEMENTE SE LE HA REALIZADO MANTENIMINETO DE LA CAJA DE CAMBIOS EN SERVIVIO OFICIAL. SU EQUIPAMINETO ESTA BASTANTE COMPLETO. CLASE G  463 MODELO 2015 PAQUETE DEPORTIVO PAQUETE CROMADO PAQUETE EXCLUSIVO PAQUETE AJUSTES CONFORT PAQUETE APARCAMIENTO CON CAMARA TAPIZADO EN CUERO CRTISTAL CALORIFUGO TINTADO OSCURO SISTEEMANAVEGACION COMAND APS ENGANCHE PAR REMOLQUE CALEFACCION ASIENTOS PARA COCNDUCTOR Y ACOMPAÑANTE CALEFACCION IONDEPENDIENTE NEUMATICOS 265/60/18 TECHO INTERIOR DESIGNO DE MICROFIBRA DINAMICA EN CLOR NEGRO TECHO SOLAR ABATIBLE CONTROL DE ANGULOS MUERTOS  SISTEMA DE SONIDO ETC CAMBIO DE NOMBRE INCLUIDO, SE TRATA DIRECTAMENTE CON EL PROPIETARIO.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "211 cv",
+            "año": "2014",
+            "kilómetros": "75000 km",
+            "precio": 73900.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase G 2014",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-g-2014-987346998",
+            "descripcion": "MERCEDES CLASE G 350 CDI 211CV 7G-TRONIC 2014 74.000KM -Kilómetros certificados -Historial de revisiones -Cambio automático 7G-TRONIC -Tracción integral 4x4 (3modos de bloqueo) -3 modos de conducción (eco,normal,sport) -Volante multifuncional -Levas en volante -Faros xenon led -Enganche de remolque -Techo abatible eléctrico -Sistema de sonido Harman Kardon -Parktronic 360 -Distronic(contro de crucero adaptativo) -Asiento eléctricos con memoria -Asientos calefactables y ventilables -Asientos en cuero negro perforado -Sensor de Ángulo muerto -Start-stop -Llantas aluminio 18” -100% financiable",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "211 cv",
+            "año": "2014",
+            "kilómetros": "74000 km",
+            "precio": 73490.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase G 350 Largo",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-g-350-largo-997749152",
+            "descripcion": "Vehículo en perfecto estado mantenido siempre en servicio oficial Mercedes Benz. Unidad equipada con tapicería completa de cuero negro, asientos eléctricos con memorias, calefactables y ventilados, techo solar, sistema de sonido Harman Kardon, control de velocidad adaptativo, sistema de navegación, sensores de aparcamiento con cámara, asientos traseros calefactables, detector de ángulo muerto, bola de remolque, llantas de 18'', etc. Cambio de nombre incluido en el precio.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "211 cv",
+            "año": "2015",
+            "kilómetros": "96000 km",
+            "precio": 67900.0
+        },
+        {
+            "titulo": "mercedes bend gla 220 dci 170 cv ",
+            "enlace": "https://es.wallapop.com/item/mercedes-bend-gla-220-dci-170-cv-1091370352",
+            "descripcion": "buen estado en general muchos extras todo al dia de mantenimiemto de kit aceite y filtro de caja de cambios siempre aceite motor castrol coche de uso diario",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2015",
+            "kilómetros": "165000 km",
+            "precio": 19999.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase G 2015",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-gla-220-cdi-amg-1065099833",
+            "descripcion": "Coche en perfecto estado , se puede probar, realizar cualquier prueba mecánica sin compromiso , el motivo de la venta es por exceso de vehiculos.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "170 cv",
+            "año": "2015",
+            "kilómetros": "163222 km",
+            "precio": 15990.0
+        }
+    ]
+}

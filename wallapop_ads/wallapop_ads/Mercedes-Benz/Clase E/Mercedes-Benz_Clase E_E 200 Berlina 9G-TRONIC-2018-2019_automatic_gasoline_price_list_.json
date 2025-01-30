@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase E",
+        "version": "E 200 Berlina 9G-TRONIC",
+        "año mínimo": 2018,
+        "año máximo": 2019,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 184,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=184&min_year=2018&max_year=2019&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase E&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase E 200 AMG CABRIO ",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-200-cabrio-1092691823",
+            "descripcion": "El Mercedes-Benz Clase E Cabrio E 200 - 2 P es un vehículo que deleita a quienes buscan lujo y comodidad en un formato descapotable. Pack AMG. Equipado con un motor 2.0 litros de cuatro cilindros turboalimentado, el vehículo genera una impresionante potencia de 184 CV, ofreciendo un rendimiento suave y eficiente. La transmisión automática 9G-TRONIC proporciona cambios de marcha rápidos y fluidos, contribuyendo a una experiencia de conducción excepcional. Su suspensión adaptativa y tracción trasera aseguran un viaje estable y controlado, incluso en las condiciones más exigentes. En su interior, destaca un diseño lujoso con materiales de alta calidad como cuero y detalles en madera. El sistema multimedia Mercedes-Benz User Experience (MBUX), con voz intuitiva y controles táctiles, mejora la conectividad y facilidad de uso. También incluye una instrumentación digital de alta resolución que muestra toda la información esencial de manera clara y personalizada. Uno de los puntos fuertes es su techo de lona retráctil, que puede abrirse o cerrarse en solo 20 segundos, ofreciendo versatilidad ante cambios de clima. La seguridad no se queda atrás, con múltiples asistentes de seguridad y conducción, incluyendo el sistema PRE-SAFE y frenada de emergencia. Equipamiento de Mercedes-Benz Clase E Cabrio E 200 - 2 P Techo de lona retráctil: operación rápida. Motor 2.0 turbo: rendimiento eficiente y potencia de 184 CV. Transmisión automática 9G-TRONIC: cambios suaves y rápidos. Sistema MBUX: intuitivo con control por voz y pantalla táctil. Suspensión adaptativa: ajuste de confort y manejo. Asistente de conducción: PRE-SAFE, frenada autónoma, control crucero adaptativo. Luces LED: iluminación superior y seguridad en carretera. Sistema de sonido premium: experiencia de audio envolvente. Asientos de cuero: diseño elegante y confort superior. 2 Mandos y mando para climatizar sin necesidad de estar. Mantenimiento recién hecho. ITV hasta Diciembre del 2026 Precio algo negociable",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "184 cv",
+            "año": "2019",
+            "kilómetros": "152000 km",
+            "precio": 34000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E E 200 135 kW (184 CV)",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-e-200-135-kw-184-cv-1060015444",
+            "descripcion": "Precio oferta sujeto a financiación: 25909 EUR. Precio al contado: 28500 EUR. *PAM* GRAN LIQUIDACIÓN FINAL DE AÑO EN OCASIONPLUS REVENTAMOS LOS PRECIOS SÓLO HASTA EL 28 DE DICIEMBRE OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 3981€ de descuento en este coche Precio oferta financiado: 25909€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 28500€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Paquete AMG, Car Play, Navegador, Cámara de marcha atrás, Asientos calefactables, Tapicería de piel, Asientos deportivos, Asientos eléctricos con memoria (Asiento eléctrico conductor con memoria, Asiento eléctrico copiloto con memoria), Ayuda aparcamiento, Encendido automático de faros, Faros delanteros led, Faros traseros led, Sensor de lluvia, Freno de estacionamiento eléctrico, Control de velocidad, Limitador de velocidad, Aire Acondicionado (Climatizador), Start/Stop automático, Bluetooth, Volante multifunción, Arranque por botón, Isofix, Llantas de aleación (18\"). - Coche Nacional. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "184 cv",
+            "año": "2019",
+            "kilómetros": "110407 km",
+            "precio": 25909.0
+        }
+    ]
+}

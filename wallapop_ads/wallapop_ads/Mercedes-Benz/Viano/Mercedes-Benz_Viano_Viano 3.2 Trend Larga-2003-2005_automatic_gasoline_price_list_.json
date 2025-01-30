@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Viano",
+        "version": "Viano 3.2 Trend Larga",
+        "año mínimo": 2003,
+        "año máximo": 2005,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 218,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=218&min_year=2003&max_year=2005&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Viano&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Viano 2005 v6 Marco Polo 88.000 km",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-viano-2005-v6-marco-polo-88-000-km-1088738100",
+            "descripcion": "WA: 617.111.266 Kilometraje: 87.000 km (¡muy poco uso!) Equipacion WESTFALIA de fabrica Estado: Impecable Motor: V6 3.0 litros, 190 CV gasolina. Potente, fiable y con un andar suave. Cilindrada: 2,987 cm³. Potencia máxima: 190 CV (140 kW) a 5,600 rpm. Par máximo: 270 Nm a 2,500-4,000 rpm. Transmisión: Automática ITV recién pasada en noviembre, lista para circular. Frenos a disco en las 4 ruedas, garantizan máxima seguridad. Neumáticos en excelente estado, listos para cualquier ruta. Todo funciona perfectamente: mecánica, eléctrica y sistemas de confort. Tracción: Trasera Velocidad máxima: Aproximadamente 190 km/h. Consumo promedio: Entre 10-14 L/100 km dependiendo del uso. Ancho: 1,90 m. Altura: 1,99 m (sin el techo elevado). Peso: Aproximadamente 2,320 kg (vacío). Capacidad de pasajeros: Hasta 6 personas. Capacidad de pasajeros para dormir: Hasta 4 personas Capacidad del depósito de combustible: 75 litros. Zona de descanso: Asientos traseros que se convierten en cama doble. Cama superior: Techo elevable con una cama adicional para dos personas. Cocina: Incluye una pequeña cocina con dos fogones de gas y un fregadero. Refrigerador: Integrado. Almacenamiento: Múltiples armarios y compartimentos para guardar objetos. Sistema eléctrico: Batería auxiliar para alimentar los equipos de la zona habitable. Equipamiento Destacado Climatización: Aire acondicionado delantero y trasero. Sistema de audio: Radio CD con altavoces integrados. Seguridad: ABS, ESP, y airbags frontales. Gancho de remolque Ideal para viajes largos o escapadas de fin de semana. Una camper versátil y confiable que combina el lujo y la funcionalidad de Mercedes-Benz. Ubicacion: Ontinyent, Valencia, España",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "190 cv",
+            "año": "2005",
+            "kilómetros": "88000 km",
+            "precio": 28900.0
+        }
+    ]
+}

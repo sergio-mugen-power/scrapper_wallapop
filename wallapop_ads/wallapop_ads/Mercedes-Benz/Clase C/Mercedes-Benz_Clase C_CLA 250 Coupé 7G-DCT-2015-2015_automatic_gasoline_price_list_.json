@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase C",
+        "version": "CLA 250 Coupé 7G-DCT",
+        "año mínimo": 2015,
+        "año máximo": 2015,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 211,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=211&min_year=2015&max_year=2015&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase C&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase C 2015",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-c-2015-1059637674",
+            "descripcion": "Mercedes clase C 250 AMG Gasolina (211cv) 101.000km Todas las revisiones en servicio mercedes. Carfax con km certificados y 0 siniestros. Pack Amg interior y exterior. Techo de cristal correrizo. Asientos de cuero. Todos los extras sacados de fabrica originales mercedes. Ultima revision 9/10/24 en servicio mercedes. Ruedas delanteras con 3000 km. Ultimas fotos con todos los extras que lleva. Vehiculo en funcionamiento. Vendo por poco uso.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "211 cv",
+            "año": "2015",
+            "kilómetros": "101000 km",
+            "precio": 26100.0
+        },
+        {
+            "titulo": "Mercedes-Benz C 180 7G-Tronic ",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-c-180-7g-tronic-1093750598",
+            "descripcion": "Mercedes-Benz C 180 AMG 7G-Tronic. Procedente de único propietario. Paquete AMG interior y exterior, asientos calefactables, levas en el volante,sensores de aparcamiento delantero y trasero, full led, luces automáticas, suspensión adaptativa, sonido Burmester 3D, llantas AMG de 19\", etc. Contacto: 697187032. Mercedes-Benz A45 Audi S1 S3 S4 S5 Rs3 Rs4 Rs5 Rs6. Volkswagen Golf Tcr Gti Performance R R20 R300 R 300 R310 Gtd. Mercedes-Benz A45 Amg. Bmw M1 M2 M3 M4 M5 M6 Seat Cupra Fr.Abarth Competizione Turismo. Mini JCW Cooper Works S. Porsche Cayenne Panamera Macan. Nissan 350z 370z 200sx S13 S14. Honda S2000 Vtec Type R. Infiniti G37. Toyota Gt86. Subaru Brz Sti. Ford Focus Rs St. Mustang. Chevrolet Camaro. Dodge Challenger. Hyunday I30N. Toyota Yaris Gr. Maserati. Mazda Mx5. Lancer Evo. Peugeot Gti.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "160 cv",
+            "año": "2015",
+            "kilómetros": "127000 km",
+            "precio": 19999.0
+        }
+    ]
+}

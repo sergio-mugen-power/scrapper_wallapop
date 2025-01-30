@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "GLC",
+        "version": "GLC 300 e 4MATIC Coupé",
+        "año mínimo": 2020,
+        "año máximo": 2023,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "electric-hybrid",
+        "potencia máxima": 320,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=electric-hybrid&min_horse_power=1&max_horse_power=320&min_year=2020&max_year=2023&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=GLC&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz GLC 300 e 4Matic 230 kW (313 CV)",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-glc-300-e-4matic-230-kw-313-cv-1090909264",
+            "descripcion": "Precio oferta sujeto a financiación: 52637 EUR. Precio al contado: 57900 EUR. *CAS* OCASIONPLUS - 10000 COCHES - 100 CENTROS OCASIONPLUS Nº1 CALIDAD - PRECIO Elige el coche que te guste y te lo llevamos a tu ciudad sólo con reservarlo 15 DÍAS / 1000 KMS DE PRUEBA Hasta 5263€ de descuento en este coche Precio oferta financiado: 52637€ (consulta condiciones específicas de promo - sujeta a aprobación de la entidad financiera) Precio al contado: 57900€ ADEMÁS, HACEMOS LAS MEJORES FINANCIACIONES DEL MERCADO, PREGÚNTANOS!! Equipamiento destacado: Paquete AMG, 4x4, Tapicería cuero-alcántara, Asientos eléctricos con memoria (Asiento eléctrico conductor con memoria), Navegador, Cámara de visión trasera 360, Faros delanteros led, Faros traseros led, Ayuda aparcamiento, Encendido automático de faros, Asistente de arranque en pendiente, Sensor de presión de neumáticos, Reconocimiento señales de tráfico, Start/Stop automático, Control de velocidad, Limitador de velocidad, Volante multifunción, Portón del maletero eléctrico, Aire Acondicionado (Climatizador), Arranque por botón, Bluetooth, Usb, Isofix, Freno de estacionamiento eléctrico, Llantas de aleación (19\"). - Historial Mantenimiento. - Garantía total 1 año, con cobertura nacional, ampliable a 24 meses. Garantía fabricante 04/2025 - Certificado de Kilómetros y ausencia de golpes estructurales. - Sobrevaloramos tu coche en operaciones de cambio. Tásalo ahora en ocasionplus.com - Entregamos cualquier coche en cualquier centro - Abierto Domingo y Festivos.",
+            "combustible": "Eléctrico",
+            "cambio": "Automático",
+            "potencia": "313 cv",
+            "año": "2023",
+            "kilómetros": "27614 km",
+            "precio": 52637.0
+        },
+        {
+            "titulo": "Mercedes-Benz GLC 300 de 4Matic 225 kW (306 CV)",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-glc-300-de-4matic-225-kw-306-cv-1092836813",
+            "descripcion": "Asiento del acompañante de ajuste eléctrico con función de memoria Asiento del conductor de ajuste eléctrico con función de memoria Asientos calefactados para conductor y acompañante Asistente para señales de tráfico Blanco polar Cristal calorífugo e insonorizante en puertas delanteras EXCLUSIVE Interior Iluminación de ambiente Integración de smartphone KEYLESS-GO Molduras de efecto lacado brillante negro/aluminio MULTIBEAM LED Paquete de aparcamiento con cámara de 360° Paquete de conectividad navegación Paquete de confort KEYLESS-GO Paquete de retrovisores Paquete Premium Plus Símil de cuero ARTICO/tela Grenoble negro (Exclusive) Sistema de sonido surround Burmester® Sistema inalámbrico de carga para dispositivos móviles Tablero de instrumentos y línea de cintura en las puertas en símil de cuero ARTICO Tapicería símil de cuero ARTICO/Tela Gernoble negro Techo corredizo panorámico Visualizador de medios con pantalla de 26 cm (10,25\") Visualizador del cuadro de instrumentos completamente digital AYVENS multinacional especialista en vehículos de ocasión, con de un amplio stock de más de 1200 vehículos completamente revisados y con historial de mantenimiento completo. Disponemos de un equipo con el mejor trato directo y personalizado tanto presencial como online (videollamadas, peritaciones, fotos en detalle, asesoramiento, consultas.....) Para información detallada del vehículo y sus extras consúltanos. TODOS LOS VEHICULOS SON PREVIAMENTE VERIFICADOS Y SELECCIONADOS PARA SU VENTA AL PUBLICO Y GARANTIZAR ASÍ LAS MEJORES UNIDADES DISPONIBLES. (SIN ACCIDENTES, KILOMETRAJE REAL, UN SOLO USO, MANTENIMIENTO SEGÚN ESTIPULA EL FABRICANTE, ETC). ¡CONSULTANOS LA ENTREGA GRATUITA A NIVEL NACIONAL CON NUESTRA RED DE PUNTOS COLABORADORES! ASEGURATE tu vehículo con la Opción de una pequeña reserva de 300€ garantizada (se devuelve en todos los casos sino se finaliza la compra) y te lo podemos enviar previamente para que lo veas a uno de nuestros puntos más cercanos al domicilio. 15",
+            "combustible": "Eléctrico",
+            "cambio": "Automático",
+            "potencia": "306 cv",
+            "año": "2020",
+            "kilómetros": "79620 km",
+            "precio": 41700.0
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase S",
+        "version": "S 350 BlueTEC 4MATIC L",
+        "año mínimo": 2012,
+        "año máximo": 2013,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 258,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=258&min_year=2012&max_year=2013&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase S&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase S 2013",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-s-2013-1025039575",
+            "descripcion": "Garantia 12 meses, cambio de nombre y revision pre entrega mas lavado incluido, cambio de aceite y los filtros incluido. ITV en vigor . Mas info:Whatsap:672^526^790",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "258 cv",
+            "año": "2013",
+            "kilómetros": "125000 km",
+            "precio": 35000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase S 2012",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-s-2012-1090643646",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "258 cv",
+            "año": "2012",
+            "kilómetros": "140000 km",
+            "precio": 23900.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase S 2012",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-s-2012-1091523819",
+            "descripcion": "",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "258 cv",
+            "año": "2012",
+            "kilómetros": "189000 km",
+            "precio": 22900.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase S 2012",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-s-2012-1093184409",
+            "descripcion": "Mercedes clase s cdi 200 cv con todos los estras muy cuidada por dentro y por fuera libro de revisiones 625 69 43 26",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "204 cv",
+            "año": "2012",
+            "kilómetros": "223200 km",
+            "precio": 21999.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase S 2012",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-s-2012-1049044935",
+            "descripcion": "TratoCar ofrece este vehículo recién llegado a nuestras instalaciones, *venta en estado* HISTORIAL DE REVISIONES COMPLETO EN SERVICIO OFICIAL MERCEDES-BENZ dispone de cierre centralizado, elevalunas eléctricos, climatizador, control de tracción, ABS, etc… -Venta online o presencial. -Cogemos su coche como parte del pago. -Firma de documentos y financiación online. -Entrega de Vehículos en su domicilio. -Más de 100 coches en stock. -Vehículos desde 500€. -Prueba dinámica del coche SIN compromiso. -Cambio de titularidad aparte. *Consultar información más detallada en nuestras instalaciones de más de 6000m2. C/Camino del Álamo nº5, Fuenlabrada, Madrid. Lunes-Viernes 10:00h a 14:00h y 16:30h a 20:00h. Sábados 10:30h a 14:00h.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "258 cv",
+            "año": "2012",
+            "kilómetros": "198000 km",
+            "precio": 19999.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase S 2012",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-s-2012-1087177145",
+            "descripcion": "se vende mercedes clase S en perfectas condiciones con etiqueta C, color marron oscuro. Más alta en su gama con asientos calefactables/refrigerados y masaje. camera marcha atras. sensores de luz, lluvia y aparcamiento. para más información contactar por telefono 633756933",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "258 cv",
+            "año": "2012",
+            "kilómetros": "240991 km",
+            "precio": 16200.0
+        }
+    ]
+}

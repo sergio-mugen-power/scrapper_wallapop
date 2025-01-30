@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase E",
+        "version": "E 200 CDI Familiar Aut.",
+        "año mínimo": 2007,
+        "año máximo": 2008,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 136,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=136&min_year=2007&max_year=2008&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase E&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase E 2007",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2007-1087644173",
+            "descripcion": "2 propietarios de particular viajando desde Alemania, mecanica y Itv en vigor. Muy buen estado con el mejor motor de Mercedes OM",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2007",
+            "kilómetros": "234000 km",
+            "precio": 7700.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E 2008",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2008-847662420",
+            "descripcion": "coche con matriculación española, Mercedes E200 Kompressor, en excelente estado, en muy buen estado. Pintura e interior perfectos, llantas nuevas. - Pinzas y discos nuevos. - Aceite y filtros cambiados. No respondo ofertas absurdas, el auto está muy cuidado! Mercedes-Benz Clase E sedán . Berlina Mercedes-Benz Clase E en Pravia, nueva ITV 12.25. El motor más confiable es el 646, modelo 2008 rediseñado, todas las modificaciones al W211 se hicieron a diferencia de los nuevos modelos, esta es la mejor opción y la más confiable.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2008",
+            "kilómetros": "240000 km",
+            "precio": 7000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E 2008",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2008-1089564359",
+            "descripcion": "el cohe esta perfecto",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2008",
+            "kilómetros": "225752 km",
+            "precio": 5500.0
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase V",
+        "version": "V 220 CDI Aut.",
+        "año mínimo": 1999,
+        "año máximo": 2003,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 122,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=122&min_year=1999&max_year=2003&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase V&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase V 2003 minusvalido",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-v-2003-1074693988",
+            "descripcion": "Se vende mercedes clase v220cdi automática con adaptación de minusvalía tanto para conducir personas de movilidad reducida como uso de pasajeros con rampa motorizada con mando a distancia, mantenimientos recién hecho,ruedas,ITV etc etc,mejor ver y probar,más información consultar gracias,la rampa es motorizada y lleva suspensión neumática para más comodidad",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "122 cv",
+            "año": "2003",
+            "kilómetros": "155000 km",
+            "precio": 15995.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase V 1999",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-v-1999-1091425296",
+            "descripcion": "Se vende Mercedes V 220 Cdi. 122 cv, año 1999 diesel. Vehículo Mixto.Vehiculo nacional, ningún oxido, motor impecable,cierre centralizado Tiene climatizador. Placa solar 200w con regulador victron y toldo metido en ficha técnica. Asiento giratorio copiloto , Instalación eléctrica 12 v con doble batería (AGM) y convertidor, varias tomas USB y 12v. Mueble cama con colchón plegable de 120 x 190 con cajones y fregadero con 10 litros agua limpia y 10 sucia y con nevera de compresor 12v. En el mueble cama hay un deposito de 70 litros con instalación de ducha exterior con bomba de 12V. Los muebles son desmontables. No se necesitan homologar. Ducha solar 24 litros instalada en el techo. Al día en mantenimiento. Caja de cambios reparada y con mantenimiento hace 1000 km, inyectores hechos, turbo, calentadores, alternador, amortiguadores traseros, radiador, bomba hidraulica y motor de arranque y frenada cambiados nuevos.Furgoneta para disfrutar por mucho tiempo",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "122 cv",
+            "año": "1999",
+            "kilómetros": "299000 km",
+            "precio": 10000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase V220 cdi ",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-v220-cdi-1087832900",
+            "descripcion": "¡Vendo Mercedes V220 CDI del año 2000 en excelente estado! Se trata de una furgoneta full equipada, perfecta tanto para viajes largos como para el día a día: • Motor fiable y en perfecto funcionamiento. • Seis asientos independientes de cuero, todos en impecables condiciones. • Equipamiento premium: GPS, control de crucero. • Cubiertas al 80% de vida útil. • ITV pasada el 2 de enero de 2025. • Sin golpes ni problemas mecánicos: todo funciona perfectamente. La tapicería está como nueva, y es una furgoneta a toda prueba. Ideal para quien busca comodidad, calidad y confianza. Precio: 9.900 € ¡No dejes pasar esta oportunidad! Si te interesa, contáctame para más información o para verla en persona.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "122 cv",
+            "año": "2000",
+            "kilómetros": "225500 km",
+            "precio": 9900.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase V 1999",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-vito-1999-1084955519",
+            "descripcion": "Mercedes Benz V220 1999 Vito Furgoneta transporte pasajeros(con asientos originales) convertida en camper. Itv recien pasada, anual , Hasta diciembre 2025. Mecanica perfecta, todo reparado.Viajan dos, duermen dos Ruedas nuevas Nevera de compresor Mobicool Fr40 Placa solar con segunda batería Oscurecedores termicos Water portatil nuevo Cama 120x180 Ducha portable 10l que se calienta con luz solar sin extrenar. Completamente Moquetada Cambios Automaticos 238000 kilometros Verde Camper, Vito, Transporter, California",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "122 cv",
+            "año": "1999",
+            "kilómetros": "238000 km",
+            "precio": 6500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase V 2002",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-v-2001-1063596614",
+            "descripcion": "En muy buenas condiciones itv recién pasada todo le funciona tiene un embargo de ahí su precio pero se puede transferir sin problema",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "122 cv",
+            "año": "2002",
+            "kilómetros": "295000 km",
+            "precio": 5500.0
+        }
+    ]
+}

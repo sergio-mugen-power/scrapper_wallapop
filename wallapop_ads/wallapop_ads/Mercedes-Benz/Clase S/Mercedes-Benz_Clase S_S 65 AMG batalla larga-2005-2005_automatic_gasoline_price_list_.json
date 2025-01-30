@@ -1,0 +1,69 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase S",
+        "version": "S 65 AMG batalla larga",
+        "año mínimo": 2005,
+        "año máximo": 2005,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 612,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=612&min_year=2005&max_year=2005&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase S&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase S 500 Largo",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-s-500-largo-1057312976",
+            "descripcion": "Impresionante Mercedes S 500 Largo. 388 c.v con etiqueta medioambiental B. Magnifica berlita tipo Limusine de maximo confort. Chasis largo para mayor amplitud en plazas traseras. Coche muy cuidado y con libro de revisiones. Full equipe total. Cuero. Xenon. Cambio automatico. Asientos electricos delanteros y traseros. Asientos ventilados y calefactados. Sensor de luces. Apertura sin llave. Vision nocturna. Aviso anticolision por alcance. Techo. Ajuste de puertas automatico. Sensor de aparcamiento del. y tras. Navegador. Cortinilla electrica. Volante calefactado. Clima bizona Airbags. ABS.... 12 meses de garantia incluidos en el precio. Gastos de transferencia a parte,solo 175 Euros. Posibilidad de financiacion. majadahondamotor.es",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "388 cv",
+            "año": "2005",
+            "kilómetros": "190000 km",
+            "precio": 12950.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase S 2005",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-s-2005-1048350140",
+            "descripcion": "se vende mercedes clase S,en perfecto estado de motor, chapa e interiores,es el 350 gasolina con facturas del mantenimiento de este año en casa oficial mercedes de 3090€ demostrable. se entrega revisado i todo en perfecto estado.el motivo de la venta es por usar solo fin de semana. no negociable 10.000€ 664155881 acepto cambio solo cambio por furgoneta i para cambios el precio sube",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "272 cv",
+            "año": "2005",
+            "kilómetros": "171000 km",
+            "precio": 10000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase S 2005",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-s-2005-1094371755",
+            "descripcion": "Vehiculo nacional en perfecto estado como se puede apreciar en las inagenes.Siempre en garaje y perfectamente mantenido.Todo le funciona.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "245 cv",
+            "año": "2005",
+            "kilómetros": "278000 km",
+            "precio": 8900.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase S500  100.mil Kms",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-s-2004-1062198701",
+            "descripcion": "itv vigente , neumticos nuevos , en perfecto estado , pegatina ambiental B . 100.000 kms reales . reviciones al dia . Acepto vehiculo como parte de pago",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "306 cv",
+            "año": "2005",
+            "kilómetros": "100000 km",
+            "precio": 7900.0
+        }
+    ]
+}

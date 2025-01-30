@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase E",
+        "version": "E 350 Cabrio",
+        "año mínimo": 2021,
+        "año máximo": 2023,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "electric-hybrid",
+        "potencia máxima": 299,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=electric-hybrid&min_horse_power=1&max_horse_power=299&min_year=2021&max_year=2023&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase E&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase E300de 2021",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e300de-2021-1090599320",
+            "descripcion": "Vehículo híbrido enchufable (diésel + eléctrico) en muy buen estado con: Android Auto Apple Carplay Cámara de marcha atrás Asistente de ángulo muerto Asistente de estacionamiento (Parking Pilot) Espejos interiores y exteriores con atenuación automática Asistente de frenado activo Radio premium con sistema de sonido Bose Antena GPS Airbag para las rodillas del conductor Sistema PRE-SAFE con pretensores de cinturón de seguridad Portavasos Paquete de almacenamiento Sistema de llamada de emergencia Mercedes-Benz Información tráfico en tiempo real Cambio automático 9G-TRONIC Espejo retrovisor interior antideslumbrante automático con luz de cortesía Asistente de señales de tráfico Radio DAB Asientos delanteros con ajuste eléctrico Asientos delanteros calefactables Enganche de remolque Aire acondicionado Color exterior: azul náutico Control automático de luces largas Llantas de aleación de 18 pulgadas y de 6 radios Barras de techo de aluminio pulido Acabado interior en negro brillante con madera de fresno Moldura de textura lineal de aluminio MBUX Interior Assist Cristales traseros tintados Sistema de lavado del parabrisas con calefacción Portón trasero EASY-PACK Iluminación ambiental con 64 colores y 3 zonas de color Sistema de carga inalámbrica para dispositivos móviles Sistema de retención infantil i-Size Depósito de combustible de 66l Luz de freno adaptativa intermitente Protección para peatones con capó activo Ordenador de a bordo Sistema de navegación por satélite Faros LED Luces diurnas Luz de carretera asistida Cierre centralizado de puertas sin llave Portón trasero eléctrico Sistema de control de la presión de los neumáticos Volante de cuero multifuncional con levas de cambio GARANTÍA DE 12 MESES Posibilidad de financiar el 100% hasta 120 meses Recogemos su vehículo como parte de pago Cambio de nombre incluido en el precio Este anuncio no es vinculante, se muestra a titulo informativo Atendemos con cita previa Posibilidad de entrega en cualquier parte de España",
+            "combustible": "Eléctrico",
+            "cambio": "Automático",
+            "potencia": "194 cv",
+            "año": "2021",
+            "kilómetros": "106350 km",
+            "precio": 35990.0
+        }
+    ]
+}

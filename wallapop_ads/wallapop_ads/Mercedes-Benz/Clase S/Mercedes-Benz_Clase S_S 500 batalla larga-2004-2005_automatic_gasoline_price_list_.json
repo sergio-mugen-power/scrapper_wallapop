@@ -1,0 +1,80 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase S",
+        "version": "S 500 batalla larga",
+        "año mínimo": 2004,
+        "año máximo": 2005,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 306,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=306&min_year=2004&max_year=2005&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase S&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase S 2005",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-s-2005-1048350140",
+            "descripcion": "se vende mercedes clase S,en perfecto estado de motor, chapa e interiores,es el 350 gasolina con facturas del mantenimiento de este año en casa oficial mercedes de 3090€ demostrable. se entrega revisado i todo en perfecto estado.el motivo de la venta es por usar solo fin de semana. no negociable 10.000€ 664155881 acepto cambio solo cambio por furgoneta i para cambios el precio sube",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "272 cv",
+            "año": "2005",
+            "kilómetros": "171000 km",
+            "precio": 10000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase S 2005",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-s-2005-1094371755",
+            "descripcion": "Vehiculo nacional en perfecto estado como se puede apreciar en las inagenes.Siempre en garaje y perfectamente mantenido.Todo le funciona.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "245 cv",
+            "año": "2005",
+            "kilómetros": "278000 km",
+            "precio": 8900.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase S500  100.mil Kms",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-s-2004-1062198701",
+            "descripcion": "itv vigente , neumticos nuevos , en perfecto estado , pegatina ambiental B . 100.000 kms reales . reviciones al dia . Acepto vehiculo como parte de pago",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "306 cv",
+            "año": "2005",
+            "kilómetros": "100000 km",
+            "precio": 7900.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase S 2004",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-s-2004-1089613086",
+            "descripcion": "mercedes clase s 2004 el coche de mecanica esta perfecto se le ha hecho de todo para poder disfrutarlo. tiene toda la suspensión airmatic nueva los 4 amortiguadores y balonas nuevas (no reconstruidos, no de desguace) y compresor nuevo todo marca Arnott hechos en USA, si sabes de estos coches entenderás lo importante que es tener suspensión nueva ya hecha, frenos y discos nuevos, juntas, bujías, cables nuevos, entre otras cosas que le he hecho todo con facturas demostrable. no pierde aceite por ninguna parte!!! motor V8 306cv lo vendo por salida del país y no tener con quien dejarlo si no lo vendo antes del 18 de febrero o consigo a quien se haga cargo por una temporada lo des publico puesto que no quiero venderlo!!",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "306 cv",
+            "año": "2004",
+            "kilómetros": "235000 km",
+            "precio": 6000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase S 2004",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-s-2004-1093904326",
+            "descripcion": "Mercedes-Benz Año 2004 Classe S 500 306cv Gasolina/Automatico 194.800km Techo solar Luces Xenon Full Equip Asientos de piel calefactables y automaticos delanteros y traseros Itv hasta junio 2025 Cambio de nombre a cargo del comprador Llamadas y wats 646885605",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "306 cv",
+            "año": "2004",
+            "kilómetros": "194800 km",
+            "precio": 3800.0
+        }
+    ]
+}

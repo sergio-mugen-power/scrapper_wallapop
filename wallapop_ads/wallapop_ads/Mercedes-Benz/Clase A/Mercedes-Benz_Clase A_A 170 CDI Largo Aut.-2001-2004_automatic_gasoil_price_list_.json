@@ -33,6 +33,17 @@
             "precio": 3950.0
         },
         {
+            "titulo": "Mercedes-Benz Clase A 2003",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2003-1095123272",
+            "descripcion": "Se vende Mercedes clase A automático , ideal para la ciudad y viajes cortos. Consume muy poco. Tiene sus años pero el motor intacto de mercedes diesel. Cambio automático. Precio no negociable en",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "95 cv",
+            "año": "2003",
+            "kilómetros": "185000 km",
+            "precio": 2350.0
+        },
+        {
             "titulo": "Mercedes-Benz Clase A 2001",
             "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2001-1094638604",
             "descripcion": "En perfecto estado ITV recién pasada.",
@@ -75,17 +86,6 @@
             "año": "2002",
             "kilómetros": "232000 km",
             "precio": 900.0
-        },
-        {
-            "titulo": "Mercedes-Benz Clase A 2002",
-            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-a-2002-1089251031",
-            "descripcion": "El coche, tiene problema con el cambio (placa electrónica), por lo demàs todo ésta intacto. Sin accesorio porta esquí y barra de techo. La bola de remolque si. Es negociable!",
-            "combustible": "Diésel",
-            "cambio": "Automático",
-            "potencia": "95 cv",
-            "año": "2002",
-            "kilómetros": "295000 km",
-            "precio": 400.0
         }
     ]
 }

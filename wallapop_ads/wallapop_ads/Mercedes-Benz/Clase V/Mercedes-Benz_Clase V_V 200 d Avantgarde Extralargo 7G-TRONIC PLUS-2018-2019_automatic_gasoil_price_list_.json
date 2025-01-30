@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase V",
+        "version": "V 200 d Avantgarde Extralargo 7G-TRONIC PLUS",
+        "año mínimo": 2018,
+        "año máximo": 2019,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 136,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=136&min_year=2018&max_year=2019&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase V&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase V 2018",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-v-2018-1089092721",
+            "descripcion": "Mercedes clase V 200 D Largo AVANTGARDE 08/2018 91.000km Monovolumen 136cv 7 plazas Vehículo nacional en perfecto estado tanto exterior como interior, se acepta prueba mecánica por profesional. Cambio automático 7 G TRONIC PLUS Paquete deportivo Exterior Portones laterales a ambos lados Sensor de lluvia y luces Sistema de luces inteligentes LED Volante multifunción con ordenador de viaje Ayuda para arrancar en pendientes audio 20 USB Estabilizador de viento lateral Asistente de aparcamiento activo Avisador de distancia, de aparcamiento activo Aire acondicionado TEMPMATIK Asistente de atención Función de arranque y paro eco TEMPOMAT Cama doble Oscurecedores para ventanas Etc…",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "136 cv",
+            "año": "2018",
+            "kilómetros": "91000 km",
+            "precio": 39900.0
+        }
+    ]
+}

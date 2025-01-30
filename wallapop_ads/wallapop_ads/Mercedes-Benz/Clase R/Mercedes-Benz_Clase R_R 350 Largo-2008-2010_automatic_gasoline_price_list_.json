@@ -1,0 +1,58 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase R",
+        "version": "R 350 Largo",
+        "año mínimo": 2008,
+        "año máximo": 2010,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 272,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=272&min_year=2008&max_year=2010&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase R&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase R 2010",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-r-2010-1093078042",
+            "descripcion": "En perfeco estado. Un solo propietario Vehiculo nacional, 5 plazas EXTRAS: Techo solar Asientos de cuero Navegador Cortina maletero Rueda de recambio Bola de remolque desmontable Asientos electricos Mercedes-Benz Clase R Monovolumen en Granollers",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "272 cv",
+            "año": "2010",
+            "kilómetros": "161060 km",
+            "precio": 10600.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase R 2008",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-r-2008-1079399432",
+            "descripcion": "Coche muy cuidado, está en buen estado. Siempre en garaje. Un coche amplio con 7 plazas reales. Uno coche familiar muy divertido. ITV en vigor hasta Enero 2026.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "272 cv",
+            "año": "2008",
+            "kilómetros": "170000 km",
+            "precio": 9500.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase R 2009, gasolina Etiq C , IVA ",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-r-2009-gasolina-etiq-c-iva-1048069008",
+            "descripcion": "mercedes R miy cuidado , asientos alcantara y piel configuracion 2/2/2, bola de remolque desmontable , factura con IVA , techo solar , suspension neumatica , a toda prueba mecanica ,",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "272 cv",
+            "año": "2009",
+            "kilómetros": "274000 km",
+            "precio": 9000.0
+        }
+    ]
+}

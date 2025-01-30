@@ -1,0 +1,102 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase E",
+        "version": "E 280 Estate Aut.",
+        "año mínimo": 2008,
+        "año máximo": 2009,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 231,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=231&min_year=2008&max_year=2009&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase E&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase E 2009",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2009-1018333648",
+            "descripcion": "Muy bien cuidado solo 70000kms acepto cambios.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "204 cv",
+            "año": "2009",
+            "kilómetros": "70000 km",
+            "precio": 21000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E 2009",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2009-988464193",
+            "descripcion": "Muy buen estado",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "204 cv",
+            "año": "2009",
+            "kilómetros": "153000 km",
+            "precio": 17900.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E 2009",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2009-1080276453",
+            "descripcion": "Vendo o cambio por 4x4",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "204 cv",
+            "año": "2009",
+            "kilómetros": "246000 km",
+            "precio": 11000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E ",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-1084649904",
+            "descripcion": "Berlina de 4 puertas y 231 CV. Tracción a las 4 ruedas con cambio automático 4MATIC. Revisiones pasadas en la casa oficial. Etiqueta C. Es la versión Elegance, con equipamiento completo: Asientos de ajuste eléctrico y lumbar Sensor de parking delantero y trasero Control de crucero y limitador Faros bi-xenon automáticos Conexión del teléfono móvil por bluetooth Climatizador bizona Espejos eléctricos antideslumbramiento y calefactables de apertura y cierre automáticos Control de presión de inflado de las ruedas Reposacabezas abatibles electrónicamente Apertura automática del maletero Botiquín de primeros auxilios y extintor apagafuegos... Neumáticos delanteros de invierno y traseros recién cambiados. Es un coche fiable ideal para disfrutar de una conducción cómoda y segura, tanto en viajes largos como en trayectos cortos. Muy estable y silencioso. Mejor ver y probar, muy pocas unidades en este estado.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "231 cv",
+            "año": "2008",
+            "kilómetros": "165000 km",
+            "precio": 10900.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E 2009",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2009-1071457045",
+            "descripcion": "mercedes clase E 220 model 2009 importado nederland en muy buen estado",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "164 cv",
+            "año": "2009",
+            "kilómetros": "260000 km",
+            "precio": 7400.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E 2008",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2008-1033303368",
+            "descripcion": "automatico, todas revision hechas casa mercedes. asientos de piel alta calidad, itv al dia, etiqueta C",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "135 cv",
+            "año": "2008",
+            "kilómetros": "143571 km",
+            "precio": 7000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase E230 2008",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-2008-1095041131",
+            "descripcion": "",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "204 cv",
+            "año": "2008",
+            "kilómetros": "220000 km",
+            "precio": 6999.0
+        }
+    ]
+}

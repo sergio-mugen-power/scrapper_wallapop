@@ -1,0 +1,47 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "GLE",
+        "version": "GLE 400 d 4MATIC Coupé",
+        "año mínimo": 2020,
+        "año máximo": 2023,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 330,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=330&min_year=2020&max_year=2023&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=GLE&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz GLE 300 d 4Matic 180 kW (245 CV)",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-gle-300-d-4matic-180-kw-245-cv-1069078677",
+            "descripcion": "OFERTÓN!!!! FINANCIACIÓN desde el 4´99%!!!! La mejor del mercado. Para visitar este vehículo es imprescindible pedir cita. OCASIÓN DIMASU!!! ESPECTACULAR GLE 300d Pack AMG, NACIONAL, revisiones en Mercedes, PERFECTO ESTADO. Bola de remolque eléctrica, TECHO SOLAR, maletero eléctrico, SONIDO BURMESTER, tapicería de cuero, ASIENTOS ELÉCTRICOS CON MEMORIA Y CALEFACTADOS, sistema de navegación, CAR PLAY/ANDROID AUTO, lunas tintadas, CÁMARA DE APARCAMIENTO 360º Y MUCHO MÁS!!! 12 MESES DE GARANTÍA en cualquier taller de España. DAMOS LA POSIBILIDAD DE RESERVAR AL INSTANTE CUALQUIERA DE NUESTROS VEHÍCULOS SIN NECESIDAD DE HABERLO VISTO FÍSICAMENTE. Gastos de transferencia y gestoría no incluidos (395€). DISPONEMOS DE MÁS DE 300 VEHÍCULOS EN STOCK. Se acepta todo tipo de vehículos como parte de pago. FINANCIAMOS HASTA EL 100% DE LA COMPRA. --Carlos Rodríguez--Este anuncio tiene carácter informativo y carece de carácter contractual. 2 Tiendas en Madrid Majadahonda – Carretera del Plantío, n.º:43 Las Rozas De Madrid – Calle Del Cabo Rufino Lázaro, n.º: 12 (Polígono Európolis)",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "245 cv",
+            "año": "2020",
+            "kilómetros": "128000 km",
+            "precio": 47990.0
+        },
+        {
+            "titulo": "Mercedes-Benz GLE 300 d 4Matic 180 kW (245 CV)",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-gle-300-d-4matic-180-kw-245-cv-1064691163",
+            "descripcion": "NACIONAL 245CV AÑO 2020, REVISIONES EN MERCEDES, SE ACEPTA REVISARLO EN MERCEDES, CERTIFICAMOS KILÓMETROS. UN AÑO DE GARANTÍA INCLUIDO. PRECIO FINANCIANDO A CONSULTAR PRECIO AL CONTADO 43.990€ ACABADO AMG INTERIOR/EXTERIOR TRACCION 4X4 ASIENTOS DEPORTIVOS DE CUERO/ALCANTARA TECHO SOLAR PANORAMICO FAROS LED MULTIBEAM DISTRONIC ASIENTOS CALEFACTABLES APPLE CARPLAY/ANDROID AUTO ESTRIBERAS DE ALUMINIO CÁMARAS 360º APARCAMIENTO ASISTIDO (APARCA SOLO) PARKTRONIC DELANTERO/TRASERO ASIENTOS ELÉCTRICOS CON MEMORIA COLUMNA DE DIRECCION ELECTRICA VOLANTE CALEFACTABLE LLANTA 20 AMG NAVEGADOR CON PANTALLA TACTIL PORTÓN ELÉCTRICO SENSOR ÁNGULO MUERTO LARGAS AUTOMATICAS CARGADOR INALAMBRICO ASISTENTE DE COLISION POR ALCANCE ASISTENTE DE CAMBIO DE CARRIL VOLANTE DEPORTIVO DE CUERO CON LEVAS CONTROL POR VOZ BLUETOOTH/AUDIO PAQUETE ILUMINACION MODOS DE CONDUCCIÓN ESPEJOS ABATIBLES ANTIDESLUMBRAMIENTO CRISTALES TRASEROS OSCURECIDOS ORIGINALES PAQUETE PREMIUM MÁS FOTOS EN WWW.BETAMOTORCARS.COM SE ACEPTA COCHE COMO PARTE DE PAGO Y GESTIONAMOS SU FINANCIACIÓN CAMBIO DE TITULAR 190€ ESTE ANUNCIO NO ES VINCULANTE, PUEDE CONTENER ERRORES.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "245 cv",
+            "año": "2020",
+            "kilómetros": "191000 km",
+            "precio": 43990.0
+        }
+    ]
+}

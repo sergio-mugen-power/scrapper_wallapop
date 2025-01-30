@@ -1,0 +1,69 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase G",
+        "version": "AMG GLE 63 4MATIC Coupé",
+        "año mínimo": 2018,
+        "año máximo": 2019,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoline",
+        "potencia máxima": 557,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoline&min_horse_power=1&max_horse_power=557&min_year=2018&max_year=2019&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase G&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase G 2019",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-g-2019-1045032127",
+            "descripcion": "vehiculo nacional, mantenido siempre en Mercedes",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "422 cv",
+            "año": "2019",
+            "kilómetros": "43000 km",
+            "precio": 129000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase G 2019",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-g-500-del-2019-1058992034",
+            "descripcion": "acabado Amg con todos los extras, coche nacional, revisiones en mercedes, con 3 juegos de neumaticos y llantas, de tierra, nieve y carretera",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "422 cv",
+            "año": "2019",
+            "kilómetros": "84000 km",
+            "precio": 128000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase G 2019",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-g-2019-1062558524",
+            "descripcion": "mercedes G 500 en perfecto estado. unico propietario, todas las revisiones en mercedes Gazpi (concesionario oficial Pamplona) 120.000km. nacional. IVA deducible. mejor ver. precio no negociable. 125.000€ precio iva incluido.",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "422 cv",
+            "año": "2019",
+            "kilómetros": "120000 km",
+            "precio": 116000.0
+        },
+        {
+            "titulo": "Mercedes-Benz Clase G 2019",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-g-2019-1037616631",
+            "descripcion": "Se vende precioso Mercedes Benz G 500 con todas las revisiones pasadas en la casa oficial y muy bien equipado; lleva equipo de sonido sorround Burmester, techo solar, ayuda a la conducción, receptor de radio digital DAB, cristales tintados, enganche de remolque, tapizado en cuero, paquete-aparcamiento con sensores de parking delanteros, traseros y cámara 360º. Se entrega con la ultima revisión de mantenimiento (2024) realizada, garantía de 12 meses con cobertura Europea y el cambio de nombre incluido. El coche se encuentra en Ibiza",
+            "combustible": "Gasolina",
+            "cambio": "Automático",
+            "potencia": "422 cv",
+            "año": "2019",
+            "kilómetros": "105000 km",
+            "precio": 115000.0
+        }
+    ]
+}

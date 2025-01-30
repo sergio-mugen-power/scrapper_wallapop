@@ -1,0 +1,36 @@
+{
+    "búsqueda": {
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase E",
+        "version": "E 200 d Berlina",
+        "año mínimo": 2021,
+        "año máximo": 2021,
+        "km mínimo": 2007,
+        "km máximo": 300000,
+        "precio mínimo": 1,
+        "precio máximo": 9000000,
+        "ubicación": {
+            "latitud": 40.578494,
+            "longitud": -3.892771
+        },
+        "tipos de cambio": "automatic",
+        "tipos de motor": "gasoil",
+        "potencia máxima": 160,
+        "potencia mínima": 1,
+        "categoría": "otros, furgoneta, 4X4, mini furgoneta, coche pequeño, coupé cabrio, sedán, coche familiar",
+        "url": "https://es.wallapop.com/app/search?engine=gasoil&min_horse_power=1&max_horse_power=160&min_year=2021&max_year=2021&min_km=2007&max_km=300000&min_sale_price=1&max_sale_price=9000000&gearbox=automatic&brand=Mercedes-Benz&model=Clase E&filters_source=default_filters&keywords=&category_ids=100&longitude=-3.892771&latitude=40.578494&order_by=price_high_to_low"
+    },
+    "anuncios": [
+        {
+            "titulo": "Mercedes-Benz Clase E 200d 160cv Aut.",
+            "enlace": "https://es.wallapop.com/item/mercedes-benz-clase-e-200d-160cv-aut-1082387206",
+            "descripcion": "Vehículo de Noviembre del 2020 para entrega inmediata, en perfecto estado. Aceptamos revisión en Mercedes. Kilómetros reales certificados. FINANCIACIÓN A SU MEDIDA. Realizamos envíos a todos los puntos de España (consultar tarifa). Aceptamos vehículo como parte de pago. No importa estado. Máximo 7 años y 150.000 km. Equipamiento destacable: - Motor 2.0 Diésel de 160cv. - Cambio automático de 9 velocidades. - Faros MULTIBEAM LED adaptativos. - Asistente luces de carretera. - Sensor de luces y sensor de lluvia. - Control de crucero y limitador de velocidad. - Sensores de aparcamiento 360º y cámara visión 360º. - Pantalla táctil y cuadro de instrumentos digital de 10,25\". - Sistema de sonido Surround Burnmester. - Climatizador Bi-zona Thermatic. - Asientos con tapicería mixta de cuero y tela con ajuste manual. - Asientos delanteros calefactables. - Retrovisores regulables, calefactables y plegables eléctricamente. - Manejo por voz. - Arranque sin llave. - Modos de conducción: Dynamic Select. - Entradas USB y 12v. - Integración Smartphone: Apple Carplay & Android Auto. - Cargador inalámbrico para móviles. - Volante de cuero multifunción con levas y achatado en la parte inferior. - Cuadro de instrumentos digital de 10,25\". - Asistente ángulo muerto. - Asistente de fatiga. - Asistente de pre-colisión. - Asistente de arranque en cuesta. - Umbrales de las puertas iluminados. - Iluminación interior ambiente de 64 colores. - Kit reparapinchazos. - Llantas de 5 radios dobles en 17\" con neumáticos 225/55R17. La información del anuncio no es a título contractual y puede contener errores. Exposición: Calle Narcís Monturiol, 20 Vilassar de Dalt · 08339 · Barcelona Horario de Exposición: - De lunes a viernes: De 09:00 h a 13:00 h y de 15:00 h a 19:00 h. - Sábados: De 09:00 h a 13:00 h.",
+            "combustible": "Diésel",
+            "cambio": "Automático",
+            "potencia": "160 cv",
+            "año": "2021",
+            "kilómetros": "55000 km",
+            "precio": 32990.0
+        }
+    ]
+}
